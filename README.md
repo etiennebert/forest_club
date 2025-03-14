@@ -30,39 +30,40 @@ The current files provides an overview. The detailed execution of the worklow is
 
 ## Repository Structure
 
-.  
-├── 1. Data  
-│   ├── 1. HILDA data  
-│   │   ├── 1. Extracting_ntcdf_data  
-│   │   ├── 2. Aggregating_data  
-│   │   └── 3. Split_AEZ  
-│   ├── 2. FAO data  
+├── 1. Data
+│   ├── 1. HILDA data
+│   │   ├── 1. Extracting_ntcdf_data
+│   │   ├── 2. Aggregating_data
+│   │   └── 3. Split_AEZ
+│   ├── 2. FAO data
 │   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)
-        ├── 3. GTAPAEZ_Deforestation_coefficient  
+│   ├── 3. GTAPAEZ_Deforestation_coefficient
 │   │   └── 1. GTAPAEZ_Data
-│   └── 4. Suitability  
+│   └── 4. Suitability
 │
-├── 2. MRIO  
-│   ├── GLORIA  
-│   │   ├── commodity  
-│   │   ├── output  
-│   │   │    ├── CBA  
-│   │   │    └── TBA 
-│		├── output 
-│		└── (additional files)  
+│   ├── 2. MRIO
+│
+│   ├── GLORIA
+│   │   ├── commodity
+│   │   ├── output
+│   │   │   ├── CBA
+│   │   │   └── TBA
+│   │   └── (additional files)
+│
 │   └── visualizations
-│		└── (additional files)  
-├── 3. CGE  
-│   └── Game_Theory_2024 
-│	    ├── 0_External_data 
-│	    ├── 1_Code
-│	    ├── B_GLORIA_Satellite_data.yxmd  
-│	    ├── 3_Output
-│	    ├── DB_GTAPAEZ_all.yxmd  
-│	    ├── DB_GTAPAEZ_aggregate.yxmd  
+│       └── (additional files)
+│
+├── 3. CGE
+│   └── Game_Theory_2024
+│       ├── 0_External_data
+│       ├── 1_Code
+│       ├── B_GLORIA_Satellite_data.yxmd
+│       ├── 3_Output
+│       ├── DB_GTAPAEZ_all.yxmd
+│       ├── DB_GTAPAEZ_aggregate.yxmd
 │       └── (experiment files, .prm parameter files, etc.)
+│
 └── README.md  <-- You are here!
-
 
 
 
