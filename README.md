@@ -47,8 +47,8 @@ The aim of this README is to navigate the folder structure, replicate the analys
 │   │   ├── output  
 │   │   │    ├── CBA  
 │   │   │    └── TBA 
-│	│	├── output 
-│	│	└── (additional files)  
+│		├── output 
+│		└── (additional files)  
 │   └── visualizations
 │		└── (additional files)  
 ├── 3. CGE  
@@ -62,13 +62,6 @@ The aim of this README is to navigate the folder structure, replicate the analys
 │       └── (experiment files, .prm parameter files, etc.)
 └── README.md  <-- You are here!
 
-
-├── 5. Tariff_SIM  
-│   └── (experiment files, .prm parameter files, etc.)  
-├── output  
-│   ├── DB_GTAPAEZ_all_results_2024.csv  
-│   ├── Deforestation_Transiting_EU27_2012-2019.xlsx  
-│   └── (additional outputs)  
 
 
 
