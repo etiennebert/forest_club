@@ -1,0 +1,778 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`ARG$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`ARG$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="474" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`BOL$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BOL$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="306" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="390" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="cHARVSTAREA" />
+            <Field field="Country" />
+          </KeyFields>
+          <DataFields>
+            <Field field="cHARVSTAREA" selected="False" />
+            <Field field="1 pdr" selected="True" />
+            <Field field="2 wht" selected="True" />
+            <Field field="3 gro" selected="True" />
+            <Field field="4 v_f" selected="True" />
+            <Field field="5 osd" selected="True" />
+            <Field field="6 c_b" selected="True" />
+            <Field field="7 pfb" selected="True" />
+            <Field field="8 ocr" selected="True" />
+            <Field field="Country" selected="False" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="462" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>cHARVSTAREA</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>
+          </RootName>
+          <Delimeters value=" " />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="582" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Country" selected="True" />
+            <SelectField field="cHARVSTAREA" selected="False" />
+            <SelectField field="2" selected="True" rename="AEZ" />
+            <SelectField field="Name" selected="True" />
+            <SelectField field="Value" selected="True" />
+            <SelectField field="1" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="666" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Name</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>Name</RootName>
+          <Delimeters value=" " />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="750" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Country" selected="True" />
+            <SelectField field="AEZ" selected="True" />
+            <SelectField field="Name2" selected="True" rename="Sector" />
+            <SelectField field="Name" selected="False" />
+            <SelectField field="Value" selected="True" />
+            <SelectField field="Name1" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="858" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&gt;</Operator>
+            <Field>Value</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2025-02-04 22:26:36</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>0</Operand>
+              <StartDate>2025-02-04 22:26:36</StartDate>
+              <EndDate>2025-02-04 22:26:36</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Value] &gt; 0</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="618" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`BRA$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`BRA$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`COL$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`COL$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`GHA$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`GHA$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`CIV$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`CIV$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx
+Query=`PAR$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="cHARVSTAREA" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="V_String" />
+            <Field name="1 pdr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="2 wht" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="3 gro" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="4 v_f" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="5 osd" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="6 c_b" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="7 pfb" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="8 ocr" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="Double" />
+            <Field name="Country" size="255" source="File: C:\runGTAP375\Game_theory_2024\5_Visualisation\QOE_Eq_cHARVSTAREA_Detailed_Results.xlsx|||`PAR$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="462" y="474" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Suitabilty_Average_Producer_AEZ.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="COUNTRY" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="ISO" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="AEZ" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Name" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Value" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1122" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Country" />
+            <Field field="AEZ" />
+            <Field field="Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Field2" />
+            <Field field="AEZ" />
+            <Field field="Name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Country" selected="False" input="Left_" />
+                <SelectField field="Left_Value" selected="True" rename="Area (Ha)" input="Left_" />
+                <SelectField field="Right_AEZ" selected="False" input="Right_" />
+                <SelectField field="Right_Name" selected="False" input="Right_" />
+                <SelectField field="Right_Field2" selected="True" rename="Country" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1266" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>Custom</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="Country" size="2147483647" source="TextInput:" type="V_String" column="1" />
+                <Field description="TextToColumns: Parsed from cHARVSTAREA" name="AEZ" size="255" source="TextToColumns: Parsed from cHARVSTAREA" type="V_String" column="2" />
+                <Field description="TextToColumns: Parsed from Name" name="Sector" size="5" source="TextToColumns: Parsed from Name" type="String" column="3" />
+                <Field name="Area (Ha)" source="File: (Multiple Sources)" type="Double" column="4" />
+                <Field name="Max_Value" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Suitabilty_Average_Producer_AEZ.xlsx|||`Sheet1$`" type="Double" column="5" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="Country" size="255" source="File: (Multiple Sources)" type="V_String" column="1" />
+                <Field description="TextToColumns: Parsed from cHARVSTAREA" name="AEZ" size="255" source="TextToColumns: Parsed from cHARVSTAREA" type="V_String" column="2" />
+                <Field description="TextToColumns: Parsed from Name" name="Sector" size="5" source="TextToColumns: Parsed from Name" type="String" column="3" />
+                <Field name="Value" source="File: (Multiple Sources)" type="Double" column="4" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings>
+        <Position x="1350" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Max_Value"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1554" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Country" selected="True" />
+            <SelectField field="AEZ" selected="True" />
+            <SelectField field="Sector" selected="True" />
+            <SelectField field="Area (Ha)" selected="True" />
+            <SelectField field="Max_Value" selected="True" rename="Suitability" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1614" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\4. Suitability\Figure_S13_Suitability.xlsx|||Sheet1</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <SuppressBlankFile>False</SuppressBlankFile>
+            <OutputOption>RemoveFile</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Figure_S13_Suitability.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="954" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Value" action="Sum" rename="Sum_Value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#8">
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#6">
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="23" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="23" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="23" Connection="Join" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="23" Connection="Left" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="27" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output26" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>1. Crop_suitability</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="b452d3e9-1f21-4949-9e65-197dde074dce" />
+      <Telemetry>
+        <PreviousWorkflowId value="6e81e4c5-781b-4fd8-a69d-19e4388992c7" />
+        <OriginWorkflowId value="ae948b51-a518-47c2-9b7d-73b3a8a1d698" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
