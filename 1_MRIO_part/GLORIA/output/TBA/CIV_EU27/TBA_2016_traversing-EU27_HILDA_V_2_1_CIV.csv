@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,CIV,Growing wheat industry,XAM,0.0,EU27,2016
+1,CIV,Growing maize industry,XAM,0.13260162727020774,EU27,2016
+2,CIV,Growing cereals n.e.c industry,XAM,0.0004316593331388339,EU27,2016
+3,CIV,Growing leguminous crops and oil seeds industry,XAM,0.001836159010268994,EU27,2016
+4,CIV,Growing rice industry,XAM,7.0801656708383625e-06,EU27,2016
+5,CIV,"Growing vegetables, roots, tubers industry",XAM,0.0045681032651656356,EU27,2016
+6,CIV,Growing sugar beet and cane industry,XAM,0.0004922431501596479,EU27,2016
+7,CIV,Growing tobacco industry,XAM,2.022310643324181e-07,EU27,2016
+8,CIV,Growing fibre crops industry,XAM,0.0012631427901659352,EU27,2016
+9,CIV,Growing crops n.e.c. industry,XAM,0.013891635780096067,EU27,2016
+10,CIV,Growing grapes industry,XAM,0.0,EU27,2016
+11,CIV,Growing fruits and nuts industry,XAM,0.48614730126495437,EU27,2016
+12,CIV,"Growing beverage crops (coffee, tea etc) industry",XAM,0.017655224202170357,EU27,2016
+13,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,2.8797885640608924e-05,EU27,2016
+14,CIV,Seeds and plant propagation industry,XAM,0.0,EU27,2016
+15,CIV,Raising of cattle industry,XAM,0.08722435214345813,EU27,2016
+16,CIV,Growing wheat industry,XEU,0.0,EU27,2016
+17,CIV,Growing maize industry,XEU,0.015353417899519122,EU27,2016
+18,CIV,Growing cereals n.e.c industry,XEU,0.00047277311955417055,EU27,2016
+19,CIV,Growing leguminous crops and oil seeds industry,XEU,0.0008385474510215834,EU27,2016
+20,CIV,Growing rice industry,XEU,1.2054699889972109e-05,EU27,2016
+21,CIV,"Growing vegetables, roots, tubers industry",XEU,0.006349391974752668,EU27,2016
+22,CIV,Growing sugar beet and cane industry,XEU,5.824247560901376e-05,EU27,2016
+23,CIV,Growing tobacco industry,XEU,6.022147262542271e-08,EU27,2016
+24,CIV,Growing fibre crops industry,XEU,0.0003963770688721513,EU27,2016
+25,CIV,Growing crops n.e.c. industry,XEU,0.010399350346105878,EU27,2016
+26,CIV,Growing grapes industry,XEU,0.0,EU27,2016
+27,CIV,Growing fruits and nuts industry,XEU,0.02217665540432508,EU27,2016
+28,CIV,"Growing beverage crops (coffee, tea etc) industry",XEU,0.0031362354300119746,EU27,2016
+29,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,2.4194838880715644e-06,EU27,2016
+30,CIV,Seeds and plant propagation industry,XEU,0.0,EU27,2016
+31,CIV,Raising of cattle industry,XEU,0.009451901876134499,EU27,2016
+32,CIV,Growing wheat industry,XAF,0.0,EU27,2016
+33,CIV,Growing maize industry,XAF,0.01346813836320636,EU27,2016
+34,CIV,Growing cereals n.e.c industry,XAF,9.664108486880966e-05,EU27,2016
+35,CIV,Growing leguminous crops and oil seeds industry,XAF,0.0010196058788873392,EU27,2016
+36,CIV,Growing rice industry,XAF,1.6437062325672361e-06,EU27,2016
+37,CIV,"Growing vegetables, roots, tubers industry",XAF,0.0010643077586254312,EU27,2016
+38,CIV,Growing sugar beet and cane industry,XAF,5.018762535187342e-05,EU27,2016
+39,CIV,Growing tobacco industry,XAF,5.594566160017498e-08,EU27,2016
+40,CIV,Growing fibre crops industry,XAF,0.00120537582590173,EU27,2016
+41,CIV,Growing crops n.e.c. industry,XAF,0.004127261045244424,EU27,2016
+42,CIV,Growing grapes industry,XAF,0.0,EU27,2016
+43,CIV,Growing fruits and nuts industry,XAF,0.04685896655862532,EU27,2016
+44,CIV,"Growing beverage crops (coffee, tea etc) industry",XAF,0.0036570172208074433,EU27,2016
+45,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,6.091509336310078e-06,EU27,2016
+46,CIV,Seeds and plant propagation industry,XAF,0.0,EU27,2016
+47,CIV,Raising of cattle industry,XAF,0.008791390057486463,EU27,2016
+48,CIV,Growing wheat industry,XAS,0.0,EU27,2016
+49,CIV,Growing maize industry,XAS,0.014155737065902427,EU27,2016
+50,CIV,Growing cereals n.e.c industry,XAS,7.502510630209296e-05,EU27,2016
+51,CIV,Growing leguminous crops and oil seeds industry,XAS,0.0006679886443991021,EU27,2016
+52,CIV,Growing rice industry,XAS,1.470187332697329e-06,EU27,2016
+53,CIV,"Growing vegetables, roots, tubers industry",XAS,0.0009283321197391765,EU27,2016
+54,CIV,Growing sugar beet and cane industry,XAS,5.2748492807467215e-05,EU27,2016
+55,CIV,Growing tobacco industry,XAS,8.884933229407621e-08,EU27,2016
+56,CIV,Growing fibre crops industry,XAS,0.00045906631602207943,EU27,2016
+57,CIV,Growing crops n.e.c. industry,XAS,0.0024089611254927115,EU27,2016
+58,CIV,Growing grapes industry,XAS,0.0,EU27,2016
+59,CIV,Growing fruits and nuts industry,XAS,0.04725031033133198,EU27,2016
+60,CIV,"Growing beverage crops (coffee, tea etc) industry",XAS,0.00549100776881529,EU27,2016
+61,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,1.0352949531714966e-05,EU27,2016
+62,CIV,Seeds and plant propagation industry,XAS,0.0,EU27,2016
+63,CIV,Raising of cattle industry,XAS,0.009299143004746595,EU27,2016
+64,CIV,Growing wheat industry,AFG,0.0,EU27,2016
+65,CIV,Growing maize industry,AFG,0.0013200791565765398,EU27,2016
+66,CIV,Growing cereals n.e.c industry,AFG,7.487463282652667e-06,EU27,2016
+67,CIV,Growing leguminous crops and oil seeds industry,AFG,7.140405388360443e-05,EU27,2016
+68,CIV,Growing rice industry,AFG,1.5400733229589494e-07,EU27,2016
+69,CIV,"Growing vegetables, roots, tubers industry",AFG,0.00010390225786775259,EU27,2016
+70,CIV,Growing sugar beet and cane industry,AFG,4.926120406523991e-06,EU27,2016
+71,CIV,Growing tobacco industry,AFG,6.1366308565846865e-09,EU27,2016
+72,CIV,Growing fibre crops industry,AFG,5.302593307059126e-05,EU27,2016
+73,CIV,Growing crops n.e.c. industry,AFG,0.0004592897671401303,EU27,2016
+74,CIV,Growing grapes industry,AFG,0.0,EU27,2016
+75,CIV,Growing fruits and nuts industry,AFG,0.00718758044213793,EU27,2016
+76,CIV,"Growing beverage crops (coffee, tea etc) industry",AFG,0.00042364039121821784,EU27,2016
+77,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,4.562881739003556e-07,EU27,2016
+78,CIV,Seeds and plant propagation industry,AFG,0.0,EU27,2016
+79,CIV,Raising of cattle industry,AFG,0.00087002380491178,EU27,2016
+80,CIV,Growing wheat industry,AGO,0.0,EU27,2016
+81,CIV,Growing maize industry,AGO,0.06362228404330884,EU27,2016
+82,CIV,Growing cereals n.e.c industry,AGO,0.0005227343890331131,EU27,2016
+83,CIV,Growing leguminous crops and oil seeds industry,AGO,0.002312116125960357,EU27,2016
+84,CIV,Growing rice industry,AGO,7.777969909413159e-06,EU27,2016
+85,CIV,"Growing vegetables, roots, tubers industry",AGO,0.0050171595926556895,EU27,2016
+86,CIV,Growing sugar beet and cane industry,AGO,0.00023644587108020472,EU27,2016
+87,CIV,Growing tobacco industry,AGO,7.648372742530459e-08,EU27,2016
+88,CIV,Growing fibre crops industry,AGO,0.0057117675255933305,EU27,2016
+89,CIV,Growing crops n.e.c. industry,AGO,0.012004196565295099,EU27,2016
+90,CIV,Growing grapes industry,AGO,0.0,EU27,2016
+91,CIV,Growing fruits and nuts industry,AGO,0.18752473027534733,EU27,2016
+92,CIV,"Growing beverage crops (coffee, tea etc) industry",AGO,0.015874034968748067,EU27,2016
+93,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,1.0390106207379658e-05,EU27,2016
+94,CIV,Seeds and plant propagation industry,AGO,0.0,EU27,2016
+95,CIV,Raising of cattle industry,AGO,0.04125040809533906,EU27,2016
+96,CIV,Growing wheat industry,ALB,0.0,EU27,2016
+97,CIV,Growing maize industry,ALB,0.010788981880789491,EU27,2016
+98,CIV,Growing cereals n.e.c industry,ALB,0.0005459128620592426,EU27,2016
+99,CIV,Growing leguminous crops and oil seeds industry,ALB,0.0013670284614711627,EU27,2016
+100,CIV,Growing rice industry,ALB,1.4145122127279092e-05,EU27,2016
+101,CIV,"Growing vegetables, roots, tubers industry",ALB,0.0073945575899188425,EU27,2016
+102,CIV,Growing sugar beet and cane industry,ALB,4.163804390674217e-05,EU27,2016
+103,CIV,Growing tobacco industry,ALB,3.0184822258344035e-08,EU27,2016
+104,CIV,Growing fibre crops industry,ALB,0.0010822936640600134,EU27,2016
+105,CIV,Growing crops n.e.c. industry,ALB,0.0065649391394513625,EU27,2016
+106,CIV,Growing grapes industry,ALB,0.0,EU27,2016
+107,CIV,Growing fruits and nuts industry,ALB,0.021586065121569496,EU27,2016
+108,CIV,"Growing beverage crops (coffee, tea etc) industry",ALB,0.0006465391789352447,EU27,2016
+109,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,2.498959074266891e-06,EU27,2016
+110,CIV,Seeds and plant propagation industry,ALB,0.0,EU27,2016
+111,CIV,Raising of cattle industry,ALB,0.006312003839461516,EU27,2016
+112,CIV,Growing wheat industry,ARE,0.0,EU27,2016
+113,CIV,Growing maize industry,ARE,0.3986491983777695,EU27,2016
+114,CIV,Growing cereals n.e.c industry,ARE,0.0015730466017249674,EU27,2016
+115,CIV,Growing leguminous crops and oil seeds industry,ARE,0.009754137162451543,EU27,2016
+116,CIV,Growing rice industry,ARE,2.7982261948703428e-05,EU27,2016
+117,CIV,"Growing vegetables, roots, tubers industry",ARE,0.017320667665771575,EU27,2016
+118,CIV,Growing sugar beet and cane industry,ARE,0.0014809944781707647,EU27,2016
+119,CIV,Growing tobacco industry,ARE,3.9299008009478807e-07,EU27,2016
+120,CIV,Growing fibre crops industry,ARE,0.0041281593454364765,EU27,2016
+121,CIV,Growing crops n.e.c. industry,ARE,0.04866330838781131,EU27,2016
+122,CIV,Growing grapes industry,ARE,0.0,EU27,2016
+123,CIV,Growing fruits and nuts industry,ARE,0.557799649766105,EU27,2016
+124,CIV,"Growing beverage crops (coffee, tea etc) industry",ARE,0.010626202809507396,EU27,2016
+125,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,3.3171106994277965e-05,EU27,2016
+126,CIV,Seeds and plant propagation industry,ARE,0.0,EU27,2016
+127,CIV,Raising of cattle industry,ARE,0.26175324835321057,EU27,2016
+128,CIV,Growing wheat industry,ARG,0.0,EU27,2016
+129,CIV,Growing maize industry,ARG,0.043322894051644106,EU27,2016
+130,CIV,Growing cereals n.e.c industry,ARG,0.00023332931165179668,EU27,2016
+131,CIV,Growing leguminous crops and oil seeds industry,ARG,0.00413831240038378,EU27,2016
+132,CIV,Growing rice industry,ARG,4.823219851417943e-06,EU27,2016
+133,CIV,"Growing vegetables, roots, tubers industry",ARG,0.0030078471800678032,EU27,2016
+134,CIV,Growing sugar beet and cane industry,ARG,0.00016167231618330287,EU27,2016
+135,CIV,Growing tobacco industry,ARG,1.351103224260925e-07,EU27,2016
+136,CIV,Growing fibre crops industry,ARG,0.0018481186646102433,EU27,2016
+137,CIV,Growing crops n.e.c. industry,ARG,0.024319250553885983,EU27,2016
+138,CIV,Growing grapes industry,ARG,0.0,EU27,2016
+139,CIV,Growing fruits and nuts industry,ARG,0.13277813258802135,EU27,2016
+140,CIV,"Growing beverage crops (coffee, tea etc) industry",ARG,0.022822496382956196,EU27,2016
+141,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,2.3200344766097186e-05,EU27,2016
+142,CIV,Seeds and plant propagation industry,ARG,0.0,EU27,2016
+143,CIV,Raising of cattle industry,ARG,0.028526771481491034,EU27,2016
+144,CIV,Growing wheat industry,ARM,0.0,EU27,2016
+145,CIV,Growing maize industry,ARM,0.003561946354840105,EU27,2016
+146,CIV,Growing cereals n.e.c industry,ARM,4.3683824113909515e-05,EU27,2016
+147,CIV,Growing leguminous crops and oil seeds industry,ARM,0.00037994291380198496,EU27,2016
+148,CIV,Growing rice industry,ARM,1.0190149652287174e-06,EU27,2016
+149,CIV,"Growing vegetables, roots, tubers industry",ARM,0.0005694922314394436,EU27,2016
+150,CIV,Growing sugar beet and cane industry,ARM,1.3378462013772268e-05,EU27,2016
+151,CIV,Growing tobacco industry,ARM,1.692251150416964e-08,EU27,2016
+152,CIV,Growing fibre crops industry,ARM,0.0002862192369692143,EU27,2016
+153,CIV,Growing crops n.e.c. industry,ARM,0.0013185119956966526,EU27,2016
+154,CIV,Growing grapes industry,ARM,0.0,EU27,2016
+155,CIV,Growing fruits and nuts industry,ARM,0.012369186001201852,EU27,2016
+156,CIV,"Growing beverage crops (coffee, tea etc) industry",ARM,0.0008902620166624487,EU27,2016
+157,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,1.2402720722485414e-06,EU27,2016
+158,CIV,Seeds and plant propagation industry,ARM,0.0,EU27,2016
+159,CIV,Raising of cattle industry,ARM,0.002301698317178821,EU27,2016
+160,CIV,Growing wheat industry,AUS,0.0,EU27,2016
+161,CIV,Growing maize industry,AUS,0.18885071929573735,EU27,2016
+162,CIV,Growing cereals n.e.c industry,AUS,0.001314120166687894,EU27,2016
+163,CIV,Growing leguminous crops and oil seeds industry,AUS,0.015029078534852318,EU27,2016
+164,CIV,Growing rice industry,AUS,2.8352167989034852e-05,EU27,2016
+165,CIV,"Growing vegetables, roots, tubers industry",AUS,0.017626128866749306,EU27,2016
+166,CIV,Growing sugar beet and cane industry,AUS,0.0007061879019761075,EU27,2016
+167,CIV,Growing tobacco industry,AUS,8.113667486947749e-07,EU27,2016
+168,CIV,Growing fibre crops industry,AUS,0.007553006100083713,EU27,2016
+169,CIV,Growing crops n.e.c. industry,AUS,0.07567983196943433,EU27,2016
+170,CIV,Growing grapes industry,AUS,0.0,EU27,2016
+171,CIV,Growing fruits and nuts industry,AUS,0.6767622392601662,EU27,2016
+172,CIV,"Growing beverage crops (coffee, tea etc) industry",AUS,0.060688633181594835,EU27,2016
+173,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,0.00011345671865238262,EU27,2016
+174,CIV,Seeds and plant propagation industry,AUS,0.0,EU27,2016
+175,CIV,Raising of cattle industry,AUS,0.12356378531275668,EU27,2016
+176,CIV,Growing wheat industry,AUT,0.0,EU27,2016
+177,CIV,Growing maize industry,AUT,0.0,EU27,2016
+178,CIV,Growing cereals n.e.c industry,AUT,0.0,EU27,2016
+179,CIV,Growing leguminous crops and oil seeds industry,AUT,0.0,EU27,2016
+180,CIV,Growing rice industry,AUT,0.0,EU27,2016
+181,CIV,"Growing vegetables, roots, tubers industry",AUT,0.0,EU27,2016
+182,CIV,Growing sugar beet and cane industry,AUT,0.0,EU27,2016
+183,CIV,Growing tobacco industry,AUT,0.0,EU27,2016
+184,CIV,Growing fibre crops industry,AUT,0.0,EU27,2016
+185,CIV,Growing crops n.e.c. industry,AUT,0.0,EU27,2016
+186,CIV,Growing grapes industry,AUT,0.0,EU27,2016
+187,CIV,Growing fruits and nuts industry,AUT,0.0,EU27,2016
+188,CIV,"Growing beverage crops (coffee, tea etc) industry",AUT,0.0,EU27,2016
+189,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,0.0,EU27,2016
+190,CIV,Seeds and plant propagation industry,AUT,0.0,EU27,2016
+191,CIV,Raising of cattle industry,AUT,0.0,EU27,2016
+192,CIV,Growing wheat industry,AZE,0.0,EU27,2016
+193,CIV,Growing maize industry,AZE,0.016688243311276423,EU27,2016
+194,CIV,Growing cereals n.e.c industry,AZE,0.00010893450449679038,EU27,2016
+195,CIV,Growing leguminous crops and oil seeds industry,AZE,0.0006060837197265245,EU27,2016
+196,CIV,Growing rice industry,AZE,2.2930392523838452e-06,EU27,2016
+197,CIV,"Growing vegetables, roots, tubers industry",AZE,0.001465922613835196,EU27,2016
+198,CIV,Growing sugar beet and cane industry,AZE,6.217272911102474e-05,EU27,2016
+199,CIV,Growing tobacco industry,AZE,3.2776693968202375e-08,EU27,2016
+200,CIV,Growing fibre crops industry,AZE,0.00037334197353277996,EU27,2016
+201,CIV,Growing crops n.e.c. industry,AZE,0.0035803639549157676,EU27,2016
+202,CIV,Growing grapes industry,AZE,0.0,EU27,2016
+203,CIV,Growing fruits and nuts industry,AZE,0.13527857433973886,EU27,2016
+204,CIV,"Growing beverage crops (coffee, tea etc) industry",AZE,0.011893656455732067,EU27,2016
+205,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,1.585711928706266e-05,EU27,2016
+206,CIV,Seeds and plant propagation industry,AZE,0.0,EU27,2016
+207,CIV,Raising of cattle industry,AZE,0.01092106340101159,EU27,2016
+208,CIV,Growing wheat industry,BDI,0.0,EU27,2016
+209,CIV,Growing maize industry,BDI,0.0003637526601378037,EU27,2016
+210,CIV,Growing cereals n.e.c industry,BDI,1.953141533788015e-06,EU27,2016
+211,CIV,Growing leguminous crops and oil seeds industry,BDI,2.2704097741640192e-05,EU27,2016
+212,CIV,Growing rice industry,BDI,3.953268468860053e-08,EU27,2016
+213,CIV,"Growing vegetables, roots, tubers industry",BDI,2.4268945638196958e-05,EU27,2016
+214,CIV,Growing sugar beet and cane industry,BDI,1.3579291284053522e-06,EU27,2016
+215,CIV,Growing tobacco industry,BDI,1.1467249512634157e-09,EU27,2016
+216,CIV,Growing fibre crops industry,BDI,1.8104377570842625e-05,EU27,2016
+217,CIV,Growing crops n.e.c. industry,BDI,8.876597423143449e-05,EU27,2016
+218,CIV,Growing grapes industry,BDI,0.0,EU27,2016
+219,CIV,Growing fruits and nuts industry,BDI,0.003187193526132028,EU27,2016
+220,CIV,"Growing beverage crops (coffee, tea etc) industry",BDI,0.0008822843693421685,EU27,2016
+221,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,1.6859416261497873e-07,EU27,2016
+222,CIV,Seeds and plant propagation industry,BDI,0.0,EU27,2016
+223,CIV,Raising of cattle industry,BDI,0.00023927963666595358,EU27,2016
+224,CIV,Growing wheat industry,BEL,0.0,EU27,2016
+225,CIV,Growing maize industry,BEL,0.0,EU27,2016
+226,CIV,Growing cereals n.e.c industry,BEL,0.0,EU27,2016
+227,CIV,Growing leguminous crops and oil seeds industry,BEL,0.0,EU27,2016
+228,CIV,Growing rice industry,BEL,0.0,EU27,2016
+229,CIV,"Growing vegetables, roots, tubers industry",BEL,0.0,EU27,2016
+230,CIV,Growing sugar beet and cane industry,BEL,0.0,EU27,2016
+231,CIV,Growing tobacco industry,BEL,0.0,EU27,2016
+232,CIV,Growing fibre crops industry,BEL,0.0,EU27,2016
+233,CIV,Growing crops n.e.c. industry,BEL,0.0,EU27,2016
+234,CIV,Growing grapes industry,BEL,0.0,EU27,2016
+235,CIV,Growing fruits and nuts industry,BEL,0.0,EU27,2016
+236,CIV,"Growing beverage crops (coffee, tea etc) industry",BEL,0.0,EU27,2016
+237,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,0.0,EU27,2016
+238,CIV,Seeds and plant propagation industry,BEL,0.0,EU27,2016
+239,CIV,Raising of cattle industry,BEL,0.0,EU27,2016
+240,CIV,Growing wheat industry,BEN,0.0,EU27,2016
+241,CIV,Growing maize industry,BEN,0.006236566384389392,EU27,2016
+242,CIV,Growing cereals n.e.c industry,BEN,2.967905465194513e-05,EU27,2016
+243,CIV,Growing leguminous crops and oil seeds industry,BEN,0.0001318353295475081,EU27,2016
+244,CIV,Growing rice industry,BEN,5.979174975871655e-07,EU27,2016
+245,CIV,"Growing vegetables, roots, tubers industry",BEN,0.0003879727446325693,EU27,2016
+246,CIV,Growing sugar beet and cane industry,BEN,2.319103794223067e-05,EU27,2016
+247,CIV,Growing tobacco industry,BEN,8.049971911244325e-09,EU27,2016
+248,CIV,Growing fibre crops industry,BEN,8.584688812552488e-05,EU27,2016
+249,CIV,Growing crops n.e.c. industry,BEN,0.0009129381310712159,EU27,2016
+250,CIV,Growing grapes industry,BEN,0.0,EU27,2016
+251,CIV,Growing fruits and nuts industry,BEN,0.02683897440160754,EU27,2016
+252,CIV,"Growing beverage crops (coffee, tea etc) industry",BEN,0.00964195788230269,EU27,2016
+253,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,3.729504560779044e-06,EU27,2016
+254,CIV,Seeds and plant propagation industry,BEN,0.0,EU27,2016
+255,CIV,Raising of cattle industry,BEN,0.004092623776470189,EU27,2016
+256,CIV,Growing wheat industry,BFA,0.0,EU27,2016
+257,CIV,Growing maize industry,BFA,0.007669550334780989,EU27,2016
+258,CIV,Growing cereals n.e.c industry,BFA,2.7748408689155942e-05,EU27,2016
+259,CIV,Growing leguminous crops and oil seeds industry,BFA,0.0003250118201904356,EU27,2016
+260,CIV,Growing rice industry,BFA,4.804270894303076e-07,EU27,2016
+261,CIV,"Growing vegetables, roots, tubers industry",BFA,0.0004186801860475994,EU27,2016
+262,CIV,Growing sugar beet and cane industry,BFA,2.8493926608607805e-05,EU27,2016
+263,CIV,Growing tobacco industry,BFA,5.093147458701448e-08,EU27,2016
+264,CIV,Growing fibre crops industry,BFA,9.508682229050177e-05,EU27,2016
+265,CIV,Growing crops n.e.c. industry,BFA,0.0009469496016187562,EU27,2016
+266,CIV,Growing grapes industry,BFA,0.0,EU27,2016
+267,CIV,Growing fruits and nuts industry,BFA,0.04643010273706193,EU27,2016
+268,CIV,"Growing beverage crops (coffee, tea etc) industry",BFA,0.02259474761789806,EU27,2016
+269,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,1.1858793129472713e-05,EU27,2016
+270,CIV,Seeds and plant propagation industry,BFA,0.0,EU27,2016
+271,CIV,Raising of cattle industry,BFA,0.005050754390697634,EU27,2016
+272,CIV,Growing wheat industry,BGD,0.0,EU27,2016
+273,CIV,Growing maize industry,BGD,0.013830089412949702,EU27,2016
+274,CIV,Growing cereals n.e.c industry,BGD,8.048534525764876e-05,EU27,2016
+275,CIV,Growing leguminous crops and oil seeds industry,BGD,0.0008169762177993034,EU27,2016
+276,CIV,Growing rice industry,BGD,1.6690079756708751e-06,EU27,2016
+277,CIV,"Growing vegetables, roots, tubers industry",BGD,0.0010077004301371627,EU27,2016
+278,CIV,Growing sugar beet and cane industry,BGD,5.1616521140695026e-05,EU27,2016
+279,CIV,Growing tobacco industry,BGD,4.634295462062302e-08,EU27,2016
+280,CIV,Growing fibre crops industry,BGD,0.0007662375493015565,EU27,2016
+281,CIV,Growing crops n.e.c. industry,BGD,0.0035508959526962154,EU27,2016
+282,CIV,Growing grapes industry,BGD,0.0,EU27,2016
+283,CIV,Growing fruits and nuts industry,BGD,0.061707620243041536,EU27,2016
+284,CIV,"Growing beverage crops (coffee, tea etc) industry",BGD,0.003078775238166621,EU27,2016
+285,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,4.752722312446034e-06,EU27,2016
+286,CIV,Seeds and plant propagation industry,BGD,0.0,EU27,2016
+287,CIV,Raising of cattle industry,BGD,0.009106567434318587,EU27,2016
+288,CIV,Growing wheat industry,BGR,0.0,EU27,2016
+289,CIV,Growing maize industry,BGR,0.0,EU27,2016
+290,CIV,Growing cereals n.e.c industry,BGR,0.0,EU27,2016
+291,CIV,Growing leguminous crops and oil seeds industry,BGR,0.0,EU27,2016
+292,CIV,Growing rice industry,BGR,0.0,EU27,2016
+293,CIV,"Growing vegetables, roots, tubers industry",BGR,0.0,EU27,2016
+294,CIV,Growing sugar beet and cane industry,BGR,0.0,EU27,2016
+295,CIV,Growing tobacco industry,BGR,0.0,EU27,2016
+296,CIV,Growing fibre crops industry,BGR,0.0,EU27,2016
+297,CIV,Growing crops n.e.c. industry,BGR,0.0,EU27,2016
+298,CIV,Growing grapes industry,BGR,0.0,EU27,2016
+299,CIV,Growing fruits and nuts industry,BGR,0.0,EU27,2016
+300,CIV,"Growing beverage crops (coffee, tea etc) industry",BGR,0.0,EU27,2016
+301,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,0.0,EU27,2016
+302,CIV,Seeds and plant propagation industry,BGR,0.0,EU27,2016
+303,CIV,Raising of cattle industry,BGR,0.0,EU27,2016
+304,CIV,Growing wheat industry,BHR,0.0,EU27,2016
+305,CIV,Growing maize industry,BHR,0.027295909670175998,EU27,2016
+306,CIV,Growing cereals n.e.c industry,BHR,0.0001380131019184152,EU27,2016
+307,CIV,Growing leguminous crops and oil seeds industry,BHR,0.0012052144993887864,EU27,2016
+308,CIV,Growing rice industry,BHR,2.7068989387861216e-06,EU27,2016
+309,CIV,"Growing vegetables, roots, tubers industry",BHR,0.0016948305065716777,EU27,2016
+310,CIV,Growing sugar beet and cane industry,BHR,0.00010160539296257439,EU27,2016
+311,CIV,Growing tobacco industry,BHR,3.783632033042302e-08,EU27,2016
+312,CIV,Growing fibre crops industry,BHR,0.0005883871193637208,EU27,2016
+313,CIV,Growing crops n.e.c. industry,BHR,0.0034372223945699724,EU27,2016
+314,CIV,Growing grapes industry,BHR,0.0,EU27,2016
+315,CIV,Growing fruits and nuts industry,BHR,0.061352089417961206,EU27,2016
+316,CIV,"Growing beverage crops (coffee, tea etc) industry",BHR,0.0013306446256809185,EU27,2016
+317,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,3.0415350225252458e-06,EU27,2016
+318,CIV,Seeds and plant propagation industry,BHR,0.0,EU27,2016
+319,CIV,Raising of cattle industry,BHR,0.017892795576583458,EU27,2016
+320,CIV,Growing wheat industry,BHS,0.0,EU27,2016
+321,CIV,Growing maize industry,BHS,0.004464748159554626,EU27,2016
+322,CIV,Growing cereals n.e.c industry,BHS,2.416823859839933e-05,EU27,2016
+323,CIV,Growing leguminous crops and oil seeds industry,BHS,0.00011712654890947927,EU27,2016
+324,CIV,Growing rice industry,BHS,4.869194317123602e-07,EU27,2016
+325,CIV,"Growing vegetables, roots, tubers industry",BHS,0.0003282514319951105,EU27,2016
+326,CIV,Growing sugar beet and cane industry,BHS,1.661775276636511e-05,EU27,2016
+327,CIV,Growing tobacco industry,BHS,7.192944157900337e-09,EU27,2016
+328,CIV,Growing fibre crops industry,BHS,7.282970150294577e-05,EU27,2016
+329,CIV,Growing crops n.e.c. industry,BHS,0.0005309221539084466,EU27,2016
+330,CIV,Growing grapes industry,BHS,0.0,EU27,2016
+331,CIV,Growing fruits and nuts industry,BHS,0.010410113199249385,EU27,2016
+332,CIV,"Growing beverage crops (coffee, tea etc) industry",BHS,0.0025191519260155523,EU27,2016
+333,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,7.383527310052059e-06,EU27,2016
+334,CIV,Seeds and plant propagation industry,BHS,0.0,EU27,2016
+335,CIV,Raising of cattle industry,BHS,0.0029238149462617077,EU27,2016
+336,CIV,Growing wheat industry,BIH,0.0,EU27,2016
+337,CIV,Growing maize industry,BIH,0.011491175142738178,EU27,2016
+338,CIV,Growing cereals n.e.c industry,BIH,0.0001257440789627104,EU27,2016
+339,CIV,Growing leguminous crops and oil seeds industry,BIH,0.0008626501887514915,EU27,2016
+340,CIV,Growing rice industry,BIH,2.9333184970318523e-06,EU27,2016
+341,CIV,"Growing vegetables, roots, tubers industry",BIH,0.001613714480929571,EU27,2016
+342,CIV,Growing sugar beet and cane industry,BIH,4.3121909256562054e-05,EU27,2016
+343,CIV,Growing tobacco industry,BIH,6.01287439396067e-08,EU27,2016
+344,CIV,Growing fibre crops industry,BIH,0.0011155697620411618,EU27,2016
+345,CIV,Growing crops n.e.c. industry,BIH,0.0030611702956827042,EU27,2016
+346,CIV,Growing grapes industry,BIH,0.0,EU27,2016
+347,CIV,Growing fruits and nuts industry,BIH,0.04492044195192467,EU27,2016
+348,CIV,"Growing beverage crops (coffee, tea etc) industry",BIH,0.004943685065038146,EU27,2016
+349,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,3.30268224325996e-06,EU27,2016
+350,CIV,Seeds and plant propagation industry,BIH,0.0,EU27,2016
+351,CIV,Raising of cattle industry,BIH,0.007459382687778428,EU27,2016
+352,CIV,Growing wheat industry,BLR,0.0,EU27,2016
+353,CIV,Growing maize industry,BLR,0.008577158730566135,EU27,2016
+354,CIV,Growing cereals n.e.c industry,BLR,9.75642603581764e-05,EU27,2016
+355,CIV,Growing leguminous crops and oil seeds industry,BLR,0.0005410137553689127,EU27,2016
+356,CIV,Growing rice industry,BLR,2.2836708331030117e-06,EU27,2016
+357,CIV,"Growing vegetables, roots, tubers industry",BLR,0.001266195248017173,EU27,2016
+358,CIV,Growing sugar beet and cane industry,BLR,3.2368150874595714e-05,EU27,2016
+359,CIV,Growing tobacco industry,BLR,3.0226873721382114e-08,EU27,2016
+360,CIV,Growing fibre crops industry,BLR,0.0005415354770817893,EU27,2016
+361,CIV,Growing crops n.e.c. industry,BLR,0.0025622101269458957,EU27,2016
+362,CIV,Growing grapes industry,BLR,0.0,EU27,2016
+363,CIV,Growing fruits and nuts industry,BLR,0.054846392942736834,EU27,2016
+364,CIV,"Growing beverage crops (coffee, tea etc) industry",BLR,0.0022509946563314767,EU27,2016
+365,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,3.6380836553960803e-06,EU27,2016
+366,CIV,Seeds and plant propagation industry,BLR,0.0,EU27,2016
+367,CIV,Raising of cattle industry,BLR,0.0055591203266087685,EU27,2016
+368,CIV,Growing wheat industry,BLZ,0.0,EU27,2016
+369,CIV,Growing maize industry,BLZ,0.0022246319591667047,EU27,2016
+370,CIV,Growing cereals n.e.c industry,BLZ,8.689872212589105e-06,EU27,2016
+371,CIV,Growing leguminous crops and oil seeds industry,BLZ,3.660043967070405e-05,EU27,2016
+372,CIV,Growing rice industry,BLZ,1.5486057558993774e-07,EU27,2016
+373,CIV,"Growing vegetables, roots, tubers industry",BLZ,9.437436424070643e-05,EU27,2016
+374,CIV,Growing sugar beet and cane industry,BLZ,8.265076114818664e-06,EU27,2016
+375,CIV,Growing tobacco industry,BLZ,1.239863637415467e-09,EU27,2016
+376,CIV,Growing fibre crops industry,BLZ,1.911943783370745e-05,EU27,2016
+377,CIV,Growing crops n.e.c. industry,BLZ,0.00021665695189534615,EU27,2016
+378,CIV,Growing grapes industry,BLZ,0.0,EU27,2016
+379,CIV,Growing fruits and nuts industry,BLZ,0.002962497667463434,EU27,2016
+380,CIV,"Growing beverage crops (coffee, tea etc) industry",BLZ,4.4736009328221084e-05,EU27,2016
+381,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,1.8844093902409372e-07,EU27,2016
+382,CIV,Seeds and plant propagation industry,BLZ,0.0,EU27,2016
+383,CIV,Raising of cattle industry,BLZ,0.0014604842793945762,EU27,2016
+384,CIV,Growing wheat industry,BOL,0.0,EU27,2016
+385,CIV,Growing maize industry,BOL,0.0021860785955222324,EU27,2016
+386,CIV,Growing cereals n.e.c industry,BOL,1.5597158412780567e-05,EU27,2016
+387,CIV,Growing leguminous crops and oil seeds industry,BOL,0.00031587992425268234,EU27,2016
+388,CIV,Growing rice industry,BOL,3.3767532377772e-07,EU27,2016
+389,CIV,"Growing vegetables, roots, tubers industry",BOL,0.0002002870024386332,EU27,2016
+390,CIV,Growing sugar beet and cane industry,BOL,8.183807754340362e-06,EU27,2016
+391,CIV,Growing tobacco industry,BOL,1.7700576765534645e-08,EU27,2016
+392,CIV,Growing fibre crops industry,BOL,0.00015894517240009392,EU27,2016
+393,CIV,Growing crops n.e.c. industry,BOL,0.0008073776277925289,EU27,2016
+394,CIV,Growing grapes industry,BOL,0.0,EU27,2016
+395,CIV,Growing fruits and nuts industry,BOL,0.008525803400414408,EU27,2016
+396,CIV,"Growing beverage crops (coffee, tea etc) industry",BOL,0.0010322510862629485,EU27,2016
+397,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,1.7839056241894114e-06,EU27,2016
+398,CIV,Seeds and plant propagation industry,BOL,0.0,EU27,2016
+399,CIV,Raising of cattle industry,BOL,0.0014347918472999315,EU27,2016
+400,CIV,Growing wheat industry,BRA,0.0,EU27,2016
+401,CIV,Growing maize industry,BRA,0.18894258004401174,EU27,2016
+402,CIV,Growing cereals n.e.c industry,BRA,0.001282275898809019,EU27,2016
+403,CIV,Growing leguminous crops and oil seeds industry,BRA,0.01825231709275959,EU27,2016
+404,CIV,Growing rice industry,BRA,2.364802459155535e-05,EU27,2016
+405,CIV,"Growing vegetables, roots, tubers industry",BRA,0.014613581112020324,EU27,2016
+406,CIV,Growing sugar beet and cane industry,BRA,0.0007045931474777708,EU27,2016
+407,CIV,Growing tobacco industry,BRA,5.148374355043468e-07,EU27,2016
+408,CIV,Growing fibre crops industry,BRA,0.02752879015658301,EU27,2016
+409,CIV,Growing crops n.e.c. industry,BRA,0.10692196316889009,EU27,2016
+410,CIV,Growing grapes industry,BRA,0.0,EU27,2016
+411,CIV,Growing fruits and nuts industry,BRA,0.5946177886656437,EU27,2016
+412,CIV,"Growing beverage crops (coffee, tea etc) industry",BRA,0.07013787078020862,EU27,2016
+413,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,6.973700143416217e-05,EU27,2016
+414,CIV,Seeds and plant propagation industry,BRA,0.0,EU27,2016
+415,CIV,Raising of cattle industry,BRA,0.12350669478453921,EU27,2016
+416,CIV,Growing wheat industry,BRN,0.0,EU27,2016
+417,CIV,Growing maize industry,BRN,0.010214650640704028,EU27,2016
+418,CIV,Growing cereals n.e.c industry,BRN,3.488802102289114e-05,EU27,2016
+419,CIV,Growing leguminous crops and oil seeds industry,BRN,0.00021146691269251079,EU27,2016
+420,CIV,Growing rice industry,BRN,5.800620035029477e-07,EU27,2016
+421,CIV,"Growing vegetables, roots, tubers industry",BRN,0.0003725503821315185,EU27,2016
+422,CIV,Growing sugar beet and cane industry,BRN,3.792696713869948e-05,EU27,2016
+423,CIV,Growing tobacco industry,BRN,5.763969080366688e-09,EU27,2016
+424,CIV,Growing fibre crops industry,BRN,0.00012905334846134418,EU27,2016
+425,CIV,Growing crops n.e.c. industry,BRN,0.001595627267043748,EU27,2016
+426,CIV,Growing grapes industry,BRN,0.0,EU27,2016
+427,CIV,Growing fruits and nuts industry,BRN,0.01877654203470872,EU27,2016
+428,CIV,"Growing beverage crops (coffee, tea etc) industry",BRN,0.0005599451925092053,EU27,2016
+429,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,9.775631551555212e-07,EU27,2016
+430,CIV,Seeds and plant propagation industry,BRN,0.0,EU27,2016
+431,CIV,Raising of cattle industry,BRN,0.006714823408868847,EU27,2016
+432,CIV,Growing wheat industry,BTN,0.0,EU27,2016
+433,CIV,Growing maize industry,BTN,9.461699116787746e-05,EU27,2016
+434,CIV,Growing cereals n.e.c industry,BTN,5.150380412434038e-07,EU27,2016
+435,CIV,Growing leguminous crops and oil seeds industry,BTN,6.4990032346551855e-06,EU27,2016
+436,CIV,Growing rice industry,BTN,1.0428532472043524e-08,EU27,2016
+437,CIV,"Growing vegetables, roots, tubers industry",BTN,6.177114925775474e-06,EU27,2016
+438,CIV,Growing sugar beet and cane industry,BTN,3.537978975313841e-07,EU27,2016
+439,CIV,Growing tobacco industry,BTN,4.946812344889476e-10,EU27,2016
+440,CIV,Growing fibre crops industry,BTN,5.97211789216939e-06,EU27,2016
+441,CIV,Growing crops n.e.c. industry,BTN,3.675015715988197e-05,EU27,2016
+442,CIV,Growing grapes industry,BTN,0.0,EU27,2016
+443,CIV,Growing fruits and nuts industry,BTN,0.00042103743429800595,EU27,2016
+444,CIV,"Growing beverage crops (coffee, tea etc) industry",BTN,1.3272081013172778e-05,EU27,2016
+445,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,3.2855656121685636e-08,EU27,2016
+446,CIV,Seeds and plant propagation industry,BTN,0.0,EU27,2016
+447,CIV,Raising of cattle industry,BTN,6.232130447843404e-05,EU27,2016
+448,CIV,Growing wheat industry,BWA,0.0,EU27,2016
+449,CIV,Growing maize industry,BWA,0.0007693324916787586,EU27,2016
+450,CIV,Growing cereals n.e.c industry,BWA,8.418967405964945e-06,EU27,2016
+451,CIV,Growing leguminous crops and oil seeds industry,BWA,8.190487451678774e-05,EU27,2016
+452,CIV,Growing rice industry,BWA,1.9660135081716903e-07,EU27,2016
+453,CIV,"Growing vegetables, roots, tubers industry",BWA,0.00011364663497382523,EU27,2016
+454,CIV,Growing sugar beet and cane industry,BWA,2.8900214179330482e-06,EU27,2016
+455,CIV,Growing tobacco industry,BWA,4.710967539507646e-09,EU27,2016
+456,CIV,Growing fibre crops industry,BWA,5.36667610522359e-05,EU27,2016
+457,CIV,Growing crops n.e.c. industry,BWA,0.00033688786906552686,EU27,2016
+458,CIV,Growing grapes industry,BWA,0.0,EU27,2016
+459,CIV,Growing fruits and nuts industry,BWA,0.004213959475175956,EU27,2016
+460,CIV,"Growing beverage crops (coffee, tea etc) industry",BWA,0.001111645614876351,EU27,2016
+461,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,5.570433298300532e-07,EU27,2016
+462,CIV,Seeds and plant propagation industry,BWA,0.0,EU27,2016
+463,CIV,Raising of cattle industry,BWA,0.000500619215141849,EU27,2016
+464,CIV,Growing wheat industry,CAF,0.0,EU27,2016
+465,CIV,Growing maize industry,CAF,0.0014666547551923593,EU27,2016
+466,CIV,Growing cereals n.e.c industry,CAF,5.751387778281064e-06,EU27,2016
+467,CIV,Growing leguminous crops and oil seeds industry,CAF,3.419464641008773e-05,EU27,2016
+468,CIV,Growing rice industry,CAF,1.0228217421886079e-07,EU27,2016
+469,CIV,"Growing vegetables, roots, tubers industry",CAF,6.528931553961445e-05,EU27,2016
+470,CIV,Growing sugar beet and cane industry,CAF,5.449185735586997e-06,EU27,2016
+471,CIV,Growing tobacco industry,CAF,1.1649960524163781e-08,EU27,2016
+472,CIV,Growing fibre crops industry,CAF,1.5269692696339096e-05,EU27,2016
+473,CIV,Growing crops n.e.c. industry,CAF,0.00016929162389279766,EU27,2016
+474,CIV,Growing grapes industry,CAF,0.0,EU27,2016
+475,CIV,Growing fruits and nuts industry,CAF,0.004364380216004465,EU27,2016
+476,CIV,"Growing beverage crops (coffee, tea etc) industry",CAF,0.0002957435696513541,EU27,2016
+477,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,3.967969835032762e-07,EU27,2016
+478,CIV,Seeds and plant propagation industry,CAF,0.0,EU27,2016
+479,CIV,Raising of cattle industry,CAF,0.0009638086926106337,EU27,2016
+480,CIV,Growing wheat industry,CAN,0.0,EU27,2016
+481,CIV,Growing maize industry,CAN,0.18637273806157365,EU27,2016
+482,CIV,Growing cereals n.e.c industry,CAN,0.0014656438770448532,EU27,2016
+483,CIV,Growing leguminous crops and oil seeds industry,CAN,0.015901218323933215,EU27,2016
+484,CIV,Growing rice industry,CAN,3.208347669900071e-05,EU27,2016
+485,CIV,"Growing vegetables, roots, tubers industry",CAN,0.019576339106923746,EU27,2016
+486,CIV,Growing sugar beet and cane industry,CAN,0.0006974990557861214,EU27,2016
+487,CIV,Growing tobacco industry,CAN,5.83189072497864e-07,EU27,2016
+488,CIV,Growing fibre crops industry,CAN,0.01497390568737769,EU27,2016
+489,CIV,Growing crops n.e.c. industry,CAN,0.09160013490730426,EU27,2016
+490,CIV,Growing grapes industry,CAN,0.0,EU27,2016
+491,CIV,Growing fruits and nuts industry,CAN,0.9103886804893049,EU27,2016
+492,CIV,"Growing beverage crops (coffee, tea etc) industry",CAN,0.14748298798064713,EU27,2016
+493,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,0.00015836113305359788,EU27,2016
+494,CIV,Seeds and plant propagation industry,CAN,0.0,EU27,2016
+495,CIV,Raising of cattle industry,CAN,0.1217764004658006,EU27,2016
+496,CIV,Growing wheat industry,CHE,0.0,EU27,2016
+497,CIV,Growing maize industry,CHE,0.7138381032348344,EU27,2016
+498,CIV,Growing cereals n.e.c industry,CHE,0.004311853070979055,EU27,2016
+499,CIV,Growing leguminous crops and oil seeds industry,CHE,0.049177521718502745,EU27,2016
+500,CIV,Growing rice industry,CHE,8.835889838182615e-05,EU27,2016
+501,CIV,"Growing vegetables, roots, tubers industry",CHE,0.05543847020691956,EU27,2016
+502,CIV,Growing sugar beet and cane industry,CHE,0.002668347975631461,EU27,2016
+503,CIV,Growing tobacco industry,CHE,4.673882474563713e-06,EU27,2016
+504,CIV,Growing fibre crops industry,CHE,0.03119870471723316,EU27,2016
+505,CIV,Growing crops n.e.c. industry,CHE,0.28895233346364957,EU27,2016
+506,CIV,Growing grapes industry,CHE,0.0,EU27,2016
+507,CIV,Growing fruits and nuts industry,CHE,3.773074059235732,EU27,2016
+508,CIV,"Growing beverage crops (coffee, tea etc) industry",CHE,0.7129305985739747,EU27,2016
+509,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,0.0006372788524484905,EU27,2016
+510,CIV,Seeds and plant propagation industry,CHE,0.0,EU27,2016
+511,CIV,Raising of cattle industry,CHE,0.4683177250716092,EU27,2016
+512,CIV,Growing wheat industry,CHL,0.0,EU27,2016
+513,CIV,Growing maize industry,CHL,0.04339480749212005,EU27,2016
+514,CIV,Growing cereals n.e.c industry,CHL,0.00020926046208874063,EU27,2016
+515,CIV,Growing leguminous crops and oil seeds industry,CHL,0.003753090223449585,EU27,2016
+516,CIV,Growing rice industry,CHL,4.0723980966366385e-06,EU27,2016
+517,CIV,"Growing vegetables, roots, tubers industry",CHL,0.0026433967958655307,EU27,2016
+518,CIV,Growing sugar beet and cane industry,CHL,0.0001616869055124505,EU27,2016
+519,CIV,Growing tobacco industry,CHL,1.0607254183964832e-07,EU27,2016
+520,CIV,Growing fibre crops industry,CHL,0.001450263023701281,EU27,2016
+521,CIV,Growing crops n.e.c. industry,CHL,0.012398200784079733,EU27,2016
+522,CIV,Growing grapes industry,CHL,0.0,EU27,2016
+523,CIV,Growing fruits and nuts industry,CHL,0.16076075246850577,EU27,2016
+524,CIV,"Growing beverage crops (coffee, tea etc) industry",CHL,0.010012337338543465,EU27,2016
+525,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,1.898648969021303e-05,EU27,2016
+526,CIV,Seeds and plant propagation industry,CHL,0.0,EU27,2016
+527,CIV,Raising of cattle industry,CHL,0.028542961115600753,EU27,2016
+528,CIV,Growing wheat industry,CHN,0.0,EU27,2016
+529,CIV,Growing maize industry,CHN,0.8077215224138026,EU27,2016
+530,CIV,Growing cereals n.e.c industry,CHN,0.003786014867172843,EU27,2016
+531,CIV,Growing leguminous crops and oil seeds industry,CHN,0.04171973676635948,EU27,2016
+532,CIV,Growing rice industry,CHN,7.336285721879868e-05,EU27,2016
+533,CIV,"Growing vegetables, roots, tubers industry",CHN,0.04698331983734934,EU27,2016
+534,CIV,Growing sugar beet and cane industry,CHN,0.0030161833142988773,EU27,2016
+535,CIV,Growing tobacco industry,CHN,3.1256247926157467e-06,EU27,2016
+536,CIV,Growing fibre crops industry,CHN,0.04057897414941488,EU27,2016
+537,CIV,Growing crops n.e.c. industry,CHN,0.22760637113688623,EU27,2016
+538,CIV,Growing grapes industry,CHN,0.0,EU27,2016
+539,CIV,Growing fruits and nuts industry,CHN,2.6290796108728145,EU27,2016
+540,CIV,"Growing beverage crops (coffee, tea etc) industry",CHN,0.28732467629607183,EU27,2016
+541,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,0.0006681623684460684,EU27,2016
+542,CIV,Seeds and plant propagation industry,CHN,0.0,EU27,2016
+543,CIV,Raising of cattle industry,CHN,0.5317690176779518,EU27,2016
+544,CIV,Growing wheat industry,CIV,0.0,EU27,2016
+545,CIV,Growing maize industry,CIV,0.014212327063059712,EU27,2016
+546,CIV,Growing cereals n.e.c industry,CIV,6.105628967308011e-05,EU27,2016
+547,CIV,Growing leguminous crops and oil seeds industry,CIV,0.0007032331394113924,EU27,2016
+548,CIV,Growing rice industry,CIV,1.1557031089977987e-06,EU27,2016
+549,CIV,"Growing vegetables, roots, tubers industry",CIV,0.0007616559379773368,EU27,2016
+550,CIV,Growing sugar beet and cane industry,CIV,5.288647937629971e-05,EU27,2016
+551,CIV,Growing tobacco industry,CIV,6.995638637968391e-07,EU27,2016
+552,CIV,Growing fibre crops industry,CIV,0.00032721818387262464,EU27,2016
+553,CIV,Growing crops n.e.c. industry,CIV,0.0025305685345331226,EU27,2016
+554,CIV,Growing grapes industry,CIV,0.0,EU27,2016
+555,CIV,Growing fruits and nuts industry,CIV,0.04265886620633806,EU27,2016
+556,CIV,"Growing beverage crops (coffee, tea etc) industry",CIV,0.011785181533089288,EU27,2016
+557,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,6.079143224658164e-06,EU27,2016
+558,CIV,Seeds and plant propagation industry,CIV,0.0,EU27,2016
+559,CIV,Raising of cattle industry,CIV,0.009348447310551627,EU27,2016
+560,CIV,Growing wheat industry,CMR,0.0,EU27,2016
+561,CIV,Growing maize industry,CMR,0.019850626555808982,EU27,2016
+562,CIV,Growing cereals n.e.c industry,CMR,7.34163363340454e-05,EU27,2016
+563,CIV,Growing leguminous crops and oil seeds industry,CMR,0.00042199088896107377,EU27,2016
+564,CIV,Growing rice industry,CMR,1.3151089638432759e-06,EU27,2016
+565,CIV,"Growing vegetables, roots, tubers industry",CMR,0.0009411212138968698,EU27,2016
+566,CIV,Growing sugar beet and cane industry,CMR,7.375662486188259e-05,EU27,2016
+567,CIV,Growing tobacco industry,CMR,1.962332882112281e-08,EU27,2016
+568,CIV,Growing fibre crops industry,CMR,0.000252184380478005,EU27,2016
+569,CIV,Growing crops n.e.c. industry,CMR,0.0023594681647133124,EU27,2016
+570,CIV,Growing grapes industry,CMR,0.0,EU27,2016
+571,CIV,Growing fruits and nuts industry,CMR,0.04943754343530751,EU27,2016
+572,CIV,"Growing beverage crops (coffee, tea etc) industry",CMR,0.01256523489189323,EU27,2016
+573,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,2.1874794476191297e-05,EU27,2016
+574,CIV,Seeds and plant propagation industry,CMR,0.0,EU27,2016
+575,CIV,Raising of cattle industry,CMR,0.013051793741998635,EU27,2016
+576,CIV,Growing wheat industry,COD,0.0,EU27,2016
+577,CIV,Growing maize industry,COD,0.01655412100494548,EU27,2016
+578,CIV,Growing cereals n.e.c industry,COD,6.874337592407066e-05,EU27,2016
+579,CIV,Growing leguminous crops and oil seeds industry,COD,0.0005387236206672724,EU27,2016
+580,CIV,Growing rice industry,COD,1.2477152084250155e-06,EU27,2016
+581,CIV,"Growing vegetables, roots, tubers industry",COD,0.0009187492649866201,EU27,2016
+582,CIV,Growing sugar beet and cane industry,COD,6.155889664871691e-05,EU27,2016
+583,CIV,Growing tobacco industry,COD,2.693174482906037e-08,EU27,2016
+584,CIV,Growing fibre crops industry,COD,0.00024548062670781077,EU27,2016
+585,CIV,Growing crops n.e.c. industry,COD,0.002713047427992649,EU27,2016
+586,CIV,Growing grapes industry,COD,0.0,EU27,2016
+587,CIV,Growing fruits and nuts industry,COD,0.16449457694628378,EU27,2016
+588,CIV,"Growing beverage crops (coffee, tea etc) industry",COD,0.03976008328833451,EU27,2016
+589,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,1.6199648662320565e-05,EU27,2016
+590,CIV,Seeds and plant propagation industry,COD,0.0,EU27,2016
+591,CIV,Raising of cattle industry,COD,0.010897583222147249,EU27,2016
+592,CIV,Growing wheat industry,COG,0.0,EU27,2016
+593,CIV,Growing maize industry,COG,0.00864758715254279,EU27,2016
+594,CIV,Growing cereals n.e.c industry,COG,5.002948364380271e-05,EU27,2016
+595,CIV,Growing leguminous crops and oil seeds industry,COG,0.0003679591064054196,EU27,2016
+596,CIV,Growing rice industry,COG,9.946054077153625e-07,EU27,2016
+597,CIV,"Growing vegetables, roots, tubers industry",COG,0.0006467959115904949,EU27,2016
+598,CIV,Growing sugar beet and cane industry,COG,3.222105651795839e-05,EU27,2016
+599,CIV,Growing tobacco industry,COG,3.1591701041406984e-08,EU27,2016
+600,CIV,Growing fibre crops industry,COG,0.00023542799080334033,EU27,2016
+601,CIV,Growing crops n.e.c. industry,COG,0.0018045929994983019,EU27,2016
+602,CIV,Growing grapes industry,COG,0.0,EU27,2016
+603,CIV,Growing fruits and nuts industry,COG,0.04221530105497812,EU27,2016
+604,CIV,"Growing beverage crops (coffee, tea etc) industry",COG,0.0058600754814749885,EU27,2016
+605,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,5.947122732149154e-06,EU27,2016
+606,CIV,Seeds and plant propagation industry,COG,0.0,EU27,2016
+607,CIV,Raising of cattle industry,COG,0.005671120911365659,EU27,2016
+608,CIV,Growing wheat industry,COL,0.0,EU27,2016
+609,CIV,Growing maize industry,COL,0.02466298821298467,EU27,2016
+610,CIV,Growing cereals n.e.c industry,COL,0.0002490104000951102,EU27,2016
+611,CIV,Growing leguminous crops and oil seeds industry,COL,0.003116658233629649,EU27,2016
+612,CIV,Growing rice industry,COL,5.757644325426856e-06,EU27,2016
+613,CIV,"Growing vegetables, roots, tubers industry",COL,0.0033122044484799277,EU27,2016
+614,CIV,Growing sugar beet and cane industry,COL,9.245092308760073e-05,EU27,2016
+615,CIV,Growing tobacco industry,COL,8.9567408012239e-08,EU27,2016
+616,CIV,Growing fibre crops industry,COL,0.0012325833340337824,EU27,2016
+617,CIV,Growing crops n.e.c. industry,COL,0.010774731245585244,EU27,2016
+618,CIV,Growing grapes industry,COL,0.0,EU27,2016
+619,CIV,Growing fruits and nuts industry,COL,0.08874894108312213,EU27,2016
+620,CIV,"Growing beverage crops (coffee, tea etc) industry",COL,0.01543309053347331,EU27,2016
+621,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,1.3121350215706238e-05,EU27,2016
+622,CIV,Seeds and plant propagation industry,COL,0.0,EU27,2016
+623,CIV,Raising of cattle industry,COL,0.01604079312560124,EU27,2016
+624,CIV,Growing wheat industry,CRI,0.0,EU27,2016
+625,CIV,Growing maize industry,CRI,0.008919436240431492,EU27,2016
+626,CIV,Growing cereals n.e.c industry,CRI,3.807849078683573e-05,EU27,2016
+627,CIV,Growing leguminous crops and oil seeds industry,CRI,0.0007453186917157288,EU27,2016
+628,CIV,Growing rice industry,CRI,7.099289808865122e-07,EU27,2016
+629,CIV,"Growing vegetables, roots, tubers industry",CRI,0.0005065810680058242,EU27,2016
+630,CIV,Growing sugar beet and cane industry,CRI,3.321582654594022e-05,EU27,2016
+631,CIV,Growing tobacco industry,CRI,3.184572146907754e-08,EU27,2016
+632,CIV,Growing fibre crops industry,CRI,0.00035034958995864494,EU27,2016
+633,CIV,Growing crops n.e.c. industry,CRI,0.002221439614842134,EU27,2016
+634,CIV,Growing grapes industry,CRI,0.0,EU27,2016
+635,CIV,Growing fruits and nuts industry,CRI,0.040168604668767594,EU27,2016
+636,CIV,"Growing beverage crops (coffee, tea etc) industry",CRI,0.01159657677691223,EU27,2016
+637,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,4.343787039377595e-06,EU27,2016
+638,CIV,Seeds and plant propagation industry,CRI,0.0,EU27,2016
+639,CIV,Raising of cattle industry,CRI,0.0058692579425938226,EU27,2016
+640,CIV,Growing wheat industry,CUB,0.0,EU27,2016
+641,CIV,Growing maize industry,CUB,0.026643612632370983,EU27,2016
+642,CIV,Growing cereals n.e.c industry,CUB,0.00011639547887518981,EU27,2016
+643,CIV,Growing leguminous crops and oil seeds industry,CUB,0.0015059149414824399,EU27,2016
+644,CIV,Growing rice industry,CUB,2.1566301882815424e-06,EU27,2016
+645,CIV,"Growing vegetables, roots, tubers industry",CUB,0.0014204566544168986,EU27,2016
+646,CIV,Growing sugar beet and cane industry,CUB,9.901854044064714e-05,EU27,2016
+647,CIV,Growing tobacco industry,CUB,2.6820387918248052e-08,EU27,2016
+648,CIV,Growing fibre crops industry,CUB,0.0005228341123347618,EU27,2016
+649,CIV,Growing crops n.e.c. industry,CUB,0.00345875964682046,EU27,2016
+650,CIV,Growing grapes industry,CUB,0.0,EU27,2016
+651,CIV,Growing fruits and nuts industry,CUB,0.11841210981047932,EU27,2016
+652,CIV,"Growing beverage crops (coffee, tea etc) industry",CUB,0.0179917102127451,EU27,2016
+653,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,1.039722197865684e-05,EU27,2016
+654,CIV,Seeds and plant propagation industry,CUB,0.0,EU27,2016
+655,CIV,Raising of cattle industry,CUB,0.017493829756515658,EU27,2016
+656,CIV,Growing wheat industry,CYP,0.0,EU27,2016
+657,CIV,Growing maize industry,CYP,0.0,EU27,2016
+658,CIV,Growing cereals n.e.c industry,CYP,0.0,EU27,2016
+659,CIV,Growing leguminous crops and oil seeds industry,CYP,0.0,EU27,2016
+660,CIV,Growing rice industry,CYP,0.0,EU27,2016
+661,CIV,"Growing vegetables, roots, tubers industry",CYP,0.0,EU27,2016
+662,CIV,Growing sugar beet and cane industry,CYP,0.0,EU27,2016
+663,CIV,Growing tobacco industry,CYP,0.0,EU27,2016
+664,CIV,Growing fibre crops industry,CYP,0.0,EU27,2016
+665,CIV,Growing crops n.e.c. industry,CYP,0.0,EU27,2016
+666,CIV,Growing grapes industry,CYP,0.0,EU27,2016
+667,CIV,Growing fruits and nuts industry,CYP,0.0,EU27,2016
+668,CIV,"Growing beverage crops (coffee, tea etc) industry",CYP,0.0,EU27,2016
+669,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,0.0,EU27,2016
+670,CIV,Seeds and plant propagation industry,CYP,0.0,EU27,2016
+671,CIV,Raising of cattle industry,CYP,0.0,EU27,2016
+672,CIV,Growing wheat industry,CZE,0.0,EU27,2016
+673,CIV,Growing maize industry,CZE,0.0,EU27,2016
+674,CIV,Growing cereals n.e.c industry,CZE,0.0,EU27,2016
+675,CIV,Growing leguminous crops and oil seeds industry,CZE,0.0,EU27,2016
+676,CIV,Growing rice industry,CZE,0.0,EU27,2016
+677,CIV,"Growing vegetables, roots, tubers industry",CZE,0.0,EU27,2016
+678,CIV,Growing sugar beet and cane industry,CZE,0.0,EU27,2016
+679,CIV,Growing tobacco industry,CZE,0.0,EU27,2016
+680,CIV,Growing fibre crops industry,CZE,0.0,EU27,2016
+681,CIV,Growing crops n.e.c. industry,CZE,0.0,EU27,2016
+682,CIV,Growing grapes industry,CZE,0.0,EU27,2016
+683,CIV,Growing fruits and nuts industry,CZE,0.0,EU27,2016
+684,CIV,"Growing beverage crops (coffee, tea etc) industry",CZE,0.0,EU27,2016
+685,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,0.0,EU27,2016
+686,CIV,Seeds and plant propagation industry,CZE,0.0,EU27,2016
+687,CIV,Raising of cattle industry,CZE,0.0,EU27,2016
+688,CIV,Growing wheat industry,DEU,0.0,EU27,2016
+689,CIV,Growing maize industry,DEU,0.0,EU27,2016
+690,CIV,Growing cereals n.e.c industry,DEU,0.0,EU27,2016
+691,CIV,Growing leguminous crops and oil seeds industry,DEU,0.0,EU27,2016
+692,CIV,Growing rice industry,DEU,0.0,EU27,2016
+693,CIV,"Growing vegetables, roots, tubers industry",DEU,0.0,EU27,2016
+694,CIV,Growing sugar beet and cane industry,DEU,0.0,EU27,2016
+695,CIV,Growing tobacco industry,DEU,0.0,EU27,2016
+696,CIV,Growing fibre crops industry,DEU,0.0,EU27,2016
+697,CIV,Growing crops n.e.c. industry,DEU,0.0,EU27,2016
+698,CIV,Growing grapes industry,DEU,0.0,EU27,2016
+699,CIV,Growing fruits and nuts industry,DEU,0.0,EU27,2016
+700,CIV,"Growing beverage crops (coffee, tea etc) industry",DEU,0.0,EU27,2016
+701,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,0.0,EU27,2016
+702,CIV,Seeds and plant propagation industry,DEU,0.0,EU27,2016
+703,CIV,Raising of cattle industry,DEU,0.0,EU27,2016
+704,CIV,Growing wheat industry,DJI,0.0,EU27,2016
+705,CIV,Growing maize industry,DJI,0.003456096146499859,EU27,2016
+706,CIV,Growing cereals n.e.c industry,DJI,1.2087542249221356e-05,EU27,2016
+707,CIV,Growing leguminous crops and oil seeds industry,DJI,7.195368612660363e-05,EU27,2016
+708,CIV,Growing rice industry,DJI,2.1215150873448407e-07,EU27,2016
+709,CIV,"Growing vegetables, roots, tubers industry",DJI,0.00012916913530736023,EU27,2016
+710,CIV,Growing sugar beet and cane industry,DJI,1.2835541215061845e-05,EU27,2016
+711,CIV,Growing tobacco industry,DJI,1.2040863092176236e-08,EU27,2016
+712,CIV,Growing fibre crops industry,DJI,6.602409146220626e-05,EU27,2016
+713,CIV,Growing crops n.e.c. industry,DJI,0.00034584627061942733,EU27,2016
+714,CIV,Growing grapes industry,DJI,0.0,EU27,2016
+715,CIV,Growing fruits and nuts industry,DJI,0.005279988880744568,EU27,2016
+716,CIV,"Growing beverage crops (coffee, tea etc) industry",DJI,0.0002500695844298956,EU27,2016
+717,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,4.945614825036924e-07,EU27,2016
+718,CIV,Seeds and plant propagation industry,DJI,0.0,EU27,2016
+719,CIV,Raising of cattle industry,DJI,0.0022725281682509433,EU27,2016
+720,CIV,Growing wheat industry,DYE,0.0,EU27,2016
+721,CIV,Growing maize industry,DYE,0.0,EU27,2016
+722,CIV,Growing cereals n.e.c industry,DYE,0.0,EU27,2016
+723,CIV,Growing leguminous crops and oil seeds industry,DYE,0.0,EU27,2016
+724,CIV,Growing rice industry,DYE,0.0,EU27,2016
+725,CIV,"Growing vegetables, roots, tubers industry",DYE,0.0,EU27,2016
+726,CIV,Growing sugar beet and cane industry,DYE,0.0,EU27,2016
+727,CIV,Growing tobacco industry,DYE,0.0,EU27,2016
+728,CIV,Growing fibre crops industry,DYE,0.0,EU27,2016
+729,CIV,Growing crops n.e.c. industry,DYE,0.0,EU27,2016
+730,CIV,Growing grapes industry,DYE,0.0,EU27,2016
+731,CIV,Growing fruits and nuts industry,DYE,0.0,EU27,2016
+732,CIV,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,EU27,2016
+733,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,EU27,2016
+734,CIV,Seeds and plant propagation industry,DYE,0.0,EU27,2016
+735,CIV,Raising of cattle industry,DYE,0.0,EU27,2016
+736,CIV,Growing wheat industry,DNK,0.0,EU27,2016
+737,CIV,Growing maize industry,DNK,0.0,EU27,2016
+738,CIV,Growing cereals n.e.c industry,DNK,0.0,EU27,2016
+739,CIV,Growing leguminous crops and oil seeds industry,DNK,0.0,EU27,2016
+740,CIV,Growing rice industry,DNK,0.0,EU27,2016
+741,CIV,"Growing vegetables, roots, tubers industry",DNK,0.0,EU27,2016
+742,CIV,Growing sugar beet and cane industry,DNK,0.0,EU27,2016
+743,CIV,Growing tobacco industry,DNK,0.0,EU27,2016
+744,CIV,Growing fibre crops industry,DNK,0.0,EU27,2016
+745,CIV,Growing crops n.e.c. industry,DNK,0.0,EU27,2016
+746,CIV,Growing grapes industry,DNK,0.0,EU27,2016
+747,CIV,Growing fruits and nuts industry,DNK,0.0,EU27,2016
+748,CIV,"Growing beverage crops (coffee, tea etc) industry",DNK,0.0,EU27,2016
+749,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,0.0,EU27,2016
+750,CIV,Seeds and plant propagation industry,DNK,0.0,EU27,2016
+751,CIV,Raising of cattle industry,DNK,0.0,EU27,2016
+752,CIV,Growing wheat industry,DOM,0.0,EU27,2016
+753,CIV,Growing maize industry,DOM,0.028465440563443276,EU27,2016
+754,CIV,Growing cereals n.e.c industry,DOM,0.00010416945949018566,EU27,2016
+755,CIV,Growing leguminous crops and oil seeds industry,DOM,0.0020224416070285557,EU27,2016
+756,CIV,Growing rice industry,DOM,1.801584961567924e-06,EU27,2016
+757,CIV,"Growing vegetables, roots, tubers industry",DOM,0.001217505726849298,EU27,2016
+758,CIV,Growing sugar beet and cane industry,DOM,0.00010573969408533113,EU27,2016
+759,CIV,Growing tobacco industry,DOM,1.3096294500112845e-07,EU27,2016
+760,CIV,Growing fibre crops industry,DOM,0.00040069089931667315,EU27,2016
+761,CIV,Growing crops n.e.c. industry,DOM,0.002455790189989546,EU27,2016
+762,CIV,Growing grapes industry,DOM,0.0,EU27,2016
+763,CIV,Growing fruits and nuts industry,DOM,0.035671473500297826,EU27,2016
+764,CIV,"Growing beverage crops (coffee, tea etc) industry",DOM,0.011782062547226607,EU27,2016
+765,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,5.68967996092122e-06,EU27,2016
+766,CIV,Seeds and plant propagation industry,DOM,0.0,EU27,2016
+767,CIV,Raising of cattle industry,DOM,0.01870355719963827,EU27,2016
+768,CIV,Growing wheat industry,DZA,0.0,EU27,2016
+769,CIV,Growing maize industry,DZA,0.2828600124433721,EU27,2016
+770,CIV,Growing cereals n.e.c industry,DZA,0.001245761456466141,EU27,2016
+771,CIV,Growing leguminous crops and oil seeds industry,DZA,0.011844621682040963,EU27,2016
+772,CIV,Growing rice industry,DZA,2.33076595084874e-05,EU27,2016
+773,CIV,"Growing vegetables, roots, tubers industry",DZA,0.014572524130406035,EU27,2016
+774,CIV,Growing sugar beet and cane industry,DZA,0.0010513595058246423,EU27,2016
+775,CIV,Growing tobacco industry,DZA,5.324147466708177e-07,EU27,2016
+776,CIV,Growing fibre crops industry,DZA,0.005212660285052833,EU27,2016
+777,CIV,Growing crops n.e.c. industry,DZA,0.028600989079324474,EU27,2016
+778,CIV,Growing grapes industry,DZA,0.0,EU27,2016
+779,CIV,Growing fruits and nuts industry,DZA,0.3433856483033948,EU27,2016
+780,CIV,"Growing beverage crops (coffee, tea etc) industry",DZA,0.027004054852008786,EU27,2016
+781,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,6.144112956798238e-05,EU27,2016
+782,CIV,Seeds and plant propagation industry,DZA,0.0,EU27,2016
+783,CIV,Raising of cattle industry,DZA,0.18559496345422705,EU27,2016
+784,CIV,Growing wheat industry,ECU,0.0,EU27,2016
+785,CIV,Growing maize industry,ECU,0.00669543133816522,EU27,2016
+786,CIV,Growing cereals n.e.c industry,ECU,6.938111132505637e-05,EU27,2016
+787,CIV,Growing leguminous crops and oil seeds industry,ECU,0.0013521405164657854,EU27,2016
+788,CIV,Growing rice industry,ECU,1.5733627886023126e-06,EU27,2016
+789,CIV,"Growing vegetables, roots, tubers industry",ECU,0.0010044663432426577,EU27,2016
+790,CIV,Growing sugar beet and cane industry,ECU,2.5047338749732413e-05,EU27,2016
+791,CIV,Growing tobacco industry,ECU,2.768585582572423e-08,EU27,2016
+792,CIV,Growing fibre crops industry,ECU,0.0005173252701599674,EU27,2016
+793,CIV,Growing crops n.e.c. industry,ECU,0.0019201914930110436,EU27,2016
+794,CIV,Growing grapes industry,ECU,0.0,EU27,2016
+795,CIV,Growing fruits and nuts industry,ECU,0.025324890951047386,EU27,2016
+796,CIV,"Growing beverage crops (coffee, tea etc) industry",ECU,0.000759684322385138,EU27,2016
+797,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,4.764264429278971e-06,EU27,2016
+798,CIV,Seeds and plant propagation industry,ECU,0.0,EU27,2016
+799,CIV,Raising of cattle industry,ECU,0.004346626747926311,EU27,2016
+800,CIV,Growing wheat industry,EGY,0.0,EU27,2016
+801,CIV,Growing maize industry,EGY,0.08836734902302402,EU27,2016
+802,CIV,Growing cereals n.e.c industry,EGY,0.0004932817155147167,EU27,2016
+803,CIV,Growing leguminous crops and oil seeds industry,EGY,0.005247358765872255,EU27,2016
+804,CIV,Growing rice industry,EGY,1.023362831345702e-05,EU27,2016
+805,CIV,"Growing vegetables, roots, tubers industry",EGY,0.006023194666367122,EU27,2016
+806,CIV,Growing sugar beet and cane industry,EGY,0.00033008857222886995,EU27,2016
+807,CIV,Growing tobacco industry,EGY,2.9925477353929517e-07,EU27,2016
+808,CIV,Growing fibre crops industry,EGY,0.0028751537783747315,EU27,2016
+809,CIV,Growing crops n.e.c. industry,EGY,0.06727110327916415,EU27,2016
+810,CIV,Growing grapes industry,EGY,0.0,EU27,2016
+811,CIV,Growing fruits and nuts industry,EGY,0.15974941490026406,EU27,2016
+812,CIV,"Growing beverage crops (coffee, tea etc) industry",EGY,0.008943242620377889,EU27,2016
+813,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,1.7306837692238777e-05,EU27,2016
+814,CIV,Seeds and plant propagation industry,EGY,0.0,EU27,2016
+815,CIV,Raising of cattle industry,EGY,0.05813934082384899,EU27,2016
+816,CIV,Growing wheat industry,ERI,0.0,EU27,2016
+817,CIV,Growing maize industry,ERI,0.000408648435742204,EU27,2016
+818,CIV,Growing cereals n.e.c industry,ERI,2.100742721725544e-06,EU27,2016
+819,CIV,Growing leguminous crops and oil seeds industry,ERI,2.0968652692723107e-05,EU27,2016
+820,CIV,Growing rice industry,ERI,4.215287334273797e-08,EU27,2016
+821,CIV,"Growing vegetables, roots, tubers industry",ERI,2.5405891635470784e-05,EU27,2016
+822,CIV,Growing sugar beet and cane industry,ERI,1.5210187076526464e-06,EU27,2016
+823,CIV,Growing tobacco industry,ERI,6.485962589690176e-10,EU27,2016
+824,CIV,Growing fibre crops industry,ERI,2.291309497276741e-05,EU27,2016
+825,CIV,Growing crops n.e.c. industry,ERI,5.7202748335804476e-05,EU27,2016
+826,CIV,Growing grapes industry,ERI,0.0,EU27,2016
+827,CIV,Growing fruits and nuts industry,ERI,0.0018898885032913124,EU27,2016
+828,CIV,"Growing beverage crops (coffee, tea etc) industry",ERI,0.00019011340554505435,EU27,2016
+829,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,6.421388311206677e-07,EU27,2016
+830,CIV,Seeds and plant propagation industry,ERI,0.0,EU27,2016
+831,CIV,Raising of cattle industry,ERI,0.0002680842512335965,EU27,2016
+832,CIV,Growing wheat industry,ESP,0.0,EU27,2016
+833,CIV,Growing maize industry,ESP,0.0,EU27,2016
+834,CIV,Growing cereals n.e.c industry,ESP,0.0,EU27,2016
+835,CIV,Growing leguminous crops and oil seeds industry,ESP,0.0,EU27,2016
+836,CIV,Growing rice industry,ESP,0.0,EU27,2016
+837,CIV,"Growing vegetables, roots, tubers industry",ESP,0.0,EU27,2016
+838,CIV,Growing sugar beet and cane industry,ESP,0.0,EU27,2016
+839,CIV,Growing tobacco industry,ESP,0.0,EU27,2016
+840,CIV,Growing fibre crops industry,ESP,0.0,EU27,2016
+841,CIV,Growing crops n.e.c. industry,ESP,0.0,EU27,2016
+842,CIV,Growing grapes industry,ESP,0.0,EU27,2016
+843,CIV,Growing fruits and nuts industry,ESP,0.0,EU27,2016
+844,CIV,"Growing beverage crops (coffee, tea etc) industry",ESP,0.0,EU27,2016
+845,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,0.0,EU27,2016
+846,CIV,Seeds and plant propagation industry,ESP,0.0,EU27,2016
+847,CIV,Raising of cattle industry,ESP,0.0,EU27,2016
+848,CIV,Growing wheat industry,EST,0.0,EU27,2016
+849,CIV,Growing maize industry,EST,0.0,EU27,2016
+850,CIV,Growing cereals n.e.c industry,EST,0.0,EU27,2016
+851,CIV,Growing leguminous crops and oil seeds industry,EST,0.0,EU27,2016
+852,CIV,Growing rice industry,EST,0.0,EU27,2016
+853,CIV,"Growing vegetables, roots, tubers industry",EST,0.0,EU27,2016
+854,CIV,Growing sugar beet and cane industry,EST,0.0,EU27,2016
+855,CIV,Growing tobacco industry,EST,0.0,EU27,2016
+856,CIV,Growing fibre crops industry,EST,0.0,EU27,2016
+857,CIV,Growing crops n.e.c. industry,EST,0.0,EU27,2016
+858,CIV,Growing grapes industry,EST,0.0,EU27,2016
+859,CIV,Growing fruits and nuts industry,EST,0.0,EU27,2016
+860,CIV,"Growing beverage crops (coffee, tea etc) industry",EST,0.0,EU27,2016
+861,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,0.0,EU27,2016
+862,CIV,Seeds and plant propagation industry,EST,0.0,EU27,2016
+863,CIV,Raising of cattle industry,EST,0.0,EU27,2016
+864,CIV,Growing wheat industry,ETH,0.0,EU27,2016
+865,CIV,Growing maize industry,ETH,0.0133415458305764,EU27,2016
+866,CIV,Growing cereals n.e.c industry,ETH,6.502499378397246e-05,EU27,2016
+867,CIV,Growing leguminous crops and oil seeds industry,ETH,0.0008194770589607243,EU27,2016
+868,CIV,Growing rice industry,ETH,1.282971554738593e-06,EU27,2016
+869,CIV,"Growing vegetables, roots, tubers industry",ETH,0.0007719228401895619,EU27,2016
+870,CIV,Growing sugar beet and cane industry,ETH,4.96885580088007e-05,EU27,2016
+871,CIV,Growing tobacco industry,ETH,5.068848126491996e-08,EU27,2016
+872,CIV,Growing fibre crops industry,ETH,0.00042261396342427044,EU27,2016
+873,CIV,Growing crops n.e.c. industry,ETH,0.002791708680377352,EU27,2016
+874,CIV,Growing grapes industry,ETH,0.0,EU27,2016
+875,CIV,Growing fruits and nuts industry,ETH,0.06946231881119727,EU27,2016
+876,CIV,"Growing beverage crops (coffee, tea etc) industry",ETH,0.004981274462156634,EU27,2016
+877,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,4.894797707547069e-06,EU27,2016
+878,CIV,Seeds and plant propagation industry,ETH,0.0,EU27,2016
+879,CIV,Raising of cattle industry,ETH,0.00877219407843713,EU27,2016
+880,CIV,Growing wheat industry,FIN,0.0,EU27,2016
+881,CIV,Growing maize industry,FIN,0.0,EU27,2016
+882,CIV,Growing cereals n.e.c industry,FIN,0.0,EU27,2016
+883,CIV,Growing leguminous crops and oil seeds industry,FIN,0.0,EU27,2016
+884,CIV,Growing rice industry,FIN,0.0,EU27,2016
+885,CIV,"Growing vegetables, roots, tubers industry",FIN,0.0,EU27,2016
+886,CIV,Growing sugar beet and cane industry,FIN,0.0,EU27,2016
+887,CIV,Growing tobacco industry,FIN,0.0,EU27,2016
+888,CIV,Growing fibre crops industry,FIN,0.0,EU27,2016
+889,CIV,Growing crops n.e.c. industry,FIN,0.0,EU27,2016
+890,CIV,Growing grapes industry,FIN,0.0,EU27,2016
+891,CIV,Growing fruits and nuts industry,FIN,0.0,EU27,2016
+892,CIV,"Growing beverage crops (coffee, tea etc) industry",FIN,0.0,EU27,2016
+893,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,0.0,EU27,2016
+894,CIV,Seeds and plant propagation industry,FIN,0.0,EU27,2016
+895,CIV,Raising of cattle industry,FIN,0.0,EU27,2016
+896,CIV,Growing wheat industry,FRA,0.0,EU27,2016
+897,CIV,Growing maize industry,FRA,0.0,EU27,2016
+898,CIV,Growing cereals n.e.c industry,FRA,0.0,EU27,2016
+899,CIV,Growing leguminous crops and oil seeds industry,FRA,0.0,EU27,2016
+900,CIV,Growing rice industry,FRA,0.0,EU27,2016
+901,CIV,"Growing vegetables, roots, tubers industry",FRA,0.0,EU27,2016
+902,CIV,Growing sugar beet and cane industry,FRA,0.0,EU27,2016
+903,CIV,Growing tobacco industry,FRA,0.0,EU27,2016
+904,CIV,Growing fibre crops industry,FRA,0.0,EU27,2016
+905,CIV,Growing crops n.e.c. industry,FRA,0.0,EU27,2016
+906,CIV,Growing grapes industry,FRA,0.0,EU27,2016
+907,CIV,Growing fruits and nuts industry,FRA,0.0,EU27,2016
+908,CIV,"Growing beverage crops (coffee, tea etc) industry",FRA,0.0,EU27,2016
+909,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,0.0,EU27,2016
+910,CIV,Seeds and plant propagation industry,FRA,0.0,EU27,2016
+911,CIV,Raising of cattle industry,FRA,0.0,EU27,2016
+912,CIV,Growing wheat industry,GAB,0.0,EU27,2016
+913,CIV,Growing maize industry,GAB,0.02211720195583709,EU27,2016
+914,CIV,Growing cereals n.e.c industry,GAB,8.534845175770471e-05,EU27,2016
+915,CIV,Growing leguminous crops and oil seeds industry,GAB,0.00028623405014431097,EU27,2016
+916,CIV,Growing rice industry,GAB,1.54595023034702e-06,EU27,2016
+917,CIV,"Growing vegetables, roots, tubers industry",GAB,0.000971827928023103,EU27,2016
+918,CIV,Growing sugar beet and cane industry,GAB,8.214598488063769e-05,EU27,2016
+919,CIV,Growing tobacco industry,GAB,8.373295061193528e-08,EU27,2016
+920,CIV,Growing fibre crops industry,GAB,0.00014743980109248875,EU27,2016
+921,CIV,Growing crops n.e.c. industry,GAB,0.002193403923671378,EU27,2016
+922,CIV,Growing grapes industry,GAB,0.0,EU27,2016
+923,CIV,Growing fruits and nuts industry,GAB,0.046698191987995644,EU27,2016
+924,CIV,"Growing beverage crops (coffee, tea etc) industry",GAB,0.006315289966516851,EU27,2016
+925,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,6.532102363332806e-06,EU27,2016
+926,CIV,Seeds and plant propagation industry,GAB,0.0,EU27,2016
+927,CIV,Raising of cattle industry,GAB,0.014530090189631317,EU27,2016
+928,CIV,Growing wheat industry,GBR,0.0,EU27,2016
+929,CIV,Growing maize industry,GBR,2.239991246235942,EU27,2016
+930,CIV,Growing cereals n.e.c industry,GBR,0.014690708803614958,EU27,2016
+931,CIV,Growing leguminous crops and oil seeds industry,GBR,0.1304074256416651,EU27,2016
+932,CIV,Growing rice industry,GBR,0.0003076249695200299,EU27,2016
+933,CIV,"Growing vegetables, roots, tubers industry",GBR,0.19198044842861653,EU27,2016
+934,CIV,Growing sugar beet and cane industry,GBR,0.008360599490519528,EU27,2016
+935,CIV,Growing tobacco industry,GBR,4.554346800278296e-06,EU27,2016
+936,CIV,Growing fibre crops industry,GBR,0.06716154548192567,EU27,2016
+937,CIV,Growing crops n.e.c. industry,GBR,0.7802074031699967,EU27,2016
+938,CIV,Growing grapes industry,GBR,0.0,EU27,2016
+939,CIV,Growing fruits and nuts industry,GBR,10.811421621508163,EU27,2016
+940,CIV,"Growing beverage crops (coffee, tea etc) industry",GBR,1.0181291096983633,EU27,2016
+941,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,0.0008553167768491754,EU27,2016
+942,CIV,Seeds and plant propagation industry,GBR,0.0,EU27,2016
+943,CIV,Raising of cattle industry,GBR,1.4662230336622561,EU27,2016
+944,CIV,Growing wheat industry,GEO,0.0,EU27,2016
+945,CIV,Growing maize industry,GEO,0.011252243700492407,EU27,2016
+946,CIV,Growing cereals n.e.c industry,GEO,6.874288974744624e-05,EU27,2016
+947,CIV,Growing leguminous crops and oil seeds industry,GEO,0.0004878518415595929,EU27,2016
+948,CIV,Growing rice industry,GEO,1.4231257604053862e-06,EU27,2016
+949,CIV,"Growing vegetables, roots, tubers industry",GEO,0.0008693622638050927,EU27,2016
+950,CIV,Growing sugar beet and cane industry,GEO,4.190989961907647e-05,EU27,2016
+951,CIV,Growing tobacco industry,GEO,4.1921077011868364e-08,EU27,2016
+952,CIV,Growing fibre crops industry,GEO,0.00041244308260497394,EU27,2016
+953,CIV,Growing crops n.e.c. industry,GEO,0.0017549732631468985,EU27,2016
+954,CIV,Growing grapes industry,GEO,0.0,EU27,2016
+955,CIV,Growing fruits and nuts industry,GEO,0.06354785126214292,EU27,2016
+956,CIV,"Growing beverage crops (coffee, tea etc) industry",GEO,0.008213798667736834,EU27,2016
+957,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,8.699994822100192e-06,EU27,2016
+958,CIV,Seeds and plant propagation industry,GEO,0.0,EU27,2016
+959,CIV,Raising of cattle industry,GEO,0.007363256156814461,EU27,2016
+960,CIV,Growing wheat industry,GHA,0.0,EU27,2016
+961,CIV,Growing maize industry,GHA,0.018572949521713903,EU27,2016
+962,CIV,Growing cereals n.e.c industry,GHA,0.00011853196323962709,EU27,2016
+963,CIV,Growing leguminous crops and oil seeds industry,GHA,0.0010481805216833878,EU27,2016
+964,CIV,Growing rice industry,GHA,2.4571831201173028e-06,EU27,2016
+965,CIV,"Growing vegetables, roots, tubers industry",GHA,0.0016036015774319942,EU27,2016
+966,CIV,Growing sugar beet and cane industry,GHA,6.92288634104681e-05,EU27,2016
+967,CIV,Growing tobacco industry,GHA,4.464093691743723e-08,EU27,2016
+968,CIV,Growing fibre crops industry,GHA,0.0005784541041884559,EU27,2016
+969,CIV,Growing crops n.e.c. industry,GHA,0.004436446207829067,EU27,2016
+970,CIV,Growing grapes industry,GHA,0.0,EU27,2016
+971,CIV,Growing fruits and nuts industry,GHA,0.16369395199553535,EU27,2016
+972,CIV,"Growing beverage crops (coffee, tea etc) industry",GHA,0.013508478750832076,EU27,2016
+973,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,6.658287421483917e-06,EU27,2016
+974,CIV,Seeds and plant propagation industry,GHA,0.0,EU27,2016
+975,CIV,Raising of cattle industry,GHA,0.012165457407439765,EU27,2016
+976,CIV,Growing wheat industry,GIN,0.0,EU27,2016
+977,CIV,Growing maize industry,GIN,0.006943396501950442,EU27,2016
+978,CIV,Growing cereals n.e.c industry,GIN,3.9768580332178644e-05,EU27,2016
+979,CIV,Growing leguminous crops and oil seeds industry,GIN,0.0003930358706482638,EU27,2016
+980,CIV,Growing rice industry,GIN,8.132526820364196e-07,EU27,2016
+981,CIV,"Growing vegetables, roots, tubers industry",GIN,0.0005123688903711571,EU27,2016
+982,CIV,Growing sugar beet and cane industry,GIN,2.5861953026759836e-05,EU27,2016
+983,CIV,Growing tobacco industry,GIN,2.8149415521871924e-08,EU27,2016
+984,CIV,Growing fibre crops industry,GIN,0.00026750166517967286,EU27,2016
+985,CIV,Growing crops n.e.c. industry,GIN,0.0015427656237983168,EU27,2016
+986,CIV,Growing grapes industry,GIN,0.0,EU27,2016
+987,CIV,Growing fruits and nuts industry,GIN,0.04556098307953357,EU27,2016
+988,CIV,"Growing beverage crops (coffee, tea etc) industry",GIN,0.0032242898126390927,EU27,2016
+989,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,2.611006511843435e-06,EU27,2016
+990,CIV,Seeds and plant propagation industry,GIN,0.0,EU27,2016
+991,CIV,Raising of cattle industry,GIN,0.004555352645324759,EU27,2016
+992,CIV,Growing wheat industry,GMB,0.0,EU27,2016
+993,CIV,Growing maize industry,GMB,0.0005981146004010938,EU27,2016
+994,CIV,Growing cereals n.e.c industry,GMB,2.9724568515927903e-06,EU27,2016
+995,CIV,Growing leguminous crops and oil seeds industry,GMB,3.377305360438952e-05,EU27,2016
+996,CIV,Growing rice industry,GMB,5.519366120200388e-08,EU27,2016
+997,CIV,"Growing vegetables, roots, tubers industry",GMB,3.893010355234259e-05,EU27,2016
+998,CIV,Growing sugar beet and cane industry,GMB,2.2229271824028786e-06,EU27,2016
+999,CIV,Growing tobacco industry,GMB,5.953763041288209e-10,EU27,2016
+1000,CIV,Growing fibre crops industry,GMB,8.046759561019074e-06,EU27,2016
+1001,CIV,Growing crops n.e.c. industry,GMB,9.607029078914521e-05,EU27,2016
+1002,CIV,Growing grapes industry,GMB,0.0,EU27,2016
+1003,CIV,Growing fruits and nuts industry,GMB,0.005656666474114161,EU27,2016
+1004,CIV,"Growing beverage crops (coffee, tea etc) industry",GMB,0.0005014071344295438,EU27,2016
+1005,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,1.222330290469218e-07,EU27,2016
+1006,CIV,Seeds and plant propagation industry,GMB,0.0,EU27,2016
+1007,CIV,Raising of cattle industry,GMB,0.0003924378506836825,EU27,2016
+1008,CIV,Growing wheat industry,GNQ,0.0,EU27,2016
+1009,CIV,Growing maize industry,GNQ,0.031014790005863897,EU27,2016
+1010,CIV,Growing cereals n.e.c industry,GNQ,0.00010978681967807719,EU27,2016
+1011,CIV,Growing leguminous crops and oil seeds industry,GNQ,0.0015788463642524815,EU27,2016
+1012,CIV,Growing rice industry,GNQ,1.834770954520486e-06,EU27,2016
+1013,CIV,"Growing vegetables, roots, tubers industry",GNQ,0.0014365088806012419,EU27,2016
+1014,CIV,Growing sugar beet and cane industry,GNQ,0.00011512461719467115,EU27,2016
+1015,CIV,Growing tobacco industry,GNQ,1.23957005314056e-08,EU27,2016
+1016,CIV,Growing fibre crops industry,GNQ,0.0001927834752628089,EU27,2016
+1017,CIV,Growing crops n.e.c. industry,GNQ,0.002800574825228837,EU27,2016
+1018,CIV,Growing grapes industry,GNQ,0.0,EU27,2016
+1019,CIV,Growing fruits and nuts industry,GNQ,0.1087787866495955,EU27,2016
+1020,CIV,"Growing beverage crops (coffee, tea etc) industry",GNQ,0.08749221684571619,EU27,2016
+1021,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,1.115828992249489e-05,EU27,2016
+1022,CIV,Seeds and plant propagation industry,GNQ,0.0,EU27,2016
+1023,CIV,Raising of cattle industry,GNQ,0.020396608599262248,EU27,2016
+1024,CIV,Growing wheat industry,GRC,0.0,EU27,2016
+1025,CIV,Growing maize industry,GRC,0.0,EU27,2016
+1026,CIV,Growing cereals n.e.c industry,GRC,0.0,EU27,2016
+1027,CIV,Growing leguminous crops and oil seeds industry,GRC,0.0,EU27,2016
+1028,CIV,Growing rice industry,GRC,0.0,EU27,2016
+1029,CIV,"Growing vegetables, roots, tubers industry",GRC,0.0,EU27,2016
+1030,CIV,Growing sugar beet and cane industry,GRC,0.0,EU27,2016
+1031,CIV,Growing tobacco industry,GRC,0.0,EU27,2016
+1032,CIV,Growing fibre crops industry,GRC,0.0,EU27,2016
+1033,CIV,Growing crops n.e.c. industry,GRC,0.0,EU27,2016
+1034,CIV,Growing grapes industry,GRC,0.0,EU27,2016
+1035,CIV,Growing fruits and nuts industry,GRC,0.0,EU27,2016
+1036,CIV,"Growing beverage crops (coffee, tea etc) industry",GRC,0.0,EU27,2016
+1037,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,0.0,EU27,2016
+1038,CIV,Seeds and plant propagation industry,GRC,0.0,EU27,2016
+1039,CIV,Raising of cattle industry,GRC,0.0,EU27,2016
+1040,CIV,Growing wheat industry,GTM,0.0,EU27,2016
+1041,CIV,Growing maize industry,GTM,0.0062215809562767045,EU27,2016
+1042,CIV,Growing cereals n.e.c industry,GTM,3.16445512116285e-05,EU27,2016
+1043,CIV,Growing leguminous crops and oil seeds industry,GTM,0.0006031678439547576,EU27,2016
+1044,CIV,Growing rice industry,GTM,6.198438442523925e-07,EU27,2016
+1045,CIV,"Growing vegetables, roots, tubers industry",GTM,0.00043529607033864637,EU27,2016
+1046,CIV,Growing sugar beet and cane industry,GTM,2.3198657142180817e-05,EU27,2016
+1047,CIV,Growing tobacco industry,GTM,1.518138005105378e-08,EU27,2016
+1048,CIV,Growing fibre crops industry,GTM,0.0002699597801360688,EU27,2016
+1049,CIV,Growing crops n.e.c. industry,GTM,0.0012478406421343917,EU27,2016
+1050,CIV,Growing grapes industry,GTM,0.0,EU27,2016
+1051,CIV,Growing fruits and nuts industry,GTM,0.0326363809470823,EU27,2016
+1052,CIV,"Growing beverage crops (coffee, tea etc) industry",GTM,0.002894236016323028,EU27,2016
+1053,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,5.530742916318205e-06,EU27,2016
+1054,CIV,Seeds and plant propagation industry,GTM,0.0,EU27,2016
+1055,CIV,Raising of cattle industry,GTM,0.004087413625244136,EU27,2016
+1056,CIV,Growing wheat industry,HND,0.0,EU27,2016
+1057,CIV,Growing maize industry,HND,0.0035974138763246884,EU27,2016
+1058,CIV,Growing cereals n.e.c industry,HND,1.6272319631565118e-05,EU27,2016
+1059,CIV,Growing leguminous crops and oil seeds industry,HND,0.00022536487424198865,EU27,2016
+1060,CIV,Growing rice industry,HND,3.0965713484672845e-07,EU27,2016
+1061,CIV,"Growing vegetables, roots, tubers industry",HND,0.0002058517343773004,EU27,2016
+1062,CIV,Growing sugar beet and cane industry,HND,1.3396238543273262e-05,EU27,2016
+1063,CIV,Growing tobacco industry,HND,9.401934769916344e-09,EU27,2016
+1064,CIV,Growing fibre crops industry,HND,0.00014321806616374906,EU27,2016
+1065,CIV,Growing crops n.e.c. industry,HND,0.0007224195838998434,EU27,2016
+1066,CIV,Growing grapes industry,HND,0.0,EU27,2016
+1067,CIV,Growing fruits and nuts industry,HND,0.04404058991348057,EU27,2016
+1068,CIV,"Growing beverage crops (coffee, tea etc) industry",HND,0.0015276663772345533,EU27,2016
+1069,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,2.0130524782713098e-06,EU27,2016
+1070,CIV,Seeds and plant propagation industry,HND,0.0,EU27,2016
+1071,CIV,Raising of cattle industry,HND,0.0023688299218009388,EU27,2016
+1072,CIV,Growing wheat industry,HKG,0.0,EU27,2016
+1073,CIV,Growing maize industry,HKG,0.9015732228515339,EU27,2016
+1074,CIV,Growing cereals n.e.c industry,HKG,0.002990142578613992,EU27,2016
+1075,CIV,Growing leguminous crops and oil seeds industry,HKG,0.01157660939487126,EU27,2016
+1076,CIV,Growing rice industry,HKG,4.859584041059828e-05,EU27,2016
+1077,CIV,"Growing vegetables, roots, tubers industry",HKG,0.030720112722197573,EU27,2016
+1078,CIV,Growing sugar beet and cane industry,HKG,0.0033496406786800905,EU27,2016
+1079,CIV,Growing tobacco industry,HKG,3.564722707963552e-07,EU27,2016
+1080,CIV,Growing fibre crops industry,HKG,0.013578030836041198,EU27,2016
+1081,CIV,Growing crops n.e.c. industry,HKG,0.08763344111354109,EU27,2016
+1082,CIV,Growing grapes industry,HKG,0.0,EU27,2016
+1083,CIV,Growing fruits and nuts industry,HKG,1.688033934115355,EU27,2016
+1084,CIV,"Growing beverage crops (coffee, tea etc) industry",HKG,0.06230094370463472,EU27,2016
+1085,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,0.00016360298552704566,EU27,2016
+1086,CIV,Seeds and plant propagation industry,HKG,0.0,EU27,2016
+1087,CIV,Raising of cattle industry,HKG,0.5927281442259409,EU27,2016
+1088,CIV,Growing wheat industry,HRV,0.0,EU27,2016
+1089,CIV,Growing maize industry,HRV,0.0,EU27,2016
+1090,CIV,Growing cereals n.e.c industry,HRV,0.0,EU27,2016
+1091,CIV,Growing leguminous crops and oil seeds industry,HRV,0.0,EU27,2016
+1092,CIV,Growing rice industry,HRV,0.0,EU27,2016
+1093,CIV,"Growing vegetables, roots, tubers industry",HRV,0.0,EU27,2016
+1094,CIV,Growing sugar beet and cane industry,HRV,0.0,EU27,2016
+1095,CIV,Growing tobacco industry,HRV,0.0,EU27,2016
+1096,CIV,Growing fibre crops industry,HRV,0.0,EU27,2016
+1097,CIV,Growing crops n.e.c. industry,HRV,0.0,EU27,2016
+1098,CIV,Growing grapes industry,HRV,0.0,EU27,2016
+1099,CIV,Growing fruits and nuts industry,HRV,0.0,EU27,2016
+1100,CIV,"Growing beverage crops (coffee, tea etc) industry",HRV,0.0,EU27,2016
+1101,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,0.0,EU27,2016
+1102,CIV,Seeds and plant propagation industry,HRV,0.0,EU27,2016
+1103,CIV,Raising of cattle industry,HRV,0.0,EU27,2016
+1104,CIV,Growing wheat industry,HTI,0.0,EU27,2016
+1105,CIV,Growing maize industry,HTI,0.006773851651436827,EU27,2016
+1106,CIV,Growing cereals n.e.c industry,HTI,2.7660563017609184e-05,EU27,2016
+1107,CIV,Growing leguminous crops and oil seeds industry,HTI,0.00014623806948833658,EU27,2016
+1108,CIV,Growing rice industry,HTI,5.10900656906572e-07,EU27,2016
+1109,CIV,"Growing vegetables, roots, tubers industry",HTI,0.0003211556973480942,EU27,2016
+1110,CIV,Growing sugar beet and cane industry,HTI,2.516245991107907e-05,EU27,2016
+1111,CIV,Growing tobacco industry,HTI,4.0754738840023234e-09,EU27,2016
+1112,CIV,Growing fibre crops industry,HTI,0.00010541522829206065,EU27,2016
+1113,CIV,Growing crops n.e.c. industry,HTI,0.0007223068017293112,EU27,2016
+1114,CIV,Growing grapes industry,HTI,0.0,EU27,2016
+1115,CIV,Growing fruits and nuts industry,HTI,0.025835688691003958,EU27,2016
+1116,CIV,"Growing beverage crops (coffee, tea etc) industry",HTI,0.005079640946829719,EU27,2016
+1117,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,2.5866372607013932e-06,EU27,2016
+1118,CIV,Seeds and plant propagation industry,HTI,0.0,EU27,2016
+1119,CIV,Raising of cattle industry,HTI,0.004448235249245234,EU27,2016
+1120,CIV,Growing wheat industry,HUN,0.0,EU27,2016
+1121,CIV,Growing maize industry,HUN,0.0,EU27,2016
+1122,CIV,Growing cereals n.e.c industry,HUN,0.0,EU27,2016
+1123,CIV,Growing leguminous crops and oil seeds industry,HUN,0.0,EU27,2016
+1124,CIV,Growing rice industry,HUN,0.0,EU27,2016
+1125,CIV,"Growing vegetables, roots, tubers industry",HUN,0.0,EU27,2016
+1126,CIV,Growing sugar beet and cane industry,HUN,0.0,EU27,2016
+1127,CIV,Growing tobacco industry,HUN,0.0,EU27,2016
+1128,CIV,Growing fibre crops industry,HUN,0.0,EU27,2016
+1129,CIV,Growing crops n.e.c. industry,HUN,0.0,EU27,2016
+1130,CIV,Growing grapes industry,HUN,0.0,EU27,2016
+1131,CIV,Growing fruits and nuts industry,HUN,0.0,EU27,2016
+1132,CIV,"Growing beverage crops (coffee, tea etc) industry",HUN,0.0,EU27,2016
+1133,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,0.0,EU27,2016
+1134,CIV,Seeds and plant propagation industry,HUN,0.0,EU27,2016
+1135,CIV,Raising of cattle industry,HUN,0.0,EU27,2016
+1136,CIV,Growing wheat industry,IDN,0.0,EU27,2016
+1137,CIV,Growing maize industry,IDN,0.062019710640948154,EU27,2016
+1138,CIV,Growing cereals n.e.c industry,IDN,0.00032830226643789745,EU27,2016
+1139,CIV,Growing leguminous crops and oil seeds industry,IDN,0.0031429159536468633,EU27,2016
+1140,CIV,Growing rice industry,IDN,6.654074811520129e-06,EU27,2016
+1141,CIV,"Growing vegetables, roots, tubers industry",IDN,0.00392617070165692,EU27,2016
+1142,CIV,Growing sugar beet and cane industry,IDN,0.00023128270281832068,EU27,2016
+1143,CIV,Growing tobacco industry,IDN,4.118137186130956e-07,EU27,2016
+1144,CIV,Growing fibre crops industry,IDN,0.0024668430091758834,EU27,2016
+1145,CIV,Growing crops n.e.c. industry,IDN,0.01819768865477124,EU27,2016
+1146,CIV,Growing grapes industry,IDN,0.0,EU27,2016
+1147,CIV,Growing fruits and nuts industry,IDN,0.1728296553601389,EU27,2016
+1148,CIV,"Growing beverage crops (coffee, tea etc) industry",IDN,0.008280289894647718,EU27,2016
+1149,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,1.6436383509498088e-05,EU27,2016
+1150,CIV,Seeds and plant propagation industry,IDN,0.0,EU27,2016
+1151,CIV,Raising of cattle industry,IDN,0.040768594073834076,EU27,2016
+1152,CIV,Growing wheat industry,IND,0.0,EU27,2016
+1153,CIV,Growing maize industry,IND,0.18589828816463755,EU27,2016
+1154,CIV,Growing cereals n.e.c industry,IND,0.00089756108294193,EU27,2016
+1155,CIV,Growing leguminous crops and oil seeds industry,IND,0.011478445472791275,EU27,2016
+1156,CIV,Growing rice industry,IND,1.7383143833819403e-05,EU27,2016
+1157,CIV,"Growing vegetables, roots, tubers industry",IND,0.010614768286419518,EU27,2016
+1158,CIV,Growing sugar beet and cane industry,IND,0.000694008633253232,EU27,2016
+1159,CIV,Growing tobacco industry,IND,7.470352206980732e-07,EU27,2016
+1160,CIV,Growing fibre crops industry,IND,0.008690188171501937,EU27,2016
+1161,CIV,Growing crops n.e.c. industry,IND,0.0604369351527164,EU27,2016
+1162,CIV,Growing grapes industry,IND,0.0,EU27,2016
+1163,CIV,Growing fruits and nuts industry,IND,0.48750694040487924,EU27,2016
+1164,CIV,"Growing beverage crops (coffee, tea etc) industry",IND,0.07986001706229492,EU27,2016
+1165,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,6.175034893492522e-05,EU27,2016
+1166,CIV,Seeds and plant propagation industry,IND,0.0,EU27,2016
+1167,CIV,Raising of cattle industry,IND,0.12233382568867879,EU27,2016
+1168,CIV,Growing wheat industry,IRL,0.0,EU27,2016
+1169,CIV,Growing maize industry,IRL,0.0,EU27,2016
+1170,CIV,Growing cereals n.e.c industry,IRL,0.0,EU27,2016
+1171,CIV,Growing leguminous crops and oil seeds industry,IRL,0.0,EU27,2016
+1172,CIV,Growing rice industry,IRL,0.0,EU27,2016
+1173,CIV,"Growing vegetables, roots, tubers industry",IRL,0.0,EU27,2016
+1174,CIV,Growing sugar beet and cane industry,IRL,0.0,EU27,2016
+1175,CIV,Growing tobacco industry,IRL,0.0,EU27,2016
+1176,CIV,Growing fibre crops industry,IRL,0.0,EU27,2016
+1177,CIV,Growing crops n.e.c. industry,IRL,0.0,EU27,2016
+1178,CIV,Growing grapes industry,IRL,0.0,EU27,2016
+1179,CIV,Growing fruits and nuts industry,IRL,0.0,EU27,2016
+1180,CIV,"Growing beverage crops (coffee, tea etc) industry",IRL,0.0,EU27,2016
+1181,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,0.0,EU27,2016
+1182,CIV,Seeds and plant propagation industry,IRL,0.0,EU27,2016
+1183,CIV,Raising of cattle industry,IRL,0.0,EU27,2016
+1184,CIV,Growing wheat industry,IRN,0.0,EU27,2016
+1185,CIV,Growing maize industry,IRN,0.03906881508589288,EU27,2016
+1186,CIV,Growing cereals n.e.c industry,IRN,0.00025193731696464776,EU27,2016
+1187,CIV,Growing leguminous crops and oil seeds industry,IRN,0.003604577545345372,EU27,2016
+1188,CIV,Growing rice industry,IRN,5.1621077996186925e-06,EU27,2016
+1189,CIV,"Growing vegetables, roots, tubers industry",IRN,0.003184018067236842,EU27,2016
+1190,CIV,Growing sugar beet and cane industry,IRN,0.00014601798908022207,EU27,2016
+1191,CIV,Growing tobacco industry,IRN,2.070388491481252e-07,EU27,2016
+1192,CIV,Growing fibre crops industry,IRN,0.0030429945912056958,EU27,2016
+1193,CIV,Growing crops n.e.c. industry,IRN,0.015191653072821434,EU27,2016
+1194,CIV,Growing grapes industry,IRN,0.0,EU27,2016
+1195,CIV,Growing fruits and nuts industry,IRN,0.22896100871835637,EU27,2016
+1196,CIV,"Growing beverage crops (coffee, tea etc) industry",IRN,0.0033339715922564165,EU27,2016
+1197,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,1.3025110580845346e-05,EU27,2016
+1198,CIV,Seeds and plant propagation industry,IRN,0.0,EU27,2016
+1199,CIV,Raising of cattle industry,IRN,0.025669590592308132,EU27,2016
+1200,CIV,Growing wheat industry,IRQ,0.0,EU27,2016
+1201,CIV,Growing maize industry,IRQ,0.04280599000008625,EU27,2016
+1202,CIV,Growing cereals n.e.c industry,IRQ,0.0002773778807445315,EU27,2016
+1203,CIV,Growing leguminous crops and oil seeds industry,IRQ,0.003635756405545647,EU27,2016
+1204,CIV,Growing rice industry,IRQ,5.707055109545565e-06,EU27,2016
+1205,CIV,"Growing vegetables, roots, tubers industry",IRQ,0.0035855914819019593,EU27,2016
+1206,CIV,Growing sugar beet and cane industry,IRQ,0.0001594480377613091,EU27,2016
+1207,CIV,Growing tobacco industry,IRQ,2.094645860617589e-07,EU27,2016
+1208,CIV,Growing fibre crops industry,IRQ,0.001108039644230082,EU27,2016
+1209,CIV,Growing crops n.e.c. industry,IRQ,0.008763325850041376,EU27,2016
+1210,CIV,Growing grapes industry,IRQ,0.0,EU27,2016
+1211,CIV,Growing fruits and nuts industry,IRQ,0.23379183235465056,EU27,2016
+1212,CIV,"Growing beverage crops (coffee, tea etc) industry",IRQ,0.0037901096386885815,EU27,2016
+1213,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,1.6541351240864755e-05,EU27,2016
+1214,CIV,Seeds and plant propagation industry,IRQ,0.0,EU27,2016
+1215,CIV,Raising of cattle industry,IRQ,0.02799221141549777,EU27,2016
+1216,CIV,Growing wheat industry,ISL,0.0,EU27,2016
+1217,CIV,Growing maize industry,ISL,0.009412272075768077,EU27,2016
+1218,CIV,Growing cereals n.e.c industry,ISL,5.4765725633988025e-05,EU27,2016
+1219,CIV,Growing leguminous crops and oil seeds industry,ISL,0.0008031812371780776,EU27,2016
+1220,CIV,Growing rice industry,ISL,1.1099041611527475e-06,EU27,2016
+1221,CIV,"Growing vegetables, roots, tubers industry",ISL,0.0006825335164478653,EU27,2016
+1222,CIV,Growing sugar beet and cane industry,ISL,3.51023165730777e-05,EU27,2016
+1223,CIV,Growing tobacco industry,ISL,4.737579273435373e-08,EU27,2016
+1224,CIV,Growing fibre crops industry,ISL,0.0004730561646379911,EU27,2016
+1225,CIV,Growing crops n.e.c. industry,ISL,0.006370543848182868,EU27,2016
+1226,CIV,Growing grapes industry,ISL,0.0,EU27,2016
+1227,CIV,Growing fruits and nuts industry,ISL,0.07164077634295998,EU27,2016
+1228,CIV,"Growing beverage crops (coffee, tea etc) industry",ISL,0.009264341467408017,EU27,2016
+1229,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,2.6496383705304413e-06,EU27,2016
+1230,CIV,Seeds and plant propagation industry,ISL,0.0,EU27,2016
+1231,CIV,Raising of cattle industry,ISL,0.0061998457784370985,EU27,2016
+1232,CIV,Growing wheat industry,ISR,0.0,EU27,2016
+1233,CIV,Growing maize industry,ISR,0.11369558114700555,EU27,2016
+1234,CIV,Growing cereals n.e.c industry,ISR,0.0009335354350164455,EU27,2016
+1235,CIV,Growing leguminous crops and oil seeds industry,ISR,0.0072657259037792405,EU27,2016
+1236,CIV,Growing rice industry,ISR,2.0980390374880668e-05,EU27,2016
+1237,CIV,"Growing vegetables, roots, tubers industry",ISR,0.011997392284134082,EU27,2016
+1238,CIV,Growing sugar beet and cane industry,ISR,0.00042580773641229643,EU27,2016
+1239,CIV,Growing tobacco industry,ISR,4.116077995088159e-07,EU27,2016
+1240,CIV,Growing fibre crops industry,ISR,0.003935683429330277,EU27,2016
+1241,CIV,Growing crops n.e.c. industry,ISR,0.03616224808654927,EU27,2016
+1242,CIV,Growing grapes industry,ISR,0.0,EU27,2016
+1243,CIV,Growing fruits and nuts industry,ISR,0.5013160295116235,EU27,2016
+1244,CIV,"Growing beverage crops (coffee, tea etc) industry",ISR,0.025933745998772153,EU27,2016
+1245,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,3.518577964356007e-05,EU27,2016
+1246,CIV,Seeds and plant propagation industry,ISR,0.0,EU27,2016
+1247,CIV,Raising of cattle industry,ISR,0.07415809085104293,EU27,2016
+1248,CIV,Growing wheat industry,ITA,0.0,EU27,2016
+1249,CIV,Growing maize industry,ITA,0.0,EU27,2016
+1250,CIV,Growing cereals n.e.c industry,ITA,0.0,EU27,2016
+1251,CIV,Growing leguminous crops and oil seeds industry,ITA,0.0,EU27,2016
+1252,CIV,Growing rice industry,ITA,0.0,EU27,2016
+1253,CIV,"Growing vegetables, roots, tubers industry",ITA,0.0,EU27,2016
+1254,CIV,Growing sugar beet and cane industry,ITA,0.0,EU27,2016
+1255,CIV,Growing tobacco industry,ITA,0.0,EU27,2016
+1256,CIV,Growing fibre crops industry,ITA,0.0,EU27,2016
+1257,CIV,Growing crops n.e.c. industry,ITA,0.0,EU27,2016
+1258,CIV,Growing grapes industry,ITA,0.0,EU27,2016
+1259,CIV,Growing fruits and nuts industry,ITA,0.0,EU27,2016
+1260,CIV,"Growing beverage crops (coffee, tea etc) industry",ITA,0.0,EU27,2016
+1261,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,0.0,EU27,2016
+1262,CIV,Seeds and plant propagation industry,ITA,0.0,EU27,2016
+1263,CIV,Raising of cattle industry,ITA,0.0,EU27,2016
+1264,CIV,Growing wheat industry,JAM,0.0,EU27,2016
+1265,CIV,Growing maize industry,JAM,0.003075772946322955,EU27,2016
+1266,CIV,Growing cereals n.e.c industry,JAM,1.4971697702288413e-05,EU27,2016
+1267,CIV,Growing leguminous crops and oil seeds industry,JAM,0.0001224137488287071,EU27,2016
+1268,CIV,Growing rice industry,JAM,2.9239148179995847e-07,EU27,2016
+1269,CIV,"Growing vegetables, roots, tubers industry",JAM,0.00019391868324070136,EU27,2016
+1270,CIV,Growing sugar beet and cane industry,JAM,1.144641631021758e-05,EU27,2016
+1271,CIV,Growing tobacco industry,JAM,4.957905918166107e-09,EU27,2016
+1272,CIV,Growing fibre crops industry,JAM,5.397985816954577e-05,EU27,2016
+1273,CIV,Growing crops n.e.c. industry,JAM,0.00043109891344226214,EU27,2016
+1274,CIV,Growing grapes industry,JAM,0.0,EU27,2016
+1275,CIV,Growing fruits and nuts industry,JAM,0.009597128135345164,EU27,2016
+1276,CIV,"Growing beverage crops (coffee, tea etc) industry",JAM,0.003168606839022814,EU27,2016
+1277,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,2.1363876843621695e-06,EU27,2016
+1278,CIV,Seeds and plant propagation industry,JAM,0.0,EU27,2016
+1279,CIV,Raising of cattle industry,JAM,0.0020185742516261023,EU27,2016
+1280,CIV,Growing wheat industry,JOR,0.0,EU27,2016
+1281,CIV,Growing maize industry,JOR,0.029716596670142002,EU27,2016
+1282,CIV,Growing cereals n.e.c industry,JOR,0.0001839219087574044,EU27,2016
+1283,CIV,Growing leguminous crops and oil seeds industry,JOR,0.0010489711910020361,EU27,2016
+1284,CIV,Growing rice industry,JOR,3.856058083622353e-06,EU27,2016
+1285,CIV,"Growing vegetables, roots, tubers industry",JOR,0.0023061829693464533,EU27,2016
+1286,CIV,Growing sugar beet and cane industry,JOR,0.00011067179504235447,EU27,2016
+1287,CIV,Growing tobacco industry,JOR,1.3360844267063122e-07,EU27,2016
+1288,CIV,Growing fibre crops industry,JOR,0.0005558805228507316,EU27,2016
+1289,CIV,Growing crops n.e.c. industry,JOR,0.005209332020627762,EU27,2016
+1290,CIV,Growing grapes industry,JOR,0.0,EU27,2016
+1291,CIV,Growing fruits and nuts industry,JOR,0.0681246021937268,EU27,2016
+1292,CIV,"Growing beverage crops (coffee, tea etc) industry",JOR,0.0012746153742762673,EU27,2016
+1293,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,4.2474302806299705e-06,EU27,2016
+1294,CIV,Seeds and plant propagation industry,JOR,0.0,EU27,2016
+1295,CIV,Raising of cattle industry,JOR,0.01942925687451276,EU27,2016
+1296,CIV,Growing wheat industry,JPN,0.0,EU27,2016
+1297,CIV,Growing maize industry,JPN,0.41083746106131563,EU27,2016
+1298,CIV,Growing cereals n.e.c industry,JPN,0.0019388744162267366,EU27,2016
+1299,CIV,Growing leguminous crops and oil seeds industry,JPN,0.026975812131372793,EU27,2016
+1300,CIV,Growing rice industry,JPN,3.710469187538168e-05,EU27,2016
+1301,CIV,"Growing vegetables, roots, tubers industry",JPN,0.02370990964855645,EU27,2016
+1302,CIV,Growing sugar beet and cane industry,JPN,0.001535913539908034,EU27,2016
+1303,CIV,Growing tobacco industry,JPN,1.1272032932135514e-06,EU27,2016
+1304,CIV,Growing fibre crops industry,JPN,0.02055460273996507,EU27,2016
+1305,CIV,Growing crops n.e.c. industry,JPN,0.09554845160712322,EU27,2016
+1306,CIV,Growing grapes industry,JPN,0.0,EU27,2016
+1307,CIV,Growing fruits and nuts industry,JPN,1.4182033755076089,EU27,2016
+1308,CIV,"Growing beverage crops (coffee, tea etc) industry",JPN,0.1665042341749292,EU27,2016
+1309,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,0.0003527185200853904,EU27,2016
+1310,CIV,Seeds and plant propagation industry,JPN,0.0,EU27,2016
+1311,CIV,Raising of cattle industry,JPN,0.2700558110227263,EU27,2016
+1312,CIV,Growing wheat industry,KAZ,0.0,EU27,2016
+1313,CIV,Growing maize industry,KAZ,0.02273235593337285,EU27,2016
+1314,CIV,Growing cereals n.e.c industry,KAZ,0.0001974744517881139,EU27,2016
+1315,CIV,Growing leguminous crops and oil seeds industry,KAZ,0.0015469878379197862,EU27,2016
+1316,CIV,Growing rice industry,KAZ,4.471680893403568e-06,EU27,2016
+1317,CIV,"Growing vegetables, roots, tubers industry",KAZ,0.0026380596280564882,EU27,2016
+1318,CIV,Growing sugar beet and cane industry,KAZ,8.510921732357542e-05,EU27,2016
+1319,CIV,Growing tobacco industry,KAZ,9.745275462570244e-08,EU27,2016
+1320,CIV,Growing fibre crops industry,KAZ,0.0010615873101811359,EU27,2016
+1321,CIV,Growing crops n.e.c. industry,KAZ,0.00863584302093176,EU27,2016
+1322,CIV,Growing grapes industry,KAZ,0.0,EU27,2016
+1323,CIV,Growing fruits and nuts industry,KAZ,0.07914498771526976,EU27,2016
+1324,CIV,"Growing beverage crops (coffee, tea etc) industry",KAZ,0.004594699587580373,EU27,2016
+1325,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,7.204864428228642e-06,EU27,2016
+1326,CIV,Seeds and plant propagation industry,KAZ,0.0,EU27,2016
+1327,CIV,Raising of cattle industry,KAZ,0.01481591100401446,EU27,2016
+1328,CIV,Growing wheat industry,KEN,0.0,EU27,2016
+1329,CIV,Growing maize industry,KEN,0.007920194234318084,EU27,2016
+1330,CIV,Growing cereals n.e.c industry,KEN,3.9659142253678456e-05,EU27,2016
+1331,CIV,Growing leguminous crops and oil seeds industry,KEN,0.0005345077689299025,EU27,2016
+1332,CIV,Growing rice industry,KEN,7.860555815831757e-07,EU27,2016
+1333,CIV,"Growing vegetables, roots, tubers industry",KEN,0.0005080803472625822,EU27,2016
+1334,CIV,Growing sugar beet and cane industry,KEN,2.954643799446945e-05,EU27,2016
+1335,CIV,Growing tobacco industry,KEN,2.7850743933522442e-08,EU27,2016
+1336,CIV,Growing fibre crops industry,KEN,0.00026860812595417953,EU27,2016
+1337,CIV,Growing crops n.e.c. industry,KEN,0.001841274088707575,EU27,2016
+1338,CIV,Growing grapes industry,KEN,0.0,EU27,2016
+1339,CIV,Growing fruits and nuts industry,KEN,0.04959482011610848,EU27,2016
+1340,CIV,"Growing beverage crops (coffee, tea etc) industry",KEN,0.001956508638836858,EU27,2016
+1341,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,4.297400577207997e-06,EU27,2016
+1342,CIV,Seeds and plant propagation industry,KEN,0.0,EU27,2016
+1343,CIV,Raising of cattle industry,KEN,0.005206218980041601,EU27,2016
+1344,CIV,Growing wheat industry,KGZ,0.0,EU27,2016
+1345,CIV,Growing maize industry,KGZ,0.0005902671669050674,EU27,2016
+1346,CIV,Growing cereals n.e.c industry,KGZ,3.988972558427706e-06,EU27,2016
+1347,CIV,Growing leguminous crops and oil seeds industry,KGZ,5.304301733516805e-05,EU27,2016
+1348,CIV,Growing rice industry,KGZ,8.527910770766184e-08,EU27,2016
+1349,CIV,"Growing vegetables, roots, tubers industry",KGZ,5.017118891446683e-05,EU27,2016
+1350,CIV,Growing sugar beet and cane industry,KGZ,2.2116931447098785e-06,EU27,2016
+1351,CIV,Growing tobacco industry,KGZ,3.99158215128119e-09,EU27,2016
+1352,CIV,Growing fibre crops industry,KGZ,3.143897317342493e-05,EU27,2016
+1353,CIV,Growing crops n.e.c. industry,KGZ,0.0002932454672938003,EU27,2016
+1354,CIV,Growing grapes industry,KGZ,0.0,EU27,2016
+1355,CIV,Growing fruits and nuts industry,KGZ,0.0023565658131697244,EU27,2016
+1356,CIV,"Growing beverage crops (coffee, tea etc) industry",KGZ,0.0002504182817196252,EU27,2016
+1357,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,1.6557481566571338e-07,EU27,2016
+1358,CIV,Seeds and plant propagation industry,KGZ,0.0,EU27,2016
+1359,CIV,Raising of cattle industry,KGZ,0.00038737803857461693,EU27,2016
+1360,CIV,Growing wheat industry,KHM,0.0,EU27,2016
+1361,CIV,Growing maize industry,KHM,0.004728878172580262,EU27,2016
+1362,CIV,Growing cereals n.e.c industry,KHM,2.9432666347332434e-05,EU27,2016
+1363,CIV,Growing leguminous crops and oil seeds industry,KHM,0.00025502809885830617,EU27,2016
+1364,CIV,Growing rice industry,KHM,6.213240167806733e-07,EU27,2016
+1365,CIV,"Growing vegetables, roots, tubers industry",KHM,0.00038103890876006746,EU27,2016
+1366,CIV,Growing sugar beet and cane industry,KHM,1.762502014967325e-05,EU27,2016
+1367,CIV,Growing tobacco industry,KHM,2.960709329170686e-08,EU27,2016
+1368,CIV,Growing fibre crops industry,KHM,0.00018956647562611866,EU27,2016
+1369,CIV,Growing crops n.e.c. industry,KHM,0.001161748583324789,EU27,2016
+1370,CIV,Growing grapes industry,KHM,0.0,EU27,2016
+1371,CIV,Growing fruits and nuts industry,KHM,0.021361681064967622,EU27,2016
+1372,CIV,"Growing beverage crops (coffee, tea etc) industry",KHM,0.0016336314965236705,EU27,2016
+1373,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,2.0608521260845273e-06,EU27,2016
+1374,CIV,Seeds and plant propagation industry,KHM,0.0,EU27,2016
+1375,CIV,Raising of cattle industry,KHM,0.0030960455191245194,EU27,2016
+1376,CIV,Growing wheat industry,KOR,0.0,EU27,2016
+1377,CIV,Growing maize industry,KOR,0.16898462864220007,EU27,2016
+1378,CIV,Growing cereals n.e.c industry,KOR,0.000859418029731084,EU27,2016
+1379,CIV,Growing leguminous crops and oil seeds industry,KOR,0.014634235318186917,EU27,2016
+1380,CIV,Growing rice industry,KOR,1.6941914134967358e-05,EU27,2016
+1381,CIV,"Growing vegetables, roots, tubers industry",KOR,0.010500030736211622,EU27,2016
+1382,CIV,Growing sugar beet and cane industry,KOR,0.0006312462651019494,EU27,2016
+1383,CIV,Growing tobacco industry,KOR,6.166588083566553e-07,EU27,2016
+1384,CIV,Growing fibre crops industry,KOR,0.011139847782440546,EU27,2016
+1385,CIV,Growing crops n.e.c. industry,KOR,0.04605792538956128,EU27,2016
+1386,CIV,Growing grapes industry,KOR,0.0,EU27,2016
+1387,CIV,Growing fruits and nuts industry,KOR,0.5364100137677241,EU27,2016
+1388,CIV,"Growing beverage crops (coffee, tea etc) industry",KOR,0.04529669380893025,EU27,2016
+1389,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,7.107991544762285e-05,EU27,2016
+1390,CIV,Seeds and plant propagation industry,KOR,0.0,EU27,2016
+1391,CIV,Raising of cattle industry,KOR,0.11104140917309475,EU27,2016
+1392,CIV,Growing wheat industry,KWT,0.0,EU27,2016
+1393,CIV,Growing maize industry,KWT,0.21886251254199357,EU27,2016
+1394,CIV,Growing cereals n.e.c industry,KWT,0.0008039816384197307,EU27,2016
+1395,CIV,Growing leguminous crops and oil seeds industry,KWT,0.005140603676492312,EU27,2016
+1396,CIV,Growing rice industry,KWT,1.385917119184185e-05,EU27,2016
+1397,CIV,"Growing vegetables, roots, tubers industry",KWT,0.009117889401653338,EU27,2016
+1398,CIV,Growing sugar beet and cane industry,KWT,0.0008130265864401131,EU27,2016
+1399,CIV,Growing tobacco industry,KWT,1.682774326304427e-07,EU27,2016
+1400,CIV,Growing fibre crops industry,KWT,0.002234304413643511,EU27,2016
+1401,CIV,Growing crops n.e.c. industry,KWT,0.02098117640052167,EU27,2016
+1402,CIV,Growing grapes industry,KWT,0.0,EU27,2016
+1403,CIV,Growing fruits and nuts industry,KWT,0.3565701714965312,EU27,2016
+1404,CIV,"Growing beverage crops (coffee, tea etc) industry",KWT,0.002288669441793093,EU27,2016
+1405,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,2.123375870695878e-05,EU27,2016
+1406,CIV,Seeds and plant propagation industry,KWT,0.0,EU27,2016
+1407,CIV,Raising of cattle industry,KWT,0.14377799668393826,EU27,2016
+1408,CIV,Growing wheat industry,LAO,0.0,EU27,2016
+1409,CIV,Growing maize industry,LAO,0.0013428680740522005,EU27,2016
+1410,CIV,Growing cereals n.e.c industry,LAO,2.4730700210971482e-05,EU27,2016
+1411,CIV,Growing leguminous crops and oil seeds industry,LAO,0.00010901608565371669,EU27,2016
+1412,CIV,Growing rice industry,LAO,6.116185771023128e-07,EU27,2016
+1413,CIV,"Growing vegetables, roots, tubers industry",LAO,0.0003306393209846913,EU27,2016
+1414,CIV,Growing sugar beet and cane industry,LAO,5.054592097193162e-06,EU27,2016
+1415,CIV,Growing tobacco industry,LAO,1.0308353394451692e-08,EU27,2016
+1416,CIV,Growing fibre crops industry,LAO,0.0001988360282444503,EU27,2016
+1417,CIV,Growing crops n.e.c. industry,LAO,0.0006273966217195286,EU27,2016
+1418,CIV,Growing grapes industry,LAO,0.0,EU27,2016
+1419,CIV,Growing fruits and nuts industry,LAO,0.005554607748062793,EU27,2016
+1420,CIV,"Growing beverage crops (coffee, tea etc) industry",LAO,0.000601203994111302,EU27,2016
+1421,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,1.0433162108400032e-06,EU27,2016
+1422,CIV,Seeds and plant propagation industry,LAO,0.0,EU27,2016
+1423,CIV,Raising of cattle industry,LAO,0.000859156094559457,EU27,2016
+1424,CIV,Growing wheat industry,LBN,0.0,EU27,2016
+1425,CIV,Growing maize industry,LBN,0.18808636054849673,EU27,2016
+1426,CIV,Growing cereals n.e.c industry,LBN,0.0006326041353945109,EU27,2016
+1427,CIV,Growing leguminous crops and oil seeds industry,LBN,0.003133390669071801,EU27,2016
+1428,CIV,Growing rice industry,LBN,1.0793142082550884e-05,EU27,2016
+1429,CIV,"Growing vegetables, roots, tubers industry",LBN,0.006758639336068508,EU27,2016
+1430,CIV,Growing sugar beet and cane industry,LBN,0.0006983902455117966,EU27,2016
+1431,CIV,Growing tobacco industry,LBN,1.6727277712038202e-07,EU27,2016
+1432,CIV,Growing fibre crops industry,LBN,0.001433783245595918,EU27,2016
+1433,CIV,Growing crops n.e.c. industry,LBN,0.010399407145253742,EU27,2016
+1434,CIV,Growing grapes industry,LBN,0.0,EU27,2016
+1435,CIV,Growing fruits and nuts industry,LBN,0.14544935560380207,EU27,2016
+1436,CIV,"Growing beverage crops (coffee, tea etc) industry",LBN,0.002400478238161156,EU27,2016
+1437,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,1.605043048238665e-05,EU27,2016
+1438,CIV,Seeds and plant propagation industry,LBN,0.0,EU27,2016
+1439,CIV,Raising of cattle industry,LBN,0.12358870685547849,EU27,2016
+1440,CIV,Growing wheat industry,LBR,0.0,EU27,2016
+1441,CIV,Growing maize industry,LBR,0.001212850224434733,EU27,2016
+1442,CIV,Growing cereals n.e.c industry,LBR,7.564922793217896e-06,EU27,2016
+1443,CIV,Growing leguminous crops and oil seeds industry,LBR,5.280487195784432e-05,EU27,2016
+1444,CIV,Growing rice industry,LBR,1.5878939868662957e-07,EU27,2016
+1445,CIV,"Growing vegetables, roots, tubers industry",LBR,0.00010971822367058597,EU27,2016
+1446,CIV,Growing sugar beet and cane industry,LBR,4.52051132222476e-06,EU27,2016
+1447,CIV,Growing tobacco industry,LBR,2.086087693830228e-09,EU27,2016
+1448,CIV,Growing fibre crops industry,LBR,2.72281587351199e-05,EU27,2016
+1449,CIV,Growing crops n.e.c. industry,LBR,0.0002431487074599412,EU27,2016
+1450,CIV,Growing grapes industry,LBR,0.0,EU27,2016
+1451,CIV,Growing fruits and nuts industry,LBR,0.008422944566273571,EU27,2016
+1452,CIV,"Growing beverage crops (coffee, tea etc) industry",LBR,0.00020105297873878518,EU27,2016
+1453,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,2.9890855606213074e-07,EU27,2016
+1454,CIV,Seeds and plant propagation industry,LBR,0.0,EU27,2016
+1455,CIV,Raising of cattle industry,LBR,0.0007943948582634832,EU27,2016
+1456,CIV,Growing wheat industry,LBY,0.0,EU27,2016
+1457,CIV,Growing maize industry,LBY,0.27873347214260086,EU27,2016
+1458,CIV,Growing cereals n.e.c industry,LBY,0.0010439202632554132,EU27,2016
+1459,CIV,Growing leguminous crops and oil seeds industry,LBY,0.006402543198275798,EU27,2016
+1460,CIV,Growing rice industry,LBY,1.8844007380807697e-05,EU27,2016
+1461,CIV,"Growing vegetables, roots, tubers industry",LBY,0.011667162064737913,EU27,2016
+1462,CIV,Growing sugar beet and cane industry,LBY,0.0010346749212562316,EU27,2016
+1463,CIV,Growing tobacco industry,LBY,8.011087878877809e-08,EU27,2016
+1464,CIV,Growing fibre crops industry,LBY,0.0014687444306461465,EU27,2016
+1465,CIV,Growing crops n.e.c. industry,LBY,0.013848178878802143,EU27,2016
+1466,CIV,Growing grapes industry,LBY,0.0,EU27,2016
+1467,CIV,Growing fruits and nuts industry,LBY,0.16571321735705355,EU27,2016
+1468,CIV,"Growing beverage crops (coffee, tea etc) industry",LBY,0.0032982123184843205,EU27,2016
+1469,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,1.295158433073626e-05,EU27,2016
+1470,CIV,Seeds and plant propagation industry,LBY,0.0,EU27,2016
+1471,CIV,Raising of cattle industry,LBY,0.18292882041076286,EU27,2016
+1472,CIV,Growing wheat industry,LKA,0.0,EU27,2016
+1473,CIV,Growing maize industry,LKA,0.00774312832599793,EU27,2016
+1474,CIV,Growing cereals n.e.c industry,LKA,4.322785644431958e-05,EU27,2016
+1475,CIV,Growing leguminous crops and oil seeds industry,LKA,0.0003248058293425445,EU27,2016
+1476,CIV,Growing rice industry,LKA,8.78049117478745e-07,EU27,2016
+1477,CIV,"Growing vegetables, roots, tubers industry",LKA,0.0005469837359927144,EU27,2016
+1478,CIV,Growing sugar beet and cane industry,LKA,2.8893514220202104e-05,EU27,2016
+1479,CIV,Growing tobacco industry,LKA,3.3773827220293374e-08,EU27,2016
+1480,CIV,Growing fibre crops industry,LKA,0.0002643278449954153,EU27,2016
+1481,CIV,Growing crops n.e.c. industry,LKA,0.001573198849059894,EU27,2016
+1482,CIV,Growing grapes industry,LKA,0.0,EU27,2016
+1483,CIV,Growing fruits and nuts industry,LKA,0.03448440705619755,EU27,2016
+1484,CIV,"Growing beverage crops (coffee, tea etc) industry",LKA,0.001987410389921046,EU27,2016
+1485,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,2.5438636662994003e-06,EU27,2016
+1486,CIV,Seeds and plant propagation industry,LKA,0.0,EU27,2016
+1487,CIV,Raising of cattle industry,LKA,0.005080901792090717,EU27,2016
+1488,CIV,Growing wheat industry,LTU,0.0,EU27,2016
+1489,CIV,Growing maize industry,LTU,0.0,EU27,2016
+1490,CIV,Growing cereals n.e.c industry,LTU,0.0,EU27,2016
+1491,CIV,Growing leguminous crops and oil seeds industry,LTU,0.0,EU27,2016
+1492,CIV,Growing rice industry,LTU,0.0,EU27,2016
+1493,CIV,"Growing vegetables, roots, tubers industry",LTU,0.0,EU27,2016
+1494,CIV,Growing sugar beet and cane industry,LTU,0.0,EU27,2016
+1495,CIV,Growing tobacco industry,LTU,0.0,EU27,2016
+1496,CIV,Growing fibre crops industry,LTU,0.0,EU27,2016
+1497,CIV,Growing crops n.e.c. industry,LTU,0.0,EU27,2016
+1498,CIV,Growing grapes industry,LTU,0.0,EU27,2016
+1499,CIV,Growing fruits and nuts industry,LTU,0.0,EU27,2016
+1500,CIV,"Growing beverage crops (coffee, tea etc) industry",LTU,0.0,EU27,2016
+1501,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,0.0,EU27,2016
+1502,CIV,Seeds and plant propagation industry,LTU,0.0,EU27,2016
+1503,CIV,Raising of cattle industry,LTU,0.0,EU27,2016
+1504,CIV,Growing wheat industry,LUX,0.0,EU27,2016
+1505,CIV,Growing maize industry,LUX,0.0,EU27,2016
+1506,CIV,Growing cereals n.e.c industry,LUX,0.0,EU27,2016
+1507,CIV,Growing leguminous crops and oil seeds industry,LUX,0.0,EU27,2016
+1508,CIV,Growing rice industry,LUX,0.0,EU27,2016
+1509,CIV,"Growing vegetables, roots, tubers industry",LUX,0.0,EU27,2016
+1510,CIV,Growing sugar beet and cane industry,LUX,0.0,EU27,2016
+1511,CIV,Growing tobacco industry,LUX,0.0,EU27,2016
+1512,CIV,Growing fibre crops industry,LUX,0.0,EU27,2016
+1513,CIV,Growing crops n.e.c. industry,LUX,0.0,EU27,2016
+1514,CIV,Growing grapes industry,LUX,0.0,EU27,2016
+1515,CIV,Growing fruits and nuts industry,LUX,0.0,EU27,2016
+1516,CIV,"Growing beverage crops (coffee, tea etc) industry",LUX,0.0,EU27,2016
+1517,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,0.0,EU27,2016
+1518,CIV,Seeds and plant propagation industry,LUX,0.0,EU27,2016
+1519,CIV,Raising of cattle industry,LUX,0.0,EU27,2016
+1520,CIV,Growing wheat industry,LVA,0.0,EU27,2016
+1521,CIV,Growing maize industry,LVA,0.0,EU27,2016
+1522,CIV,Growing cereals n.e.c industry,LVA,0.0,EU27,2016
+1523,CIV,Growing leguminous crops and oil seeds industry,LVA,0.0,EU27,2016
+1524,CIV,Growing rice industry,LVA,0.0,EU27,2016
+1525,CIV,"Growing vegetables, roots, tubers industry",LVA,0.0,EU27,2016
+1526,CIV,Growing sugar beet and cane industry,LVA,0.0,EU27,2016
+1527,CIV,Growing tobacco industry,LVA,0.0,EU27,2016
+1528,CIV,Growing fibre crops industry,LVA,0.0,EU27,2016
+1529,CIV,Growing crops n.e.c. industry,LVA,0.0,EU27,2016
+1530,CIV,Growing grapes industry,LVA,0.0,EU27,2016
+1531,CIV,Growing fruits and nuts industry,LVA,0.0,EU27,2016
+1532,CIV,"Growing beverage crops (coffee, tea etc) industry",LVA,0.0,EU27,2016
+1533,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,0.0,EU27,2016
+1534,CIV,Seeds and plant propagation industry,LVA,0.0,EU27,2016
+1535,CIV,Raising of cattle industry,LVA,0.0,EU27,2016
+1536,CIV,Growing wheat industry,MAR,0.0,EU27,2016
+1537,CIV,Growing maize industry,MAR,0.08191079268263839,EU27,2016
+1538,CIV,Growing cereals n.e.c industry,MAR,0.0004256151298936314,EU27,2016
+1539,CIV,Growing leguminous crops and oil seeds industry,MAR,0.00934149281717735,EU27,2016
+1540,CIV,Growing rice industry,MAR,8.513551964559262e-06,EU27,2016
+1541,CIV,"Growing vegetables, roots, tubers industry",MAR,0.005525629689011335,EU27,2016
+1542,CIV,Growing sugar beet and cane industry,MAR,0.000305613138202226,EU27,2016
+1543,CIV,Growing tobacco industry,MAR,5.097330652902897e-07,EU27,2016
+1544,CIV,Growing fibre crops industry,MAR,0.004647030494402731,EU27,2016
+1545,CIV,Growing crops n.e.c. industry,MAR,0.02899869848705347,EU27,2016
+1546,CIV,Growing grapes industry,MAR,0.0,EU27,2016
+1547,CIV,Growing fruits and nuts industry,MAR,0.15383211143114361,EU27,2016
+1548,CIV,"Growing beverage crops (coffee, tea etc) industry",MAR,0.010424876039734549,EU27,2016
+1549,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,3.084395418440587e-05,EU27,2016
+1550,CIV,Seeds and plant propagation industry,MAR,0.0,EU27,2016
+1551,CIV,Raising of cattle industry,MAR,0.053916807531261844,EU27,2016
+1552,CIV,Growing wheat industry,MDA,0.0,EU27,2016
+1553,CIV,Growing maize industry,MDA,0.00555023978105755,EU27,2016
+1554,CIV,Growing cereals n.e.c industry,MDA,6.343375236283025e-05,EU27,2016
+1555,CIV,Growing leguminous crops and oil seeds industry,MDA,0.00039490650324152304,EU27,2016
+1556,CIV,Growing rice industry,MDA,1.4945289756195417e-06,EU27,2016
+1557,CIV,"Growing vegetables, roots, tubers industry",MDA,0.0008343347221799903,EU27,2016
+1558,CIV,Growing sugar beet and cane industry,MDA,2.0889933195721174e-05,EU27,2016
+1559,CIV,Growing tobacco industry,MDA,8.015890212217855e-08,EU27,2016
+1560,CIV,Growing fibre crops industry,MDA,0.0005649320030254386,EU27,2016
+1561,CIV,Growing crops n.e.c. industry,MDA,0.0014932270464509422,EU27,2016
+1562,CIV,Growing grapes industry,MDA,0.0,EU27,2016
+1563,CIV,Growing fruits and nuts industry,MDA,0.03252767509056306,EU27,2016
+1564,CIV,"Growing beverage crops (coffee, tea etc) industry",MDA,0.0009956830655203518,EU27,2016
+1565,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.994768947380752e-06,EU27,2016
+1566,CIV,Seeds and plant propagation industry,MDA,0.0,EU27,2016
+1567,CIV,Raising of cattle industry,MDA,0.0035991648178286995,EU27,2016
+1568,CIV,Growing wheat industry,MDG,0.0,EU27,2016
+1569,CIV,Growing maize industry,MDG,0.0021778369033934506,EU27,2016
+1570,CIV,Growing cereals n.e.c industry,MDG,1.6619745555721806e-05,EU27,2016
+1571,CIV,Growing leguminous crops and oil seeds industry,MDG,0.00024217345538560028,EU27,2016
+1572,CIV,Growing rice industry,MDG,7.380077194484024e-07,EU27,2016
+1573,CIV,"Growing vegetables, roots, tubers industry",MDG,0.00023490626915415844,EU27,2016
+1574,CIV,Growing sugar beet and cane industry,MDG,8.219934739455416e-06,EU27,2016
+1575,CIV,Growing tobacco industry,MDG,2.3202589321003366e-08,EU27,2016
+1576,CIV,Growing fibre crops industry,MDG,0.00016041751073252056,EU27,2016
+1577,CIV,Growing crops n.e.c. industry,MDG,0.0006701215911132302,EU27,2016
+1578,CIV,Growing grapes industry,MDG,0.0,EU27,2016
+1579,CIV,Growing fruits and nuts industry,MDG,0.009041914053154163,EU27,2016
+1580,CIV,"Growing beverage crops (coffee, tea etc) industry",MDG,0.0018053559640112966,EU27,2016
+1581,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,1.7176871278849566e-06,EU27,2016
+1582,CIV,Seeds and plant propagation industry,MDG,0.0,EU27,2016
+1583,CIV,Raising of cattle industry,MDG,0.0014312196841855254,EU27,2016
+1584,CIV,Growing wheat industry,MEX,0.0,EU27,2016
+1585,CIV,Growing maize industry,MEX,0.16339148527202293,EU27,2016
+1586,CIV,Growing cereals n.e.c industry,MEX,0.0007619755642264479,EU27,2016
+1587,CIV,Growing leguminous crops and oil seeds industry,MEX,0.012785193350648257,EU27,2016
+1588,CIV,Growing rice industry,MEX,1.4625382813173801e-05,EU27,2016
+1589,CIV,"Growing vegetables, roots, tubers industry",MEX,0.009477079616928074,EU27,2016
+1590,CIV,Growing sugar beet and cane industry,MEX,0.0006085543100896765,EU27,2016
+1591,CIV,Growing tobacco industry,MEX,4.1955872401194836e-07,EU27,2016
+1592,CIV,Growing fibre crops industry,MEX,0.005453337344202043,EU27,2016
+1593,CIV,Growing crops n.e.c. industry,MEX,0.03591056134460221,EU27,2016
+1594,CIV,Growing grapes industry,MEX,0.0,EU27,2016
+1595,CIV,Growing fruits and nuts industry,MEX,0.4529159656881067,EU27,2016
+1596,CIV,"Growing beverage crops (coffee, tea etc) industry",MEX,0.12449633568223845,EU27,2016
+1597,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,6.464308373216981e-05,EU27,2016
+1598,CIV,Seeds and plant propagation industry,MEX,0.0,EU27,2016
+1599,CIV,Raising of cattle industry,MEX,0.10740072651178245,EU27,2016
+1600,CIV,Growing wheat industry,MKD,0.0,EU27,2016
+1601,CIV,Growing maize industry,MKD,0.005723859687542093,EU27,2016
+1602,CIV,Growing cereals n.e.c industry,MKD,0.00021079012040118835,EU27,2016
+1603,CIV,Growing leguminous crops and oil seeds industry,MKD,0.0004812531224117611,EU27,2016
+1604,CIV,Growing rice industry,MKD,5.397189651529038e-06,EU27,2016
+1605,CIV,"Growing vegetables, roots, tubers industry",MKD,0.002843890259096854,EU27,2016
+1606,CIV,Growing sugar beet and cane industry,MKD,2.1819602547250927e-05,EU27,2016
+1607,CIV,Growing tobacco industry,MKD,3.8989842446293576e-08,EU27,2016
+1608,CIV,Growing fibre crops industry,MKD,0.0004395494471790455,EU27,2016
+1609,CIV,Growing crops n.e.c. industry,MKD,0.003043832675894289,EU27,2016
+1610,CIV,Growing grapes industry,MKD,0.0,EU27,2016
+1611,CIV,Growing fruits and nuts industry,MKD,0.020630228474633992,EU27,2016
+1612,CIV,"Growing beverage crops (coffee, tea etc) industry",MKD,0.0004841077530426255,EU27,2016
+1613,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,2.567889377530229e-06,EU27,2016
+1614,CIV,Seeds and plant propagation industry,MKD,0.0,EU27,2016
+1615,CIV,Raising of cattle industry,MKD,0.003480696800316696,EU27,2016
+1616,CIV,Growing wheat industry,MLI,0.0,EU27,2016
+1617,CIV,Growing maize industry,MLI,0.011256702979422111,EU27,2016
+1618,CIV,Growing cereals n.e.c industry,MLI,5.533436661930518e-05,EU27,2016
+1619,CIV,Growing leguminous crops and oil seeds industry,MLI,0.0005420754201627686,EU27,2016
+1620,CIV,Growing rice industry,MLI,1.0952089904221546e-06,EU27,2016
+1621,CIV,"Growing vegetables, roots, tubers industry",MLI,0.0010396831498961493,EU27,2016
+1622,CIV,Growing sugar beet and cane industry,MLI,4.190335670799335e-05,EU27,2016
+1623,CIV,Growing tobacco industry,MLI,1.9003903231217335e-08,EU27,2016
+1624,CIV,Growing fibre crops industry,MLI,0.00022122354718939906,EU27,2016
+1625,CIV,Growing crops n.e.c. industry,MLI,0.0018352396468113922,EU27,2016
+1626,CIV,Growing grapes industry,MLI,0.0,EU27,2016
+1627,CIV,Growing fruits and nuts industry,MLI,0.050549407818520305,EU27,2016
+1628,CIV,"Growing beverage crops (coffee, tea etc) industry",MLI,0.0020172959565657243,EU27,2016
+1629,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,3.6252436775292067e-06,EU27,2016
+1630,CIV,Seeds and plant propagation industry,MLI,0.0,EU27,2016
+1631,CIV,Raising of cattle industry,MLI,0.007390215810235654,EU27,2016
+1632,CIV,Growing wheat industry,MLT,0.0,EU27,2016
+1633,CIV,Growing maize industry,MLT,0.0,EU27,2016
+1634,CIV,Growing cereals n.e.c industry,MLT,0.0,EU27,2016
+1635,CIV,Growing leguminous crops and oil seeds industry,MLT,0.0,EU27,2016
+1636,CIV,Growing rice industry,MLT,0.0,EU27,2016
+1637,CIV,"Growing vegetables, roots, tubers industry",MLT,0.0,EU27,2016
+1638,CIV,Growing sugar beet and cane industry,MLT,0.0,EU27,2016
+1639,CIV,Growing tobacco industry,MLT,0.0,EU27,2016
+1640,CIV,Growing fibre crops industry,MLT,0.0,EU27,2016
+1641,CIV,Growing crops n.e.c. industry,MLT,0.0,EU27,2016
+1642,CIV,Growing grapes industry,MLT,0.0,EU27,2016
+1643,CIV,Growing fruits and nuts industry,MLT,0.0,EU27,2016
+1644,CIV,"Growing beverage crops (coffee, tea etc) industry",MLT,0.0,EU27,2016
+1645,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,0.0,EU27,2016
+1646,CIV,Seeds and plant propagation industry,MLT,0.0,EU27,2016
+1647,CIV,Raising of cattle industry,MLT,0.0,EU27,2016
+1648,CIV,Growing wheat industry,MMR,0.0,EU27,2016
+1649,CIV,Growing maize industry,MMR,0.02480391300027997,EU27,2016
+1650,CIV,Growing cereals n.e.c industry,MMR,0.00014418145579979407,EU27,2016
+1651,CIV,Growing leguminous crops and oil seeds industry,MMR,0.0012128201498996832,EU27,2016
+1652,CIV,Growing rice industry,MMR,3.0059077579230757e-06,EU27,2016
+1653,CIV,"Growing vegetables, roots, tubers industry",MMR,0.0017611768359909134,EU27,2016
+1654,CIV,Growing sugar beet and cane industry,MMR,9.23224076025617e-05,EU27,2016
+1655,CIV,Growing tobacco industry,MMR,3.834018780461949e-08,EU27,2016
+1656,CIV,Growing fibre crops industry,MMR,0.0005644191581027977,EU27,2016
+1657,CIV,Growing crops n.e.c. industry,MMR,0.003645107647034217,EU27,2016
+1658,CIV,Growing grapes industry,MMR,0.0,EU27,2016
+1659,CIV,Growing fruits and nuts industry,MMR,0.05279198760779193,EU27,2016
+1660,CIV,"Growing beverage crops (coffee, tea etc) industry",MMR,0.001536743493733378,EU27,2016
+1661,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,4.768833183815679e-06,EU27,2016
+1662,CIV,Seeds and plant propagation industry,MMR,0.0,EU27,2016
+1663,CIV,Raising of cattle industry,MMR,0.016222815682600197,EU27,2016
+1664,CIV,Growing wheat industry,MNG,0.0,EU27,2016
+1665,CIV,Growing maize industry,MNG,0.0033037220961681904,EU27,2016
+1666,CIV,Growing cereals n.e.c industry,MNG,3.586934728986081e-05,EU27,2016
+1667,CIV,Growing leguminous crops and oil seeds industry,MNG,0.00014876303079023904,EU27,2016
+1668,CIV,Growing rice industry,MNG,8.273965102706707e-07,EU27,2016
+1669,CIV,"Growing vegetables, roots, tubers industry",MNG,0.00046214645849366044,EU27,2016
+1670,CIV,Growing sugar beet and cane industry,MNG,1.235376167582924e-05,EU27,2016
+1671,CIV,Growing tobacco industry,MNG,1.0826529228207683e-08,EU27,2016
+1672,CIV,Growing fibre crops industry,MNG,0.00013879704418547607,EU27,2016
+1673,CIV,Growing crops n.e.c. industry,MNG,0.0007466142342914022,EU27,2016
+1674,CIV,Growing grapes industry,MNG,0.0,EU27,2016
+1675,CIV,Growing fruits and nuts industry,MNG,0.024364958435761058,EU27,2016
+1676,CIV,"Growing beverage crops (coffee, tea etc) industry",MNG,0.0006606261837787883,EU27,2016
+1677,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,1.806510039726904e-06,EU27,2016
+1678,CIV,Seeds and plant propagation industry,MNG,0.0,EU27,2016
+1679,CIV,Raising of cattle industry,MNG,0.002139500733236296,EU27,2016
+1680,CIV,Growing wheat industry,MOZ,0.0,EU27,2016
+1681,CIV,Growing maize industry,MOZ,0.0022214613546976273,EU27,2016
+1682,CIV,Growing cereals n.e.c industry,MOZ,2.428626758077326e-05,EU27,2016
+1683,CIV,Growing leguminous crops and oil seeds industry,MOZ,0.00022357047240996846,EU27,2016
+1684,CIV,Growing rice industry,MOZ,4.6039290231027595e-07,EU27,2016
+1685,CIV,"Growing vegetables, roots, tubers industry",MOZ,0.0003083529872256438,EU27,2016
+1686,CIV,Growing sugar beet and cane industry,MOZ,8.30083363993376e-06,EU27,2016
+1687,CIV,Growing tobacco industry,MOZ,1.1515838544145721e-08,EU27,2016
+1688,CIV,Growing fibre crops industry,MOZ,0.0001791210891941528,EU27,2016
+1689,CIV,Growing crops n.e.c. industry,MOZ,0.0008796199165717383,EU27,2016
+1690,CIV,Growing grapes industry,MOZ,0.0,EU27,2016
+1691,CIV,Growing fruits and nuts industry,MOZ,0.010305023503163776,EU27,2016
+1692,CIV,"Growing beverage crops (coffee, tea etc) industry",MOZ,0.0016639229042660728,EU27,2016
+1693,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,1.191144824598386e-06,EU27,2016
+1694,CIV,Seeds and plant propagation industry,MOZ,0.0,EU27,2016
+1695,CIV,Raising of cattle industry,MOZ,0.00143792953632615,EU27,2016
+1696,CIV,Growing wheat industry,MRT,0.0,EU27,2016
+1697,CIV,Growing maize industry,MRT,0.007092886908457786,EU27,2016
+1698,CIV,Growing cereals n.e.c industry,MRT,3.5443506572920106e-05,EU27,2016
+1699,CIV,Growing leguminous crops and oil seeds industry,MRT,0.00038232393985101744,EU27,2016
+1700,CIV,Growing rice industry,MRT,6.889744740967019e-07,EU27,2016
+1701,CIV,"Growing vegetables, roots, tubers industry",MRT,0.0004335850452414137,EU27,2016
+1702,CIV,Growing sugar beet and cane industry,MRT,2.6382118685213136e-05,EU27,2016
+1703,CIV,Growing tobacco industry,MRT,7.757571515322619e-09,EU27,2016
+1704,CIV,Growing fibre crops industry,MRT,0.00015432611288455268,EU27,2016
+1705,CIV,Growing crops n.e.c. industry,MRT,0.0012776549654710439,EU27,2016
+1706,CIV,Growing grapes industry,MRT,0.0,EU27,2016
+1707,CIV,Growing fruits and nuts industry,MRT,0.015351304392698167,EU27,2016
+1708,CIV,"Growing beverage crops (coffee, tea etc) industry",MRT,0.0002482666265150382,EU27,2016
+1709,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.3076642904582874e-06,EU27,2016
+1710,CIV,Seeds and plant propagation industry,MRT,0.0,EU27,2016
+1711,CIV,Raising of cattle industry,MRT,0.004652450446427201,EU27,2016
+1712,CIV,Growing wheat industry,MWI,0.0,EU27,2016
+1713,CIV,Growing maize industry,MWI,0.0011864444777942278,EU27,2016
+1714,CIV,Growing cereals n.e.c industry,MWI,7.432181288012923e-06,EU27,2016
+1715,CIV,Growing leguminous crops and oil seeds industry,MWI,8.815794505903762e-05,EU27,2016
+1716,CIV,Growing rice industry,MWI,1.5296204248821982e-07,EU27,2016
+1717,CIV,"Growing vegetables, roots, tubers industry",MWI,0.00011050297938888769,EU27,2016
+1718,CIV,Growing sugar beet and cane industry,MWI,4.430104248362728e-06,EU27,2016
+1719,CIV,Growing tobacco industry,MWI,4.958481206268533e-09,EU27,2016
+1720,CIV,Growing fibre crops industry,MWI,8.36805952532449e-05,EU27,2016
+1721,CIV,Growing crops n.e.c. industry,MWI,0.00029565056687291894,EU27,2016
+1722,CIV,Growing grapes industry,MWI,0.0,EU27,2016
+1723,CIV,Growing fruits and nuts industry,MWI,0.004321969461062542,EU27,2016
+1724,CIV,"Growing beverage crops (coffee, tea etc) industry",MWI,0.00026945755079472604,EU27,2016
+1725,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,4.724141162147028e-07,EU27,2016
+1726,CIV,Seeds and plant propagation industry,MWI,0.0,EU27,2016
+1727,CIV,Raising of cattle industry,MWI,0.0007773811330025074,EU27,2016
+1728,CIV,Growing wheat industry,MYS,0.0,EU27,2016
+1729,CIV,Growing maize industry,MYS,0.06991136085207561,EU27,2016
+1730,CIV,Growing cereals n.e.c industry,MYS,0.00036253294943811183,EU27,2016
+1731,CIV,Growing leguminous crops and oil seeds industry,MYS,0.003823458843479585,EU27,2016
+1732,CIV,Growing rice industry,MYS,7.189432947865386e-06,EU27,2016
+1733,CIV,"Growing vegetables, roots, tubers industry",MYS,0.004605601473722213,EU27,2016
+1734,CIV,Growing sugar beet and cane industry,MYS,0.0002607820530985311,EU27,2016
+1735,CIV,Growing tobacco industry,MYS,1.7272805326970396e-07,EU27,2016
+1736,CIV,Growing fibre crops industry,MYS,0.0021769633529549444,EU27,2016
+1737,CIV,Growing crops n.e.c. industry,MYS,0.028284220007367453,EU27,2016
+1738,CIV,Growing grapes industry,MYS,0.0,EU27,2016
+1739,CIV,Growing fruits and nuts industry,MYS,0.2907135319874295,EU27,2016
+1740,CIV,"Growing beverage crops (coffee, tea etc) industry",MYS,0.011748644884273983,EU27,2016
+1741,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,2.0321620080397264e-05,EU27,2016
+1742,CIV,Seeds and plant propagation industry,MYS,0.0,EU27,2016
+1743,CIV,Raising of cattle industry,MYS,0.045910915276523745,EU27,2016
+1744,CIV,Growing wheat industry,NAM,0.0,EU27,2016
+1745,CIV,Growing maize industry,NAM,0.0038138155492170524,EU27,2016
+1746,CIV,Growing cereals n.e.c industry,NAM,1.7281559634775468e-05,EU27,2016
+1747,CIV,Growing leguminous crops and oil seeds industry,NAM,0.00012799978089701294,EU27,2016
+1748,CIV,Growing rice industry,NAM,3.2149886031560824e-07,EU27,2016
+1749,CIV,"Growing vegetables, roots, tubers industry",NAM,0.0002501468349201965,EU27,2016
+1750,CIV,Growing sugar beet and cane industry,NAM,1.4191958330657741e-05,EU27,2016
+1751,CIV,Growing tobacco industry,NAM,7.658766577916932e-09,EU27,2016
+1752,CIV,Growing fibre crops industry,NAM,9.029696476244776e-05,EU27,2016
+1753,CIV,Growing crops n.e.c. industry,NAM,0.0008211432430741919,EU27,2016
+1754,CIV,Growing grapes industry,NAM,0.0,EU27,2016
+1755,CIV,Growing fruits and nuts industry,NAM,0.0511854255452541,EU27,2016
+1756,CIV,"Growing beverage crops (coffee, tea etc) industry",NAM,0.004613232837925203,EU27,2016
+1757,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,2.95379573264499e-06,EU27,2016
+1758,CIV,Seeds and plant propagation industry,NAM,0.0,EU27,2016
+1759,CIV,Raising of cattle industry,NAM,0.0025113026105094893,EU27,2016
+1760,CIV,Growing wheat industry,NER,0.0,EU27,2016
+1761,CIV,Growing maize industry,NER,0.0030181580738669494,EU27,2016
+1762,CIV,Growing cereals n.e.c industry,NER,1.481585677894452e-05,EU27,2016
+1763,CIV,Growing leguminous crops and oil seeds industry,NER,0.00012038574495775513,EU27,2016
+1764,CIV,Growing rice industry,NER,2.92488640962329e-07,EU27,2016
+1765,CIV,"Growing vegetables, roots, tubers industry",NER,0.0002067587787058751,EU27,2016
+1766,CIV,Growing sugar beet and cane industry,NER,1.1230868575212594e-05,EU27,2016
+1767,CIV,Growing tobacco industry,NER,7.755806712713e-09,EU27,2016
+1768,CIV,Growing fibre crops industry,NER,7.182994370630533e-05,EU27,2016
+1769,CIV,Growing crops n.e.c. industry,NER,0.0005078201463946442,EU27,2016
+1770,CIV,Growing grapes industry,NER,0.0,EU27,2016
+1771,CIV,Growing fruits and nuts industry,NER,0.011835996139005578,EU27,2016
+1772,CIV,"Growing beverage crops (coffee, tea etc) industry",NER,0.001199247038130509,EU27,2016
+1773,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,1.2676413269404015e-06,EU27,2016
+1774,CIV,Seeds and plant propagation industry,NER,0.0,EU27,2016
+1775,CIV,Raising of cattle industry,NER,0.0019819000845569218,EU27,2016
+1776,CIV,Growing wheat industry,NGA,0.0,EU27,2016
+1777,CIV,Growing maize industry,NGA,0.04773105080004728,EU27,2016
+1778,CIV,Growing cereals n.e.c industry,NGA,0.0002929629329273891,EU27,2016
+1779,CIV,Growing leguminous crops and oil seeds industry,NGA,0.0020549120546418023,EU27,2016
+1780,CIV,Growing rice industry,NGA,6.287915401949999e-06,EU27,2016
+1781,CIV,"Growing vegetables, roots, tubers industry",NGA,0.00391555286580013,EU27,2016
+1782,CIV,Growing sugar beet and cane industry,NGA,0.0001778723433083815,EU27,2016
+1783,CIV,Growing tobacco industry,NGA,1.5745327366948548e-07,EU27,2016
+1784,CIV,Growing fibre crops industry,NGA,0.0013966601077878575,EU27,2016
+1785,CIV,Growing crops n.e.c. industry,NGA,0.022697675436187878,EU27,2016
+1786,CIV,Growing grapes industry,NGA,0.0,EU27,2016
+1787,CIV,Growing fruits and nuts industry,NGA,0.12951914318685703,EU27,2016
+1788,CIV,"Growing beverage crops (coffee, tea etc) industry",NGA,0.014994399759796835,EU27,2016
+1789,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,1.1075168173215518e-05,EU27,2016
+1790,CIV,Seeds and plant propagation industry,NGA,0.0,EU27,2016
+1791,CIV,Raising of cattle industry,NGA,0.03128101870505004,EU27,2016
+1792,CIV,Growing wheat industry,NIC,0.0,EU27,2016
+1793,CIV,Growing maize industry,NIC,0.001200885275205672,EU27,2016
+1794,CIV,Growing cereals n.e.c industry,NIC,6.725686031327596e-06,EU27,2016
+1795,CIV,Growing leguminous crops and oil seeds industry,NIC,9.820436804168706e-05,EU27,2016
+1796,CIV,Growing rice industry,NIC,1.3891414585912698e-07,EU27,2016
+1797,CIV,"Growing vegetables, roots, tubers industry",NIC,9.174713515902778e-05,EU27,2016
+1798,CIV,Growing sugar beet and cane industry,NIC,4.4845202601969735e-06,EU27,2016
+1799,CIV,Growing tobacco industry,NIC,5.0345201896137814e-09,EU27,2016
+1800,CIV,Growing fibre crops industry,NIC,5.987801424500122e-05,EU27,2016
+1801,CIV,Growing crops n.e.c. industry,NIC,0.0002972015983616286,EU27,2016
+1802,CIV,Growing grapes industry,NIC,0.0,EU27,2016
+1803,CIV,Growing fruits and nuts industry,NIC,0.005488096842691545,EU27,2016
+1804,CIV,"Growing beverage crops (coffee, tea etc) industry",NIC,0.000838967721260761,EU27,2016
+1805,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,9.454546110415897e-07,EU27,2016
+1806,CIV,Seeds and plant propagation industry,NIC,0.0,EU27,2016
+1807,CIV,Raising of cattle industry,NIC,0.0007892120506859521,EU27,2016
+1808,CIV,Growing wheat industry,NLD,0.0,EU27,2016
+1809,CIV,Growing maize industry,NLD,0.0,EU27,2016
+1810,CIV,Growing cereals n.e.c industry,NLD,0.0,EU27,2016
+1811,CIV,Growing leguminous crops and oil seeds industry,NLD,0.0,EU27,2016
+1812,CIV,Growing rice industry,NLD,0.0,EU27,2016
+1813,CIV,"Growing vegetables, roots, tubers industry",NLD,0.0,EU27,2016
+1814,CIV,Growing sugar beet and cane industry,NLD,0.0,EU27,2016
+1815,CIV,Growing tobacco industry,NLD,0.0,EU27,2016
+1816,CIV,Growing fibre crops industry,NLD,0.0,EU27,2016
+1817,CIV,Growing crops n.e.c. industry,NLD,0.0,EU27,2016
+1818,CIV,Growing grapes industry,NLD,0.0,EU27,2016
+1819,CIV,Growing fruits and nuts industry,NLD,0.0,EU27,2016
+1820,CIV,"Growing beverage crops (coffee, tea etc) industry",NLD,0.0,EU27,2016
+1821,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,0.0,EU27,2016
+1822,CIV,Seeds and plant propagation industry,NLD,0.0,EU27,2016
+1823,CIV,Raising of cattle industry,NLD,0.0,EU27,2016
+1824,CIV,Growing wheat industry,NOR,0.0,EU27,2016
+1825,CIV,Growing maize industry,NOR,0.1453996913359075,EU27,2016
+1826,CIV,Growing cereals n.e.c industry,NOR,0.0015948246330477617,EU27,2016
+1827,CIV,Growing leguminous crops and oil seeds industry,NOR,0.025714831052945072,EU27,2016
+1828,CIV,Growing rice industry,NOR,3.706601952935605e-05,EU27,2016
+1829,CIV,"Growing vegetables, roots, tubers industry",NOR,0.02091445153880864,EU27,2016
+1830,CIV,Growing sugar beet and cane industry,NOR,0.0005448923619819449,EU27,2016
+1831,CIV,Growing tobacco industry,NOR,6.557661368497401e-07,EU27,2016
+1832,CIV,Growing fibre crops industry,NOR,0.007404375957523703,EU27,2016
+1833,CIV,Growing crops n.e.c. industry,NOR,0.0919386898452285,EU27,2016
+1834,CIV,Growing grapes industry,NOR,0.0,EU27,2016
+1835,CIV,Growing fruits and nuts industry,NOR,1.0138689269392163,EU27,2016
+1836,CIV,"Growing beverage crops (coffee, tea etc) industry",NOR,0.07082724557268044,EU27,2016
+1837,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,4.5852306824564075e-05,EU27,2016
+1838,CIV,Seeds and plant propagation industry,NOR,0.0,EU27,2016
+1839,CIV,Raising of cattle industry,NOR,0.0945040391063053,EU27,2016
+1840,CIV,Growing wheat industry,NPL,0.0,EU27,2016
+1841,CIV,Growing maize industry,NPL,0.002325785374984111,EU27,2016
+1842,CIV,Growing cereals n.e.c industry,NPL,1.446848486620635e-05,EU27,2016
+1843,CIV,Growing leguminous crops and oil seeds industry,NPL,0.00016630084697639468,EU27,2016
+1844,CIV,Growing rice industry,NPL,3.109145243624495e-07,EU27,2016
+1845,CIV,"Growing vegetables, roots, tubers industry",NPL,0.0001790586406617019,EU27,2016
+1846,CIV,Growing sugar beet and cane industry,NPL,8.689211569048667e-06,EU27,2016
+1847,CIV,Growing tobacco industry,NPL,1.2537543959858016e-08,EU27,2016
+1848,CIV,Growing fibre crops industry,NPL,0.0001229380704598121,EU27,2016
+1849,CIV,Growing crops n.e.c. industry,NPL,0.0007150072595368762,EU27,2016
+1850,CIV,Growing grapes industry,NPL,0.0,EU27,2016
+1851,CIV,Growing fruits and nuts industry,NPL,0.01176838101405409,EU27,2016
+1852,CIV,"Growing beverage crops (coffee, tea etc) industry",NPL,0.0005983726825760284,EU27,2016
+1853,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,7.374806394299552e-07,EU27,2016
+1854,CIV,Seeds and plant propagation industry,NPL,0.0,EU27,2016
+1855,CIV,Raising of cattle industry,NPL,0.001526485153439567,EU27,2016
+1856,CIV,Growing wheat industry,NZL,0.0,EU27,2016
+1857,CIV,Growing maize industry,NZL,0.02765193110063777,EU27,2016
+1858,CIV,Growing cereals n.e.c industry,NZL,0.0001761509600607578,EU27,2016
+1859,CIV,Growing leguminous crops and oil seeds industry,NZL,0.002106475638558958,EU27,2016
+1860,CIV,Growing rice industry,NZL,3.718894342661145e-06,EU27,2016
+1861,CIV,"Growing vegetables, roots, tubers industry",NZL,0.002232660555879902,EU27,2016
+1862,CIV,Growing sugar beet and cane industry,NZL,0.00010342374149312798,EU27,2016
+1863,CIV,Growing tobacco industry,NZL,1.7188383521986904e-07,EU27,2016
+1864,CIV,Growing fibre crops industry,NZL,0.001217672600469646,EU27,2016
+1865,CIV,Growing crops n.e.c. industry,NZL,0.010379736837243024,EU27,2016
+1866,CIV,Growing grapes industry,NZL,0.0,EU27,2016
+1867,CIV,Growing fruits and nuts industry,NZL,0.10248006292754759,EU27,2016
+1868,CIV,"Growing beverage crops (coffee, tea etc) industry",NZL,0.007102711059078947,EU27,2016
+1869,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,1.2392579534169878e-05,EU27,2016
+1870,CIV,Seeds and plant propagation industry,NZL,0.0,EU27,2016
+1871,CIV,Raising of cattle industry,NZL,0.018111329860933723,EU27,2016
+1872,CIV,Growing wheat industry,OMN,0.0,EU27,2016
+1873,CIV,Growing maize industry,OMN,0.049958298721155425,EU27,2016
+1874,CIV,Growing cereals n.e.c industry,OMN,0.00020550613415428113,EU27,2016
+1875,CIV,Growing leguminous crops and oil seeds industry,OMN,0.0015496696199570033,EU27,2016
+1876,CIV,Growing rice industry,OMN,3.7197406148508025e-06,EU27,2016
+1877,CIV,"Growing vegetables, roots, tubers industry",OMN,0.002357728551233191,EU27,2016
+1878,CIV,Growing sugar beet and cane industry,OMN,0.00018572452545535274,EU27,2016
+1879,CIV,Growing tobacco industry,OMN,6.74878256343955e-08,EU27,2016
+1880,CIV,Growing fibre crops industry,OMN,0.0006856017673079634,EU27,2016
+1881,CIV,Growing crops n.e.c. industry,OMN,0.006433777804387182,EU27,2016
+1882,CIV,Growing grapes industry,OMN,0.0,EU27,2016
+1883,CIV,Growing fruits and nuts industry,OMN,0.113929163642784,EU27,2016
+1884,CIV,"Growing beverage crops (coffee, tea etc) industry",OMN,0.0011668764763809452,EU27,2016
+1885,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,6.557486479994877e-06,EU27,2016
+1886,CIV,Seeds and plant propagation industry,OMN,0.0,EU27,2016
+1887,CIV,Raising of cattle industry,OMN,0.03282092747826047,EU27,2016
+1888,CIV,Growing wheat industry,PAK,0.0,EU27,2016
+1889,CIV,Growing maize industry,PAK,0.022303563256086775,EU27,2016
+1890,CIV,Growing cereals n.e.c industry,PAK,0.00012849257660737682,EU27,2016
+1891,CIV,Growing leguminous crops and oil seeds industry,PAK,0.0012640218442516054,EU27,2016
+1892,CIV,Growing rice industry,PAK,2.6830754332129876e-06,EU27,2016
+1893,CIV,"Growing vegetables, roots, tubers industry",PAK,0.0016465134225691932,EU27,2016
+1894,CIV,Growing sugar beet and cane industry,PAK,8.324322919707266e-05,EU27,2016
+1895,CIV,Growing tobacco industry,PAK,6.186019673668365e-08,EU27,2016
+1896,CIV,Growing fibre crops industry,PAK,0.0007376273735723858,EU27,2016
+1897,CIV,Growing crops n.e.c. industry,PAK,0.0048660462165929395,EU27,2016
+1898,CIV,Growing grapes industry,PAK,0.0,EU27,2016
+1899,CIV,Growing fruits and nuts industry,PAK,0.08249439635452979,EU27,2016
+1900,CIV,"Growing beverage crops (coffee, tea etc) industry",PAK,0.0018363400404267458,EU27,2016
+1901,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,6.9524438364178565e-06,EU27,2016
+1902,CIV,Seeds and plant propagation industry,PAK,0.0,EU27,2016
+1903,CIV,Raising of cattle industry,PAK,0.014620955716311236,EU27,2016
+1904,CIV,Growing wheat industry,PSE,0.0,EU27,2016
+1905,CIV,Growing maize industry,PSE,0.007297564879056189,EU27,2016
+1906,CIV,Growing cereals n.e.c industry,PSE,6.807227811299907e-05,EU27,2016
+1907,CIV,Growing leguminous crops and oil seeds industry,PSE,0.0004546260240161526,EU27,2016
+1908,CIV,Growing rice industry,PSE,1.467864429963219e-06,EU27,2016
+1909,CIV,"Growing vegetables, roots, tubers industry",PSE,0.0009593543111665737,EU27,2016
+1910,CIV,Growing sugar beet and cane industry,PSE,2.7155248403246997e-05,EU27,2016
+1911,CIV,Growing tobacco industry,PSE,6.752191642550506e-08,EU27,2016
+1912,CIV,Growing fibre crops industry,PSE,0.0002549151861886485,EU27,2016
+1913,CIV,Growing crops n.e.c. industry,PSE,0.00158665880829447,EU27,2016
+1914,CIV,Growing grapes industry,PSE,0.0,EU27,2016
+1915,CIV,Growing fruits and nuts industry,PSE,0.044965259581507516,EU27,2016
+1916,CIV,"Growing beverage crops (coffee, tea etc) industry",PSE,0.00043597521773050237,EU27,2016
+1917,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.6944602194000916e-06,EU27,2016
+1918,CIV,Seeds and plant propagation industry,PSE,0.0,EU27,2016
+1919,CIV,Raising of cattle industry,PSE,0.0047257203309458585,EU27,2016
+1920,CIV,Growing wheat industry,PAN,0.0,EU27,2016
+1921,CIV,Growing maize industry,PAN,0.010562073581665906,EU27,2016
+1922,CIV,Growing cereals n.e.c industry,PAN,4.40385130204857e-05,EU27,2016
+1923,CIV,Growing leguminous crops and oil seeds industry,PAN,0.000500105522992594,EU27,2016
+1924,CIV,Growing rice industry,PAN,8.174368156220549e-07,EU27,2016
+1925,CIV,"Growing vegetables, roots, tubers industry",PAN,0.0006124396349540327,EU27,2016
+1926,CIV,Growing sugar beet and cane industry,PAN,3.928220934106293e-05,EU27,2016
+1927,CIV,Growing tobacco industry,PAN,3.841563571938956e-08,EU27,2016
+1928,CIV,Growing fibre crops industry,PAN,0.00025023961962270555,EU27,2016
+1929,CIV,Growing crops n.e.c. industry,PAN,0.0016066484606353862,EU27,2016
+1930,CIV,Growing grapes industry,PAN,0.0,EU27,2016
+1931,CIV,Growing fruits and nuts industry,PAN,0.037578960897705356,EU27,2016
+1932,CIV,"Growing beverage crops (coffee, tea etc) industry",PAN,0.008773375818573419,EU27,2016
+1933,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,1.0600396654513365e-05,EU27,2016
+1934,CIV,Seeds and plant propagation industry,PAN,0.0,EU27,2016
+1935,CIV,Raising of cattle industry,PAN,0.00694618986603571,EU27,2016
+1936,CIV,Growing wheat industry,PER,0.0,EU27,2016
+1937,CIV,Growing maize industry,PER,0.020950531325754286,EU27,2016
+1938,CIV,Growing cereals n.e.c industry,PER,8.946558986440839e-05,EU27,2016
+1939,CIV,Growing leguminous crops and oil seeds industry,PER,0.0017211739666170354,EU27,2016
+1940,CIV,Growing rice industry,PER,1.6807207553029234e-06,EU27,2016
+1941,CIV,"Growing vegetables, roots, tubers industry",PER,0.0011128056236700806,EU27,2016
+1942,CIV,Growing sugar beet and cane industry,PER,7.798522945677179e-05,EU27,2016
+1943,CIV,Growing tobacco industry,PER,5.181139220608092e-08,EU27,2016
+1944,CIV,Growing fibre crops industry,PER,0.0006447247054606318,EU27,2016
+1945,CIV,Growing crops n.e.c. industry,PER,0.006251888024522869,EU27,2016
+1946,CIV,Growing grapes industry,PER,0.0,EU27,2016
+1947,CIV,Growing fruits and nuts industry,PER,0.055077070003024114,EU27,2016
+1948,CIV,"Growing beverage crops (coffee, tea etc) industry",PER,0.014677117597131379,EU27,2016
+1949,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,7.086796205826506e-06,EU27,2016
+1950,CIV,Seeds and plant propagation industry,PER,0.0,EU27,2016
+1951,CIV,Raising of cattle industry,PER,0.013800093236416228,EU27,2016
+1952,CIV,Growing wheat industry,PHL,0.0,EU27,2016
+1953,CIV,Growing maize industry,PHL,0.07776852570113381,EU27,2016
+1954,CIV,Growing cereals n.e.c industry,PHL,0.0003870544486968581,EU27,2016
+1955,CIV,Growing leguminous crops and oil seeds industry,PHL,0.003579464936344292,EU27,2016
+1956,CIV,Growing rice industry,PHL,7.586280274328216e-06,EU27,2016
+1957,CIV,"Growing vegetables, roots, tubers industry",PHL,0.004731998103363802,EU27,2016
+1958,CIV,Growing sugar beet and cane industry,PHL,0.00028954238818719533,EU27,2016
+1959,CIV,Growing tobacco industry,PHL,1.2733258453706002e-07,EU27,2016
+1960,CIV,Growing fibre crops industry,PHL,0.003434929795565863,EU27,2016
+1961,CIV,Growing crops n.e.c. industry,PHL,0.019909019124969438,EU27,2016
+1962,CIV,Growing grapes industry,PHL,0.0,EU27,2016
+1963,CIV,Growing fruits and nuts industry,PHL,0.24667481434580868,EU27,2016
+1964,CIV,"Growing beverage crops (coffee, tea etc) industry",PHL,0.08662342711906705,EU27,2016
+1965,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,2.097625418598699e-05,EU27,2016
+1966,CIV,Seeds and plant propagation industry,PHL,0.0,EU27,2016
+1967,CIV,Raising of cattle industry,PHL,0.05103967057501891,EU27,2016
+1968,CIV,Growing wheat industry,PNG,0.0,EU27,2016
+1969,CIV,Growing maize industry,PNG,0.0012894806383244677,EU27,2016
+1970,CIV,Growing cereals n.e.c industry,PNG,9.240202524309143e-06,EU27,2016
+1971,CIV,Growing leguminous crops and oil seeds industry,PNG,0.00010276161478347169,EU27,2016
+1972,CIV,Growing rice industry,PNG,2.0346154790793885e-07,EU27,2016
+1973,CIV,"Growing vegetables, roots, tubers industry",PNG,0.0001210729645577358,EU27,2016
+1974,CIV,Growing sugar beet and cane industry,PNG,4.816674031008516e-06,EU27,2016
+1975,CIV,Growing tobacco industry,PNG,4.33849145061066e-09,EU27,2016
+1976,CIV,Growing fibre crops industry,PNG,5.623420502878013e-05,EU27,2016
+1977,CIV,Growing crops n.e.c. industry,PNG,0.0003222032818553915,EU27,2016
+1978,CIV,Growing grapes industry,PNG,0.0,EU27,2016
+1979,CIV,Growing fruits and nuts industry,PNG,0.006643667199948469,EU27,2016
+1980,CIV,"Growing beverage crops (coffee, tea etc) industry",PNG,0.0002719206177398175,EU27,2016
+1981,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,5.992676659544113e-07,EU27,2016
+1982,CIV,Seeds and plant propagation industry,PNG,0.0,EU27,2016
+1983,CIV,Raising of cattle industry,PNG,0.0008434001501609738,EU27,2016
+1984,CIV,Growing wheat industry,POL,0.0,EU27,2016
+1985,CIV,Growing maize industry,POL,0.0,EU27,2016
+1986,CIV,Growing cereals n.e.c industry,POL,0.0,EU27,2016
+1987,CIV,Growing leguminous crops and oil seeds industry,POL,0.0,EU27,2016
+1988,CIV,Growing rice industry,POL,0.0,EU27,2016
+1989,CIV,"Growing vegetables, roots, tubers industry",POL,0.0,EU27,2016
+1990,CIV,Growing sugar beet and cane industry,POL,0.0,EU27,2016
+1991,CIV,Growing tobacco industry,POL,0.0,EU27,2016
+1992,CIV,Growing fibre crops industry,POL,0.0,EU27,2016
+1993,CIV,Growing crops n.e.c. industry,POL,0.0,EU27,2016
+1994,CIV,Growing grapes industry,POL,0.0,EU27,2016
+1995,CIV,Growing fruits and nuts industry,POL,0.0,EU27,2016
+1996,CIV,"Growing beverage crops (coffee, tea etc) industry",POL,0.0,EU27,2016
+1997,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,0.0,EU27,2016
+1998,CIV,Seeds and plant propagation industry,POL,0.0,EU27,2016
+1999,CIV,Raising of cattle industry,POL,0.0,EU27,2016
+2000,CIV,Growing wheat industry,PRK,0.0,EU27,2016
+2001,CIV,Growing maize industry,PRK,0.0006616888232640949,EU27,2016
+2002,CIV,Growing cereals n.e.c industry,PRK,4.482168727454097e-06,EU27,2016
+2003,CIV,Growing leguminous crops and oil seeds industry,PRK,8.23861696590471e-05,EU27,2016
+2004,CIV,Growing rice industry,PRK,9.897381151469569e-08,EU27,2016
+2005,CIV,"Growing vegetables, roots, tubers industry",PRK,5.9953218325689586e-05,EU27,2016
+2006,CIV,Growing sugar beet and cane industry,PRK,2.4699315790225787e-06,EU27,2016
+2007,CIV,Growing tobacco industry,PRK,3.396747448203458e-09,EU27,2016
+2008,CIV,Growing fibre crops industry,PRK,2.4589021630433113e-05,EU27,2016
+2009,CIV,Growing crops n.e.c. industry,PRK,0.00017363871346203996,EU27,2016
+2010,CIV,Growing grapes industry,PRK,0.0,EU27,2016
+2011,CIV,Growing fruits and nuts industry,PRK,0.002173869606004986,EU27,2016
+2012,CIV,"Growing beverage crops (coffee, tea etc) industry",PRK,8.980700592238873e-05,EU27,2016
+2013,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,2.2292098977281743e-07,EU27,2016
+2014,CIV,Seeds and plant propagation industry,PRK,0.0,EU27,2016
+2015,CIV,Raising of cattle industry,PRK,0.0004333557646888269,EU27,2016
+2016,CIV,Growing wheat industry,PRT,0.0,EU27,2016
+2017,CIV,Growing maize industry,PRT,0.0,EU27,2016
+2018,CIV,Growing cereals n.e.c industry,PRT,0.0,EU27,2016
+2019,CIV,Growing leguminous crops and oil seeds industry,PRT,0.0,EU27,2016
+2020,CIV,Growing rice industry,PRT,0.0,EU27,2016
+2021,CIV,"Growing vegetables, roots, tubers industry",PRT,0.0,EU27,2016
+2022,CIV,Growing sugar beet and cane industry,PRT,0.0,EU27,2016
+2023,CIV,Growing tobacco industry,PRT,0.0,EU27,2016
+2024,CIV,Growing fibre crops industry,PRT,0.0,EU27,2016
+2025,CIV,Growing crops n.e.c. industry,PRT,0.0,EU27,2016
+2026,CIV,Growing grapes industry,PRT,0.0,EU27,2016
+2027,CIV,Growing fruits and nuts industry,PRT,0.0,EU27,2016
+2028,CIV,"Growing beverage crops (coffee, tea etc) industry",PRT,0.0,EU27,2016
+2029,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,0.0,EU27,2016
+2030,CIV,Seeds and plant propagation industry,PRT,0.0,EU27,2016
+2031,CIV,Raising of cattle industry,PRT,0.0,EU27,2016
+2032,CIV,Growing wheat industry,PRY,0.0,EU27,2016
+2033,CIV,Growing maize industry,PRY,0.00338555460027651,EU27,2016
+2034,CIV,Growing cereals n.e.c industry,PRY,2.4055434448067337e-05,EU27,2016
+2035,CIV,Growing leguminous crops and oil seeds industry,PRY,0.0008962639261957827,EU27,2016
+2036,CIV,Growing rice industry,PRY,5.024057591342943e-07,EU27,2016
+2037,CIV,"Growing vegetables, roots, tubers industry",PRY,0.00030249520242324506,EU27,2016
+2038,CIV,Growing sugar beet and cane industry,PRY,1.2648700424189626e-05,EU27,2016
+2039,CIV,Growing tobacco industry,PRY,2.730812823485749e-08,EU27,2016
+2040,CIV,Growing fibre crops industry,PRY,0.0005255579902978966,EU27,2016
+2041,CIV,Growing crops n.e.c. industry,PRY,0.0015508236305857826,EU27,2016
+2042,CIV,Growing grapes industry,PRY,0.0,EU27,2016
+2043,CIV,Growing fruits and nuts industry,PRY,0.03844252637518339,EU27,2016
+2044,CIV,"Growing beverage crops (coffee, tea etc) industry",PRY,0.002728101641917497,EU27,2016
+2045,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,2.502211623814867e-06,EU27,2016
+2046,CIV,Seeds and plant propagation industry,PRY,0.0,EU27,2016
+2047,CIV,Raising of cattle industry,PRY,0.0022205395552165044,EU27,2016
+2048,CIV,Growing wheat industry,QAT,0.0,EU27,2016
+2049,CIV,Growing maize industry,QAT,0.11525281572908909,EU27,2016
+2050,CIV,Growing cereals n.e.c industry,QAT,0.00046363505573106446,EU27,2016
+2051,CIV,Growing leguminous crops and oil seeds industry,QAT,0.0027178583495625626,EU27,2016
+2052,CIV,Growing rice industry,QAT,8.438041106624702e-06,EU27,2016
+2053,CIV,"Growing vegetables, roots, tubers industry",QAT,0.005278783860361022,EU27,2016
+2054,CIV,Growing sugar beet and cane industry,QAT,0.0004284730639723896,EU27,2016
+2055,CIV,Growing tobacco industry,QAT,1.7609725810599633e-07,EU27,2016
+2056,CIV,Growing fibre crops industry,QAT,0.001861129755589051,EU27,2016
+2057,CIV,Growing crops n.e.c. industry,QAT,0.015060322010731344,EU27,2016
+2058,CIV,Growing grapes industry,QAT,0.0,EU27,2016
+2059,CIV,Growing fruits and nuts industry,QAT,0.378522535842451,EU27,2016
+2060,CIV,"Growing beverage crops (coffee, tea etc) industry",QAT,0.011200425674191548,EU27,2016
+2061,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,2.9567647191835957e-05,EU27,2016
+2062,CIV,Seeds and plant propagation industry,QAT,0.0,EU27,2016
+2063,CIV,Raising of cattle industry,QAT,0.07575159356861932,EU27,2016
+2064,CIV,Growing wheat industry,ROU,0.0,EU27,2016
+2065,CIV,Growing maize industry,ROU,0.0,EU27,2016
+2066,CIV,Growing cereals n.e.c industry,ROU,0.0,EU27,2016
+2067,CIV,Growing leguminous crops and oil seeds industry,ROU,0.0,EU27,2016
+2068,CIV,Growing rice industry,ROU,0.0,EU27,2016
+2069,CIV,"Growing vegetables, roots, tubers industry",ROU,0.0,EU27,2016
+2070,CIV,Growing sugar beet and cane industry,ROU,0.0,EU27,2016
+2071,CIV,Growing tobacco industry,ROU,0.0,EU27,2016
+2072,CIV,Growing fibre crops industry,ROU,0.0,EU27,2016
+2073,CIV,Growing crops n.e.c. industry,ROU,0.0,EU27,2016
+2074,CIV,Growing grapes industry,ROU,0.0,EU27,2016
+2075,CIV,Growing fruits and nuts industry,ROU,0.0,EU27,2016
+2076,CIV,"Growing beverage crops (coffee, tea etc) industry",ROU,0.0,EU27,2016
+2077,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,0.0,EU27,2016
+2078,CIV,Seeds and plant propagation industry,ROU,0.0,EU27,2016
+2079,CIV,Raising of cattle industry,ROU,0.0,EU27,2016
+2080,CIV,Growing wheat industry,RUS,0.0,EU27,2016
+2081,CIV,Growing maize industry,RUS,0.23780391624414052,EU27,2016
+2082,CIV,Growing cereals n.e.c industry,RUS,0.00303063499066084,EU27,2016
+2083,CIV,Growing leguminous crops and oil seeds industry,RUS,0.024824636988453396,EU27,2016
+2084,CIV,Growing rice industry,RUS,7.174867014337659e-05,EU27,2016
+2085,CIV,"Growing vegetables, roots, tubers industry",RUS,0.03998991126173923,EU27,2016
+2086,CIV,Growing sugar beet and cane industry,RUS,0.0008951017290251798,EU27,2016
+2087,CIV,Growing tobacco industry,RUS,1.1070483604568816e-06,EU27,2016
+2088,CIV,Growing fibre crops industry,RUS,0.01753961858080789,EU27,2016
+2089,CIV,Growing crops n.e.c. industry,RUS,0.13929819651758493,EU27,2016
+2090,CIV,Growing grapes industry,RUS,0.0,EU27,2016
+2091,CIV,Growing fruits and nuts industry,RUS,1.2980428806213338,EU27,2016
+2092,CIV,"Growing beverage crops (coffee, tea etc) industry",RUS,0.08819267513734522,EU27,2016
+2093,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,9.169497384542266e-05,EU27,2016
+2094,CIV,Seeds and plant propagation industry,RUS,0.0,EU27,2016
+2095,CIV,Raising of cattle industry,RUS,0.15376690382798006,EU27,2016
+2096,CIV,Growing wheat industry,RWA,0.0,EU27,2016
+2097,CIV,Growing maize industry,RWA,0.001619936277597766,EU27,2016
+2098,CIV,Growing cereals n.e.c industry,RWA,9.191142507498803e-06,EU27,2016
+2099,CIV,Growing leguminous crops and oil seeds industry,RWA,8.348392944824063e-05,EU27,2016
+2100,CIV,Growing rice industry,RWA,1.9642913165537582e-07,EU27,2016
+2101,CIV,"Growing vegetables, roots, tubers industry",RWA,0.0001241206959830615,EU27,2016
+2102,CIV,Growing sugar beet and cane industry,RWA,6.046980550635133e-06,EU27,2016
+2103,CIV,Growing tobacco industry,RWA,5.258247380321726e-09,EU27,2016
+2104,CIV,Growing fibre crops industry,RWA,7.293196061476766e-05,EU27,2016
+2105,CIV,Growing crops n.e.c. industry,RWA,0.0003498689128389849,EU27,2016
+2106,CIV,Growing grapes industry,RWA,0.0,EU27,2016
+2107,CIV,Growing fruits and nuts industry,RWA,0.009013554260657365,EU27,2016
+2108,CIV,"Growing beverage crops (coffee, tea etc) industry",RWA,0.0015668755484666817,EU27,2016
+2109,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,6.54641590025512e-07,EU27,2016
+2110,CIV,Seeds and plant propagation industry,RWA,0.0,EU27,2016
+2111,CIV,Raising of cattle industry,RWA,0.0010637094626168946,EU27,2016
+2112,CIV,Growing wheat industry,SAU,0.0,EU27,2016
+2113,CIV,Growing maize industry,SAU,0.2570098026735298,EU27,2016
+2114,CIV,Growing cereals n.e.c industry,SAU,0.001540241021269092,EU27,2016
+2115,CIV,Growing leguminous crops and oil seeds industry,SAU,0.01796217416999867,EU27,2016
+2116,CIV,Growing rice industry,SAU,3.200263930339302e-05,EU27,2016
+2117,CIV,"Growing vegetables, roots, tubers industry",SAU,0.02049160936120619,EU27,2016
+2118,CIV,Growing sugar beet and cane industry,SAU,0.0009584742081883679,EU27,2016
+2119,CIV,Growing tobacco industry,SAU,4.930538157686023e-07,EU27,2016
+2120,CIV,Growing fibre crops industry,SAU,0.006453035721382737,EU27,2016
+2121,CIV,Growing crops n.e.c. industry,SAU,0.07412083966721528,EU27,2016
+2122,CIV,Growing grapes industry,SAU,0.0,EU27,2016
+2123,CIV,Growing fruits and nuts industry,SAU,0.5984298151257792,EU27,2016
+2124,CIV,"Growing beverage crops (coffee, tea etc) industry",SAU,0.02408001450249047,EU27,2016
+2125,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,5.79765780279517e-05,EU27,2016
+2126,CIV,Seeds and plant propagation industry,SAU,0.0,EU27,2016
+2127,CIV,Raising of cattle industry,SAU,0.16831789090916938,EU27,2016
+2128,CIV,Growing wheat industry,SDS,0.0,EU27,2016
+2129,CIV,Growing maize industry,SDS,0.00032643027393803567,EU27,2016
+2130,CIV,Growing cereals n.e.c industry,SDS,1.7359720521917312e-06,EU27,2016
+2131,CIV,Growing leguminous crops and oil seeds industry,SDS,2.174588143800131e-05,EU27,2016
+2132,CIV,Growing rice industry,SDS,3.485856056442071e-08,EU27,2016
+2133,CIV,"Growing vegetables, roots, tubers industry",SDS,2.129596054458299e-05,EU27,2016
+2134,CIV,Growing sugar beet and cane industry,SDS,1.2215742975101948e-06,EU27,2016
+2135,CIV,Growing tobacco industry,SDS,1.896445489548885e-09,EU27,2016
+2136,CIV,Growing fibre crops industry,SDS,1.53820158292432e-05,EU27,2016
+2137,CIV,Growing crops n.e.c. industry,SDS,9.783096544087235e-05,EU27,2016
+2138,CIV,Growing grapes industry,SDS,0.0,EU27,2016
+2139,CIV,Growing fruits and nuts industry,SDS,0.0012565771874695807,EU27,2016
+2140,CIV,"Growing beverage crops (coffee, tea etc) industry",SDS,0.00012155227314634006,EU27,2016
+2141,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,1.0048965633583766e-07,EU27,2016
+2142,CIV,Seeds and plant propagation industry,SDS,0.0,EU27,2016
+2143,CIV,Raising of cattle industry,SDS,0.00021453991780038127,EU27,2016
+2144,CIV,Growing wheat industry,SEN,0.0,EU27,2016
+2145,CIV,Growing maize industry,SEN,0.008735255518987168,EU27,2016
+2146,CIV,Growing cereals n.e.c industry,SEN,5.306005733200098e-05,EU27,2016
+2147,CIV,Growing leguminous crops and oil seeds industry,SEN,0.0005652824436613501,EU27,2016
+2148,CIV,Growing rice industry,SEN,1.097917509601631e-06,EU27,2016
+2149,CIV,"Growing vegetables, roots, tubers industry",SEN,0.0008510645626985542,EU27,2016
+2150,CIV,Growing sugar beet and cane industry,SEN,3.254830116386455e-05,EU27,2016
+2151,CIV,Growing tobacco industry,SEN,1.6819608741183354e-07,EU27,2016
+2152,CIV,Growing fibre crops industry,SEN,0.0003359782672752476,EU27,2016
+2153,CIV,Growing crops n.e.c. industry,SEN,0.001398177079567662,EU27,2016
+2154,CIV,Growing grapes industry,SEN,0.0,EU27,2016
+2155,CIV,Growing fruits and nuts industry,SEN,0.026878791507134094,EU27,2016
+2156,CIV,"Growing beverage crops (coffee, tea etc) industry",SEN,0.0013891168958556838,EU27,2016
+2157,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,2.9588844601752114e-06,EU27,2016
+2158,CIV,Seeds and plant propagation industry,SEN,0.0,EU27,2016
+2159,CIV,Raising of cattle industry,SEN,0.005725677087258195,EU27,2016
+2160,CIV,Growing wheat industry,SGP,0.0,EU27,2016
+2161,CIV,Growing maize industry,SGP,0.08245379448743474,EU27,2016
+2162,CIV,Growing cereals n.e.c industry,SGP,0.0004644858766242339,EU27,2016
+2163,CIV,Growing leguminous crops and oil seeds industry,SGP,0.004290719032971622,EU27,2016
+2164,CIV,Growing rice industry,SGP,9.479631513396511e-06,EU27,2016
+2165,CIV,"Growing vegetables, roots, tubers industry",SGP,0.005861260635322408,EU27,2016
+2166,CIV,Growing sugar beet and cane industry,SGP,0.00030790698117983745,EU27,2016
+2167,CIV,Growing tobacco industry,SGP,2.598143373775225e-07,EU27,2016
+2168,CIV,Growing fibre crops industry,SGP,0.00315178356825519,EU27,2016
+2169,CIV,Growing crops n.e.c. industry,SGP,0.032925278643023685,EU27,2016
+2170,CIV,Growing grapes industry,SGP,0.0,EU27,2016
+2171,CIV,Growing fruits and nuts industry,SGP,0.3354694165605001,EU27,2016
+2172,CIV,"Growing beverage crops (coffee, tea etc) industry",SGP,0.027625033923714695,EU27,2016
+2173,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,4.960414246186545e-05,EU27,2016
+2174,CIV,Seeds and plant propagation industry,SGP,0.0,EU27,2016
+2175,CIV,Raising of cattle industry,SGP,0.05411734510263537,EU27,2016
+2176,CIV,Growing wheat industry,SLE,0.0,EU27,2016
+2177,CIV,Growing maize industry,SLE,0.001724370965545467,EU27,2016
+2178,CIV,Growing cereals n.e.c industry,SLE,1.1549189964969027e-05,EU27,2016
+2179,CIV,Growing leguminous crops and oil seeds industry,SLE,9.323494539374298e-05,EU27,2016
+2180,CIV,Growing rice industry,SLE,2.1188592786215698e-07,EU27,2016
+2181,CIV,"Growing vegetables, roots, tubers industry",SLE,0.0001302890425410372,EU27,2016
+2182,CIV,Growing sugar beet and cane industry,SLE,6.425928751688583e-06,EU27,2016
+2183,CIV,Growing tobacco industry,SLE,4.185422179520745e-09,EU27,2016
+2184,CIV,Growing fibre crops industry,SLE,4.501675478551531e-05,EU27,2016
+2185,CIV,Growing crops n.e.c. industry,SLE,0.0003608540802676495,EU27,2016
+2186,CIV,Growing grapes industry,SLE,0.0,EU27,2016
+2187,CIV,Growing fruits and nuts industry,SLE,0.01005554737805612,EU27,2016
+2188,CIV,"Growing beverage crops (coffee, tea etc) industry",SLE,0.00011159940083699406,EU27,2016
+2189,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,4.3655165803629076e-07,EU27,2016
+2190,CIV,Seeds and plant propagation industry,SLE,0.0,EU27,2016
+2191,CIV,Raising of cattle industry,SLE,0.0011269232189144024,EU27,2016
+2192,CIV,Growing wheat industry,SLV,0.0,EU27,2016
+2193,CIV,Growing maize industry,SLV,0.002377767648478997,EU27,2016
+2194,CIV,Growing cereals n.e.c industry,SLV,1.3860114811916882e-05,EU27,2016
+2195,CIV,Growing leguminous crops and oil seeds industry,SLV,0.00027034027368873925,EU27,2016
+2196,CIV,Growing rice industry,SLV,2.9111626640125977e-07,EU27,2016
+2197,CIV,"Growing vegetables, roots, tubers industry",SLV,0.00020515347387466926,EU27,2016
+2198,CIV,Growing sugar beet and cane industry,SLV,8.875128788437282e-06,EU27,2016
+2199,CIV,Growing tobacco industry,SLV,7.406973551928703e-09,EU27,2016
+2200,CIV,Growing fibre crops industry,SLV,0.00016667129467045776,EU27,2016
+2201,CIV,Growing crops n.e.c. industry,SLV,0.000560155141815678,EU27,2016
+2202,CIV,Growing grapes industry,SLV,0.0,EU27,2016
+2203,CIV,Growing fruits and nuts industry,SLV,0.016257012560241722,EU27,2016
+2204,CIV,"Growing beverage crops (coffee, tea etc) industry",SLV,0.002507939678845892,EU27,2016
+2205,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,1.4742352681835165e-06,EU27,2016
+2206,CIV,Seeds and plant propagation industry,SLV,0.0,EU27,2016
+2207,CIV,Raising of cattle industry,SLV,0.0015611714637310896,EU27,2016
+2208,CIV,Growing wheat industry,SOM,0.0,EU27,2016
+2209,CIV,Growing maize industry,SOM,0.004988552768476706,EU27,2016
+2210,CIV,Growing cereals n.e.c industry,SOM,2.1970029866174947e-05,EU27,2016
+2211,CIV,Growing leguminous crops and oil seeds industry,SOM,0.0003377518839568562,EU27,2016
+2212,CIV,Growing rice industry,SOM,4.1291158124232345e-07,EU27,2016
+2213,CIV,"Growing vegetables, roots, tubers industry",SOM,0.00030149899382932974,EU27,2016
+2214,CIV,Growing sugar beet and cane industry,SOM,1.8549690015196376e-05,EU27,2016
+2215,CIV,Growing tobacco industry,SOM,4.357515224070828e-09,EU27,2016
+2216,CIV,Growing fibre crops industry,SOM,7.393582131203909e-05,EU27,2016
+2217,CIV,Growing crops n.e.c. industry,SOM,0.0006539850297641752,EU27,2016
+2218,CIV,Growing grapes industry,SOM,0.0,EU27,2016
+2219,CIV,Growing fruits and nuts industry,SOM,0.01468307438455811,EU27,2016
+2220,CIV,"Growing beverage crops (coffee, tea etc) industry",SOM,0.000129639148642396,EU27,2016
+2221,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,1.2145834809676072e-06,EU27,2016
+2222,CIV,Seeds and plant propagation industry,SOM,0.0,EU27,2016
+2223,CIV,Raising of cattle industry,SOM,0.003275124148772603,EU27,2016
+2224,CIV,Growing wheat industry,SRB,0.0,EU27,2016
+2225,CIV,Growing maize industry,SRB,0.0032827135890793804,EU27,2016
+2226,CIV,Growing cereals n.e.c industry,SRB,3.0445569120887764e-05,EU27,2016
+2227,CIV,Growing leguminous crops and oil seeds industry,SRB,0.0003037490652722014,EU27,2016
+2228,CIV,Growing rice industry,SRB,6.897780256678457e-07,EU27,2016
+2229,CIV,"Growing vegetables, roots, tubers industry",SRB,0.00039201392130419404,EU27,2016
+2230,CIV,Growing sugar beet and cane industry,SRB,1.2307115091564584e-05,EU27,2016
+2231,CIV,Growing tobacco industry,SRB,2.7598586589901695e-08,EU27,2016
+2232,CIV,Growing fibre crops industry,SRB,0.00029163844982068535,EU27,2016
+2233,CIV,Growing crops n.e.c. industry,SRB,0.001366927065747974,EU27,2016
+2234,CIV,Growing grapes industry,SRB,0.0,EU27,2016
+2235,CIV,Growing fruits and nuts industry,SRB,0.01633494082648141,EU27,2016
+2236,CIV,"Growing beverage crops (coffee, tea etc) industry",SRB,0.0005920070436554862,EU27,2016
+2237,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,1.7250779815012011e-06,EU27,2016
+2238,CIV,Seeds and plant propagation industry,SRB,0.0,EU27,2016
+2239,CIV,Raising of cattle industry,SRB,0.0021436404354709822,EU27,2016
+2240,CIV,Growing wheat industry,SDN,0.0,EU27,2016
+2241,CIV,Growing maize industry,SDN,0.007965895704920152,EU27,2016
+2242,CIV,Growing cereals n.e.c industry,SDN,5.490960072919277e-05,EU27,2016
+2243,CIV,Growing leguminous crops and oil seeds industry,SDN,0.0005110420358982174,EU27,2016
+2244,CIV,Growing rice industry,SDN,1.1893669222103505e-06,EU27,2016
+2245,CIV,"Growing vegetables, roots, tubers industry",SDN,0.0007198187214845894,EU27,2016
+2246,CIV,Growing sugar beet and cane industry,SDN,2.970793706416989e-05,EU27,2016
+2247,CIV,Growing tobacco industry,SDN,1.807157263805069e-08,EU27,2016
+2248,CIV,Growing fibre crops industry,SDN,0.00022489454932922307,EU27,2016
+2249,CIV,Growing crops n.e.c. industry,SDN,0.0016798598328928412,EU27,2016
+2250,CIV,Growing grapes industry,SDN,0.0,EU27,2016
+2251,CIV,Growing fruits and nuts industry,SDN,0.048799426616981605,EU27,2016
+2252,CIV,"Growing beverage crops (coffee, tea etc) industry",SDN,0.0006962309896146595,EU27,2016
+2253,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,3.3276169008938553e-06,EU27,2016
+2254,CIV,Seeds and plant propagation industry,SDN,0.0,EU27,2016
+2255,CIV,Raising of cattle industry,SDN,0.005209422558993603,EU27,2016
+2256,CIV,Growing wheat industry,SVK,0.0,EU27,2016
+2257,CIV,Growing maize industry,SVK,0.0,EU27,2016
+2258,CIV,Growing cereals n.e.c industry,SVK,0.0,EU27,2016
+2259,CIV,Growing leguminous crops and oil seeds industry,SVK,0.0,EU27,2016
+2260,CIV,Growing rice industry,SVK,0.0,EU27,2016
+2261,CIV,"Growing vegetables, roots, tubers industry",SVK,0.0,EU27,2016
+2262,CIV,Growing sugar beet and cane industry,SVK,0.0,EU27,2016
+2263,CIV,Growing tobacco industry,SVK,0.0,EU27,2016
+2264,CIV,Growing fibre crops industry,SVK,0.0,EU27,2016
+2265,CIV,Growing crops n.e.c. industry,SVK,0.0,EU27,2016
+2266,CIV,Growing grapes industry,SVK,0.0,EU27,2016
+2267,CIV,Growing fruits and nuts industry,SVK,0.0,EU27,2016
+2268,CIV,"Growing beverage crops (coffee, tea etc) industry",SVK,0.0,EU27,2016
+2269,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,0.0,EU27,2016
+2270,CIV,Seeds and plant propagation industry,SVK,0.0,EU27,2016
+2271,CIV,Raising of cattle industry,SVK,0.0,EU27,2016
+2272,CIV,Growing wheat industry,SVN,0.0,EU27,2016
+2273,CIV,Growing maize industry,SVN,0.0,EU27,2016
+2274,CIV,Growing cereals n.e.c industry,SVN,0.0,EU27,2016
+2275,CIV,Growing leguminous crops and oil seeds industry,SVN,0.0,EU27,2016
+2276,CIV,Growing rice industry,SVN,0.0,EU27,2016
+2277,CIV,"Growing vegetables, roots, tubers industry",SVN,0.0,EU27,2016
+2278,CIV,Growing sugar beet and cane industry,SVN,0.0,EU27,2016
+2279,CIV,Growing tobacco industry,SVN,0.0,EU27,2016
+2280,CIV,Growing fibre crops industry,SVN,0.0,EU27,2016
+2281,CIV,Growing crops n.e.c. industry,SVN,0.0,EU27,2016
+2282,CIV,Growing grapes industry,SVN,0.0,EU27,2016
+2283,CIV,Growing fruits and nuts industry,SVN,0.0,EU27,2016
+2284,CIV,"Growing beverage crops (coffee, tea etc) industry",SVN,0.0,EU27,2016
+2285,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,0.0,EU27,2016
+2286,CIV,Seeds and plant propagation industry,SVN,0.0,EU27,2016
+2287,CIV,Raising of cattle industry,SVN,0.0,EU27,2016
+2288,CIV,Growing wheat industry,SWE,0.0,EU27,2016
+2289,CIV,Growing maize industry,SWE,0.0,EU27,2016
+2290,CIV,Growing cereals n.e.c industry,SWE,0.0,EU27,2016
+2291,CIV,Growing leguminous crops and oil seeds industry,SWE,0.0,EU27,2016
+2292,CIV,Growing rice industry,SWE,0.0,EU27,2016
+2293,CIV,"Growing vegetables, roots, tubers industry",SWE,0.0,EU27,2016
+2294,CIV,Growing sugar beet and cane industry,SWE,0.0,EU27,2016
+2295,CIV,Growing tobacco industry,SWE,0.0,EU27,2016
+2296,CIV,Growing fibre crops industry,SWE,0.0,EU27,2016
+2297,CIV,Growing crops n.e.c. industry,SWE,0.0,EU27,2016
+2298,CIV,Growing grapes industry,SWE,0.0,EU27,2016
+2299,CIV,Growing fruits and nuts industry,SWE,0.0,EU27,2016
+2300,CIV,"Growing beverage crops (coffee, tea etc) industry",SWE,0.0,EU27,2016
+2301,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,0.0,EU27,2016
+2302,CIV,Seeds and plant propagation industry,SWE,0.0,EU27,2016
+2303,CIV,Raising of cattle industry,SWE,0.0,EU27,2016
+2304,CIV,Growing wheat industry,SYR,0.0,EU27,2016
+2305,CIV,Growing maize industry,SYR,0.004952765646003399,EU27,2016
+2306,CIV,Growing cereals n.e.c industry,SYR,3.3989617908422924e-05,EU27,2016
+2307,CIV,Growing leguminous crops and oil seeds industry,SYR,0.00021742174199357227,EU27,2016
+2308,CIV,Growing rice industry,SYR,7.304732606817532e-07,EU27,2016
+2309,CIV,"Growing vegetables, roots, tubers industry",SYR,0.0004264287727727845,EU27,2016
+2310,CIV,Growing sugar beet and cane industry,SYR,1.8454173308999618e-05,EU27,2016
+2311,CIV,Growing tobacco industry,SYR,4.478277159291962e-08,EU27,2016
+2312,CIV,Growing fibre crops industry,SYR,0.00010059652545896377,EU27,2016
+2313,CIV,Growing crops n.e.c. industry,SYR,0.0007526057000302129,EU27,2016
+2314,CIV,Growing grapes industry,SYR,0.0,EU27,2016
+2315,CIV,Growing fruits and nuts industry,SYR,0.014087448817355925,EU27,2016
+2316,CIV,"Growing beverage crops (coffee, tea etc) industry",SYR,0.0001778793359805877,EU27,2016
+2317,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,1.5267744094728307e-06,EU27,2016
+2318,CIV,Seeds and plant propagation industry,SYR,0.0,EU27,2016
+2319,CIV,Raising of cattle industry,SYR,0.00323381174979226,EU27,2016
+2320,CIV,Growing wheat industry,TCD,0.0,EU27,2016
+2321,CIV,Growing maize industry,TCD,0.005289842178821709,EU27,2016
+2322,CIV,Growing cereals n.e.c industry,TCD,3.3890870226183386e-05,EU27,2016
+2323,CIV,Growing leguminous crops and oil seeds industry,TCD,0.0001310578527317215,EU27,2016
+2324,CIV,Growing rice industry,TCD,7.281563663173556e-07,EU27,2016
+2325,CIV,"Growing vegetables, roots, tubers industry",TCD,0.00045341086155702284,EU27,2016
+2326,CIV,Growing sugar beet and cane industry,TCD,1.9695831250435787e-05,EU27,2016
+2327,CIV,Growing tobacco industry,TCD,1.2880009615741068e-08,EU27,2016
+2328,CIV,Growing fibre crops industry,TCD,7.253959666619885e-05,EU27,2016
+2329,CIV,Growing crops n.e.c. industry,TCD,0.0008850903982837415,EU27,2016
+2330,CIV,Growing grapes industry,TCD,0.0,EU27,2016
+2331,CIV,Growing fruits and nuts industry,TCD,0.018096221505981905,EU27,2016
+2332,CIV,"Growing beverage crops (coffee, tea etc) industry",TCD,0.002827890836950129,EU27,2016
+2333,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,1.8069482068760089e-06,EU27,2016
+2334,CIV,Seeds and plant propagation industry,TCD,0.0,EU27,2016
+2335,CIV,Raising of cattle industry,TCD,0.0034590865447732206,EU27,2016
+2336,CIV,Growing wheat industry,TGO,0.0,EU27,2016
+2337,CIV,Growing maize industry,TGO,0.002029474445675756,EU27,2016
+2338,CIV,Growing cereals n.e.c industry,TGO,1.0234414532766693e-05,EU27,2016
+2339,CIV,Growing leguminous crops and oil seeds industry,TGO,7.252512488421483e-05,EU27,2016
+2340,CIV,Growing rice industry,TGO,2.068421576848852e-07,EU27,2016
+2341,CIV,"Growing vegetables, roots, tubers industry",TGO,0.0001422828647519407,EU27,2016
+2342,CIV,Growing sugar beet and cane industry,TGO,7.560693315268338e-06,EU27,2016
+2343,CIV,Growing tobacco industry,TGO,1.2658820970009186e-08,EU27,2016
+2344,CIV,Growing fibre crops industry,TGO,4.217606456801652e-05,EU27,2016
+2345,CIV,Growing crops n.e.c. industry,TGO,0.0004765809267054007,EU27,2016
+2346,CIV,Growing grapes industry,TGO,0.0,EU27,2016
+2347,CIV,Growing fruits and nuts industry,TGO,0.006515660722767302,EU27,2016
+2348,CIV,"Growing beverage crops (coffee, tea etc) industry",TGO,0.0014262970251886758,EU27,2016
+2349,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,8.217060762778878e-07,EU27,2016
+2350,CIV,Seeds and plant propagation industry,TGO,0.0,EU27,2016
+2351,CIV,Raising of cattle industry,TGO,0.0013335394238910914,EU27,2016
+2352,CIV,Growing wheat industry,THA,0.0,EU27,2016
+2353,CIV,Growing maize industry,THA,0.06630826815182123,EU27,2016
+2354,CIV,Growing cereals n.e.c industry,THA,0.00036408559121519875,EU27,2016
+2355,CIV,Growing leguminous crops and oil seeds industry,THA,0.004230657577161172,EU27,2016
+2356,CIV,Growing rice industry,THA,7.368770205227643e-06,EU27,2016
+2357,CIV,"Growing vegetables, roots, tubers industry",THA,0.004465776898858043,EU27,2016
+2358,CIV,Growing sugar beet and cane industry,THA,0.0002473221270322505,EU27,2016
+2359,CIV,Growing tobacco industry,THA,1.6872971941955343e-07,EU27,2016
+2360,CIV,Growing fibre crops industry,THA,0.004739588907749192,EU27,2016
+2361,CIV,Growing crops n.e.c. industry,THA,0.0192597019796874,EU27,2016
+2362,CIV,Growing grapes industry,THA,0.0,EU27,2016
+2363,CIV,Growing fruits and nuts industry,THA,0.29251306585059483,EU27,2016
+2364,CIV,"Growing beverage crops (coffee, tea etc) industry",THA,0.010830439491694828,EU27,2016
+2365,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,2.665955431551442e-05,EU27,2016
+2366,CIV,Seeds and plant propagation industry,THA,0.0,EU27,2016
+2367,CIV,Raising of cattle industry,THA,0.043552047268574104,EU27,2016
+2368,CIV,Growing wheat industry,TJK,0.0,EU27,2016
+2369,CIV,Growing maize industry,TJK,0.0007010168802046423,EU27,2016
+2370,CIV,Growing cereals n.e.c industry,TJK,6.57533779918537e-06,EU27,2016
+2371,CIV,Growing leguminous crops and oil seeds industry,TJK,5.900629201891624e-05,EU27,2016
+2372,CIV,Growing rice industry,TJK,1.5066550856841522e-07,EU27,2016
+2373,CIV,"Growing vegetables, roots, tubers industry",TJK,8.585311109651078e-05,EU27,2016
+2374,CIV,Growing sugar beet and cane industry,TJK,2.628295062926149e-06,EU27,2016
+2375,CIV,Growing tobacco industry,TJK,3.834511034824496e-09,EU27,2016
+2376,CIV,Growing fibre crops industry,TJK,5.01316595815058e-05,EU27,2016
+2377,CIV,Growing crops n.e.c. industry,TJK,0.00025103237346155323,EU27,2016
+2378,CIV,Growing grapes industry,TJK,0.0,EU27,2016
+2379,CIV,Growing fruits and nuts industry,TJK,0.00546636261565075,EU27,2016
+2380,CIV,"Growing beverage crops (coffee, tea etc) industry",TJK,0.00011244439222429147,EU27,2016
+2381,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,3.8300212429404903e-07,EU27,2016
+2382,CIV,Seeds and plant propagation industry,TJK,0.0,EU27,2016
+2383,CIV,Raising of cattle industry,TJK,0.00045729822842544243,EU27,2016
+2384,CIV,Growing wheat industry,TKM,0.0,EU27,2016
+2385,CIV,Growing maize industry,TKM,0.003691604435388508,EU27,2016
+2386,CIV,Growing cereals n.e.c industry,TKM,4.880240467752229e-05,EU27,2016
+2387,CIV,Growing leguminous crops and oil seeds industry,TKM,0.0001862978101655035,EU27,2016
+2388,CIV,Growing rice industry,TKM,1.1696101509611215e-06,EU27,2016
+2389,CIV,"Growing vegetables, roots, tubers industry",TKM,0.000635996738226232,EU27,2016
+2390,CIV,Growing sugar beet and cane industry,TKM,1.383175942484638e-05,EU27,2016
+2391,CIV,Growing tobacco industry,TKM,1.4271278730601718e-08,EU27,2016
+2392,CIV,Growing fibre crops industry,TKM,0.00012993767710313685,EU27,2016
+2393,CIV,Growing crops n.e.c. industry,TKM,0.0010649341259827147,EU27,2016
+2394,CIV,Growing grapes industry,TKM,0.0,EU27,2016
+2395,CIV,Growing fruits and nuts industry,TKM,0.013474459931053322,EU27,2016
+2396,CIV,"Growing beverage crops (coffee, tea etc) industry",TKM,0.0003980909982464176,EU27,2016
+2397,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,1.0240725832478493e-06,EU27,2016
+2398,CIV,Seeds and plant propagation industry,TKM,0.0,EU27,2016
+2399,CIV,Raising of cattle industry,TKM,0.002378773785610432,EU27,2016
+2400,CIV,Growing wheat industry,TUN,0.0,EU27,2016
+2401,CIV,Growing maize industry,TUN,0.023305124065757004,EU27,2016
+2402,CIV,Growing cereals n.e.c industry,TUN,0.0001303779220367748,EU27,2016
+2403,CIV,Growing leguminous crops and oil seeds industry,TUN,0.0035802347799754105,EU27,2016
+2404,CIV,Growing rice industry,TUN,2.628916059343048e-06,EU27,2016
+2405,CIV,"Growing vegetables, roots, tubers industry",TUN,0.0016138655637505427,EU27,2016
+2406,CIV,Growing sugar beet and cane industry,TUN,8.774829299391227e-05,EU27,2016
+2407,CIV,Growing tobacco industry,TUN,3.1022487004897975e-07,EU27,2016
+2408,CIV,Growing fibre crops industry,TUN,0.0030344693697653214,EU27,2016
+2409,CIV,Growing crops n.e.c. industry,TUN,0.012545641291455568,EU27,2016
+2410,CIV,Growing grapes industry,TUN,0.0,EU27,2016
+2411,CIV,Growing fruits and nuts industry,TUN,0.055455588482506785,EU27,2016
+2412,CIV,"Growing beverage crops (coffee, tea etc) industry",TUN,0.005382654487228641,EU27,2016
+2413,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,1.040500302463042e-05,EU27,2016
+2414,CIV,Seeds and plant propagation industry,TUN,0.0,EU27,2016
+2415,CIV,Raising of cattle industry,TUN,0.015402766749166397,EU27,2016
+2416,CIV,Growing wheat industry,TUR,0.0,EU27,2016
+2417,CIV,Growing maize industry,TUR,0.23373454595201335,EU27,2016
+2418,CIV,Growing cereals n.e.c industry,TUR,0.001979048373151114,EU27,2016
+2419,CIV,Growing leguminous crops and oil seeds industry,TUR,0.017298776991668374,EU27,2016
+2420,CIV,Growing rice industry,TUR,4.4748362309148936e-05,EU27,2016
+2421,CIV,"Growing vegetables, roots, tubers industry",TUR,0.0252333878173498,EU27,2016
+2422,CIV,Growing sugar beet and cane industry,TUR,0.0008736881367761006,EU27,2016
+2423,CIV,Growing tobacco industry,TUR,1.55576807979028e-06,EU27,2016
+2424,CIV,Growing fibre crops industry,TUR,0.011928922480586903,EU27,2016
+2425,CIV,Growing crops n.e.c. industry,TUR,0.06712999715286759,EU27,2016
+2426,CIV,Growing grapes industry,TUR,0.0,EU27,2016
+2427,CIV,Growing fruits and nuts industry,TUR,0.6372571801578336,EU27,2016
+2428,CIV,"Growing beverage crops (coffee, tea etc) industry",TUR,0.025607992305435513,EU27,2016
+2429,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,6.314032767999467e-05,EU27,2016
+2430,CIV,Seeds and plant propagation industry,TUR,0.0,EU27,2016
+2431,CIV,Raising of cattle industry,TUR,0.15244639471836763,EU27,2016
+2432,CIV,Growing wheat industry,TZA,0.0,EU27,2016
+2433,CIV,Growing maize industry,TZA,0.003654694836980108,EU27,2016
+2434,CIV,Growing cereals n.e.c industry,TZA,2.318613334675077e-05,EU27,2016
+2435,CIV,Growing leguminous crops and oil seeds industry,TZA,0.0002979235654935225,EU27,2016
+2436,CIV,Growing rice industry,TZA,4.75005036111495e-07,EU27,2016
+2437,CIV,"Growing vegetables, roots, tubers industry",TZA,0.0003032992649071137,EU27,2016
+2438,CIV,Growing sugar beet and cane industry,TZA,1.3636101472645683e-05,EU27,2016
+2439,CIV,Growing tobacco industry,TZA,1.555352038318165e-08,EU27,2016
+2440,CIV,Growing fibre crops industry,TZA,0.0001465528837152222,EU27,2016
+2441,CIV,Growing crops n.e.c. industry,TZA,0.001027349039287787,EU27,2016
+2442,CIV,Growing grapes industry,TZA,0.0,EU27,2016
+2443,CIV,Growing fruits and nuts industry,TZA,0.0202584281262108,EU27,2016
+2444,CIV,"Growing beverage crops (coffee, tea etc) industry",TZA,0.0016241492901901628,EU27,2016
+2445,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,1.3384036539311458e-06,EU27,2016
+2446,CIV,Seeds and plant propagation industry,TZA,0.0,EU27,2016
+2447,CIV,Raising of cattle industry,TZA,0.002395630204918046,EU27,2016
+2448,CIV,Growing wheat industry,UGA,0.0,EU27,2016
+2449,CIV,Growing maize industry,UGA,0.0025177216293149653,EU27,2016
+2450,CIV,Growing cereals n.e.c industry,UGA,1.4828132991146124e-05,EU27,2016
+2451,CIV,Growing leguminous crops and oil seeds industry,UGA,0.00014391196657605456,EU27,2016
+2452,CIV,Growing rice industry,UGA,3.0542434968982294e-07,EU27,2016
+2453,CIV,"Growing vegetables, roots, tubers industry",UGA,0.00018581539092039836,EU27,2016
+2454,CIV,Growing sugar beet and cane industry,UGA,9.396750866726834e-06,EU27,2016
+2455,CIV,Growing tobacco industry,UGA,9.264392287401452e-09,EU27,2016
+2456,CIV,Growing fibre crops industry,UGA,0.00011783135880888045,EU27,2016
+2457,CIV,Growing crops n.e.c. industry,UGA,0.000665722442384031,EU27,2016
+2458,CIV,Growing grapes industry,UGA,0.0,EU27,2016
+2459,CIV,Growing fruits and nuts industry,UGA,0.02206155073120559,EU27,2016
+2460,CIV,"Growing beverage crops (coffee, tea etc) industry",UGA,0.0004132793666069792,EU27,2016
+2461,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,1.361506333921019e-06,EU27,2016
+2462,CIV,Seeds and plant propagation industry,UGA,0.0,EU27,2016
+2463,CIV,Raising of cattle industry,UGA,0.0016521486170034873,EU27,2016
+2464,CIV,Growing wheat industry,UKR,0.0,EU27,2016
+2465,CIV,Growing maize industry,UKR,0.03395385200696301,EU27,2016
+2466,CIV,Growing cereals n.e.c industry,UKR,0.00048713538249514247,EU27,2016
+2467,CIV,Growing leguminous crops and oil seeds industry,UKR,0.0028518563961464774,EU27,2016
+2468,CIV,Growing rice industry,UKR,1.1638901911046607e-05,EU27,2016
+2469,CIV,"Growing vegetables, roots, tubers industry",UKR,0.0063788128827062555,EU27,2016
+2470,CIV,Growing sugar beet and cane industry,UKR,0.00012911006171046369,EU27,2016
+2471,CIV,Growing tobacco industry,UKR,4.1267959196658033e-07,EU27,2016
+2472,CIV,Growing fibre crops industry,UKR,0.0029839424571519615,EU27,2016
+2473,CIV,Growing crops n.e.c. industry,UKR,0.017006295488032033,EU27,2016
+2474,CIV,Growing grapes industry,UKR,0.0,EU27,2016
+2475,CIV,Growing fruits and nuts industry,UKR,0.1774533750572736,EU27,2016
+2476,CIV,"Growing beverage crops (coffee, tea etc) industry",UKR,0.01476044152971953,EU27,2016
+2477,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,1.3729245288212585e-05,EU27,2016
+2478,CIV,Seeds and plant propagation industry,UKR,0.0,EU27,2016
+2479,CIV,Raising of cattle industry,UKR,0.02190351018345201,EU27,2016
+2480,CIV,Growing wheat industry,URY,0.0,EU27,2016
+2481,CIV,Growing maize industry,URY,0.012345326663260494,EU27,2016
+2482,CIV,Growing cereals n.e.c industry,URY,6.262336981911568e-05,EU27,2016
+2483,CIV,Growing leguminous crops and oil seeds industry,URY,0.0010266663866995206,EU27,2016
+2484,CIV,Growing rice industry,URY,1.2068758685458663e-06,EU27,2016
+2485,CIV,"Growing vegetables, roots, tubers industry",URY,0.0007736657930009811,EU27,2016
+2486,CIV,Growing sugar beet and cane industry,URY,4.600896846064856e-05,EU27,2016
+2487,CIV,Growing tobacco industry,URY,3.825104178734268e-08,EU27,2016
+2488,CIV,Growing fibre crops industry,URY,0.00047155373257221805,EU27,2016
+2489,CIV,Growing crops n.e.c. industry,URY,0.004696805897202566,EU27,2016
+2490,CIV,Growing grapes industry,URY,0.0,EU27,2016
+2491,CIV,Growing fruits and nuts industry,URY,0.06223137919745583,EU27,2016
+2492,CIV,"Growing beverage crops (coffee, tea etc) industry",URY,0.004304577826936632,EU27,2016
+2493,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,5.624875872467303e-06,EU27,2016
+2494,CIV,Seeds and plant propagation industry,URY,0.0,EU27,2016
+2495,CIV,Raising of cattle industry,URY,0.008118681032526673,EU27,2016
+2496,CIV,Growing wheat industry,USA,0.0,EU27,2016
+2497,CIV,Growing maize industry,USA,1.6447246490554206,EU27,2016
+2498,CIV,Growing cereals n.e.c industry,USA,0.010952861600484474,EU27,2016
+2499,CIV,Growing leguminous crops and oil seeds industry,USA,0.14275191216844346,EU27,2016
+2500,CIV,Growing rice industry,USA,0.00023259972624946934,EU27,2016
+2501,CIV,"Growing vegetables, roots, tubers industry",USA,0.1512427400911462,EU27,2016
+2502,CIV,Growing sugar beet and cane industry,USA,0.006172843072614623,EU27,2016
+2503,CIV,Growing tobacco industry,USA,5.359431826973425e-06,EU27,2016
+2504,CIV,Growing fibre crops industry,USA,0.10687292544069373,EU27,2016
+2505,CIV,Growing crops n.e.c. industry,USA,0.8596672494567043,EU27,2016
+2506,CIV,Growing grapes industry,USA,0.0,EU27,2016
+2507,CIV,Growing fruits and nuts industry,USA,8.38461752041471,EU27,2016
+2508,CIV,"Growing beverage crops (coffee, tea etc) industry",USA,1.1362980200650987,EU27,2016
+2509,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,0.0015111689075393208,EU27,2016
+2510,CIV,Seeds and plant propagation industry,USA,0.0,EU27,2016
+2511,CIV,Raising of cattle industry,USA,1.078666515351044,EU27,2016
+2512,CIV,Growing wheat industry,UZB,0.0,EU27,2016
+2513,CIV,Growing maize industry,UZB,0.0337268673028147,EU27,2016
+2514,CIV,Growing cereals n.e.c industry,UZB,0.00042370545568984726,EU27,2016
+2515,CIV,Growing leguminous crops and oil seeds industry,UZB,0.0007150880159042203,EU27,2016
+2516,CIV,Growing rice industry,UZB,1.0075893919448354e-05,EU27,2016
+2517,CIV,"Growing vegetables, roots, tubers industry",UZB,0.005503586483657376,EU27,2016
+2518,CIV,Growing sugar beet and cane industry,UZB,0.0001260653172612607,EU27,2016
+2519,CIV,Growing tobacco industry,UZB,4.3884179564532383e-08,EU27,2016
+2520,CIV,Growing fibre crops industry,UZB,0.000445517848657442,EU27,2016
+2521,CIV,Growing crops n.e.c. industry,UZB,0.006582797966909643,EU27,2016
+2522,CIV,Growing grapes industry,UZB,0.0,EU27,2016
+2523,CIV,Growing fruits and nuts industry,UZB,0.07533203864444539,EU27,2016
+2524,CIV,"Growing beverage crops (coffee, tea etc) industry",UZB,0.0007834525627165563,EU27,2016
+2525,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,3.4242035544957347e-06,EU27,2016
+2526,CIV,Seeds and plant propagation industry,UZB,0.0,EU27,2016
+2527,CIV,Raising of cattle industry,UZB,0.021693076624606022,EU27,2016
+2528,CIV,Growing wheat industry,VEN,0.0,EU27,2016
+2529,CIV,Growing maize industry,VEN,0.05146784124566763,EU27,2016
+2530,CIV,Growing cereals n.e.c industry,VEN,0.00027447626385403997,EU27,2016
+2531,CIV,Growing leguminous crops and oil seeds industry,VEN,0.004678042564540354,EU27,2016
+2532,CIV,Growing rice industry,VEN,4.8738144680801516e-06,EU27,2016
+2533,CIV,"Growing vegetables, roots, tubers industry",VEN,0.003204662425943951,EU27,2016
+2534,CIV,Growing sugar beet and cane industry,VEN,0.00019170824878097874,EU27,2016
+2535,CIV,Growing tobacco industry,VEN,1.2237632215515871e-07,EU27,2016
+2536,CIV,Growing fibre crops industry,VEN,0.0021204535916928818,EU27,2016
+2537,CIV,Growing crops n.e.c. industry,VEN,0.03684138952198487,EU27,2016
+2538,CIV,Growing grapes industry,VEN,0.0,EU27,2016
+2539,CIV,Growing fruits and nuts industry,VEN,0.13204601389027187,EU27,2016
+2540,CIV,"Growing beverage crops (coffee, tea etc) industry",VEN,0.03969482797307507,EU27,2016
+2541,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,1.284598841825477e-05,EU27,2016
+2542,CIV,Seeds and plant propagation industry,VEN,0.0,EU27,2016
+2543,CIV,Raising of cattle industry,VEN,0.03381750450683152,EU27,2016
+2544,CIV,Growing wheat industry,VNM,0.0,EU27,2016
+2545,CIV,Growing maize industry,VNM,0.04570204061500883,EU27,2016
+2546,CIV,Growing cereals n.e.c industry,VNM,0.00033096495479328474,EU27,2016
+2547,CIV,Growing leguminous crops and oil seeds industry,VNM,0.002941342158156473,EU27,2016
+2548,CIV,Growing rice industry,VNM,7.300469762959116e-06,EU27,2016
+2549,CIV,"Growing vegetables, roots, tubers industry",VNM,0.004379253421665698,EU27,2016
+2550,CIV,Growing sugar beet and cane industry,VNM,0.0001707085207987857,EU27,2016
+2551,CIV,Growing tobacco industry,VNM,2.495747758263734e-07,EU27,2016
+2552,CIV,Growing fibre crops industry,VNM,0.0033386270876954267,EU27,2016
+2553,CIV,Growing crops n.e.c. industry,VNM,0.015902881325509866,EU27,2016
+2554,CIV,Growing grapes industry,VNM,0.0,EU27,2016
+2555,CIV,Growing fruits and nuts industry,VNM,0.22289674856733424,EU27,2016
+2556,CIV,"Growing beverage crops (coffee, tea etc) industry",VNM,0.01094721785026282,EU27,2016
+2557,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,1.5169449163517515e-05,EU27,2016
+2558,CIV,Seeds and plant propagation industry,VNM,0.0,EU27,2016
+2559,CIV,Raising of cattle industry,VNM,0.029910046259299446,EU27,2016
+2560,CIV,Growing wheat industry,YEM,0.0,EU27,2016
+2561,CIV,Growing maize industry,YEM,0.006420600799017923,EU27,2016
+2562,CIV,Growing cereals n.e.c industry,YEM,3.875908004505619e-05,EU27,2016
+2563,CIV,Growing leguminous crops and oil seeds industry,YEM,0.00033526882492146485,EU27,2016
+2564,CIV,Growing rice industry,YEM,8.126952854210533e-07,EU27,2016
+2565,CIV,"Growing vegetables, roots, tubers industry",YEM,0.0005226458590335273,EU27,2016
+2566,CIV,Growing sugar beet and cane industry,YEM,2.3924987360069023e-05,EU27,2016
+2567,CIV,Growing tobacco industry,YEM,9.315882953188042e-09,EU27,2016
+2568,CIV,Growing fibre crops industry,YEM,0.00011562438293223157,EU27,2016
+2569,CIV,Growing crops n.e.c. industry,YEM,0.0010814782993772887,EU27,2016
+2570,CIV,Growing grapes industry,YEM,0.0,EU27,2016
+2571,CIV,Growing fruits and nuts industry,YEM,0.02817767405456521,EU27,2016
+2572,CIV,"Growing beverage crops (coffee, tea etc) industry",YEM,0.00027444363169165615,EU27,2016
+2573,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,2.1395142252874405e-06,EU27,2016
+2574,CIV,Seeds and plant propagation industry,YEM,0.0,EU27,2016
+2575,CIV,Raising of cattle industry,YEM,0.0042041540654867956,EU27,2016
+2576,CIV,Growing wheat industry,ZAF,0.0,EU27,2016
+2577,CIV,Growing maize industry,ZAF,0.05163873966197634,EU27,2016
+2578,CIV,Growing cereals n.e.c industry,ZAF,0.0004377631790304508,EU27,2016
+2579,CIV,Growing leguminous crops and oil seeds industry,ZAF,0.012303601429557711,EU27,2016
+2580,CIV,Growing rice industry,ZAF,8.991785983719562e-06,EU27,2016
+2581,CIV,"Growing vegetables, roots, tubers industry",ZAF,0.00546233817037412,EU27,2016
+2582,CIV,Growing sugar beet and cane industry,ZAF,0.00019327417276248512,EU27,2016
+2583,CIV,Growing tobacco industry,ZAF,2.160469385931812e-07,EU27,2016
+2584,CIV,Growing fibre crops industry,ZAF,0.007025450848702807,EU27,2016
+2585,CIV,Growing crops n.e.c. industry,ZAF,0.027500541248877325,EU27,2016
+2586,CIV,Growing grapes industry,ZAF,0.0,EU27,2016
+2587,CIV,Growing fruits and nuts industry,ZAF,0.8451772326894227,EU27,2016
+2588,CIV,"Growing beverage crops (coffee, tea etc) industry",ZAF,0.015510268528671012,EU27,2016
+2589,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,2.9351394715493066e-05,EU27,2016
+2590,CIV,Seeds and plant propagation industry,ZAF,0.0,EU27,2016
+2591,CIV,Raising of cattle industry,ZAF,0.03381508579552635,EU27,2016
+2592,CIV,Growing wheat industry,ZMB,0.0,EU27,2016
+2593,CIV,Growing maize industry,ZMB,0.001797015809858885,EU27,2016
+2594,CIV,Growing cereals n.e.c industry,ZMB,1.0741265813177561e-05,EU27,2016
+2595,CIV,Growing leguminous crops and oil seeds industry,ZMB,0.00016415799355455583,EU27,2016
+2596,CIV,Growing rice industry,ZMB,2.2098886067024467e-07,EU27,2016
+2597,CIV,"Growing vegetables, roots, tubers industry",ZMB,0.00014562224889450896,EU27,2016
+2598,CIV,Growing sugar beet and cane industry,ZMB,6.712062324098406e-06,EU27,2016
+2599,CIV,Growing tobacco industry,ZMB,9.399901642499838e-09,EU27,2016
+2600,CIV,Growing fibre crops industry,ZMB,0.00011060385418856573,EU27,2016
+2601,CIV,Growing crops n.e.c. industry,ZMB,0.0005714706179607543,EU27,2016
+2602,CIV,Growing grapes industry,ZMB,0.0,EU27,2016
+2603,CIV,Growing fruits and nuts industry,ZMB,0.007746247600322714,EU27,2016
+2604,CIV,"Growing beverage crops (coffee, tea etc) industry",ZMB,0.000582938038072274,EU27,2016
+2605,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,1.0946219505885334e-06,EU27,2016
+2606,CIV,Seeds and plant propagation industry,ZMB,0.0,EU27,2016
+2607,CIV,Raising of cattle industry,ZMB,0.001180289609201128,EU27,2016
+2608,CIV,Growing wheat industry,ZWE,0.0,EU27,2016
+2609,CIV,Growing maize industry,ZWE,0.001474021311824576,EU27,2016
+2610,CIV,Growing cereals n.e.c industry,ZWE,1.0555650103096283e-05,EU27,2016
+2611,CIV,Growing leguminous crops and oil seeds industry,ZWE,0.00019529493234226206,EU27,2016
+2612,CIV,Growing rice industry,ZWE,2.220732397408018e-07,EU27,2016
+2613,CIV,"Growing vegetables, roots, tubers industry",ZWE,0.0001461714814612244,EU27,2016
+2614,CIV,Growing sugar beet and cane industry,ZWE,5.516168650748293e-06,EU27,2016
+2615,CIV,Growing tobacco industry,ZWE,8.190009414498763e-09,EU27,2016
+2616,CIV,Growing fibre crops industry,ZWE,0.00016519368864421433,EU27,2016
+2617,CIV,Growing crops n.e.c. industry,ZWE,0.0005538314384354255,EU27,2016
+2618,CIV,Growing grapes industry,ZWE,0.0,EU27,2016
+2619,CIV,Growing fruits and nuts industry,ZWE,0.012139883624857701,EU27,2016
+2620,CIV,"Growing beverage crops (coffee, tea etc) industry",ZWE,0.00016146113316076573,EU27,2016
+2621,CIV,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,8.171011385209894e-07,EU27,2016
+2622,CIV,Seeds and plant propagation industry,ZWE,0.0,EU27,2016
+2623,CIV,Raising of cattle industry,ZWE,0.0009669134314255362,EU27,2016

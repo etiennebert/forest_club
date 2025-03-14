@@ -1,0 +1,1660 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Field_1" selected="False" />
+            <SelectField field="Unnamed: 0" selected="False" />
+            <SelectField field="value" selected="True" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="318" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Country" action="GroupBy" rename="Country" />
+            <SummarizeField field="Sector" action="GroupBy" rename="Sector" />
+            <SummarizeField field="value" action="Avg" rename="Avg_value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Indexes\EXIOBASE_Indexes_03042023.xlsx|||`Zone_EU$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>EXIOBASE_Indexes_03042023.xlsx
+Query=`Zone_EU$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="EXIOBASE_Region_Name" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Indexes\EXIOBASE_Indexes_03042023.xlsx|||`Zone_EU$`" type="V_String" />
+            <Field name="Zone" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Indexes\EXIOBASE_Indexes_03042023.xlsx|||`Zone_EU$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="438" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Country" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="EXIOBASE_Region_Name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Country" selected="True" input="Left_" />
+                <SelectField field="Right_Zone" selected="True" input="Right_" />
+                <SelectField field="Left_Sector" selected="True" input="Left_" />
+                <SelectField field="Left_Avg_value" selected="True" input="Left_" />
+                <SelectField field="Right_EXIOBASE_Region_Name" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="558" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Destination_area" order="Ascending" />
+            <Field field="Origin_Sector" order="Ascending" />
+            <Field field="Transition_country" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Destination_area - Ascending
+Origin_Sector - Ascending
+Transition_country - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="546" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Zone" action="GroupBy" rename="Zone" />
+            <SummarizeField field="Sector" action="GroupBy" rename="Sector" />
+            <SummarizeField field="Avg_value" action="Sum" rename="Sum_Avg_value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="654" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Zone" order="Ascending" />
+            <Field field="Sector" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Zone - Ascending
+Sector - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="234" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Field_1" selected="False" />
+            <SelectField field="Unnamed: 0" selected="False" />
+            <SelectField field="value" selected="True" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="330" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Origin_country" action="GroupBy" rename="Origin_country" />
+            <SummarizeField field="Origin_Sector" action="GroupBy" rename="Origin_Sector" />
+            <SummarizeField field="Destination_area" action="GroupBy" rename="Destination_area" />
+            <SummarizeField field="Destination_country" action="GroupBy" rename="Destination_country" />
+            <SummarizeField field="Transition_country" action="GroupBy" rename="Transition_country" />
+            <SummarizeField field="value" action="Avg" rename="Avg_value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="438" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Destination_area" action="GroupBy" rename="Destination_area" />
+            <SummarizeField field="Origin_Sector" action="GroupBy" rename="Origin_Sector" />
+            <SummarizeField field="Transition_country" action="GroupBy" rename="Transition_country" />
+            <SummarizeField field="Avg_value" action="Sum" rename="Sum_Avg_value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="666" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Destination_area" />
+            <Field field="Origin_Sector" />
+          </GroupFields>
+          <HeaderField field="Transition_country" />
+          <DataField field="Sum_Avg_value" />
+          <Methods>
+            <Method method="Sum" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Destination_area" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="AU" source="CrossTab:Header:Transition_country:AU:Sum:" type="Double" />
+            <Field name="BR" source="CrossTab:Header:Transition_country:BR:Sum:" type="Double" />
+            <Field name="CA" source="CrossTab:Header:Transition_country:CA:Sum:" type="Double" />
+            <Field name="CH" source="CrossTab:Header:Transition_country:CH:Sum:" type="Double" />
+            <Field name="CN" source="CrossTab:Header:Transition_country:CN:Sum:" type="Double" />
+            <Field name="EU" source="CrossTab:Header:Transition_country:EU:Sum:" type="Double" />
+            <Field name="GB" source="CrossTab:Header:Transition_country:GB:Sum:" type="Double" />
+            <Field name="ID" source="CrossTab:Header:Transition_country:ID:Sum:" type="Double" />
+            <Field name="IN" source="CrossTab:Header:Transition_country:IN:Sum:" type="Double" />
+            <Field name="JP" source="CrossTab:Header:Transition_country:JP:Sum:" type="Double" />
+            <Field name="KR" source="CrossTab:Header:Transition_country:KR:Sum:" type="Double" />
+            <Field name="MX" source="CrossTab:Header:Transition_country:MX:Sum:" type="Double" />
+            <Field name="NO" source="CrossTab:Header:Transition_country:NO:Sum:" type="Double" />
+            <Field name="RU" source="CrossTab:Header:Transition_country:RU:Sum:" type="Double" />
+            <Field name="TR" source="CrossTab:Header:Transition_country:TR:Sum:" type="Double" />
+            <Field name="TW" source="CrossTab:Header:Transition_country:TW:Sum:" type="Double" />
+            <Field name="US" source="CrossTab:Header:Transition_country:US:Sum:" type="Double" />
+            <Field name="WA" source="CrossTab:Header:Transition_country:WA:Sum:" type="Double" />
+            <Field name="WE" source="CrossTab:Header:Transition_country:WE:Sum:" type="Double" />
+            <Field name="WF" source="CrossTab:Header:Transition_country:WF:Sum:" type="Double" />
+            <Field name="WL" source="CrossTab:Header:Transition_country:WL:Sum:" type="Double" />
+            <Field name="WM" source="CrossTab:Header:Transition_country:WM:Sum:" type="Double" />
+            <Field name="ZA" source="CrossTab:Header:Transition_country:ZA:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="822" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Destination_area" order="Ascending" />
+            <Field field="Origin_Sector" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Destination_area - Ascending
+Origin_Sector - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="570" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Transition_country" order="Ascending" />
+            <Field field="Origin_Sector" order="Ascending" />
+            <Field field="Destination_area" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Transition_country - Ascending
+Origin_Sector - Ascending
+Destination_area - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="666" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Origin_Sector" />
+            <Field field="Transition_country" />
+          </GroupFields>
+          <HeaderField field="Destination_area" />
+          <DataField field="Sum_Avg_value" />
+          <Methods>
+            <Method method="Sum" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Transition_country" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="AU" source="CrossTab:Header:Destination_area:AU:Sum:" type="Double" />
+            <Field name="BR" source="CrossTab:Header:Destination_area:BR:Sum:" type="Double" />
+            <Field name="CA" source="CrossTab:Header:Destination_area:CA:Sum:" type="Double" />
+            <Field name="CH" source="CrossTab:Header:Destination_area:CH:Sum:" type="Double" />
+            <Field name="CN" source="CrossTab:Header:Destination_area:CN:Sum:" type="Double" />
+            <Field name="EU" source="CrossTab:Header:Destination_area:EU:Sum:" type="Double" />
+            <Field name="GB" source="CrossTab:Header:Destination_area:GB:Sum:" type="Double" />
+            <Field name="ID" source="CrossTab:Header:Destination_area:ID:Sum:" type="Double" />
+            <Field name="IN" source="CrossTab:Header:Destination_area:IN:Sum:" type="Double" />
+            <Field name="JP" source="CrossTab:Header:Destination_area:JP:Sum:" type="Double" />
+            <Field name="KR" source="CrossTab:Header:Destination_area:KR:Sum:" type="Double" />
+            <Field name="MX" source="CrossTab:Header:Destination_area:MX:Sum:" type="Double" />
+            <Field name="NO" source="CrossTab:Header:Destination_area:NO:Sum:" type="Double" />
+            <Field name="RU" source="CrossTab:Header:Destination_area:RU:Sum:" type="Double" />
+            <Field name="TR" source="CrossTab:Header:Destination_area:TR:Sum:" type="Double" />
+            <Field name="TW" source="CrossTab:Header:Destination_area:TW:Sum:" type="Double" />
+            <Field name="US" source="CrossTab:Header:Destination_area:US:Sum:" type="Double" />
+            <Field name="WA" source="CrossTab:Header:Destination_area:WA:Sum:" type="Double" />
+            <Field name="WE" source="CrossTab:Header:Destination_area:WE:Sum:" type="Double" />
+            <Field name="WF" source="CrossTab:Header:Destination_area:WF:Sum:" type="Double" />
+            <Field name="WL" source="CrossTab:Header:Destination_area:WL:Sum:" type="Double" />
+            <Field name="WM" source="CrossTab:Header:Destination_area:WM:Sum:" type="Double" />
+            <Field name="ZA" source="CrossTab:Header:Destination_area:ZA:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="822" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Transition_country" order="Ascending" />
+            <Field field="Origin_Sector" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Transition_country - Ascending
+Origin_Sector - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="966" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>Add</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="AU" />
+            <Field name="BR" />
+            <Field name="CA" />
+            <Field name="CH" />
+            <Field name="CN" />
+            <Field name="EU" />
+            <Field name="GB" />
+            <Field name="ID" />
+            <Field name="IN" />
+            <Field name="JP" />
+            <Field name="KR" />
+            <Field name="MX" />
+            <Field name="NO" />
+            <Field name="RU" />
+            <Field name="TR" />
+            <Field name="TW" />
+            <Field name="US" />
+            <Field name="WA" />
+            <Field name="WE" />
+            <Field name="WF" />
+            <Field name="WL" />
+            <Field name="WM" />
+            <Field name="ZA" />
+            <Field name="*Unknown" />
+            <Field name="Destination_area" selected="False" />
+            <Field name="Origin_Sector" selected="False" />
+          </Fields>
+          <Expression />
+          <AddPrefixSuffix>
+            <Type>Prefix</Type>
+            <Text>Intermediate_arrival_from_</Text>
+          </AddPrefixSuffix>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Destination_area" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Intermediate_arrival_from_AU" source="CrossTab:Header:Transition_country:AU:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_BR" source="CrossTab:Header:Transition_country:BR:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_CA" source="CrossTab:Header:Transition_country:CA:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_CH" source="CrossTab:Header:Transition_country:CH:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_CN" source="CrossTab:Header:Transition_country:CN:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_EU" source="CrossTab:Header:Transition_country:EU:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_GB" source="CrossTab:Header:Transition_country:GB:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_ID" source="CrossTab:Header:Transition_country:ID:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_IN" source="CrossTab:Header:Transition_country:IN:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_JP" source="CrossTab:Header:Transition_country:JP:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_KR" source="CrossTab:Header:Transition_country:KR:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_MX" source="CrossTab:Header:Transition_country:MX:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_NO" source="CrossTab:Header:Transition_country:NO:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_RU" source="CrossTab:Header:Transition_country:RU:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_TR" source="CrossTab:Header:Transition_country:TR:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_TW" source="CrossTab:Header:Transition_country:TW:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_US" source="CrossTab:Header:Transition_country:US:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_WA" source="CrossTab:Header:Transition_country:WA:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_WE" source="CrossTab:Header:Transition_country:WE:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_WF" source="CrossTab:Header:Transition_country:WF:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_WL" source="CrossTab:Header:Transition_country:WL:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_WM" source="CrossTab:Header:Transition_country:WM:Sum:" type="Double" />
+            <Field name="Intermediate_arrival_from_ZA" source="CrossTab:Header:Transition_country:ZA:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="966" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>Add</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="AU" />
+            <Field name="BR" />
+            <Field name="CA" />
+            <Field name="CH" />
+            <Field name="CN" />
+            <Field name="EU" />
+            <Field name="GB" />
+            <Field name="ID" />
+            <Field name="IN" />
+            <Field name="JP" />
+            <Field name="KR" />
+            <Field name="MX" />
+            <Field name="NO" />
+            <Field name="RU" />
+            <Field name="TR" />
+            <Field name="TW" />
+            <Field name="US" />
+            <Field name="WA" />
+            <Field name="WE" />
+            <Field name="WF" />
+            <Field name="WL" />
+            <Field name="WM" />
+            <Field name="ZA" />
+            <Field name="*Unknown" />
+            <Field name="Origin_Sector" selected="False" />
+            <Field name="Transition_country" selected="False" />
+          </Fields>
+          <Expression />
+          <AddPrefixSuffix>
+            <Type>Prefix</Type>
+            <Text>Intermediate_departure_to_</Text>
+          </AddPrefixSuffix>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Transition_country" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Intermediate_departure_to_AU" source="CrossTab:Header:Destination_area:AU:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_BR" source="CrossTab:Header:Destination_area:BR:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_CA" source="CrossTab:Header:Destination_area:CA:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_CH" source="CrossTab:Header:Destination_area:CH:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_CN" source="CrossTab:Header:Destination_area:CN:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_EU" source="CrossTab:Header:Destination_area:EU:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_GB" source="CrossTab:Header:Destination_area:GB:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_ID" source="CrossTab:Header:Destination_area:ID:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_IN" source="CrossTab:Header:Destination_area:IN:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_JP" source="CrossTab:Header:Destination_area:JP:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_KR" source="CrossTab:Header:Destination_area:KR:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_MX" source="CrossTab:Header:Destination_area:MX:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_NO" source="CrossTab:Header:Destination_area:NO:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_RU" source="CrossTab:Header:Destination_area:RU:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_TR" source="CrossTab:Header:Destination_area:TR:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_TW" source="CrossTab:Header:Destination_area:TW:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_US" source="CrossTab:Header:Destination_area:US:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_WA" source="CrossTab:Header:Destination_area:WA:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_WE" source="CrossTab:Header:Destination_area:WE:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_WF" source="CrossTab:Header:Destination_area:WF:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_WL" source="CrossTab:Header:Destination_area:WL:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_WM" source="CrossTab:Header:Destination_area:WM:Sum:" type="Double" />
+            <Field name="Intermediate_departure_to_ZA" source="CrossTab:Header:Destination_area:ZA:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1062" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Transition_country" />
+            <Field field="Origin_Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Destination_area" />
+            <Field field="Origin_Sector" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Origin_Sector" selected="True" rename="Origin_sector" input="Left_" />
+                <SelectField field="Left_Transition_country" selected="True" rename="Final_Destination_Country" input="Left_" />
+                <SelectField field="Right_Destination_area" selected="False" input="Right_" />
+                <SelectField field="Right_Origin_Sector" selected="False" rename="Right_Origin_Sector" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_AU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_BR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CH" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_EU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_GB" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_ID" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_IN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_JP" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_KR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_MX" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_NO" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_RU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_TR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_TW" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_US" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WE" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WF" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WL" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WM" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_ZA" selected="True" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+                <SelectField field="Left_Intermediate_departure_to_AU" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_BR" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_CA" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_CH" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_CN" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_EU" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_GB" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_ID" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_IN" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_JP" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_KR" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_MX" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_NO" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_RU" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_TR" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_TW" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_US" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_WA" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_WE" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_WF" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_WL" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_WM" selected="True" input="Left_" />
+                <SelectField field="Left_Intermediate_departure_to_ZA" selected="True" input="Left_" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1182" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Zone" />
+            <Field field="Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Final_Destination_Country" />
+            <Field field="Origin_sector" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Zone" selected="False" input="Left_" />
+                <SelectField field="Left_Sector" selected="False" input="Left_" />
+                <SelectField field="Right_Origin_sector" selected="True" input="Right_" />
+                <SelectField field="Right_Final_Destination_Country" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_AU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_BR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_CA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_CH" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_CN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_EU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_GB" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_ID" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_IN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_JP" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_KR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_MX" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_NO" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_RU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_TR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_TW" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_US" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WE" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WF" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WL" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WM" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_ZA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_AU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_BR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CH" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_EU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_GB" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_ID" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_IN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_JP" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_KR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_MX" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_NO" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_RU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_TR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_TW" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_US" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WE" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WF" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WL" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WM" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_ZA" selected="True" input="Right_" />
+                <SelectField field="Left_Sum_Avg_value" selected="True" rename="Staying_locally" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1278" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Final_Destination_Country" order="Ascending" />
+            <Field field="Origin_sector" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Final_Destination_Country - Ascending
+Origin_sector - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="1410" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Origin_sector" />
+            <Field field="Final_Destination_Country" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Origin_sector" selected="False" />
+            <Field field="Final_Destination_Country" selected="False" />
+            <Field field="Intermediate_departure_to_AU" selected="True" />
+            <Field field="Intermediate_departure_to_BR" selected="True" />
+            <Field field="Intermediate_departure_to_CA" selected="True" />
+            <Field field="Intermediate_departure_to_CH" selected="True" />
+            <Field field="Intermediate_departure_to_CN" selected="True" />
+            <Field field="Intermediate_departure_to_EU" selected="True" />
+            <Field field="Intermediate_departure_to_GB" selected="True" />
+            <Field field="Intermediate_departure_to_ID" selected="True" />
+            <Field field="Intermediate_departure_to_IN" selected="True" />
+            <Field field="Intermediate_departure_to_JP" selected="True" />
+            <Field field="Intermediate_departure_to_KR" selected="True" />
+            <Field field="Intermediate_departure_to_MX" selected="True" />
+            <Field field="Intermediate_departure_to_NO" selected="True" />
+            <Field field="Intermediate_departure_to_RU" selected="True" />
+            <Field field="Intermediate_departure_to_TR" selected="True" />
+            <Field field="Intermediate_departure_to_TW" selected="True" />
+            <Field field="Intermediate_departure_to_US" selected="True" />
+            <Field field="Intermediate_departure_to_WA" selected="True" />
+            <Field field="Intermediate_departure_to_WE" selected="True" />
+            <Field field="Intermediate_departure_to_WF" selected="True" />
+            <Field field="Intermediate_departure_to_WL" selected="True" />
+            <Field field="Intermediate_departure_to_WM" selected="True" />
+            <Field field="Intermediate_departure_to_ZA" selected="True" />
+            <Field field="Intermediate_arrival_from_AU" selected="True" />
+            <Field field="Intermediate_arrival_from_BR" selected="True" />
+            <Field field="Intermediate_arrival_from_CA" selected="True" />
+            <Field field="Intermediate_arrival_from_CH" selected="True" />
+            <Field field="Intermediate_arrival_from_CN" selected="True" />
+            <Field field="Intermediate_arrival_from_EU" selected="True" />
+            <Field field="Intermediate_arrival_from_GB" selected="True" />
+            <Field field="Intermediate_arrival_from_ID" selected="True" />
+            <Field field="Intermediate_arrival_from_IN" selected="True" />
+            <Field field="Intermediate_arrival_from_JP" selected="True" />
+            <Field field="Intermediate_arrival_from_KR" selected="True" />
+            <Field field="Intermediate_arrival_from_MX" selected="True" />
+            <Field field="Intermediate_arrival_from_NO" selected="True" />
+            <Field field="Intermediate_arrival_from_RU" selected="True" />
+            <Field field="Intermediate_arrival_from_TR" selected="True" />
+            <Field field="Intermediate_arrival_from_TW" selected="True" />
+            <Field field="Intermediate_arrival_from_US" selected="True" />
+            <Field field="Intermediate_arrival_from_WA" selected="True" />
+            <Field field="Intermediate_arrival_from_WE" selected="True" />
+            <Field field="Intermediate_arrival_from_WF" selected="True" />
+            <Field field="Intermediate_arrival_from_WL" selected="True" />
+            <Field field="Intermediate_arrival_from_WM" selected="True" />
+            <Field field="Intermediate_arrival_from_ZA" selected="True" />
+            <Field field="Staying_locally" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1506" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>Contains</Operator>
+            <Field>Name</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-04-05 16:55:00</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>departure</Operand>
+              <StartDate>2023-04-05 16:55:00</StartDate>
+              <EndDate>2023-04-05 16:55:00</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Contains([Name],"departure")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="1614" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Final_Destination_Country" action="GroupBy" rename="Final_Destination_Country" />
+            <SummarizeField field="Origin_sector" action="GroupBy" rename="Origin_sector" />
+            <SummarizeField field="Value" action="Sum" rename="Intermediate departure" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="1734" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Final_Destination_Country" action="GroupBy" rename="Final_Destination_Country" />
+            <SummarizeField field="Origin_sector" action="GroupBy" rename="Origin_sector" />
+            <SummarizeField field="Value" action="Sum" rename="Intermediate arrival" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1722" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Zone" />
+            <Field field="Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Final_Destination_Country" />
+            <Field field="Origin_sector" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Final_Destination_Country" selected="False" input="Right_" />
+                <SelectField field="Right_Origin_sector" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1866" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Zone" />
+            <Field field="Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Final_Destination_Country" />
+            <Field field="Origin_sector" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1974" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Origin_sector" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="54">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="2178" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Intermediate departure]+[Sum_Avg_value]-[Intermediate arrival]" field="Balance" size="4" type="Float" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Balance = [Intermediate departure]+[Sum_Avg_value]-[Intermediate arrival]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="55">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1446" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Zone" />
+            <Field field="Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Final_Destination_Country" />
+            <Field field="Origin_sector" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Zone" selected="False" input="Left_" />
+                <SelectField field="Left_Sector" selected="False" input="Left_" />
+                <SelectField field="Left_Sum_Avg_value" selected="False" input="Left_" />
+                <SelectField field="Left_Intermediate departure" selected="False" input="Left_" />
+                <SelectField field="Left_Final_Destination_Country" selected="False" input="Left_" />
+                <SelectField field="Left_Intermediate arrival" selected="False" input="Left_" />
+                <SelectField field="Right_Origin_sector" selected="True" input="Right_" />
+                <SelectField field="Right_Final_Destination_Country" selected="True" rename="Right_Final_Destination_Country" input="Right_" />
+                <SelectField field="Left_Balance" selected="True" input="Left_" />
+                <SelectField field="Right_Intermediate_departure_to_AU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_BR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_CA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_CH" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_CN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_EU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_GB" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_ID" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_IN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_JP" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_KR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_MX" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_NO" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_RU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_TR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_TW" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_US" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WE" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WF" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WL" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_WM" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_departure_to_ZA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_AU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_BR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CH" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_CN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_EU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_GB" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_ID" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_IN" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_JP" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_KR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_MX" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_NO" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_RU" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_TR" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_TW" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_US" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WA" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WE" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WF" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WL" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_WM" selected="True" input="Right_" />
+                <SelectField field="Right_Intermediate_arrival_from_ZA" selected="True" input="Right_" />
+                <SelectField field="Right_Staying_locally" selected="True" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="56">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1662" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Right_Final_Destination_Country" order="Ascending" />
+            <Field field="Origin_sector" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Right_Final_Destination_Country - Ascending
+Origin_sector - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="2058" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Zone" order="Ascending" />
+            <Field field="Sector" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Zone - Ascending
+Sector - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="59">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1626" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>Contains</Operator>
+            <Field>Name</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-04-05 17:39:32</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2023-04-05 17:39:32</StartDate>
+              <EndDate>2023-04-05 17:39:32</EndDate>
+              <Operand>arrival</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Contains([Name],"arrival")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="60">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="Unnamed: 0" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="Country" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="Sector" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="Area" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="value" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="Year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+            <Field name="Origin" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\CBA\HILDA_V1\EU\CBA_EU_HILDA_V1_BR_Agg_2012-2019.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="61">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Unnamed: 0" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Origin_country" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Origin_Sector" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Destination_country" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Destination_area" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="value" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Transition_country" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+            <Field name="Year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\TBA\HILDA V1\EU\Agg_TBA_EU_HILDA_V1_BR_2012-2019.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="63">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1794" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Balance]&lt;0 THEN 0 ELSE [Balance] ENDIF" field="BR direct arrival" size="4" type="Float" />
+            <FormulaField expression="IF [Balance]&gt;0 THEN 0 ELSE ABS([Balance]) ENDIF" field="Supply Chain looping" size="4" type="Float" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>BR direct arrival = IF [Balance]&lt;0 THEN 0 ELSE [Balance] ENDIF
+Supply Chain loop...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="64">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1950" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Right_Final_Destination_Country" selected="True" rename="Final_destination_country" />
+            <SelectField field="Origin_sector" selected="True" />
+            <SelectField field="Balance" selected="False" />
+            <SelectField field="BR direct arrival" selected="True" />
+            <SelectField field="Intermediate_arrival_from_AU" selected="True" />
+            <SelectField field="Intermediate_arrival_from_BR" selected="True" />
+            <SelectField field="Intermediate_arrival_from_CA" selected="True" />
+            <SelectField field="Intermediate_arrival_from_CH" selected="True" />
+            <SelectField field="Intermediate_arrival_from_CN" selected="True" />
+            <SelectField field="Intermediate_arrival_from_EU" selected="True" />
+            <SelectField field="Intermediate_arrival_from_GB" selected="True" />
+            <SelectField field="Intermediate_arrival_from_ID" selected="True" />
+            <SelectField field="Intermediate_arrival_from_IN" selected="True" />
+            <SelectField field="Intermediate_arrival_from_JP" selected="True" />
+            <SelectField field="Intermediate_arrival_from_KR" selected="True" />
+            <SelectField field="Intermediate_arrival_from_MX" selected="True" />
+            <SelectField field="Intermediate_arrival_from_NO" selected="True" />
+            <SelectField field="Intermediate_arrival_from_RU" selected="True" />
+            <SelectField field="Intermediate_arrival_from_TR" selected="True" />
+            <SelectField field="Intermediate_arrival_from_TW" selected="True" />
+            <SelectField field="Intermediate_arrival_from_US" selected="True" />
+            <SelectField field="Intermediate_arrival_from_WA" selected="True" />
+            <SelectField field="Intermediate_arrival_from_WE" selected="True" />
+            <SelectField field="Intermediate_arrival_from_WF" selected="True" />
+            <SelectField field="Intermediate_arrival_from_WL" selected="True" />
+            <SelectField field="Intermediate_arrival_from_WM" selected="True" />
+            <SelectField field="Intermediate_arrival_from_ZA" selected="True" />
+            <SelectField field="Supply Chain looping" selected="True" />
+            <SelectField field="Intermediate_departure_to_AU" selected="True" />
+            <SelectField field="Intermediate_departure_to_BR" selected="True" />
+            <SelectField field="Intermediate_departure_to_CA" selected="True" />
+            <SelectField field="Intermediate_departure_to_CH" selected="True" />
+            <SelectField field="Intermediate_departure_to_CN" selected="True" />
+            <SelectField field="Intermediate_departure_to_EU" selected="True" />
+            <SelectField field="Intermediate_departure_to_GB" selected="True" />
+            <SelectField field="Intermediate_departure_to_ID" selected="True" />
+            <SelectField field="Intermediate_departure_to_IN" selected="True" />
+            <SelectField field="Intermediate_departure_to_JP" selected="True" />
+            <SelectField field="Intermediate_departure_to_KR" selected="True" />
+            <SelectField field="Intermediate_departure_to_MX" selected="True" />
+            <SelectField field="Intermediate_departure_to_NO" selected="True" />
+            <SelectField field="Intermediate_departure_to_RU" selected="True" />
+            <SelectField field="Intermediate_departure_to_TR" selected="True" />
+            <SelectField field="Intermediate_departure_to_TW" selected="True" />
+            <SelectField field="Intermediate_departure_to_US" selected="True" />
+            <SelectField field="Intermediate_departure_to_WA" selected="True" />
+            <SelectField field="Intermediate_departure_to_WE" selected="True" />
+            <SelectField field="Intermediate_departure_to_WF" selected="True" />
+            <SelectField field="Intermediate_departure_to_WL" selected="True" />
+            <SelectField field="Intermediate_departure_to_WM" selected="True" />
+            <SelectField field="Intermediate_departure_to_ZA" selected="True" />
+            <SelectField field="Staying_locally" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="65">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="2046" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Final_destination_country" action="GroupBy" rename="Final_destination_country" />
+            <SummarizeField field="BR direct arrival" action="Sum" rename="Sum_BR direct arrival" />
+            <SummarizeField field="Intermediate_arrival_from_AU" action="Sum" rename="Sum_Intermediate_arrival_from_AU" />
+            <SummarizeField field="Intermediate_arrival_from_BR" action="Sum" rename="Sum_Intermediate_arrival_from_BR" />
+            <SummarizeField field="Intermediate_arrival_from_CA" action="Sum" rename="Sum_Intermediate_arrival_from_CA" />
+            <SummarizeField field="Intermediate_arrival_from_CH" action="Sum" rename="Sum_Intermediate_arrival_from_CH" />
+            <SummarizeField field="Intermediate_arrival_from_CN" action="Sum" rename="Sum_Intermediate_arrival_from_CN" />
+            <SummarizeField field="Intermediate_arrival_from_EU" action="Sum" rename="Sum_Intermediate_arrival_from_EU" />
+            <SummarizeField field="Intermediate_arrival_from_GB" action="Sum" rename="Sum_Intermediate_arrival_from_GB" />
+            <SummarizeField field="Intermediate_arrival_from_ID" action="Sum" rename="Sum_Intermediate_arrival_from_ID" />
+            <SummarizeField field="Intermediate_arrival_from_IN" action="Sum" rename="Sum_Intermediate_arrival_from_IN" />
+            <SummarizeField field="Intermediate_arrival_from_JP" action="Sum" rename="Sum_Intermediate_arrival_from_JP" />
+            <SummarizeField field="Intermediate_arrival_from_KR" action="Sum" rename="Sum_Intermediate_arrival_from_KR" />
+            <SummarizeField field="Intermediate_arrival_from_MX" action="Sum" rename="Sum_Intermediate_arrival_from_MX" />
+            <SummarizeField field="Intermediate_arrival_from_NO" action="Sum" rename="Sum_Intermediate_arrival_from_NO" />
+            <SummarizeField field="Intermediate_arrival_from_RU" action="Sum" rename="Sum_Intermediate_arrival_from_RU" />
+            <SummarizeField field="Intermediate_arrival_from_TR" action="Sum" rename="Sum_Intermediate_arrival_from_TR" />
+            <SummarizeField field="Intermediate_arrival_from_TW" action="Sum" rename="Sum_Intermediate_arrival_from_TW" />
+            <SummarizeField field="Intermediate_arrival_from_US" action="Sum" rename="Sum_Intermediate_arrival_from_US" />
+            <SummarizeField field="Intermediate_arrival_from_WA" action="Sum" rename="Sum_Intermediate_arrival_from_WA" />
+            <SummarizeField field="Intermediate_arrival_from_WE" action="Sum" rename="Sum_Intermediate_arrival_from_WE" />
+            <SummarizeField field="Intermediate_arrival_from_WF" action="Sum" rename="Sum_Intermediate_arrival_from_WF" />
+            <SummarizeField field="Intermediate_arrival_from_WL" action="Sum" rename="Sum_Intermediate_arrival_from_WL" />
+            <SummarizeField field="Intermediate_arrival_from_WM" action="Sum" rename="Sum_Intermediate_arrival_from_WM" />
+            <SummarizeField field="Intermediate_arrival_from_ZA" action="Sum" rename="Sum_Intermediate_arrival_from_ZA" />
+            <SummarizeField field="Supply Chain looping" action="Sum" rename="Sum_Supply Chain looping" />
+            <SummarizeField field="Intermediate_departure_to_AU" action="Sum" rename="Sum_Intermediate_departure_to_AU" />
+            <SummarizeField field="Intermediate_departure_to_BR" action="Sum" rename="Sum_Intermediate_departure_to_BR" />
+            <SummarizeField field="Intermediate_departure_to_CA" action="Sum" rename="Sum_Intermediate_departure_to_CA" />
+            <SummarizeField field="Intermediate_departure_to_CH" action="Sum" rename="Sum_Intermediate_departure_to_CH" />
+            <SummarizeField field="Intermediate_departure_to_CN" action="Sum" rename="Sum_Intermediate_departure_to_CN" />
+            <SummarizeField field="Intermediate_departure_to_EU" action="Sum" rename="Sum_Intermediate_departure_to_EU" />
+            <SummarizeField field="Intermediate_departure_to_GB" action="Sum" rename="Sum_Intermediate_departure_to_GB" />
+            <SummarizeField field="Intermediate_departure_to_ID" action="Sum" rename="Sum_Intermediate_departure_to_ID" />
+            <SummarizeField field="Intermediate_departure_to_IN" action="Sum" rename="Sum_Intermediate_departure_to_IN" />
+            <SummarizeField field="Intermediate_departure_to_JP" action="Sum" rename="Sum_Intermediate_departure_to_JP" />
+            <SummarizeField field="Intermediate_departure_to_KR" action="Sum" rename="Sum_Intermediate_departure_to_KR" />
+            <SummarizeField field="Intermediate_departure_to_MX" action="Sum" rename="Sum_Intermediate_departure_to_MX" />
+            <SummarizeField field="Intermediate_departure_to_NO" action="Sum" rename="Sum_Intermediate_departure_to_NO" />
+            <SummarizeField field="Intermediate_departure_to_RU" action="Sum" rename="Sum_Intermediate_departure_to_RU" />
+            <SummarizeField field="Intermediate_departure_to_TR" action="Sum" rename="Sum_Intermediate_departure_to_TR" />
+            <SummarizeField field="Intermediate_departure_to_TW" action="Sum" rename="Sum_Intermediate_departure_to_TW" />
+            <SummarizeField field="Intermediate_departure_to_US" action="Sum" rename="Sum_Intermediate_departure_to_US" />
+            <SummarizeField field="Intermediate_departure_to_WA" action="Sum" rename="Sum_Intermediate_departure_to_WA" />
+            <SummarizeField field="Intermediate_departure_to_WE" action="Sum" rename="Sum_Intermediate_departure_to_WE" />
+            <SummarizeField field="Intermediate_departure_to_WF" action="Sum" rename="Sum_Intermediate_departure_to_WF" />
+            <SummarizeField field="Intermediate_departure_to_WL" action="Sum" rename="Sum_Intermediate_departure_to_WL" />
+            <SummarizeField field="Intermediate_departure_to_WM" action="Sum" rename="Sum_Intermediate_departure_to_WM" />
+            <SummarizeField field="Intermediate_departure_to_ZA" action="Sum" rename="Sum_Intermediate_departure_to_ZA" />
+            <SummarizeField field="Staying_locally" action="Sum" rename="Sum_Staying_locally" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="66">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2274" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V1_Sankey_Prepared_02052023.xlsx|||Sheet1</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>HILDA_V1_Sankey_Prepared_02052023.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="67">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="2154" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Final_destination_country" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Final_destination_country - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="26" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="26" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Join" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="44" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Join" />
+      <Destination ToolID="44" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="51" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="51" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="41" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="42" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="43" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="43" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Join" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="55" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="55" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="True" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="False" />
+      <Destination ToolID="59" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="Output" />
+      <Destination ToolID="52" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Join" />
+      <Destination ToolID="52" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Join" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Output" />
+      <Destination ToolID="58" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="55" Connection="Join" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="63" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="True" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="Output" />
+      <Destination ToolID="65" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="65" Connection="Output" />
+      <Destination ToolID="67" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="67" Connection="Output" />
+      <Destination ToolID="66" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>HILDA_Aggregation_CBA-and-TBA_detailed_per_commodity - Copy</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d214a262-f645-4556-952f-7846443653c0" />
+      <Telemetry>
+        <PreviousWorkflowId value="0375e550-4572-43e7-87c8-9b6679866756" />
+        <OriginWorkflowId value="0375e550-4572-43e7-87c8-9b6679866756" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,COD,Growing wheat industry,XAM,0.00012631790771225028,EU27,2015
+1,COD,Growing maize industry,XAM,0.012413736178770878,EU27,2015
+2,COD,Growing cereals n.e.c industry,XAM,3.3070489898387693e-06,EU27,2015
+3,COD,Growing leguminous crops and oil seeds industry,XAM,0.00019677361941719776,EU27,2015
+4,COD,Growing rice industry,XAM,0.00013350734685145998,EU27,2015
+5,COD,"Growing vegetables, roots, tubers industry",XAM,0.001494551885040751,EU27,2015
+6,COD,Growing sugar beet and cane industry,XAM,0.00010087735152982572,EU27,2015
+7,COD,Growing tobacco industry,XAM,1.5867053003442295e-05,EU27,2015
+8,COD,Growing fibre crops industry,XAM,0.007719485935446645,EU27,2015
+9,COD,Growing crops n.e.c. industry,XAM,5.1350294469128844e-05,EU27,2015
+10,COD,Growing grapes industry,XAM,0.0,EU27,2015
+11,COD,Growing fruits and nuts industry,XAM,0.00928596811692448,EU27,2015
+12,COD,"Growing beverage crops (coffee, tea etc) industry",XAM,0.00011279544541773832,EU27,2015
+13,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,9.463432824905852e-08,EU27,2015
+14,COD,Seeds and plant propagation industry,XAM,0.0,EU27,2015
+15,COD,Raising of cattle industry,XAM,0.0015975084049227736,EU27,2015
+16,COD,Growing wheat industry,XEU,6.042255364800291e-05,EU27,2015
+17,COD,Growing maize industry,XEU,0.002912099621707233,EU27,2015
+18,COD,Growing cereals n.e.c industry,XEU,1.1610294428066277e-05,EU27,2015
+19,COD,Growing leguminous crops and oil seeds industry,XEU,9.219310446404335e-05,EU27,2015
+20,COD,Growing rice industry,XEU,7.301546190396464e-05,EU27,2015
+21,COD,"Growing vegetables, roots, tubers industry",XEU,0.0005220166310016475,EU27,2015
+22,COD,Growing sugar beet and cane industry,XEU,5.568708408154773e-05,EU27,2015
+23,COD,Growing tobacco industry,XEU,5.6761034055070866e-06,EU27,2015
+24,COD,Growing fibre crops industry,XEU,0.001231956144822885,EU27,2015
+25,COD,Growing crops n.e.c. industry,XEU,1.4525339024785178e-05,EU27,2015
+26,COD,Growing grapes industry,XEU,0.0,EU27,2015
+27,COD,Growing fruits and nuts industry,XEU,0.004599114138894486,EU27,2015
+28,COD,"Growing beverage crops (coffee, tea etc) industry",XEU,6.415380521026552e-05,EU27,2015
+29,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,5.189591868480601e-08,EU27,2015
+30,COD,Seeds and plant propagation industry,XEU,0.0,EU27,2015
+31,COD,Raising of cattle industry,XEU,0.0007977949402565663,EU27,2015
+32,COD,Growing wheat industry,XAF,8.222181019819765e-05,EU27,2015
+33,COD,Growing maize industry,XAF,0.004132821160767883,EU27,2015
+34,COD,Growing cereals n.e.c industry,XAF,9.592971627733791e-07,EU27,2015
+35,COD,Growing leguminous crops and oil seeds industry,XAF,9.024201014945397e-05,EU27,2015
+36,COD,Growing rice industry,XAF,7.310347063774463e-05,EU27,2015
+37,COD,"Growing vegetables, roots, tubers industry",XAF,0.0004969960399168817,EU27,2015
+38,COD,Growing sugar beet and cane industry,XAF,9.371583011890267e-05,EU27,2015
+39,COD,Growing tobacco industry,XAF,6.928942813651631e-06,EU27,2015
+40,COD,Growing fibre crops industry,XAF,0.09407814941469521,EU27,2015
+41,COD,Growing crops n.e.c. industry,XAF,1.5764532818597308e-05,EU27,2015
+42,COD,Growing grapes industry,XAF,0.0,EU27,2015
+43,COD,Growing fruits and nuts industry,XAF,0.002298243851317583,EU27,2015
+44,COD,"Growing beverage crops (coffee, tea etc) industry",XAF,3.330620119444726e-05,EU27,2015
+45,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,5.4238807843032525e-08,EU27,2015
+46,COD,Seeds and plant propagation industry,XAF,0.0,EU27,2015
+47,COD,Raising of cattle industry,XAF,0.0006851497390696862,EU27,2015
+48,COD,Growing wheat industry,XAS,4.269227019650927e-05,EU27,2015
+49,COD,Growing maize industry,XAS,0.004912775711281115,EU27,2015
+50,COD,Growing cereals n.e.c industry,XAS,1.2134501760329894e-06,EU27,2015
+51,COD,Growing leguminous crops and oil seeds industry,XAS,7.127387044785681e-05,EU27,2015
+52,COD,Growing rice industry,XAS,4.66243707036482e-05,EU27,2015
+53,COD,"Growing vegetables, roots, tubers industry",XAS,0.00032953287480727935,EU27,2015
+54,COD,Growing sugar beet and cane industry,XAS,4.33442169218639e-05,EU27,2015
+55,COD,Growing tobacco industry,XAS,4.5215936787685725e-06,EU27,2015
+56,COD,Growing fibre crops industry,XAS,0.004753461582866713,EU27,2015
+57,COD,Growing crops n.e.c. industry,XAS,1.8248702776958565e-05,EU27,2015
+58,COD,Growing grapes industry,XAS,0.0,EU27,2015
+59,COD,Growing fruits and nuts industry,XAS,0.0019961735557140286,EU27,2015
+60,COD,"Growing beverage crops (coffee, tea etc) industry",XAS,2.502398344330598e-05,EU27,2015
+61,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,3.250737151494688e-08,EU27,2015
+62,COD,Seeds and plant propagation industry,XAS,0.0,EU27,2015
+63,COD,Raising of cattle industry,XAS,0.000595312315339288,EU27,2015
+64,COD,Growing wheat industry,AFG,3.172618314817652e-05,EU27,2015
+65,COD,Growing maize industry,AFG,0.0007091045462450994,EU27,2015
+66,COD,Growing cereals n.e.c industry,AFG,2.6915212169615914e-07,EU27,2015
+67,COD,Growing leguminous crops and oil seeds industry,AFG,4.497798651209368e-05,EU27,2015
+68,COD,Growing rice industry,AFG,1.098355509114313e-05,EU27,2015
+69,COD,"Growing vegetables, roots, tubers industry",AFG,8.1474131464238e-05,EU27,2015
+70,COD,Growing sugar beet and cane industry,AFG,6.69535753964887e-06,EU27,2015
+71,COD,Growing tobacco industry,AFG,1.1674384686378082e-06,EU27,2015
+72,COD,Growing fibre crops industry,AFG,0.00014772400238229516,EU27,2015
+73,COD,Growing crops n.e.c. industry,AFG,2.9635334873851502e-06,EU27,2015
+74,COD,Growing grapes industry,AFG,0.0,EU27,2015
+75,COD,Growing fruits and nuts industry,AFG,0.0004412235244956589,EU27,2015
+76,COD,"Growing beverage crops (coffee, tea etc) industry",AFG,6.377592866098463e-06,EU27,2015
+77,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,7.521147561980563e-09,EU27,2015
+78,COD,Seeds and plant propagation industry,AFG,0.0,EU27,2015
+79,COD,Raising of cattle industry,AFG,0.00011559815349820692,EU27,2015
+80,COD,Growing wheat industry,AGO,0.00021739643568517123,EU27,2015
+81,COD,Growing maize industry,AGO,0.03155564881025976,EU27,2015
+82,COD,Growing cereals n.e.c industry,AGO,5.3617917594496e-06,EU27,2015
+83,COD,Growing leguminous crops and oil seeds industry,AGO,0.00023473864763614335,EU27,2015
+84,COD,Growing rice industry,AGO,0.0002279128719519707,EU27,2015
+85,COD,"Growing vegetables, roots, tubers industry",AGO,0.0013858947272376283,EU27,2015
+86,COD,Growing sugar beet and cane industry,AGO,0.0005799224482698128,EU27,2015
+87,COD,Growing tobacco industry,AGO,1.0861549618650096e-05,EU27,2015
+88,COD,Growing fibre crops industry,AGO,0.5676624320725145,EU27,2015
+89,COD,Growing crops n.e.c. industry,AGO,8.212768655279246e-05,EU27,2015
+90,COD,Growing grapes industry,AGO,0.0,EU27,2015
+91,COD,Growing fruits and nuts industry,AGO,0.008491711811629273,EU27,2015
+92,COD,"Growing beverage crops (coffee, tea etc) industry",AGO,0.0001239482384059661,EU27,2015
+93,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,9.496039337979922e-08,EU27,2015
+94,COD,Seeds and plant propagation industry,AGO,0.0,EU27,2015
+95,COD,Raising of cattle industry,AGO,0.0026914849190268165,EU27,2015
+96,COD,Growing wheat industry,ALB,3.1720373911834906e-05,EU27,2015
+97,COD,Growing maize industry,ALB,0.002836858350384804,EU27,2015
+98,COD,Growing cereals n.e.c industry,ALB,2.2096555202803724e-06,EU27,2015
+99,COD,Growing leguminous crops and oil seeds industry,ALB,4.54710265234734e-05,EU27,2015
+100,COD,Growing rice industry,ALB,5.0878166116407735e-05,EU27,2015
+101,COD,"Growing vegetables, roots, tubers industry",ALB,0.0003742466302142987,EU27,2015
+102,COD,Growing sugar beet and cane industry,ALB,3.594961350161885e-05,EU27,2015
+103,COD,Growing tobacco industry,ALB,2.2890234599821077e-06,EU27,2015
+104,COD,Growing fibre crops industry,ALB,0.0006088618846031122,EU27,2015
+105,COD,Growing crops n.e.c. industry,ALB,1.638872323645489e-05,EU27,2015
+106,COD,Growing grapes industry,ALB,0.0,EU27,2015
+107,COD,Growing fruits and nuts industry,ALB,0.002587349602854551,EU27,2015
+108,COD,"Growing beverage crops (coffee, tea etc) industry",ALB,3.4316251212368326e-05,EU27,2015
+109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,3.0937446516989105e-08,EU27,2015
+110,COD,Seeds and plant propagation industry,ALB,0.0,EU27,2015
+111,COD,Raising of cattle industry,ALB,0.0008921136621017423,EU27,2015
+112,COD,Growing wheat industry,ARE,0.0005336557568865146,EU27,2015
+113,COD,Growing maize industry,ARE,0.058170507016075707,EU27,2015
+114,COD,Growing cereals n.e.c industry,ARE,1.8826873388831803e-05,EU27,2015
+115,COD,Growing leguminous crops and oil seeds industry,ARE,0.0008805582855667218,EU27,2015
+116,COD,Growing rice industry,ARE,0.00041056529445298955,EU27,2015
+117,COD,"Growing vegetables, roots, tubers industry",ARE,0.004823267142376914,EU27,2015
+118,COD,Growing sugar beet and cane industry,ARE,0.0003835221817936204,EU27,2015
+119,COD,Growing tobacco industry,ARE,5.000006461131152e-05,EU27,2015
+120,COD,Growing fibre crops industry,ARE,0.017765281971566564,EU27,2015
+121,COD,Growing crops n.e.c. industry,ARE,0.00016746041098786535,EU27,2015
+122,COD,Growing grapes industry,ARE,0.0,EU27,2015
+123,COD,Growing fruits and nuts industry,ARE,0.02652022931558503,EU27,2015
+124,COD,"Growing beverage crops (coffee, tea etc) industry",ARE,0.00036141222239200426,EU27,2015
+125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,4.2913030965226565e-07,EU27,2015
+126,COD,Seeds and plant propagation industry,ARE,0.0,EU27,2015
+127,COD,Raising of cattle industry,ARE,0.004944774181924133,EU27,2015
+128,COD,Growing wheat industry,ARG,0.00022288812723386176,EU27,2015
+129,COD,Growing maize industry,ARG,0.014153875801586589,EU27,2015
+130,COD,Growing cereals n.e.c industry,ARG,6.572827694510079e-06,EU27,2015
+131,COD,Growing leguminous crops and oil seeds industry,ARG,0.0003538232201492437,EU27,2015
+132,COD,Growing rice industry,ARG,0.0002108614892697334,EU27,2015
+133,COD,"Growing vegetables, roots, tubers industry",ARG,0.0018803763163330234,EU27,2015
+134,COD,Growing sugar beet and cane industry,ARG,0.0003506838394828522,EU27,2015
+135,COD,Growing tobacco industry,ARG,2.4796016711131286e-05,EU27,2015
+136,COD,Growing fibre crops industry,ARG,0.01708487530254304,EU27,2015
+137,COD,Growing crops n.e.c. industry,ARG,7.154020267807742e-05,EU27,2015
+138,COD,Growing grapes industry,ARG,0.0,EU27,2015
+139,COD,Growing fruits and nuts industry,ARG,0.010721327622135797,EU27,2015
+140,COD,"Growing beverage crops (coffee, tea etc) industry",ARG,0.00015779167810694785,EU27,2015
+141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,1.810011357338172e-07,EU27,2015
+142,COD,Seeds and plant propagation industry,ARG,0.0,EU27,2015
+143,COD,Raising of cattle industry,ARG,0.0026572492858685055,EU27,2015
+144,COD,Growing wheat industry,ARM,1.932676117891486e-05,EU27,2015
+145,COD,Growing maize industry,ARM,0.0012640576718165278,EU27,2015
+146,COD,Growing cereals n.e.c industry,ARM,1.0108341112097013e-06,EU27,2015
+147,COD,Growing leguminous crops and oil seeds industry,ARM,3.0476041649739414e-05,EU27,2015
+148,COD,Growing rice industry,ARM,1.7609617056648586e-05,EU27,2015
+149,COD,"Growing vegetables, roots, tubers industry",ARM,0.00014042391204934125,EU27,2015
+150,COD,Growing sugar beet and cane industry,ARM,1.3101955685601728e-05,EU27,2015
+151,COD,Growing tobacco industry,ARM,5.680991642534643e-06,EU27,2015
+152,COD,Growing fibre crops industry,ARM,0.0003998670787071813,EU27,2015
+153,COD,Growing crops n.e.c. industry,ARM,5.872825829946493e-06,EU27,2015
+154,COD,Growing grapes industry,ARM,0.0,EU27,2015
+155,COD,Growing fruits and nuts industry,ARM,0.0010471779378169502,EU27,2015
+156,COD,"Growing beverage crops (coffee, tea etc) industry",ARM,1.5060900606380804e-05,EU27,2015
+157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,3.134017422952788e-08,EU27,2015
+158,COD,Seeds and plant propagation industry,ARM,0.0,EU27,2015
+159,COD,Raising of cattle industry,ARM,0.00023340226581994447,EU27,2015
+160,COD,Growing wheat industry,AUS,0.0006176893354171711,EU27,2015
+161,COD,Growing maize industry,AUS,0.07168973371383416,EU27,2015
+162,COD,Growing cereals n.e.c industry,AUS,2.7302290268188775e-05,EU27,2015
+163,COD,Growing leguminous crops and oil seeds industry,AUS,0.0010902946425456895,EU27,2015
+164,COD,Growing rice industry,AUS,0.000679290714535072,EU27,2015
+165,COD,"Growing vegetables, roots, tubers industry",AUS,0.005342197108863668,EU27,2015
+166,COD,Growing sugar beet and cane industry,AUS,0.0006829986027772752,EU27,2015
+167,COD,Growing tobacco industry,AUS,9.40498223682001e-05,EU27,2015
+168,COD,Growing fibre crops industry,AUS,0.02964273517133628,EU27,2015
+169,COD,Growing crops n.e.c. industry,AUS,0.0002628960223357771,EU27,2015
+170,COD,Growing grapes industry,AUS,0.0,EU27,2015
+171,COD,Growing fruits and nuts industry,AUS,0.03664844672170252,EU27,2015
+172,COD,"Growing beverage crops (coffee, tea etc) industry",AUS,0.0005516802858397069,EU27,2015
+173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,5.647176529975578e-07,EU27,2015
+174,COD,Seeds and plant propagation industry,AUS,0.0,EU27,2015
+175,COD,Raising of cattle industry,AUS,0.009246494282578073,EU27,2015
+176,COD,Growing wheat industry,AUT,0.0,EU27,2015
+177,COD,Growing maize industry,AUT,0.0,EU27,2015
+178,COD,Growing cereals n.e.c industry,AUT,0.0,EU27,2015
+179,COD,Growing leguminous crops and oil seeds industry,AUT,0.0,EU27,2015
+180,COD,Growing rice industry,AUT,0.0,EU27,2015
+181,COD,"Growing vegetables, roots, tubers industry",AUT,0.0,EU27,2015
+182,COD,Growing sugar beet and cane industry,AUT,0.0,EU27,2015
+183,COD,Growing tobacco industry,AUT,0.0,EU27,2015
+184,COD,Growing fibre crops industry,AUT,0.0,EU27,2015
+185,COD,Growing crops n.e.c. industry,AUT,0.0,EU27,2015
+186,COD,Growing grapes industry,AUT,0.0,EU27,2015
+187,COD,Growing fruits and nuts industry,AUT,0.0,EU27,2015
+188,COD,"Growing beverage crops (coffee, tea etc) industry",AUT,0.0,EU27,2015
+189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,0.0,EU27,2015
+190,COD,Seeds and plant propagation industry,AUT,0.0,EU27,2015
+191,COD,Raising of cattle industry,AUT,0.0,EU27,2015
+192,COD,Growing wheat industry,AZE,6.717937662612174e-05,EU27,2015
+193,COD,Growing maize industry,AZE,0.006008329737850448,EU27,2015
+194,COD,Growing cereals n.e.c industry,AZE,4.2152734349229975e-06,EU27,2015
+195,COD,Growing leguminous crops and oil seeds industry,AZE,0.00010720920897624679,EU27,2015
+196,COD,Growing rice industry,AZE,5.483647765884443e-05,EU27,2015
+197,COD,"Growing vegetables, roots, tubers industry",AZE,0.000525487193021169,EU27,2015
+198,COD,Growing sugar beet and cane industry,AZE,4.344010700117838e-05,EU27,2015
+199,COD,Growing tobacco industry,AZE,8.680867361819978e-06,EU27,2015
+200,COD,Growing fibre crops industry,AZE,0.003301034931526627,EU27,2015
+201,COD,Growing crops n.e.c. industry,AZE,1.9394181879384415e-05,EU27,2015
+202,COD,Growing grapes industry,AZE,0.0,EU27,2015
+203,COD,Growing fruits and nuts industry,AZE,0.004786963842949534,EU27,2015
+204,COD,"Growing beverage crops (coffee, tea etc) industry",AZE,9.094251030109183e-05,EU27,2015
+205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,5.236713003745053e-08,EU27,2015
+206,COD,Seeds and plant propagation industry,AZE,0.0,EU27,2015
+207,COD,Raising of cattle industry,AZE,0.0006953990119495425,EU27,2015
+208,COD,Growing wheat industry,BDI,3.2881363019957548e-06,EU27,2015
+209,COD,Growing maize industry,BDI,0.00018531621302239441,EU27,2015
+210,COD,Growing cereals n.e.c industry,BDI,5.974435319139517e-08,EU27,2015
+211,COD,Growing leguminous crops and oil seeds industry,BDI,4.900933569985317e-06,EU27,2015
+212,COD,Growing rice industry,BDI,1.9992413151093938e-06,EU27,2015
+213,COD,"Growing vegetables, roots, tubers industry",BDI,1.3529665628725702e-05,EU27,2015
+214,COD,Growing sugar beet and cane industry,BDI,1.5810131372236422e-06,EU27,2015
+215,COD,Growing tobacco industry,BDI,1.9793972000522278e-07,EU27,2015
+216,COD,Growing fibre crops industry,BDI,3.86207411836355e-05,EU27,2015
+217,COD,Growing crops n.e.c. industry,BDI,7.21841520891731e-07,EU27,2015
+218,COD,Growing grapes industry,BDI,0.0,EU27,2015
+219,COD,Growing fruits and nuts industry,BDI,9.333110528305513e-05,EU27,2015
+220,COD,"Growing beverage crops (coffee, tea etc) industry",BDI,1.2543038052940364e-06,EU27,2015
+221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,1.3752438457445911e-09,EU27,2015
+222,COD,Seeds and plant propagation industry,BDI,0.0,EU27,2015
+223,COD,Raising of cattle industry,BDI,2.7198889025999176e-05,EU27,2015
+224,COD,Growing wheat industry,BEL,0.0,EU27,2015
+225,COD,Growing maize industry,BEL,0.0,EU27,2015
+226,COD,Growing cereals n.e.c industry,BEL,0.0,EU27,2015
+227,COD,Growing leguminous crops and oil seeds industry,BEL,0.0,EU27,2015
+228,COD,Growing rice industry,BEL,0.0,EU27,2015
+229,COD,"Growing vegetables, roots, tubers industry",BEL,0.0,EU27,2015
+230,COD,Growing sugar beet and cane industry,BEL,0.0,EU27,2015
+231,COD,Growing tobacco industry,BEL,0.0,EU27,2015
+232,COD,Growing fibre crops industry,BEL,0.0,EU27,2015
+233,COD,Growing crops n.e.c. industry,BEL,0.0,EU27,2015
+234,COD,Growing grapes industry,BEL,0.0,EU27,2015
+235,COD,Growing fruits and nuts industry,BEL,0.0,EU27,2015
+236,COD,"Growing beverage crops (coffee, tea etc) industry",BEL,0.0,EU27,2015
+237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,0.0,EU27,2015
+238,COD,Seeds and plant propagation industry,BEL,0.0,EU27,2015
+239,COD,Raising of cattle industry,BEL,0.0,EU27,2015
+240,COD,Growing wheat industry,BEN,1.0955783585027169e-05,EU27,2015
+241,COD,Growing maize industry,BEN,0.0010470152948961096,EU27,2015
+242,COD,Growing cereals n.e.c industry,BEN,2.799530925636085e-07,EU27,2015
+243,COD,Growing leguminous crops and oil seeds industry,BEN,1.5742969219605926e-05,EU27,2015
+244,COD,Growing rice industry,BEN,1.0784036853600677e-05,EU27,2015
+245,COD,"Growing vegetables, roots, tubers industry",BEN,7.372158099876118e-05,EU27,2015
+246,COD,Growing sugar beet and cane industry,BEN,9.131570815056229e-06,EU27,2015
+247,COD,Growing tobacco industry,BEN,7.200970499509461e-07,EU27,2015
+248,COD,Growing fibre crops industry,BEN,0.00022387073485544032,EU27,2015
+249,COD,Growing crops n.e.c. industry,BEN,3.5308108136067825e-06,EU27,2015
+250,COD,Growing grapes industry,BEN,0.0,EU27,2015
+251,COD,Growing fruits and nuts industry,BEN,0.0004656226122263767,EU27,2015
+252,COD,"Growing beverage crops (coffee, tea etc) industry",BEN,8.213529342204077e-06,EU27,2015
+253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,6.135247617941926e-09,EU27,2015
+254,COD,Seeds and plant propagation industry,BEN,0.0,EU27,2015
+255,COD,Raising of cattle industry,BEN,0.00014107849396726696,EU27,2015
+256,COD,Growing wheat industry,BFA,1.8041451099494695e-05,EU27,2015
+257,COD,Growing maize industry,BFA,0.0009725424385950403,EU27,2015
+258,COD,Growing cereals n.e.c industry,BFA,2.829955460583531e-07,EU27,2015
+259,COD,Growing leguminous crops and oil seeds industry,BFA,2.619912735742432e-05,EU27,2015
+260,COD,Growing rice industry,BFA,1.6751315578430347e-05,EU27,2015
+261,COD,"Growing vegetables, roots, tubers industry",BFA,0.00015036018025257975,EU27,2015
+262,COD,Growing sugar beet and cane industry,BFA,1.4751443697537529e-05,EU27,2015
+263,COD,Growing tobacco industry,BFA,1.1754302321045397e-06,EU27,2015
+264,COD,Growing fibre crops industry,BFA,0.00027477475682593583,EU27,2015
+265,COD,Growing crops n.e.c. industry,BFA,4.911364099712602e-06,EU27,2015
+266,COD,Growing grapes industry,BFA,0.0,EU27,2015
+267,COD,Growing fruits and nuts industry,BFA,0.0008181068504580467,EU27,2015
+268,COD,"Growing beverage crops (coffee, tea etc) industry",BFA,1.4293115832223145e-05,EU27,2015
+269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,1.0822775287318805e-08,EU27,2015
+270,COD,Seeds and plant propagation industry,BFA,0.0,EU27,2015
+271,COD,Raising of cattle industry,BFA,0.00020189197549876008,EU27,2015
+272,COD,Growing wheat industry,BGD,7.368883875853615e-05,EU27,2015
+273,COD,Growing maize industry,BGD,0.00528680167559112,EU27,2015
+274,COD,Growing cereals n.e.c industry,BGD,2.392533041992587e-06,EU27,2015
+275,COD,Growing leguminous crops and oil seeds industry,BGD,0.00011930668936096065,EU27,2015
+276,COD,Growing rice industry,BGD,8.235794781266723e-05,EU27,2015
+277,COD,"Growing vegetables, roots, tubers industry",BGD,0.0004865847610475004,EU27,2015
+278,COD,Growing sugar beet and cane industry,BGD,6.115348174416709e-05,EU27,2015
+279,COD,Growing tobacco industry,BGD,7.166557042673467e-06,EU27,2015
+280,COD,Growing fibre crops industry,BGD,0.0013649404507233393,EU27,2015
+281,COD,Growing crops n.e.c. industry,BGD,3.2033136956354755e-05,EU27,2015
+282,COD,Growing grapes industry,BGD,0.0,EU27,2015
+283,COD,Growing fruits and nuts industry,BGD,0.0038542095810640627,EU27,2015
+284,COD,"Growing beverage crops (coffee, tea etc) industry",BGD,4.470975254116673e-05,EU27,2015
+285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,5.2434654794033747e-08,EU27,2015
+286,COD,Seeds and plant propagation industry,BGD,0.0,EU27,2015
+287,COD,Raising of cattle industry,BGD,0.0010724332666519156,EU27,2015
+288,COD,Growing wheat industry,BGR,0.0,EU27,2015
+289,COD,Growing maize industry,BGR,0.0,EU27,2015
+290,COD,Growing cereals n.e.c industry,BGR,0.0,EU27,2015
+291,COD,Growing leguminous crops and oil seeds industry,BGR,0.0,EU27,2015
+292,COD,Growing rice industry,BGR,0.0,EU27,2015
+293,COD,"Growing vegetables, roots, tubers industry",BGR,0.0,EU27,2015
+294,COD,Growing sugar beet and cane industry,BGR,0.0,EU27,2015
+295,COD,Growing tobacco industry,BGR,0.0,EU27,2015
+296,COD,Growing fibre crops industry,BGR,0.0,EU27,2015
+297,COD,Growing crops n.e.c. industry,BGR,0.0,EU27,2015
+298,COD,Growing grapes industry,BGR,0.0,EU27,2015
+299,COD,Growing fruits and nuts industry,BGR,0.0,EU27,2015
+300,COD,"Growing beverage crops (coffee, tea etc) industry",BGR,0.0,EU27,2015
+301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,0.0,EU27,2015
+302,COD,Seeds and plant propagation industry,BGR,0.0,EU27,2015
+303,COD,Raising of cattle industry,BGR,0.0,EU27,2015
+304,COD,Growing wheat industry,BHR,3.841159831179329e-05,EU27,2015
+305,COD,Growing maize industry,BHR,0.005803353170026661,EU27,2015
+306,COD,Growing cereals n.e.c industry,BHR,1.4323806678365277e-06,EU27,2015
+307,COD,Growing leguminous crops and oil seeds industry,BHR,6.259484766287051e-05,EU27,2015
+308,COD,Growing rice industry,BHR,4.4326101360545495e-05,EU27,2015
+309,COD,"Growing vegetables, roots, tubers industry",BHR,0.00031984994002887693,EU27,2015
+310,COD,Growing sugar beet and cane industry,BHR,4.16378786952582e-05,EU27,2015
+311,COD,Growing tobacco industry,BHR,3.8461644922648935e-06,EU27,2015
+312,COD,Growing fibre crops industry,BHR,0.0022779120904298103,EU27,2015
+313,COD,Growing crops n.e.c. industry,BHR,1.8535011751766797e-05,EU27,2015
+314,COD,Growing grapes industry,BHR,0.0,EU27,2015
+315,COD,Growing fruits and nuts industry,BHR,0.0023731852022153247,EU27,2015
+316,COD,"Growing beverage crops (coffee, tea etc) industry",BHR,2.3967146631481475e-05,EU27,2015
+317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,2.5706427916909813e-08,EU27,2015
+318,COD,Seeds and plant propagation industry,BHR,0.0,EU27,2015
+319,COD,Raising of cattle industry,BHR,0.0005754322108345778,EU27,2015
+320,COD,Growing wheat industry,BHS,9.700873750193197e-06,EU27,2015
+321,COD,Growing maize industry,BHS,0.0007337261858140422,EU27,2015
+322,COD,Growing cereals n.e.c industry,BHS,2.1324592279595285e-07,EU27,2015
+323,COD,Growing leguminous crops and oil seeds industry,BHS,1.1896488439565255e-05,EU27,2015
+324,COD,Growing rice industry,BHS,1.0569668701158037e-05,EU27,2015
+325,COD,"Growing vegetables, roots, tubers industry",BHS,0.00012501802583812823,EU27,2015
+326,COD,Growing sugar beet and cane industry,BHS,7.750810977538652e-06,EU27,2015
+327,COD,Growing tobacco industry,BHS,6.237184801849982e-07,EU27,2015
+328,COD,Growing fibre crops industry,BHS,0.00014227485928880473,EU27,2015
+329,COD,Growing crops n.e.c. industry,BHS,3.544419096565175e-06,EU27,2015
+330,COD,Growing grapes industry,BHS,0.0,EU27,2015
+331,COD,Growing fruits and nuts industry,BHS,0.0003775334671344663,EU27,2015
+332,COD,"Growing beverage crops (coffee, tea etc) industry",BHS,7.132727332032017e-06,EU27,2015
+333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,5.7551343751375075e-09,EU27,2015
+334,COD,Seeds and plant propagation industry,BHS,0.0,EU27,2015
+335,COD,Raising of cattle industry,BHS,0.00012265347225838864,EU27,2015
+336,COD,Growing wheat industry,BIH,5.1296845990593115e-05,EU27,2015
+337,COD,Growing maize industry,BIH,0.0043342778867187055,EU27,2015
+338,COD,Growing cereals n.e.c industry,BIH,5.16470136141993e-06,EU27,2015
+339,COD,Growing leguminous crops and oil seeds industry,BIH,9.144646526776402e-05,EU27,2015
+340,COD,Growing rice industry,BIH,0.00010144434936466464,EU27,2015
+341,COD,"Growing vegetables, roots, tubers industry",BIH,0.0010574026200072554,EU27,2015
+342,COD,Growing sugar beet and cane industry,BIH,5.072259101632138e-05,EU27,2015
+343,COD,Growing tobacco industry,BIH,6.016463483640868e-06,EU27,2015
+344,COD,Growing fibre crops industry,BIH,0.0013250722979607525,EU27,2015
+345,COD,Growing crops n.e.c. industry,BIH,3.204398291664986e-05,EU27,2015
+346,COD,Growing grapes industry,BIH,0.0,EU27,2015
+347,COD,Growing fruits and nuts industry,BIH,0.014258177831770805,EU27,2015
+348,COD,"Growing beverage crops (coffee, tea etc) industry",BIH,0.00010627356628831351,EU27,2015
+349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,1.5372046580958334e-07,EU27,2015
+350,COD,Seeds and plant propagation industry,BIH,0.0,EU27,2015
+351,COD,Raising of cattle industry,BIH,0.0019280027469030317,EU27,2015
+352,COD,Growing wheat industry,BLR,4.6137111523351225e-05,EU27,2015
+353,COD,Growing maize industry,BLR,0.003034424513488844,EU27,2015
+354,COD,Growing cereals n.e.c industry,BLR,1.5231945938605506e-06,EU27,2015
+355,COD,Growing leguminous crops and oil seeds industry,BLR,6.945516849529318e-05,EU27,2015
+356,COD,Growing rice industry,BLR,4.820753978872395e-05,EU27,2015
+357,COD,"Growing vegetables, roots, tubers industry",BLR,0.001011948918244335,EU27,2015
+358,COD,Growing sugar beet and cane industry,BLR,4.78216373878115e-05,EU27,2015
+359,COD,Growing tobacco industry,BLR,6.129128608604947e-06,EU27,2015
+360,COD,Growing fibre crops industry,BLR,0.001382858119988575,EU27,2015
+361,COD,Growing crops n.e.c. industry,BLR,1.3964848173495785e-05,EU27,2015
+362,COD,Growing grapes industry,BLR,0.0,EU27,2015
+363,COD,Growing fruits and nuts industry,BLR,0.002756404629616413,EU27,2015
+364,COD,"Growing beverage crops (coffee, tea etc) industry",BLR,3.9873382302835205e-05,EU27,2015
+365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,3.592444479368929e-08,EU27,2015
+366,COD,Seeds and plant propagation industry,BLR,0.0,EU27,2015
+367,COD,Raising of cattle industry,BLR,0.0006129104257819639,EU27,2015
+368,COD,Growing wheat industry,BLZ,1.751483129173712e-06,EU27,2015
+369,COD,Growing maize industry,BLZ,0.00034412934719639965,EU27,2015
+370,COD,Growing cereals n.e.c industry,BLZ,1.3429621870934782e-07,EU27,2015
+371,COD,Growing leguminous crops and oil seeds industry,BLZ,2.8863097874481637e-06,EU27,2015
+372,COD,Growing rice industry,BLZ,1.7698814247588197e-06,EU27,2015
+373,COD,"Growing vegetables, roots, tubers industry",BLZ,1.4059755338406338e-05,EU27,2015
+374,COD,Growing sugar beet and cane industry,BLZ,2.3239258097201667e-06,EU27,2015
+375,COD,Growing tobacco industry,BLZ,1.7524822767898726e-07,EU27,2015
+376,COD,Growing fibre crops industry,BLZ,5.2319331886884875e-05,EU27,2015
+377,COD,Growing crops n.e.c. industry,BLZ,8.277041300404317e-07,EU27,2015
+378,COD,Growing grapes industry,BLZ,0.0,EU27,2015
+379,COD,Growing fruits and nuts industry,BLZ,0.00010747405754087694,EU27,2015
+380,COD,"Growing beverage crops (coffee, tea etc) industry",BLZ,1.0989459501048438e-06,EU27,2015
+381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,1.1383333296288071e-09,EU27,2015
+382,COD,Seeds and plant propagation industry,BLZ,0.0,EU27,2015
+383,COD,Raising of cattle industry,BLZ,2.20801240631047e-05,EU27,2015
+384,COD,Growing wheat industry,BOL,2.9028682749147905e-05,EU27,2015
+385,COD,Growing maize industry,BOL,0.0014685649541597591,EU27,2015
+386,COD,Growing cereals n.e.c industry,BOL,8.131113061132194e-07,EU27,2015
+387,COD,Growing leguminous crops and oil seeds industry,BOL,4.2864557260453814e-05,EU27,2015
+388,COD,Growing rice industry,BOL,3.110245218664883e-05,EU27,2015
+389,COD,"Growing vegetables, roots, tubers industry",BOL,0.00019805548214548035,EU27,2015
+390,COD,Growing sugar beet and cane industry,BOL,2.8343257653472094e-05,EU27,2015
+391,COD,Growing tobacco industry,BOL,3.426945582076404e-06,EU27,2015
+392,COD,Growing fibre crops industry,BOL,0.0013108972887734664,EU27,2015
+393,COD,Growing crops n.e.c. industry,BOL,1.1013081314805505e-05,EU27,2015
+394,COD,Growing grapes industry,BOL,0.0,EU27,2015
+395,COD,Growing fruits and nuts industry,BOL,0.0013134099397497387,EU27,2015
+396,COD,"Growing beverage crops (coffee, tea etc) industry",BOL,1.6496678276032693e-05,EU27,2015
+397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,2.1881576165531418e-08,EU27,2015
+398,COD,Seeds and plant propagation industry,BOL,0.0,EU27,2015
+399,COD,Raising of cattle industry,BOL,0.00038538307972328607,EU27,2015
+400,COD,Growing wheat industry,BRA,0.0009804704798148211,EU27,2015
+401,COD,Growing maize industry,BRA,0.09066130442824602,EU27,2015
+402,COD,Growing cereals n.e.c industry,BRA,2.9771574448864484e-05,EU27,2015
+403,COD,Growing leguminous crops and oil seeds industry,BRA,0.0014525988537143002,EU27,2015
+404,COD,Growing rice industry,BRA,0.0009925282683915886,EU27,2015
+405,COD,"Growing vegetables, roots, tubers industry",BRA,0.007252872451641304,EU27,2015
+406,COD,Growing sugar beet and cane industry,BRA,0.0012777139249653495,EU27,2015
+407,COD,Growing tobacco industry,BRA,0.0001679690353763865,EU27,2015
+408,COD,Growing fibre crops industry,BRA,3.0059141116866255,EU27,2015
+409,COD,Growing crops n.e.c. industry,BRA,0.00031755445563045644,EU27,2015
+410,COD,Growing grapes industry,BRA,0.0,EU27,2015
+411,COD,Growing fruits and nuts industry,BRA,0.04948905442682296,EU27,2015
+412,COD,"Growing beverage crops (coffee, tea etc) industry",BRA,0.0008527114168579092,EU27,2015
+413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,7.224176266424e-07,EU27,2015
+414,COD,Seeds and plant propagation industry,BRA,0.0,EU27,2015
+415,COD,Raising of cattle industry,BRA,0.011706083539466613,EU27,2015
+416,COD,Growing wheat industry,BRN,1.2125080742184116e-05,EU27,2015
+417,COD,Growing maize industry,BRN,0.0012775222687277893,EU27,2015
+418,COD,Growing cereals n.e.c industry,BRN,3.183318794138403e-07,EU27,2015
+419,COD,Growing leguminous crops and oil seeds industry,BRN,1.999582398731799e-05,EU27,2015
+420,COD,Growing rice industry,BRN,1.1051756951210018e-05,EU27,2015
+421,COD,"Growing vegetables, roots, tubers industry",BRN,8.173800019849523e-05,EU27,2015
+422,COD,Growing sugar beet and cane industry,BRN,9.496150993126812e-06,EU27,2015
+423,COD,Growing tobacco industry,BRN,2.2783022242451846e-06,EU27,2015
+424,COD,Growing fibre crops industry,BRN,0.000425809703363462,EU27,2015
+425,COD,Growing crops n.e.c. industry,BRN,4.130563830173578e-06,EU27,2015
+426,COD,Growing grapes industry,BRN,0.0,EU27,2015
+427,COD,Growing fruits and nuts industry,BRN,0.0006999812285523289,EU27,2015
+428,COD,"Growing beverage crops (coffee, tea etc) industry",BRN,1.040368242564693e-05,EU27,2015
+429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,9.083626777498165e-09,EU27,2015
+430,COD,Seeds and plant propagation industry,BRN,0.0,EU27,2015
+431,COD,Raising of cattle industry,BRN,0.00014034897370615758,EU27,2015
+432,COD,Growing wheat industry,BTN,1.2001278308414386e-06,EU27,2015
+433,COD,Growing maize industry,BTN,4.842174771816524e-05,EU27,2015
+434,COD,Growing cereals n.e.c industry,BTN,3.2277380316177726e-08,EU27,2015
+435,COD,Growing leguminous crops and oil seeds industry,BTN,2.0304917315745154e-06,EU27,2015
+436,COD,Growing rice industry,BTN,1.0726039378616838e-06,EU27,2015
+437,COD,"Growing vegetables, roots, tubers industry",BTN,7.485471513463004e-06,EU27,2015
+438,COD,Growing sugar beet and cane industry,BTN,7.297131386415314e-07,EU27,2015
+439,COD,Growing tobacco industry,BTN,1.2016163261952279e-07,EU27,2015
+440,COD,Growing fibre crops industry,BTN,1.5158213684568634e-05,EU27,2015
+441,COD,Growing crops n.e.c. industry,BTN,3.366189405203878e-07,EU27,2015
+442,COD,Growing grapes industry,BTN,0.0,EU27,2015
+443,COD,Growing fruits and nuts industry,BTN,4.879913421078394e-05,EU27,2015
+444,COD,"Growing beverage crops (coffee, tea etc) industry",BTN,6.148926101070031e-07,EU27,2015
+445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,7.600843192233478e-10,EU27,2015
+446,COD,Seeds and plant propagation industry,BTN,0.0,EU27,2015
+447,COD,Raising of cattle industry,BTN,1.3026827497799141e-05,EU27,2015
+448,COD,Growing wheat industry,BWA,1.5395294594951936e-05,EU27,2015
+449,COD,Growing maize industry,BWA,0.0005797956601737941,EU27,2015
+450,COD,Growing cereals n.e.c industry,BWA,2.992646530730188e-07,EU27,2015
+451,COD,Growing leguminous crops and oil seeds industry,BWA,2.537112264752573e-05,EU27,2015
+452,COD,Growing rice industry,BWA,1.4089483076194098e-05,EU27,2015
+453,COD,"Growing vegetables, roots, tubers industry",BWA,9.137252983916997e-05,EU27,2015
+454,COD,Growing sugar beet and cane industry,BWA,1.0789912498561873e-05,EU27,2015
+455,COD,Growing tobacco industry,BWA,1.5155455557944471e-06,EU27,2015
+456,COD,Growing fibre crops industry,BWA,0.00021927759314191203,EU27,2015
+457,COD,Growing crops n.e.c. industry,BWA,4.635197927104766e-06,EU27,2015
+458,COD,Growing grapes industry,BWA,0.0,EU27,2015
+459,COD,Growing fruits and nuts industry,BWA,0.0005673968431046005,EU27,2015
+460,COD,"Growing beverage crops (coffee, tea etc) industry",BWA,6.799024767450867e-06,EU27,2015
+461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,1.0758636891172096e-08,EU27,2015
+462,COD,Seeds and plant propagation industry,BWA,0.0,EU27,2015
+463,COD,Raising of cattle industry,BWA,0.00017674586373309299,EU27,2015
+464,COD,Growing wheat industry,CAF,1.9329476120657773e-06,EU27,2015
+465,COD,Growing maize industry,CAF,0.00024535186519182995,EU27,2015
+466,COD,Growing cereals n.e.c industry,CAF,4.340551197005848e-08,EU27,2015
+467,COD,Growing leguminous crops and oil seeds industry,CAF,2.8266047354094986e-06,EU27,2015
+468,COD,Growing rice industry,CAF,1.4574654665423547e-06,EU27,2015
+469,COD,"Growing vegetables, roots, tubers industry",CAF,1.1843270990621646e-05,EU27,2015
+470,COD,Growing sugar beet and cane industry,CAF,1.8459233226492767e-06,EU27,2015
+471,COD,Growing tobacco industry,CAF,1.1672841506650937e-07,EU27,2015
+472,COD,Growing fibre crops industry,CAF,0.00013669148818645966,EU27,2015
+473,COD,Growing crops n.e.c. industry,CAF,6.311807244523316e-07,EU27,2015
+474,COD,Growing grapes industry,CAF,0.0,EU27,2015
+475,COD,Growing fruits and nuts industry,CAF,9.152934525623416e-05,EU27,2015
+476,COD,"Growing beverage crops (coffee, tea etc) industry",CAF,8.135614768066956e-07,EU27,2015
+477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,9.735278188717412e-10,EU27,2015
+478,COD,Seeds and plant propagation industry,CAF,0.0,EU27,2015
+479,COD,Raising of cattle industry,CAF,1.736552150479719e-05,EU27,2015
+480,COD,Growing wheat industry,CAN,0.0008760441128794835,EU27,2015
+481,COD,Growing maize industry,CAN,0.08526684274493955,EU27,2015
+482,COD,Growing cereals n.e.c industry,CAN,3.2816965915914146e-05,EU27,2015
+483,COD,Growing leguminous crops and oil seeds industry,CAN,0.0013542797843905036,EU27,2015
+484,COD,Growing rice industry,CAN,0.0008754878944468503,EU27,2015
+485,COD,"Growing vegetables, roots, tubers industry",CAN,0.007069424159539579,EU27,2015
+486,COD,Growing sugar beet and cane industry,CAN,0.0008680577355199761,EU27,2015
+487,COD,Growing tobacco industry,CAN,0.00010085959760490449,EU27,2015
+488,COD,Growing fibre crops industry,CAN,0.10586931774429556,EU27,2015
+489,COD,Growing crops n.e.c. industry,CAN,0.00030965794340608266,EU27,2015
+490,COD,Growing grapes industry,CAN,0.0,EU27,2015
+491,COD,Growing fruits and nuts industry,CAN,0.0444459670534313,EU27,2015
+492,COD,"Growing beverage crops (coffee, tea etc) industry",CAN,0.0007189024081497997,EU27,2015
+493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,6.965344926089512e-07,EU27,2015
+494,COD,Seeds and plant propagation industry,CAN,0.0,EU27,2015
+495,COD,Raising of cattle industry,CAN,0.010791945199190262,EU27,2015
+496,COD,Growing wheat industry,CHE,0.0023523322921847408,EU27,2015
+497,COD,Growing maize industry,CHE,0.24977254188718406,EU27,2015
+498,COD,Growing cereals n.e.c industry,CHE,0.00015379601061609314,EU27,2015
+499,COD,Growing leguminous crops and oil seeds industry,CHE,0.0036679234121142932,EU27,2015
+500,COD,Growing rice industry,CHE,0.002224171734545632,EU27,2015
+501,COD,"Growing vegetables, roots, tubers industry",CHE,0.020264551038366392,EU27,2015
+502,COD,Growing sugar beet and cane industry,CHE,0.002666520571672716,EU27,2015
+503,COD,Growing tobacco industry,CHE,0.00029859790664899845,EU27,2015
+504,COD,Growing fibre crops industry,CHE,0.1905795945598216,EU27,2015
+505,COD,Growing crops n.e.c. industry,CHE,0.0007652247671050038,EU27,2015
+506,COD,Growing grapes industry,CHE,0.0,EU27,2015
+507,COD,Growing fruits and nuts industry,CHE,0.15289925108208324,EU27,2015
+508,COD,"Growing beverage crops (coffee, tea etc) industry",CHE,0.0018706232821136721,EU27,2015
+509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,1.908793934889828e-06,EU27,2015
+510,COD,Seeds and plant propagation industry,CHE,0.0,EU27,2015
+511,COD,Raising of cattle industry,CHE,0.025809935628730157,EU27,2015
+512,COD,Growing wheat industry,CHL,0.00016050103153054943,EU27,2015
+513,COD,Growing maize industry,CHL,0.017148193765895537,EU27,2015
+514,COD,Growing cereals n.e.c industry,CHL,5.656952560678505e-06,EU27,2015
+515,COD,Growing leguminous crops and oil seeds industry,CHL,0.000261693053757403,EU27,2015
+516,COD,Growing rice industry,CHL,0.00016747182425048705,EU27,2015
+517,COD,"Growing vegetables, roots, tubers industry",CHL,0.001357219506789871,EU27,2015
+518,COD,Growing sugar beet and cane industry,CHL,0.0002659398375555789,EU27,2015
+519,COD,Growing tobacco industry,CHL,1.778960197441217e-05,EU27,2015
+520,COD,Growing fibre crops industry,CHL,0.012916345467426368,EU27,2015
+521,COD,Growing crops n.e.c. industry,CHL,6.741796308875517e-05,EU27,2015
+522,COD,Growing grapes industry,CHL,0.0,EU27,2015
+523,COD,Growing fruits and nuts industry,CHL,0.008742359723822766,EU27,2015
+524,COD,"Growing beverage crops (coffee, tea etc) industry",CHL,0.0001037725463184608,EU27,2015
+525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,1.4008123964890515e-07,EU27,2015
+526,COD,Seeds and plant propagation industry,CHL,0.0,EU27,2015
+527,COD,Raising of cattle industry,CHL,0.0021426688652750187,EU27,2015
+528,COD,Growing wheat industry,CHN,0.004668411486566176,EU27,2015
+529,COD,Growing maize industry,CHN,0.300784701664717,EU27,2015
+530,COD,Growing cereals n.e.c industry,CHN,0.00015733249248634981,EU27,2015
+531,COD,Growing leguminous crops and oil seeds industry,CHN,0.007729677456342546,EU27,2015
+532,COD,Growing rice industry,CHN,0.005008376210177687,EU27,2015
+533,COD,"Growing vegetables, roots, tubers industry",CHN,0.03485056766946732,EU27,2015
+534,COD,Growing sugar beet and cane industry,CHN,0.003688167382626528,EU27,2015
+535,COD,Growing tobacco industry,CHN,0.0005171211796516638,EU27,2015
+536,COD,Growing fibre crops industry,CHN,0.09653557206119179,EU27,2015
+537,COD,Growing crops n.e.c. industry,CHN,0.0016680606885084034,EU27,2015
+538,COD,Growing grapes industry,CHN,0.0,EU27,2015
+539,COD,Growing fruits and nuts industry,CHN,0.2523557582538731,EU27,2015
+540,COD,"Growing beverage crops (coffee, tea etc) industry",CHN,0.0031950068540782532,EU27,2015
+541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,3.5351113297092962e-06,EU27,2015
+542,COD,Seeds and plant propagation industry,CHN,0.0,EU27,2015
+543,COD,Raising of cattle industry,CHN,0.06021244868656565,EU27,2015
+544,COD,Growing wheat industry,CIV,6.301103400398806e-05,EU27,2015
+545,COD,Growing maize industry,CIV,0.0037468456585628774,EU27,2015
+546,COD,Growing cereals n.e.c industry,CIV,1.1860540664007984e-06,EU27,2015
+547,COD,Growing leguminous crops and oil seeds industry,CIV,9.049854564125143e-05,EU27,2015
+548,COD,Growing rice industry,CIV,6.438781311995293e-05,EU27,2015
+549,COD,"Growing vegetables, roots, tubers industry",CIV,0.00037908387665206377,EU27,2015
+550,COD,Growing sugar beet and cane industry,CIV,5.237666899997541e-05,EU27,2015
+551,COD,Growing tobacco industry,CIV,5.232433161144614e-06,EU27,2015
+552,COD,Growing fibre crops industry,CIV,0.0016766273245980604,EU27,2015
+553,COD,Growing crops n.e.c. industry,CIV,2.1698645393271315e-05,EU27,2015
+554,COD,Growing grapes industry,CIV,0.0,EU27,2015
+555,COD,Growing fruits and nuts industry,CIV,0.0022076130922239934,EU27,2015
+556,COD,"Growing beverage crops (coffee, tea etc) industry",CIV,2.808928204074993e-05,EU27,2015
+557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,3.696508958802666e-08,EU27,2015
+558,COD,Seeds and plant propagation industry,CIV,0.0,EU27,2015
+559,COD,Raising of cattle industry,CIV,0.0007731300322653299,EU27,2015
+560,COD,Growing wheat industry,CMR,3.8024330414710716e-05,EU27,2015
+561,COD,Growing maize industry,CMR,0.0025700689259739312,EU27,2015
+562,COD,Growing cereals n.e.c industry,CMR,6.077222890647835e-07,EU27,2015
+563,COD,Growing leguminous crops and oil seeds industry,CMR,5.029361397398591e-05,EU27,2015
+564,COD,Growing rice industry,CMR,3.257637708388563e-05,EU27,2015
+565,COD,"Growing vegetables, roots, tubers industry",CMR,0.00021537266980879642,EU27,2015
+566,COD,Growing sugar beet and cane industry,CMR,2.4862371145783703e-05,EU27,2015
+567,COD,Growing tobacco industry,CMR,1.7854919785212933e-06,EU27,2015
+568,COD,Growing fibre crops industry,CMR,0.004466585359366546,EU27,2015
+569,COD,Growing crops n.e.c. industry,CMR,9.759711584375185e-06,EU27,2015
+570,COD,Growing grapes industry,CMR,0.0,EU27,2015
+571,COD,Growing fruits and nuts industry,CMR,0.0011299764190400542,EU27,2015
+572,COD,"Growing beverage crops (coffee, tea etc) industry",CMR,1.7545121581814365e-05,EU27,2015
+573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,1.770496227037795e-08,EU27,2015
+574,COD,Seeds and plant propagation industry,CMR,0.0,EU27,2015
+575,COD,Raising of cattle industry,CMR,0.00038491836105600475,EU27,2015
+576,COD,Growing wheat industry,COD,6.027301909571836e-05,EU27,2015
+577,COD,Growing maize industry,COD,0.008440257909262837,EU27,2015
+578,COD,Growing cereals n.e.c industry,COD,1.4049589187641223e-06,EU27,2015
+579,COD,Growing leguminous crops and oil seeds industry,COD,9.081462407644168e-05,EU27,2015
+580,COD,Growing rice industry,COD,3.631034356000085e-05,EU27,2015
+581,COD,"Growing vegetables, roots, tubers industry",COD,0.0002999426764627747,EU27,2015
+582,COD,Growing sugar beet and cane industry,COD,3.6333468049930864e-05,EU27,2015
+583,COD,Growing tobacco industry,COD,3.1497046947124966e-06,EU27,2015
+584,COD,Growing fibre crops industry,COD,0.000949758255383338,EU27,2015
+585,COD,Growing crops n.e.c. industry,COD,1.9278065115880787e-05,EU27,2015
+586,COD,Growing grapes industry,COD,0.0,EU27,2015
+587,COD,Growing fruits and nuts industry,COD,0.00227453530688311,EU27,2015
+588,COD,"Growing beverage crops (coffee, tea etc) industry",COD,3.3289151547165644e-05,EU27,2015
+589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,2.776742631865657e-08,EU27,2015
+590,COD,Seeds and plant propagation industry,COD,0.0,EU27,2015
+591,COD,Raising of cattle industry,COD,0.00045302268967912937,EU27,2015
+592,COD,Growing wheat industry,COG,4.6971990216933076e-05,EU27,2015
+593,COD,Growing maize industry,COG,0.0033059186650696948,EU27,2015
+594,COD,Growing cereals n.e.c industry,COG,9.63491552399639e-07,EU27,2015
+595,COD,Growing leguminous crops and oil seeds industry,COG,7.094141048442974e-05,EU27,2015
+596,COD,Growing rice industry,COG,4.161933773566643e-05,EU27,2015
+597,COD,"Growing vegetables, roots, tubers industry",COG,0.0002703034491851044,EU27,2015
+598,COD,Growing sugar beet and cane industry,COG,3.7494135094923926e-05,EU27,2015
+599,COD,Growing tobacco industry,COG,2.952910537100769e-06,EU27,2015
+600,COD,Growing fibre crops industry,COG,0.0023284105468495157,EU27,2015
+601,COD,Growing crops n.e.c. industry,COG,1.6122107681794958e-05,EU27,2015
+602,COD,Growing grapes industry,COG,0.0,EU27,2015
+603,COD,Growing fruits and nuts industry,COG,0.001712774925572632,EU27,2015
+604,COD,"Growing beverage crops (coffee, tea etc) industry",COG,2.3010330007781957e-05,EU27,2015
+605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,2.6065334483703134e-08,EU27,2015
+606,COD,Seeds and plant propagation industry,COG,0.0,EU27,2015
+607,COD,Raising of cattle industry,COG,0.0005202271915357058,EU27,2015
+608,COD,Growing wheat industry,COL,0.0001410210717430474,EU27,2015
+609,COD,Growing maize industry,COL,0.010834798055480863,EU27,2015
+610,COD,Growing cereals n.e.c industry,COL,4.378360406494372e-06,EU27,2015
+611,COD,Growing leguminous crops and oil seeds industry,COL,0.00023749647399222095,EU27,2015
+612,COD,Growing rice industry,COL,0.00016647826266459874,EU27,2015
+613,COD,"Growing vegetables, roots, tubers industry",COL,0.001314593709340316,EU27,2015
+614,COD,Growing sugar beet and cane industry,COL,0.00021800766709471266,EU27,2015
+615,COD,Growing tobacco industry,COL,1.3633112122787845e-05,EU27,2015
+616,COD,Growing fibre crops industry,COL,0.006789418847606039,EU27,2015
+617,COD,Growing crops n.e.c. industry,COL,5.3046592543805573e-05,EU27,2015
+618,COD,Growing grapes industry,COL,0.0,EU27,2015
+619,COD,Growing fruits and nuts industry,COL,0.007589079078038522,EU27,2015
+620,COD,"Growing beverage crops (coffee, tea etc) industry",COL,0.00010059179077086384,EU27,2015
+621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,1.1553006539758022e-07,EU27,2015
+622,COD,Seeds and plant propagation industry,COL,0.0,EU27,2015
+623,COD,Raising of cattle industry,COL,0.0021885708159313376,EU27,2015
+624,COD,Growing wheat industry,CRI,2.899067171132676e-05,EU27,2015
+625,COD,Growing maize industry,CRI,0.002062396450834459,EU27,2015
+626,COD,Growing cereals n.e.c industry,CRI,7.494222516767019e-07,EU27,2015
+627,COD,Growing leguminous crops and oil seeds industry,CRI,4.855343446593339e-05,EU27,2015
+628,COD,Growing rice industry,CRI,3.3471724942081556e-05,EU27,2015
+629,COD,"Growing vegetables, roots, tubers industry",CRI,0.0002421568726787651,EU27,2015
+630,COD,Growing sugar beet and cane industry,CRI,3.742482351106599e-05,EU27,2015
+631,COD,Growing tobacco industry,CRI,5.9999106522167956e-06,EU27,2015
+632,COD,Growing fibre crops industry,CRI,0.0008483417595596291,EU27,2015
+633,COD,Growing crops n.e.c. industry,CRI,9.219807849341146e-06,EU27,2015
+634,COD,Growing grapes industry,CRI,0.0,EU27,2015
+635,COD,Growing fruits and nuts industry,CRI,0.0015504489783953123,EU27,2015
+636,COD,"Growing beverage crops (coffee, tea etc) industry",CRI,2.307796903277339e-05,EU27,2015
+637,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,3.1057693227590795e-08,EU27,2015
+638,COD,Seeds and plant propagation industry,CRI,0.0,EU27,2015
+639,COD,Raising of cattle industry,CRI,0.00035368353677605474,EU27,2015
+640,COD,Growing wheat industry,CUB,4.048012879828156e-05,EU27,2015
+641,COD,Growing maize industry,CUB,0.005069171564481965,EU27,2015
+642,COD,Growing cereals n.e.c industry,CUB,2.0879549800562404e-06,EU27,2015
+643,COD,Growing leguminous crops and oil seeds industry,CUB,5.8622017679207086e-05,EU27,2015
+644,COD,Growing rice industry,CUB,4.759157418862595e-05,EU27,2015
+645,COD,"Growing vegetables, roots, tubers industry",CUB,0.00038971402106208983,EU27,2015
+646,COD,Growing sugar beet and cane industry,CUB,0.00010677680898587577,EU27,2015
+647,COD,Growing tobacco industry,CUB,3.372285769842482e-06,EU27,2015
+648,COD,Growing fibre crops industry,CUB,0.015937812876164144,EU27,2015
+649,COD,Growing crops n.e.c. industry,CUB,1.9841046328659457e-05,EU27,2015
+650,COD,Growing grapes industry,CUB,0.0,EU27,2015
+651,COD,Growing fruits and nuts industry,CUB,0.0024652694997479283,EU27,2015
+652,COD,"Growing beverage crops (coffee, tea etc) industry",CUB,5.067349918947994e-05,EU27,2015
+653,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,3.0014436490986804e-08,EU27,2015
+654,COD,Seeds and plant propagation industry,CUB,0.0,EU27,2015
+655,COD,Raising of cattle industry,CUB,0.0006316087982213479,EU27,2015
+656,COD,Growing wheat industry,CYP,0.0,EU27,2015
+657,COD,Growing maize industry,CYP,0.0,EU27,2015
+658,COD,Growing cereals n.e.c industry,CYP,0.0,EU27,2015
+659,COD,Growing leguminous crops and oil seeds industry,CYP,0.0,EU27,2015
+660,COD,Growing rice industry,CYP,0.0,EU27,2015
+661,COD,"Growing vegetables, roots, tubers industry",CYP,0.0,EU27,2015
+662,COD,Growing sugar beet and cane industry,CYP,0.0,EU27,2015
+663,COD,Growing tobacco industry,CYP,0.0,EU27,2015
+664,COD,Growing fibre crops industry,CYP,0.0,EU27,2015
+665,COD,Growing crops n.e.c. industry,CYP,0.0,EU27,2015
+666,COD,Growing grapes industry,CYP,0.0,EU27,2015
+667,COD,Growing fruits and nuts industry,CYP,0.0,EU27,2015
+668,COD,"Growing beverage crops (coffee, tea etc) industry",CYP,0.0,EU27,2015
+669,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,0.0,EU27,2015
+670,COD,Seeds and plant propagation industry,CYP,0.0,EU27,2015
+671,COD,Raising of cattle industry,CYP,0.0,EU27,2015
+672,COD,Growing wheat industry,CZE,0.0,EU27,2015
+673,COD,Growing maize industry,CZE,0.0,EU27,2015
+674,COD,Growing cereals n.e.c industry,CZE,0.0,EU27,2015
+675,COD,Growing leguminous crops and oil seeds industry,CZE,0.0,EU27,2015
+676,COD,Growing rice industry,CZE,0.0,EU27,2015
+677,COD,"Growing vegetables, roots, tubers industry",CZE,0.0,EU27,2015
+678,COD,Growing sugar beet and cane industry,CZE,0.0,EU27,2015
+679,COD,Growing tobacco industry,CZE,0.0,EU27,2015
+680,COD,Growing fibre crops industry,CZE,0.0,EU27,2015
+681,COD,Growing crops n.e.c. industry,CZE,0.0,EU27,2015
+682,COD,Growing grapes industry,CZE,0.0,EU27,2015
+683,COD,Growing fruits and nuts industry,CZE,0.0,EU27,2015
+684,COD,"Growing beverage crops (coffee, tea etc) industry",CZE,0.0,EU27,2015
+685,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,0.0,EU27,2015
+686,COD,Seeds and plant propagation industry,CZE,0.0,EU27,2015
+687,COD,Raising of cattle industry,CZE,0.0,EU27,2015
+688,COD,Growing wheat industry,DEU,0.0,EU27,2015
+689,COD,Growing maize industry,DEU,0.0,EU27,2015
+690,COD,Growing cereals n.e.c industry,DEU,0.0,EU27,2015
+691,COD,Growing leguminous crops and oil seeds industry,DEU,0.0,EU27,2015
+692,COD,Growing rice industry,DEU,0.0,EU27,2015
+693,COD,"Growing vegetables, roots, tubers industry",DEU,0.0,EU27,2015
+694,COD,Growing sugar beet and cane industry,DEU,0.0,EU27,2015
+695,COD,Growing tobacco industry,DEU,0.0,EU27,2015
+696,COD,Growing fibre crops industry,DEU,0.0,EU27,2015
+697,COD,Growing crops n.e.c. industry,DEU,0.0,EU27,2015
+698,COD,Growing grapes industry,DEU,0.0,EU27,2015
+699,COD,Growing fruits and nuts industry,DEU,0.0,EU27,2015
+700,COD,"Growing beverage crops (coffee, tea etc) industry",DEU,0.0,EU27,2015
+701,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,0.0,EU27,2015
+702,COD,Seeds and plant propagation industry,DEU,0.0,EU27,2015
+703,COD,Raising of cattle industry,DEU,0.0,EU27,2015
+704,COD,Growing wheat industry,DJI,4.857745172946144e-06,EU27,2015
+705,COD,Growing maize industry,DJI,0.0005108211183163407,EU27,2015
+706,COD,Growing cereals n.e.c industry,DJI,1.2204236684089016e-07,EU27,2015
+707,COD,Growing leguminous crops and oil seeds industry,DJI,7.967576938332708e-06,EU27,2015
+708,COD,Growing rice industry,DJI,4.888609756616233e-06,EU27,2015
+709,COD,"Growing vegetables, roots, tubers industry",DJI,3.941451566042084e-05,EU27,2015
+710,COD,Growing sugar beet and cane industry,DJI,6.904244329551537e-06,EU27,2015
+711,COD,Growing tobacco industry,DJI,3.8597767850421596e-07,EU27,2015
+712,COD,Growing fibre crops industry,DJI,0.000527460917352953,EU27,2015
+713,COD,Growing crops n.e.c. industry,DJI,1.9149639452236585e-06,EU27,2015
+714,COD,Growing grapes industry,DJI,0.0,EU27,2015
+715,COD,Growing fruits and nuts industry,DJI,0.0002546919920532981,EU27,2015
+716,COD,"Growing beverage crops (coffee, tea etc) industry",DJI,3.343886458376636e-06,EU27,2015
+717,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,3.1573822594578276e-09,EU27,2015
+718,COD,Seeds and plant propagation industry,DJI,0.0,EU27,2015
+719,COD,Raising of cattle industry,DJI,7.303892850301073e-05,EU27,2015
+720,COD,Growing wheat industry,DYE,0.0,EU27,2015
+721,COD,Growing maize industry,DYE,0.0,EU27,2015
+722,COD,Growing cereals n.e.c industry,DYE,0.0,EU27,2015
+723,COD,Growing leguminous crops and oil seeds industry,DYE,0.0,EU27,2015
+724,COD,Growing rice industry,DYE,0.0,EU27,2015
+725,COD,"Growing vegetables, roots, tubers industry",DYE,0.0,EU27,2015
+726,COD,Growing sugar beet and cane industry,DYE,0.0,EU27,2015
+727,COD,Growing tobacco industry,DYE,0.0,EU27,2015
+728,COD,Growing fibre crops industry,DYE,0.0,EU27,2015
+729,COD,Growing crops n.e.c. industry,DYE,0.0,EU27,2015
+730,COD,Growing grapes industry,DYE,0.0,EU27,2015
+731,COD,Growing fruits and nuts industry,DYE,0.0,EU27,2015
+732,COD,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,EU27,2015
+733,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,EU27,2015
+734,COD,Seeds and plant propagation industry,DYE,0.0,EU27,2015
+735,COD,Raising of cattle industry,DYE,0.0,EU27,2015
+736,COD,Growing wheat industry,DNK,0.0,EU27,2015
+737,COD,Growing maize industry,DNK,0.0,EU27,2015
+738,COD,Growing cereals n.e.c industry,DNK,0.0,EU27,2015
+739,COD,Growing leguminous crops and oil seeds industry,DNK,0.0,EU27,2015
+740,COD,Growing rice industry,DNK,0.0,EU27,2015
+741,COD,"Growing vegetables, roots, tubers industry",DNK,0.0,EU27,2015
+742,COD,Growing sugar beet and cane industry,DNK,0.0,EU27,2015
+743,COD,Growing tobacco industry,DNK,0.0,EU27,2015
+744,COD,Growing fibre crops industry,DNK,0.0,EU27,2015
+745,COD,Growing crops n.e.c. industry,DNK,0.0,EU27,2015
+746,COD,Growing grapes industry,DNK,0.0,EU27,2015
+747,COD,Growing fruits and nuts industry,DNK,0.0,EU27,2015
+748,COD,"Growing beverage crops (coffee, tea etc) industry",DNK,0.0,EU27,2015
+749,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,0.0,EU27,2015
+750,COD,Seeds and plant propagation industry,DNK,0.0,EU27,2015
+751,COD,Raising of cattle industry,DNK,0.0,EU27,2015
+752,COD,Growing wheat industry,DOM,2.8377236166030664e-05,EU27,2015
+753,COD,Growing maize industry,DOM,0.003568135070335363,EU27,2015
+754,COD,Growing cereals n.e.c industry,DOM,8.43678658450254e-07,EU27,2015
+755,COD,Growing leguminous crops and oil seeds industry,DOM,3.803830529062867e-05,EU27,2015
+756,COD,Growing rice industry,DOM,3.066468097773905e-05,EU27,2015
+757,COD,"Growing vegetables, roots, tubers industry",DOM,0.0002660533672613587,EU27,2015
+758,COD,Growing sugar beet and cane industry,DOM,5.199851487595836e-05,EU27,2015
+759,COD,Growing tobacco industry,DOM,3.8072323334216306e-06,EU27,2015
+760,COD,Growing fibre crops industry,DOM,0.0008303659625911705,EU27,2015
+761,COD,Growing crops n.e.c. industry,DOM,1.1599023798531119e-05,EU27,2015
+762,COD,Growing grapes industry,DOM,0.0,EU27,2015
+763,COD,Growing fruits and nuts industry,DOM,0.0013493688579667856,EU27,2015
+764,COD,"Growing beverage crops (coffee, tea etc) industry",DOM,1.6367340475168168e-05,EU27,2015
+765,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,1.864200841568781e-08,EU27,2015
+766,COD,Seeds and plant propagation industry,DOM,0.0,EU27,2015
+767,COD,Raising of cattle industry,DOM,0.0003886356709737863,EU27,2015
+768,COD,Growing wheat industry,DZA,0.0004454112342765923,EU27,2015
+769,COD,Growing maize industry,DZA,0.06328448496627734,EU27,2015
+770,COD,Growing cereals n.e.c industry,DZA,1.4225999748657095e-05,EU27,2015
+771,COD,Growing leguminous crops and oil seeds industry,DZA,0.0006537467064018664,EU27,2015
+772,COD,Growing rice industry,DZA,0.000481544222601316,EU27,2015
+773,COD,"Growing vegetables, roots, tubers industry",DZA,0.003520710680006844,EU27,2015
+774,COD,Growing sugar beet and cane industry,DZA,0.000644013770623449,EU27,2015
+775,COD,Growing tobacco industry,DZA,4.107073248330627e-05,EU27,2015
+776,COD,Growing fibre crops industry,DZA,0.05265892085132116,EU27,2015
+777,COD,Growing crops n.e.c. industry,DZA,0.00021650882919799363,EU27,2015
+778,COD,Growing grapes industry,DZA,0.0,EU27,2015
+779,COD,Growing fruits and nuts industry,DZA,0.020896346373425752,EU27,2015
+780,COD,"Growing beverage crops (coffee, tea etc) industry",DZA,0.00024040765539689747,EU27,2015
+781,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,2.78968882728576e-07,EU27,2015
+782,COD,Seeds and plant propagation industry,DZA,0.0,EU27,2015
+783,COD,Raising of cattle industry,DZA,0.006174149016782818,EU27,2015
+784,COD,Growing wheat industry,ECU,8.695794729206262e-05,EU27,2015
+785,COD,Growing maize industry,ECU,0.004073610557004924,EU27,2015
+786,COD,Growing cereals n.e.c industry,ECU,1.375528531661e-06,EU27,2015
+787,COD,Growing leguminous crops and oil seeds industry,ECU,8.14165733047417e-05,EU27,2015
+788,COD,Growing rice industry,ECU,8.375978445723305e-05,EU27,2015
+789,COD,"Growing vegetables, roots, tubers industry",ECU,0.0006491543720637083,EU27,2015
+790,COD,Growing sugar beet and cane industry,ECU,6.94723251097133e-05,EU27,2015
+791,COD,Growing tobacco industry,ECU,4.044807193502954e-06,EU27,2015
+792,COD,Growing fibre crops industry,ECU,0.0036597814926774765,EU27,2015
+793,COD,Growing crops n.e.c. industry,ECU,2.2302139559256713e-05,EU27,2015
+794,COD,Growing grapes industry,ECU,0.0,EU27,2015
+795,COD,Growing fruits and nuts industry,ECU,0.002518469704093913,EU27,2015
+796,COD,"Growing beverage crops (coffee, tea etc) industry",ECU,3.0402572654655843e-05,EU27,2015
+797,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,4.1590637496148264e-08,EU27,2015
+798,COD,Seeds and plant propagation industry,ECU,0.0,EU27,2015
+799,COD,Raising of cattle industry,ECU,0.0008550812003243209,EU27,2015
+800,COD,Growing wheat industry,EGY,0.00047907490348396577,EU27,2015
+801,COD,Growing maize industry,EGY,0.026740899144022175,EU27,2015
+802,COD,Growing cereals n.e.c industry,EGY,1.2296981927550506e-05,EU27,2015
+803,COD,Growing leguminous crops and oil seeds industry,EGY,0.0007609151143732697,EU27,2015
+804,COD,Growing rice industry,EGY,0.00044078567826926743,EU27,2015
+805,COD,"Growing vegetables, roots, tubers industry",EGY,0.0038322235239996783,EU27,2015
+806,COD,Growing sugar beet and cane industry,EGY,0.0004578323402264389,EU27,2015
+807,COD,Growing tobacco industry,EGY,4.405158811707828e-05,EU27,2015
+808,COD,Growing fibre crops industry,EGY,0.012988434407062887,EU27,2015
+809,COD,Growing crops n.e.c. industry,EGY,0.00012630589844078388,EU27,2015
+810,COD,Growing grapes industry,EGY,0.0,EU27,2015
+811,COD,Growing fruits and nuts industry,EGY,0.02092745824412159,EU27,2015
+812,COD,"Growing beverage crops (coffee, tea etc) industry",EGY,0.0002884710525272158,EU27,2015
+813,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,3.609037995475906e-07,EU27,2015
+814,COD,Seeds and plant propagation industry,EGY,0.0,EU27,2015
+815,COD,Raising of cattle industry,EGY,0.005280394485278173,EU27,2015
+816,COD,Growing wheat industry,ERI,1.2009029353701606e-06,EU27,2015
+817,COD,Growing maize industry,ERI,0.00017118619365606247,EU27,2015
+818,COD,Growing cereals n.e.c industry,ERI,3.713871796094012e-08,EU27,2015
+819,COD,Growing leguminous crops and oil seeds industry,ERI,1.937205063846467e-06,EU27,2015
+820,COD,Growing rice industry,ERI,1.2359578796479905e-06,EU27,2015
+821,COD,"Growing vegetables, roots, tubers industry",ERI,8.72866222426833e-06,EU27,2015
+822,COD,Growing sugar beet and cane industry,ERI,1.220655039034953e-06,EU27,2015
+823,COD,Growing tobacco industry,ERI,1.0916785197545815e-07,EU27,2015
+824,COD,Growing fibre crops industry,ERI,1.798677377357421e-05,EU27,2015
+825,COD,Growing crops n.e.c. industry,ERI,6.169448224850041e-07,EU27,2015
+826,COD,Growing grapes industry,ERI,0.0,EU27,2015
+827,COD,Growing fruits and nuts industry,ERI,5.4902400944104005e-05,EU27,2015
+828,COD,"Growing beverage crops (coffee, tea etc) industry",ERI,7.404699227775183e-07,EU27,2015
+829,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,8.666123934654305e-10,EU27,2015
+830,COD,Seeds and plant propagation industry,ERI,0.0,EU27,2015
+831,COD,Raising of cattle industry,ERI,1.5381159036979197e-05,EU27,2015
+832,COD,Growing wheat industry,ESP,0.0,EU27,2015
+833,COD,Growing maize industry,ESP,0.0,EU27,2015
+834,COD,Growing cereals n.e.c industry,ESP,0.0,EU27,2015
+835,COD,Growing leguminous crops and oil seeds industry,ESP,0.0,EU27,2015
+836,COD,Growing rice industry,ESP,0.0,EU27,2015
+837,COD,"Growing vegetables, roots, tubers industry",ESP,0.0,EU27,2015
+838,COD,Growing sugar beet and cane industry,ESP,0.0,EU27,2015
+839,COD,Growing tobacco industry,ESP,0.0,EU27,2015
+840,COD,Growing fibre crops industry,ESP,0.0,EU27,2015
+841,COD,Growing crops n.e.c. industry,ESP,0.0,EU27,2015
+842,COD,Growing grapes industry,ESP,0.0,EU27,2015
+843,COD,Growing fruits and nuts industry,ESP,0.0,EU27,2015
+844,COD,"Growing beverage crops (coffee, tea etc) industry",ESP,0.0,EU27,2015
+845,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,0.0,EU27,2015
+846,COD,Seeds and plant propagation industry,ESP,0.0,EU27,2015
+847,COD,Raising of cattle industry,ESP,0.0,EU27,2015
+848,COD,Growing wheat industry,EST,0.0,EU27,2015
+849,COD,Growing maize industry,EST,0.0,EU27,2015
+850,COD,Growing cereals n.e.c industry,EST,0.0,EU27,2015
+851,COD,Growing leguminous crops and oil seeds industry,EST,0.0,EU27,2015
+852,COD,Growing rice industry,EST,0.0,EU27,2015
+853,COD,"Growing vegetables, roots, tubers industry",EST,0.0,EU27,2015
+854,COD,Growing sugar beet and cane industry,EST,0.0,EU27,2015
+855,COD,Growing tobacco industry,EST,0.0,EU27,2015
+856,COD,Growing fibre crops industry,EST,0.0,EU27,2015
+857,COD,Growing crops n.e.c. industry,EST,0.0,EU27,2015
+858,COD,Growing grapes industry,EST,0.0,EU27,2015
+859,COD,Growing fruits and nuts industry,EST,0.0,EU27,2015
+860,COD,"Growing beverage crops (coffee, tea etc) industry",EST,0.0,EU27,2015
+861,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,0.0,EU27,2015
+862,COD,Seeds and plant propagation industry,EST,0.0,EU27,2015
+863,COD,Raising of cattle industry,EST,0.0,EU27,2015
+864,COD,Growing wheat industry,ETH,6.706054909548067e-05,EU27,2015
+865,COD,Growing maize industry,ETH,0.003233366003725918,EU27,2015
+866,COD,Growing cereals n.e.c industry,ETH,1.644103617959069e-06,EU27,2015
+867,COD,Growing leguminous crops and oil seeds industry,ETH,0.00010835848612615239,EU27,2015
+868,COD,Growing rice industry,ETH,7.721616671256027e-05,EU27,2015
+869,COD,"Growing vegetables, roots, tubers industry",ETH,0.0005258378610661878,EU27,2015
+870,COD,Growing sugar beet and cane industry,ETH,6.073592591082225e-05,EU27,2015
+871,COD,Growing tobacco industry,ETH,5.861444546124481e-06,EU27,2015
+872,COD,Growing fibre crops industry,ETH,0.001121259436159716,EU27,2015
+873,COD,Growing crops n.e.c. industry,ETH,3.040149848225048e-05,EU27,2015
+874,COD,Growing grapes industry,ETH,0.0,EU27,2015
+875,COD,Growing fruits and nuts industry,ETH,0.0031403862310391507,EU27,2015
+876,COD,"Growing beverage crops (coffee, tea etc) industry",ETH,3.8927808908167285e-05,EU27,2015
+877,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,4.6417690563703616e-08,EU27,2015
+878,COD,Seeds and plant propagation industry,ETH,0.0,EU27,2015
+879,COD,Raising of cattle industry,ETH,0.001084530368419854,EU27,2015
+880,COD,Growing wheat industry,FIN,0.0,EU27,2015
+881,COD,Growing maize industry,FIN,0.0,EU27,2015
+882,COD,Growing cereals n.e.c industry,FIN,0.0,EU27,2015
+883,COD,Growing leguminous crops and oil seeds industry,FIN,0.0,EU27,2015
+884,COD,Growing rice industry,FIN,0.0,EU27,2015
+885,COD,"Growing vegetables, roots, tubers industry",FIN,0.0,EU27,2015
+886,COD,Growing sugar beet and cane industry,FIN,0.0,EU27,2015
+887,COD,Growing tobacco industry,FIN,0.0,EU27,2015
+888,COD,Growing fibre crops industry,FIN,0.0,EU27,2015
+889,COD,Growing crops n.e.c. industry,FIN,0.0,EU27,2015
+890,COD,Growing grapes industry,FIN,0.0,EU27,2015
+891,COD,Growing fruits and nuts industry,FIN,0.0,EU27,2015
+892,COD,"Growing beverage crops (coffee, tea etc) industry",FIN,0.0,EU27,2015
+893,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,0.0,EU27,2015
+894,COD,Seeds and plant propagation industry,FIN,0.0,EU27,2015
+895,COD,Raising of cattle industry,FIN,0.0,EU27,2015
+896,COD,Growing wheat industry,FRA,0.0,EU27,2015
+897,COD,Growing maize industry,FRA,0.0,EU27,2015
+898,COD,Growing cereals n.e.c industry,FRA,0.0,EU27,2015
+899,COD,Growing leguminous crops and oil seeds industry,FRA,0.0,EU27,2015
+900,COD,Growing rice industry,FRA,0.0,EU27,2015
+901,COD,"Growing vegetables, roots, tubers industry",FRA,0.0,EU27,2015
+902,COD,Growing sugar beet and cane industry,FRA,0.0,EU27,2015
+903,COD,Growing tobacco industry,FRA,0.0,EU27,2015
+904,COD,Growing fibre crops industry,FRA,0.0,EU27,2015
+905,COD,Growing crops n.e.c. industry,FRA,0.0,EU27,2015
+906,COD,Growing grapes industry,FRA,0.0,EU27,2015
+907,COD,Growing fruits and nuts industry,FRA,0.0,EU27,2015
+908,COD,"Growing beverage crops (coffee, tea etc) industry",FRA,0.0,EU27,2015
+909,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,0.0,EU27,2015
+910,COD,Seeds and plant propagation industry,FRA,0.0,EU27,2015
+911,COD,Raising of cattle industry,FRA,0.0,EU27,2015
+912,COD,Growing wheat industry,GAB,3.4117806435115055e-05,EU27,2015
+913,COD,Growing maize industry,GAB,0.005173272037164103,EU27,2015
+914,COD,Growing cereals n.e.c industry,GAB,1.0133349795052651e-06,EU27,2015
+915,COD,Growing leguminous crops and oil seeds industry,GAB,4.866283165538923e-05,EU27,2015
+916,COD,Growing rice industry,GAB,3.0523714120346745e-05,EU27,2015
+917,COD,"Growing vegetables, roots, tubers industry",GAB,0.00021210322416055524,EU27,2015
+918,COD,Growing sugar beet and cane industry,GAB,3.115007344490631e-05,EU27,2015
+919,COD,Growing tobacco industry,GAB,2.1065936092380644e-06,EU27,2015
+920,COD,Growing fibre crops industry,GAB,0.000768044251092237,EU27,2015
+921,COD,Growing crops n.e.c. industry,GAB,1.315189267260551e-05,EU27,2015
+922,COD,Growing grapes industry,GAB,0.0,EU27,2015
+923,COD,Growing fruits and nuts industry,GAB,0.0013667567037861596,EU27,2015
+924,COD,"Growing beverage crops (coffee, tea etc) industry",GAB,1.740554236128811e-05,EU27,2015
+925,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,1.8414563256958584e-08,EU27,2015
+926,COD,Seeds and plant propagation industry,GAB,0.0,EU27,2015
+927,COD,Raising of cattle industry,GAB,0.0003708956769171414,EU27,2015
+928,COD,Growing wheat industry,GBR,0.006698244214794714,EU27,2015
+929,COD,Growing maize industry,GBR,0.8242092539450003,EU27,2015
+930,COD,Growing cereals n.e.c industry,GBR,0.0002041555110131326,EU27,2015
+931,COD,Growing leguminous crops and oil seeds industry,GBR,0.010669931775227254,EU27,2015
+932,COD,Growing rice industry,GBR,0.005981384282255983,EU27,2015
+933,COD,"Growing vegetables, roots, tubers industry",GBR,0.06692293404902892,EU27,2015
+934,COD,Growing sugar beet and cane industry,GBR,0.008304262701447193,EU27,2015
+935,COD,Growing tobacco industry,GBR,0.0007675541377329648,EU27,2015
+936,COD,Growing fibre crops industry,GBR,0.6890715895450221,EU27,2015
+937,COD,Growing crops n.e.c. industry,GBR,0.0022526426488577596,EU27,2015
+938,COD,Growing grapes industry,GBR,0.0,EU27,2015
+939,COD,Growing fruits and nuts industry,GBR,0.3660492241165662,EU27,2015
+940,COD,"Growing beverage crops (coffee, tea etc) industry",GBR,0.005262772087869234,EU27,2015
+941,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,4.685248101153266e-06,EU27,2015
+942,COD,Seeds and plant propagation industry,GBR,0.0,EU27,2015
+943,COD,Raising of cattle industry,GBR,0.07499774790651932,EU27,2015
+944,COD,Growing wheat industry,GEO,2.5851216965347215e-05,EU27,2015
+945,COD,Growing maize industry,GEO,0.003013754232638172,EU27,2015
+946,COD,Growing cereals n.e.c industry,GEO,1.1658493984212383e-06,EU27,2015
+947,COD,Growing leguminous crops and oil seeds industry,GEO,3.8265692254293785e-05,EU27,2015
+948,COD,Growing rice industry,GEO,3.2108928877658186e-05,EU27,2015
+949,COD,"Growing vegetables, roots, tubers industry",GEO,0.00023536081610043072,EU27,2015
+950,COD,Growing sugar beet and cane industry,GEO,2.3716749645607415e-05,EU27,2015
+951,COD,Growing tobacco industry,GEO,2.770220270287973e-06,EU27,2015
+952,COD,Growing fibre crops industry,GEO,0.018861830520803178,EU27,2015
+953,COD,Growing crops n.e.c. industry,GEO,1.2924829174337002e-05,EU27,2015
+954,COD,Growing grapes industry,GEO,0.0,EU27,2015
+955,COD,Growing fruits and nuts industry,GEO,0.0017792934863808125,EU27,2015
+956,COD,"Growing beverage crops (coffee, tea etc) industry",GEO,2.6015340044908864e-05,EU27,2015
+957,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,1.8316371952887832e-08,EU27,2015
+958,COD,Seeds and plant propagation industry,GEO,0.0,EU27,2015
+959,COD,Raising of cattle industry,GEO,0.00041836032063576604,EU27,2015
+960,COD,Growing wheat industry,GHA,8.700463647420745e-05,EU27,2015
+961,COD,Growing maize industry,GHA,0.009079967169367419,EU27,2015
+962,COD,Growing cereals n.e.c industry,GHA,2.1114973989241334e-06,EU27,2015
+963,COD,Growing leguminous crops and oil seeds industry,GHA,0.00010560872376425402,EU27,2015
+964,COD,Growing rice industry,GHA,8.894381351211563e-05,EU27,2015
+965,COD,"Growing vegetables, roots, tubers industry",GHA,0.0005425219491503865,EU27,2015
+966,COD,Growing sugar beet and cane industry,GHA,6.603057916192678e-05,EU27,2015
+967,COD,Growing tobacco industry,GHA,5.979636882759914e-06,EU27,2015
+968,COD,Growing fibre crops industry,GHA,0.004557069081542764,EU27,2015
+969,COD,Growing crops n.e.c. industry,GHA,2.930847376972463e-05,EU27,2015
+970,COD,Growing grapes industry,GHA,0.0,EU27,2015
+971,COD,Growing fruits and nuts industry,GHA,0.003356342632039468,EU27,2015
+972,COD,"Growing beverage crops (coffee, tea etc) industry",GHA,4.082123553933613e-05,EU27,2015
+973,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,4.959634900616912e-08,EU27,2015
+974,COD,Seeds and plant propagation industry,GHA,0.0,EU27,2015
+975,COD,Raising of cattle industry,GHA,0.0011062992171446834,EU27,2015
+976,COD,Growing wheat industry,GIN,3.0100279541103027e-05,EU27,2015
+977,COD,Growing maize industry,GIN,0.0015520507128799256,EU27,2015
+978,COD,Growing cereals n.e.c industry,GIN,5.348188020818533e-07,EU27,2015
+979,COD,Growing leguminous crops and oil seeds industry,GIN,3.204019924295354e-05,EU27,2015
+980,COD,Growing rice industry,GIN,2.5720018367899694e-05,EU27,2015
+981,COD,"Growing vegetables, roots, tubers industry",GIN,0.00019055155087040697,EU27,2015
+982,COD,Growing sugar beet and cane industry,GIN,1.7522861655091583e-05,EU27,2015
+983,COD,Growing tobacco industry,GIN,1.5531382108919432e-06,EU27,2015
+984,COD,Growing fibre crops industry,GIN,0.0013307313565175563,EU27,2015
+985,COD,Growing crops n.e.c. industry,GIN,6.091509501123669e-06,EU27,2015
+986,COD,Growing grapes industry,GIN,0.0,EU27,2015
+987,COD,Growing fruits and nuts industry,GIN,0.000833118499595273,EU27,2015
+988,COD,"Growing beverage crops (coffee, tea etc) industry",GIN,1.0435160712579073e-05,EU27,2015
+989,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,1.2725555895638232e-08,EU27,2015
+990,COD,Seeds and plant propagation industry,GIN,0.0,EU27,2015
+991,COD,Raising of cattle industry,GIN,0.0002774285716669725,EU27,2015
+992,COD,Growing wheat industry,GMB,9.395018177151712e-07,EU27,2015
+993,COD,Growing maize industry,GMB,0.0001039536435955125,EU27,2015
+994,COD,Growing cereals n.e.c industry,GMB,2.236584069292615e-08,EU27,2015
+995,COD,Growing leguminous crops and oil seeds industry,GMB,1.5268546688034995e-06,EU27,2015
+996,COD,Growing rice industry,GMB,8.234439951218184e-07,EU27,2015
+997,COD,"Growing vegetables, roots, tubers industry",GMB,5.92606607063907e-06,EU27,2015
+998,COD,Growing sugar beet and cane industry,GMB,9.336283286682968e-07,EU27,2015
+999,COD,Growing tobacco industry,GMB,9.283526302361076e-08,EU27,2015
+1000,COD,Growing fibre crops industry,GMB,7.402299323284083e-05,EU27,2015
+1001,COD,Growing crops n.e.c. industry,GMB,2.9497126907568186e-07,EU27,2015
+1002,COD,Growing grapes industry,GMB,0.0,EU27,2015
+1003,COD,Growing fruits and nuts industry,GMB,7.343493045715386e-05,EU27,2015
+1004,COD,"Growing beverage crops (coffee, tea etc) industry",GMB,1.0587467014471724e-06,EU27,2015
+1005,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,6.485080730459168e-10,EU27,2015
+1006,COD,Seeds and plant propagation industry,GMB,0.0,EU27,2015
+1007,COD,Raising of cattle industry,GMB,9.884419047598981e-06,EU27,2015
+1008,COD,Growing wheat industry,GNQ,2.7913979058227562e-05,EU27,2015
+1009,COD,Growing maize industry,GNQ,0.00988506354230382,EU27,2015
+1010,COD,Growing cereals n.e.c industry,GNQ,1.232251888424187e-06,EU27,2015
+1011,COD,Growing leguminous crops and oil seeds industry,GNQ,3.569300101975003e-05,EU27,2015
+1012,COD,Growing rice industry,GNQ,2.6044437829183095e-05,EU27,2015
+1013,COD,"Growing vegetables, roots, tubers industry",GNQ,0.00025208449917751076,EU27,2015
+1014,COD,Growing sugar beet and cane industry,GNQ,8.299352754833439e-05,EU27,2015
+1015,COD,Growing tobacco industry,GNQ,1.4228170500452258e-06,EU27,2015
+1016,COD,Growing fibre crops industry,GNQ,0.003556242679517971,EU27,2015
+1017,COD,Growing crops n.e.c. industry,GNQ,1.7947232617796596e-05,EU27,2015
+1018,COD,Growing grapes industry,GNQ,0.0,EU27,2015
+1019,COD,Growing fruits and nuts industry,GNQ,0.0018520337278321068,EU27,2015
+1020,COD,"Growing beverage crops (coffee, tea etc) industry",GNQ,2.1429628594999736e-05,EU27,2015
+1021,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,1.7666155590865558e-08,EU27,2015
+1022,COD,Seeds and plant propagation industry,GNQ,0.0,EU27,2015
+1023,COD,Raising of cattle industry,GNQ,0.00030778184824102866,EU27,2015
+1024,COD,Growing wheat industry,GRC,0.0,EU27,2015
+1025,COD,Growing maize industry,GRC,0.0,EU27,2015
+1026,COD,Growing cereals n.e.c industry,GRC,0.0,EU27,2015
+1027,COD,Growing leguminous crops and oil seeds industry,GRC,0.0,EU27,2015
+1028,COD,Growing rice industry,GRC,0.0,EU27,2015
+1029,COD,"Growing vegetables, roots, tubers industry",GRC,0.0,EU27,2015
+1030,COD,Growing sugar beet and cane industry,GRC,0.0,EU27,2015
+1031,COD,Growing tobacco industry,GRC,0.0,EU27,2015
+1032,COD,Growing fibre crops industry,GRC,0.0,EU27,2015
+1033,COD,Growing crops n.e.c. industry,GRC,0.0,EU27,2015
+1034,COD,Growing grapes industry,GRC,0.0,EU27,2015
+1035,COD,Growing fruits and nuts industry,GRC,0.0,EU27,2015
+1036,COD,"Growing beverage crops (coffee, tea etc) industry",GRC,0.0,EU27,2015
+1037,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,0.0,EU27,2015
+1038,COD,Seeds and plant propagation industry,GRC,0.0,EU27,2015
+1039,COD,Raising of cattle industry,GRC,0.0,EU27,2015
+1040,COD,Growing wheat industry,GTM,2.5958809513107725e-05,EU27,2015
+1041,COD,Growing maize industry,GTM,0.002191330325717921,EU27,2015
+1042,COD,Growing cereals n.e.c industry,GTM,7.220336001424639e-07,EU27,2015
+1043,COD,Growing leguminous crops and oil seeds industry,GTM,3.9541241179578736e-05,EU27,2015
+1044,COD,Growing rice industry,GTM,2.7373177402856857e-05,EU27,2015
+1045,COD,"Growing vegetables, roots, tubers industry",GTM,0.00019093299069997553,EU27,2015
+1046,COD,Growing sugar beet and cane industry,GTM,3.4760222625867434e-05,EU27,2015
+1047,COD,Growing tobacco industry,GTM,2.1362050036565492e-06,EU27,2015
+1048,COD,Growing fibre crops industry,GTM,0.0005032163736880636,EU27,2015
+1049,COD,Growing crops n.e.c. industry,GTM,1.0229435830579872e-05,EU27,2015
+1050,COD,Growing grapes industry,GTM,0.0,EU27,2015
+1051,COD,Growing fruits and nuts industry,GTM,0.001435042664707727,EU27,2015
+1052,COD,"Growing beverage crops (coffee, tea etc) industry",GTM,1.5386023963727763e-05,EU27,2015
+1053,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,1.798506098568305e-08,EU27,2015
+1054,COD,Seeds and plant propagation industry,GTM,0.0,EU27,2015
+1055,COD,Raising of cattle industry,GTM,0.0003573151124528077,EU27,2015
+1056,COD,Growing wheat industry,HND,1.3832753999594137e-05,EU27,2015
+1057,COD,Growing maize industry,HND,0.00111443232434808,EU27,2015
+1058,COD,Growing cereals n.e.c industry,HND,4.0817342551653686e-07,EU27,2015
+1059,COD,Growing leguminous crops and oil seeds industry,HND,1.9803372472090795e-05,EU27,2015
+1060,COD,Growing rice industry,HND,1.5060634953303125e-05,EU27,2015
+1061,COD,"Growing vegetables, roots, tubers industry",HND,9.992517981255448e-05,EU27,2015
+1062,COD,Growing sugar beet and cane industry,HND,1.6029473215873562e-05,EU27,2015
+1063,COD,Growing tobacco industry,HND,1.2605332380971974e-06,EU27,2015
+1064,COD,Growing fibre crops industry,HND,0.0003323655643122747,EU27,2015
+1065,COD,Growing crops n.e.c. industry,HND,5.556532197721539e-06,EU27,2015
+1066,COD,Growing grapes industry,HND,0.0,EU27,2015
+1067,COD,Growing fruits and nuts industry,HND,0.0008668983134385137,EU27,2015
+1068,COD,"Growing beverage crops (coffee, tea etc) industry",HND,1.0102072532264086e-05,EU27,2015
+1069,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,1.0074473926291446e-08,EU27,2015
+1070,COD,Seeds and plant propagation industry,HND,0.0,EU27,2015
+1071,COD,Raising of cattle industry,HND,0.00018269761812595998,EU27,2015
+1072,COD,Growing wheat industry,HKG,0.0005342382354148818,EU27,2015
+1073,COD,Growing maize industry,HKG,0.13209688785738471,EU27,2015
+1074,COD,Growing cereals n.e.c industry,HKG,2.4560333959945e-05,EU27,2015
+1075,COD,Growing leguminous crops and oil seeds industry,HKG,0.000958003985585864,EU27,2015
+1076,COD,Growing rice industry,HKG,0.0005546822961987055,EU27,2015
+1077,COD,"Growing vegetables, roots, tubers industry",HKG,0.004180058816123929,EU27,2015
+1078,COD,Growing sugar beet and cane industry,HKG,0.0006491897838198038,EU27,2015
+1079,COD,Growing tobacco industry,HKG,6.6779460670526e-05,EU27,2015
+1080,COD,Growing fibre crops industry,HKG,0.02083605081444251,EU27,2015
+1081,COD,Growing crops n.e.c. industry,HKG,0.0002990794096858217,EU27,2015
+1082,COD,Growing grapes industry,HKG,0.0,EU27,2015
+1083,COD,Growing fruits and nuts industry,HKG,0.03996153994210932,EU27,2015
+1084,COD,"Growing beverage crops (coffee, tea etc) industry",HKG,0.00040327958485547106,EU27,2015
+1085,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,4.1754925056188784e-07,EU27,2015
+1086,COD,Seeds and plant propagation industry,HKG,0.0,EU27,2015
+1087,COD,Raising of cattle industry,HKG,0.006969335677700824,EU27,2015
+1088,COD,Growing wheat industry,HRV,0.0,EU27,2015
+1089,COD,Growing maize industry,HRV,0.0,EU27,2015
+1090,COD,Growing cereals n.e.c industry,HRV,0.0,EU27,2015
+1091,COD,Growing leguminous crops and oil seeds industry,HRV,0.0,EU27,2015
+1092,COD,Growing rice industry,HRV,0.0,EU27,2015
+1093,COD,"Growing vegetables, roots, tubers industry",HRV,0.0,EU27,2015
+1094,COD,Growing sugar beet and cane industry,HRV,0.0,EU27,2015
+1095,COD,Growing tobacco industry,HRV,0.0,EU27,2015
+1096,COD,Growing fibre crops industry,HRV,0.0,EU27,2015
+1097,COD,Growing crops n.e.c. industry,HRV,0.0,EU27,2015
+1098,COD,Growing grapes industry,HRV,0.0,EU27,2015
+1099,COD,Growing fruits and nuts industry,HRV,0.0,EU27,2015
+1100,COD,"Growing beverage crops (coffee, tea etc) industry",HRV,0.0,EU27,2015
+1101,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,0.0,EU27,2015
+1102,COD,Seeds and plant propagation industry,HRV,0.0,EU27,2015
+1103,COD,Raising of cattle industry,HRV,0.0,EU27,2015
+1104,COD,Growing wheat industry,HTI,6.007214299557232e-06,EU27,2015
+1105,COD,Growing maize industry,HTI,0.0008858648640095421,EU27,2015
+1106,COD,Growing cereals n.e.c industry,HTI,1.875829181149726e-07,EU27,2015
+1107,COD,Growing leguminous crops and oil seeds industry,HTI,8.730637812887279e-06,EU27,2015
+1108,COD,Growing rice industry,HTI,5.720397238899756e-06,EU27,2015
+1109,COD,"Growing vegetables, roots, tubers industry",HTI,4.7001066700968675e-05,EU27,2015
+1110,COD,Growing sugar beet and cane industry,HTI,6.465136519309349e-06,EU27,2015
+1111,COD,Growing tobacco industry,HTI,4.856661165905159e-07,EU27,2015
+1112,COD,Growing fibre crops industry,HTI,0.00014655443931100044,EU27,2015
+1113,COD,Growing crops n.e.c. industry,HTI,2.355922400350336e-06,EU27,2015
+1114,COD,Growing grapes industry,HTI,0.0,EU27,2015
+1115,COD,Growing fruits and nuts industry,HTI,0.0003678090222748119,EU27,2015
+1116,COD,"Growing beverage crops (coffee, tea etc) industry",HTI,4.302192531250917e-06,EU27,2015
+1117,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,3.700337286017308e-09,EU27,2015
+1118,COD,Seeds and plant propagation industry,HTI,0.0,EU27,2015
+1119,COD,Raising of cattle industry,HTI,6.650233110984985e-05,EU27,2015
+1120,COD,Growing wheat industry,HUN,0.0,EU27,2015
+1121,COD,Growing maize industry,HUN,0.0,EU27,2015
+1122,COD,Growing cereals n.e.c industry,HUN,0.0,EU27,2015
+1123,COD,Growing leguminous crops and oil seeds industry,HUN,0.0,EU27,2015
+1124,COD,Growing rice industry,HUN,0.0,EU27,2015
+1125,COD,"Growing vegetables, roots, tubers industry",HUN,0.0,EU27,2015
+1126,COD,Growing sugar beet and cane industry,HUN,0.0,EU27,2015
+1127,COD,Growing tobacco industry,HUN,0.0,EU27,2015
+1128,COD,Growing fibre crops industry,HUN,0.0,EU27,2015
+1129,COD,Growing crops n.e.c. industry,HUN,0.0,EU27,2015
+1130,COD,Growing grapes industry,HUN,0.0,EU27,2015
+1131,COD,Growing fruits and nuts industry,HUN,0.0,EU27,2015
+1132,COD,"Growing beverage crops (coffee, tea etc) industry",HUN,0.0,EU27,2015
+1133,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,0.0,EU27,2015
+1134,COD,Seeds and plant propagation industry,HUN,0.0,EU27,2015
+1135,COD,Raising of cattle industry,HUN,0.0,EU27,2015
+1136,COD,Growing wheat industry,IDN,0.0003231326285348317,EU27,2015
+1137,COD,Growing maize industry,IDN,0.029922942646647202,EU27,2015
+1138,COD,Growing cereals n.e.c industry,IDN,1.0851163985486192e-05,EU27,2015
+1139,COD,Growing leguminous crops and oil seeds industry,IDN,0.0005148046642955801,EU27,2015
+1140,COD,Growing rice industry,IDN,0.00035745230468121344,EU27,2015
+1141,COD,"Growing vegetables, roots, tubers industry",IDN,0.0025455765830190266,EU27,2015
+1142,COD,Growing sugar beet and cane industry,IDN,0.000248118906760017,EU27,2015
+1143,COD,Growing tobacco industry,IDN,3.810079173589433e-05,EU27,2015
+1144,COD,Growing fibre crops industry,IDN,0.008537263825221878,EU27,2015
+1145,COD,Growing crops n.e.c. industry,IDN,0.00011993925381860649,EU27,2015
+1146,COD,Growing grapes industry,IDN,0.0,EU27,2015
+1147,COD,Growing fruits and nuts industry,IDN,0.015044326977699462,EU27,2015
+1148,COD,"Growing beverage crops (coffee, tea etc) industry",IDN,0.00020389219989443662,EU27,2015
+1149,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,2.5621255113579635e-07,EU27,2015
+1150,COD,Seeds and plant propagation industry,IDN,0.0,EU27,2015
+1151,COD,Raising of cattle industry,IDN,0.004352007255986961,EU27,2015
+1152,COD,Growing wheat industry,IND,0.0013279150519927866,EU27,2015
+1153,COD,Growing maize industry,IND,0.07432553473436904,EU27,2015
+1154,COD,Growing cereals n.e.c industry,IND,3.7530825604316725e-05,EU27,2015
+1155,COD,Growing leguminous crops and oil seeds industry,IND,0.002123034009795018,EU27,2015
+1156,COD,Growing rice industry,IND,0.001329270800034711,EU27,2015
+1157,COD,"Growing vegetables, roots, tubers industry",IND,0.009297285538116217,EU27,2015
+1158,COD,Growing sugar beet and cane industry,IND,0.0009837329257728414,EU27,2015
+1159,COD,Growing tobacco industry,IND,0.00012738018442880677,EU27,2015
+1160,COD,Growing fibre crops industry,IND,0.026231406524451127,EU27,2015
+1161,COD,Growing crops n.e.c. industry,IND,0.0004185697833006911,EU27,2015
+1162,COD,Growing grapes industry,IND,0.0,EU27,2015
+1163,COD,Growing fruits and nuts industry,IND,0.06062629826231397,EU27,2015
+1164,COD,"Growing beverage crops (coffee, tea etc) industry",IND,0.0007189605047843349,EU27,2015
+1165,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,9.769891789787405e-07,EU27,2015
+1166,COD,Seeds and plant propagation industry,IND,0.0,EU27,2015
+1167,COD,Raising of cattle industry,IND,0.01598249350495561,EU27,2015
+1168,COD,Growing wheat industry,IRL,0.0,EU27,2015
+1169,COD,Growing maize industry,IRL,0.0,EU27,2015
+1170,COD,Growing cereals n.e.c industry,IRL,0.0,EU27,2015
+1171,COD,Growing leguminous crops and oil seeds industry,IRL,0.0,EU27,2015
+1172,COD,Growing rice industry,IRL,0.0,EU27,2015
+1173,COD,"Growing vegetables, roots, tubers industry",IRL,0.0,EU27,2015
+1174,COD,Growing sugar beet and cane industry,IRL,0.0,EU27,2015
+1175,COD,Growing tobacco industry,IRL,0.0,EU27,2015
+1176,COD,Growing fibre crops industry,IRL,0.0,EU27,2015
+1177,COD,Growing crops n.e.c. industry,IRL,0.0,EU27,2015
+1178,COD,Growing grapes industry,IRL,0.0,EU27,2015
+1179,COD,Growing fruits and nuts industry,IRL,0.0,EU27,2015
+1180,COD,"Growing beverage crops (coffee, tea etc) industry",IRL,0.0,EU27,2015
+1181,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,0.0,EU27,2015
+1182,COD,Seeds and plant propagation industry,IRL,0.0,EU27,2015
+1183,COD,Raising of cattle industry,IRL,0.0,EU27,2015
+1184,COD,Growing wheat industry,IRN,0.0002969913315380804,EU27,2015
+1185,COD,Growing maize industry,IRN,0.018105008730355213,EU27,2015
+1186,COD,Growing cereals n.e.c industry,IRN,1.3607673249399164e-05,EU27,2015
+1187,COD,Growing leguminous crops and oil seeds industry,IRN,0.0004990618349429139,EU27,2015
+1188,COD,Growing rice industry,IRN,0.0003222409141733065,EU27,2015
+1189,COD,"Growing vegetables, roots, tubers industry",IRN,0.0021398217872697686,EU27,2015
+1190,COD,Growing sugar beet and cane industry,IRN,0.00023922580266071963,EU27,2015
+1191,COD,Growing tobacco industry,IRN,4.513575330429733e-05,EU27,2015
+1192,COD,Growing fibre crops industry,IRN,0.00950336245016879,EU27,2015
+1193,COD,Growing crops n.e.c. industry,IRN,0.0001195215905926472,EU27,2015
+1194,COD,Growing grapes industry,IRN,0.0,EU27,2015
+1195,COD,Growing fruits and nuts industry,IRN,0.01820826526185104,EU27,2015
+1196,COD,"Growing beverage crops (coffee, tea etc) industry",IRN,0.00020618732276482673,EU27,2015
+1197,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,2.395624731867126e-07,EU27,2015
+1198,COD,Seeds and plant propagation industry,IRN,0.0,EU27,2015
+1199,COD,Raising of cattle industry,IRN,0.004174540067569461,EU27,2015
+1200,COD,Growing wheat industry,IRQ,0.00026228535325531797,EU27,2015
+1201,COD,Growing maize industry,IRQ,0.024710217851018738,EU27,2015
+1202,COD,Growing cereals n.e.c industry,IRQ,1.2179000304440748e-05,EU27,2015
+1203,COD,Growing leguminous crops and oil seeds industry,IRQ,0.0004016934558734458,EU27,2015
+1204,COD,Growing rice industry,IRQ,0.00024353448877961151,EU27,2015
+1205,COD,"Growing vegetables, roots, tubers industry",IRQ,0.0032481319815669107,EU27,2015
+1206,COD,Growing sugar beet and cane industry,IRQ,0.000223239408470795,EU27,2015
+1207,COD,Growing tobacco industry,IRQ,7.03304254965835e-05,EU27,2015
+1208,COD,Growing fibre crops industry,IRQ,0.006052146241719883,EU27,2015
+1209,COD,Growing crops n.e.c. industry,IRQ,9.270119907727828e-05,EU27,2015
+1210,COD,Growing grapes industry,IRQ,0.0,EU27,2015
+1211,COD,Growing fruits and nuts industry,IRQ,0.013670231235052009,EU27,2015
+1212,COD,"Growing beverage crops (coffee, tea etc) industry",IRQ,0.00021340053767736193,EU27,2015
+1213,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,3.708467512657373e-07,EU27,2015
+1214,COD,Seeds and plant propagation industry,IRQ,0.0,EU27,2015
+1215,COD,Raising of cattle industry,IRQ,0.003049446096105014,EU27,2015
+1216,COD,Growing wheat industry,ISL,3.5008274689222324e-05,EU27,2015
+1217,COD,Growing maize industry,ISL,0.0026925311980382292,EU27,2015
+1218,COD,Growing cereals n.e.c industry,ISL,1.043951303102069e-06,EU27,2015
+1219,COD,Growing leguminous crops and oil seeds industry,ISL,5.726171840599607e-05,EU27,2015
+1220,COD,Growing rice industry,ISL,4.2649070356959155e-05,EU27,2015
+1221,COD,"Growing vegetables, roots, tubers industry",ISL,0.0003215105373320401,EU27,2015
+1222,COD,Growing sugar beet and cane industry,ISL,4.174236687900316e-05,EU27,2015
+1223,COD,Growing tobacco industry,ISL,6.950862209824471e-06,EU27,2015
+1224,COD,Growing fibre crops industry,ISL,0.0023772884119110586,EU27,2015
+1225,COD,Growing crops n.e.c. industry,ISL,1.2370243673411139e-05,EU27,2015
+1226,COD,Growing grapes industry,ISL,0.0,EU27,2015
+1227,COD,Growing fruits and nuts industry,ISL,0.0021707675917120024,EU27,2015
+1228,COD,"Growing beverage crops (coffee, tea etc) industry",ISL,3.262375167652432e-05,EU27,2015
+1229,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,3.9577155899495055e-08,EU27,2015
+1230,COD,Seeds and plant propagation industry,ISL,0.0,EU27,2015
+1231,COD,Raising of cattle industry,ISL,0.0005384201384784709,EU27,2015
+1232,COD,Growing wheat industry,ISR,0.00043692289363924546,EU27,2015
+1233,COD,Growing maize industry,ISR,0.035423684899831276,EU27,2015
+1234,COD,Growing cereals n.e.c industry,ISR,1.3963208132673028e-05,EU27,2015
+1235,COD,Growing leguminous crops and oil seeds industry,ISR,0.0007143668751186883,EU27,2015
+1236,COD,Growing rice industry,ISR,0.00039345866102616486,EU27,2015
+1237,COD,"Growing vegetables, roots, tubers industry",ISR,0.0059005161651989125,EU27,2015
+1238,COD,Growing sugar beet and cane industry,ISR,0.0003732231249524826,EU27,2015
+1239,COD,Growing tobacco industry,ISR,3.971078334054224e-05,EU27,2015
+1240,COD,Growing fibre crops industry,ISR,0.02991222646133877,EU27,2015
+1241,COD,Growing crops n.e.c. industry,ISR,0.00013807377657228822,EU27,2015
+1242,COD,Growing grapes industry,ISR,0.0,EU27,2015
+1243,COD,Growing fruits and nuts industry,ISR,0.02448392819932831,EU27,2015
+1244,COD,"Growing beverage crops (coffee, tea etc) industry",ISR,0.00027356742245080123,EU27,2015
+1245,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,2.843403354341958e-07,EU27,2015
+1246,COD,Seeds and plant propagation industry,ISR,0.0,EU27,2015
+1247,COD,Raising of cattle industry,ISR,0.005265052860929068,EU27,2015
+1248,COD,Growing wheat industry,ITA,0.0,EU27,2015
+1249,COD,Growing maize industry,ITA,0.0,EU27,2015
+1250,COD,Growing cereals n.e.c industry,ITA,0.0,EU27,2015
+1251,COD,Growing leguminous crops and oil seeds industry,ITA,0.0,EU27,2015
+1252,COD,Growing rice industry,ITA,0.0,EU27,2015
+1253,COD,"Growing vegetables, roots, tubers industry",ITA,0.0,EU27,2015
+1254,COD,Growing sugar beet and cane industry,ITA,0.0,EU27,2015
+1255,COD,Growing tobacco industry,ITA,0.0,EU27,2015
+1256,COD,Growing fibre crops industry,ITA,0.0,EU27,2015
+1257,COD,Growing crops n.e.c. industry,ITA,0.0,EU27,2015
+1258,COD,Growing grapes industry,ITA,0.0,EU27,2015
+1259,COD,Growing fruits and nuts industry,ITA,0.0,EU27,2015
+1260,COD,"Growing beverage crops (coffee, tea etc) industry",ITA,0.0,EU27,2015
+1261,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,0.0,EU27,2015
+1262,COD,Seeds and plant propagation industry,ITA,0.0,EU27,2015
+1263,COD,Raising of cattle industry,ITA,0.0,EU27,2015
+1264,COD,Growing wheat industry,JAM,8.67673303812846e-06,EU27,2015
+1265,COD,Growing maize industry,JAM,0.0014823740140602522,EU27,2015
+1266,COD,Growing cereals n.e.c industry,JAM,3.031719408755202e-07,EU27,2015
+1267,COD,Growing leguminous crops and oil seeds industry,JAM,1.3812236626808773e-05,EU27,2015
+1268,COD,Growing rice industry,JAM,8.647980358667194e-06,EU27,2015
+1269,COD,"Growing vegetables, roots, tubers industry",JAM,6.628219023930441e-05,EU27,2015
+1270,COD,Growing sugar beet and cane industry,JAM,9.352712311969547e-06,EU27,2015
+1271,COD,Growing tobacco industry,JAM,7.054150694330062e-07,EU27,2015
+1272,COD,Growing fibre crops industry,JAM,0.00017216835629412094,EU27,2015
+1273,COD,Growing crops n.e.c. industry,JAM,4.0467298682232695e-06,EU27,2015
+1274,COD,Growing grapes industry,JAM,0.0,EU27,2015
+1275,COD,Growing fruits and nuts industry,JAM,0.0004396933550562351,EU27,2015
+1276,COD,"Growing beverage crops (coffee, tea etc) industry",JAM,5.229040022131176e-06,EU27,2015
+1277,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,5.88569883278914e-09,EU27,2015
+1278,COD,Seeds and plant propagation industry,JAM,0.0,EU27,2015
+1279,COD,Raising of cattle industry,JAM,0.00011302804398655823,EU27,2015
+1280,COD,Growing wheat industry,JOR,6.658807032558412e-05,EU27,2015
+1281,COD,Growing maize industry,JOR,0.008235964325245692,EU27,2015
+1282,COD,Growing cereals n.e.c industry,JOR,4.715665174195435e-06,EU27,2015
+1283,COD,Growing leguminous crops and oil seeds industry,JOR,0.00010377682299227138,EU27,2015
+1284,COD,Growing rice industry,JOR,6.580386974425259e-05,EU27,2015
+1285,COD,"Growing vegetables, roots, tubers industry",JOR,0.0014185729835289502,EU27,2015
+1286,COD,Growing sugar beet and cane industry,JOR,6.190980957689944e-05,EU27,2015
+1287,COD,Growing tobacco industry,JOR,1.1673537032280558e-05,EU27,2015
+1288,COD,Growing fibre crops industry,JOR,0.004035695029471604,EU27,2015
+1289,COD,Growing crops n.e.c. industry,JOR,2.6419521920961418e-05,EU27,2015
+1290,COD,Growing grapes industry,JOR,0.0,EU27,2015
+1291,COD,Growing fruits and nuts industry,JOR,0.004731684358952873,EU27,2015
+1292,COD,"Growing beverage crops (coffee, tea etc) industry",JOR,5.190621661520655e-05,EU27,2015
+1293,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,6.930304783491034e-08,EU27,2015
+1294,COD,Seeds and plant propagation industry,JOR,0.0,EU27,2015
+1295,COD,Raising of cattle industry,JOR,0.0008599575621721844,EU27,2015
+1296,COD,Growing wheat industry,JPN,0.0014754760824565723,EU27,2015
+1297,COD,Growing maize industry,JPN,0.12450476899672386,EU27,2015
+1298,COD,Growing cereals n.e.c industry,JPN,4.9971050075188055e-05,EU27,2015
+1299,COD,Growing leguminous crops and oil seeds industry,JPN,0.002456369985047473,EU27,2015
+1300,COD,Growing rice industry,JPN,0.001357980676840212,EU27,2015
+1301,COD,"Growing vegetables, roots, tubers industry",JPN,0.010581442585557264,EU27,2015
+1302,COD,Growing sugar beet and cane industry,JPN,0.001341425047915141,EU27,2015
+1303,COD,Growing tobacco industry,JPN,0.00018745375563055845,EU27,2015
+1304,COD,Growing fibre crops industry,JPN,0.046800501123598286,EU27,2015
+1305,COD,Growing crops n.e.c. industry,JPN,0.0005097729108837394,EU27,2015
+1306,COD,Growing grapes industry,JPN,0.0,EU27,2015
+1307,COD,Growing fruits and nuts industry,JPN,0.07434616910713711,EU27,2015
+1308,COD,"Growing beverage crops (coffee, tea etc) industry",JPN,0.001131376475071265,EU27,2015
+1309,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,1.0763283042670595e-06,EU27,2015
+1310,COD,Seeds and plant propagation industry,JPN,0.0,EU27,2015
+1311,COD,Raising of cattle industry,JPN,0.016956924637546885,EU27,2015
+1312,COD,Growing wheat industry,KAZ,0.00013675534613811685,EU27,2015
+1313,COD,Growing maize industry,KAZ,0.010672389579112847,EU27,2015
+1314,COD,Growing cereals n.e.c industry,KAZ,7.096576557200915e-06,EU27,2015
+1315,COD,Growing leguminous crops and oil seeds industry,KAZ,0.0002038725035805764,EU27,2015
+1316,COD,Growing rice industry,KAZ,0.0001519521262259129,EU27,2015
+1317,COD,"Growing vegetables, roots, tubers industry",KAZ,0.001606922515431545,EU27,2015
+1318,COD,Growing sugar beet and cane industry,KAZ,0.00011953052316574573,EU27,2015
+1319,COD,Growing tobacco industry,KAZ,1.6130949617646802e-05,EU27,2015
+1320,COD,Growing fibre crops industry,KAZ,0.004456195981421818,EU27,2015
+1321,COD,Growing crops n.e.c. industry,KAZ,5.614424411032079e-05,EU27,2015
+1322,COD,Growing grapes industry,KAZ,0.0,EU27,2015
+1323,COD,Growing fruits and nuts industry,KAZ,0.00914764504872293,EU27,2015
+1324,COD,"Growing beverage crops (coffee, tea etc) industry",KAZ,0.00010762630697182578,EU27,2015
+1325,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,1.1849902876850937e-07,EU27,2015
+1326,COD,Seeds and plant propagation industry,KAZ,0.0,EU27,2015
+1327,COD,Raising of cattle industry,KAZ,0.0019463983056120975,EU27,2015
+1328,COD,Growing wheat industry,KEN,4.476806100100797e-05,EU27,2015
+1329,COD,Growing maize industry,KEN,0.0031110484138477607,EU27,2015
+1330,COD,Growing cereals n.e.c industry,KEN,1.112190419442285e-06,EU27,2015
+1331,COD,Growing leguminous crops and oil seeds industry,KEN,6.525455725185564e-05,EU27,2015
+1332,COD,Growing rice industry,KEN,4.7366016611038113e-05,EU27,2015
+1333,COD,"Growing vegetables, roots, tubers industry",KEN,0.000282134878823528,EU27,2015
+1334,COD,Growing sugar beet and cane industry,KEN,3.868026240738852e-05,EU27,2015
+1335,COD,Growing tobacco industry,KEN,3.5806799589283937e-06,EU27,2015
+1336,COD,Growing fibre crops industry,KEN,0.000782099121107479,EU27,2015
+1337,COD,Growing crops n.e.c. industry,KEN,1.6300528491868313e-05,EU27,2015
+1338,COD,Growing grapes industry,KEN,0.0,EU27,2015
+1339,COD,Growing fruits and nuts industry,KEN,0.002037688546092881,EU27,2015
+1340,COD,"Growing beverage crops (coffee, tea etc) industry",KEN,2.6199628412769366e-05,EU27,2015
+1341,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,3.097936828005128e-08,EU27,2015
+1342,COD,Seeds and plant propagation industry,KEN,0.0,EU27,2015
+1343,COD,Raising of cattle industry,KEN,0.0006267276604153185,EU27,2015
+1344,COD,Growing wheat industry,KGZ,8.219119212395113e-06,EU27,2015
+1345,COD,Growing maize industry,KGZ,0.0003055223465057313,EU27,2015
+1346,COD,Growing cereals n.e.c industry,KGZ,2.0419942468271755e-07,EU27,2015
+1347,COD,Growing leguminous crops and oil seeds industry,KGZ,1.061285956888653e-05,EU27,2015
+1348,COD,Growing rice industry,KGZ,9.14154375885843e-06,EU27,2015
+1349,COD,"Growing vegetables, roots, tubers industry",KGZ,5.6353948173544414e-05,EU27,2015
+1350,COD,Growing sugar beet and cane industry,KGZ,4.221489491207269e-06,EU27,2015
+1351,COD,Growing tobacco industry,KGZ,1.006328065984595e-06,EU27,2015
+1352,COD,Growing fibre crops industry,KGZ,0.0001027311314739457,EU27,2015
+1353,COD,Growing crops n.e.c. industry,KGZ,1.534891722064007e-06,EU27,2015
+1354,COD,Growing grapes industry,KGZ,0.0,EU27,2015
+1355,COD,Growing fruits and nuts industry,KGZ,0.00029380090507858455,EU27,2015
+1356,COD,"Growing beverage crops (coffee, tea etc) industry",KGZ,4.0020586735655365e-06,EU27,2015
+1357,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,5.935222657396791e-09,EU27,2015
+1358,COD,Seeds and plant propagation industry,KGZ,0.0,EU27,2015
+1359,COD,Raising of cattle industry,KGZ,8.244044898842109e-05,EU27,2015
+1360,COD,Growing wheat industry,KHM,1.4763034775108988e-05,EU27,2015
+1361,COD,Growing maize industry,KHM,0.0009987443351680992,EU27,2015
+1362,COD,Growing cereals n.e.c industry,KHM,3.7369181291194517e-07,EU27,2015
+1363,COD,Growing leguminous crops and oil seeds industry,KHM,2.4389714306892942e-05,EU27,2015
+1364,COD,Growing rice industry,KHM,1.5152663118467336e-05,EU27,2015
+1365,COD,"Growing vegetables, roots, tubers industry",KHM,0.00012333538716875685,EU27,2015
+1366,COD,Growing sugar beet and cane industry,KHM,1.3053740362066057e-05,EU27,2015
+1367,COD,Growing tobacco industry,KHM,1.54584400424866e-06,EU27,2015
+1368,COD,Growing fibre crops industry,KHM,0.00042936081026420105,EU27,2015
+1369,COD,Growing crops n.e.c. industry,KHM,4.749388513123133e-06,EU27,2015
+1370,COD,Growing grapes industry,KHM,0.0,EU27,2015
+1371,COD,Growing fruits and nuts industry,KHM,0.0007698495308867482,EU27,2015
+1372,COD,"Growing beverage crops (coffee, tea etc) industry",KHM,1.0600428275994682e-05,EU27,2015
+1373,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,1.1831581826628974e-08,EU27,2015
+1374,COD,Seeds and plant propagation industry,KHM,0.0,EU27,2015
+1375,COD,Raising of cattle industry,KHM,0.00018860174136551734,EU27,2015
+1376,COD,Growing wheat industry,KOR,0.0006808702770202936,EU27,2015
+1377,COD,Growing maize industry,KOR,0.06185217180384532,EU27,2015
+1378,COD,Growing cereals n.e.c industry,KOR,2.5837028257395965e-05,EU27,2015
+1379,COD,Growing leguminous crops and oil seeds industry,KOR,0.0011230369983384811,EU27,2015
+1380,COD,Growing rice industry,KOR,0.0007158033380328765,EU27,2015
+1381,COD,"Growing vegetables, roots, tubers industry",KOR,0.005508536670896213,EU27,2015
+1382,COD,Growing sugar beet and cane industry,KOR,0.0006316866485301966,EU27,2015
+1383,COD,Growing tobacco industry,KOR,8.35490759082537e-05,EU27,2015
+1384,COD,Growing fibre crops industry,KOR,0.05197414457217556,EU27,2015
+1385,COD,Growing crops n.e.c. industry,KOR,0.00026063713055047964,EU27,2015
+1386,COD,Growing grapes industry,KOR,0.0,EU27,2015
+1387,COD,Growing fruits and nuts industry,KOR,0.039664902489439297,EU27,2015
+1388,COD,"Growing beverage crops (coffee, tea etc) industry",KOR,0.0005138225053952554,EU27,2015
+1389,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,5.393374788075299e-07,EU27,2015
+1390,COD,Seeds and plant propagation industry,KOR,0.0,EU27,2015
+1391,COD,Raising of cattle industry,KOR,0.009039341369320924,EU27,2015
+1392,COD,Growing wheat industry,KWT,0.000169933591111918,EU27,2015
+1393,COD,Growing maize industry,KWT,0.02308614687798125,EU27,2015
+1394,COD,Growing cereals n.e.c industry,KWT,6.455393943476808e-06,EU27,2015
+1395,COD,Growing leguminous crops and oil seeds industry,KWT,0.0002889863306040091,EU27,2015
+1396,COD,Growing rice industry,KWT,0.00018169713695339218,EU27,2015
+1397,COD,"Growing vegetables, roots, tubers industry",KWT,0.0012187398577460527,EU27,2015
+1398,COD,Growing sugar beet and cane industry,KWT,0.00018277138025321553,EU27,2015
+1399,COD,Growing tobacco industry,KWT,1.6550229790904637e-05,EU27,2015
+1400,COD,Growing fibre crops industry,KWT,0.005388507256591436,EU27,2015
+1401,COD,Growing crops n.e.c. industry,KWT,8.406145532097581e-05,EU27,2015
+1402,COD,Growing grapes industry,KWT,0.0,EU27,2015
+1403,COD,Growing fruits and nuts industry,KWT,0.010583367929611827,EU27,2015
+1404,COD,"Growing beverage crops (coffee, tea etc) industry",KWT,0.00012779959617928227,EU27,2015
+1405,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,1.2501216995383722e-07,EU27,2015
+1406,COD,Seeds and plant propagation industry,KWT,0.0,EU27,2015
+1407,COD,Raising of cattle industry,KWT,0.0024144532365225177,EU27,2015
+1408,COD,Growing wheat industry,LAO,1.0496117559665228e-05,EU27,2015
+1409,COD,Growing maize industry,LAO,0.0005303231237270382,EU27,2015
+1410,COD,Growing cereals n.e.c industry,LAO,8.612061562514192e-06,EU27,2015
+1411,COD,Growing leguminous crops and oil seeds industry,LAO,1.6404122108661437e-05,EU27,2015
+1412,COD,Growing rice industry,LAO,1.3413942516192019e-05,EU27,2015
+1413,COD,"Growing vegetables, roots, tubers industry",LAO,7.18648971704836e-05,EU27,2015
+1414,COD,Growing sugar beet and cane industry,LAO,7.057994770037178e-06,EU27,2015
+1415,COD,Growing tobacco industry,LAO,8.739372265041326e-07,EU27,2015
+1416,COD,Growing fibre crops industry,LAO,0.00035000236613999286,EU27,2015
+1417,COD,Growing crops n.e.c. industry,LAO,3.5546715701931583e-06,EU27,2015
+1418,COD,Growing grapes industry,LAO,0.0,EU27,2015
+1419,COD,Growing fruits and nuts industry,LAO,0.0006267008084994638,EU27,2015
+1420,COD,"Growing beverage crops (coffee, tea etc) industry",LAO,1.612948036316909e-05,EU27,2015
+1421,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,4.7754233737705277e-08,EU27,2015
+1422,COD,Seeds and plant propagation industry,LAO,0.0,EU27,2015
+1423,COD,Raising of cattle industry,LAO,0.00018503741826822193,EU27,2015
+1424,COD,Growing wheat industry,LBN,0.00019232956962937688,EU27,2015
+1425,COD,Growing maize industry,LBN,0.027301162129130998,EU27,2015
+1426,COD,Growing cereals n.e.c industry,LBN,4.28890913809793e-06,EU27,2015
+1427,COD,Growing leguminous crops and oil seeds industry,LBN,0.00018337272474500894,EU27,2015
+1428,COD,Growing rice industry,LBN,0.00018708235764579447,EU27,2015
+1429,COD,"Growing vegetables, roots, tubers industry",LBN,0.0012330565738694283,EU27,2015
+1430,COD,Growing sugar beet and cane industry,LBN,0.0007589259384350078,EU27,2015
+1431,COD,Growing tobacco industry,LBN,9.620364803650227e-06,EU27,2015
+1432,COD,Growing fibre crops industry,LBN,0.019408873978947454,EU27,2015
+1433,COD,Growing crops n.e.c. industry,LBN,5.5192105072578245e-05,EU27,2015
+1434,COD,Growing grapes industry,LBN,0.0,EU27,2015
+1435,COD,Growing fruits and nuts industry,LBN,0.006015651293740267,EU27,2015
+1436,COD,"Growing beverage crops (coffee, tea etc) industry",LBN,7.279347624179331e-05,EU27,2015
+1437,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,8.06627975315917e-08,EU27,2015
+1438,COD,Seeds and plant propagation industry,LBN,0.0,EU27,2015
+1439,COD,Raising of cattle industry,LBN,0.0018430246289085305,EU27,2015
+1440,COD,Growing wheat industry,LBR,4.05472356363544e-06,EU27,2015
+1441,COD,Growing maize industry,LBR,0.00041752992444139326,EU27,2015
+1442,COD,Growing cereals n.e.c industry,LBR,1.0457547832021373e-07,EU27,2015
+1443,COD,Growing leguminous crops and oil seeds industry,LBR,6.100788631344347e-06,EU27,2015
+1444,COD,Growing rice industry,LBR,3.950576820578898e-06,EU27,2015
+1445,COD,"Growing vegetables, roots, tubers industry",LBR,3.511888001567063e-05,EU27,2015
+1446,COD,Growing sugar beet and cane industry,LBR,3.86285155097122e-06,EU27,2015
+1447,COD,Growing tobacco industry,LBR,3.40914853362987e-07,EU27,2015
+1448,COD,Growing fibre crops industry,LBR,7.087448605566863e-05,EU27,2015
+1449,COD,Growing crops n.e.c. industry,LBR,1.4874963626179007e-06,EU27,2015
+1450,COD,Growing grapes industry,LBR,0.0,EU27,2015
+1451,COD,Growing fruits and nuts industry,LBR,0.00023610521811554504,EU27,2015
+1452,COD,"Growing beverage crops (coffee, tea etc) industry",LBR,2.352659600549525e-06,EU27,2015
+1453,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,2.277264814745425e-09,EU27,2015
+1454,COD,Seeds and plant propagation industry,LBR,0.0,EU27,2015
+1455,COD,Raising of cattle industry,LBR,4.774420037160399e-05,EU27,2015
+1456,COD,Growing wheat industry,LBY,9.788479226593927e-05,EU27,2015
+1457,COD,Growing maize industry,LBY,0.029586725581769783,EU27,2015
+1458,COD,Growing cereals n.e.c industry,LBY,4.669273631955769e-06,EU27,2015
+1459,COD,Growing leguminous crops and oil seeds industry,LBY,0.00012328962433290583,EU27,2015
+1460,COD,Growing rice industry,LBY,0.00011186113311500654,EU27,2015
+1461,COD,"Growing vegetables, roots, tubers industry",LBY,0.0009808201467515708,EU27,2015
+1462,COD,Growing sugar beet and cane industry,LBY,0.0008740454952354205,EU27,2015
+1463,COD,Growing tobacco industry,LBY,6.4869712305482945e-06,EU27,2015
+1464,COD,Growing fibre crops industry,LBY,0.002300469397822339,EU27,2015
+1465,COD,Growing crops n.e.c. industry,LBY,5.4226495164796006e-05,EU27,2015
+1466,COD,Growing grapes industry,LBY,0.0,EU27,2015
+1467,COD,Growing fruits and nuts industry,LBY,0.004626141233739874,EU27,2015
+1468,COD,"Growing beverage crops (coffee, tea etc) industry",LBY,6.074481087628916e-05,EU27,2015
+1469,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,5.9304685561854354e-08,EU27,2015
+1470,COD,Seeds and plant propagation industry,LBY,0.0,EU27,2015
+1471,COD,Raising of cattle industry,LBY,0.001593333365253626,EU27,2015
+1472,COD,Growing wheat industry,LKA,2.9089565815026016e-05,EU27,2015
+1473,COD,Growing maize industry,LKA,0.0026713153703708608,EU27,2015
+1474,COD,Growing cereals n.e.c industry,LKA,1.1080182768469335e-06,EU27,2015
+1475,COD,Growing leguminous crops and oil seeds industry,LKA,4.9823857438304556e-05,EU27,2015
+1476,COD,Growing rice industry,LKA,3.248210387260627e-05,EU27,2015
+1477,COD,"Growing vegetables, roots, tubers industry",LKA,0.00019433610331175968,EU27,2015
+1478,COD,Growing sugar beet and cane industry,LKA,2.4513255029333464e-05,EU27,2015
+1479,COD,Growing tobacco industry,LKA,3.5750592792862883e-06,EU27,2015
+1480,COD,Growing fibre crops industry,LKA,0.000519103434042406,EU27,2015
+1481,COD,Growing crops n.e.c. industry,LKA,1.1905478119869351e-05,EU27,2015
+1482,COD,Growing grapes industry,LKA,0.0,EU27,2015
+1483,COD,Growing fruits and nuts industry,LKA,0.001512205502884681,EU27,2015
+1484,COD,"Growing beverage crops (coffee, tea etc) industry",LKA,1.902951109760416e-05,EU27,2015
+1485,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,2.10216001298699e-08,EU27,2015
+1486,COD,Seeds and plant propagation industry,LKA,0.0,EU27,2015
+1487,COD,Raising of cattle industry,LKA,0.00043282135161526214,EU27,2015
+1488,COD,Growing wheat industry,LTU,0.0,EU27,2015
+1489,COD,Growing maize industry,LTU,0.0,EU27,2015
+1490,COD,Growing cereals n.e.c industry,LTU,0.0,EU27,2015
+1491,COD,Growing leguminous crops and oil seeds industry,LTU,0.0,EU27,2015
+1492,COD,Growing rice industry,LTU,0.0,EU27,2015
+1493,COD,"Growing vegetables, roots, tubers industry",LTU,0.0,EU27,2015
+1494,COD,Growing sugar beet and cane industry,LTU,0.0,EU27,2015
+1495,COD,Growing tobacco industry,LTU,0.0,EU27,2015
+1496,COD,Growing fibre crops industry,LTU,0.0,EU27,2015
+1497,COD,Growing crops n.e.c. industry,LTU,0.0,EU27,2015
+1498,COD,Growing grapes industry,LTU,0.0,EU27,2015
+1499,COD,Growing fruits and nuts industry,LTU,0.0,EU27,2015
+1500,COD,"Growing beverage crops (coffee, tea etc) industry",LTU,0.0,EU27,2015
+1501,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,0.0,EU27,2015
+1502,COD,Seeds and plant propagation industry,LTU,0.0,EU27,2015
+1503,COD,Raising of cattle industry,LTU,0.0,EU27,2015
+1504,COD,Growing wheat industry,LUX,0.0,EU27,2015
+1505,COD,Growing maize industry,LUX,0.0,EU27,2015
+1506,COD,Growing cereals n.e.c industry,LUX,0.0,EU27,2015
+1507,COD,Growing leguminous crops and oil seeds industry,LUX,0.0,EU27,2015
+1508,COD,Growing rice industry,LUX,0.0,EU27,2015
+1509,COD,"Growing vegetables, roots, tubers industry",LUX,0.0,EU27,2015
+1510,COD,Growing sugar beet and cane industry,LUX,0.0,EU27,2015
+1511,COD,Growing tobacco industry,LUX,0.0,EU27,2015
+1512,COD,Growing fibre crops industry,LUX,0.0,EU27,2015
+1513,COD,Growing crops n.e.c. industry,LUX,0.0,EU27,2015
+1514,COD,Growing grapes industry,LUX,0.0,EU27,2015
+1515,COD,Growing fruits and nuts industry,LUX,0.0,EU27,2015
+1516,COD,"Growing beverage crops (coffee, tea etc) industry",LUX,0.0,EU27,2015
+1517,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,0.0,EU27,2015
+1518,COD,Seeds and plant propagation industry,LUX,0.0,EU27,2015
+1519,COD,Raising of cattle industry,LUX,0.0,EU27,2015
+1520,COD,Growing wheat industry,LVA,0.0,EU27,2015
+1521,COD,Growing maize industry,LVA,0.0,EU27,2015
+1522,COD,Growing cereals n.e.c industry,LVA,0.0,EU27,2015
+1523,COD,Growing leguminous crops and oil seeds industry,LVA,0.0,EU27,2015
+1524,COD,Growing rice industry,LVA,0.0,EU27,2015
+1525,COD,"Growing vegetables, roots, tubers industry",LVA,0.0,EU27,2015
+1526,COD,Growing sugar beet and cane industry,LVA,0.0,EU27,2015
+1527,COD,Growing tobacco industry,LVA,0.0,EU27,2015
+1528,COD,Growing fibre crops industry,LVA,0.0,EU27,2015
+1529,COD,Growing crops n.e.c. industry,LVA,0.0,EU27,2015
+1530,COD,Growing grapes industry,LVA,0.0,EU27,2015
+1531,COD,Growing fruits and nuts industry,LVA,0.0,EU27,2015
+1532,COD,"Growing beverage crops (coffee, tea etc) industry",LVA,0.0,EU27,2015
+1533,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,0.0,EU27,2015
+1534,COD,Seeds and plant propagation industry,LVA,0.0,EU27,2015
+1535,COD,Raising of cattle industry,LVA,0.0,EU27,2015
+1536,COD,Growing wheat industry,MAR,0.00039646554445746813,EU27,2015
+1537,COD,Growing maize industry,MAR,0.022960201595879998,EU27,2015
+1538,COD,Growing cereals n.e.c industry,MAR,5.489009411450505e-06,EU27,2015
+1539,COD,Growing leguminous crops and oil seeds industry,MAR,0.000454067469931528,EU27,2015
+1540,COD,Growing rice industry,MAR,0.00037354722642792763,EU27,2015
+1541,COD,"Growing vegetables, roots, tubers industry",MAR,0.003562807153442401,EU27,2015
+1542,COD,Growing sugar beet and cane industry,MAR,0.0006316000250524307,EU27,2015
+1543,COD,Growing tobacco industry,MAR,2.1843461160848997e-05,EU27,2015
+1544,COD,Growing fibre crops industry,MAR,0.05599020031500764,EU27,2015
+1545,COD,Growing crops n.e.c. industry,MAR,9.365558453121179e-05,EU27,2015
+1546,COD,Growing grapes industry,MAR,0.0,EU27,2015
+1547,COD,Growing fruits and nuts industry,MAR,0.01227796411211513,EU27,2015
+1548,COD,"Growing beverage crops (coffee, tea etc) industry",MAR,0.00018043837598168027,EU27,2015
+1549,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,2.4987119138836083e-07,EU27,2015
+1550,COD,Seeds and plant propagation industry,MAR,0.0,EU27,2015
+1551,COD,Raising of cattle industry,MAR,0.003957543482974833,EU27,2015
+1552,COD,Growing wheat industry,MDA,2.212892386448791e-05,EU27,2015
+1553,COD,Growing maize industry,MDA,0.0033749615895465185,EU27,2015
+1554,COD,Growing cereals n.e.c industry,MDA,1.3908861648369781e-06,EU27,2015
+1555,COD,Growing leguminous crops and oil seeds industry,MDA,3.377891934514062e-05,EU27,2015
+1556,COD,Growing rice industry,MDA,3.206937397172054e-05,EU27,2015
+1557,COD,"Growing vegetables, roots, tubers industry",MDA,0.0002641292218884331,EU27,2015
+1558,COD,Growing sugar beet and cane industry,MDA,2.0082953943784603e-05,EU27,2015
+1559,COD,Growing tobacco industry,MDA,2.4097687508341345e-06,EU27,2015
+1560,COD,Growing fibre crops industry,MDA,0.0004195377765153681,EU27,2015
+1561,COD,Growing crops n.e.c. industry,MDA,1.2077589731988517e-05,EU27,2015
+1562,COD,Growing grapes industry,MDA,0.0,EU27,2015
+1563,COD,Growing fruits and nuts industry,MDA,0.0021251339981742633,EU27,2015
+1564,COD,"Growing beverage crops (coffee, tea etc) industry",MDA,4.19153218239949e-05,EU27,2015
+1565,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.603616443240367e-08,EU27,2015
+1566,COD,Seeds and plant propagation industry,MDA,0.0,EU27,2015
+1567,COD,Raising of cattle industry,MDA,0.00042296390380111966,EU27,2015
+1568,COD,Growing wheat industry,MDG,1.823691574057244e-05,EU27,2015
+1569,COD,Growing maize industry,MDG,0.0008163483621236611,EU27,2015
+1570,COD,Growing cereals n.e.c industry,MDG,2.8698923245353095e-07,EU27,2015
+1571,COD,Growing leguminous crops and oil seeds industry,MDG,2.6463560413129796e-05,EU27,2015
+1572,COD,Growing rice industry,MDG,4.446088873713219e-05,EU27,2015
+1573,COD,"Growing vegetables, roots, tubers industry",MDG,0.00010911023597621023,EU27,2015
+1574,COD,Growing sugar beet and cane industry,MDG,1.657568769480754e-05,EU27,2015
+1575,COD,Growing tobacco industry,MDG,1.5101424943742475e-06,EU27,2015
+1576,COD,Growing fibre crops industry,MDG,0.0005514505548311009,EU27,2015
+1577,COD,Growing crops n.e.c. industry,MDG,8.29366194042011e-06,EU27,2015
+1578,COD,Growing grapes industry,MDG,0.0,EU27,2015
+1579,COD,Growing fruits and nuts industry,MDG,0.0005879223360886463,EU27,2015
+1580,COD,"Growing beverage crops (coffee, tea etc) industry",MDG,8.599502748947262e-06,EU27,2015
+1581,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,1.000959154956381e-08,EU27,2015
+1582,COD,Seeds and plant propagation industry,MDG,0.0,EU27,2015
+1583,COD,Raising of cattle industry,MDG,0.0002025414241780467,EU27,2015
+1584,COD,Growing wheat industry,MEX,0.0005755725419935927,EU27,2015
+1585,COD,Growing maize industry,MEX,0.06199478240445152,EU27,2015
+1586,COD,Growing cereals n.e.c industry,MEX,2.1105160700354278e-05,EU27,2015
+1587,COD,Growing leguminous crops and oil seeds industry,MEX,0.0008838038459580343,EU27,2015
+1588,COD,Growing rice industry,MEX,0.0006293961006230519,EU27,2015
+1589,COD,"Growing vegetables, roots, tubers industry",MEX,0.005168187213193551,EU27,2015
+1590,COD,Growing sugar beet and cane industry,MEX,0.0009695324625453124,EU27,2015
+1591,COD,Growing tobacco industry,MEX,5.365841506616243e-05,EU27,2015
+1592,COD,Growing fibre crops industry,MEX,0.02958155481331766,EU27,2015
+1593,COD,Growing crops n.e.c. industry,MEX,0.0002447690415089872,EU27,2015
+1594,COD,Growing grapes industry,MEX,0.0,EU27,2015
+1595,COD,Growing fruits and nuts industry,MEX,0.03243668959588021,EU27,2015
+1596,COD,"Growing beverage crops (coffee, tea etc) industry",MEX,0.0003723876311864353,EU27,2015
+1597,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,4.199928976454457e-07,EU27,2015
+1598,COD,Seeds and plant propagation industry,MEX,0.0,EU27,2015
+1599,COD,Raising of cattle industry,MEX,0.007968836749731563,EU27,2015
+1600,COD,Growing wheat industry,MKD,3.418895052281603e-05,EU27,2015
+1601,COD,Growing maize industry,MKD,0.0029867862319167015,EU27,2015
+1602,COD,Growing cereals n.e.c industry,MKD,2.1683199652922145e-06,EU27,2015
+1603,COD,Growing leguminous crops and oil seeds industry,MKD,5.532624394722505e-05,EU27,2015
+1604,COD,Growing rice industry,MKD,6.0291348740041174e-05,EU27,2015
+1605,COD,"Growing vegetables, roots, tubers industry",MKD,0.0002750618215072675,EU27,2015
+1606,COD,Growing sugar beet and cane industry,MKD,3.009732769798956e-05,EU27,2015
+1607,COD,Growing tobacco industry,MKD,3.385337480281376e-06,EU27,2015
+1608,COD,Growing fibre crops industry,MKD,0.00045467634312592995,EU27,2015
+1609,COD,Growing crops n.e.c. industry,MKD,1.9568328699008858e-05,EU27,2015
+1610,COD,Growing grapes industry,MKD,0.0,EU27,2015
+1611,COD,Growing fruits and nuts industry,MKD,0.004288781689443214,EU27,2015
+1612,COD,"Growing beverage crops (coffee, tea etc) industry",MKD,3.9120126511666016e-05,EU27,2015
+1613,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,4.599611783848352e-08,EU27,2015
+1614,COD,Seeds and plant propagation industry,MKD,0.0,EU27,2015
+1615,COD,Raising of cattle industry,MKD,0.0010363225175521649,EU27,2015
+1616,COD,Growing wheat industry,MLI,2.4603579308137025e-05,EU27,2015
+1617,COD,Growing maize industry,MLI,0.002438230572977909,EU27,2015
+1618,COD,Growing cereals n.e.c industry,MLI,7.496173570362027e-07,EU27,2015
+1619,COD,Growing leguminous crops and oil seeds industry,MLI,3.770656653267161e-05,EU27,2015
+1620,COD,Growing rice industry,MLI,2.4327795590210488e-05,EU27,2015
+1621,COD,"Growing vegetables, roots, tubers industry",MLI,0.0001507643336053357,EU27,2015
+1622,COD,Growing sugar beet and cane industry,MLI,2.3068615397876216e-05,EU27,2015
+1623,COD,Growing tobacco industry,MLI,1.6923428074799755e-06,EU27,2015
+1624,COD,Growing fibre crops industry,MLI,0.0005831421689950014,EU27,2015
+1625,COD,Growing crops n.e.c. industry,MLI,9.377708648177538e-06,EU27,2015
+1626,COD,Growing grapes industry,MLI,0.0,EU27,2015
+1627,COD,Growing fruits and nuts industry,MLI,0.0010826150142856238,EU27,2015
+1628,COD,"Growing beverage crops (coffee, tea etc) industry",MLI,1.1925489228058438e-05,EU27,2015
+1629,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,1.488837033658848e-08,EU27,2015
+1630,COD,Seeds and plant propagation industry,MLI,0.0,EU27,2015
+1631,COD,Raising of cattle industry,MLI,0.00031969763208088034,EU27,2015
+1632,COD,Growing wheat industry,MLT,0.0,EU27,2015
+1633,COD,Growing maize industry,MLT,0.0,EU27,2015
+1634,COD,Growing cereals n.e.c industry,MLT,0.0,EU27,2015
+1635,COD,Growing leguminous crops and oil seeds industry,MLT,0.0,EU27,2015
+1636,COD,Growing rice industry,MLT,0.0,EU27,2015
+1637,COD,"Growing vegetables, roots, tubers industry",MLT,0.0,EU27,2015
+1638,COD,Growing sugar beet and cane industry,MLT,0.0,EU27,2015
+1639,COD,Growing tobacco industry,MLT,0.0,EU27,2015
+1640,COD,Growing fibre crops industry,MLT,0.0,EU27,2015
+1641,COD,Growing crops n.e.c. industry,MLT,0.0,EU27,2015
+1642,COD,Growing grapes industry,MLT,0.0,EU27,2015
+1643,COD,Growing fruits and nuts industry,MLT,0.0,EU27,2015
+1644,COD,"Growing beverage crops (coffee, tea etc) industry",MLT,0.0,EU27,2015
+1645,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,0.0,EU27,2015
+1646,COD,Seeds and plant propagation industry,MLT,0.0,EU27,2015
+1647,COD,Raising of cattle industry,MLT,0.0,EU27,2015
+1648,COD,Growing wheat industry,MMR,4.479206676158484e-05,EU27,2015
+1649,COD,Growing maize industry,MMR,0.005209899858980906,EU27,2015
+1650,COD,Growing cereals n.e.c industry,MMR,1.4495078390676275e-06,EU27,2015
+1651,COD,Growing leguminous crops and oil seeds industry,MMR,7.59986031411547e-05,EU27,2015
+1652,COD,Growing rice industry,MMR,4.992558078729324e-05,EU27,2015
+1653,COD,"Growing vegetables, roots, tubers industry",MMR,0.00033550227389289464,EU27,2015
+1654,COD,Growing sugar beet and cane industry,MMR,5.625674075313649e-05,EU27,2015
+1655,COD,Growing tobacco industry,MMR,6.018780961914359e-06,EU27,2015
+1656,COD,Growing fibre crops industry,MMR,0.0009785287546923353,EU27,2015
+1657,COD,Growing crops n.e.c. industry,MMR,1.5912489092158683e-05,EU27,2015
+1658,COD,Growing grapes industry,MMR,0.0,EU27,2015
+1659,COD,Growing fruits and nuts industry,MMR,0.002142309089982326,EU27,2015
+1660,COD,"Growing beverage crops (coffee, tea etc) industry",MMR,2.8499208184620634e-05,EU27,2015
+1661,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,3.461957486537281e-08,EU27,2015
+1662,COD,Seeds and plant propagation industry,MMR,0.0,EU27,2015
+1663,COD,Raising of cattle industry,MMR,0.0005514574502819377,EU27,2015
+1664,COD,Growing wheat industry,MNG,8.83991918303414e-06,EU27,2015
+1665,COD,Growing maize industry,MNG,0.0012179311374924426,EU27,2015
+1666,COD,Growing cereals n.e.c industry,MNG,3.959764732775428e-07,EU27,2015
+1667,COD,Growing leguminous crops and oil seeds industry,MNG,1.3394711057654184e-05,EU27,2015
+1668,COD,Growing rice industry,MNG,9.554086217158377e-06,EU27,2015
+1669,COD,"Growing vegetables, roots, tubers industry",MNG,7.775355290985905e-05,EU27,2015
+1670,COD,Growing sugar beet and cane industry,MNG,8.166293801266753e-06,EU27,2015
+1671,COD,Growing tobacco industry,MNG,8.643091365889032e-07,EU27,2015
+1672,COD,Growing fibre crops industry,MNG,0.00012295186956205457,EU27,2015
+1673,COD,Growing crops n.e.c. industry,MNG,4.113212570140529e-06,EU27,2015
+1674,COD,Growing grapes industry,MNG,0.0,EU27,2015
+1675,COD,Growing fruits and nuts industry,MNG,0.0005379322503717941,EU27,2015
+1676,COD,"Growing beverage crops (coffee, tea etc) industry",MNG,5.956188902758805e-06,EU27,2015
+1677,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,7.164830966588396e-09,EU27,2015
+1678,COD,Seeds and plant propagation industry,MNG,0.0,EU27,2015
+1679,COD,Raising of cattle industry,MNG,0.0001252773351360219,EU27,2015
+1680,COD,Growing wheat industry,MOZ,2.4813118819833127e-05,EU27,2015
+1681,COD,Growing maize industry,MOZ,0.0015048929690856154,EU27,2015
+1682,COD,Growing cereals n.e.c industry,MOZ,4.6497921316792436e-07,EU27,2015
+1683,COD,Growing leguminous crops and oil seeds industry,MOZ,3.142072600959922e-05,EU27,2015
+1684,COD,Growing rice industry,MOZ,2.689901712026373e-05,EU27,2015
+1685,COD,"Growing vegetables, roots, tubers industry",MOZ,0.00017502762787102418,EU27,2015
+1686,COD,Growing sugar beet and cane industry,MOZ,4.710897891496129e-05,EU27,2015
+1687,COD,Growing tobacco industry,MOZ,1.6700763224085513e-06,EU27,2015
+1688,COD,Growing fibre crops industry,MOZ,0.01364350236874117,EU27,2015
+1689,COD,Growing crops n.e.c. industry,MOZ,7.968906234936159e-06,EU27,2015
+1690,COD,Growing grapes industry,MOZ,0.0,EU27,2015
+1691,COD,Growing fruits and nuts industry,MOZ,0.000985380393672406,EU27,2015
+1692,COD,"Growing beverage crops (coffee, tea etc) industry",MOZ,1.5201349021925116e-05,EU27,2015
+1693,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,1.2947960151734915e-08,EU27,2015
+1694,COD,Seeds and plant propagation industry,MOZ,0.0,EU27,2015
+1695,COD,Raising of cattle industry,MOZ,0.0003319995867389492,EU27,2015
+1696,COD,Growing wheat industry,MRT,2.5297810008919688e-05,EU27,2015
+1697,COD,Growing maize industry,MRT,0.002243784551355465,EU27,2015
+1698,COD,Growing cereals n.e.c industry,MRT,3.799592805513137e-07,EU27,2015
+1699,COD,Growing leguminous crops and oil seeds industry,MRT,3.5362816399408286e-05,EU27,2015
+1700,COD,Growing rice industry,MRT,1.6599787772460168e-05,EU27,2015
+1701,COD,"Growing vegetables, roots, tubers industry",MRT,0.0001485252091244049,EU27,2015
+1702,COD,Growing sugar beet and cane industry,MRT,2.0639107808784635e-05,EU27,2015
+1703,COD,Growing tobacco industry,MRT,2.357069341866286e-06,EU27,2015
+1704,COD,Growing fibre crops industry,MRT,0.0006831541325952221,EU27,2015
+1705,COD,Growing crops n.e.c. industry,MRT,5.643914751894249e-06,EU27,2015
+1706,COD,Growing grapes industry,MRT,0.0,EU27,2015
+1707,COD,Growing fruits and nuts industry,MRT,0.0007289386918884466,EU27,2015
+1708,COD,"Growing beverage crops (coffee, tea etc) industry",MRT,9.59428525035874e-06,EU27,2015
+1709,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.7699520792105798e-08,EU27,2015
+1710,COD,Seeds and plant propagation industry,MRT,0.0,EU27,2015
+1711,COD,Raising of cattle industry,MRT,0.00017260030580984904,EU27,2015
+1712,COD,Growing wheat industry,MWI,6.4975038314449185e-06,EU27,2015
+1713,COD,Growing maize industry,MWI,0.0006168593447773668,EU27,2015
+1714,COD,Growing cereals n.e.c industry,MWI,1.8837704236225652e-07,EU27,2015
+1715,COD,Growing leguminous crops and oil seeds industry,MWI,9.596154655383739e-06,EU27,2015
+1716,COD,Growing rice industry,MWI,7.650000020907654e-06,EU27,2015
+1717,COD,"Growing vegetables, roots, tubers industry",MWI,3.762827735201742e-05,EU27,2015
+1718,COD,Growing sugar beet and cane industry,MWI,5.805889732794787e-06,EU27,2015
+1719,COD,Growing tobacco industry,MWI,4.691099818714566e-07,EU27,2015
+1720,COD,Growing fibre crops industry,MWI,0.0003436747601450438,EU27,2015
+1721,COD,Growing crops n.e.c. industry,MWI,2.489758035980978e-06,EU27,2015
+1722,COD,Growing grapes industry,MWI,0.0,EU27,2015
+1723,COD,Growing fruits and nuts industry,MWI,0.00025556599546123143,EU27,2015
+1724,COD,"Growing beverage crops (coffee, tea etc) industry",MWI,3.7390742365725583e-06,EU27,2015
+1725,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,5.487129616910753e-09,EU27,2015
+1726,COD,Seeds and plant propagation industry,MWI,0.0,EU27,2015
+1727,COD,Raising of cattle industry,MWI,0.00010685683260851018,EU27,2015
+1728,COD,Growing wheat industry,MYS,0.0002553790626445984,EU27,2015
+1729,COD,Growing maize industry,MYS,0.032785418510585904,EU27,2015
+1730,COD,Growing cereals n.e.c industry,MYS,1.0092550750924668e-05,EU27,2015
+1731,COD,Growing leguminous crops and oil seeds industry,MYS,0.00045070215537219713,EU27,2015
+1732,COD,Growing rice industry,MYS,0.00026122943609020087,EU27,2015
+1733,COD,"Growing vegetables, roots, tubers industry",MYS,0.0019390041407656095,EU27,2015
+1734,COD,Growing sugar beet and cane industry,MYS,0.00022858357897163016,EU27,2015
+1735,COD,Growing tobacco industry,MYS,3.7231097910814754e-05,EU27,2015
+1736,COD,Growing fibre crops industry,MYS,0.0160938761777636,EU27,2015
+1737,COD,Growing crops n.e.c. industry,MYS,0.000101717024935116,EU27,2015
+1738,COD,Growing grapes industry,MYS,0.0,EU27,2015
+1739,COD,Growing fruits and nuts industry,MYS,0.014045463316423914,EU27,2015
+1740,COD,"Growing beverage crops (coffee, tea etc) industry",MYS,0.00019296030470490106,EU27,2015
+1741,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,2.0801014434158768e-07,EU27,2015
+1742,COD,Seeds and plant propagation industry,MYS,0.0,EU27,2015
+1743,COD,Raising of cattle industry,MYS,0.003314588229941719,EU27,2015
+1744,COD,Growing wheat industry,NAM,1.9064545066815948e-05,EU27,2015
+1745,COD,Growing maize industry,NAM,0.0010588084420966746,EU27,2015
+1746,COD,Growing cereals n.e.c industry,NAM,4.6210241104694516e-07,EU27,2015
+1747,COD,Growing leguminous crops and oil seeds industry,NAM,2.3031689769950738e-05,EU27,2015
+1748,COD,Growing rice industry,NAM,1.8354188194242194e-05,EU27,2015
+1749,COD,"Growing vegetables, roots, tubers industry",NAM,0.00013294664095531099,EU27,2015
+1750,COD,Growing sugar beet and cane industry,NAM,1.3575979095479559e-05,EU27,2015
+1751,COD,Growing tobacco industry,NAM,1.2284166388126406e-06,EU27,2015
+1752,COD,Growing fibre crops industry,NAM,0.0009505303433325703,EU27,2015
+1753,COD,Growing crops n.e.c. industry,NAM,5.4903695629320694e-06,EU27,2015
+1754,COD,Growing grapes industry,NAM,0.0,EU27,2015
+1755,COD,Growing fruits and nuts industry,NAM,0.0009998931680367015,EU27,2015
+1756,COD,"Growing beverage crops (coffee, tea etc) industry",NAM,1.5711689896865983e-05,EU27,2015
+1757,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,1.0860034852822952e-08,EU27,2015
+1758,COD,Seeds and plant propagation industry,NAM,0.0,EU27,2015
+1759,COD,Raising of cattle industry,NAM,0.00019032285101784664,EU27,2015
+1760,COD,Growing wheat industry,NER,1.1434401236301507e-05,EU27,2015
+1761,COD,Growing maize industry,NER,0.0009649587427204085,EU27,2015
+1762,COD,Growing cereals n.e.c industry,NER,2.1300642568586526e-07,EU27,2015
+1763,COD,Growing leguminous crops and oil seeds industry,NER,1.75550490152332e-05,EU27,2015
+1764,COD,Growing rice industry,NER,9.043700683827626e-06,EU27,2015
+1765,COD,"Growing vegetables, roots, tubers industry",NER,6.791929661518273e-05,EU27,2015
+1766,COD,Growing sugar beet and cane industry,NER,8.350468360004681e-06,EU27,2015
+1767,COD,Growing tobacco industry,NER,8.394839299167334e-07,EU27,2015
+1768,COD,Growing fibre crops industry,NER,0.00015425086855537284,EU27,2015
+1769,COD,Growing crops n.e.c. industry,NER,3.2360293359881578e-06,EU27,2015
+1770,COD,Growing grapes industry,NER,0.0,EU27,2015
+1771,COD,Growing fruits and nuts industry,NER,0.00041709385098642423,EU27,2015
+1772,COD,"Growing beverage crops (coffee, tea etc) industry",NER,5.607474655810994e-06,EU27,2015
+1773,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,6.309905884036761e-09,EU27,2015
+1774,COD,Seeds and plant propagation industry,NER,0.0,EU27,2015
+1775,COD,Raising of cattle industry,NER,0.00010893822311008108,EU27,2015
+1776,COD,Growing wheat industry,NGA,0.0003930372321554683,EU27,2015
+1777,COD,Growing maize industry,NGA,0.013570916677361964,EU27,2015
+1778,COD,Growing cereals n.e.c industry,NGA,5.664800135847898e-06,EU27,2015
+1779,COD,Growing leguminous crops and oil seeds industry,NGA,0.00044330656225525985,EU27,2015
+1780,COD,Growing rice industry,NGA,0.00035964172948261576,EU27,2015
+1781,COD,"Growing vegetables, roots, tubers industry",NGA,0.002265099550012107,EU27,2015
+1782,COD,Growing sugar beet and cane industry,NGA,0.0001793214811088275,EU27,2015
+1783,COD,Growing tobacco industry,NGA,2.88693522518518e-05,EU27,2015
+1784,COD,Growing fibre crops industry,NGA,0.010962614511335952,EU27,2015
+1785,COD,Growing crops n.e.c. industry,NGA,7.114898231533978e-05,EU27,2015
+1786,COD,Growing grapes industry,NGA,0.0,EU27,2015
+1787,COD,Growing fruits and nuts industry,NGA,0.011487161239628514,EU27,2015
+1788,COD,"Growing beverage crops (coffee, tea etc) industry",NGA,0.00017649854367645312,EU27,2015
+1789,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,1.820345580899293e-07,EU27,2015
+1790,COD,Seeds and plant propagation industry,NGA,0.0,EU27,2015
+1791,COD,Raising of cattle industry,NGA,0.0034128841949060467,EU27,2015
+1792,COD,Growing wheat industry,NIC,9.188014911640306e-06,EU27,2015
+1793,COD,Growing maize industry,NIC,0.000650127280948869,EU27,2015
+1794,COD,Growing cereals n.e.c industry,NIC,2.149711261576147e-07,EU27,2015
+1795,COD,Growing leguminous crops and oil seeds industry,NIC,1.4011666308620092e-05,EU27,2015
+1796,COD,Growing rice industry,NIC,9.062332036181662e-06,EU27,2015
+1797,COD,"Growing vegetables, roots, tubers industry",NIC,6.202438924764756e-05,EU27,2015
+1798,COD,Growing sugar beet and cane industry,NIC,8.88712928189819e-06,EU27,2015
+1799,COD,Growing tobacco industry,NIC,7.454655834419839e-07,EU27,2015
+1800,COD,Growing fibre crops industry,NIC,0.0004305082049334323,EU27,2015
+1801,COD,Growing crops n.e.c. industry,NIC,3.125876125714073e-06,EU27,2015
+1802,COD,Growing grapes industry,NIC,0.0,EU27,2015
+1803,COD,Growing fruits and nuts industry,NIC,0.00035908910199773143,EU27,2015
+1804,COD,"Growing beverage crops (coffee, tea etc) industry",NIC,4.828270326454963e-06,EU27,2015
+1805,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,5.744607358554817e-09,EU27,2015
+1806,COD,Seeds and plant propagation industry,NIC,0.0,EU27,2015
+1807,COD,Raising of cattle industry,NIC,0.00010844464302075205,EU27,2015
+1808,COD,Growing wheat industry,NLD,0.0,EU27,2015
+1809,COD,Growing maize industry,NLD,0.0,EU27,2015
+1810,COD,Growing cereals n.e.c industry,NLD,0.0,EU27,2015
+1811,COD,Growing leguminous crops and oil seeds industry,NLD,0.0,EU27,2015
+1812,COD,Growing rice industry,NLD,0.0,EU27,2015
+1813,COD,"Growing vegetables, roots, tubers industry",NLD,0.0,EU27,2015
+1814,COD,Growing sugar beet and cane industry,NLD,0.0,EU27,2015
+1815,COD,Growing tobacco industry,NLD,0.0,EU27,2015
+1816,COD,Growing fibre crops industry,NLD,0.0,EU27,2015
+1817,COD,Growing crops n.e.c. industry,NLD,0.0,EU27,2015
+1818,COD,Growing grapes industry,NLD,0.0,EU27,2015
+1819,COD,Growing fruits and nuts industry,NLD,0.0,EU27,2015
+1820,COD,"Growing beverage crops (coffee, tea etc) industry",NLD,0.0,EU27,2015
+1821,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,0.0,EU27,2015
+1822,COD,Seeds and plant propagation industry,NLD,0.0,EU27,2015
+1823,COD,Raising of cattle industry,NLD,0.0,EU27,2015
+1824,COD,Growing wheat industry,NOR,0.0007603972782392886,EU27,2015
+1825,COD,Growing maize industry,NOR,0.06841625046030222,EU27,2015
+1826,COD,Growing cereals n.e.c industry,NOR,2.448609431544307e-05,EU27,2015
+1827,COD,Growing leguminous crops and oil seeds industry,NOR,0.0012410951443429326,EU27,2015
+1828,COD,Growing rice industry,NOR,0.001007296204144231,EU27,2015
+1829,COD,"Growing vegetables, roots, tubers industry",NOR,0.008279398085113592,EU27,2015
+1830,COD,Growing sugar beet and cane industry,NOR,0.0008293361278489445,EU27,2015
+1831,COD,Growing tobacco industry,NOR,0.0004270798483437469,EU27,2015
+1832,COD,Growing fibre crops industry,NOR,0.056569640979655215,EU27,2015
+1833,COD,Growing crops n.e.c. industry,NOR,0.0002922038100462959,EU27,2015
+1834,COD,Growing grapes industry,NOR,0.0,EU27,2015
+1835,COD,Growing fruits and nuts industry,NOR,0.043044848815048935,EU27,2015
+1836,COD,"Growing beverage crops (coffee, tea etc) industry",NOR,0.0008795739325346162,EU27,2015
+1837,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,2.0401322976838422e-06,EU27,2015
+1838,COD,Seeds and plant propagation industry,NOR,0.0,EU27,2015
+1839,COD,Raising of cattle industry,NOR,0.012911628787173994,EU27,2015
+1840,COD,Growing wheat industry,NPL,2.0522006149402535e-05,EU27,2015
+1841,COD,Growing maize industry,NPL,0.0009546408011640783,EU27,2015
+1842,COD,Growing cereals n.e.c industry,NPL,8.277108992536401e-07,EU27,2015
+1843,COD,Growing leguminous crops and oil seeds industry,NPL,3.881682968998104e-05,EU27,2015
+1844,COD,Growing rice industry,NPL,1.800587226860494e-05,EU27,2015
+1845,COD,"Growing vegetables, roots, tubers industry",NPL,0.00013384889012091342,EU27,2015
+1846,COD,Growing sugar beet and cane industry,NPL,1.198042051204829e-05,EU27,2015
+1847,COD,Growing tobacco industry,NPL,2.123237499249669e-06,EU27,2015
+1848,COD,Growing fibre crops industry,NPL,0.0003838862071288193,EU27,2015
+1849,COD,Growing crops n.e.c. industry,NPL,4.933182361429538e-06,EU27,2015
+1850,COD,Growing grapes industry,NPL,0.0,EU27,2015
+1851,COD,Growing fruits and nuts industry,NPL,0.001030369317922139,EU27,2015
+1852,COD,"Growing beverage crops (coffee, tea etc) industry",NPL,1.1679191889719105e-05,EU27,2015
+1853,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,1.73448266949992e-08,EU27,2015
+1854,COD,Seeds and plant propagation industry,NPL,0.0,EU27,2015
+1855,COD,Raising of cattle industry,NPL,0.0002108669465851273,EU27,2015
+1856,COD,Growing wheat industry,NZL,0.00011143046110677986,EU27,2015
+1857,COD,Growing maize industry,NZL,0.009313242584054837,EU27,2015
+1858,COD,Growing cereals n.e.c industry,NZL,4.553140380985892e-06,EU27,2015
+1859,COD,Growing leguminous crops and oil seeds industry,NZL,0.0001861157435977467,EU27,2015
+1860,COD,Growing rice industry,NZL,0.00010389936305351828,EU27,2015
+1861,COD,"Growing vegetables, roots, tubers industry",NZL,0.0008926654183898367,EU27,2015
+1862,COD,Growing sugar beet and cane industry,NZL,0.00010101743607082088,EU27,2015
+1863,COD,Growing tobacco industry,NZL,1.3877019917266774e-05,EU27,2015
+1864,COD,Growing fibre crops industry,NZL,0.005096471230458098,EU27,2015
+1865,COD,Growing crops n.e.c. industry,NZL,3.840516398383859e-05,EU27,2015
+1866,COD,Growing grapes industry,NZL,0.0,EU27,2015
+1867,COD,Growing fruits and nuts industry,NZL,0.005902773815796897,EU27,2015
+1868,COD,"Growing beverage crops (coffee, tea etc) industry",NZL,7.866805415836697e-05,EU27,2015
+1869,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,8.460166466193721e-08,EU27,2015
+1870,COD,Seeds and plant propagation industry,NZL,0.0,EU27,2015
+1871,COD,Raising of cattle industry,NZL,0.0013393675302617524,EU27,2015
+1872,COD,Growing wheat industry,OMN,9.851969530401506e-05,EU27,2015
+1873,COD,Growing maize industry,OMN,0.011097177180362629,EU27,2015
+1874,COD,Growing cereals n.e.c industry,OMN,3.4438454678315914e-06,EU27,2015
+1875,COD,Growing leguminous crops and oil seeds industry,OMN,0.00014849637455468184,EU27,2015
+1876,COD,Growing rice industry,OMN,0.00010743199475787192,EU27,2015
+1877,COD,"Growing vegetables, roots, tubers industry",OMN,0.0007010719913353954,EU27,2015
+1878,COD,Growing sugar beet and cane industry,OMN,9.423860979246075e-05,EU27,2015
+1879,COD,Growing tobacco industry,OMN,9.415266320895454e-06,EU27,2015
+1880,COD,Growing fibre crops industry,OMN,0.002330376369274621,EU27,2015
+1881,COD,Growing crops n.e.c. industry,OMN,4.2164286908633866e-05,EU27,2015
+1882,COD,Growing grapes industry,OMN,0.0,EU27,2015
+1883,COD,Growing fruits and nuts industry,OMN,0.005343497857858313,EU27,2015
+1884,COD,"Growing beverage crops (coffee, tea etc) industry",OMN,5.5331519353687276e-05,EU27,2015
+1885,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,6.768252390314633e-08,EU27,2015
+1886,COD,Seeds and plant propagation industry,OMN,0.0,EU27,2015
+1887,COD,Raising of cattle industry,OMN,0.0013199785488073156,EU27,2015
+1888,COD,Growing wheat industry,PAK,0.00010477463941195699,EU27,2015
+1889,COD,Growing maize industry,PAK,0.008348413985080936,EU27,2015
+1890,COD,Growing cereals n.e.c industry,PAK,2.9802221659724532e-06,EU27,2015
+1891,COD,Growing leguminous crops and oil seeds industry,PAK,0.00015020267936907594,EU27,2015
+1892,COD,Growing rice industry,PAK,0.00010747106823015685,EU27,2015
+1893,COD,"Growing vegetables, roots, tubers industry",PAK,0.0006746282395265178,EU27,2015
+1894,COD,Growing sugar beet and cane industry,PAK,8.668732674325866e-05,EU27,2015
+1895,COD,Growing tobacco industry,PAK,9.302351122309347e-06,EU27,2015
+1896,COD,Growing fibre crops industry,PAK,0.001825226555799408,EU27,2015
+1897,COD,Growing crops n.e.c. industry,PAK,3.706455329222979e-05,EU27,2015
+1898,COD,Growing grapes industry,PAK,0.0,EU27,2015
+1899,COD,Growing fruits and nuts industry,PAK,0.0049247373537166655,EU27,2015
+1900,COD,"Growing beverage crops (coffee, tea etc) industry",PAK,5.62870242254836e-05,EU27,2015
+1901,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,6.628865169038595e-08,EU27,2015
+1902,COD,Seeds and plant propagation industry,PAK,0.0,EU27,2015
+1903,COD,Raising of cattle industry,PAK,0.00131549579506544,EU27,2015
+1904,COD,Growing wheat industry,PSE,1.978638458457206e-05,EU27,2015
+1905,COD,Growing maize industry,PSE,0.0034999274033299136,EU27,2015
+1906,COD,Growing cereals n.e.c industry,PSE,5.905620099854443e-07,EU27,2015
+1907,COD,Growing leguminous crops and oil seeds industry,PSE,3.20631516530369e-05,EU27,2015
+1908,COD,Growing rice industry,PSE,2.1690911633348106e-05,EU27,2015
+1909,COD,"Growing vegetables, roots, tubers industry",PSE,0.00014649533590131348,EU27,2015
+1910,COD,Growing sugar beet and cane industry,PSE,0.00015745880813583865,EU27,2015
+1911,COD,Growing tobacco industry,PSE,2.0365354935416134e-06,EU27,2015
+1912,COD,Growing fibre crops industry,PSE,0.00048885000853891,EU27,2015
+1913,COD,Growing crops n.e.c. industry,PSE,8.210726325781408e-06,EU27,2015
+1914,COD,Growing grapes industry,PSE,0.0,EU27,2015
+1915,COD,Growing fruits and nuts industry,PSE,0.001166892257618828,EU27,2015
+1916,COD,"Growing beverage crops (coffee, tea etc) industry",PSE,1.3069467956084321e-05,EU27,2015
+1917,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.33091394938378e-08,EU27,2015
+1918,COD,Seeds and plant propagation industry,PSE,0.0,EU27,2015
+1919,COD,Raising of cattle industry,PSE,0.00027868303434738214,EU27,2015
+1920,COD,Growing wheat industry,PAN,3.2832467781805e-05,EU27,2015
+1921,COD,Growing maize industry,PAN,0.001749516271892332,EU27,2015
+1922,COD,Growing cereals n.e.c industry,PAN,8.812216755819051e-07,EU27,2015
+1923,COD,Growing leguminous crops and oil seeds industry,PAN,5.3164999850783556e-05,EU27,2015
+1924,COD,Growing rice industry,PAN,3.887987448457019e-05,EU27,2015
+1925,COD,"Growing vegetables, roots, tubers industry",PAN,0.00027988924284628693,EU27,2015
+1926,COD,Growing sugar beet and cane industry,PAN,3.146213561246163e-05,EU27,2015
+1927,COD,Growing tobacco industry,PAN,3.0603588130414105e-06,EU27,2015
+1928,COD,Growing fibre crops industry,PAN,0.000653369836971021,EU27,2015
+1929,COD,Growing crops n.e.c. industry,PAN,1.3323865001677419e-05,EU27,2015
+1930,COD,Growing grapes industry,PAN,0.0,EU27,2015
+1931,COD,Growing fruits and nuts industry,PAN,0.001758928618649223,EU27,2015
+1932,COD,"Growing beverage crops (coffee, tea etc) industry",PAN,2.674983420060688e-05,EU27,2015
+1933,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,2.2887230888694904e-08,EU27,2015
+1934,COD,Seeds and plant propagation industry,PAN,0.0,EU27,2015
+1935,COD,Raising of cattle industry,PAN,0.0005203158303404933,EU27,2015
+1936,COD,Growing wheat industry,PER,8.084277569472771e-05,EU27,2015
+1937,COD,Growing maize industry,PER,0.005387791076980563,EU27,2015
+1938,COD,Growing cereals n.e.c industry,PER,2.678337097251216e-06,EU27,2015
+1939,COD,Growing leguminous crops and oil seeds industry,PER,0.00011878095624000527,EU27,2015
+1940,COD,Growing rice industry,PER,8.752658894740125e-05,EU27,2015
+1941,COD,"Growing vegetables, roots, tubers industry",PER,0.0007806619679057508,EU27,2015
+1942,COD,Growing sugar beet and cane industry,PER,0.00015565228884607184,EU27,2015
+1943,COD,Growing tobacco industry,PER,8.215730887759632e-06,EU27,2015
+1944,COD,Growing fibre crops industry,PER,0.004157412904390535,EU27,2015
+1945,COD,Growing crops n.e.c. industry,PER,2.848425025186013e-05,EU27,2015
+1946,COD,Growing grapes industry,PER,0.0,EU27,2015
+1947,COD,Growing fruits and nuts industry,PER,0.003950920180479607,EU27,2015
+1948,COD,"Growing beverage crops (coffee, tea etc) industry",PER,5.218285806350157e-05,EU27,2015
+1949,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,6.983919366496347e-08,EU27,2015
+1950,COD,Seeds and plant propagation industry,PER,0.0,EU27,2015
+1951,COD,Raising of cattle industry,PER,0.0011631342567947711,EU27,2015
+1952,COD,Growing wheat industry,PHL,0.00015628242991956915,EU27,2015
+1953,COD,Growing maize industry,PHL,0.025852598275656294,EU27,2015
+1954,COD,Growing cereals n.e.c industry,PHL,6.434531929234257e-06,EU27,2015
+1955,COD,Growing leguminous crops and oil seeds industry,PHL,0.00027155102323141097,EU27,2015
+1956,COD,Growing rice industry,PHL,0.00015970488152485643,EU27,2015
+1957,COD,"Growing vegetables, roots, tubers industry",PHL,0.0012255426702727486,EU27,2015
+1958,COD,Growing sugar beet and cane industry,PHL,0.00017231398110654301,EU27,2015
+1959,COD,Growing tobacco industry,PHL,2.0264133105962465e-05,EU27,2015
+1960,COD,Growing fibre crops industry,PHL,0.00651109511873572,EU27,2015
+1961,COD,Growing crops n.e.c. industry,PHL,6.811430203085759e-05,EU27,2015
+1962,COD,Growing grapes industry,PHL,0.0,EU27,2015
+1963,COD,Growing fruits and nuts industry,PHL,0.008827494536366439,EU27,2015
+1964,COD,"Growing beverage crops (coffee, tea etc) industry",PHL,0.00012056244453473921,EU27,2015
+1965,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,1.3210543904947708e-07,EU27,2015
+1966,COD,Seeds and plant propagation industry,PHL,0.0,EU27,2015
+1967,COD,Raising of cattle industry,PHL,0.002033861206940627,EU27,2015
+1968,COD,Growing wheat industry,PNG,6.071897564135119e-06,EU27,2015
+1969,COD,Growing maize industry,PNG,0.0007629654137219416,EU27,2015
+1970,COD,Growing cereals n.e.c industry,PNG,2.2575364006924332e-07,EU27,2015
+1971,COD,Growing leguminous crops and oil seeds industry,PNG,1.0709271956741435e-05,EU27,2015
+1972,COD,Growing rice industry,PNG,7.090295985508606e-06,EU27,2015
+1973,COD,"Growing vegetables, roots, tubers industry",PNG,4.152216369041328e-05,EU27,2015
+1974,COD,Growing sugar beet and cane industry,PNG,5.821739103978144e-06,EU27,2015
+1975,COD,Growing tobacco industry,PNG,6.335881096022056e-07,EU27,2015
+1976,COD,Growing fibre crops industry,PNG,0.00015205319522557236,EU27,2015
+1977,COD,Growing crops n.e.c. industry,PNG,2.731524256018635e-06,EU27,2015
+1978,COD,Growing grapes industry,PNG,0.0,EU27,2015
+1979,COD,Growing fruits and nuts industry,PNG,0.00030017212434231013,EU27,2015
+1980,COD,"Growing beverage crops (coffee, tea etc) industry",PNG,3.8518090117759685e-06,EU27,2015
+1981,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,5.314691725295518e-09,EU27,2015
+1982,COD,Seeds and plant propagation industry,PNG,0.0,EU27,2015
+1983,COD,Raising of cattle industry,PNG,9.716385359580727e-05,EU27,2015
+1984,COD,Growing wheat industry,POL,0.0,EU27,2015
+1985,COD,Growing maize industry,POL,0.0,EU27,2015
+1986,COD,Growing cereals n.e.c industry,POL,0.0,EU27,2015
+1987,COD,Growing leguminous crops and oil seeds industry,POL,0.0,EU27,2015
+1988,COD,Growing rice industry,POL,0.0,EU27,2015
+1989,COD,"Growing vegetables, roots, tubers industry",POL,0.0,EU27,2015
+1990,COD,Growing sugar beet and cane industry,POL,0.0,EU27,2015
+1991,COD,Growing tobacco industry,POL,0.0,EU27,2015
+1992,COD,Growing fibre crops industry,POL,0.0,EU27,2015
+1993,COD,Growing crops n.e.c. industry,POL,0.0,EU27,2015
+1994,COD,Growing grapes industry,POL,0.0,EU27,2015
+1995,COD,Growing fruits and nuts industry,POL,0.0,EU27,2015
+1996,COD,"Growing beverage crops (coffee, tea etc) industry",POL,0.0,EU27,2015
+1997,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,0.0,EU27,2015
+1998,COD,Seeds and plant propagation industry,POL,0.0,EU27,2015
+1999,COD,Raising of cattle industry,POL,0.0,EU27,2015
+2000,COD,Growing wheat industry,PRK,5.182307604507206e-06,EU27,2015
+2001,COD,Growing maize industry,PRK,0.00026741774495651113,EU27,2015
+2002,COD,Growing cereals n.e.c industry,PRK,1.9124981406735125e-07,EU27,2015
+2003,COD,Growing leguminous crops and oil seeds industry,PRK,9.934045126672796e-06,EU27,2015
+2004,COD,Growing rice industry,PRK,5.4493557854050205e-06,EU27,2015
+2005,COD,"Growing vegetables, roots, tubers industry",PRK,5.638469224614248e-05,EU27,2015
+2006,COD,Growing sugar beet and cane industry,PRK,6.528387093023558e-06,EU27,2015
+2007,COD,Growing tobacco industry,PRK,4.902402537233092e-07,EU27,2015
+2008,COD,Growing fibre crops industry,PRK,8.257708198306981e-05,EU27,2015
+2009,COD,Growing crops n.e.c. industry,PRK,1.7080833919516995e-06,EU27,2015
+2010,COD,Growing grapes industry,PRK,0.0,EU27,2015
+2011,COD,Growing fruits and nuts industry,PRK,0.0001778449961424442,EU27,2015
+2012,COD,"Growing beverage crops (coffee, tea etc) industry",PRK,2.8395826776210666e-06,EU27,2015
+2013,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,2.98082625331886e-09,EU27,2015
+2014,COD,Seeds and plant propagation industry,PRK,0.0,EU27,2015
+2015,COD,Raising of cattle industry,PRK,6.815660451588086e-05,EU27,2015
+2016,COD,Growing wheat industry,PRT,0.0,EU27,2015
+2017,COD,Growing maize industry,PRT,0.0,EU27,2015
+2018,COD,Growing cereals n.e.c industry,PRT,0.0,EU27,2015
+2019,COD,Growing leguminous crops and oil seeds industry,PRT,0.0,EU27,2015
+2020,COD,Growing rice industry,PRT,0.0,EU27,2015
+2021,COD,"Growing vegetables, roots, tubers industry",PRT,0.0,EU27,2015
+2022,COD,Growing sugar beet and cane industry,PRT,0.0,EU27,2015
+2023,COD,Growing tobacco industry,PRT,0.0,EU27,2015
+2024,COD,Growing fibre crops industry,PRT,0.0,EU27,2015
+2025,COD,Growing crops n.e.c. industry,PRT,0.0,EU27,2015
+2026,COD,Growing grapes industry,PRT,0.0,EU27,2015
+2027,COD,Growing fruits and nuts industry,PRT,0.0,EU27,2015
+2028,COD,"Growing beverage crops (coffee, tea etc) industry",PRT,0.0,EU27,2015
+2029,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,0.0,EU27,2015
+2030,COD,Seeds and plant propagation industry,PRT,0.0,EU27,2015
+2031,COD,Raising of cattle industry,PRT,0.0,EU27,2015
+2032,COD,Growing wheat industry,PRY,2.6012776875270455e-05,EU27,2015
+2033,COD,Growing maize industry,PRY,0.0013938481166716119,EU27,2015
+2034,COD,Growing cereals n.e.c industry,PRY,1.113737249330062e-06,EU27,2015
+2035,COD,Growing leguminous crops and oil seeds industry,PRY,4.58870900730574e-05,EU27,2015
+2036,COD,Growing rice industry,PRY,3.0550582073703904e-05,EU27,2015
+2037,COD,"Growing vegetables, roots, tubers industry",PRY,0.0001943817591735875,EU27,2015
+2038,COD,Growing sugar beet and cane industry,PRY,2.2983749656414036e-05,EU27,2015
+2039,COD,Growing tobacco industry,PRY,4.389160073619504e-06,EU27,2015
+2040,COD,Growing fibre crops industry,PRY,0.012748129157894942,EU27,2015
+2041,COD,Growing crops n.e.c. industry,PRY,8.050262969147086e-06,EU27,2015
+2042,COD,Growing grapes industry,PRY,0.0,EU27,2015
+2043,COD,Growing fruits and nuts industry,PRY,0.0014999850370861407,EU27,2015
+2044,COD,"Growing beverage crops (coffee, tea etc) industry",PRY,1.939859143566741e-05,EU27,2015
+2045,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,2.5787574719204196e-08,EU27,2015
+2046,COD,Seeds and plant propagation industry,PRY,0.0,EU27,2015
+2047,COD,Raising of cattle industry,PRY,0.0003219315457836338,EU27,2015
+2048,COD,Growing wheat industry,QAT,0.00018051412057584182,EU27,2015
+2049,COD,Growing maize industry,QAT,0.01725580357327676,EU27,2015
+2050,COD,Growing cereals n.e.c industry,QAT,6.842103669304115e-06,EU27,2015
+2051,COD,Growing leguminous crops and oil seeds industry,QAT,0.00033006513835461834,EU27,2015
+2052,COD,Growing rice industry,QAT,0.00022357402002276758,EU27,2015
+2053,COD,"Growing vegetables, roots, tubers industry",QAT,0.0013750485792184389,EU27,2015
+2054,COD,Growing sugar beet and cane industry,QAT,0.00019147366323099668,EU27,2015
+2055,COD,Growing tobacco industry,QAT,1.8360028607747865e-05,EU27,2015
+2056,COD,Growing fibre crops industry,QAT,0.005945675785591445,EU27,2015
+2057,COD,Growing crops n.e.c. industry,QAT,9.060498608319241e-05,EU27,2015
+2058,COD,Growing grapes industry,QAT,0.0,EU27,2015
+2059,COD,Growing fruits and nuts industry,QAT,0.0120823095347026,EU27,2015
+2060,COD,"Growing beverage crops (coffee, tea etc) industry",QAT,0.00012748319460725402,EU27,2015
+2061,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,1.3565160117039752e-07,EU27,2015
+2062,COD,Seeds and plant propagation industry,QAT,0.0,EU27,2015
+2063,COD,Raising of cattle industry,QAT,0.003064548858778524,EU27,2015
+2064,COD,Growing wheat industry,ROU,0.0,EU27,2015
+2065,COD,Growing maize industry,ROU,0.0,EU27,2015
+2066,COD,Growing cereals n.e.c industry,ROU,0.0,EU27,2015
+2067,COD,Growing leguminous crops and oil seeds industry,ROU,0.0,EU27,2015
+2068,COD,Growing rice industry,ROU,0.0,EU27,2015
+2069,COD,"Growing vegetables, roots, tubers industry",ROU,0.0,EU27,2015
+2070,COD,Growing sugar beet and cane industry,ROU,0.0,EU27,2015
+2071,COD,Growing tobacco industry,ROU,0.0,EU27,2015
+2072,COD,Growing fibre crops industry,ROU,0.0,EU27,2015
+2073,COD,Growing crops n.e.c. industry,ROU,0.0,EU27,2015
+2074,COD,Growing grapes industry,ROU,0.0,EU27,2015
+2075,COD,Growing fruits and nuts industry,ROU,0.0,EU27,2015
+2076,COD,"Growing beverage crops (coffee, tea etc) industry",ROU,0.0,EU27,2015
+2077,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,0.0,EU27,2015
+2078,COD,Seeds and plant propagation industry,ROU,0.0,EU27,2015
+2079,COD,Raising of cattle industry,ROU,0.0,EU27,2015
+2080,COD,Growing wheat industry,RUS,0.001340030107905647,EU27,2015
+2081,COD,Growing maize industry,RUS,0.11614648666880982,EU27,2015
+2082,COD,Growing cereals n.e.c industry,RUS,7.674717289535381e-05,EU27,2015
+2083,COD,Growing leguminous crops and oil seeds industry,RUS,0.0021678528803388422,EU27,2015
+2084,COD,Growing rice industry,RUS,0.001606173515792382,EU27,2015
+2085,COD,"Growing vegetables, roots, tubers industry",RUS,0.027595338991243154,EU27,2015
+2086,COD,Growing sugar beet and cane industry,RUS,0.0014702251147769504,EU27,2015
+2087,COD,Growing tobacco industry,RUS,0.00016553708795098823,EU27,2015
+2088,COD,Growing fibre crops industry,RUS,0.06755377571328812,EU27,2015
+2089,COD,Growing crops n.e.c. industry,RUS,0.0005526984423986374,EU27,2015
+2090,COD,Growing grapes industry,RUS,0.0,EU27,2015
+2091,COD,Growing fruits and nuts industry,RUS,0.10050540258932696,EU27,2015
+2092,COD,"Growing beverage crops (coffee, tea etc) industry",RUS,0.0014943765960134354,EU27,2015
+2093,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,2.0555297287070793e-06,EU27,2015
+2094,COD,Seeds and plant propagation industry,RUS,0.0,EU27,2015
+2095,COD,Raising of cattle industry,RUS,0.022344310723488643,EU27,2015
+2096,COD,Growing wheat industry,RWA,8.842791706423669e-06,EU27,2015
+2097,COD,Growing maize industry,RWA,0.0007092718776492656,EU27,2015
+2098,COD,Growing cereals n.e.c industry,RWA,1.771337791362066e-07,EU27,2015
+2099,COD,Growing leguminous crops and oil seeds industry,RWA,1.3842353806571138e-05,EU27,2015
+2100,COD,Growing rice industry,RWA,7.231628799497398e-06,EU27,2015
+2101,COD,"Growing vegetables, roots, tubers industry",RWA,4.367496097732191e-05,EU27,2015
+2102,COD,Growing sugar beet and cane industry,RWA,6.01446985875365e-06,EU27,2015
+2103,COD,Growing tobacco industry,RWA,5.818447835791987e-07,EU27,2015
+2104,COD,Growing fibre crops industry,RWA,0.00011256785914347599,EU27,2015
+2105,COD,Growing crops n.e.c. industry,RWA,2.852880245434399e-06,EU27,2015
+2106,COD,Growing grapes industry,RWA,0.0,EU27,2015
+2107,COD,Growing fruits and nuts industry,RWA,0.0003158267716387258,EU27,2015
+2108,COD,"Growing beverage crops (coffee, tea etc) industry",RWA,3.791776260380595e-06,EU27,2015
+2109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,4.546547682388858e-09,EU27,2015
+2110,COD,Seeds and plant propagation industry,RWA,0.0,EU27,2015
+2111,COD,Raising of cattle industry,RWA,9.440737586478109e-05,EU27,2015
+2112,COD,Growing wheat industry,SAU,0.001133015398727202,EU27,2015
+2113,COD,Growing maize industry,SAU,0.07814166201305504,EU27,2015
+2114,COD,Growing cereals n.e.c industry,SAU,3.620000038653464e-05,EU27,2015
+2115,COD,Growing leguminous crops and oil seeds industry,SAU,0.0016060588997607373,EU27,2015
+2116,COD,Growing rice industry,SAU,0.0010549902583906648,EU27,2015
+2117,COD,"Growing vegetables, roots, tubers industry",SAU,0.009211668644818191,EU27,2015
+2118,COD,Growing sugar beet and cane industry,SAU,0.0009969374553145038,EU27,2015
+2119,COD,Growing tobacco industry,SAU,0.00011511890458105179,EU27,2015
+2120,COD,Growing fibre crops industry,SAU,0.04107640004310348,EU27,2015
+2121,COD,Growing crops n.e.c. industry,SAU,0.00034579031309718013,EU27,2015
+2122,COD,Growing grapes industry,SAU,0.0,EU27,2015
+2123,COD,Growing fruits and nuts industry,SAU,0.052396774017810475,EU27,2015
+2124,COD,"Growing beverage crops (coffee, tea etc) industry",SAU,0.0006428407351848064,EU27,2015
+2125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,7.870219338004441e-07,EU27,2015
+2126,COD,Seeds and plant propagation industry,SAU,0.0,EU27,2015
+2127,COD,Raising of cattle industry,SAU,0.012011401578983234,EU27,2015
+2128,COD,Growing wheat industry,SDS,3.9013262513090525e-06,EU27,2015
+2129,COD,Growing maize industry,SDS,0.00018218471594238752,EU27,2015
+2130,COD,Growing cereals n.e.c industry,SDS,1.1280889762827385e-07,EU27,2015
+2131,COD,Growing leguminous crops and oil seeds industry,SDS,5.759221651767149e-06,EU27,2015
+2132,COD,Growing rice industry,SDS,4.098078555345269e-06,EU27,2015
+2133,COD,"Growing vegetables, roots, tubers industry",SDS,4.301729510369393e-05,EU27,2015
+2134,COD,Growing sugar beet and cane industry,SDS,2.5126626867388428e-06,EU27,2015
+2135,COD,Growing tobacco industry,SDS,4.664438926089687e-07,EU27,2015
+2136,COD,Growing fibre crops industry,SDS,0.00014564077577043682,EU27,2015
+2137,COD,Growing crops n.e.c. industry,SDS,1.0008738698042425e-06,EU27,2015
+2138,COD,Growing grapes industry,SDS,0.0,EU27,2015
+2139,COD,Growing fruits and nuts industry,SDS,0.00018138230798974992,EU27,2015
+2140,COD,"Growing beverage crops (coffee, tea etc) industry",SDS,2.6990390634814995e-06,EU27,2015
+2141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,2.8658882116454107e-09,EU27,2015
+2142,COD,Seeds and plant propagation industry,SDS,0.0,EU27,2015
+2143,COD,Raising of cattle industry,SDS,4.522356856693125e-05,EU27,2015
+2144,COD,Growing wheat industry,SEN,3.815689285141004e-05,EU27,2015
+2145,COD,Growing maize industry,SEN,0.002406008937451863,EU27,2015
+2146,COD,Growing cereals n.e.c industry,SEN,5.38722218721775e-07,EU27,2015
+2147,COD,Growing leguminous crops and oil seeds industry,SEN,3.825399741243501e-05,EU27,2015
+2148,COD,Growing rice industry,SEN,3.482716864026389e-05,EU27,2015
+2149,COD,"Growing vegetables, roots, tubers industry",SEN,0.0002519218416550292,EU27,2015
+2150,COD,Growing sugar beet and cane industry,SEN,2.917187621829982e-05,EU27,2015
+2151,COD,Growing tobacco industry,SEN,1.8227771443914756e-06,EU27,2015
+2152,COD,Growing fibre crops industry,SEN,0.011867146646293732,EU27,2015
+2153,COD,Growing crops n.e.c. industry,SEN,8.443167656241341e-06,EU27,2015
+2154,COD,Growing grapes industry,SEN,0.0,EU27,2015
+2155,COD,Growing fruits and nuts industry,SEN,0.0009738365475504753,EU27,2015
+2156,COD,"Growing beverage crops (coffee, tea etc) industry",SEN,1.2655428517684566e-05,EU27,2015
+2157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,1.7686415143084796e-08,EU27,2015
+2158,COD,Seeds and plant propagation industry,SEN,0.0,EU27,2015
+2159,COD,Raising of cattle industry,SEN,0.0003572986723658357,EU27,2015
+2160,COD,Growing wheat industry,SGP,0.000368981338242932,EU27,2015
+2161,COD,Growing maize industry,SGP,0.021718534898549816,EU27,2015
+2162,COD,Growing cereals n.e.c industry,SGP,1.2010150496602322e-05,EU27,2015
+2163,COD,Growing leguminous crops and oil seeds industry,SGP,0.0006259353315562597,EU27,2015
+2164,COD,Growing rice industry,SGP,0.0003404059608779536,EU27,2015
+2165,COD,"Growing vegetables, roots, tubers industry",SGP,0.002669418130055662,EU27,2015
+2166,COD,Growing sugar beet and cane industry,SGP,0.00027856420277673835,EU27,2015
+2167,COD,Growing tobacco industry,SGP,4.706385896451726e-05,EU27,2015
+2168,COD,Growing fibre crops industry,SGP,0.0151457761864397,EU27,2015
+2169,COD,Growing crops n.e.c. industry,SGP,0.00010309966910533786,EU27,2015
+2170,COD,Growing grapes industry,SGP,0.0,EU27,2015
+2171,COD,Growing fruits and nuts industry,SGP,0.017617499547571636,EU27,2015
+2172,COD,"Growing beverage crops (coffee, tea etc) industry",SGP,0.00029879219104380104,EU27,2015
+2173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,2.5708981407033756e-07,EU27,2015
+2174,COD,Seeds and plant propagation industry,SGP,0.0,EU27,2015
+2175,COD,Raising of cattle industry,SGP,0.004152584206519863,EU27,2015
+2176,COD,Growing wheat industry,SLE,1.163603228211644e-05,EU27,2015
+2177,COD,Growing maize industry,SLE,0.0008632087635592645,EU27,2015
+2178,COD,Growing cereals n.e.c industry,SLE,2.58639696765002e-07,EU27,2015
+2179,COD,Growing leguminous crops and oil seeds industry,SLE,1.474641637515054e-05,EU27,2015
+2180,COD,Growing rice industry,SLE,9.910145182854603e-06,EU27,2015
+2181,COD,"Growing vegetables, roots, tubers industry",SLE,6.558062522389839e-05,EU27,2015
+2182,COD,Growing sugar beet and cane industry,SLE,7.79269597545459e-06,EU27,2015
+2183,COD,Growing tobacco industry,SLE,7.762712691584322e-07,EU27,2015
+2184,COD,Growing fibre crops industry,SLE,0.0001539069814864695,EU27,2015
+2185,COD,Growing crops n.e.c. industry,SLE,2.984418806960535e-06,EU27,2015
+2186,COD,Growing grapes industry,SLE,0.0,EU27,2015
+2187,COD,Growing fruits and nuts industry,SLE,0.00042793689550291045,EU27,2015
+2188,COD,"Growing beverage crops (coffee, tea etc) industry",SLE,5.31611004954433e-06,EU27,2015
+2189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,5.462054703844027e-09,EU27,2015
+2190,COD,Seeds and plant propagation industry,SLE,0.0,EU27,2015
+2191,COD,Raising of cattle industry,SLE,0.00012094469961292934,EU27,2015
+2192,COD,Growing wheat industry,SLV,1.4787264298342246e-05,EU27,2015
+2193,COD,Growing maize industry,SLV,0.0009995920734012142,EU27,2015
+2194,COD,Growing cereals n.e.c industry,SLV,3.6702235578914034e-07,EU27,2015
+2195,COD,Growing leguminous crops and oil seeds industry,SLV,1.9404503173553112e-05,EU27,2015
+2196,COD,Growing rice industry,SLV,1.589963607988274e-05,EU27,2015
+2197,COD,"Growing vegetables, roots, tubers industry",SLV,9.297110733106586e-05,EU27,2015
+2198,COD,Growing sugar beet and cane industry,SLV,1.5041312308469344e-05,EU27,2015
+2199,COD,Growing tobacco industry,SLV,1.083131816420533e-06,EU27,2015
+2200,COD,Growing fibre crops industry,SLV,0.0002760261180791837,EU27,2015
+2201,COD,Growing crops n.e.c. industry,SLV,5.314903412345639e-06,EU27,2015
+2202,COD,Growing grapes industry,SLV,0.0,EU27,2015
+2203,COD,Growing fruits and nuts industry,SLV,0.0006117215325883873,EU27,2015
+2204,COD,"Growing beverage crops (coffee, tea etc) industry",SLV,7.720034004993744e-06,EU27,2015
+2205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,9.873766324346931e-09,EU27,2015
+2206,COD,Seeds and plant propagation industry,SLV,0.0,EU27,2015
+2207,COD,Raising of cattle industry,SLV,0.00018791314426894626,EU27,2015
+2208,COD,Growing wheat industry,SOM,5.390736884115858e-06,EU27,2015
+2209,COD,Growing maize industry,SOM,0.0008015411252204479,EU27,2015
+2210,COD,Growing cereals n.e.c industry,SOM,2.399663887687781e-07,EU27,2015
+2211,COD,Growing leguminous crops and oil seeds industry,SOM,8.741525332452201e-06,EU27,2015
+2212,COD,Growing rice industry,SOM,5.58806471625032e-06,EU27,2015
+2213,COD,"Growing vegetables, roots, tubers industry",SOM,3.9771895148391625e-05,EU27,2015
+2214,COD,Growing sugar beet and cane industry,SOM,6.515396926263188e-06,EU27,2015
+2215,COD,Growing tobacco industry,SOM,4.877714427645319e-07,EU27,2015
+2216,COD,Growing fibre crops industry,SOM,0.00016155599199797004,EU27,2015
+2217,COD,Growing crops n.e.c. industry,SOM,2.418566279737288e-06,EU27,2015
+2218,COD,Growing grapes industry,SOM,0.0,EU27,2015
+2219,COD,Growing fruits and nuts industry,SOM,0.0003372376584068355,EU27,2015
+2220,COD,"Growing beverage crops (coffee, tea etc) industry",SOM,3.59772084607595e-06,EU27,2015
+2221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,3.839331620479465e-09,EU27,2015
+2222,COD,Seeds and plant propagation industry,SOM,0.0,EU27,2015
+2223,COD,Raising of cattle industry,SOM,7.168330443509944e-05,EU27,2015
+2224,COD,Growing wheat industry,SRB,3.7735626656186005e-05,EU27,2015
+2225,COD,Growing maize industry,SRB,0.0026343742663679807,EU27,2015
+2226,COD,Growing cereals n.e.c industry,SRB,1.1310368929947981e-06,EU27,2015
+2227,COD,Growing leguminous crops and oil seeds industry,SRB,4.9111945701037044e-05,EU27,2015
+2228,COD,Growing rice industry,SRB,4.0017534944632956e-05,EU27,2015
+2229,COD,"Growing vegetables, roots, tubers industry",SRB,0.00033661311581372936,EU27,2015
+2230,COD,Growing sugar beet and cane industry,SRB,2.4266413350406967e-05,EU27,2015
+2231,COD,Growing tobacco industry,SRB,3.1891983923621845e-06,EU27,2015
+2232,COD,Growing fibre crops industry,SRB,0.0006024733133035826,EU27,2015
+2233,COD,Growing crops n.e.c. industry,SRB,1.0821132745594255e-05,EU27,2015
+2234,COD,Growing grapes industry,SRB,0.0,EU27,2015
+2235,COD,Growing fruits and nuts industry,SRB,0.0036304669432980297,EU27,2015
+2236,COD,"Growing beverage crops (coffee, tea etc) industry",SRB,2.9232344695798387e-05,EU27,2015
+2237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,4.012994733510745e-08,EU27,2015
+2238,COD,Seeds and plant propagation industry,SRB,0.0,EU27,2015
+2239,COD,Raising of cattle industry,SRB,0.0004690033074186981,EU27,2015
+2240,COD,Growing wheat industry,SDN,3.640973052990309e-05,EU27,2015
+2241,COD,Growing maize industry,SDN,0.0037651968107639557,EU27,2015
+2242,COD,Growing cereals n.e.c industry,SDN,1.2543271597639093e-06,EU27,2015
+2243,COD,Growing leguminous crops and oil seeds industry,SDN,5.263766516562118e-05,EU27,2015
+2244,COD,Growing rice industry,SDN,3.6074484371269806e-05,EU27,2015
+2245,COD,"Growing vegetables, roots, tubers industry",SDN,0.00021276670102810135,EU27,2015
+2246,COD,Growing sugar beet and cane industry,SDN,3.0266494130207845e-05,EU27,2015
+2247,COD,Growing tobacco industry,SDN,2.7444639952019853e-06,EU27,2015
+2248,COD,Growing fibre crops industry,SDN,0.0005398136628208418,EU27,2015
+2249,COD,Growing crops n.e.c. industry,SDN,1.55276209467788e-05,EU27,2015
+2250,COD,Growing grapes industry,SDN,0.0,EU27,2015
+2251,COD,Growing fruits and nuts industry,SDN,0.0016623667296460395,EU27,2015
+2252,COD,"Growing beverage crops (coffee, tea etc) industry",SDN,1.8437939753224453e-05,EU27,2015
+2253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,2.2283795631859864e-08,EU27,2015
+2254,COD,Seeds and plant propagation industry,SDN,0.0,EU27,2015
+2255,COD,Raising of cattle industry,SDN,0.00045870037764845676,EU27,2015
+2256,COD,Growing wheat industry,SVK,0.0,EU27,2015
+2257,COD,Growing maize industry,SVK,0.0,EU27,2015
+2258,COD,Growing cereals n.e.c industry,SVK,0.0,EU27,2015
+2259,COD,Growing leguminous crops and oil seeds industry,SVK,0.0,EU27,2015
+2260,COD,Growing rice industry,SVK,0.0,EU27,2015
+2261,COD,"Growing vegetables, roots, tubers industry",SVK,0.0,EU27,2015
+2262,COD,Growing sugar beet and cane industry,SVK,0.0,EU27,2015
+2263,COD,Growing tobacco industry,SVK,0.0,EU27,2015
+2264,COD,Growing fibre crops industry,SVK,0.0,EU27,2015
+2265,COD,Growing crops n.e.c. industry,SVK,0.0,EU27,2015
+2266,COD,Growing grapes industry,SVK,0.0,EU27,2015
+2267,COD,Growing fruits and nuts industry,SVK,0.0,EU27,2015
+2268,COD,"Growing beverage crops (coffee, tea etc) industry",SVK,0.0,EU27,2015
+2269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,0.0,EU27,2015
+2270,COD,Seeds and plant propagation industry,SVK,0.0,EU27,2015
+2271,COD,Raising of cattle industry,SVK,0.0,EU27,2015
+2272,COD,Growing wheat industry,SVN,0.0,EU27,2015
+2273,COD,Growing maize industry,SVN,0.0,EU27,2015
+2274,COD,Growing cereals n.e.c industry,SVN,0.0,EU27,2015
+2275,COD,Growing leguminous crops and oil seeds industry,SVN,0.0,EU27,2015
+2276,COD,Growing rice industry,SVN,0.0,EU27,2015
+2277,COD,"Growing vegetables, roots, tubers industry",SVN,0.0,EU27,2015
+2278,COD,Growing sugar beet and cane industry,SVN,0.0,EU27,2015
+2279,COD,Growing tobacco industry,SVN,0.0,EU27,2015
+2280,COD,Growing fibre crops industry,SVN,0.0,EU27,2015
+2281,COD,Growing crops n.e.c. industry,SVN,0.0,EU27,2015
+2282,COD,Growing grapes industry,SVN,0.0,EU27,2015
+2283,COD,Growing fruits and nuts industry,SVN,0.0,EU27,2015
+2284,COD,"Growing beverage crops (coffee, tea etc) industry",SVN,0.0,EU27,2015
+2285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,0.0,EU27,2015
+2286,COD,Seeds and plant propagation industry,SVN,0.0,EU27,2015
+2287,COD,Raising of cattle industry,SVN,0.0,EU27,2015
+2288,COD,Growing wheat industry,SWE,0.0,EU27,2015
+2289,COD,Growing maize industry,SWE,0.0,EU27,2015
+2290,COD,Growing cereals n.e.c industry,SWE,0.0,EU27,2015
+2291,COD,Growing leguminous crops and oil seeds industry,SWE,0.0,EU27,2015
+2292,COD,Growing rice industry,SWE,0.0,EU27,2015
+2293,COD,"Growing vegetables, roots, tubers industry",SWE,0.0,EU27,2015
+2294,COD,Growing sugar beet and cane industry,SWE,0.0,EU27,2015
+2295,COD,Growing tobacco industry,SWE,0.0,EU27,2015
+2296,COD,Growing fibre crops industry,SWE,0.0,EU27,2015
+2297,COD,Growing crops n.e.c. industry,SWE,0.0,EU27,2015
+2298,COD,Growing grapes industry,SWE,0.0,EU27,2015
+2299,COD,Growing fruits and nuts industry,SWE,0.0,EU27,2015
+2300,COD,"Growing beverage crops (coffee, tea etc) industry",SWE,0.0,EU27,2015
+2301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,0.0,EU27,2015
+2302,COD,Seeds and plant propagation industry,SWE,0.0,EU27,2015
+2303,COD,Raising of cattle industry,SWE,0.0,EU27,2015
+2304,COD,Growing wheat industry,SYR,2.1795013871904355e-05,EU27,2015
+2305,COD,Growing maize industry,SYR,0.0041666952578871255,EU27,2015
+2306,COD,Growing cereals n.e.c industry,SYR,9.257604805226657e-07,EU27,2015
+2307,COD,Growing leguminous crops and oil seeds industry,SYR,3.369885583335837e-05,EU27,2015
+2308,COD,Growing rice industry,SYR,2.4873101004496132e-05,EU27,2015
+2309,COD,"Growing vegetables, roots, tubers industry",SYR,0.0001399036691728039,EU27,2015
+2310,COD,Growing sugar beet and cane industry,SYR,3.6600728797494036e-05,EU27,2015
+2311,COD,Growing tobacco industry,SYR,1.3966368143557043e-06,EU27,2015
+2312,COD,Growing fibre crops industry,SYR,0.00034430920133052647,EU27,2015
+2313,COD,Growing crops n.e.c. industry,SYR,1.1514343046145074e-05,EU27,2015
+2314,COD,Growing grapes industry,SYR,0.0,EU27,2015
+2315,COD,Growing fruits and nuts industry,SYR,0.000889077227267854,EU27,2015
+2316,COD,"Growing beverage crops (coffee, tea etc) industry",SYR,1.198539878985e-05,EU27,2015
+2317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,1.3063870165367948e-08,EU27,2015
+2318,COD,Seeds and plant propagation industry,SYR,0.0,EU27,2015
+2319,COD,Raising of cattle industry,SYR,0.00032980119428275526,EU27,2015
+2320,COD,Growing wheat industry,TCD,1.4952315334400009e-05,EU27,2015
+2321,COD,Growing maize industry,TCD,0.0031070532795886706,EU27,2015
+2322,COD,Growing cereals n.e.c industry,TCD,4.988570907716045e-07,EU27,2015
+2323,COD,Growing leguminous crops and oil seeds industry,TCD,2.28208855829153e-05,EU27,2015
+2324,COD,Growing rice industry,TCD,1.367503250602321e-05,EU27,2015
+2325,COD,"Growing vegetables, roots, tubers industry",TCD,0.0001029440586024038,EU27,2015
+2326,COD,Growing sugar beet and cane industry,TCD,1.4860404333548312e-05,EU27,2015
+2327,COD,Growing tobacco industry,TCD,9.447920741163303e-07,EU27,2015
+2328,COD,Growing fibre crops industry,TCD,0.00037027626016063046,EU27,2015
+2329,COD,Growing crops n.e.c. industry,TCD,7.212914455639079e-06,EU27,2015
+2330,COD,Growing grapes industry,TCD,0.0,EU27,2015
+2331,COD,Growing fruits and nuts industry,TCD,0.0005989959320966319,EU27,2015
+2332,COD,"Growing beverage crops (coffee, tea etc) industry",TCD,6.777603720924167e-06,EU27,2015
+2333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,8.94982198074016e-09,EU27,2015
+2334,COD,Seeds and plant propagation industry,TCD,0.0,EU27,2015
+2335,COD,Raising of cattle industry,TCD,0.00016704243026106073,EU27,2015
+2336,COD,Growing wheat industry,TGO,5.0055939190464685e-05,EU27,2015
+2337,COD,Growing maize industry,TGO,0.0007350269461124889,EU27,2015
+2338,COD,Growing cereals n.e.c industry,TGO,1.8378578356041127e-07,EU27,2015
+2339,COD,Growing leguminous crops and oil seeds industry,TGO,3.0056878721904016e-05,EU27,2015
+2340,COD,Growing rice industry,TGO,3.679693873390929e-05,EU27,2015
+2341,COD,"Growing vegetables, roots, tubers industry",TGO,0.0001808650648257538,EU27,2015
+2342,COD,Growing sugar beet and cane industry,TGO,9.036079579511153e-06,EU27,2015
+2343,COD,Growing tobacco industry,TGO,8.071430511344373e-07,EU27,2015
+2344,COD,Growing fibre crops industry,TGO,0.00015607851622916408,EU27,2015
+2345,COD,Growing crops n.e.c. industry,TGO,2.6126227096760457e-06,EU27,2015
+2346,COD,Growing grapes industry,TGO,0.0,EU27,2015
+2347,COD,Growing fruits and nuts industry,TGO,0.00045110050864548523,EU27,2015
+2348,COD,"Growing beverage crops (coffee, tea etc) industry",TGO,9.20431734517104e-06,EU27,2015
+2349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,1.9321632786628044e-08,EU27,2015
+2350,COD,Seeds and plant propagation industry,TGO,0.0,EU27,2015
+2351,COD,Raising of cattle industry,TGO,0.0001841306233951248,EU27,2015
+2352,COD,Growing wheat industry,THA,0.0002982378849900103,EU27,2015
+2353,COD,Growing maize industry,THA,0.024230399880811986,EU27,2015
+2354,COD,Growing cereals n.e.c industry,THA,1.0849277235747353e-05,EU27,2015
+2355,COD,Growing leguminous crops and oil seeds industry,THA,0.00050067547399695,EU27,2015
+2356,COD,Growing rice industry,THA,0.0002924621669513542,EU27,2015
+2357,COD,"Growing vegetables, roots, tubers industry",THA,0.002386481633704893,EU27,2015
+2358,COD,Growing sugar beet and cane industry,THA,0.00025582385770432506,EU27,2015
+2359,COD,Growing tobacco industry,THA,3.802849309975317e-05,EU27,2015
+2360,COD,Growing fibre crops industry,THA,0.0759666178456548,EU27,2015
+2361,COD,Growing crops n.e.c. industry,THA,0.00010655657251670989,EU27,2015
+2362,COD,Growing grapes industry,THA,0.0,EU27,2015
+2363,COD,Growing fruits and nuts industry,THA,0.01545234442398614,EU27,2015
+2364,COD,"Growing beverage crops (coffee, tea etc) industry",THA,0.00021182850061536964,EU27,2015
+2365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,2.3869786563828186e-07,EU27,2015
+2366,COD,Seeds and plant propagation industry,THA,0.0,EU27,2015
+2367,COD,Raising of cattle industry,THA,0.003797996149148254,EU27,2015
+2368,COD,Growing wheat industry,TJK,6.616108631077859e-06,EU27,2015
+2369,COD,Growing maize industry,TJK,0.00039190127364024393,EU27,2015
+2370,COD,Growing cereals n.e.c industry,TJK,2.696045633952245e-07,EU27,2015
+2371,COD,Growing leguminous crops and oil seeds industry,TJK,9.879755477708605e-06,EU27,2015
+2372,COD,Growing rice industry,TJK,7.702301638772616e-06,EU27,2015
+2373,COD,"Growing vegetables, roots, tubers industry",TJK,5.9180289021250596e-05,EU27,2015
+2374,COD,Growing sugar beet and cane industry,TJK,5.3525116600596e-06,EU27,2015
+2375,COD,Growing tobacco industry,TJK,7.429962461464299e-07,EU27,2015
+2376,COD,Growing fibre crops industry,TJK,8.891034077793594e-05,EU27,2015
+2377,COD,Growing crops n.e.c. industry,TJK,2.5654376139563883e-06,EU27,2015
+2378,COD,Growing grapes industry,TJK,0.0,EU27,2015
+2379,COD,Growing fruits and nuts industry,TJK,0.00036074678751860003,EU27,2015
+2380,COD,"Growing beverage crops (coffee, tea etc) industry",TJK,4.628719599355898e-06,EU27,2015
+2381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,4.753956608586375e-09,EU27,2015
+2382,COD,Seeds and plant propagation industry,TJK,0.0,EU27,2015
+2383,COD,Raising of cattle industry,TJK,9.402510291594208e-05,EU27,2015
+2384,COD,Growing wheat industry,TKM,2.3898402020038723e-05,EU27,2015
+2385,COD,Growing maize industry,TKM,0.0014812468034734708,EU27,2015
+2386,COD,Growing cereals n.e.c industry,TKM,7.960443091145785e-07,EU27,2015
+2387,COD,Growing leguminous crops and oil seeds industry,TKM,3.6636883391617425e-05,EU27,2015
+2388,COD,Growing rice industry,TKM,2.382331276305867e-05,EU27,2015
+2389,COD,"Growing vegetables, roots, tubers industry",TKM,0.00016860518918457865,EU27,2015
+2390,COD,Growing sugar beet and cane industry,TKM,1.6492278324949013e-05,EU27,2015
+2391,COD,Growing tobacco industry,TKM,1.7720090063708518e-06,EU27,2015
+2392,COD,Growing fibre crops industry,TKM,0.0002754892320440904,EU27,2015
+2393,COD,Growing crops n.e.c. industry,TKM,8.815406491024386e-06,EU27,2015
+2394,COD,Growing grapes industry,TKM,0.0,EU27,2015
+2395,COD,Growing fruits and nuts industry,TKM,0.0010189932758279412,EU27,2015
+2396,COD,"Growing beverage crops (coffee, tea etc) industry",TKM,1.46415524120095e-05,EU27,2015
+2397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,1.2801518679772026e-08,EU27,2015
+2398,COD,Seeds and plant propagation industry,TKM,0.0,EU27,2015
+2399,COD,Raising of cattle industry,TKM,0.0003161815099102455,EU27,2015
+2400,COD,Growing wheat industry,TUN,0.0002116674645387614,EU27,2015
+2401,COD,Growing maize industry,TUN,0.009096156107413267,EU27,2015
+2402,COD,Growing cereals n.e.c industry,TUN,3.384800799980529e-06,EU27,2015
+2403,COD,Growing leguminous crops and oil seeds industry,TUN,0.0002306668562890827,EU27,2015
+2404,COD,Growing rice industry,TUN,0.0001960439069759835,EU27,2015
+2405,COD,"Growing vegetables, roots, tubers industry",TUN,0.0014086032791035138,EU27,2015
+2406,COD,Growing sugar beet and cane industry,TUN,0.00019753017090909104,EU27,2015
+2407,COD,Growing tobacco industry,TUN,1.0367899318019745e-05,EU27,2015
+2408,COD,Growing fibre crops industry,TUN,0.006560453301880457,EU27,2015
+2409,COD,Growing crops n.e.c. industry,TUN,5.1959762835549545e-05,EU27,2015
+2410,COD,Growing grapes industry,TUN,0.0,EU27,2015
+2411,COD,Growing fruits and nuts industry,TUN,0.006055285282972503,EU27,2015
+2412,COD,"Growing beverage crops (coffee, tea etc) industry",TUN,8.319861757734705e-05,EU27,2015
+2413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,1.1888992209596608e-07,EU27,2015
+2414,COD,Seeds and plant propagation industry,TUN,0.0,EU27,2015
+2415,COD,Raising of cattle industry,TUN,0.0018812571861140286,EU27,2015
+2416,COD,Growing wheat industry,TUR,0.001178796776745104,EU27,2015
+2417,COD,Growing maize industry,TUR,0.07432568270605515,EU27,2015
+2418,COD,Growing cereals n.e.c industry,TUR,4.072621299549404e-05,EU27,2015
+2419,COD,Growing leguminous crops and oil seeds industry,TUR,0.0017541114824872655,EU27,2015
+2420,COD,Growing rice industry,TUR,0.0013281552036316275,EU27,2015
+2421,COD,"Growing vegetables, roots, tubers industry",TUR,0.011261980760249648,EU27,2015
+2422,COD,Growing sugar beet and cane industry,TUR,0.001502481480799713,EU27,2015
+2423,COD,Growing tobacco industry,TUR,0.00011527895147411036,EU27,2015
+2424,COD,Growing fibre crops industry,TUR,0.09595184105518555,EU27,2015
+2425,COD,Growing crops n.e.c. industry,TUR,0.00044104057118718654,EU27,2015
+2426,COD,Growing grapes industry,TUR,0.0,EU27,2015
+2427,COD,Growing fruits and nuts industry,TUR,0.06632538320340794,EU27,2015
+2428,COD,"Growing beverage crops (coffee, tea etc) industry",TUR,0.0009250056794727101,EU27,2015
+2429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,8.321167630516274e-07,EU27,2015
+2430,COD,Seeds and plant propagation industry,TUR,0.0,EU27,2015
+2431,COD,Raising of cattle industry,TUR,0.0177888082180474,EU27,2015
+2432,COD,Growing wheat industry,TZA,2.6018778761167166e-05,EU27,2015
+2433,COD,Growing maize industry,TZA,0.0014062524002582358,EU27,2015
+2434,COD,Growing cereals n.e.c industry,TZA,7.943322199963439e-07,EU27,2015
+2435,COD,Growing leguminous crops and oil seeds industry,TZA,4.123855682117504e-05,EU27,2015
+2436,COD,Growing rice industry,TZA,2.9470060023032135e-05,EU27,2015
+2437,COD,"Growing vegetables, roots, tubers industry",TZA,0.00018957411432413162,EU27,2015
+2438,COD,Growing sugar beet and cane industry,TZA,2.0774128090406515e-05,EU27,2015
+2439,COD,Growing tobacco industry,TZA,2.4799905596643277e-06,EU27,2015
+2440,COD,Growing fibre crops industry,TZA,0.0005000755069445059,EU27,2015
+2441,COD,Growing crops n.e.c. industry,TZA,8.899921119243394e-06,EU27,2015
+2442,COD,Growing grapes industry,TZA,0.0,EU27,2015
+2443,COD,Growing fruits and nuts industry,TZA,0.001301946277105932,EU27,2015
+2444,COD,"Growing beverage crops (coffee, tea etc) industry",TZA,1.597155775968599e-05,EU27,2015
+2445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,1.9510320916494655e-08,EU27,2015
+2446,COD,Seeds and plant propagation industry,TZA,0.0,EU27,2015
+2447,COD,Raising of cattle industry,TZA,0.00036991402222106786,EU27,2015
+2448,COD,Growing wheat industry,UGA,1.4631921482263178e-05,EU27,2015
+2449,COD,Growing maize industry,UGA,0.0008639739363633159,EU27,2015
+2450,COD,Growing cereals n.e.c industry,UGA,4.648005211562659e-07,EU27,2015
+2451,COD,Growing leguminous crops and oil seeds industry,UGA,2.231993553663879e-05,EU27,2015
+2452,COD,Growing rice industry,UGA,1.495215844499419e-05,EU27,2015
+2453,COD,"Growing vegetables, roots, tubers industry",UGA,9.109352271466072e-05,EU27,2015
+2454,COD,Growing sugar beet and cane industry,UGA,1.1621918054513762e-05,EU27,2015
+2455,COD,Growing tobacco industry,UGA,1.1685912917250867e-06,EU27,2015
+2456,COD,Growing fibre crops industry,UGA,0.0003199086692844251,EU27,2015
+2457,COD,Growing crops n.e.c. industry,UGA,5.113919079348385e-06,EU27,2015
+2458,COD,Growing grapes industry,UGA,0.0,EU27,2015
+2459,COD,Growing fruits and nuts industry,UGA,0.0006843126088430953,EU27,2015
+2460,COD,"Growing beverage crops (coffee, tea etc) industry",UGA,8.695773433750255e-06,EU27,2015
+2461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,8.890791017657015e-09,EU27,2015
+2462,COD,Seeds and plant propagation industry,UGA,0.0,EU27,2015
+2463,COD,Raising of cattle industry,UGA,0.0001991265531596165,EU27,2015
+2464,COD,Growing wheat industry,UKR,0.0002564103937989728,EU27,2015
+2465,COD,Growing maize industry,UKR,0.015128720543970499,EU27,2015
+2466,COD,Growing cereals n.e.c industry,UKR,1.1988916667052041e-05,EU27,2015
+2467,COD,Growing leguminous crops and oil seeds industry,UKR,0.00036972137036764003,EU27,2015
+2468,COD,Growing rice industry,UKR,0.00031507437786505406,EU27,2015
+2469,COD,"Growing vegetables, roots, tubers industry",UKR,0.007290528532033729,EU27,2015
+2470,COD,Growing sugar beet and cane industry,UKR,0.000162794343544842,EU27,2015
+2471,COD,Growing tobacco industry,UKR,4.436548598454942e-05,EU27,2015
+2472,COD,Growing fibre crops industry,UKR,0.004622633223422571,EU27,2015
+2473,COD,Growing crops n.e.c. industry,UKR,9.135720809229134e-05,EU27,2015
+2474,COD,Growing grapes industry,UKR,0.0,EU27,2015
+2475,COD,Growing fruits and nuts industry,UKR,0.019927109614040806,EU27,2015
+2476,COD,"Growing beverage crops (coffee, tea etc) industry",UKR,0.0002939139978457504,EU27,2015
+2477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,2.4999167395851965e-07,EU27,2015
+2478,COD,Seeds and plant propagation industry,UKR,0.0,EU27,2015
+2479,COD,Raising of cattle industry,UKR,0.0040468766146309915,EU27,2015
+2480,COD,Growing wheat industry,URY,6.355026697621033e-05,EU27,2015
+2481,COD,Growing maize industry,URY,0.0062019047910857085,EU27,2015
+2482,COD,Growing cereals n.e.c industry,URY,1.3485541133387922e-06,EU27,2015
+2483,COD,Growing leguminous crops and oil seeds industry,URY,0.0001022154498425465,EU27,2015
+2484,COD,Growing rice industry,URY,5.8429105790600305e-05,EU27,2015
+2485,COD,"Growing vegetables, roots, tubers industry",URY,0.0004435357177570378,EU27,2015
+2486,COD,Growing sugar beet and cane industry,URY,8.368926076310386e-05,EU27,2015
+2487,COD,Growing tobacco industry,URY,8.734761607676974e-06,EU27,2015
+2488,COD,Growing fibre crops industry,URY,0.0019695504092148053,EU27,2015
+2489,COD,Growing crops n.e.c. industry,URY,2.0343537985306574e-05,EU27,2015
+2490,COD,Growing grapes industry,URY,0.0,EU27,2015
+2491,COD,Growing fruits and nuts industry,URY,0.0030321671880981817,EU27,2015
+2492,COD,"Growing beverage crops (coffee, tea etc) industry",URY,4.562991704841292e-05,EU27,2015
+2493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,3.980276927429191e-08,EU27,2015
+2494,COD,Seeds and plant propagation industry,URY,0.0,EU27,2015
+2495,COD,Raising of cattle industry,URY,0.0006705202677168222,EU27,2015
+2496,COD,Growing wheat industry,USA,0.010076268699103821,EU27,2015
+2497,COD,Growing maize industry,USA,0.5180656309868437,EU27,2015
+2498,COD,Growing cereals n.e.c industry,USA,0.0002924789364692987,EU27,2015
+2499,COD,Growing leguminous crops and oil seeds industry,USA,0.014940822362332913,EU27,2015
+2500,COD,Growing rice industry,USA,0.009057888273983064,EU27,2015
+2501,COD,"Growing vegetables, roots, tubers industry",USA,0.0696456913395599,EU27,2015
+2502,COD,Growing sugar beet and cane industry,USA,0.008101362878938855,EU27,2015
+2503,COD,Growing tobacco industry,USA,0.0008991877730508648,EU27,2015
+2504,COD,Growing fibre crops industry,USA,0.5659112378448604,EU27,2015
+2505,COD,Growing crops n.e.c. industry,USA,0.002558229906355938,EU27,2015
+2506,COD,Growing grapes industry,USA,0.0,EU27,2015
+2507,COD,Growing fruits and nuts industry,USA,0.43313753199368216,EU27,2015
+2508,COD,"Growing beverage crops (coffee, tea etc) industry",USA,0.006831383875396846,EU27,2015
+2509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,6.363643073401085e-06,EU27,2015
+2510,COD,Seeds and plant propagation industry,USA,0.0,EU27,2015
+2511,COD,Raising of cattle industry,USA,0.10435606506327459,EU27,2015
+2512,COD,Growing wheat industry,UZB,5.0862777976192015e-05,EU27,2015
+2513,COD,Growing maize industry,UZB,0.016736581179667552,EU27,2015
+2514,COD,Growing cereals n.e.c industry,UZB,3.2756391700054215e-06,EU27,2015
+2515,COD,Growing leguminous crops and oil seeds industry,UZB,8.771106437646762e-05,EU27,2015
+2516,COD,Growing rice industry,UZB,6.43189897231794e-05,EU27,2015
+2517,COD,"Growing vegetables, roots, tubers industry",UZB,0.0005584989440377572,EU27,2015
+2518,COD,Growing sugar beet and cane industry,UZB,6.680845249552285e-05,EU27,2015
+2519,COD,Growing tobacco industry,UZB,5.147578805625521e-06,EU27,2015
+2520,COD,Growing fibre crops industry,UZB,0.0009213795222226017,EU27,2015
+2521,COD,Growing crops n.e.c. industry,UZB,3.893379379360742e-05,EU27,2015
+2522,COD,Growing grapes industry,UZB,0.0,EU27,2015
+2523,COD,Growing fruits and nuts industry,UZB,0.0037386152964140064,EU27,2015
+2524,COD,"Growing beverage crops (coffee, tea etc) industry",UZB,3.810910867370363e-05,EU27,2015
+2525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,3.689904064235442e-08,EU27,2015
+2526,COD,Seeds and plant propagation industry,UZB,0.0,EU27,2015
+2527,COD,Raising of cattle industry,UZB,0.0008739396548731233,EU27,2015
+2528,COD,Growing wheat industry,VEN,0.0008208562089263965,EU27,2015
+2529,COD,Growing maize industry,VEN,0.058503234186279035,EU27,2015
+2530,COD,Growing cereals n.e.c industry,VEN,1.9048812521738972e-05,EU27,2015
+2531,COD,Growing leguminous crops and oil seeds industry,VEN,0.0011094743357041722,EU27,2015
+2532,COD,Growing rice industry,VEN,0.0007592628323965809,EU27,2015
+2533,COD,"Growing vegetables, roots, tubers industry",VEN,0.006001595109922576,EU27,2015
+2534,COD,Growing sugar beet and cane industry,VEN,0.001261498298323816,EU27,2015
+2535,COD,Growing tobacco industry,VEN,6.891171521553903e-05,EU27,2015
+2536,COD,Growing fibre crops industry,VEN,0.20688345532593896,EU27,2015
+2537,COD,Growing crops n.e.c. industry,VEN,0.00020520404391368208,EU27,2015
+2538,COD,Growing grapes industry,VEN,0.0,EU27,2015
+2539,COD,Growing fruits and nuts industry,VEN,0.03347623323524107,EU27,2015
+2540,COD,"Growing beverage crops (coffee, tea etc) industry",VEN,0.000541472210459879,EU27,2015
+2541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,4.4725081553121473e-07,EU27,2015
+2542,COD,Seeds and plant propagation industry,VEN,0.0,EU27,2015
+2543,COD,Raising of cattle industry,VEN,0.007722763242957001,EU27,2015
+2544,COD,Growing wheat industry,VNM,0.00020148939726637356,EU27,2015
+2545,COD,Growing maize industry,VNM,0.01572571860244306,EU27,2015
+2546,COD,Growing cereals n.e.c industry,VNM,6.482917933863422e-06,EU27,2015
+2547,COD,Growing leguminous crops and oil seeds industry,VNM,0.00033145890692890976,EU27,2015
+2548,COD,Growing rice industry,VNM,0.00019813971779565775,EU27,2015
+2549,COD,"Growing vegetables, roots, tubers industry",VNM,0.0016318400192546951,EU27,2015
+2550,COD,Growing sugar beet and cane industry,VNM,0.00017295419233914354,EU27,2015
+2551,COD,Growing tobacco industry,VNM,2.2130366553301506e-05,EU27,2015
+2552,COD,Growing fibre crops industry,VNM,0.009702622628463184,EU27,2015
+2553,COD,Growing crops n.e.c. industry,VNM,7.01827056997693e-05,EU27,2015
+2554,COD,Growing grapes industry,VNM,0.0,EU27,2015
+2555,COD,Growing fruits and nuts industry,VNM,0.01048852499579525,EU27,2015
+2556,COD,"Growing beverage crops (coffee, tea etc) industry",VNM,0.00013195801482701117,EU27,2015
+2557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,1.633188417016575e-07,EU27,2015
+2558,COD,Seeds and plant propagation industry,VNM,0.0,EU27,2015
+2559,COD,Raising of cattle industry,VNM,0.002406442473068669,EU27,2015
+2560,COD,Growing wheat industry,YEM,2.0727680090728054e-05,EU27,2015
+2561,COD,Growing maize industry,YEM,0.0021296107592452124,EU27,2015
+2562,COD,Growing cereals n.e.c industry,YEM,6.731374964629541e-07,EU27,2015
+2563,COD,Growing leguminous crops and oil seeds industry,YEM,3.0024148813537982e-05,EU27,2015
+2564,COD,Growing rice industry,YEM,2.1538632078829594e-05,EU27,2015
+2565,COD,"Growing vegetables, roots, tubers industry",YEM,0.00015573817556715307,EU27,2015
+2566,COD,Growing sugar beet and cane industry,YEM,1.8146952830445917e-05,EU27,2015
+2567,COD,Growing tobacco industry,YEM,1.7119296447621656e-06,EU27,2015
+2568,COD,Growing fibre crops industry,YEM,0.0003438614269136297,EU27,2015
+2569,COD,Growing crops n.e.c. industry,YEM,7.734658078120897e-06,EU27,2015
+2570,COD,Growing grapes industry,YEM,0.0,EU27,2015
+2571,COD,Growing fruits and nuts industry,YEM,0.0009704804862157196,EU27,2015
+2572,COD,"Growing beverage crops (coffee, tea etc) industry",YEM,1.2012764594005062e-05,EU27,2015
+2573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,1.4241805014219336e-08,EU27,2015
+2574,COD,Seeds and plant propagation industry,YEM,0.0,EU27,2015
+2575,COD,Raising of cattle industry,YEM,0.0002757009938383969,EU27,2015
+2576,COD,Growing wheat industry,ZAF,0.0003856862706973138,EU27,2015
+2577,COD,Growing maize industry,ZAF,0.029923492432991267,EU27,2015
+2578,COD,Growing cereals n.e.c industry,ZAF,1.217486741466811e-05,EU27,2015
+2579,COD,Growing leguminous crops and oil seeds industry,ZAF,0.0006083679377954955,EU27,2015
+2580,COD,Growing rice industry,ZAF,0.0004045963755038207,EU27,2015
+2581,COD,"Growing vegetables, roots, tubers industry",ZAF,0.003228571867680948,EU27,2015
+2582,COD,Growing sugar beet and cane industry,ZAF,0.0003721842844975562,EU27,2015
+2583,COD,Growing tobacco industry,ZAF,3.973901893737767e-05,EU27,2015
+2584,COD,Growing fibre crops industry,ZAF,0.2373635472908229,EU27,2015
+2585,COD,Growing crops n.e.c. industry,ZAF,0.0001404859879150102,EU27,2015
+2586,COD,Growing grapes industry,ZAF,0.0,EU27,2015
+2587,COD,Growing fruits and nuts industry,ZAF,0.022877830379447045,EU27,2015
+2588,COD,"Growing beverage crops (coffee, tea etc) industry",ZAF,0.0002679092347880727,EU27,2015
+2589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,3.0161418921550187e-07,EU27,2015
+2590,COD,Seeds and plant propagation industry,ZAF,0.0,EU27,2015
+2591,COD,Raising of cattle industry,ZAF,0.005132856063886529,EU27,2015
+2592,COD,Growing wheat industry,ZMB,2.3456713151004776e-05,EU27,2015
+2593,COD,Growing maize industry,ZMB,0.00114667609602697,EU27,2015
+2594,COD,Growing cereals n.e.c industry,ZMB,5.895958626109756e-07,EU27,2015
+2595,COD,Growing leguminous crops and oil seeds industry,ZMB,3.470436593963844e-05,EU27,2015
+2596,COD,Growing rice industry,ZMB,2.3987947371851607e-05,EU27,2015
+2597,COD,"Growing vegetables, roots, tubers industry",ZMB,0.0001240408601006104,EU27,2015
+2598,COD,Growing sugar beet and cane industry,ZMB,1.759331571624155e-05,EU27,2015
+2599,COD,Growing tobacco industry,ZMB,2.1988385188649348e-06,EU27,2015
+2600,COD,Growing fibre crops industry,ZMB,0.0007183731850319394,EU27,2015
+2601,COD,Growing crops n.e.c. industry,ZMB,8.395423773402955e-06,EU27,2015
+2602,COD,Growing grapes industry,ZMB,0.0,EU27,2015
+2603,COD,Growing fruits and nuts industry,ZMB,0.0008543344338626928,EU27,2015
+2604,COD,"Growing beverage crops (coffee, tea etc) industry",ZMB,1.1961706309587799e-05,EU27,2015
+2605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,1.7109145267376463e-08,EU27,2015
+2606,COD,Seeds and plant propagation industry,ZMB,0.0,EU27,2015
+2607,COD,Raising of cattle industry,ZMB,0.00032189784234235307,EU27,2015
+2608,COD,Growing wheat industry,ZWE,1.5940340820648596e-05,EU27,2015
+2609,COD,Growing maize industry,ZWE,0.001092215352255216,EU27,2015
+2610,COD,Growing cereals n.e.c industry,ZWE,4.1029002145273077e-07,EU27,2015
+2611,COD,Growing leguminous crops and oil seeds industry,ZWE,2.3333396512438512e-05,EU27,2015
+2612,COD,Growing rice industry,ZWE,1.7779654848849182e-05,EU27,2015
+2613,COD,"Growing vegetables, roots, tubers industry",ZWE,9.698314338457478e-05,EU27,2015
+2614,COD,Growing sugar beet and cane industry,ZWE,1.3894400392369832e-05,EU27,2015
+2615,COD,Growing tobacco industry,ZWE,1.4644041305920085e-06,EU27,2015
+2616,COD,Growing fibre crops industry,ZWE,0.00158656529180636,EU27,2015
+2617,COD,Growing crops n.e.c. industry,ZWE,6.435336432304342e-06,EU27,2015
+2618,COD,Growing grapes industry,ZWE,0.0,EU27,2015
+2619,COD,Growing fruits and nuts industry,ZWE,0.0006728983705675696,EU27,2015
+2620,COD,"Growing beverage crops (coffee, tea etc) industry",ZWE,8.726176131831524e-06,EU27,2015
+2621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,1.2013865843593084e-08,EU27,2015
+2622,COD,Seeds and plant propagation industry,ZWE,0.0,EU27,2015
+2623,COD,Raising of cattle industry,ZWE,0.00023607486071140833,EU27,2015

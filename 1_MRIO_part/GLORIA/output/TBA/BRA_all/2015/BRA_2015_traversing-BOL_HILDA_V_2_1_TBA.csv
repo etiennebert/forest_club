@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,BRA,Growing wheat industry,XAM,0.0002934675967885457,BOL,2015
+1,BRA,Growing maize industry,XAM,0.00010436749452949834,BOL,2015
+2,BRA,Growing cereals n.e.c industry,XAM,0.000162463054902124,BOL,2015
+3,BRA,Growing leguminous crops and oil seeds industry,XAM,0.008316261186077378,BOL,2015
+4,BRA,Growing rice industry,XAM,0.0,BOL,2015
+5,BRA,"Growing vegetables, roots, tubers industry",XAM,4.661406586156734e-06,BOL,2015
+6,BRA,Growing sugar beet and cane industry,XAM,0.0009450058305498421,BOL,2015
+7,BRA,Growing tobacco industry,XAM,1.0256642533291153e-06,BOL,2015
+8,BRA,Growing fibre crops industry,XAM,5.550831554028197e-05,BOL,2015
+9,BRA,Growing crops n.e.c. industry,XAM,3.254962668337919e-05,BOL,2015
+10,BRA,Growing grapes industry,XAM,0.0,BOL,2015
+11,BRA,Growing fruits and nuts industry,XAM,0.0,BOL,2015
+12,BRA,"Growing beverage crops (coffee, tea etc) industry",XAM,1.4114580096408567e-05,BOL,2015
+13,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,2.4504679165960715e-07,BOL,2015
+14,BRA,Seeds and plant propagation industry,XAM,0.0,BOL,2015
+15,BRA,Raising of cattle industry,XAM,0.001438925841055406,BOL,2015
+16,BRA,Growing wheat industry,XEU,0.0001757610722345872,BOL,2015
+17,BRA,Growing maize industry,XEU,5.8141913712744414e-05,BOL,2015
+18,BRA,Growing cereals n.e.c industry,XEU,9.057128288116547e-05,BOL,2015
+19,BRA,Growing leguminous crops and oil seeds industry,XEU,0.004436359752123133,BOL,2015
+20,BRA,Growing rice industry,XEU,0.0,BOL,2015
+21,BRA,"Growing vegetables, roots, tubers industry",XEU,2.641420673111413e-06,BOL,2015
+22,BRA,Growing sugar beet and cane industry,XEU,0.0006033169434191351,BOL,2015
+23,BRA,Growing tobacco industry,XEU,6.026798835830891e-07,BOL,2015
+24,BRA,Growing fibre crops industry,XEU,2.4030929081991522e-05,BOL,2015
+25,BRA,Growing crops n.e.c. industry,XEU,1.6119757252541383e-05,BOL,2015
+26,BRA,Growing grapes industry,XEU,0.0,BOL,2015
+27,BRA,Growing fruits and nuts industry,XEU,0.0,BOL,2015
+28,BRA,"Growing beverage crops (coffee, tea etc) industry",XEU,7.542349916489e-06,BOL,2015
+29,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,1.137178782016924e-07,BOL,2015
+30,BRA,Seeds and plant propagation industry,XEU,0.0,BOL,2015
+31,BRA,Raising of cattle industry,XEU,0.0018467313788198604,BOL,2015
+32,BRA,Growing wheat industry,XAF,3.978046066507307e-05,BOL,2015
+33,BRA,Growing maize industry,XAF,1.712090090981501e-05,BOL,2015
+34,BRA,Growing cereals n.e.c industry,XAF,2.4565233002173947e-05,BOL,2015
+35,BRA,Growing leguminous crops and oil seeds industry,XAF,0.0010311458969670584,BOL,2015
+36,BRA,Growing rice industry,XAF,0.0,BOL,2015
+37,BRA,"Growing vegetables, roots, tubers industry",XAF,5.08420856281364e-07,BOL,2015
+38,BRA,Growing sugar beet and cane industry,XAF,0.0001472831686347283,BOL,2015
+39,BRA,Growing tobacco industry,XAF,1.0852512245585808e-07,BOL,2015
+40,BRA,Growing fibre crops industry,XAF,7.707699076500197e-06,BOL,2015
+41,BRA,Growing crops n.e.c. industry,XAF,5.585692359373978e-06,BOL,2015
+42,BRA,Growing grapes industry,XAF,0.0,BOL,2015
+43,BRA,Growing fruits and nuts industry,XAF,0.0,BOL,2015
+44,BRA,"Growing beverage crops (coffee, tea etc) industry",XAF,2.052463359819797e-06,BOL,2015
+45,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,3.525459435387653e-08,BOL,2015
+46,BRA,Seeds and plant propagation industry,XAF,0.0,BOL,2015
+47,BRA,Raising of cattle industry,XAF,0.0002792099132126977,BOL,2015
+48,BRA,Growing wheat industry,XAS,0.00010275457518278574,BOL,2015
+49,BRA,Growing maize industry,XAS,3.876088718178625e-05,BOL,2015
+50,BRA,Growing cereals n.e.c industry,XAS,6.14937306907395e-05,BOL,2015
+51,BRA,Growing leguminous crops and oil seeds industry,XAS,0.0028070974192579753,BOL,2015
+52,BRA,Growing rice industry,XAS,0.0,BOL,2015
+53,BRA,"Growing vegetables, roots, tubers industry",XAS,1.3544042480914097e-06,BOL,2015
+54,BRA,Growing sugar beet and cane industry,XAS,0.00033417116050328994,BOL,2015
+55,BRA,Growing tobacco industry,XAS,2.6972456999910857e-07,BOL,2015
+56,BRA,Growing fibre crops industry,XAS,2.17363158207084e-05,BOL,2015
+57,BRA,Growing crops n.e.c. industry,XAS,1.1988426364270842e-05,BOL,2015
+58,BRA,Growing grapes industry,XAS,0.0,BOL,2015
+59,BRA,Growing fruits and nuts industry,XAS,0.0,BOL,2015
+60,BRA,"Growing beverage crops (coffee, tea etc) industry",XAS,5.114538115116308e-06,BOL,2015
+61,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,9.649119510985911e-08,BOL,2015
+62,BRA,Seeds and plant propagation industry,XAS,0.0,BOL,2015
+63,BRA,Raising of cattle industry,XAS,0.0009114595539386228,BOL,2015
+64,BRA,Growing wheat industry,AFG,1.684794778939639e-05,BOL,2015
+65,BRA,Growing maize industry,AFG,4.8975789964053256e-06,BOL,2015
+66,BRA,Growing cereals n.e.c industry,AFG,7.219074997063891e-06,BOL,2015
+67,BRA,Growing leguminous crops and oil seeds industry,AFG,0.0003982954483614444,BOL,2015
+68,BRA,Growing rice industry,AFG,0.0,BOL,2015
+69,BRA,"Growing vegetables, roots, tubers industry",AFG,2.0761786464103587e-07,BOL,2015
+70,BRA,Growing sugar beet and cane industry,AFG,4.447079808026175e-05,BOL,2015
+71,BRA,Growing tobacco industry,AFG,4.8582457711705936e-08,BOL,2015
+72,BRA,Growing fibre crops industry,AFG,3.867077046795549e-06,BOL,2015
+73,BRA,Growing crops n.e.c. industry,AFG,1.7764790634906153e-06,BOL,2015
+74,BRA,Growing grapes industry,AFG,0.0,BOL,2015
+75,BRA,Growing fruits and nuts industry,AFG,0.0,BOL,2015
+76,BRA,"Growing beverage crops (coffee, tea etc) industry",AFG,7.333026694476892e-07,BOL,2015
+77,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,1.1721126222919502e-08,BOL,2015
+78,BRA,Seeds and plant propagation industry,AFG,0.0,BOL,2015
+79,BRA,Raising of cattle industry,AFG,5.905667491422112e-05,BOL,2015
+80,BRA,Growing wheat industry,AGO,0.00030653800660704664,BOL,2015
+81,BRA,Growing maize industry,AGO,0.00013667193752255267,BOL,2015
+82,BRA,Growing cereals n.e.c industry,AGO,0.00019520966327100163,BOL,2015
+83,BRA,Growing leguminous crops and oil seeds industry,AGO,0.007415551983886873,BOL,2015
+84,BRA,Growing rice industry,AGO,0.0,BOL,2015
+85,BRA,"Growing vegetables, roots, tubers industry",AGO,4.026666430810695e-06,BOL,2015
+86,BRA,Growing sugar beet and cane industry,AGO,0.0009936716221321915,BOL,2015
+87,BRA,Growing tobacco industry,AGO,7.941858727144772e-07,BOL,2015
+88,BRA,Growing fibre crops industry,AGO,5.061570031427674e-05,BOL,2015
+89,BRA,Growing crops n.e.c. industry,AGO,0.00013619640043966303,BOL,2015
+90,BRA,Growing grapes industry,AGO,0.0,BOL,2015
+91,BRA,Growing fruits and nuts industry,AGO,0.0,BOL,2015
+92,BRA,"Growing beverage crops (coffee, tea etc) industry",AGO,1.1672581468058743e-05,BOL,2015
+93,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,2.8505167808334315e-07,BOL,2015
+94,BRA,Seeds and plant propagation industry,AGO,0.0,BOL,2015
+95,BRA,Raising of cattle industry,AGO,0.0013499499118395772,BOL,2015
+96,BRA,Growing wheat industry,ALB,1.5093407385148157e-05,BOL,2015
+97,BRA,Growing maize industry,ALB,5.948542401889423e-06,BOL,2015
+98,BRA,Growing cereals n.e.c industry,ALB,8.445467992528016e-06,BOL,2015
+99,BRA,Growing leguminous crops and oil seeds industry,ALB,0.0003979707575526402,BOL,2015
+100,BRA,Growing rice industry,ALB,0.0,BOL,2015
+101,BRA,"Growing vegetables, roots, tubers industry",ALB,2.2293339674581617e-07,BOL,2015
+102,BRA,Growing sugar beet and cane industry,ALB,5.466403627280144e-05,BOL,2015
+103,BRA,Growing tobacco industry,ALB,4.520319444922206e-08,BOL,2015
+104,BRA,Growing fibre crops industry,ALB,2.682099845812941e-06,BOL,2015
+105,BRA,Growing crops n.e.c. industry,ALB,2.484795020447371e-06,BOL,2015
+106,BRA,Growing grapes industry,ALB,0.0,BOL,2015
+107,BRA,Growing fruits and nuts industry,ALB,0.0,BOL,2015
+108,BRA,"Growing beverage crops (coffee, tea etc) industry",ALB,7.47609202230756e-07,BOL,2015
+109,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,1.2011760998476352e-08,BOL,2015
+110,BRA,Seeds and plant propagation industry,ALB,0.0,BOL,2015
+111,BRA,Raising of cattle industry,ALB,7.141439688066416e-05,BOL,2015
+112,BRA,Growing wheat industry,ARE,0.00185861321780551,BOL,2015
+113,BRA,Growing maize industry,ARE,0.0003942248041094299,BOL,2015
+114,BRA,Growing cereals n.e.c industry,ARE,0.0005289242399850764,BOL,2015
+115,BRA,Growing leguminous crops and oil seeds industry,ARE,0.035813807237301334,BOL,2015
+116,BRA,Growing rice industry,ARE,0.0,BOL,2015
+117,BRA,"Growing vegetables, roots, tubers industry",ARE,1.646674959175122e-05,BOL,2015
+118,BRA,Growing sugar beet and cane industry,ARE,0.0030085672982393895,BOL,2015
+119,BRA,Growing tobacco industry,ARE,4.310770469985065e-06,BOL,2015
+120,BRA,Growing fibre crops industry,ARE,0.0002641594008710983,BOL,2015
+121,BRA,Growing crops n.e.c. industry,ARE,0.00018427000714517467,BOL,2015
+122,BRA,Growing grapes industry,ARE,0.0,BOL,2015
+123,BRA,Growing fruits and nuts industry,ARE,0.0,BOL,2015
+124,BRA,"Growing beverage crops (coffee, tea etc) industry",ARE,7.305130492864507e-05,BOL,2015
+125,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,1.0804744549195281e-06,BOL,2015
+126,BRA,Seeds and plant propagation industry,ARE,0.0,BOL,2015
+127,BRA,Raising of cattle industry,ARE,0.004204284501548022,BOL,2015
+128,BRA,Growing wheat industry,ARG,0.005633768231082872,BOL,2015
+129,BRA,Growing maize industry,ARG,0.001826104390447884,BOL,2015
+130,BRA,Growing cereals n.e.c industry,ARG,0.003015028112138022,BOL,2015
+131,BRA,Growing leguminous crops and oil seeds industry,ARG,0.17438425992783402,BOL,2015
+132,BRA,Growing rice industry,ARG,0.0,BOL,2015
+133,BRA,"Growing vegetables, roots, tubers industry",ARG,0.00018184198212538335,BOL,2015
+134,BRA,Growing sugar beet and cane industry,ARG,0.022273567673098623,BOL,2015
+135,BRA,Growing tobacco industry,ARG,6.343079444457396e-05,BOL,2015
+136,BRA,Growing fibre crops industry,ARG,0.0011628999930295776,BOL,2015
+137,BRA,Growing crops n.e.c. industry,ARG,0.0005018859943945866,BOL,2015
+138,BRA,Growing grapes industry,ARG,0.0,BOL,2015
+139,BRA,Growing fruits and nuts industry,ARG,0.0,BOL,2015
+140,BRA,"Growing beverage crops (coffee, tea etc) industry",ARG,0.0003442105245992769,BOL,2015
+141,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,4.207356878509297e-06,BOL,2015
+142,BRA,Seeds and plant propagation industry,ARG,0.0,BOL,2015
+143,BRA,Raising of cattle industry,ARG,0.03164291464830245,BOL,2015
+144,BRA,Growing wheat industry,ARM,3.830651431128007e-05,BOL,2015
+145,BRA,Growing maize industry,ARM,1.805017089271246e-05,BOL,2015
+146,BRA,Growing cereals n.e.c industry,ARM,2.9743185708650453e-05,BOL,2015
+147,BRA,Growing leguminous crops and oil seeds industry,ARM,0.000945613251298168,BOL,2015
+148,BRA,Growing rice industry,ARM,0.0,BOL,2015
+149,BRA,"Growing vegetables, roots, tubers industry",ARM,3.072469986969981e-07,BOL,2015
+150,BRA,Growing sugar beet and cane industry,ARM,0.0001300610275888088,BOL,2015
+151,BRA,Growing tobacco industry,ARM,7.955857475083337e-08,BOL,2015
+152,BRA,Growing fibre crops industry,ARM,7.179408178870465e-06,BOL,2015
+153,BRA,Growing crops n.e.c. industry,ARM,8.973661305982375e-06,BOL,2015
+154,BRA,Growing grapes industry,ARM,0.0,BOL,2015
+155,BRA,Growing fruits and nuts industry,ARM,0.0,BOL,2015
+156,BRA,"Growing beverage crops (coffee, tea etc) industry",ARM,1.6612015292429485e-06,BOL,2015
+157,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,3.896644789518675e-08,BOL,2015
+158,BRA,Seeds and plant propagation industry,ARM,0.0,BOL,2015
+159,BRA,Raising of cattle industry,ARM,0.00042252804727093297,BOL,2015
+160,BRA,Growing wheat industry,AUS,0.0023724368342259556,BOL,2015
+161,BRA,Growing maize industry,AUS,0.0013956594896129067,BOL,2015
+162,BRA,Growing cereals n.e.c industry,AUS,0.0016341321140194859,BOL,2015
+163,BRA,Growing leguminous crops and oil seeds industry,AUS,0.061702819261249764,BOL,2015
+164,BRA,Growing rice industry,AUS,0.0,BOL,2015
+165,BRA,"Growing vegetables, roots, tubers industry",AUS,3.363937770830369e-05,BOL,2015
+166,BRA,Growing sugar beet and cane industry,AUS,0.009011549669013677,BOL,2015
+167,BRA,Growing tobacco industry,AUS,6.890554569312336e-06,BOL,2015
+168,BRA,Growing fibre crops industry,AUS,0.00041935400536513974,BOL,2015
+169,BRA,Growing crops n.e.c. industry,AUS,0.00037440208393855486,BOL,2015
+170,BRA,Growing grapes industry,AUS,0.0,BOL,2015
+171,BRA,Growing fruits and nuts industry,AUS,0.0,BOL,2015
+172,BRA,"Growing beverage crops (coffee, tea etc) industry",AUS,0.0001215384449213578,BOL,2015
+173,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,1.8725007962068927e-06,BOL,2015
+174,BRA,Seeds and plant propagation industry,AUS,0.0,BOL,2015
+175,BRA,Raising of cattle industry,AUS,0.010206776881176681,BOL,2015
+176,BRA,Growing wheat industry,AUT,0.0005110842090056733,BOL,2015
+177,BRA,Growing maize industry,AUT,0.00017051988556618123,BOL,2015
+178,BRA,Growing cereals n.e.c industry,AUT,0.0002478240810132727,BOL,2015
+179,BRA,Growing leguminous crops and oil seeds industry,AUT,0.01312411026413358,BOL,2015
+180,BRA,Growing rice industry,AUT,0.0,BOL,2015
+181,BRA,"Growing vegetables, roots, tubers industry",AUT,8.16350160923386e-06,BOL,2015
+182,BRA,Growing sugar beet and cane industry,AUT,0.002180976527086096,BOL,2015
+183,BRA,Growing tobacco industry,AUT,1.931215040401719e-06,BOL,2015
+184,BRA,Growing fibre crops industry,AUT,0.00011026874117779314,BOL,2015
+185,BRA,Growing crops n.e.c. industry,AUT,5.553609123601721e-05,BOL,2015
+186,BRA,Growing grapes industry,AUT,0.0,BOL,2015
+187,BRA,Growing fruits and nuts industry,AUT,0.0,BOL,2015
+188,BRA,"Growing beverage crops (coffee, tea etc) industry",AUT,2.9698453013183717e-05,BOL,2015
+189,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,4.486744159946175e-07,BOL,2015
+190,BRA,Seeds and plant propagation industry,AUT,0.0,BOL,2015
+191,BRA,Raising of cattle industry,AUT,0.002485875805326526,BOL,2015
+192,BRA,Growing wheat industry,AZE,3.716890064747288e-05,BOL,2015
+193,BRA,Growing maize industry,AZE,1.0568290313453959e-05,BOL,2015
+194,BRA,Growing cereals n.e.c industry,AZE,1.7229862866319327e-05,BOL,2015
+195,BRA,Growing leguminous crops and oil seeds industry,AZE,0.000952759495723352,BOL,2015
+196,BRA,Growing rice industry,AZE,0.0,BOL,2015
+197,BRA,"Growing vegetables, roots, tubers industry",AZE,4.4106455696398254e-07,BOL,2015
+198,BRA,Growing sugar beet and cane industry,AZE,0.00010334993058377753,BOL,2015
+199,BRA,Growing tobacco industry,AZE,1.0801677500382841e-07,BOL,2015
+200,BRA,Growing fibre crops industry,AZE,7.239064986340276e-06,BOL,2015
+201,BRA,Growing crops n.e.c. industry,AZE,5.230614855094924e-06,BOL,2015
+202,BRA,Growing grapes industry,AZE,0.0,BOL,2015
+203,BRA,Growing fruits and nuts industry,AZE,0.0,BOL,2015
+204,BRA,"Growing beverage crops (coffee, tea etc) industry",AZE,1.7205713812648095e-06,BOL,2015
+205,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,2.7093681742786824e-08,BOL,2015
+206,BRA,Seeds and plant propagation industry,AZE,0.0,BOL,2015
+207,BRA,Raising of cattle industry,AZE,0.00013913996361035255,BOL,2015
+208,BRA,Growing wheat industry,BDI,2.2100117566877915e-06,BOL,2015
+209,BRA,Growing maize industry,BDI,1.2248124610238439e-06,BOL,2015
+210,BRA,Growing cereals n.e.c industry,BDI,1.5994432437990582e-06,BOL,2015
+211,BRA,Growing leguminous crops and oil seeds industry,BDI,4.951940125294264e-05,BOL,2015
+212,BRA,Growing rice industry,BDI,0.0,BOL,2015
+213,BRA,"Growing vegetables, roots, tubers industry",BDI,2.7253010346526157e-08,BOL,2015
+214,BRA,Growing sugar beet and cane industry,BDI,7.138663102599146e-06,BOL,2015
+215,BRA,Growing tobacco industry,BDI,5.3141164797115835e-09,BOL,2015
+216,BRA,Growing fibre crops industry,BDI,3.2651926344100343e-07,BOL,2015
+217,BRA,Growing crops n.e.c. industry,BDI,7.35719267763484e-07,BOL,2015
+218,BRA,Growing grapes industry,BDI,0.0,BOL,2015
+219,BRA,Growing fruits and nuts industry,BDI,0.0,BOL,2015
+220,BRA,"Growing beverage crops (coffee, tea etc) industry",BDI,8.56805638052361e-08,BOL,2015
+221,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,1.7362435363325922e-09,BOL,2015
+222,BRA,Seeds and plant propagation industry,BDI,0.0,BOL,2015
+223,BRA,Raising of cattle industry,BDI,9.53977042531837e-06,BOL,2015
+224,BRA,Growing wheat industry,BEL,0.003614005525934913,BOL,2015
+225,BRA,Growing maize industry,BEL,0.0014450967916836447,BOL,2015
+226,BRA,Growing cereals n.e.c industry,BEL,0.0015649465073212996,BOL,2015
+227,BRA,Growing leguminous crops and oil seeds industry,BEL,0.10779799290374426,BOL,2015
+228,BRA,Growing rice industry,BEL,0.0,BOL,2015
+229,BRA,"Growing vegetables, roots, tubers industry",BEL,6.288704654117403e-05,BOL,2015
+230,BRA,Growing sugar beet and cane industry,BEL,0.011168685209265058,BOL,2015
+231,BRA,Growing tobacco industry,BEL,1.3108833695657732e-05,BOL,2015
+232,BRA,Growing fibre crops industry,BEL,0.0007204370424847642,BOL,2015
+233,BRA,Growing crops n.e.c. industry,BEL,0.0001951121072529103,BOL,2015
+234,BRA,Growing grapes industry,BEL,0.0,BOL,2015
+235,BRA,Growing fruits and nuts industry,BEL,0.0,BOL,2015
+236,BRA,"Growing beverage crops (coffee, tea etc) industry",BEL,0.00018281298719158615,BOL,2015
+237,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,2.9135495213288865e-06,BOL,2015
+238,BRA,Seeds and plant propagation industry,BEL,0.0,BOL,2015
+239,BRA,Raising of cattle industry,BEL,0.012084035174914904,BOL,2015
+240,BRA,Growing wheat industry,BEN,1.9432678184449113e-05,BOL,2015
+241,BRA,Growing maize industry,BEN,1.1369145829566634e-05,BOL,2015
+242,BRA,Growing cereals n.e.c industry,BEN,1.4724700906788076e-05,BOL,2015
+243,BRA,Growing leguminous crops and oil seeds industry,BEN,0.000399385106901422,BOL,2015
+244,BRA,Growing rice industry,BEN,0.0,BOL,2015
+245,BRA,"Growing vegetables, roots, tubers industry",BEN,2.1511754492983129e-07,BOL,2015
+246,BRA,Growing sugar beet and cane industry,BEN,8.169562852085606e-05,BOL,2015
+247,BRA,Growing tobacco industry,BEN,4.039409827099987e-08,BOL,2015
+248,BRA,Growing fibre crops industry,BEN,2.9477494851704836e-06,BOL,2015
+249,BRA,Growing crops n.e.c. industry,BEN,7.649106342629705e-06,BOL,2015
+250,BRA,Growing grapes industry,BEN,0.0,BOL,2015
+251,BRA,Growing fruits and nuts industry,BEN,0.0,BOL,2015
+252,BRA,"Growing beverage crops (coffee, tea etc) industry",BEN,8.64318279921356e-07,BOL,2015
+253,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,1.6147399975620583e-08,BOL,2015
+254,BRA,Seeds and plant propagation industry,BEN,0.0,BOL,2015
+255,BRA,Raising of cattle industry,BEN,8.752196926706359e-05,BOL,2015
+256,BRA,Growing wheat industry,BFA,1.3694434664814429e-05,BOL,2015
+257,BRA,Growing maize industry,BFA,7.107841373635748e-06,BOL,2015
+258,BRA,Growing cereals n.e.c industry,BFA,1.0313097303238411e-05,BOL,2015
+259,BRA,Growing leguminous crops and oil seeds industry,BFA,0.0003284022557852552,BOL,2015
+260,BRA,Growing rice industry,BFA,0.0,BOL,2015
+261,BRA,"Growing vegetables, roots, tubers industry",BFA,1.6087275317584374e-07,BOL,2015
+262,BRA,Growing sugar beet and cane industry,BFA,4.802323429607966e-05,BOL,2015
+263,BRA,Growing tobacco industry,BFA,3.204617543961954e-08,BOL,2015
+264,BRA,Growing fibre crops industry,BFA,1.9956448690121033e-06,BOL,2015
+265,BRA,Growing crops n.e.c. industry,BFA,6.090032892995103e-06,BOL,2015
+266,BRA,Growing grapes industry,BFA,0.0,BOL,2015
+267,BRA,Growing fruits and nuts industry,BFA,0.0,BOL,2015
+268,BRA,"Growing beverage crops (coffee, tea etc) industry",BFA,5.278074252900557e-07,BOL,2015
+269,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,1.2573507076047305e-08,BOL,2015
+270,BRA,Seeds and plant propagation industry,BFA,0.0,BOL,2015
+271,BRA,Raising of cattle industry,BFA,6.902391536600858e-05,BOL,2015
+272,BRA,Growing wheat industry,BGD,0.0007432367699917386,BOL,2015
+273,BRA,Growing maize industry,BGD,0.00020865787664675956,BOL,2015
+274,BRA,Growing cereals n.e.c industry,BGD,0.00017432840212511138,BOL,2015
+275,BRA,Growing leguminous crops and oil seeds industry,BGD,0.012203893481146531,BOL,2015
+276,BRA,Growing rice industry,BGD,0.0,BOL,2015
+277,BRA,"Growing vegetables, roots, tubers industry",BGD,1.758645957695205e-05,BOL,2015
+278,BRA,Growing sugar beet and cane industry,BGD,0.0010622803524074503,BOL,2015
+279,BRA,Growing tobacco industry,BGD,5.1226625064469406e-06,BOL,2015
+280,BRA,Growing fibre crops industry,BGD,0.00015434041677833595,BOL,2015
+281,BRA,Growing crops n.e.c. industry,BGD,2.7901359834258672e-05,BOL,2015
+282,BRA,Growing grapes industry,BGD,0.0,BOL,2015
+283,BRA,Growing fruits and nuts industry,BGD,0.0,BOL,2015
+284,BRA,"Growing beverage crops (coffee, tea etc) industry",BGD,2.2502625004565472e-05,BOL,2015
+285,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,6.112080067558315e-07,BOL,2015
+286,BRA,Seeds and plant propagation industry,BGD,0.0,BOL,2015
+287,BRA,Raising of cattle industry,BGD,0.004610100853388831,BOL,2015
+288,BRA,Growing wheat industry,BGR,8.56271384083874e-05,BOL,2015
+289,BRA,Growing maize industry,BGR,3.082579861076628e-05,BOL,2015
+290,BRA,Growing cereals n.e.c industry,BGR,4.5635428039343146e-05,BOL,2015
+291,BRA,Growing leguminous crops and oil seeds industry,BGR,0.002451081820629954,BOL,2015
+292,BRA,Growing rice industry,BGR,0.0,BOL,2015
+293,BRA,"Growing vegetables, roots, tubers industry",BGR,1.0668782494404197e-06,BOL,2015
+294,BRA,Growing sugar beet and cane industry,BGR,0.00026854069408938357,BOL,2015
+295,BRA,Growing tobacco industry,BGR,2.4673134579150903e-07,BOL,2015
+296,BRA,Growing fibre crops industry,BGR,1.7736112900006158e-05,BOL,2015
+297,BRA,Growing crops n.e.c. industry,BGR,1.0520577354210635e-05,BOL,2015
+298,BRA,Growing grapes industry,BGR,0.0,BOL,2015
+299,BRA,Growing fruits and nuts industry,BGR,0.0,BOL,2015
+300,BRA,"Growing beverage crops (coffee, tea etc) industry",BGR,4.101954850758895e-06,BOL,2015
+301,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,2.0932775505202298e-07,BOL,2015
+302,BRA,Seeds and plant propagation industry,BGR,0.0,BOL,2015
+303,BRA,Raising of cattle industry,BGR,0.0003598675027494756,BOL,2015
+304,BRA,Growing wheat industry,BHR,6.751064029580169e-05,BOL,2015
+305,BRA,Growing maize industry,BHR,2.963987536877665e-05,BOL,2015
+306,BRA,Growing cereals n.e.c industry,BHR,3.801955509758717e-05,BOL,2015
+307,BRA,Growing leguminous crops and oil seeds industry,BHR,0.001750501748625723,BOL,2015
+308,BRA,Growing rice industry,BHR,0.0,BOL,2015
+309,BRA,"Growing vegetables, roots, tubers industry",BHR,9.311414546775375e-07,BOL,2015
+310,BRA,Growing sugar beet and cane industry,BHR,0.00021595107224260473,BOL,2015
+311,BRA,Growing tobacco industry,BHR,2.0325136887425466e-07,BOL,2015
+312,BRA,Growing fibre crops industry,BHR,1.2010485744962811e-05,BOL,2015
+313,BRA,Growing crops n.e.c. industry,BHR,1.0036464047652655e-05,BOL,2015
+314,BRA,Growing grapes industry,BHR,0.0,BOL,2015
+315,BRA,Growing fruits and nuts industry,BHR,0.0,BOL,2015
+316,BRA,"Growing beverage crops (coffee, tea etc) industry",BHR,3.156640041737309e-06,BOL,2015
+317,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,7.672968001627728e-08,BOL,2015
+318,BRA,Seeds and plant propagation industry,BHR,0.0,BOL,2015
+319,BRA,Raising of cattle industry,BHR,0.0003049305862450028,BOL,2015
+320,BRA,Growing wheat industry,BHS,5.5525140594699336e-05,BOL,2015
+321,BRA,Growing maize industry,BHS,2.3427043375543504e-05,BOL,2015
+322,BRA,Growing cereals n.e.c industry,BHS,4.0242154452643145e-05,BOL,2015
+323,BRA,Growing leguminous crops and oil seeds industry,BHS,0.0014767618834523315,BOL,2015
+324,BRA,Growing rice industry,BHS,0.0,BOL,2015
+325,BRA,"Growing vegetables, roots, tubers industry",BHS,4.812338128708081e-07,BOL,2015
+326,BRA,Growing sugar beet and cane industry,BHS,0.0001877935979637972,BOL,2015
+327,BRA,Growing tobacco industry,BHS,1.1724152755547074e-07,BOL,2015
+328,BRA,Growing fibre crops industry,BHS,1.168579263003218e-05,BOL,2015
+329,BRA,Growing crops n.e.c. industry,BHS,8.888996484881659e-06,BOL,2015
+330,BRA,Growing grapes industry,BHS,0.0,BOL,2015
+331,BRA,Growing fruits and nuts industry,BHS,0.0,BOL,2015
+332,BRA,"Growing beverage crops (coffee, tea etc) industry",BHS,2.604182282054064e-06,BOL,2015
+333,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,5.8544740731267766e-08,BOL,2015
+334,BRA,Seeds and plant propagation industry,BHS,0.0,BOL,2015
+335,BRA,Raising of cattle industry,BHS,0.000661653231062667,BOL,2015
+336,BRA,Growing wheat industry,BIH,5.182267210022258e-05,BOL,2015
+337,BRA,Growing maize industry,BIH,1.928115439040594e-05,BOL,2015
+338,BRA,Growing cereals n.e.c industry,BIH,3.760168601081008e-05,BOL,2015
+339,BRA,Growing leguminous crops and oil seeds industry,BIH,0.0014091708138162407,BOL,2015
+340,BRA,Growing rice industry,BIH,0.0,BOL,2015
+341,BRA,"Growing vegetables, roots, tubers industry",BIH,3.9368738718682e-07,BOL,2015
+342,BRA,Growing sugar beet and cane industry,BIH,0.00021121093516653867,BOL,2015
+343,BRA,Growing tobacco industry,BIH,1.0545503362289593e-07,BOL,2015
+344,BRA,Growing fibre crops industry,BIH,1.2013575411266828e-05,BOL,2015
+345,BRA,Growing crops n.e.c. industry,BIH,5.98058632624495e-06,BOL,2015
+346,BRA,Growing grapes industry,BIH,0.0,BOL,2015
+347,BRA,Growing fruits and nuts industry,BIH,0.0,BOL,2015
+348,BRA,"Growing beverage crops (coffee, tea etc) industry",BIH,2.8393738981068386e-06,BOL,2015
+349,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,5.779953116033692e-08,BOL,2015
+350,BRA,Seeds and plant propagation industry,BIH,0.0,BOL,2015
+351,BRA,Raising of cattle industry,BIH,0.0006967170237301307,BOL,2015
+352,BRA,Growing wheat industry,BLR,0.0001421569350950206,BOL,2015
+353,BRA,Growing maize industry,BLR,3.5684230809479066e-05,BOL,2015
+354,BRA,Growing cereals n.e.c industry,BLR,5.5799312749738805e-05,BOL,2015
+355,BRA,Growing leguminous crops and oil seeds industry,BLR,0.0031530821191797015,BOL,2015
+356,BRA,Growing rice industry,BLR,0.0,BOL,2015
+357,BRA,"Growing vegetables, roots, tubers industry",BLR,1.7146017659961938e-06,BOL,2015
+358,BRA,Growing sugar beet and cane industry,BLR,0.0003317483681368039,BOL,2015
+359,BRA,Growing tobacco industry,BLR,4.0594678026259903e-07,BOL,2015
+360,BRA,Growing fibre crops industry,BLR,2.894075062288354e-05,BOL,2015
+361,BRA,Growing crops n.e.c. industry,BLR,2.2839960882593412e-05,BOL,2015
+362,BRA,Growing grapes industry,BLR,0.0,BOL,2015
+363,BRA,Growing fruits and nuts industry,BLR,0.0,BOL,2015
+364,BRA,"Growing beverage crops (coffee, tea etc) industry",BLR,5.973021602405562e-06,BOL,2015
+365,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,1.1278968598915739e-07,BOL,2015
+366,BRA,Seeds and plant propagation industry,BLR,0.0,BOL,2015
+367,BRA,Raising of cattle industry,BLR,0.0006091950880389905,BOL,2015
+368,BRA,Growing wheat industry,BLZ,4.880754308706408e-06,BOL,2015
+369,BRA,Growing maize industry,BLZ,1.6699221273507034e-06,BOL,2015
+370,BRA,Growing cereals n.e.c industry,BLZ,2.5958448182250185e-06,BOL,2015
+371,BRA,Growing leguminous crops and oil seeds industry,BLZ,0.0001589105563771246,BOL,2015
+372,BRA,Growing rice industry,BLZ,0.0,BOL,2015
+373,BRA,"Growing vegetables, roots, tubers industry",BLZ,6.222126219495556e-08,BOL,2015
+374,BRA,Growing sugar beet and cane industry,BLZ,1.839431560196715e-05,BOL,2015
+375,BRA,Growing tobacco industry,BLZ,1.581944342106878e-08,BOL,2015
+376,BRA,Growing fibre crops industry,BLZ,1.1341023813290322e-06,BOL,2015
+377,BRA,Growing crops n.e.c. industry,BLZ,6.645706202622281e-07,BOL,2015
+378,BRA,Growing grapes industry,BLZ,0.0,BOL,2015
+379,BRA,Growing fruits and nuts industry,BLZ,0.0,BOL,2015
+380,BRA,"Growing beverage crops (coffee, tea etc) industry",BLZ,2.670173510340973e-07,BOL,2015
+381,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,4.206766880331646e-08,BOL,2015
+382,BRA,Seeds and plant propagation industry,BLZ,0.0,BOL,2015
+383,BRA,Raising of cattle industry,BLZ,2.2399768967708855e-05,BOL,2015
+384,BRA,Growing wheat industry,BOL,0.0,BOL,2015
+385,BRA,Growing maize industry,BOL,0.0,BOL,2015
+386,BRA,Growing cereals n.e.c industry,BOL,0.0,BOL,2015
+387,BRA,Growing leguminous crops and oil seeds industry,BOL,0.0,BOL,2015
+388,BRA,Growing rice industry,BOL,0.0,BOL,2015
+389,BRA,"Growing vegetables, roots, tubers industry",BOL,0.0,BOL,2015
+390,BRA,Growing sugar beet and cane industry,BOL,0.0,BOL,2015
+391,BRA,Growing tobacco industry,BOL,0.0,BOL,2015
+392,BRA,Growing fibre crops industry,BOL,0.0,BOL,2015
+393,BRA,Growing crops n.e.c. industry,BOL,0.0,BOL,2015
+394,BRA,Growing grapes industry,BOL,0.0,BOL,2015
+395,BRA,Growing fruits and nuts industry,BOL,0.0,BOL,2015
+396,BRA,"Growing beverage crops (coffee, tea etc) industry",BOL,0.0,BOL,2015
+397,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,0.0,BOL,2015
+398,BRA,Seeds and plant propagation industry,BOL,0.0,BOL,2015
+399,BRA,Raising of cattle industry,BOL,0.0,BOL,2015
+400,BRA,Growing wheat industry,BRA,0.018001122459873994,BOL,2015
+401,BRA,Growing maize industry,BRA,0.006751556034791999,BOL,2015
+402,BRA,Growing cereals n.e.c industry,BRA,0.008566589393056961,BOL,2015
+403,BRA,Growing leguminous crops and oil seeds industry,BRA,0.5312088914729592,BOL,2015
+404,BRA,Growing rice industry,BRA,0.0,BOL,2015
+405,BRA,"Growing vegetables, roots, tubers industry",BRA,0.0009307126289304733,BOL,2015
+406,BRA,Growing sugar beet and cane industry,BRA,0.054485512924633064,BOL,2015
+407,BRA,Growing tobacco industry,BRA,7.523862052734664e-05,BOL,2015
+408,BRA,Growing fibre crops industry,BRA,0.0030409305370325186,BOL,2015
+409,BRA,Growing crops n.e.c. industry,BRA,0.003734183158133672,BOL,2015
+410,BRA,Growing grapes industry,BRA,0.0,BOL,2015
+411,BRA,Growing fruits and nuts industry,BRA,0.0,BOL,2015
+412,BRA,"Growing beverage crops (coffee, tea etc) industry",BRA,0.001005716560361555,BOL,2015
+413,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,1.2628151387942977e-05,BOL,2015
+414,BRA,Seeds and plant propagation industry,BRA,0.0,BOL,2015
+415,BRA,Raising of cattle industry,BRA,0.062093826870353745,BOL,2015
+416,BRA,Growing wheat industry,BRN,2.6282561017952438e-05,BOL,2015
+417,BRA,Growing maize industry,BRN,1.3306906693813363e-05,BOL,2015
+418,BRA,Growing cereals n.e.c industry,BRN,1.7332040096583198e-05,BOL,2015
+419,BRA,Growing leguminous crops and oil seeds industry,BRN,0.0007274417761126196,BOL,2015
+420,BRA,Growing rice industry,BRN,0.0,BOL,2015
+421,BRA,"Growing vegetables, roots, tubers industry",BRN,3.713183291878969e-07,BOL,2015
+422,BRA,Growing sugar beet and cane industry,BRN,8.836004099132328e-05,BOL,2015
+423,BRA,Growing tobacco industry,BRN,7.488372344145463e-08,BOL,2015
+424,BRA,Growing fibre crops industry,BRN,4.27001066928448e-06,BOL,2015
+425,BRA,Growing crops n.e.c. industry,BRN,7.986146811856328e-06,BOL,2015
+426,BRA,Growing grapes industry,BRN,0.0,BOL,2015
+427,BRA,Growing fruits and nuts industry,BRN,0.0,BOL,2015
+428,BRA,"Growing beverage crops (coffee, tea etc) industry",BRN,2.184789938583224e-06,BOL,2015
+429,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,2.2165071986138772e-08,BOL,2015
+430,BRA,Seeds and plant propagation industry,BRN,0.0,BOL,2015
+431,BRA,Raising of cattle industry,BRN,0.00010544576385273819,BOL,2015
+432,BRA,Growing wheat industry,BTN,3.1294867106000074e-06,BOL,2015
+433,BRA,Growing maize industry,BTN,1.0308829939686122e-06,BOL,2015
+434,BRA,Growing cereals n.e.c industry,BTN,1.2482127994548951e-06,BOL,2015
+435,BRA,Growing leguminous crops and oil seeds industry,BTN,7.100907940689226e-05,BOL,2015
+436,BRA,Growing rice industry,BTN,0.0,BOL,2015
+437,BRA,"Growing vegetables, roots, tubers industry",BTN,4.108515772014751e-08,BOL,2015
+438,BRA,Growing sugar beet and cane industry,BTN,7.1635212320211056e-06,BOL,2015
+439,BRA,Growing tobacco industry,BTN,9.096036411864107e-09,BOL,2015
+440,BRA,Growing fibre crops industry,BTN,5.162726840253258e-07,BOL,2015
+441,BRA,Growing crops n.e.c. industry,BTN,4.2950646697789814e-07,BOL,2015
+442,BRA,Growing grapes industry,BTN,0.0,BOL,2015
+443,BRA,Growing fruits and nuts industry,BTN,0.0,BOL,2015
+444,BRA,"Growing beverage crops (coffee, tea etc) industry",BTN,1.3044868774325387e-07,BOL,2015
+445,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,2.168385234670759e-09,BOL,2015
+446,BRA,Seeds and plant propagation industry,BTN,0.0,BOL,2015
+447,BRA,Raising of cattle industry,BTN,8.842784771522558e-06,BOL,2015
+448,BRA,Growing wheat industry,BWA,1.7540233421732834e-05,BOL,2015
+449,BRA,Growing maize industry,BWA,7.7480105185482e-06,BOL,2015
+450,BRA,Growing cereals n.e.c industry,BWA,9.894197449031938e-06,BOL,2015
+451,BRA,Growing leguminous crops and oil seeds industry,BWA,0.00044062235357996283,BOL,2015
+452,BRA,Growing rice industry,BWA,0.0,BOL,2015
+453,BRA,"Growing vegetables, roots, tubers industry",BWA,2.6862702870655794e-07,BOL,2015
+454,BRA,Growing sugar beet and cane industry,BWA,5.770763030857799e-05,BOL,2015
+455,BRA,Growing tobacco industry,BWA,5.1059514096507016e-08,BOL,2015
+456,BRA,Growing fibre crops industry,BWA,3.0190551348686066e-06,BOL,2015
+457,BRA,Growing crops n.e.c. industry,BWA,4.209351484718399e-06,BOL,2015
+458,BRA,Growing grapes industry,BWA,0.0,BOL,2015
+459,BRA,Growing fruits and nuts industry,BWA,0.0,BOL,2015
+460,BRA,"Growing beverage crops (coffee, tea etc) industry",BWA,8.033192627508666e-07,BOL,2015
+461,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,1.459052545207354e-08,BOL,2015
+462,BRA,Seeds and plant propagation industry,BWA,0.0,BOL,2015
+463,BRA,Raising of cattle industry,BWA,6.890999470359193e-05,BOL,2015
+464,BRA,Growing wheat industry,CAF,1.6558742952936347e-06,BOL,2015
+465,BRA,Growing maize industry,CAF,9.06786753122292e-07,BOL,2015
+466,BRA,Growing cereals n.e.c industry,CAF,1.1441079418901612e-06,BOL,2015
+467,BRA,Growing leguminous crops and oil seeds industry,CAF,3.8702407774465896e-05,BOL,2015
+468,BRA,Growing rice industry,CAF,0.0,BOL,2015
+469,BRA,"Growing vegetables, roots, tubers industry",CAF,2.8247966311689022e-08,BOL,2015
+470,BRA,Growing sugar beet and cane industry,CAF,5.093235176958954e-06,BOL,2015
+471,BRA,Growing tobacco industry,CAF,4.814281835080352e-09,BOL,2015
+472,BRA,Growing fibre crops industry,CAF,2.5863401938123264e-07,BOL,2015
+473,BRA,Growing crops n.e.c. industry,CAF,5.851618342869532e-07,BOL,2015
+474,BRA,Growing grapes industry,CAF,0.0,BOL,2015
+475,BRA,Growing fruits and nuts industry,CAF,0.0,BOL,2015
+476,BRA,"Growing beverage crops (coffee, tea etc) industry",CAF,6.532438092452382e-08,BOL,2015
+477,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,1.3618323302702396e-09,BOL,2015
+478,BRA,Seeds and plant propagation industry,CAF,0.0,BOL,2015
+479,BRA,Raising of cattle industry,CAF,6.710540309670873e-06,BOL,2015
+480,BRA,Growing wheat industry,CAN,0.0049329742331889834,BOL,2015
+481,BRA,Growing maize industry,CAN,0.0027479182437554644,BOL,2015
+482,BRA,Growing cereals n.e.c industry,CAN,0.0036804064558792885,BOL,2015
+483,BRA,Growing leguminous crops and oil seeds industry,CAN,0.1275567845544853,BOL,2015
+484,BRA,Growing rice industry,CAN,0.0,BOL,2015
+485,BRA,"Growing vegetables, roots, tubers industry",CAN,6.227776565927046e-05,BOL,2015
+486,BRA,Growing sugar beet and cane industry,CAN,0.01665447206971099,BOL,2015
+487,BRA,Growing tobacco industry,CAN,1.3101362440035296e-05,BOL,2015
+488,BRA,Growing fibre crops industry,CAN,0.0008689876593294172,BOL,2015
+489,BRA,Growing crops n.e.c. industry,CAN,0.0005746045615872328,BOL,2015
+490,BRA,Growing grapes industry,CAN,0.0,BOL,2015
+491,BRA,Growing fruits and nuts industry,CAN,0.0,BOL,2015
+492,BRA,"Growing beverage crops (coffee, tea etc) industry",CAN,0.00021944738443235184,BOL,2015
+493,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,3.4471569993666244e-06,BOL,2015
+494,BRA,Seeds and plant propagation industry,CAN,0.0,BOL,2015
+495,BRA,Raising of cattle industry,CAN,0.025254477850728946,BOL,2015
+496,BRA,Growing wheat industry,CHE,0.0021887925233016166,BOL,2015
+497,BRA,Growing maize industry,CHE,0.0007462849042318802,BOL,2015
+498,BRA,Growing cereals n.e.c industry,CHE,0.0012234021513753798,BOL,2015
+499,BRA,Growing leguminous crops and oil seeds industry,CHE,0.062007619475128485,BOL,2015
+500,BRA,Growing rice industry,CHE,0.0,BOL,2015
+501,BRA,"Growing vegetables, roots, tubers industry",CHE,2.3824929906704415e-05,BOL,2015
+502,BRA,Growing sugar beet and cane industry,CHE,0.007350147161940778,BOL,2015
+503,BRA,Growing tobacco industry,CHE,1.2016322708341896e-05,BOL,2015
+504,BRA,Growing fibre crops industry,CHE,0.0003422065228857467,BOL,2015
+505,BRA,Growing crops n.e.c. industry,CHE,0.0002647493905658299,BOL,2015
+506,BRA,Growing grapes industry,CHE,0.0,BOL,2015
+507,BRA,Growing fruits and nuts industry,CHE,0.0,BOL,2015
+508,BRA,"Growing beverage crops (coffee, tea etc) industry",CHE,9.194052937882073e-05,BOL,2015
+509,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,2.2106664429475274e-06,BOL,2015
+510,BRA,Seeds and plant propagation industry,CHE,0.0,BOL,2015
+511,BRA,Raising of cattle industry,CHE,0.01099175253170618,BOL,2015
+512,BRA,Growing wheat industry,CHL,0.009058356831444986,BOL,2015
+513,BRA,Growing maize industry,CHL,0.0027084142673804096,BOL,2015
+514,BRA,Growing cereals n.e.c industry,CHL,0.005505180634130456,BOL,2015
+515,BRA,Growing leguminous crops and oil seeds industry,CHL,0.23871120695263529,BOL,2015
+516,BRA,Growing rice industry,CHL,0.0,BOL,2015
+517,BRA,"Growing vegetables, roots, tubers industry",CHL,9.358208882356248e-05,BOL,2015
+518,BRA,Growing sugar beet and cane industry,CHL,0.040593703549937334,BOL,2015
+519,BRA,Growing tobacco industry,CHL,0.00023228518622066282,BOL,2015
+520,BRA,Growing fibre crops industry,CHL,0.003591155134891307,BOL,2015
+521,BRA,Growing crops n.e.c. industry,CHL,0.002269004500393464,BOL,2015
+522,BRA,Growing grapes industry,CHL,0.0,BOL,2015
+523,BRA,Growing fruits and nuts industry,CHL,0.0,BOL,2015
+524,BRA,"Growing beverage crops (coffee, tea etc) industry",CHL,0.0004585818253521019,BOL,2015
+525,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,9.819954723789877e-06,BOL,2015
+526,BRA,Seeds and plant propagation industry,CHL,0.0,BOL,2015
+527,BRA,Raising of cattle industry,CHL,0.06612625405565382,BOL,2015
+528,BRA,Growing wheat industry,CHN,0.028117300428416755,BOL,2015
+529,BRA,Growing maize industry,CHN,0.00931863013812852,BOL,2015
+530,BRA,Growing cereals n.e.c industry,CHN,0.015466645903209201,BOL,2015
+531,BRA,Growing leguminous crops and oil seeds industry,CHN,0.6639694576718033,BOL,2015
+532,BRA,Growing rice industry,CHN,0.0,BOL,2015
+533,BRA,"Growing vegetables, roots, tubers industry",CHN,0.0003253500777391567,BOL,2015
+534,BRA,Growing sugar beet and cane industry,CHN,0.09516706058889059,BOL,2015
+535,BRA,Growing tobacco industry,CHN,7.415115416954268e-05,BOL,2015
+536,BRA,Growing fibre crops industry,CHN,0.004200632302255386,BOL,2015
+537,BRA,Growing crops n.e.c. industry,CHN,0.016638544708427717,BOL,2015
+538,BRA,Growing grapes industry,CHN,0.0,BOL,2015
+539,BRA,Growing fruits and nuts industry,CHN,0.0,BOL,2015
+540,BRA,"Growing beverage crops (coffee, tea etc) industry",CHN,0.001087209494778938,BOL,2015
+541,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,2.9368112488467736e-05,BOL,2015
+542,BRA,Seeds and plant propagation industry,CHN,0.0,BOL,2015
+543,BRA,Raising of cattle industry,CHN,0.11046393338253192,BOL,2015
+544,BRA,Growing wheat industry,CIV,3.433537917587714e-05,BOL,2015
+545,BRA,Growing maize industry,CIV,1.306977950980692e-05,BOL,2015
+546,BRA,Growing cereals n.e.c industry,CIV,1.6089157479791304e-05,BOL,2015
+547,BRA,Growing leguminous crops and oil seeds industry,CIV,0.0007575054400461938,BOL,2015
+548,BRA,Growing rice industry,CIV,0.0,BOL,2015
+549,BRA,"Growing vegetables, roots, tubers industry",CIV,5.509869355741577e-07,BOL,2015
+550,BRA,Growing sugar beet and cane industry,CIV,9.602952051944342e-05,BOL,2015
+551,BRA,Growing tobacco industry,CIV,1.0091261966045902e-07,BOL,2015
+552,BRA,Growing fibre crops industry,CIV,6.581481355744881e-06,BOL,2015
+553,BRA,Growing crops n.e.c. industry,CIV,6.018161550283375e-06,BOL,2015
+554,BRA,Growing grapes industry,CIV,0.0,BOL,2015
+555,BRA,Growing fruits and nuts industry,CIV,0.0,BOL,2015
+556,BRA,"Growing beverage crops (coffee, tea etc) industry",CIV,1.3858134906780704e-06,BOL,2015
+557,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,2.47189744394572e-08,BOL,2015
+558,BRA,Seeds and plant propagation industry,CIV,0.0,BOL,2015
+559,BRA,Raising of cattle industry,CIV,0.00011679466957436196,BOL,2015
+560,BRA,Growing wheat industry,CMR,2.997815292531511e-05,BOL,2015
+561,BRA,Growing maize industry,CMR,1.690414284464698e-05,BOL,2015
+562,BRA,Growing cereals n.e.c industry,CMR,2.212241198201184e-05,BOL,2015
+563,BRA,Growing leguminous crops and oil seeds industry,CMR,0.0007094331796719584,BOL,2015
+564,BRA,Growing rice industry,CMR,0.0,BOL,2015
+565,BRA,"Growing vegetables, roots, tubers industry",CMR,3.941884306356571e-07,BOL,2015
+566,BRA,Growing sugar beet and cane industry,CMR,0.00010677740947117761,BOL,2015
+567,BRA,Growing tobacco industry,CMR,7.648665643453487e-08,BOL,2015
+568,BRA,Growing fibre crops industry,CMR,4.625236999709137e-06,BOL,2015
+569,BRA,Growing crops n.e.c. industry,CMR,1.1137057773828084e-05,BOL,2015
+570,BRA,Growing grapes industry,CMR,0.0,BOL,2015
+571,BRA,Growing fruits and nuts industry,CMR,0.0,BOL,2015
+572,BRA,"Growing beverage crops (coffee, tea etc) industry",CMR,1.2523843040544552e-06,BOL,2015
+573,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,3.848703131503548e-08,BOL,2015
+574,BRA,Seeds and plant propagation industry,CMR,0.0,BOL,2015
+575,BRA,Raising of cattle industry,CMR,0.000134248733537958,BOL,2015
+576,BRA,Growing wheat industry,COD,3.123702324693124e-05,BOL,2015
+577,BRA,Growing maize industry,COD,1.204739617485142e-05,BOL,2015
+578,BRA,Growing cereals n.e.c industry,COD,1.5422339401927355e-05,BOL,2015
+579,BRA,Growing leguminous crops and oil seeds industry,COD,0.0008018862391191737,BOL,2015
+580,BRA,Growing rice industry,COD,0.0,BOL,2015
+581,BRA,"Growing vegetables, roots, tubers industry",COD,4.802139179317198e-07,BOL,2015
+582,BRA,Growing sugar beet and cane industry,COD,9.458005631415414e-05,BOL,2015
+583,BRA,Growing tobacco industry,COD,9.54989630242654e-08,BOL,2015
+584,BRA,Growing fibre crops industry,COD,5.431316573652078e-06,BOL,2015
+585,BRA,Growing crops n.e.c. industry,COD,5.161099016038941e-06,BOL,2015
+586,BRA,Growing grapes industry,COD,0.0,BOL,2015
+587,BRA,Growing fruits and nuts industry,COD,0.0,BOL,2015
+588,BRA,"Growing beverage crops (coffee, tea etc) industry",COD,1.425587130814055e-06,BOL,2015
+589,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,2.4532452322665703e-08,BOL,2015
+590,BRA,Seeds and plant propagation industry,COD,0.0,BOL,2015
+591,BRA,Raising of cattle industry,COD,0.00011218282650981426,BOL,2015
+592,BRA,Growing wheat industry,COG,6.157132633537396e-05,BOL,2015
+593,BRA,Growing maize industry,COG,2.358539101555373e-05,BOL,2015
+594,BRA,Growing cereals n.e.c industry,COG,4.182322567932113e-05,BOL,2015
+595,BRA,Growing leguminous crops and oil seeds industry,COG,0.0012024799663423924,BOL,2015
+596,BRA,Growing rice industry,COG,0.0,BOL,2015
+597,BRA,"Growing vegetables, roots, tubers industry",COG,5.433085587694807e-07,BOL,2015
+598,BRA,Growing sugar beet and cane industry,COG,0.00019420862860547106,BOL,2015
+599,BRA,Growing tobacco industry,COG,1.0266333801141737e-07,BOL,2015
+600,BRA,Growing fibre crops industry,COG,6.28576842560044e-06,BOL,2015
+601,BRA,Growing crops n.e.c. industry,COG,5.465437741934879e-05,BOL,2015
+602,BRA,Growing grapes industry,COG,0.0,BOL,2015
+603,BRA,Growing fruits and nuts industry,COG,0.0,BOL,2015
+604,BRA,"Growing beverage crops (coffee, tea etc) industry",COG,1.4945632874022184e-06,BOL,2015
+605,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,6.813185747467965e-08,BOL,2015
+606,BRA,Seeds and plant propagation industry,COG,0.0,BOL,2015
+607,BRA,Raising of cattle industry,COG,0.0002687829446580887,BOL,2015
+608,BRA,Growing wheat industry,COL,0.009395555680525866,BOL,2015
+609,BRA,Growing maize industry,COL,0.0025117442252003577,BOL,2015
+610,BRA,Growing cereals n.e.c industry,COL,0.006133504737458716,BOL,2015
+611,BRA,Growing leguminous crops and oil seeds industry,COL,0.2003843700871083,BOL,2015
+612,BRA,Growing rice industry,COL,0.0,BOL,2015
+613,BRA,"Growing vegetables, roots, tubers industry",COL,8.204464142298247e-05,BOL,2015
+614,BRA,Growing sugar beet and cane industry,COL,0.030514758076208473,BOL,2015
+615,BRA,Growing tobacco industry,COL,3.148924143555641e-05,BOL,2015
+616,BRA,Growing fibre crops industry,COL,0.0076284418931585616,BOL,2015
+617,BRA,Growing crops n.e.c. industry,COL,0.004418109494821623,BOL,2015
+618,BRA,Growing grapes industry,COL,0.0,BOL,2015
+619,BRA,Growing fruits and nuts industry,COL,0.0,BOL,2015
+620,BRA,"Growing beverage crops (coffee, tea etc) industry",COL,0.00026872299661078066,BOL,2015
+621,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,1.325923493909319e-05,BOL,2015
+622,BRA,Seeds and plant propagation industry,COL,0.0,BOL,2015
+623,BRA,Raising of cattle industry,COL,0.08257483481005906,BOL,2015
+624,BRA,Growing wheat industry,CRI,0.00016226460450470784,BOL,2015
+625,BRA,Growing maize industry,CRI,5.238332671764672e-05,BOL,2015
+626,BRA,Growing cereals n.e.c industry,CRI,9.354654861165489e-05,BOL,2015
+627,BRA,Growing leguminous crops and oil seeds industry,CRI,0.00403327325916467,BOL,2015
+628,BRA,Growing rice industry,CRI,0.0,BOL,2015
+629,BRA,"Growing vegetables, roots, tubers industry",CRI,2.101364291112513e-06,BOL,2015
+630,BRA,Growing sugar beet and cane industry,CRI,0.0005118106752377476,BOL,2015
+631,BRA,Growing tobacco industry,CRI,1.4273059958585393e-05,BOL,2015
+632,BRA,Growing fibre crops industry,CRI,6.940809769444781e-05,BOL,2015
+633,BRA,Growing crops n.e.c. industry,CRI,2.056779908995969e-05,BOL,2015
+634,BRA,Growing grapes industry,CRI,0.0,BOL,2015
+635,BRA,Growing fruits and nuts industry,CRI,0.0,BOL,2015
+636,BRA,"Growing beverage crops (coffee, tea etc) industry",CRI,6.608636522085676e-06,BOL,2015
+637,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,1.4032885178710412e-07,BOL,2015
+638,BRA,Seeds and plant propagation industry,CRI,0.0,BOL,2015
+639,BRA,Raising of cattle industry,CRI,0.0015107570990026832,BOL,2015
+640,BRA,Growing wheat industry,CUB,0.0002286577196562926,BOL,2015
+641,BRA,Growing maize industry,CUB,9.329414079354194e-05,BOL,2015
+642,BRA,Growing cereals n.e.c industry,CUB,0.00015662231601910352,BOL,2015
+643,BRA,Growing leguminous crops and oil seeds industry,CUB,0.006555058437870827,BOL,2015
+644,BRA,Growing rice industry,CUB,0.0,BOL,2015
+645,BRA,"Growing vegetables, roots, tubers industry",CUB,2.067613935109129e-06,BOL,2015
+646,BRA,Growing sugar beet and cane industry,CUB,0.0022751920840100442,BOL,2015
+647,BRA,Growing tobacco industry,CUB,4.976255240707658e-07,BOL,2015
+648,BRA,Growing fibre crops industry,CUB,6.522773376748547e-05,BOL,2015
+649,BRA,Growing crops n.e.c. industry,CUB,3.675242684491668e-05,BOL,2015
+650,BRA,Growing grapes industry,CUB,0.0,BOL,2015
+651,BRA,Growing fruits and nuts industry,CUB,0.0,BOL,2015
+652,BRA,"Growing beverage crops (coffee, tea etc) industry",CUB,2.5119479529861228e-05,BOL,2015
+653,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,2.814287185824904e-07,BOL,2015
+654,BRA,Seeds and plant propagation industry,CUB,0.0,BOL,2015
+655,BRA,Raising of cattle industry,CUB,0.0016960308500724853,BOL,2015
+656,BRA,Growing wheat industry,CYP,6.562798884597704e-05,BOL,2015
+657,BRA,Growing maize industry,CYP,5.744167746952424e-05,BOL,2015
+658,BRA,Growing cereals n.e.c industry,CYP,7.398450914434276e-05,BOL,2015
+659,BRA,Growing leguminous crops and oil seeds industry,CYP,0.0012635032703159077,BOL,2015
+660,BRA,Growing rice industry,CYP,0.0,BOL,2015
+661,BRA,"Growing vegetables, roots, tubers industry",CYP,4.594700166426649e-07,BOL,2015
+662,BRA,Growing sugar beet and cane industry,CYP,0.00027186646844309345,BOL,2015
+663,BRA,Growing tobacco industry,CYP,9.474978382052454e-08,BOL,2015
+664,BRA,Growing fibre crops industry,CYP,6.79634344856885e-06,BOL,2015
+665,BRA,Growing crops n.e.c. industry,CYP,4.179187914177047e-05,BOL,2015
+666,BRA,Growing grapes industry,CYP,0.0,BOL,2015
+667,BRA,Growing fruits and nuts industry,CYP,0.0,BOL,2015
+668,BRA,"Growing beverage crops (coffee, tea etc) industry",CYP,2.1463824872806894e-06,BOL,2015
+669,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,6.346645030576743e-08,BOL,2015
+670,BRA,Seeds and plant propagation industry,CYP,0.0,BOL,2015
+671,BRA,Raising of cattle industry,CYP,0.0004029918713249617,BOL,2015
+672,BRA,Growing wheat industry,CZE,0.00027747665418179003,BOL,2015
+673,BRA,Growing maize industry,CZE,9.338104981101534e-05,BOL,2015
+674,BRA,Growing cereals n.e.c industry,CZE,0.00014639921474179766,BOL,2015
+675,BRA,Growing leguminous crops and oil seeds industry,CZE,0.007771423909648502,BOL,2015
+676,BRA,Growing rice industry,CZE,0.0,BOL,2015
+677,BRA,"Growing vegetables, roots, tubers industry",CZE,3.570951095279632e-06,BOL,2015
+678,BRA,Growing sugar beet and cane industry,CZE,0.0013741810744943828,BOL,2015
+679,BRA,Growing tobacco industry,CZE,1.0233685746798625e-06,BOL,2015
+680,BRA,Growing fibre crops industry,CZE,6.355748482332061e-05,BOL,2015
+681,BRA,Growing crops n.e.c. industry,CZE,3.429299104874151e-05,BOL,2015
+682,BRA,Growing grapes industry,CZE,0.0,BOL,2015
+683,BRA,Growing fruits and nuts industry,CZE,0.0,BOL,2015
+684,BRA,"Growing beverage crops (coffee, tea etc) industry",CZE,1.7559309160126213e-05,BOL,2015
+685,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,2.846738179806625e-07,BOL,2015
+686,BRA,Seeds and plant propagation industry,CZE,0.0,BOL,2015
+687,BRA,Raising of cattle industry,CZE,0.0013806700526624808,BOL,2015
+688,BRA,Growing wheat industry,DEU,0.004286210123496394,BOL,2015
+689,BRA,Growing maize industry,DEU,0.0015128488624441088,BOL,2015
+690,BRA,Growing cereals n.e.c industry,DEU,0.0023506827971846744,BOL,2015
+691,BRA,Growing leguminous crops and oil seeds industry,DEU,0.11235969418643683,BOL,2015
+692,BRA,Growing rice industry,DEU,0.0,BOL,2015
+693,BRA,"Growing vegetables, roots, tubers industry",DEU,5.980108396399184e-05,BOL,2015
+694,BRA,Growing sugar beet and cane industry,DEU,0.015446397619452382,BOL,2015
+695,BRA,Growing tobacco industry,DEU,2.0620878893167255e-05,BOL,2015
+696,BRA,Growing fibre crops industry,DEU,0.0012421307659898476,BOL,2015
+697,BRA,Growing crops n.e.c. industry,DEU,0.0005325729104961133,BOL,2015
+698,BRA,Growing grapes industry,DEU,0.0,BOL,2015
+699,BRA,Growing fruits and nuts industry,DEU,0.0,BOL,2015
+700,BRA,"Growing beverage crops (coffee, tea etc) industry",DEU,0.000211512511781535,BOL,2015
+701,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,4.264306541125686e-06,BOL,2015
+702,BRA,Seeds and plant propagation industry,DEU,0.0,BOL,2015
+703,BRA,Raising of cattle industry,DEU,0.027204372501551825,BOL,2015
+704,BRA,Growing wheat industry,DJI,1.4522798508954619e-05,BOL,2015
+705,BRA,Growing maize industry,DJI,6.655341497543935e-06,BOL,2015
+706,BRA,Growing cereals n.e.c industry,DJI,8.618167699783796e-06,BOL,2015
+707,BRA,Growing leguminous crops and oil seeds industry,DJI,0.0003493993363677221,BOL,2015
+708,BRA,Growing rice industry,DJI,0.0,BOL,2015
+709,BRA,"Growing vegetables, roots, tubers industry",DJI,1.909294487726125e-07,BOL,2015
+710,BRA,Growing sugar beet and cane industry,DJI,4.6506677240134095e-05,BOL,2015
+711,BRA,Growing tobacco industry,DJI,4.167044489750236e-08,BOL,2015
+712,BRA,Growing fibre crops industry,DJI,3.8131967628824085e-06,BOL,2015
+713,BRA,Growing crops n.e.c. industry,DJI,3.456362457639306e-06,BOL,2015
+714,BRA,Growing grapes industry,DJI,0.0,BOL,2015
+715,BRA,Growing fruits and nuts industry,DJI,0.0,BOL,2015
+716,BRA,"Growing beverage crops (coffee, tea etc) industry",DJI,6.084356924402455e-07,BOL,2015
+717,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,1.2977348321451144e-08,BOL,2015
+718,BRA,Seeds and plant propagation industry,DJI,0.0,BOL,2015
+719,BRA,Raising of cattle industry,DJI,7.250148054074422e-05,BOL,2015
+720,BRA,Growing wheat industry,DYE,0.0,BOL,2015
+721,BRA,Growing maize industry,DYE,0.0,BOL,2015
+722,BRA,Growing cereals n.e.c industry,DYE,0.0,BOL,2015
+723,BRA,Growing leguminous crops and oil seeds industry,DYE,0.0,BOL,2015
+724,BRA,Growing rice industry,DYE,0.0,BOL,2015
+725,BRA,"Growing vegetables, roots, tubers industry",DYE,0.0,BOL,2015
+726,BRA,Growing sugar beet and cane industry,DYE,0.0,BOL,2015
+727,BRA,Growing tobacco industry,DYE,0.0,BOL,2015
+728,BRA,Growing fibre crops industry,DYE,0.0,BOL,2015
+729,BRA,Growing crops n.e.c. industry,DYE,0.0,BOL,2015
+730,BRA,Growing grapes industry,DYE,0.0,BOL,2015
+731,BRA,Growing fruits and nuts industry,DYE,0.0,BOL,2015
+732,BRA,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,BOL,2015
+733,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,BOL,2015
+734,BRA,Seeds and plant propagation industry,DYE,0.0,BOL,2015
+735,BRA,Raising of cattle industry,DYE,0.0,BOL,2015
+736,BRA,Growing wheat industry,DNK,0.00033827759585627323,BOL,2015
+737,BRA,Growing maize industry,DNK,0.00010772518345364342,BOL,2015
+738,BRA,Growing cereals n.e.c industry,DNK,0.00019691054647293338,BOL,2015
+739,BRA,Growing leguminous crops and oil seeds industry,DNK,0.009443114348042632,BOL,2015
+740,BRA,Growing rice industry,DNK,0.0,BOL,2015
+741,BRA,"Growing vegetables, roots, tubers industry",DNK,4.368360839597128e-06,BOL,2015
+742,BRA,Growing sugar beet and cane industry,DNK,0.0019006496861502366,BOL,2015
+743,BRA,Growing tobacco industry,DNK,9.403113551104288e-07,BOL,2015
+744,BRA,Growing fibre crops industry,DNK,0.0001310750927960541,BOL,2015
+745,BRA,Growing crops n.e.c. industry,DNK,5.021265370761168e-05,BOL,2015
+746,BRA,Growing grapes industry,DNK,0.0,BOL,2015
+747,BRA,Growing fruits and nuts industry,DNK,0.0,BOL,2015
+748,BRA,"Growing beverage crops (coffee, tea etc) industry",DNK,2.3045879233145278e-05,BOL,2015
+749,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,3.747588461774181e-07,BOL,2015
+750,BRA,Seeds and plant propagation industry,DNK,0.0,BOL,2015
+751,BRA,Raising of cattle industry,DNK,0.0020605517770081938,BOL,2015
+752,BRA,Growing wheat industry,DOM,0.0002500986465613979,BOL,2015
+753,BRA,Growing maize industry,DOM,7.729408916877838e-05,BOL,2015
+754,BRA,Growing cereals n.e.c industry,DOM,0.00015737398819795005,BOL,2015
+755,BRA,Growing leguminous crops and oil seeds industry,DOM,0.007012437301128606,BOL,2015
+756,BRA,Growing rice industry,DOM,0.0,BOL,2015
+757,BRA,"Growing vegetables, roots, tubers industry",DOM,3.016263829646751e-06,BOL,2015
+758,BRA,Growing sugar beet and cane industry,DOM,0.0021154987076398863,BOL,2015
+759,BRA,Growing tobacco industry,DOM,6.28486151200936e-07,BOL,2015
+760,BRA,Growing fibre crops industry,DOM,0.0001390444026302118,BOL,2015
+761,BRA,Growing crops n.e.c. industry,DOM,5.431254249004017e-05,BOL,2015
+762,BRA,Growing grapes industry,DOM,0.0,BOL,2015
+763,BRA,Growing fruits and nuts industry,DOM,0.0,BOL,2015
+764,BRA,"Growing beverage crops (coffee, tea etc) industry",DOM,2.328954732433969e-05,BOL,2015
+765,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,3.3189857825501396e-07,BOL,2015
+766,BRA,Seeds and plant propagation industry,DOM,0.0,BOL,2015
+767,BRA,Raising of cattle industry,DOM,0.0018867632574516928,BOL,2015
+768,BRA,Growing wheat industry,DZA,0.00033654975625645205,BOL,2015
+769,BRA,Growing maize industry,DZA,0.0001341155495033508,BOL,2015
+770,BRA,Growing cereals n.e.c industry,DZA,0.00019331208982677507,BOL,2015
+771,BRA,Growing leguminous crops and oil seeds industry,DZA,0.008376794337508355,BOL,2015
+772,BRA,Growing rice industry,DZA,0.0,BOL,2015
+773,BRA,"Growing vegetables, roots, tubers industry",DZA,4.454263417939685e-06,BOL,2015
+774,BRA,Growing sugar beet and cane industry,DZA,0.0010544277490003042,BOL,2015
+775,BRA,Growing tobacco industry,DZA,9.993473560809598e-07,BOL,2015
+776,BRA,Growing fibre crops industry,DZA,9.879278891242876e-05,BOL,2015
+777,BRA,Growing crops n.e.c. industry,DZA,4.91270361328611e-05,BOL,2015
+778,BRA,Growing grapes industry,DZA,0.0,BOL,2015
+779,BRA,Growing fruits and nuts industry,DZA,0.0,BOL,2015
+780,BRA,"Growing beverage crops (coffee, tea etc) industry",DZA,1.4287670582206296e-05,BOL,2015
+781,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,2.775482748377564e-07,BOL,2015
+782,BRA,Seeds and plant propagation industry,DZA,0.0,BOL,2015
+783,BRA,Raising of cattle industry,DZA,0.0020514196505077476,BOL,2015
+784,BRA,Growing wheat industry,ECU,0.007259752032855071,BOL,2015
+785,BRA,Growing maize industry,ECU,0.0016950232792006094,BOL,2015
+786,BRA,Growing cereals n.e.c industry,ECU,0.003925190324155178,BOL,2015
+787,BRA,Growing leguminous crops and oil seeds industry,ECU,0.13832249712397726,BOL,2015
+788,BRA,Growing rice industry,ECU,0.0,BOL,2015
+789,BRA,"Growing vegetables, roots, tubers industry",ECU,6.536278218368248e-05,BOL,2015
+790,BRA,Growing sugar beet and cane industry,ECU,0.01870735840054416,BOL,2015
+791,BRA,Growing tobacco industry,ECU,1.702980440250757e-05,BOL,2015
+792,BRA,Growing fibre crops industry,ECU,0.0065706668501262925,BOL,2015
+793,BRA,Growing crops n.e.c. industry,ECU,0.001568908644986644,BOL,2015
+794,BRA,Growing grapes industry,ECU,0.0,BOL,2015
+795,BRA,Growing fruits and nuts industry,ECU,0.0,BOL,2015
+796,BRA,"Growing beverage crops (coffee, tea etc) industry",ECU,0.00020880164836708097,BOL,2015
+797,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,8.642387043270124e-06,BOL,2015
+798,BRA,Seeds and plant propagation industry,ECU,0.0,BOL,2015
+799,BRA,Raising of cattle industry,ECU,0.058790456920828175,BOL,2015
+800,BRA,Growing wheat industry,EGY,0.0005014016636130493,BOL,2015
+801,BRA,Growing maize industry,EGY,0.00013103782081610042,BOL,2015
+802,BRA,Growing cereals n.e.c industry,EGY,0.0001761728367876982,BOL,2015
+803,BRA,Growing leguminous crops and oil seeds industry,EGY,0.01073279563074586,BOL,2015
+804,BRA,Growing rice industry,EGY,0.0,BOL,2015
+805,BRA,"Growing vegetables, roots, tubers industry",EGY,5.196312505793804e-06,BOL,2015
+806,BRA,Growing sugar beet and cane industry,EGY,0.0010970759624030818,BOL,2015
+807,BRA,Growing tobacco industry,EGY,1.4493843269920009e-06,BOL,2015
+808,BRA,Growing fibre crops industry,EGY,9.17691374202451e-05,BOL,2015
+809,BRA,Growing crops n.e.c. industry,EGY,5.726330808037079e-05,BOL,2015
+810,BRA,Growing grapes industry,EGY,0.0,BOL,2015
+811,BRA,Growing fruits and nuts industry,EGY,0.0,BOL,2015
+812,BRA,"Growing beverage crops (coffee, tea etc) industry",EGY,2.0930060445142413e-05,BOL,2015
+813,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,3.5981835153741176e-07,BOL,2015
+814,BRA,Seeds and plant propagation industry,EGY,0.0,BOL,2015
+815,BRA,Raising of cattle industry,EGY,0.0013757000768851557,BOL,2015
+816,BRA,Growing wheat industry,ERI,2.0921350505961436e-06,BOL,2015
+817,BRA,Growing maize industry,ERI,8.354679714694616e-07,BOL,2015
+818,BRA,Growing cereals n.e.c industry,ERI,1.1835069192901179e-06,BOL,2015
+819,BRA,Growing leguminous crops and oil seeds industry,ERI,4.962738066473246e-05,BOL,2015
+820,BRA,Growing rice industry,ERI,0.0,BOL,2015
+821,BRA,"Growing vegetables, roots, tubers industry",ERI,2.4275070695978104e-08,BOL,2015
+822,BRA,Growing sugar beet and cane industry,ERI,5.762764509538438e-06,BOL,2015
+823,BRA,Growing tobacco industry,ERI,5.409092661425101e-09,BOL,2015
+824,BRA,Growing fibre crops industry,ERI,3.1490933104407426e-07,BOL,2015
+825,BRA,Growing crops n.e.c. industry,ERI,4.5252288305021016e-07,BOL,2015
+826,BRA,Growing grapes industry,ERI,0.0,BOL,2015
+827,BRA,Growing fruits and nuts industry,ERI,0.0,BOL,2015
+828,BRA,"Growing beverage crops (coffee, tea etc) industry",ERI,8.507728104404508e-08,BOL,2015
+829,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,1.4704378014426595e-09,BOL,2015
+830,BRA,Seeds and plant propagation industry,ERI,0.0,BOL,2015
+831,BRA,Raising of cattle industry,ERI,7.4342079402994544e-06,BOL,2015
+832,BRA,Growing wheat industry,ESP,0.0019981979397154363,BOL,2015
+833,BRA,Growing maize industry,ESP,0.0006719178496590063,BOL,2015
+834,BRA,Growing cereals n.e.c industry,ESP,0.0010749325125764119,BOL,2015
+835,BRA,Growing leguminous crops and oil seeds industry,ESP,0.05328103341449288,BOL,2015
+836,BRA,Growing rice industry,ESP,0.0,BOL,2015
+837,BRA,"Growing vegetables, roots, tubers industry",ESP,2.5275595328261756e-05,BOL,2015
+838,BRA,Growing sugar beet and cane industry,ESP,0.008610815998414885,BOL,2015
+839,BRA,Growing tobacco industry,ESP,6.074747655544618e-06,BOL,2015
+840,BRA,Growing fibre crops industry,ESP,0.0004081080706658185,BOL,2015
+841,BRA,Growing crops n.e.c. industry,ESP,0.000399862532556598,BOL,2015
+842,BRA,Growing grapes industry,ESP,0.0,BOL,2015
+843,BRA,Growing fruits and nuts industry,ESP,0.0,BOL,2015
+844,BRA,"Growing beverage crops (coffee, tea etc) industry",ESP,0.00011473963079289178,BOL,2015
+845,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,1.848981105276124e-06,BOL,2015
+846,BRA,Seeds and plant propagation industry,ESP,0.0,BOL,2015
+847,BRA,Raising of cattle industry,ESP,0.010373624665500673,BOL,2015
+848,BRA,Growing wheat industry,EST,0.0001197791676521308,BOL,2015
+849,BRA,Growing maize industry,EST,0.00010447748352175505,BOL,2015
+850,BRA,Growing cereals n.e.c industry,EST,0.00013851476505074076,BOL,2015
+851,BRA,Growing leguminous crops and oil seeds industry,EST,0.0021397301058145067,BOL,2015
+852,BRA,Growing rice industry,EST,0.0,BOL,2015
+853,BRA,"Growing vegetables, roots, tubers industry",EST,7.471138735949028e-07,BOL,2015
+854,BRA,Growing sugar beet and cane industry,EST,0.0004727700049354352,BOL,2015
+855,BRA,Growing tobacco industry,EST,1.43831950815869e-07,BOL,2015
+856,BRA,Growing fibre crops industry,EST,9.165755588755906e-06,BOL,2015
+857,BRA,Growing crops n.e.c. industry,EST,9.603574832189593e-05,BOL,2015
+858,BRA,Growing grapes industry,EST,0.0,BOL,2015
+859,BRA,Growing fruits and nuts industry,EST,0.0,BOL,2015
+860,BRA,"Growing beverage crops (coffee, tea etc) industry",EST,3.021928668567528e-06,BOL,2015
+861,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,1.2253511740306296e-07,BOL,2015
+862,BRA,Seeds and plant propagation industry,EST,0.0,BOL,2015
+863,BRA,Raising of cattle industry,EST,0.0007393171339841781,BOL,2015
+864,BRA,Growing wheat industry,ETH,0.00035447625939213006,BOL,2015
+865,BRA,Growing maize industry,ETH,0.00011738570182248696,BOL,2015
+866,BRA,Growing cereals n.e.c industry,ETH,0.00021264099725439172,BOL,2015
+867,BRA,Growing leguminous crops and oil seeds industry,ETH,0.009706647024313403,BOL,2015
+868,BRA,Growing rice industry,ETH,0.0,BOL,2015
+869,BRA,"Growing vegetables, roots, tubers industry",ETH,3.4113813561320162e-06,BOL,2015
+870,BRA,Growing sugar beet and cane industry,ETH,0.001241696091667479,BOL,2015
+871,BRA,Growing tobacco industry,ETH,8.404750865553703e-07,BOL,2015
+872,BRA,Growing fibre crops industry,ETH,8.311471785825165e-05,BOL,2015
+873,BRA,Growing crops n.e.c. industry,ETH,2.325047674632594e-05,BOL,2015
+874,BRA,Growing grapes industry,ETH,0.0,BOL,2015
+875,BRA,Growing fruits and nuts industry,ETH,0.0,BOL,2015
+876,BRA,"Growing beverage crops (coffee, tea etc) industry",ETH,1.8475382216304358e-05,BOL,2015
+877,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,3.6802418112721335e-07,BOL,2015
+878,BRA,Seeds and plant propagation industry,ETH,0.0,BOL,2015
+879,BRA,Raising of cattle industry,ETH,0.004162454211441283,BOL,2015
+880,BRA,Growing wheat industry,FIN,0.00016022894453905098,BOL,2015
+881,BRA,Growing maize industry,FIN,5.435327050535273e-05,BOL,2015
+882,BRA,Growing cereals n.e.c industry,FIN,8.098305273680266e-05,BOL,2015
+883,BRA,Growing leguminous crops and oil seeds industry,FIN,0.004353758374728378,BOL,2015
+884,BRA,Growing rice industry,FIN,0.0,BOL,2015
+885,BRA,"Growing vegetables, roots, tubers industry",FIN,2.258696217212793e-06,BOL,2015
+886,BRA,Growing sugar beet and cane industry,FIN,0.0006241196933401258,BOL,2015
+887,BRA,Growing tobacco industry,FIN,5.262460855370806e-07,BOL,2015
+888,BRA,Growing fibre crops industry,FIN,3.248577425558311e-05,BOL,2015
+889,BRA,Growing crops n.e.c. industry,FIN,2.3805850009079582e-05,BOL,2015
+890,BRA,Growing grapes industry,FIN,0.0,BOL,2015
+891,BRA,Growing fruits and nuts industry,FIN,0.0,BOL,2015
+892,BRA,"Growing beverage crops (coffee, tea etc) industry",FIN,8.595343919195094e-06,BOL,2015
+893,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,1.420216071669643e-07,BOL,2015
+894,BRA,Seeds and plant propagation industry,FIN,0.0,BOL,2015
+895,BRA,Raising of cattle industry,FIN,0.0007577037767750887,BOL,2015
+896,BRA,Growing wheat industry,FRA,0.003740793982756853,BOL,2015
+897,BRA,Growing maize industry,FRA,0.0013499833479864432,BOL,2015
+898,BRA,Growing cereals n.e.c industry,FRA,0.0024012232478982606,BOL,2015
+899,BRA,Growing leguminous crops and oil seeds industry,FRA,0.10233815267550105,BOL,2015
+900,BRA,Growing rice industry,FRA,0.0,BOL,2015
+901,BRA,"Growing vegetables, roots, tubers industry",FRA,3.927315312648764e-05,BOL,2015
+902,BRA,Growing sugar beet and cane industry,FRA,0.013249311997273725,BOL,2015
+903,BRA,Growing tobacco industry,FRA,1.7336567006890714e-05,BOL,2015
+904,BRA,Growing fibre crops industry,FRA,0.0006015394718588942,BOL,2015
+905,BRA,Growing crops n.e.c. industry,FRA,0.0016019975931676467,BOL,2015
+906,BRA,Growing grapes industry,FRA,0.0,BOL,2015
+907,BRA,Growing fruits and nuts industry,FRA,0.0,BOL,2015
+908,BRA,"Growing beverage crops (coffee, tea etc) industry",FRA,0.00015913777431369696,BOL,2015
+909,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,4.32590894863953e-06,BOL,2015
+910,BRA,Seeds and plant propagation industry,FRA,0.0,BOL,2015
+911,BRA,Raising of cattle industry,FRA,0.020874866147044042,BOL,2015
+912,BRA,Growing wheat industry,GAB,2.7986033335454053e-05,BOL,2015
+913,BRA,Growing maize industry,GAB,1.814337204360091e-05,BOL,2015
+914,BRA,Growing cereals n.e.c industry,GAB,2.3233996944925894e-05,BOL,2015
+915,BRA,Growing leguminous crops and oil seeds industry,GAB,0.0006195106663106178,BOL,2015
+916,BRA,Growing rice industry,GAB,0.0,BOL,2015
+917,BRA,"Growing vegetables, roots, tubers industry",GAB,2.9322472798988947e-07,BOL,2015
+918,BRA,Growing sugar beet and cane industry,GAB,0.00010089015694390914,BOL,2015
+919,BRA,Growing tobacco industry,GAB,6.116747466789879e-08,BOL,2015
+920,BRA,Growing fibre crops industry,GAB,3.6399306516236915e-06,BOL,2015
+921,BRA,Growing crops n.e.c. industry,GAB,1.0470721079629339e-05,BOL,2015
+922,BRA,Growing grapes industry,GAB,0.0,BOL,2015
+923,BRA,Growing fruits and nuts industry,GAB,0.0,BOL,2015
+924,BRA,"Growing beverage crops (coffee, tea etc) industry",GAB,1.0962014630081147e-06,BOL,2015
+925,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,2.301299504206476e-08,BOL,2015
+926,BRA,Seeds and plant propagation industry,GAB,0.0,BOL,2015
+927,BRA,Raising of cattle industry,GAB,0.00013111469562622483,BOL,2015
+928,BRA,Growing wheat industry,GBR,0.003108392179891982,BOL,2015
+929,BRA,Growing maize industry,GBR,0.0010447602486921687,BOL,2015
+930,BRA,Growing cereals n.e.c industry,GBR,0.0019124890762379741,BOL,2015
+931,BRA,Growing leguminous crops and oil seeds industry,GBR,0.08438270694227938,BOL,2015
+932,BRA,Growing rice industry,GBR,0.0,BOL,2015
+933,BRA,"Growing vegetables, roots, tubers industry",GBR,3.487313100711986e-05,BOL,2015
+934,BRA,Growing sugar beet and cane industry,GBR,0.012118512943803943,BOL,2015
+935,BRA,Growing tobacco industry,GBR,8.225704369831418e-06,BOL,2015
+936,BRA,Growing fibre crops industry,GBR,0.0005709837160977766,BOL,2015
+937,BRA,Growing crops n.e.c. industry,GBR,0.0015451730789879322,BOL,2015
+938,BRA,Growing grapes industry,GBR,0.0,BOL,2015
+939,BRA,Growing fruits and nuts industry,GBR,0.0,BOL,2015
+940,BRA,"Growing beverage crops (coffee, tea etc) industry",GBR,0.00014781997150822222,BOL,2015
+941,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,2.923523717733027e-06,BOL,2015
+942,BRA,Seeds and plant propagation industry,GBR,0.0,BOL,2015
+943,BRA,Raising of cattle industry,GBR,0.015279603500701197,BOL,2015
+944,BRA,Growing wheat industry,GEO,3.1512290295716975e-05,BOL,2015
+945,BRA,Growing maize industry,GEO,1.6053735546465394e-05,BOL,2015
+946,BRA,Growing cereals n.e.c industry,GEO,2.2456342459901206e-05,BOL,2015
+947,BRA,Growing leguminous crops and oil seeds industry,GEO,0.0007740664244565075,BOL,2015
+948,BRA,Growing rice industry,GEO,0.0,BOL,2015
+949,BRA,"Growing vegetables, roots, tubers industry",GEO,3.561538546530282e-07,BOL,2015
+950,BRA,Growing sugar beet and cane industry,GEO,0.00010401736692400849,BOL,2015
+951,BRA,Growing tobacco industry,GEO,7.76955880968677e-08,BOL,2015
+952,BRA,Growing fibre crops industry,GEO,4.6246183730128616e-06,BOL,2015
+953,BRA,Growing crops n.e.c. industry,GEO,8.49550658375207e-06,BOL,2015
+954,BRA,Growing grapes industry,GEO,0.0,BOL,2015
+955,BRA,Growing fruits and nuts industry,GEO,0.0,BOL,2015
+956,BRA,"Growing beverage crops (coffee, tea etc) industry",GEO,1.2892459576726621e-06,BOL,2015
+957,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,2.425773737390216e-08,BOL,2015
+958,BRA,Seeds and plant propagation industry,GEO,0.0,BOL,2015
+959,BRA,Raising of cattle industry,GEO,0.00013886128101205905,BOL,2015
+960,BRA,Growing wheat industry,GHA,8.036565264649943e-05,BOL,2015
+961,BRA,Growing maize industry,GHA,2.8437478356508673e-05,BOL,2015
+962,BRA,Growing cereals n.e.c industry,GHA,3.847401798501902e-05,BOL,2015
+963,BRA,Growing leguminous crops and oil seeds industry,GHA,0.002085885780052663,BOL,2015
+964,BRA,Growing rice industry,GHA,0.0,BOL,2015
+965,BRA,"Growing vegetables, roots, tubers industry",GHA,1.2243759863039385e-06,BOL,2015
+966,BRA,Growing sugar beet and cane industry,GHA,0.0002573326487660419,BOL,2015
+967,BRA,Growing tobacco industry,GHA,2.474464646966109e-07,BOL,2015
+968,BRA,Growing fibre crops industry,GHA,1.4299268037780203e-05,BOL,2015
+969,BRA,Growing crops n.e.c. industry,GHA,1.3485827138339621e-05,BOL,2015
+970,BRA,Growing grapes industry,GHA,0.0,BOL,2015
+971,BRA,Growing fruits and nuts industry,GHA,0.0,BOL,2015
+972,BRA,"Growing beverage crops (coffee, tea etc) industry",GHA,3.854368762044657e-06,BOL,2015
+973,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,6.199367814151053e-08,BOL,2015
+974,BRA,Seeds and plant propagation industry,GHA,0.0,BOL,2015
+975,BRA,Raising of cattle industry,GHA,0.0002862876164830451,BOL,2015
+976,BRA,Growing wheat industry,GIN,2.1465817135427395e-05,BOL,2015
+977,BRA,Growing maize industry,GIN,8.525577237760794e-06,BOL,2015
+978,BRA,Growing cereals n.e.c industry,GIN,1.0450560999300826e-05,BOL,2015
+979,BRA,Growing leguminous crops and oil seeds industry,GIN,0.000540379718760343,BOL,2015
+980,BRA,Growing rice industry,GIN,0.0,BOL,2015
+981,BRA,"Growing vegetables, roots, tubers industry",GIN,3.1817802998509964e-07,BOL,2015
+982,BRA,Growing sugar beet and cane industry,GIN,6.723891868991653e-05,BOL,2015
+983,BRA,Growing tobacco industry,GIN,6.534828837508931e-08,BOL,2015
+984,BRA,Growing fibre crops industry,GIN,3.853998760414034e-06,BOL,2015
+985,BRA,Growing crops n.e.c. industry,GIN,3.680570393168382e-06,BOL,2015
+986,BRA,Growing grapes industry,GIN,0.0,BOL,2015
+987,BRA,Growing fruits and nuts industry,GIN,0.0,BOL,2015
+988,BRA,"Growing beverage crops (coffee, tea etc) industry",GIN,9.862777746317352e-07,BOL,2015
+989,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,1.647856386756557e-08,BOL,2015
+990,BRA,Seeds and plant propagation industry,GIN,0.0,BOL,2015
+991,BRA,Raising of cattle industry,GIN,7.440411918814603e-05,BOL,2015
+992,BRA,Growing wheat industry,GMB,2.5716799445961405e-06,BOL,2015
+993,BRA,Growing maize industry,GMB,1.1556615814873363e-06,BOL,2015
+994,BRA,Growing cereals n.e.c industry,GMB,1.6583850645346007e-06,BOL,2015
+995,BRA,Growing leguminous crops and oil seeds industry,GMB,6.29868780212441e-05,BOL,2015
+996,BRA,Growing rice industry,GMB,0.0,BOL,2015
+997,BRA,"Growing vegetables, roots, tubers industry",GMB,3.4009437075599094e-08,BOL,2015
+998,BRA,Growing sugar beet and cane industry,GMB,8.665875767837782e-06,BOL,2015
+999,BRA,Growing tobacco industry,GMB,6.321242918825289e-09,BOL,2015
+1000,BRA,Growing fibre crops industry,GMB,4.40221335388766e-07,BOL,2015
+1001,BRA,Growing crops n.e.c. industry,GMB,5.306838379204664e-07,BOL,2015
+1002,BRA,Growing grapes industry,GMB,0.0,BOL,2015
+1003,BRA,Growing fruits and nuts industry,GMB,0.0,BOL,2015
+1004,BRA,"Growing beverage crops (coffee, tea etc) industry",GMB,1.1751455558711016e-07,BOL,2015
+1005,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,2.1010492568134537e-09,BOL,2015
+1006,BRA,Seeds and plant propagation industry,GMB,0.0,BOL,2015
+1007,BRA,Raising of cattle industry,GMB,1.512824690177131e-05,BOL,2015
+1008,BRA,Growing wheat industry,GNQ,0.00011613841214104218,BOL,2015
+1009,BRA,Growing maize industry,GNQ,0.00010712658915806259,BOL,2015
+1010,BRA,Growing cereals n.e.c industry,GNQ,0.00013482603476762736,BOL,2015
+1011,BRA,Growing leguminous crops and oil seeds industry,GNQ,0.0021475571865018756,BOL,2015
+1012,BRA,Growing rice industry,GNQ,0.0,BOL,2015
+1013,BRA,"Growing vegetables, roots, tubers industry",GNQ,8.508127214381396e-07,BOL,2015
+1014,BRA,Growing sugar beet and cane industry,GNQ,0.00044272338337797255,BOL,2015
+1015,BRA,Growing tobacco industry,GNQ,1.5617438828901996e-07,BOL,2015
+1016,BRA,Growing fibre crops industry,GNQ,9.343796615570704e-06,BOL,2015
+1017,BRA,Growing crops n.e.c. industry,GNQ,7.6433535008259e-05,BOL,2015
+1018,BRA,Growing grapes industry,GNQ,0.0,BOL,2015
+1019,BRA,Growing fruits and nuts industry,GNQ,0.0,BOL,2015
+1020,BRA,"Growing beverage crops (coffee, tea etc) industry",GNQ,3.2803048569242836e-06,BOL,2015
+1021,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,1.0775962706206408e-07,BOL,2015
+1022,BRA,Seeds and plant propagation industry,GNQ,0.0,BOL,2015
+1023,BRA,Raising of cattle industry,GNQ,0.0006554156666407634,BOL,2015
+1024,BRA,Growing wheat industry,GRC,0.0001794462509026901,BOL,2015
+1025,BRA,Growing maize industry,GRC,6.249683001005051e-05,BOL,2015
+1026,BRA,Growing cereals n.e.c industry,GRC,9.158836408874866e-05,BOL,2015
+1027,BRA,Growing leguminous crops and oil seeds industry,GRC,0.0050305268944866735,BOL,2015
+1028,BRA,Growing rice industry,GRC,0.0,BOL,2015
+1029,BRA,"Growing vegetables, roots, tubers industry",GRC,2.544797923323299e-06,BOL,2015
+1030,BRA,Growing sugar beet and cane industry,GRC,0.0006076169869625378,BOL,2015
+1031,BRA,Growing tobacco industry,GRC,5.6821446468045e-07,BOL,2015
+1032,BRA,Growing fibre crops industry,GRC,3.706553532926918e-05,BOL,2015
+1033,BRA,Growing crops n.e.c. industry,GRC,2.189375671468469e-05,BOL,2015
+1034,BRA,Growing grapes industry,GRC,0.0,BOL,2015
+1035,BRA,Growing fruits and nuts industry,GRC,0.0,BOL,2015
+1036,BRA,"Growing beverage crops (coffee, tea etc) industry",GRC,9.017120448021472e-06,BOL,2015
+1037,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,1.4746388709737646e-07,BOL,2015
+1038,BRA,Seeds and plant propagation industry,GRC,0.0,BOL,2015
+1039,BRA,Raising of cattle industry,GRC,0.0008513602475920261,BOL,2015
+1040,BRA,Growing wheat industry,GTM,0.00020536931329435046,BOL,2015
+1041,BRA,Growing maize industry,GTM,6.303534762684267e-05,BOL,2015
+1042,BRA,Growing cereals n.e.c industry,GTM,9.679473830488317e-05,BOL,2015
+1043,BRA,Growing leguminous crops and oil seeds industry,GTM,0.0051575172475175676,BOL,2015
+1044,BRA,Growing rice industry,GTM,0.0,BOL,2015
+1045,BRA,"Growing vegetables, roots, tubers industry",GTM,3.948685373184545e-06,BOL,2015
+1046,BRA,Growing sugar beet and cane industry,GTM,0.0012120984312842687,BOL,2015
+1047,BRA,Growing tobacco industry,GTM,8.142636418405874e-07,BOL,2015
+1048,BRA,Growing fibre crops industry,GTM,5.2446726787948427e-05,BOL,2015
+1049,BRA,Growing crops n.e.c. industry,GTM,2.2528324515904195e-05,BOL,2015
+1050,BRA,Growing grapes industry,GTM,0.0,BOL,2015
+1051,BRA,Growing fruits and nuts industry,GTM,0.0,BOL,2015
+1052,BRA,"Growing beverage crops (coffee, tea etc) industry",GTM,1.5288510006681015e-05,BOL,2015
+1053,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,2.3266642726868307e-07,BOL,2015
+1054,BRA,Seeds and plant propagation industry,GTM,0.0,BOL,2015
+1055,BRA,Raising of cattle industry,GTM,0.0012336342196768153,BOL,2015
+1056,BRA,Growing wheat industry,HND,0.00013967920997640142,BOL,2015
+1057,BRA,Growing maize industry,HND,5.116376368988059e-05,BOL,2015
+1058,BRA,Growing cereals n.e.c industry,HND,9.240471132454848e-05,BOL,2015
+1059,BRA,Growing leguminous crops and oil seeds industry,HND,0.0037656307544679016,BOL,2015
+1060,BRA,Growing rice industry,HND,0.0,BOL,2015
+1061,BRA,"Growing vegetables, roots, tubers industry",HND,1.4870503972084674e-06,BOL,2015
+1062,BRA,Growing sugar beet and cane industry,HND,0.00048113237858932265,BOL,2015
+1063,BRA,Growing tobacco industry,HND,3.1848739145882674e-07,BOL,2015
+1064,BRA,Growing fibre crops industry,HND,3.057573587453679e-05,BOL,2015
+1065,BRA,Growing crops n.e.c. industry,HND,1.6748643148789142e-05,BOL,2015
+1066,BRA,Growing grapes industry,HND,0.0,BOL,2015
+1067,BRA,Growing fruits and nuts industry,HND,0.0,BOL,2015
+1068,BRA,"Growing beverage crops (coffee, tea etc) industry",HND,6.576338834935573e-06,BOL,2015
+1069,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,1.3345082829871372e-07,BOL,2015
+1070,BRA,Seeds and plant propagation industry,HND,0.0,BOL,2015
+1071,BRA,Raising of cattle industry,HND,0.0013155665878121787,BOL,2015
+1072,BRA,Growing wheat industry,HKG,0.0013469064527965374,BOL,2015
+1073,BRA,Growing maize industry,HKG,0.0005017584056684515,BOL,2015
+1074,BRA,Growing cereals n.e.c industry,HKG,0.0007039578588409261,BOL,2015
+1075,BRA,Growing leguminous crops and oil seeds industry,HKG,0.03534572382035495,BOL,2015
+1076,BRA,Growing rice industry,HKG,0.0,BOL,2015
+1077,BRA,"Growing vegetables, roots, tubers industry",HKG,2.159739721281996e-05,BOL,2015
+1078,BRA,Growing sugar beet and cane industry,HKG,0.0067537839981921454,BOL,2015
+1079,BRA,Growing tobacco industry,HKG,4.05567684235104e-06,BOL,2015
+1080,BRA,Growing fibre crops industry,HKG,0.0002753505122201186,BOL,2015
+1081,BRA,Growing crops n.e.c. industry,HKG,0.0004275995291095698,BOL,2015
+1082,BRA,Growing grapes industry,HKG,0.0,BOL,2015
+1083,BRA,Growing fruits and nuts industry,HKG,0.0,BOL,2015
+1084,BRA,"Growing beverage crops (coffee, tea etc) industry",HKG,8.322134609964166e-05,BOL,2015
+1085,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,1.2710776458393803e-06,BOL,2015
+1086,BRA,Seeds and plant propagation industry,HKG,0.0,BOL,2015
+1087,BRA,Raising of cattle industry,HKG,0.005236967004063896,BOL,2015
+1088,BRA,Growing wheat industry,HRV,0.00016523519727176946,BOL,2015
+1089,BRA,Growing maize industry,HRV,5.817488181656777e-05,BOL,2015
+1090,BRA,Growing cereals n.e.c industry,HRV,0.00013047909715462543,BOL,2015
+1091,BRA,Growing leguminous crops and oil seeds industry,HRV,0.003138195263426791,BOL,2015
+1092,BRA,Growing rice industry,HRV,0.0,BOL,2015
+1093,BRA,"Growing vegetables, roots, tubers industry",HRV,1.1457608058780787e-06,BOL,2015
+1094,BRA,Growing sugar beet and cane industry,HRV,0.0006028082509295196,BOL,2015
+1095,BRA,Growing tobacco industry,HRV,2.291036213559742e-07,BOL,2015
+1096,BRA,Growing fibre crops industry,HRV,1.3829753550036656e-05,BOL,2015
+1097,BRA,Growing crops n.e.c. industry,HRV,0.00020834685625541338,BOL,2015
+1098,BRA,Growing grapes industry,HRV,0.0,BOL,2015
+1099,BRA,Growing fruits and nuts industry,HRV,0.0,BOL,2015
+1100,BRA,"Growing beverage crops (coffee, tea etc) industry",HRV,2.969467722654974e-06,BOL,2015
+1101,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,2.294580495489936e-07,BOL,2015
+1102,BRA,Seeds and plant propagation industry,HRV,0.0,BOL,2015
+1103,BRA,Raising of cattle industry,HRV,0.0009209532106224039,BOL,2015
+1104,BRA,Growing wheat industry,HTI,0.00010229649093984872,BOL,2015
+1105,BRA,Growing maize industry,HTI,3.909829771514006e-05,BOL,2015
+1106,BRA,Growing cereals n.e.c industry,HTI,7.225567061767125e-05,BOL,2015
+1107,BRA,Growing leguminous crops and oil seeds industry,HTI,0.0029206317534907506,BOL,2015
+1108,BRA,Growing rice industry,HTI,0.0,BOL,2015
+1109,BRA,"Growing vegetables, roots, tubers industry",HTI,9.054438200374601e-07,BOL,2015
+1110,BRA,Growing sugar beet and cane industry,HTI,0.0004743951494033865,BOL,2015
+1111,BRA,Growing tobacco industry,HTI,2.8220822636381553e-07,BOL,2015
+1112,BRA,Growing fibre crops industry,HTI,2.463768762581584e-05,BOL,2015
+1113,BRA,Growing crops n.e.c. industry,HTI,1.591049906578486e-05,BOL,2015
+1114,BRA,Growing grapes industry,HTI,0.0,BOL,2015
+1115,BRA,Growing fruits and nuts industry,HTI,0.0,BOL,2015
+1116,BRA,"Growing beverage crops (coffee, tea etc) industry",HTI,6.119135134733821e-06,BOL,2015
+1117,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,1.0790259274087425e-07,BOL,2015
+1118,BRA,Seeds and plant propagation industry,HTI,0.0,BOL,2015
+1119,BRA,Raising of cattle industry,HTI,0.00112809615752989,BOL,2015
+1120,BRA,Growing wheat industry,HUN,0.00010233651479724051,BOL,2015
+1121,BRA,Growing maize industry,HUN,3.491512237756259e-05,BOL,2015
+1122,BRA,Growing cereals n.e.c industry,HUN,4.810781606042575e-05,BOL,2015
+1123,BRA,Growing leguminous crops and oil seeds industry,HUN,0.002639908422644721,BOL,2015
+1124,BRA,Growing rice industry,HUN,0.0,BOL,2015
+1125,BRA,"Growing vegetables, roots, tubers industry",HUN,1.5233022582489045e-06,BOL,2015
+1126,BRA,Growing sugar beet and cane industry,HUN,0.0003024770719228512,BOL,2015
+1127,BRA,Growing tobacco industry,HUN,3.460506841017049e-07,BOL,2015
+1128,BRA,Growing fibre crops industry,HUN,2.110690401843877e-05,BOL,2015
+1129,BRA,Growing crops n.e.c. industry,HUN,1.2623551985290154e-05,BOL,2015
+1130,BRA,Growing grapes industry,HUN,0.0,BOL,2015
+1131,BRA,Growing fruits and nuts industry,HUN,0.0,BOL,2015
+1132,BRA,"Growing beverage crops (coffee, tea etc) industry",HUN,4.715469314218625e-06,BOL,2015
+1133,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,8.201512659327231e-08,BOL,2015
+1134,BRA,Seeds and plant propagation industry,HUN,0.0,BOL,2015
+1135,BRA,Raising of cattle industry,HUN,0.0004346732336771614,BOL,2015
+1136,BRA,Growing wheat industry,IDN,0.0018468527314640872,BOL,2015
+1137,BRA,Growing maize industry,IDN,0.0006638101826436147,BOL,2015
+1138,BRA,Growing cereals n.e.c industry,IDN,0.0007387298858245993,BOL,2015
+1139,BRA,Growing leguminous crops and oil seeds industry,IDN,0.05467833101455562,BOL,2015
+1140,BRA,Growing rice industry,IDN,0.0,BOL,2015
+1141,BRA,"Growing vegetables, roots, tubers industry",IDN,7.878386245676126e-05,BOL,2015
+1142,BRA,Growing sugar beet and cane industry,IDN,0.005368780355535941,BOL,2015
+1143,BRA,Growing tobacco industry,IDN,7.390704150367956e-06,BOL,2015
+1144,BRA,Growing fibre crops industry,IDN,0.0003430585740870683,BOL,2015
+1145,BRA,Growing crops n.e.c. industry,IDN,0.00014989822411106004,BOL,2015
+1146,BRA,Growing grapes industry,IDN,0.0,BOL,2015
+1147,BRA,Growing fruits and nuts industry,IDN,0.0,BOL,2015
+1148,BRA,"Growing beverage crops (coffee, tea etc) industry",IDN,0.00010594980201380111,BOL,2015
+1149,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,1.2579808290369754e-06,BOL,2015
+1150,BRA,Seeds and plant propagation industry,IDN,0.0,BOL,2015
+1151,BRA,Raising of cattle industry,IDN,0.005365803838028213,BOL,2015
+1152,BRA,Growing wheat industry,IND,0.005018934685734065,BOL,2015
+1153,BRA,Growing maize industry,IND,0.0012645894863440386,BOL,2015
+1154,BRA,Growing cereals n.e.c industry,IND,0.00172304428605035,BOL,2015
+1155,BRA,Growing leguminous crops and oil seeds industry,IND,0.11012071592115313,BOL,2015
+1156,BRA,Growing rice industry,IND,0.0,BOL,2015
+1157,BRA,"Growing vegetables, roots, tubers industry",IND,5.8696719215397147e-05,BOL,2015
+1158,BRA,Growing sugar beet and cane industry,IND,0.014267346846730929,BOL,2015
+1159,BRA,Growing tobacco industry,IND,1.3263962636699928e-05,BOL,2015
+1160,BRA,Growing fibre crops industry,IND,0.0008771268805168336,BOL,2015
+1161,BRA,Growing crops n.e.c. industry,IND,0.0009682852121427814,BOL,2015
+1162,BRA,Growing grapes industry,IND,0.0,BOL,2015
+1163,BRA,Growing fruits and nuts industry,IND,0.0,BOL,2015
+1164,BRA,"Growing beverage crops (coffee, tea etc) industry",IND,0.0002445889996768531,BOL,2015
+1165,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,3.610743748746908e-06,BOL,2015
+1166,BRA,Seeds and plant propagation industry,IND,0.0,BOL,2015
+1167,BRA,Raising of cattle industry,IND,0.012795824605399566,BOL,2015
+1168,BRA,Growing wheat industry,IRL,0.00018087738612674616,BOL,2015
+1169,BRA,Growing maize industry,IRL,6.13050007854433e-05,BOL,2015
+1170,BRA,Growing cereals n.e.c industry,IRL,0.00010126590624970862,BOL,2015
+1171,BRA,Growing leguminous crops and oil seeds industry,IRL,0.00497561533341775,BOL,2015
+1172,BRA,Growing rice industry,IRL,0.0,BOL,2015
+1173,BRA,"Growing vegetables, roots, tubers industry",IRL,2.2606481468149545e-06,BOL,2015
+1174,BRA,Growing sugar beet and cane industry,IRL,0.0006869375612415753,BOL,2015
+1175,BRA,Growing tobacco industry,IRL,5.422649036398449e-07,BOL,2015
+1176,BRA,Growing fibre crops industry,IRL,3.3554524600292024e-05,BOL,2015
+1177,BRA,Growing crops n.e.c. industry,IRL,3.292096560466273e-05,BOL,2015
+1178,BRA,Growing grapes industry,IRL,0.0,BOL,2015
+1179,BRA,Growing fruits and nuts industry,IRL,0.0,BOL,2015
+1180,BRA,"Growing beverage crops (coffee, tea etc) industry",IRL,9.233352497157717e-06,BOL,2015
+1181,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,1.6471085952446283e-07,BOL,2015
+1182,BRA,Seeds and plant propagation industry,IRL,0.0,BOL,2015
+1183,BRA,Raising of cattle industry,IRL,0.000846780761831336,BOL,2015
+1184,BRA,Growing wheat industry,IRN,0.0006376100268016843,BOL,2015
+1185,BRA,Growing maize industry,IRN,0.0002448533468956604,BOL,2015
+1186,BRA,Growing cereals n.e.c industry,IRN,0.0003086654463637041,BOL,2015
+1187,BRA,Growing leguminous crops and oil seeds industry,IRN,0.016253788906734373,BOL,2015
+1188,BRA,Growing rice industry,IRN,0.0,BOL,2015
+1189,BRA,"Growing vegetables, roots, tubers industry",IRN,8.776634910960565e-06,BOL,2015
+1190,BRA,Growing sugar beet and cane industry,IRN,0.0017743557894788458,BOL,2015
+1191,BRA,Growing tobacco industry,IRN,1.9564718485166094e-06,BOL,2015
+1192,BRA,Growing fibre crops industry,IRN,0.00010909303697693926,BOL,2015
+1193,BRA,Growing crops n.e.c. industry,IRN,7.738306343821135e-05,BOL,2015
+1194,BRA,Growing grapes industry,IRN,0.0,BOL,2015
+1195,BRA,Growing fruits and nuts industry,IRN,0.0,BOL,2015
+1196,BRA,"Growing beverage crops (coffee, tea etc) industry",IRN,2.8540879308680147e-05,BOL,2015
+1197,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,4.64570706799779e-07,BOL,2015
+1198,BRA,Seeds and plant propagation industry,IRN,0.0,BOL,2015
+1199,BRA,Raising of cattle industry,IRN,0.0021495607810862478,BOL,2015
+1200,BRA,Growing wheat industry,IRQ,0.0003539018004226576,BOL,2015
+1201,BRA,Growing maize industry,IRQ,0.00012199283481175653,BOL,2015
+1202,BRA,Growing cereals n.e.c industry,IRQ,0.00017582080295246502,BOL,2015
+1203,BRA,Growing leguminous crops and oil seeds industry,IRQ,0.009791364059812823,BOL,2015
+1204,BRA,Growing rice industry,IRQ,0.0,BOL,2015
+1205,BRA,"Growing vegetables, roots, tubers industry",IRQ,4.79747346683737e-06,BOL,2015
+1206,BRA,Growing sugar beet and cane industry,IRQ,0.0011052598971508871,BOL,2015
+1207,BRA,Growing tobacco industry,IRQ,1.053263890345123e-06,BOL,2015
+1208,BRA,Growing fibre crops industry,IRQ,6.359476817942864e-05,BOL,2015
+1209,BRA,Growing crops n.e.c. industry,IRQ,3.496294767036416e-05,BOL,2015
+1210,BRA,Growing grapes industry,IRQ,0.0,BOL,2015
+1211,BRA,Growing fruits and nuts industry,IRQ,0.0,BOL,2015
+1212,BRA,"Growing beverage crops (coffee, tea etc) industry",IRQ,1.7052452235761004e-05,BOL,2015
+1213,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,2.472762564644692e-07,BOL,2015
+1214,BRA,Seeds and plant propagation industry,IRQ,0.0,BOL,2015
+1215,BRA,Raising of cattle industry,IRQ,0.0012393314961088176,BOL,2015
+1216,BRA,Growing wheat industry,ISL,1.531275312851303e-05,BOL,2015
+1217,BRA,Growing maize industry,ISL,5.708568409338418e-06,BOL,2015
+1218,BRA,Growing cereals n.e.c industry,ISL,9.482752503151612e-06,BOL,2015
+1219,BRA,Growing leguminous crops and oil seeds industry,ISL,0.00042852885479629474,BOL,2015
+1220,BRA,Growing rice industry,ISL,0.0,BOL,2015
+1221,BRA,"Growing vegetables, roots, tubers industry",ISL,1.9771922969827004e-07,BOL,2015
+1222,BRA,Growing sugar beet and cane industry,ISL,7.140827807437022e-05,BOL,2015
+1223,BRA,Growing tobacco industry,ISL,4.19618289662392e-08,BOL,2015
+1224,BRA,Growing fibre crops industry,ISL,3.3283862136549988e-06,BOL,2015
+1225,BRA,Growing crops n.e.c. industry,ISL,2.143855926696385e-06,BOL,2015
+1226,BRA,Growing grapes industry,ISL,0.0,BOL,2015
+1227,BRA,Growing fruits and nuts industry,ISL,0.0,BOL,2015
+1228,BRA,"Growing beverage crops (coffee, tea etc) industry",ISL,9.250483767962108e-07,BOL,2015
+1229,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,1.347290865555578e-08,BOL,2015
+1230,BRA,Seeds and plant propagation industry,ISL,0.0,BOL,2015
+1231,BRA,Raising of cattle industry,ISL,0.00010015440243757276,BOL,2015
+1232,BRA,Growing wheat industry,ISR,0.0003065236597751609,BOL,2015
+1233,BRA,Growing maize industry,ISR,0.0001156153303845804,BOL,2015
+1234,BRA,Growing cereals n.e.c industry,ISR,0.00015850286339857018,BOL,2015
+1235,BRA,Growing leguminous crops and oil seeds industry,ISR,0.00821431366882643,BOL,2015
+1236,BRA,Growing rice industry,ISR,0.0,BOL,2015
+1237,BRA,"Growing vegetables, roots, tubers industry",ISR,4.2631114499993754e-06,BOL,2015
+1238,BRA,Growing sugar beet and cane industry,ISR,0.0010512001535627788,BOL,2015
+1239,BRA,Growing tobacco industry,ISR,9.510334530947675e-07,BOL,2015
+1240,BRA,Growing fibre crops industry,ISR,5.776146276697297e-05,BOL,2015
+1241,BRA,Growing crops n.e.c. industry,ISR,4.304595987165385e-05,BOL,2015
+1242,BRA,Growing grapes industry,ISR,0.0,BOL,2015
+1243,BRA,Growing fruits and nuts industry,ISR,0.0,BOL,2015
+1244,BRA,"Growing beverage crops (coffee, tea etc) industry",ISR,1.5215002648586104e-05,BOL,2015
+1245,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,2.4816447511702104e-07,BOL,2015
+1246,BRA,Seeds and plant propagation industry,ISR,0.0,BOL,2015
+1247,BRA,Raising of cattle industry,ISR,0.001295039845542766,BOL,2015
+1248,BRA,Growing wheat industry,ITA,0.004172359908741265,BOL,2015
+1249,BRA,Growing maize industry,ITA,0.001384492340858391,BOL,2015
+1250,BRA,Growing cereals n.e.c industry,ITA,0.0025548186045481047,BOL,2015
+1251,BRA,Growing leguminous crops and oil seeds industry,ITA,0.1299298847809809,BOL,2015
+1252,BRA,Growing rice industry,ITA,0.0,BOL,2015
+1253,BRA,"Growing vegetables, roots, tubers industry",ITA,4.1000202165090435e-05,BOL,2015
+1254,BRA,Growing sugar beet and cane industry,ITA,0.03709180783876216,BOL,2015
+1255,BRA,Growing tobacco industry,ITA,1.644796928584329e-05,BOL,2015
+1256,BRA,Growing fibre crops industry,ITA,0.0009502318563862829,BOL,2015
+1257,BRA,Growing crops n.e.c. industry,ITA,0.0005837452285133811,BOL,2015
+1258,BRA,Growing grapes industry,ITA,0.0,BOL,2015
+1259,BRA,Growing fruits and nuts industry,ITA,0.0,BOL,2015
+1260,BRA,"Growing beverage crops (coffee, tea etc) industry",ITA,0.0004167247785759572,BOL,2015
+1261,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,4.683596611035153e-06,BOL,2015
+1262,BRA,Seeds and plant propagation industry,ITA,0.0,BOL,2015
+1263,BRA,Raising of cattle industry,ITA,0.02318531778031533,BOL,2015
+1264,BRA,Growing wheat industry,JAM,7.22551270784451e-05,BOL,2015
+1265,BRA,Growing maize industry,JAM,2.5091314202046946e-05,BOL,2015
+1266,BRA,Growing cereals n.e.c industry,JAM,4.8437548326784955e-05,BOL,2015
+1267,BRA,Growing leguminous crops and oil seeds industry,JAM,0.0021015123091932047,BOL,2015
+1268,BRA,Growing rice industry,JAM,0.0,BOL,2015
+1269,BRA,"Growing vegetables, roots, tubers industry",JAM,9.233918518249984e-07,BOL,2015
+1270,BRA,Growing sugar beet and cane industry,JAM,0.00025474722944901105,BOL,2015
+1271,BRA,Growing tobacco industry,JAM,1.7522900642600414e-07,BOL,2015
+1272,BRA,Growing fibre crops industry,JAM,1.698062005242044e-05,BOL,2015
+1273,BRA,Growing crops n.e.c. industry,JAM,1.0027172770228373e-05,BOL,2015
+1274,BRA,Growing grapes industry,JAM,0.0,BOL,2015
+1275,BRA,Growing fruits and nuts industry,JAM,0.0,BOL,2015
+1276,BRA,"Growing beverage crops (coffee, tea etc) industry",JAM,3.4991195330437557e-06,BOL,2015
+1277,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,6.437500675284772e-08,BOL,2015
+1278,BRA,Seeds and plant propagation industry,JAM,0.0,BOL,2015
+1279,BRA,Raising of cattle industry,JAM,0.0006386083367167537,BOL,2015
+1280,BRA,Growing wheat industry,JOR,5.986414582892616e-05,BOL,2015
+1281,BRA,Growing maize industry,JOR,2.469502663125219e-05,BOL,2015
+1282,BRA,Growing cereals n.e.c industry,JOR,3.6937967102058404e-05,BOL,2015
+1283,BRA,Growing leguminous crops and oil seeds industry,JOR,0.0015219013847285047,BOL,2015
+1284,BRA,Growing rice industry,JOR,0.0,BOL,2015
+1285,BRA,"Growing vegetables, roots, tubers industry",JOR,6.863324060968312e-07,BOL,2015
+1286,BRA,Growing sugar beet and cane industry,JOR,0.00019645164836222523,BOL,2015
+1287,BRA,Growing tobacco industry,JOR,1.5392405099172295e-07,BOL,2015
+1288,BRA,Growing fibre crops industry,JOR,1.012011380315015e-05,BOL,2015
+1289,BRA,Growing crops n.e.c. industry,JOR,1.1969847005153508e-05,BOL,2015
+1290,BRA,Growing grapes industry,JOR,0.0,BOL,2015
+1291,BRA,Growing fruits and nuts industry,JOR,0.0,BOL,2015
+1292,BRA,"Growing beverage crops (coffee, tea etc) industry",JOR,2.6731468537256484e-06,BOL,2015
+1293,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,4.8478511400064606e-08,BOL,2015
+1294,BRA,Seeds and plant propagation industry,JOR,0.0,BOL,2015
+1295,BRA,Raising of cattle industry,JOR,0.0003319390218042915,BOL,2015
+1296,BRA,Growing wheat industry,JPN,0.01398742145660008,BOL,2015
+1297,BRA,Growing maize industry,JPN,0.005203831231101801,BOL,2015
+1298,BRA,Growing cereals n.e.c industry,JPN,0.006419785776444369,BOL,2015
+1299,BRA,Growing leguminous crops and oil seeds industry,JPN,0.39664142426235666,BOL,2015
+1300,BRA,Growing rice industry,JPN,0.0,BOL,2015
+1301,BRA,"Growing vegetables, roots, tubers industry",JPN,0.00022751719048492172,BOL,2015
+1302,BRA,Growing sugar beet and cane industry,JPN,0.046705759725776064,BOL,2015
+1303,BRA,Growing tobacco industry,JPN,4.8314084542848124e-05,BOL,2015
+1304,BRA,Growing fibre crops industry,JPN,0.00293781245898066,BOL,2015
+1305,BRA,Growing crops n.e.c. industry,JPN,0.0017429272642287231,BOL,2015
+1306,BRA,Growing grapes industry,JPN,0.0,BOL,2015
+1307,BRA,Growing fruits and nuts industry,JPN,0.0,BOL,2015
+1308,BRA,"Growing beverage crops (coffee, tea etc) industry",JPN,0.0007147753817920615,BOL,2015
+1309,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,1.2251597450469833e-05,BOL,2015
+1310,BRA,Seeds and plant propagation industry,JPN,0.0,BOL,2015
+1311,BRA,Raising of cattle industry,JPN,0.05206858577893468,BOL,2015
+1312,BRA,Growing wheat industry,KAZ,0.00015711343504743917,BOL,2015
+1313,BRA,Growing maize industry,KAZ,5.35191983471703e-05,BOL,2015
+1314,BRA,Growing cereals n.e.c industry,KAZ,7.902748953413885e-05,BOL,2015
+1315,BRA,Growing leguminous crops and oil seeds industry,KAZ,0.004362081995523577,BOL,2015
+1316,BRA,Growing rice industry,KAZ,0.0,BOL,2015
+1317,BRA,"Growing vegetables, roots, tubers industry",KAZ,2.2023154142060267e-06,BOL,2015
+1318,BRA,Growing sugar beet and cane industry,KAZ,0.0004955838337725247,BOL,2015
+1319,BRA,Growing tobacco industry,KAZ,4.889413638257388e-07,BOL,2015
+1320,BRA,Growing fibre crops industry,KAZ,2.785286038598812e-05,BOL,2015
+1321,BRA,Growing crops n.e.c. industry,KAZ,1.9359388685450943e-05,BOL,2015
+1322,BRA,Growing grapes industry,KAZ,0.0,BOL,2015
+1323,BRA,Growing fruits and nuts industry,KAZ,0.0,BOL,2015
+1324,BRA,"Growing beverage crops (coffee, tea etc) industry",KAZ,7.524676278872913e-06,BOL,2015
+1325,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,1.1642500963851395e-07,BOL,2015
+1326,BRA,Seeds and plant propagation industry,KAZ,0.0,BOL,2015
+1327,BRA,Raising of cattle industry,KAZ,0.0005784360929435384,BOL,2015
+1328,BRA,Growing wheat industry,KEN,8.257857100152821e-05,BOL,2015
+1329,BRA,Growing maize industry,KEN,2.834005874853853e-05,BOL,2015
+1330,BRA,Growing cereals n.e.c industry,KEN,3.397868226003923e-05,BOL,2015
+1331,BRA,Growing leguminous crops and oil seeds industry,KEN,0.0019216658248346198,BOL,2015
+1332,BRA,Growing rice industry,KEN,0.0,BOL,2015
+1333,BRA,"Growing vegetables, roots, tubers industry",KEN,1.2150844425353404e-06,BOL,2015
+1334,BRA,Growing sugar beet and cane industry,KEN,0.00022189846317343534,BOL,2015
+1335,BRA,Growing tobacco industry,KEN,2.4581804669785527e-07,BOL,2015
+1336,BRA,Growing fibre crops industry,KEN,1.5863526630526646e-05,BOL,2015
+1337,BRA,Growing crops n.e.c. industry,KEN,9.278378800132898e-06,BOL,2015
+1338,BRA,Growing grapes industry,KEN,0.0,BOL,2015
+1339,BRA,Growing fruits and nuts industry,KEN,0.0,BOL,2015
+1340,BRA,"Growing beverage crops (coffee, tea etc) industry",KEN,3.6141359417431555e-06,BOL,2015
+1341,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,5.812124958015226e-08,BOL,2015
+1342,BRA,Seeds and plant propagation industry,KEN,0.0,BOL,2015
+1343,BRA,Raising of cattle industry,KEN,0.0002819464099251895,BOL,2015
+1344,BRA,Growing wheat industry,KGZ,1.0839182659912898e-05,BOL,2015
+1345,BRA,Growing maize industry,KGZ,3.820285841197117e-06,BOL,2015
+1346,BRA,Growing cereals n.e.c industry,KGZ,6.021749879457059e-06,BOL,2015
+1347,BRA,Growing leguminous crops and oil seeds industry,KGZ,0.0002844686791256238,BOL,2015
+1348,BRA,Growing rice industry,KGZ,0.0,BOL,2015
+1349,BRA,"Growing vegetables, roots, tubers industry",KGZ,2.228085274608473e-07,BOL,2015
+1350,BRA,Growing sugar beet and cane industry,KGZ,3.9702857624100765e-05,BOL,2015
+1351,BRA,Growing tobacco industry,KGZ,3.151031568801386e-08,BOL,2015
+1352,BRA,Growing fibre crops industry,KGZ,2.081160925088372e-06,BOL,2015
+1353,BRA,Growing crops n.e.c. industry,KGZ,3.3763200206592533e-06,BOL,2015
+1354,BRA,Growing grapes industry,KGZ,0.0,BOL,2015
+1355,BRA,Growing fruits and nuts industry,KGZ,0.0,BOL,2015
+1356,BRA,"Growing beverage crops (coffee, tea etc) industry",KGZ,5.422682771219728e-07,BOL,2015
+1357,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,9.28942618262904e-09,BOL,2015
+1358,BRA,Seeds and plant propagation industry,KGZ,0.0,BOL,2015
+1359,BRA,Raising of cattle industry,KGZ,5.2839267195599224e-05,BOL,2015
+1360,BRA,Growing wheat industry,KHM,5.4935876607209695e-05,BOL,2015
+1361,BRA,Growing maize industry,KHM,2.1060861511056817e-05,BOL,2015
+1362,BRA,Growing cereals n.e.c industry,KHM,2.5683211384955612e-05,BOL,2015
+1363,BRA,Growing leguminous crops and oil seeds industry,KHM,0.0015740603447640911,BOL,2015
+1364,BRA,Growing rice industry,KHM,0.0,BOL,2015
+1365,BRA,"Growing vegetables, roots, tubers industry",KHM,9.621499250505924e-07,BOL,2015
+1366,BRA,Growing sugar beet and cane industry,KHM,0.00020423969921150027,BOL,2015
+1367,BRA,Growing tobacco industry,KHM,1.8537909451710168e-07,BOL,2015
+1368,BRA,Growing fibre crops industry,KHM,1.151318761454317e-05,BOL,2015
+1369,BRA,Growing crops n.e.c. industry,KHM,7.30424664267887e-06,BOL,2015
+1370,BRA,Growing grapes industry,KHM,0.0,BOL,2015
+1371,BRA,Growing fruits and nuts industry,KHM,0.0,BOL,2015
+1372,BRA,"Growing beverage crops (coffee, tea etc) industry",KHM,3.6045273947438055e-06,BOL,2015
+1373,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,4.536037673655741e-08,BOL,2015
+1374,BRA,Seeds and plant propagation industry,KHM,0.0,BOL,2015
+1375,BRA,Raising of cattle industry,KHM,0.00019136737760731435,BOL,2015
+1376,BRA,Growing wheat industry,KOR,0.007093310241339915,BOL,2015
+1377,BRA,Growing maize industry,KOR,0.0024484141436536774,BOL,2015
+1378,BRA,Growing cereals n.e.c industry,KOR,0.0034674061580977564,BOL,2015
+1379,BRA,Growing leguminous crops and oil seeds industry,KOR,0.2850515180841773,BOL,2015
+1380,BRA,Growing rice industry,KOR,0.0,BOL,2015
+1381,BRA,"Growing vegetables, roots, tubers industry",KOR,0.000104884744068528,BOL,2015
+1382,BRA,Growing sugar beet and cane industry,KOR,0.022278760980530173,BOL,2015
+1383,BRA,Growing tobacco industry,KOR,2.490265483119338e-05,BOL,2015
+1384,BRA,Growing fibre crops industry,KOR,0.0012842242158483989,BOL,2015
+1385,BRA,Growing crops n.e.c. industry,KOR,0.0013611573163738976,BOL,2015
+1386,BRA,Growing grapes industry,KOR,0.0,BOL,2015
+1387,BRA,Growing fruits and nuts industry,KOR,0.0,BOL,2015
+1388,BRA,"Growing beverage crops (coffee, tea etc) industry",KOR,0.0015613473891064754,BOL,2015
+1389,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,5.796818877418554e-06,BOL,2015
+1390,BRA,Seeds and plant propagation industry,KOR,0.0,BOL,2015
+1391,BRA,Raising of cattle industry,KOR,0.021955642770739085,BOL,2015
+1392,BRA,Growing wheat industry,KWT,0.00021905356605828142,BOL,2015
+1393,BRA,Growing maize industry,KWT,9.133881750230233e-05,BOL,2015
+1394,BRA,Growing cereals n.e.c industry,KWT,0.00013354921907055922,BOL,2015
+1395,BRA,Growing leguminous crops and oil seeds industry,KWT,0.005827167211489008,BOL,2015
+1396,BRA,Growing rice industry,KWT,0.0,BOL,2015
+1397,BRA,"Growing vegetables, roots, tubers industry",KWT,2.868503519310437e-06,BOL,2015
+1398,BRA,Growing sugar beet and cane industry,KWT,0.0007692090355437772,BOL,2015
+1399,BRA,Growing tobacco industry,KWT,6.016306513013048e-07,BOL,2015
+1400,BRA,Growing fibre crops industry,KWT,4.5788784895627126e-05,BOL,2015
+1401,BRA,Growing crops n.e.c. industry,KWT,2.8047608503245236e-05,BOL,2015
+1402,BRA,Growing grapes industry,KWT,0.0,BOL,2015
+1403,BRA,Growing fruits and nuts industry,KWT,0.0,BOL,2015
+1404,BRA,"Growing beverage crops (coffee, tea etc) industry",KWT,1.0400449124610632e-05,BOL,2015
+1405,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,1.72283559248477e-07,BOL,2015
+1406,BRA,Seeds and plant propagation industry,KWT,0.0,BOL,2015
+1407,BRA,Raising of cattle industry,KWT,0.0010953495869199651,BOL,2015
+1408,BRA,Growing wheat industry,LAO,0.00016754217384773226,BOL,2015
+1409,BRA,Growing maize industry,LAO,5.419419531564308e-05,BOL,2015
+1410,BRA,Growing cereals n.e.c industry,LAO,0.00010696085730261066,BOL,2015
+1411,BRA,Growing leguminous crops and oil seeds industry,LAO,0.010113330776735426,BOL,2015
+1412,BRA,Growing rice industry,LAO,0.0,BOL,2015
+1413,BRA,"Growing vegetables, roots, tubers industry",LAO,1.7965881738769479e-06,BOL,2015
+1414,BRA,Growing sugar beet and cane industry,LAO,0.0004292751170874687,BOL,2015
+1415,BRA,Growing tobacco industry,LAO,4.1520975612876853e-07,BOL,2015
+1416,BRA,Growing fibre crops industry,LAO,2.143814788942094e-05,BOL,2015
+1417,BRA,Growing crops n.e.c. industry,LAO,6.671602350581337e-05,BOL,2015
+1418,BRA,Growing grapes industry,LAO,0.0,BOL,2015
+1419,BRA,Growing fruits and nuts industry,LAO,0.0,BOL,2015
+1420,BRA,"Growing beverage crops (coffee, tea etc) industry",LAO,9.118474386593552e-05,BOL,2015
+1421,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,1.2334369907285523e-07,BOL,2015
+1422,BRA,Seeds and plant propagation industry,LAO,0.0,BOL,2015
+1423,BRA,Raising of cattle industry,LAO,0.0004938925998555477,BOL,2015
+1424,BRA,Growing wheat industry,LBN,0.00016697749465693104,BOL,2015
+1425,BRA,Growing maize industry,LBN,5.5796687442687755e-05,BOL,2015
+1426,BRA,Growing cereals n.e.c industry,LBN,0.00010998273758968878,BOL,2015
+1427,BRA,Growing leguminous crops and oil seeds industry,LBN,0.004551615105677708,BOL,2015
+1428,BRA,Growing rice industry,LBN,0.0,BOL,2015
+1429,BRA,"Growing vegetables, roots, tubers industry",LBN,1.4071134761356657e-06,BOL,2015
+1430,BRA,Growing sugar beet and cane industry,LBN,0.0006252175754349118,BOL,2015
+1431,BRA,Growing tobacco industry,LBN,3.575436458600462e-07,BOL,2015
+1432,BRA,Growing fibre crops industry,LBN,3.712184310446033e-05,BOL,2015
+1433,BRA,Growing crops n.e.c. industry,LBN,2.1573765367188367e-05,BOL,2015
+1434,BRA,Growing grapes industry,LBN,0.0,BOL,2015
+1435,BRA,Growing fruits and nuts industry,LBN,0.0,BOL,2015
+1436,BRA,"Growing beverage crops (coffee, tea etc) industry",LBN,8.675393450709852e-06,BOL,2015
+1437,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,1.773103005519432e-07,BOL,2015
+1438,BRA,Seeds and plant propagation industry,LBN,0.0,BOL,2015
+1439,BRA,Raising of cattle industry,LBN,0.001963347923996862,BOL,2015
+1440,BRA,Growing wheat industry,LBR,7.363710171342804e-06,BOL,2015
+1441,BRA,Growing maize industry,LBR,2.926908380347604e-06,BOL,2015
+1442,BRA,Growing cereals n.e.c industry,LBR,3.3002838535751207e-06,BOL,2015
+1443,BRA,Growing leguminous crops and oil seeds industry,LBR,0.00020482410074326485,BOL,2015
+1444,BRA,Growing rice industry,LBR,0.0,BOL,2015
+1445,BRA,"Growing vegetables, roots, tubers industry",LBR,1.2280351585834704e-07,BOL,2015
+1446,BRA,Growing sugar beet and cane industry,LBR,2.1435722860789737e-05,BOL,2015
+1447,BRA,Growing tobacco industry,LBR,2.5579012617618154e-08,BOL,2015
+1448,BRA,Growing fibre crops industry,LBR,1.387824875891894e-06,BOL,2015
+1449,BRA,Growing crops n.e.c. industry,LBR,8.444952268024505e-07,BOL,2015
+1450,BRA,Growing grapes industry,LBR,0.0,BOL,2015
+1451,BRA,Growing fruits and nuts industry,LBR,0.0,BOL,2015
+1452,BRA,"Growing beverage crops (coffee, tea etc) industry",LBR,3.532321981407754e-07,BOL,2015
+1453,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,5.8113877919504e-09,BOL,2015
+1454,BRA,Seeds and plant propagation industry,LBR,0.0,BOL,2015
+1455,BRA,Raising of cattle industry,LBR,2.268500352631318e-05,BOL,2015
+1456,BRA,Growing wheat industry,LBY,0.00013350525724967172,BOL,2015
+1457,BRA,Growing maize industry,LBY,4.761747062922832e-05,BOL,2015
+1458,BRA,Growing cereals n.e.c industry,LBY,6.654813252271096e-05,BOL,2015
+1459,BRA,Growing leguminous crops and oil seeds industry,LBY,0.0036852516052856663,BOL,2015
+1460,BRA,Growing rice industry,LBY,0.0,BOL,2015
+1461,BRA,"Growing vegetables, roots, tubers industry",LBY,1.8915652165787412e-06,BOL,2015
+1462,BRA,Growing sugar beet and cane industry,LBY,0.0004341355686230304,BOL,2015
+1463,BRA,Growing tobacco industry,LBY,4.0596124772917153e-07,BOL,2015
+1464,BRA,Growing fibre crops industry,LBY,2.384037858747224e-05,BOL,2015
+1465,BRA,Growing crops n.e.c. industry,LBY,1.5849266484390595e-05,BOL,2015
+1466,BRA,Growing grapes industry,LBY,0.0,BOL,2015
+1467,BRA,Growing fruits and nuts industry,LBY,0.0,BOL,2015
+1468,BRA,"Growing beverage crops (coffee, tea etc) industry",LBY,6.559536885332819e-06,BOL,2015
+1469,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,9.945332452857242e-08,BOL,2015
+1470,BRA,Seeds and plant propagation industry,LBY,0.0,BOL,2015
+1471,BRA,Raising of cattle industry,LBY,0.0004918642173180384,BOL,2015
+1472,BRA,Growing wheat industry,LKA,9.163374783999484e-05,BOL,2015
+1473,BRA,Growing maize industry,LKA,3.33997138247004e-05,BOL,2015
+1474,BRA,Growing cereals n.e.c industry,LKA,4.2956132062354365e-05,BOL,2015
+1475,BRA,Growing leguminous crops and oil seeds industry,LKA,0.0022075836444248077,BOL,2015
+1476,BRA,Growing rice industry,LKA,0.0,BOL,2015
+1477,BRA,"Growing vegetables, roots, tubers industry",LKA,1.2460055523871667e-06,BOL,2015
+1478,BRA,Growing sugar beet and cane industry,LKA,0.00033322165003023697,BOL,2015
+1479,BRA,Growing tobacco industry,LKA,2.643267274154187e-07,BOL,2015
+1480,BRA,Growing fibre crops industry,LKA,1.6386497067941873e-05,BOL,2015
+1481,BRA,Growing crops n.e.c. industry,LKA,1.715176508493223e-05,BOL,2015
+1482,BRA,Growing grapes industry,LKA,0.0,BOL,2015
+1483,BRA,Growing fruits and nuts industry,LKA,0.0,BOL,2015
+1484,BRA,"Growing beverage crops (coffee, tea etc) industry",LKA,4.679689187790068e-06,BOL,2015
+1485,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,7.625622925011471e-08,BOL,2015
+1486,BRA,Seeds and plant propagation industry,LKA,0.0,BOL,2015
+1487,BRA,Raising of cattle industry,LKA,0.0003230712412403357,BOL,2015
+1488,BRA,Growing wheat industry,LTU,4.2037951362679985e-05,BOL,2015
+1489,BRA,Growing maize industry,LTU,1.8316249019087688e-05,BOL,2015
+1490,BRA,Growing cereals n.e.c industry,LTU,2.627702514220924e-05,BOL,2015
+1491,BRA,Growing leguminous crops and oil seeds industry,LTU,0.0010769024233255205,BOL,2015
+1492,BRA,Growing rice industry,LTU,0.0,BOL,2015
+1493,BRA,"Growing vegetables, roots, tubers industry",LTU,5.193605571909612e-07,BOL,2015
+1494,BRA,Growing sugar beet and cane industry,LTU,0.0001419067234814403,BOL,2015
+1495,BRA,Growing tobacco industry,LTU,1.194949790131222e-07,BOL,2015
+1496,BRA,Growing fibre crops industry,LTU,7.714302990157606e-06,BOL,2015
+1497,BRA,Growing crops n.e.c. industry,LTU,9.838247898493374e-06,BOL,2015
+1498,BRA,Growing grapes industry,LTU,0.0,BOL,2015
+1499,BRA,Growing fruits and nuts industry,LTU,0.0,BOL,2015
+1500,BRA,"Growing beverage crops (coffee, tea etc) industry",LTU,1.8655384275206764e-06,BOL,2015
+1501,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,3.5665393000982087e-08,BOL,2015
+1502,BRA,Seeds and plant propagation industry,LTU,0.0,BOL,2015
+1503,BRA,Raising of cattle industry,LTU,0.00020596100001594482,BOL,2015
+1504,BRA,Growing wheat industry,LUX,0.00014574366926685552,BOL,2015
+1505,BRA,Growing maize industry,LUX,0.0001341519740533522,BOL,2015
+1506,BRA,Growing cereals n.e.c industry,LUX,0.00017065111875897866,BOL,2015
+1507,BRA,Growing leguminous crops and oil seeds industry,LUX,0.0027264882452874614,BOL,2015
+1508,BRA,Growing rice industry,LUX,0.0,BOL,2015
+1509,BRA,"Growing vegetables, roots, tubers industry",LUX,1.128823684788431e-06,BOL,2015
+1510,BRA,Growing sugar beet and cane industry,LUX,0.0006254206990903335,BOL,2015
+1511,BRA,Growing tobacco industry,LUX,2.048378691461705e-07,BOL,2015
+1512,BRA,Growing fibre crops industry,LUX,1.397320879592892e-05,BOL,2015
+1513,BRA,Growing crops n.e.c. industry,LUX,9.677359164292171e-05,BOL,2015
+1514,BRA,Growing grapes industry,LUX,0.0,BOL,2015
+1515,BRA,Growing fruits and nuts industry,LUX,0.0,BOL,2015
+1516,BRA,"Growing beverage crops (coffee, tea etc) industry",LUX,4.750436648331094e-06,BOL,2015
+1517,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,1.4274987535294026e-07,BOL,2015
+1518,BRA,Seeds and plant propagation industry,LUX,0.0,BOL,2015
+1519,BRA,Raising of cattle industry,LUX,0.0009003596168360273,BOL,2015
+1520,BRA,Growing wheat industry,LVA,2.637469383184534e-05,BOL,2015
+1521,BRA,Growing maize industry,LVA,9.01297048463388e-06,BOL,2015
+1522,BRA,Growing cereals n.e.c industry,LVA,1.5986702760333246e-05,BOL,2015
+1523,BRA,Growing leguminous crops and oil seeds industry,LVA,0.0006639544830650736,BOL,2015
+1524,BRA,Growing rice industry,LVA,0.0,BOL,2015
+1525,BRA,"Growing vegetables, roots, tubers industry",LVA,3.045483945058413e-07,BOL,2015
+1526,BRA,Growing sugar beet and cane industry,LVA,8.82777815282889e-05,BOL,2015
+1527,BRA,Growing tobacco industry,LVA,6.9715757366969e-08,BOL,2015
+1528,BRA,Growing fibre crops industry,LVA,6.0957751112306456e-06,BOL,2015
+1529,BRA,Growing crops n.e.c. industry,LVA,1.0363309255353168e-05,BOL,2015
+1530,BRA,Growing grapes industry,LVA,0.0,BOL,2015
+1531,BRA,Growing fruits and nuts industry,LVA,0.0,BOL,2015
+1532,BRA,"Growing beverage crops (coffee, tea etc) industry",LVA,1.0447894972881804e-06,BOL,2015
+1533,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,2.558819095923489e-08,BOL,2015
+1534,BRA,Seeds and plant propagation industry,LVA,0.0,BOL,2015
+1535,BRA,Raising of cattle industry,LVA,0.00014041928808093552,BOL,2015
+1536,BRA,Growing wheat industry,MAR,0.00012179080559681289,BOL,2015
+1537,BRA,Growing maize industry,MAR,4.122615138430946e-05,BOL,2015
+1538,BRA,Growing cereals n.e.c industry,MAR,6.272903754880605e-05,BOL,2015
+1539,BRA,Growing leguminous crops and oil seeds industry,MAR,0.0032495051760419677,BOL,2015
+1540,BRA,Growing rice industry,MAR,0.0,BOL,2015
+1541,BRA,"Growing vegetables, roots, tubers industry",MAR,1.7043798917179563e-06,BOL,2015
+1542,BRA,Growing sugar beet and cane industry,MAR,0.00040597575447743624,BOL,2015
+1543,BRA,Growing tobacco industry,MAR,3.638907757512447e-07,BOL,2015
+1544,BRA,Growing fibre crops industry,MAR,2.2832449128355652e-05,BOL,2015
+1545,BRA,Growing crops n.e.c. industry,MAR,1.902076177823826e-05,BOL,2015
+1546,BRA,Growing grapes industry,MAR,0.0,BOL,2015
+1547,BRA,Growing fruits and nuts industry,MAR,0.0,BOL,2015
+1548,BRA,"Growing beverage crops (coffee, tea etc) industry",MAR,6.014634338807479e-06,BOL,2015
+1549,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,1.0225085406485242e-07,BOL,2015
+1550,BRA,Seeds and plant propagation industry,MAR,0.0,BOL,2015
+1551,BRA,Raising of cattle industry,MAR,0.0005807326141240538,BOL,2015
+1552,BRA,Growing wheat industry,MDA,2.000709242556004e-05,BOL,2015
+1553,BRA,Growing maize industry,MDA,6.424044019193767e-06,BOL,2015
+1554,BRA,Growing cereals n.e.c industry,MDA,9.456662521345155e-06,BOL,2015
+1555,BRA,Growing leguminous crops and oil seeds industry,MDA,0.00047605229324731486,BOL,2015
+1556,BRA,Growing rice industry,MDA,0.0,BOL,2015
+1557,BRA,"Growing vegetables, roots, tubers industry",MDA,2.2195195976166376e-07,BOL,2015
+1558,BRA,Growing sugar beet and cane industry,MDA,5.4926261538403716e-05,BOL,2015
+1559,BRA,Growing tobacco industry,MDA,5.7229684680762195e-08,BOL,2015
+1560,BRA,Growing fibre crops industry,MDA,3.6085611540373893e-06,BOL,2015
+1561,BRA,Growing crops n.e.c. industry,MDA,2.622465392493255e-06,BOL,2015
+1562,BRA,Growing grapes industry,MDA,0.0,BOL,2015
+1563,BRA,Growing fruits and nuts industry,MDA,0.0,BOL,2015
+1564,BRA,"Growing beverage crops (coffee, tea etc) industry",MDA,8.655871355485907e-07,BOL,2015
+1565,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.4724135453992982e-08,BOL,2015
+1566,BRA,Seeds and plant propagation industry,MDA,0.0,BOL,2015
+1567,BRA,Raising of cattle industry,MDA,8.479018917800194e-05,BOL,2015
+1568,BRA,Growing wheat industry,MDG,2.1857034513553678e-05,BOL,2015
+1569,BRA,Growing maize industry,MDG,9.11123383243643e-06,BOL,2015
+1570,BRA,Growing cereals n.e.c industry,MDG,1.2181076057635929e-05,BOL,2015
+1571,BRA,Growing leguminous crops and oil seeds industry,MDG,0.0005551899428019926,BOL,2015
+1572,BRA,Growing rice industry,MDG,0.0,BOL,2015
+1573,BRA,"Growing vegetables, roots, tubers industry",MDG,3.169892491746666e-07,BOL,2015
+1574,BRA,Growing sugar beet and cane industry,MDG,7.207770887946489e-05,BOL,2015
+1575,BRA,Growing tobacco industry,MDG,6.457469614324752e-08,BOL,2015
+1576,BRA,Growing fibre crops industry,MDG,6.740809434203192e-06,BOL,2015
+1577,BRA,Growing crops n.e.c. industry,MDG,4.049158403634689e-06,BOL,2015
+1578,BRA,Growing grapes industry,MDG,0.0,BOL,2015
+1579,BRA,Growing fruits and nuts industry,MDG,0.0,BOL,2015
+1580,BRA,"Growing beverage crops (coffee, tea etc) industry",MDG,1.0026722187808754e-06,BOL,2015
+1581,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,1.9056489098486154e-08,BOL,2015
+1582,BRA,Seeds and plant propagation industry,MDG,0.0,BOL,2015
+1583,BRA,Raising of cattle industry,MDG,0.00010045269390563496,BOL,2015
+1584,BRA,Growing wheat industry,MEX,0.002471654105213363,BOL,2015
+1585,BRA,Growing maize industry,MEX,0.0007685550112830283,BOL,2015
+1586,BRA,Growing cereals n.e.c industry,MEX,0.0012913040613434254,BOL,2015
+1587,BRA,Growing leguminous crops and oil seeds industry,MEX,0.06775157615784327,BOL,2015
+1588,BRA,Growing rice industry,MEX,0.0,BOL,2015
+1589,BRA,"Growing vegetables, roots, tubers industry",MEX,3.10042408521248e-05,BOL,2015
+1590,BRA,Growing sugar beet and cane industry,MEX,0.01173012453620339,BOL,2015
+1591,BRA,Growing tobacco industry,MEX,6.9507273836259736e-06,BOL,2015
+1592,BRA,Growing fibre crops industry,MEX,0.0005697018496177568,BOL,2015
+1593,BRA,Growing crops n.e.c. industry,MEX,0.0003193769056498876,BOL,2015
+1594,BRA,Growing grapes industry,MEX,0.0,BOL,2015
+1595,BRA,Growing fruits and nuts industry,MEX,0.0,BOL,2015
+1596,BRA,"Growing beverage crops (coffee, tea etc) industry",MEX,0.00015718251903758978,BOL,2015
+1597,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,1.994026177857155e-06,BOL,2015
+1598,BRA,Seeds and plant propagation industry,MEX,0.0,BOL,2015
+1599,BRA,Raising of cattle industry,MEX,0.011504751307207638,BOL,2015
+1600,BRA,Growing wheat industry,MKD,1.8353373437017432e-05,BOL,2015
+1601,BRA,Growing maize industry,MKD,1.2586427702903848e-05,BOL,2015
+1602,BRA,Growing cereals n.e.c industry,MKD,1.5852949524749612e-05,BOL,2015
+1603,BRA,Growing leguminous crops and oil seeds industry,MKD,0.0004103121325459188,BOL,2015
+1604,BRA,Growing rice industry,MKD,0.0,BOL,2015
+1605,BRA,"Growing vegetables, roots, tubers industry",MKD,2.1506178983269858e-07,BOL,2015
+1606,BRA,Growing sugar beet and cane industry,MKD,6.817376151346401e-05,BOL,2015
+1607,BRA,Growing tobacco industry,MKD,4.261698431426071e-08,BOL,2015
+1608,BRA,Growing fibre crops industry,MKD,2.602504744194966e-06,BOL,2015
+1609,BRA,Growing crops n.e.c. industry,MKD,4.4653646522402174e-06,BOL,2015
+1610,BRA,Growing grapes industry,MKD,0.0,BOL,2015
+1611,BRA,Growing fruits and nuts industry,MKD,0.0,BOL,2015
+1612,BRA,"Growing beverage crops (coffee, tea etc) industry",MKD,7.806632843459865e-07,BOL,2015
+1613,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.4687900325896957e-08,BOL,2015
+1614,BRA,Seeds and plant propagation industry,MKD,0.0,BOL,2015
+1615,BRA,Raising of cattle industry,MKD,9.185124898139408e-05,BOL,2015
+1616,BRA,Growing wheat industry,MLI,1.2362426498926224e-05,BOL,2015
+1617,BRA,Growing maize industry,MLI,5.82224000913208e-06,BOL,2015
+1618,BRA,Growing cereals n.e.c industry,MLI,7.383954359651698e-06,BOL,2015
+1619,BRA,Growing leguminous crops and oil seeds industry,MLI,0.00029775501777295316,BOL,2015
+1620,BRA,Growing rice industry,MLI,0.0,BOL,2015
+1621,BRA,"Growing vegetables, roots, tubers industry",MLI,2.1549150197732384e-07,BOL,2015
+1622,BRA,Growing sugar beet and cane industry,MLI,3.866869058846809e-05,BOL,2015
+1623,BRA,Growing tobacco industry,MLI,3.628262044117179e-08,BOL,2015
+1624,BRA,Growing fibre crops industry,MLI,2.0324208128919997e-06,BOL,2015
+1625,BRA,Growing crops n.e.c. industry,MLI,3.0298884235362744e-06,BOL,2015
+1626,BRA,Growing grapes industry,MLI,0.0,BOL,2015
+1627,BRA,Growing fruits and nuts industry,MLI,0.0,BOL,2015
+1628,BRA,"Growing beverage crops (coffee, tea etc) industry",MLI,5.27635853788993e-07,BOL,2015
+1629,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,9.812931023081616e-09,BOL,2015
+1630,BRA,Seeds and plant propagation industry,MLI,0.0,BOL,2015
+1631,BRA,Raising of cattle industry,MLI,5.492926383207494e-05,BOL,2015
+1632,BRA,Growing wheat industry,MLT,1.4756148310120707e-05,BOL,2015
+1633,BRA,Growing maize industry,MLT,8.125903549251423e-06,BOL,2015
+1634,BRA,Growing cereals n.e.c industry,MLT,1.1132049791911989e-05,BOL,2015
+1635,BRA,Growing leguminous crops and oil seeds industry,MLT,0.0003452361746740142,BOL,2015
+1636,BRA,Growing rice industry,MLT,0.0,BOL,2015
+1637,BRA,"Growing vegetables, roots, tubers industry",MLT,1.7774362704947155e-07,BOL,2015
+1638,BRA,Growing sugar beet and cane industry,MLT,5.075001323006578e-05,BOL,2015
+1639,BRA,Growing tobacco industry,MLT,3.507734912766613e-08,BOL,2015
+1640,BRA,Growing fibre crops industry,MLT,2.306832048563313e-06,BOL,2015
+1641,BRA,Growing crops n.e.c. industry,MLT,5.402082530769663e-06,BOL,2015
+1642,BRA,Growing grapes industry,MLT,0.0,BOL,2015
+1643,BRA,Growing fruits and nuts industry,MLT,0.0,BOL,2015
+1644,BRA,"Growing beverage crops (coffee, tea etc) industry",MLT,5.920945164135457e-07,BOL,2015
+1645,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,1.3220360579579134e-08,BOL,2015
+1646,BRA,Seeds and plant propagation industry,MLT,0.0,BOL,2015
+1647,BRA,Raising of cattle industry,MLT,8.052861091793466e-05,BOL,2015
+1648,BRA,Growing wheat industry,MMR,0.00016523731448112107,BOL,2015
+1649,BRA,Growing maize industry,MMR,4.506299273660756e-05,BOL,2015
+1650,BRA,Growing cereals n.e.c industry,MMR,9.103359646716901e-05,BOL,2015
+1651,BRA,Growing leguminous crops and oil seeds industry,MMR,0.0036913549480584217,BOL,2015
+1652,BRA,Growing rice industry,MMR,0.0,BOL,2015
+1653,BRA,"Growing vegetables, roots, tubers industry",MMR,2.128806064279957e-06,BOL,2015
+1654,BRA,Growing sugar beet and cane industry,MMR,0.0004785595202239792,BOL,2015
+1655,BRA,Growing tobacco industry,MMR,4.7484215681161783e-07,BOL,2015
+1656,BRA,Growing fibre crops industry,MMR,0.00014602406573203448,BOL,2015
+1657,BRA,Growing crops n.e.c. industry,MMR,1.8958147238091945e-05,BOL,2015
+1658,BRA,Growing grapes industry,MMR,0.0,BOL,2015
+1659,BRA,Growing fruits and nuts industry,MMR,0.0,BOL,2015
+1660,BRA,"Growing beverage crops (coffee, tea etc) industry",MMR,6.1090548431242964e-06,BOL,2015
+1661,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,1.8999374223918367e-07,BOL,2015
+1662,BRA,Seeds and plant propagation industry,MMR,0.0,BOL,2015
+1663,BRA,Raising of cattle industry,MMR,0.0015038035644915602,BOL,2015
+1664,BRA,Growing wheat industry,MNG,3.542211092424021e-05,BOL,2015
+1665,BRA,Growing maize industry,MNG,1.6449518940748623e-05,BOL,2015
+1666,BRA,Growing cereals n.e.c industry,MNG,2.062220996494388e-05,BOL,2015
+1667,BRA,Growing leguminous crops and oil seeds industry,MNG,0.0008951402983410504,BOL,2015
+1668,BRA,Growing rice industry,MNG,0.0,BOL,2015
+1669,BRA,"Growing vegetables, roots, tubers industry",MNG,4.824979978116885e-07,BOL,2015
+1670,BRA,Growing sugar beet and cane industry,MNG,0.00012001990349779491,BOL,2015
+1671,BRA,Growing tobacco industry,MNG,1.0456147045599476e-07,BOL,2015
+1672,BRA,Growing fibre crops industry,MNG,5.8334283119177905e-06,BOL,2015
+1673,BRA,Growing crops n.e.c. industry,MNG,8.412383967780468e-06,BOL,2015
+1674,BRA,Growing grapes industry,MNG,0.0,BOL,2015
+1675,BRA,Growing fruits and nuts industry,MNG,0.0,BOL,2015
+1676,BRA,"Growing beverage crops (coffee, tea etc) industry",MNG,1.6370394841311961e-06,BOL,2015
+1677,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,2.9115282838603137e-08,BOL,2015
+1678,BRA,Seeds and plant propagation industry,MNG,0.0,BOL,2015
+1679,BRA,Raising of cattle industry,MNG,0.0001310764796942294,BOL,2015
+1680,BRA,Growing wheat industry,MOZ,4.80893118724186e-05,BOL,2015
+1681,BRA,Growing maize industry,MOZ,2.198251222284574e-05,BOL,2015
+1682,BRA,Growing cereals n.e.c industry,MOZ,2.8153461929878455e-05,BOL,2015
+1683,BRA,Growing leguminous crops and oil seeds industry,MOZ,0.0012086965923596943,BOL,2015
+1684,BRA,Growing rice industry,MOZ,0.0,BOL,2015
+1685,BRA,"Growing vegetables, roots, tubers industry",MOZ,7.478831959733216e-07,BOL,2015
+1686,BRA,Growing sugar beet and cane industry,MOZ,0.00014765358097874125,BOL,2015
+1687,BRA,Growing tobacco industry,MOZ,1.3801364362987623e-07,BOL,2015
+1688,BRA,Growing fibre crops industry,MOZ,7.762386256378495e-06,BOL,2015
+1689,BRA,Growing crops n.e.c. industry,MOZ,1.0292759127158589e-05,BOL,2015
+1690,BRA,Growing grapes industry,MOZ,0.0,BOL,2015
+1691,BRA,Growing fruits and nuts industry,MOZ,0.0,BOL,2015
+1692,BRA,"Growing beverage crops (coffee, tea etc) industry",MOZ,2.1161492810376386e-06,BOL,2015
+1693,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,3.8935512126921206e-08,BOL,2015
+1694,BRA,Seeds and plant propagation industry,MOZ,0.0,BOL,2015
+1695,BRA,Raising of cattle industry,MOZ,0.00019123865491062209,BOL,2015
+1696,BRA,Growing wheat industry,MRT,1.370901396954218e-05,BOL,2015
+1697,BRA,Growing maize industry,MRT,6.265954503328897e-06,BOL,2015
+1698,BRA,Growing cereals n.e.c industry,MRT,8.29903675235712e-06,BOL,2015
+1699,BRA,Growing leguminous crops and oil seeds industry,MRT,0.00033338431042937436,BOL,2015
+1700,BRA,Growing rice industry,MRT,0.0,BOL,2015
+1701,BRA,"Growing vegetables, roots, tubers industry",MRT,1.9251257241497712e-07,BOL,2015
+1702,BRA,Growing sugar beet and cane industry,MRT,4.9104227667161236e-05,BOL,2015
+1703,BRA,Growing tobacco industry,MRT,3.9413347666147213e-08,BOL,2015
+1704,BRA,Growing fibre crops industry,MRT,2.380839133407622e-06,BOL,2015
+1705,BRA,Growing crops n.e.c. industry,MRT,3.651797773597518e-06,BOL,2015
+1706,BRA,Growing grapes industry,MRT,0.0,BOL,2015
+1707,BRA,Growing fruits and nuts industry,MRT,0.0,BOL,2015
+1708,BRA,"Growing beverage crops (coffee, tea etc) industry",MRT,6.415564481873146e-07,BOL,2015
+1709,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.1414469132518458e-08,BOL,2015
+1710,BRA,Seeds and plant propagation industry,MRT,0.0,BOL,2015
+1711,BRA,Raising of cattle industry,MRT,5.7633720135821386e-05,BOL,2015
+1712,BRA,Growing wheat industry,MWI,7.5119777396447116e-06,BOL,2015
+1713,BRA,Growing maize industry,MWI,3.535592326120727e-06,BOL,2015
+1714,BRA,Growing cereals n.e.c industry,MWI,4.490563290029536e-06,BOL,2015
+1715,BRA,Growing leguminous crops and oil seeds industry,MWI,0.0001818353324725892,BOL,2015
+1716,BRA,Growing rice industry,MWI,0.0,BOL,2015
+1717,BRA,"Growing vegetables, roots, tubers industry",MWI,1.0377487338016569e-07,BOL,2015
+1718,BRA,Growing sugar beet and cane industry,MWI,2.401331449007298e-05,BOL,2015
+1719,BRA,Growing tobacco industry,MWI,2.078709703469927e-08,BOL,2015
+1720,BRA,Growing fibre crops industry,MWI,1.1921333270383586e-06,BOL,2015
+1721,BRA,Growing crops n.e.c. industry,MWI,1.9288043078199505e-06,BOL,2015
+1722,BRA,Growing grapes industry,MWI,0.0,BOL,2015
+1723,BRA,Growing fruits and nuts industry,MWI,0.0,BOL,2015
+1724,BRA,"Growing beverage crops (coffee, tea etc) industry",MWI,3.288605121068506e-07,BOL,2015
+1725,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,6.072602403249443e-09,BOL,2015
+1726,BRA,Seeds and plant propagation industry,MWI,0.0,BOL,2015
+1727,BRA,Raising of cattle industry,MWI,2.9741418134580436e-05,BOL,2015
+1728,BRA,Growing wheat industry,MYS,0.0015595556470055,BOL,2015
+1729,BRA,Growing maize industry,MYS,0.0011514716742296164,BOL,2015
+1730,BRA,Growing cereals n.e.c industry,MYS,0.0014153224001823789,BOL,2015
+1731,BRA,Growing leguminous crops and oil seeds industry,MYS,0.03205546140671913,BOL,2015
+1732,BRA,Growing rice industry,MYS,0.0,BOL,2015
+1733,BRA,"Growing vegetables, roots, tubers industry",MYS,1.8078686542896e-05,BOL,2015
+1734,BRA,Growing sugar beet and cane industry,MYS,0.005430118736075897,BOL,2015
+1735,BRA,Growing tobacco industry,MYS,3.120623658178303e-06,BOL,2015
+1736,BRA,Growing fibre crops industry,MYS,0.00018488240911031055,BOL,2015
+1737,BRA,Growing crops n.e.c. industry,MYS,0.0007580695237664054,BOL,2015
+1738,BRA,Growing grapes industry,MYS,0.0,BOL,2015
+1739,BRA,Growing fruits and nuts industry,MYS,0.0,BOL,2015
+1740,BRA,"Growing beverage crops (coffee, tea etc) industry",MYS,5.3636589885004754e-05,BOL,2015
+1741,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,1.3467674943351525e-06,BOL,2015
+1742,BRA,Seeds and plant propagation industry,MYS,0.0,BOL,2015
+1743,BRA,Raising of cattle industry,MYS,0.007322950766844854,BOL,2015
+1744,BRA,Growing wheat industry,NAM,1.7774695158150075e-05,BOL,2015
+1745,BRA,Growing maize industry,NAM,6.119347352666778e-06,BOL,2015
+1746,BRA,Growing cereals n.e.c industry,NAM,8.281913410286666e-06,BOL,2015
+1747,BRA,Growing leguminous crops and oil seeds industry,NAM,0.0004816771753452786,BOL,2015
+1748,BRA,Growing rice industry,NAM,0.0,BOL,2015
+1749,BRA,"Growing vegetables, roots, tubers industry",NAM,2.9612230342642134e-07,BOL,2015
+1750,BRA,Growing sugar beet and cane industry,NAM,6.031809884962103e-05,BOL,2015
+1751,BRA,Growing tobacco industry,NAM,6.097684351299788e-08,BOL,2015
+1752,BRA,Growing fibre crops industry,NAM,3.3445508765029836e-06,BOL,2015
+1753,BRA,Growing crops n.e.c. industry,NAM,2.634581523917019e-06,BOL,2015
+1754,BRA,Growing grapes industry,NAM,0.0,BOL,2015
+1755,BRA,Growing fruits and nuts industry,NAM,0.0,BOL,2015
+1756,BRA,"Growing beverage crops (coffee, tea etc) industry",NAM,9.033101067535286e-07,BOL,2015
+1757,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,1.417630766752145e-08,BOL,2015
+1758,BRA,Seeds and plant propagation industry,NAM,0.0,BOL,2015
+1759,BRA,Raising of cattle industry,NAM,6.628588697369812e-05,BOL,2015
+1760,BRA,Growing wheat industry,NER,1.1427298432384256e-05,BOL,2015
+1761,BRA,Growing maize industry,NER,5.4057177339221695e-06,BOL,2015
+1762,BRA,Growing cereals n.e.c industry,NER,7.113709521727916e-06,BOL,2015
+1763,BRA,Growing leguminous crops and oil seeds industry,NER,0.00026818593704160235,BOL,2015
+1764,BRA,Growing rice industry,NER,0.0,BOL,2015
+1765,BRA,"Growing vegetables, roots, tubers industry",NER,1.7328322516471495e-07,BOL,2015
+1766,BRA,Growing sugar beet and cane industry,NER,3.544523035001402e-05,BOL,2015
+1767,BRA,Growing tobacco industry,NER,3.169828799176868e-08,BOL,2015
+1768,BRA,Growing fibre crops industry,NER,1.7844933537249356e-06,BOL,2015
+1769,BRA,Growing crops n.e.c. industry,NER,3.094539887569836e-06,BOL,2015
+1770,BRA,Growing grapes industry,NER,0.0,BOL,2015
+1771,BRA,Growing fruits and nuts industry,NER,0.0,BOL,2015
+1772,BRA,"Growing beverage crops (coffee, tea etc) industry",NER,4.482151488708572e-07,BOL,2015
+1773,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,8.971069783836516e-09,BOL,2015
+1774,BRA,Seeds and plant propagation industry,NER,0.0,BOL,2015
+1775,BRA,Raising of cattle industry,NER,5.304248439316438e-05,BOL,2015
+1776,BRA,Growing wheat industry,NGA,0.0010745190244868714,BOL,2015
+1777,BRA,Growing maize industry,NGA,0.00034016476176543193,BOL,2015
+1778,BRA,Growing cereals n.e.c industry,NGA,0.0006113378830623454,BOL,2015
+1779,BRA,Growing leguminous crops and oil seeds industry,NGA,0.027018555369147754,BOL,2015
+1780,BRA,Growing rice industry,NGA,0.0,BOL,2015
+1781,BRA,"Growing vegetables, roots, tubers industry",NGA,1.638138367985588e-05,BOL,2015
+1782,BRA,Growing sugar beet and cane industry,NGA,0.005498350307567147,BOL,2015
+1783,BRA,Growing tobacco industry,NGA,3.3004042771615444e-06,BOL,2015
+1784,BRA,Growing fibre crops industry,NGA,0.00018666748826097387,BOL,2015
+1785,BRA,Growing crops n.e.c. industry,NGA,0.00039547003786124694,BOL,2015
+1786,BRA,Growing grapes industry,NGA,0.0,BOL,2015
+1787,BRA,Growing fruits and nuts industry,NGA,0.0,BOL,2015
+1788,BRA,"Growing beverage crops (coffee, tea etc) industry",NGA,6.0806505657527054e-05,BOL,2015
+1789,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,1.0290909240549287e-06,BOL,2015
+1790,BRA,Seeds and plant propagation industry,NGA,0.0,BOL,2015
+1791,BRA,Raising of cattle industry,NGA,0.004099231465658005,BOL,2015
+1792,BRA,Growing wheat industry,NIC,9.37181358464514e-05,BOL,2015
+1793,BRA,Growing maize industry,NIC,3.651878286372241e-05,BOL,2015
+1794,BRA,Growing cereals n.e.c industry,NIC,5.030406219120511e-05,BOL,2015
+1795,BRA,Growing leguminous crops and oil seeds industry,NIC,0.002163004511826457,BOL,2015
+1796,BRA,Growing rice industry,NIC,0.0,BOL,2015
+1797,BRA,"Growing vegetables, roots, tubers industry",NIC,2.7905256538908563e-06,BOL,2015
+1798,BRA,Growing sugar beet and cane industry,NIC,0.00027150155925105356,BOL,2015
+1799,BRA,Growing tobacco industry,NIC,2.8769475507116887e-07,BOL,2015
+1800,BRA,Growing fibre crops industry,NIC,3.8319572675348085e-05,BOL,2015
+1801,BRA,Growing crops n.e.c. industry,NIC,1.3236240391656142e-05,BOL,2015
+1802,BRA,Growing grapes industry,NIC,0.0,BOL,2015
+1803,BRA,Growing fruits and nuts industry,NIC,0.0,BOL,2015
+1804,BRA,"Growing beverage crops (coffee, tea etc) industry",NIC,3.630308590432123e-06,BOL,2015
+1805,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,7.725139067152042e-08,BOL,2015
+1806,BRA,Seeds and plant propagation industry,NIC,0.0,BOL,2015
+1807,BRA,Raising of cattle industry,NIC,0.00046907945716555244,BOL,2015
+1808,BRA,Growing wheat industry,NLD,0.002441603320379506,BOL,2015
+1809,BRA,Growing maize industry,NLD,0.0008159297181010354,BOL,2015
+1810,BRA,Growing cereals n.e.c industry,NLD,0.00146146922806244,BOL,2015
+1811,BRA,Growing leguminous crops and oil seeds industry,NLD,0.07234776038222293,BOL,2015
+1812,BRA,Growing rice industry,NLD,0.0,BOL,2015
+1813,BRA,"Growing vegetables, roots, tubers industry",NLD,2.6777436631982277e-05,BOL,2015
+1814,BRA,Growing sugar beet and cane industry,NLD,0.0077699047052093816,BOL,2015
+1815,BRA,Growing tobacco industry,NLD,1.1569609785787515e-05,BOL,2015
+1816,BRA,Growing fibre crops industry,NLD,0.0004152089324604875,BOL,2015
+1817,BRA,Growing crops n.e.c. industry,NLD,0.00018118181819569364,BOL,2015
+1818,BRA,Growing grapes industry,NLD,0.0,BOL,2015
+1819,BRA,Growing fruits and nuts industry,NLD,0.0,BOL,2015
+1820,BRA,"Growing beverage crops (coffee, tea etc) industry",NLD,0.00010228515628906601,BOL,2015
+1821,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,2.1021556455212674e-06,BOL,2015
+1822,BRA,Seeds and plant propagation industry,NLD,0.0,BOL,2015
+1823,BRA,Raising of cattle industry,NLD,0.012796166207110838,BOL,2015
+1824,BRA,Growing wheat industry,NOR,0.0003772990023848758,BOL,2015
+1825,BRA,Growing maize industry,NOR,0.00012776278329758873,BOL,2015
+1826,BRA,Growing cereals n.e.c industry,NOR,0.00020596045555525708,BOL,2015
+1827,BRA,Growing leguminous crops and oil seeds industry,NOR,0.0111815082208583,BOL,2015
+1828,BRA,Growing rice industry,NOR,0.0,BOL,2015
+1829,BRA,"Growing vegetables, roots, tubers industry",NOR,5.027111519788998e-06,BOL,2015
+1830,BRA,Growing sugar beet and cane industry,NOR,0.0026869598415222157,BOL,2015
+1831,BRA,Growing tobacco industry,NOR,1.1168551471727141e-06,BOL,2015
+1832,BRA,Growing fibre crops industry,NOR,8.911981883075611e-05,BOL,2015
+1833,BRA,Growing crops n.e.c. industry,NOR,4.9189808049370945e-05,BOL,2015
+1834,BRA,Growing grapes industry,NOR,0.0,BOL,2015
+1835,BRA,Growing fruits and nuts industry,NOR,0.0,BOL,2015
+1836,BRA,"Growing beverage crops (coffee, tea etc) industry",NOR,3.265664076997248e-05,BOL,2015
+1837,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,3.555224209935707e-07,BOL,2015
+1838,BRA,Seeds and plant propagation industry,NOR,0.0,BOL,2015
+1839,BRA,Raising of cattle industry,NOR,0.001962380039517002,BOL,2015
+1840,BRA,Growing wheat industry,NPL,4.401252809926374e-05,BOL,2015
+1841,BRA,Growing maize industry,NPL,1.7027765488074805e-05,BOL,2015
+1842,BRA,Growing cereals n.e.c industry,NPL,2.0240825007869867e-05,BOL,2015
+1843,BRA,Growing leguminous crops and oil seeds industry,NPL,0.0010154829659731887,BOL,2015
+1844,BRA,Growing rice industry,NPL,0.0,BOL,2015
+1845,BRA,"Growing vegetables, roots, tubers industry",NPL,5.796801872611065e-07,BOL,2015
+1846,BRA,Growing sugar beet and cane industry,NPL,0.00014340778945627167,BOL,2015
+1847,BRA,Growing tobacco industry,NPL,1.2565182025603183e-07,BOL,2015
+1848,BRA,Growing fibre crops industry,NPL,7.667367203789834e-06,BOL,2015
+1849,BRA,Growing crops n.e.c. industry,NPL,7.163744678698829e-06,BOL,2015
+1850,BRA,Growing grapes industry,NPL,0.0,BOL,2015
+1851,BRA,Growing fruits and nuts industry,NPL,0.0,BOL,2015
+1852,BRA,"Growing beverage crops (coffee, tea etc) industry",NPL,2.097263163917895e-06,BOL,2015
+1853,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,3.302027918843851e-08,BOL,2015
+1854,BRA,Seeds and plant propagation industry,NPL,0.0,BOL,2015
+1855,BRA,Raising of cattle industry,NPL,0.00013266088904395412,BOL,2015
+1856,BRA,Growing wheat industry,NZL,0.0002893862193007181,BOL,2015
+1857,BRA,Growing maize industry,NZL,0.00011126710369860712,BOL,2015
+1858,BRA,Growing cereals n.e.c industry,NZL,0.0001667795126602251,BOL,2015
+1859,BRA,Growing leguminous crops and oil seeds industry,NZL,0.008488325851546774,BOL,2015
+1860,BRA,Growing rice industry,NZL,0.0,BOL,2015
+1861,BRA,"Growing vegetables, roots, tubers industry",NZL,4.01785718999556e-06,BOL,2015
+1862,BRA,Growing sugar beet and cane industry,NZL,0.0016618106660151676,BOL,2015
+1863,BRA,Growing tobacco industry,NZL,8.896638907147589e-07,BOL,2015
+1864,BRA,Growing fibre crops industry,NZL,6.400877746945451e-05,BOL,2015
+1865,BRA,Growing crops n.e.c. industry,NZL,3.379925927673207e-05,BOL,2015
+1866,BRA,Growing grapes industry,NZL,0.0,BOL,2015
+1867,BRA,Growing fruits and nuts industry,NZL,0.0,BOL,2015
+1868,BRA,"Growing beverage crops (coffee, tea etc) industry",NZL,2.1167756033958e-05,BOL,2015
+1869,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,2.6658831897872804e-07,BOL,2015
+1870,BRA,Seeds and plant propagation industry,NZL,0.0,BOL,2015
+1871,BRA,Raising of cattle industry,NZL,0.0016023839852116013,BOL,2015
+1872,BRA,Growing wheat industry,OMN,0.0001160453434759123,BOL,2015
+1873,BRA,Growing maize industry,OMN,4.908037496315418e-05,BOL,2015
+1874,BRA,Growing cereals n.e.c industry,OMN,6.15815961056081e-05,BOL,2015
+1875,BRA,Growing leguminous crops and oil seeds industry,OMN,0.002970022543198001,BOL,2015
+1876,BRA,Growing rice industry,OMN,0.0,BOL,2015
+1877,BRA,"Growing vegetables, roots, tubers industry",OMN,1.6382059257455438e-06,BOL,2015
+1878,BRA,Growing sugar beet and cane industry,OMN,0.00033559417657930016,BOL,2015
+1879,BRA,Growing tobacco industry,OMN,3.461572841558682e-07,BOL,2015
+1880,BRA,Growing fibre crops industry,OMN,1.9403138575668244e-05,BOL,2015
+1881,BRA,Growing crops n.e.c. industry,OMN,1.3094514251742112e-05,BOL,2015
+1882,BRA,Growing grapes industry,OMN,0.0,BOL,2015
+1883,BRA,Growing fruits and nuts industry,OMN,0.0,BOL,2015
+1884,BRA,"Growing beverage crops (coffee, tea etc) industry",OMN,5.249891805748713e-06,BOL,2015
+1885,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,8.37359281122156e-08,BOL,2015
+1886,BRA,Seeds and plant propagation industry,OMN,0.0,BOL,2015
+1887,BRA,Raising of cattle industry,OMN,0.00043225150261247836,BOL,2015
+1888,BRA,Growing wheat industry,PAK,0.0005489615996392034,BOL,2015
+1889,BRA,Growing maize industry,PAK,0.00017456278985423685,BOL,2015
+1890,BRA,Growing cereals n.e.c industry,PAK,0.00021183439772886082,BOL,2015
+1891,BRA,Growing leguminous crops and oil seeds industry,PAK,0.011476753994004132,BOL,2015
+1892,BRA,Growing rice industry,PAK,0.0,BOL,2015
+1893,BRA,"Growing vegetables, roots, tubers industry",PAK,5.486822459517102e-06,BOL,2015
+1894,BRA,Growing sugar beet and cane industry,PAK,0.0015942315987672409,BOL,2015
+1895,BRA,Growing tobacco industry,PAK,1.4297861327990834e-06,BOL,2015
+1896,BRA,Growing fibre crops industry,PAK,7.119372589550987e-05,BOL,2015
+1897,BRA,Growing crops n.e.c. industry,PAK,0.00011009159915349696,BOL,2015
+1898,BRA,Growing grapes industry,PAK,0.0,BOL,2015
+1899,BRA,Growing fruits and nuts industry,PAK,0.0,BOL,2015
+1900,BRA,"Growing beverage crops (coffee, tea etc) industry",PAK,1.966337948671212e-05,BOL,2015
+1901,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,4.840561165998755e-07,BOL,2015
+1902,BRA,Seeds and plant propagation industry,PAK,0.0,BOL,2015
+1903,BRA,Raising of cattle industry,PAK,0.001433323516391299,BOL,2015
+1904,BRA,Growing wheat industry,PSE,2.4848349073473614e-05,BOL,2015
+1905,BRA,Growing maize industry,PSE,1.5961763294563425e-05,BOL,2015
+1906,BRA,Growing cereals n.e.c industry,PSE,2.0564792871539746e-05,BOL,2015
+1907,BRA,Growing leguminous crops and oil seeds industry,PSE,0.0005730939699342008,BOL,2015
+1908,BRA,Growing rice industry,PSE,0.0,BOL,2015
+1909,BRA,"Growing vegetables, roots, tubers industry",PSE,2.910959822081671e-07,BOL,2015
+1910,BRA,Growing sugar beet and cane industry,PSE,8.59803485842625e-05,BOL,2015
+1911,BRA,Growing tobacco industry,PSE,5.565501650503191e-08,BOL,2015
+1912,BRA,Growing fibre crops industry,PSE,3.502569659181568e-06,BOL,2015
+1913,BRA,Growing crops n.e.c. industry,PSE,8.793863545582066e-06,BOL,2015
+1914,BRA,Growing grapes industry,PSE,0.0,BOL,2015
+1915,BRA,Growing fruits and nuts industry,PSE,0.0,BOL,2015
+1916,BRA,"Growing beverage crops (coffee, tea etc) industry",PSE,9.75348389019415e-07,BOL,2015
+1917,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,2.1386127814402748e-08,BOL,2015
+1918,BRA,Seeds and plant propagation industry,PSE,0.0,BOL,2015
+1919,BRA,Raising of cattle industry,PSE,0.00013296252759111053,BOL,2015
+1920,BRA,Growing wheat industry,PAN,0.00044688528470021485,BOL,2015
+1921,BRA,Growing maize industry,PAN,0.00014593340997589785,BOL,2015
+1922,BRA,Growing cereals n.e.c industry,PAN,0.00022952885080211653,BOL,2015
+1923,BRA,Growing leguminous crops and oil seeds industry,PAN,0.009364408123843343,BOL,2015
+1924,BRA,Growing rice industry,PAN,0.0,BOL,2015
+1925,BRA,"Growing vegetables, roots, tubers industry",PAN,5.685651842340927e-06,BOL,2015
+1926,BRA,Growing sugar beet and cane industry,PAN,0.0011984502936861637,BOL,2015
+1927,BRA,Growing tobacco industry,PAN,0.00014480253074278487,BOL,2015
+1928,BRA,Growing fibre crops industry,PAN,7.707954291295447e-05,BOL,2015
+1929,BRA,Growing crops n.e.c. industry,PAN,4.419947997709339e-05,BOL,2015
+1930,BRA,Growing grapes industry,PAN,0.0,BOL,2015
+1931,BRA,Growing fruits and nuts industry,PAN,0.0,BOL,2015
+1932,BRA,"Growing beverage crops (coffee, tea etc) industry",PAN,1.6943296604281765e-05,BOL,2015
+1933,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,2.768856589227979e-07,BOL,2015
+1934,BRA,Seeds and plant propagation industry,PAN,0.0,BOL,2015
+1935,BRA,Raising of cattle industry,PAN,0.007952028192843543,BOL,2015
+1936,BRA,Growing wheat industry,PER,0.017153710190308372,BOL,2015
+1937,BRA,Growing maize industry,PER,0.00556924104903194,BOL,2015
+1938,BRA,Growing cereals n.e.c industry,PER,0.01380433634422412,BOL,2015
+1939,BRA,Growing leguminous crops and oil seeds industry,PER,0.34563867750571764,BOL,2015
+1940,BRA,Growing rice industry,PER,0.0,BOL,2015
+1941,BRA,"Growing vegetables, roots, tubers industry",PER,0.00011005718448776321,BOL,2015
+1942,BRA,Growing sugar beet and cane industry,PER,0.06650858427612319,BOL,2015
+1943,BRA,Growing tobacco industry,PER,9.345400292117019e-05,BOL,2015
+1944,BRA,Growing fibre crops industry,PER,0.005621977753989592,BOL,2015
+1945,BRA,Growing crops n.e.c. industry,PER,0.019297189771494746,BOL,2015
+1946,BRA,Growing grapes industry,PER,0.0,BOL,2015
+1947,BRA,Growing fruits and nuts industry,PER,0.0,BOL,2015
+1948,BRA,"Growing beverage crops (coffee, tea etc) industry",PER,0.0003601411557623268,BOL,2015
+1949,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,2.6355588686654532e-05,BOL,2015
+1950,BRA,Seeds and plant propagation industry,PER,0.0,BOL,2015
+1951,BRA,Raising of cattle industry,PER,0.11845915948506881,BOL,2015
+1952,BRA,Growing wheat industry,PHL,0.00038275913597316793,BOL,2015
+1953,BRA,Growing maize industry,PHL,0.00013388948909536148,BOL,2015
+1954,BRA,Growing cereals n.e.c industry,PHL,0.00021182867036965712,BOL,2015
+1955,BRA,Growing leguminous crops and oil seeds industry,PHL,0.011252733148601712,BOL,2015
+1956,BRA,Growing rice industry,PHL,0.0,BOL,2015
+1957,BRA,"Growing vegetables, roots, tubers industry",PHL,7.827925667005759e-06,BOL,2015
+1958,BRA,Growing sugar beet and cane industry,PHL,0.0013361104581990624,BOL,2015
+1959,BRA,Growing tobacco industry,PHL,1.1685410700724709e-06,BOL,2015
+1960,BRA,Growing fibre crops industry,PHL,6.40980359733697e-05,BOL,2015
+1961,BRA,Growing crops n.e.c. industry,PHL,4.153000045567602e-05,BOL,2015
+1962,BRA,Growing grapes industry,PHL,0.0,BOL,2015
+1963,BRA,Growing fruits and nuts industry,PHL,0.0,BOL,2015
+1964,BRA,"Growing beverage crops (coffee, tea etc) industry",PHL,1.9970514776233183e-05,BOL,2015
+1965,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,2.438696578183706e-07,BOL,2015
+1966,BRA,Seeds and plant propagation industry,PHL,0.0,BOL,2015
+1967,BRA,Raising of cattle industry,PHL,0.0014359919055876398,BOL,2015
+1968,BRA,Growing wheat industry,PNG,4.3736321061545415e-05,BOL,2015
+1969,BRA,Growing maize industry,PNG,1.9719321482080335e-05,BOL,2015
+1970,BRA,Growing cereals n.e.c industry,PNG,2.3537915965316844e-05,BOL,2015
+1971,BRA,Growing leguminous crops and oil seeds industry,PNG,0.001153806482460504,BOL,2015
+1972,BRA,Growing rice industry,PNG,0.0,BOL,2015
+1973,BRA,"Growing vegetables, roots, tubers industry",PNG,7.09332380137691e-07,BOL,2015
+1974,BRA,Growing sugar beet and cane industry,PNG,0.00014339797327650474,BOL,2015
+1975,BRA,Growing tobacco industry,PNG,1.394695577060881e-07,BOL,2015
+1976,BRA,Growing fibre crops industry,PNG,7.677839654709952e-06,BOL,2015
+1977,BRA,Growing crops n.e.c. industry,PNG,6.695449976724276e-06,BOL,2015
+1978,BRA,Growing grapes industry,PNG,0.0,BOL,2015
+1979,BRA,Growing fruits and nuts industry,PNG,0.0,BOL,2015
+1980,BRA,"Growing beverage crops (coffee, tea etc) industry",PNG,2.129222382290414e-06,BOL,2015
+1981,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,3.387778731696379e-08,BOL,2015
+1982,BRA,Seeds and plant propagation industry,PNG,0.0,BOL,2015
+1983,BRA,Raising of cattle industry,PNG,0.0001534019280488738,BOL,2015
+1984,BRA,Growing wheat industry,POL,0.0006067673939787784,BOL,2015
+1985,BRA,Growing maize industry,POL,0.00019899561977185893,BOL,2015
+1986,BRA,Growing cereals n.e.c industry,POL,0.00031492515114158576,BOL,2015
+1987,BRA,Growing leguminous crops and oil seeds industry,POL,0.016295778301310848,BOL,2015
+1988,BRA,Growing rice industry,POL,0.0,BOL,2015
+1989,BRA,"Growing vegetables, roots, tubers industry",POL,8.06114223819006e-06,BOL,2015
+1990,BRA,Growing sugar beet and cane industry,POL,0.0019662815426721193,BOL,2015
+1991,BRA,Growing tobacco industry,POL,1.8961433890733388e-06,BOL,2015
+1992,BRA,Growing fibre crops industry,POL,0.00019183826107290388,BOL,2015
+1993,BRA,Growing crops n.e.c. industry,POL,7.369700736643389e-05,BOL,2015
+1994,BRA,Growing grapes industry,POL,0.0,BOL,2015
+1995,BRA,Growing fruits and nuts industry,POL,0.0,BOL,2015
+1996,BRA,"Growing beverage crops (coffee, tea etc) industry",POL,2.8445519444841422e-05,BOL,2015
+1997,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,5.398867283223865e-07,BOL,2015
+1998,BRA,Seeds and plant propagation industry,POL,0.0,BOL,2015
+1999,BRA,Raising of cattle industry,POL,0.003283167544056957,BOL,2015
+2000,BRA,Growing wheat industry,PRK,1.8611051626480704e-05,BOL,2015
+2001,BRA,Growing maize industry,PRK,6.899273927533766e-06,BOL,2015
+2002,BRA,Growing cereals n.e.c industry,PRK,8.091170621872516e-06,BOL,2015
+2003,BRA,Growing leguminous crops and oil seeds industry,PRK,0.0005135391788510838,BOL,2015
+2004,BRA,Growing rice industry,PRK,0.0,BOL,2015
+2005,BRA,"Growing vegetables, roots, tubers industry",PRK,4.1571872143298724e-07,BOL,2015
+2006,BRA,Growing sugar beet and cane industry,PRK,5.2031794171438014e-05,BOL,2015
+2007,BRA,Growing tobacco industry,PRK,6.567081573324751e-08,BOL,2015
+2008,BRA,Growing fibre crops industry,PRK,3.3112809968879693e-06,BOL,2015
+2009,BRA,Growing crops n.e.c. industry,PRK,2.1080883536528707e-06,BOL,2015
+2010,BRA,Growing grapes industry,PRK,0.0,BOL,2015
+2011,BRA,Growing fruits and nuts industry,PRK,0.0,BOL,2015
+2012,BRA,"Growing beverage crops (coffee, tea etc) industry",PRK,8.880864289620945e-07,BOL,2015
+2013,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,1.4091234991489841e-08,BOL,2015
+2014,BRA,Seeds and plant propagation industry,PRK,0.0,BOL,2015
+2015,BRA,Raising of cattle industry,PRK,5.5802768549358566e-05,BOL,2015
+2016,BRA,Growing wheat industry,PRT,0.00018446379994909966,BOL,2015
+2017,BRA,Growing maize industry,PRT,6.184387992378019e-05,BOL,2015
+2018,BRA,Growing cereals n.e.c industry,PRT,0.00010571420464784619,BOL,2015
+2019,BRA,Growing leguminous crops and oil seeds industry,PRT,0.005156878564894597,BOL,2015
+2020,BRA,Growing rice industry,PRT,0.0,BOL,2015
+2021,BRA,"Growing vegetables, roots, tubers industry",PRT,2.348274381339543e-06,BOL,2015
+2022,BRA,Growing sugar beet and cane industry,PRT,0.0008786985266415457,BOL,2015
+2023,BRA,Growing tobacco industry,PRT,5.139571002152936e-07,BOL,2015
+2024,BRA,Growing fibre crops industry,PRT,4.217973989995372e-05,BOL,2015
+2025,BRA,Growing crops n.e.c. industry,PRT,3.094079200658138e-05,BOL,2015
+2026,BRA,Growing grapes industry,PRT,0.0,BOL,2015
+2027,BRA,Growing fruits and nuts industry,PRT,0.0,BOL,2015
+2028,BRA,"Growing beverage crops (coffee, tea etc) industry",PRT,1.1437550788415428e-05,BOL,2015
+2029,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,1.7983626296479996e-07,BOL,2015
+2030,BRA,Seeds and plant propagation industry,PRT,0.0,BOL,2015
+2031,BRA,Raising of cattle industry,PRT,0.0012688064591185751,BOL,2015
+2032,BRA,Growing wheat industry,PRY,0.0020532164469292294,BOL,2015
+2033,BRA,Growing maize industry,PRY,0.0008152392378227994,BOL,2015
+2034,BRA,Growing cereals n.e.c industry,PRY,0.0013986804873456862,BOL,2015
+2035,BRA,Growing leguminous crops and oil seeds industry,PRY,0.058728042026382606,BOL,2015
+2036,BRA,Growing rice industry,PRY,0.0,BOL,2015
+2037,BRA,"Growing vegetables, roots, tubers industry",PRY,2.0664769539716578e-05,BOL,2015
+2038,BRA,Growing sugar beet and cane industry,PRY,0.009438885599304895,BOL,2015
+2039,BRA,Growing tobacco industry,PRY,1.2592119558847767e-05,BOL,2015
+2040,BRA,Growing fibre crops industry,PRY,0.0004759153874683781,BOL,2015
+2041,BRA,Growing crops n.e.c. industry,PRY,0.0002273423929787538,BOL,2015
+2042,BRA,Growing grapes industry,PRY,0.0,BOL,2015
+2043,BRA,Growing fruits and nuts industry,PRY,0.0,BOL,2015
+2044,BRA,"Growing beverage crops (coffee, tea etc) industry",PRY,0.00011152817290329375,BOL,2015
+2045,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,2.088486738264898e-06,BOL,2015
+2046,BRA,Seeds and plant propagation industry,PRY,0.0,BOL,2015
+2047,BRA,Raising of cattle industry,PRY,0.010869288881474681,BOL,2015
+2048,BRA,Growing wheat industry,QAT,0.00024756243013052755,BOL,2015
+2049,BRA,Growing maize industry,QAT,8.642528930440709e-05,BOL,2015
+2050,BRA,Growing cereals n.e.c industry,QAT,0.00011865128591496094,BOL,2015
+2051,BRA,Growing leguminous crops and oil seeds industry,QAT,0.006568928872262179,BOL,2015
+2052,BRA,Growing rice industry,QAT,0.0,BOL,2015
+2053,BRA,"Growing vegetables, roots, tubers industry",QAT,3.390107986743967e-06,BOL,2015
+2054,BRA,Growing sugar beet and cane industry,QAT,0.000705255448923856,BOL,2015
+2055,BRA,Growing tobacco industry,QAT,7.392146790412819e-07,BOL,2015
+2056,BRA,Growing fibre crops industry,QAT,4.307397433172211e-05,BOL,2015
+2057,BRA,Growing crops n.e.c. industry,QAT,3.048348030270209e-05,BOL,2015
+2058,BRA,Growing grapes industry,QAT,0.0,BOL,2015
+2059,BRA,Growing fruits and nuts industry,QAT,0.0,BOL,2015
+2060,BRA,"Growing beverage crops (coffee, tea etc) industry",QAT,1.1277336017571734e-05,BOL,2015
+2061,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,1.862879906868525e-07,BOL,2015
+2062,BRA,Seeds and plant propagation industry,QAT,0.0,BOL,2015
+2063,BRA,Raising of cattle industry,QAT,0.0010429450594636627,BOL,2015
+2064,BRA,Growing wheat industry,ROU,0.0003645150660897796,BOL,2015
+2065,BRA,Growing maize industry,ROU,0.00010093712918072303,BOL,2015
+2066,BRA,Growing cereals n.e.c industry,ROU,0.00021056151279737594,BOL,2015
+2067,BRA,Growing leguminous crops and oil seeds industry,ROU,0.009130007430079677,BOL,2015
+2068,BRA,Growing rice industry,ROU,0.0,BOL,2015
+2069,BRA,"Growing vegetables, roots, tubers industry",ROU,3.81751681677376e-06,BOL,2015
+2070,BRA,Growing sugar beet and cane industry,ROU,0.0011003988152880118,BOL,2015
+2071,BRA,Growing tobacco industry,ROU,1.032233755499163e-06,BOL,2015
+2072,BRA,Growing fibre crops industry,ROU,0.0002252720088721532,BOL,2015
+2073,BRA,Growing crops n.e.c. industry,ROU,3.587391666110747e-05,BOL,2015
+2074,BRA,Growing grapes industry,ROU,0.0,BOL,2015
+2075,BRA,Growing fruits and nuts industry,ROU,0.0,BOL,2015
+2076,BRA,"Growing beverage crops (coffee, tea etc) industry",ROU,1.4988241523345919e-05,BOL,2015
+2077,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,4.018170498201053e-07,BOL,2015
+2078,BRA,Seeds and plant propagation industry,ROU,0.0,BOL,2015
+2079,BRA,Raising of cattle industry,ROU,0.0034152177576536836,BOL,2015
+2080,BRA,Growing wheat industry,RUS,0.002082509518219714,BOL,2015
+2081,BRA,Growing maize industry,RUS,0.0007019404503933388,BOL,2015
+2082,BRA,Growing cereals n.e.c industry,RUS,0.0010762800894359064,BOL,2015
+2083,BRA,Growing leguminous crops and oil seeds industry,RUS,0.05974677629209035,BOL,2015
+2084,BRA,Growing rice industry,RUS,0.0,BOL,2015
+2085,BRA,"Growing vegetables, roots, tubers industry",RUS,2.7987100182347655e-05,BOL,2015
+2086,BRA,Growing sugar beet and cane industry,RUS,0.007713167742163119,BOL,2015
+2087,BRA,Growing tobacco industry,RUS,6.517311970996889e-06,BOL,2015
+2088,BRA,Growing fibre crops industry,RUS,0.0003906324249570805,BOL,2015
+2089,BRA,Growing crops n.e.c. industry,RUS,0.00032161843244627657,BOL,2015
+2090,BRA,Growing grapes industry,RUS,0.0,BOL,2015
+2091,BRA,Growing fruits and nuts industry,RUS,0.0,BOL,2015
+2092,BRA,"Growing beverage crops (coffee, tea etc) industry",RUS,0.00010744569048640103,BOL,2015
+2093,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,1.6710599729457492e-06,BOL,2015
+2094,BRA,Seeds and plant propagation industry,RUS,0.0,BOL,2015
+2095,BRA,Raising of cattle industry,RUS,0.0079612297874691,BOL,2015
+2096,BRA,Growing wheat industry,RWA,1.1000503992992427e-05,BOL,2015
+2097,BRA,Growing maize industry,RWA,4.780016306108759e-06,BOL,2015
+2098,BRA,Growing cereals n.e.c industry,RWA,5.8383324235139915e-06,BOL,2015
+2099,BRA,Growing leguminous crops and oil seeds industry,RWA,0.00023091423046932408,BOL,2015
+2100,BRA,Growing rice industry,RWA,0.0,BOL,2015
+2101,BRA,"Growing vegetables, roots, tubers industry",RWA,1.323742798763972e-07,BOL,2015
+2102,BRA,Growing sugar beet and cane industry,RWA,2.760098313123609e-05,BOL,2015
+2103,BRA,Growing tobacco industry,RWA,2.962819518428764e-08,BOL,2015
+2104,BRA,Growing fibre crops industry,RWA,1.773151890920222e-06,BOL,2015
+2105,BRA,Growing crops n.e.c. industry,RWA,2.486296752369635e-06,BOL,2015
+2106,BRA,Growing grapes industry,RWA,0.0,BOL,2015
+2107,BRA,Growing fruits and nuts industry,RWA,0.0,BOL,2015
+2108,BRA,"Growing beverage crops (coffee, tea etc) industry",RWA,3.98673935199778e-07,BOL,2015
+2109,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,7.820215010162558e-09,BOL,2015
+2110,BRA,Seeds and plant propagation industry,RWA,0.0,BOL,2015
+2111,BRA,Raising of cattle industry,RWA,3.561931982493059e-05,BOL,2015
+2112,BRA,Growing wheat industry,SAU,0.0009152821465333513,BOL,2015
+2113,BRA,Growing maize industry,SAU,0.00031457043755661715,BOL,2015
+2114,BRA,Growing cereals n.e.c industry,SAU,0.00040772825747447685,BOL,2015
+2115,BRA,Growing leguminous crops and oil seeds industry,SAU,0.0245243168884371,BOL,2015
+2116,BRA,Growing rice industry,SAU,0.0,BOL,2015
+2117,BRA,"Growing vegetables, roots, tubers industry",SAU,1.485973714702833e-05,BOL,2015
+2118,BRA,Growing sugar beet and cane industry,SAU,0.002812771088872202,BOL,2015
+2119,BRA,Growing tobacco industry,SAU,3.0439444500519116e-06,BOL,2015
+2120,BRA,Growing fibre crops industry,SAU,0.00017491071267533592,BOL,2015
+2121,BRA,Growing crops n.e.c. industry,SAU,0.000108970020484619,BOL,2015
+2122,BRA,Growing grapes industry,SAU,0.0,BOL,2015
+2123,BRA,Growing fruits and nuts industry,SAU,0.0,BOL,2015
+2124,BRA,"Growing beverage crops (coffee, tea etc) industry",SAU,4.875398645867642e-05,BOL,2015
+2125,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,6.965835854851993e-07,BOL,2015
+2126,BRA,Seeds and plant propagation industry,SAU,0.0,BOL,2015
+2127,BRA,Raising of cattle industry,SAU,0.0031182702639021413,BOL,2015
+2128,BRA,Growing wheat industry,SDS,1.2964045387700837e-05,BOL,2015
+2129,BRA,Growing maize industry,SDS,4.609871710985121e-06,BOL,2015
+2130,BRA,Growing cereals n.e.c industry,SDS,5.385464977256258e-06,BOL,2015
+2131,BRA,Growing leguminous crops and oil seeds industry,SDS,0.00034076859341246606,BOL,2015
+2132,BRA,Growing rice industry,SDS,0.0,BOL,2015
+2133,BRA,"Growing vegetables, roots, tubers industry",SDS,4.07470508500688e-07,BOL,2015
+2134,BRA,Growing sugar beet and cane industry,SDS,3.9503533696452847e-05,BOL,2015
+2135,BRA,Growing tobacco industry,SDS,5.138377500072979e-08,BOL,2015
+2136,BRA,Growing fibre crops industry,SDS,2.9014670028455985e-06,BOL,2015
+2137,BRA,Growing crops n.e.c. industry,SDS,2.107765836326124e-06,BOL,2015
+2138,BRA,Growing grapes industry,SDS,0.0,BOL,2015
+2139,BRA,Growing fruits and nuts industry,SDS,0.0,BOL,2015
+2140,BRA,"Growing beverage crops (coffee, tea etc) industry",SDS,6.72804896661848e-07,BOL,2015
+2141,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,1.01190459940717e-08,BOL,2015
+2142,BRA,Seeds and plant propagation industry,SDS,0.0,BOL,2015
+2143,BRA,Raising of cattle industry,SDS,4.1826205125528334e-05,BOL,2015
+2144,BRA,Growing wheat industry,SEN,9.351311694360641e-05,BOL,2015
+2145,BRA,Growing maize industry,SEN,3.39201852421675e-05,BOL,2015
+2146,BRA,Growing cereals n.e.c industry,SEN,4.502057152075687e-05,BOL,2015
+2147,BRA,Growing leguminous crops and oil seeds industry,SEN,0.001816848832683482,BOL,2015
+2148,BRA,Growing rice industry,SEN,0.0,BOL,2015
+2149,BRA,"Growing vegetables, roots, tubers industry",SEN,1.2640795688557139e-06,BOL,2015
+2150,BRA,Growing sugar beet and cane industry,SEN,0.0002682673669044105,BOL,2015
+2151,BRA,Growing tobacco industry,SEN,2.2184002102086182e-07,BOL,2015
+2152,BRA,Growing fibre crops industry,SEN,1.0760789916466173e-05,BOL,2015
+2153,BRA,Growing crops n.e.c. industry,SEN,3.7199470239977525e-05,BOL,2015
+2154,BRA,Growing grapes industry,SEN,0.0,BOL,2015
+2155,BRA,Growing fruits and nuts industry,SEN,0.0,BOL,2015
+2156,BRA,"Growing beverage crops (coffee, tea etc) industry",SEN,2.7600573200112327e-06,BOL,2015
+2157,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,8.880981241950516e-08,BOL,2015
+2158,BRA,Seeds and plant propagation industry,SEN,0.0,BOL,2015
+2159,BRA,Raising of cattle industry,SEN,0.00029237107203171407,BOL,2015
+2160,BRA,Growing wheat industry,SGP,0.0005868058597959209,BOL,2015
+2161,BRA,Growing maize industry,SGP,0.0002276302816851178,BOL,2015
+2162,BRA,Growing cereals n.e.c industry,SGP,0.00030270128539223366,BOL,2015
+2163,BRA,Growing leguminous crops and oil seeds industry,SGP,0.015339504815561684,BOL,2015
+2164,BRA,Growing rice industry,SGP,0.0,BOL,2015
+2165,BRA,"Growing vegetables, roots, tubers industry",SGP,8.943479833985041e-06,BOL,2015
+2166,BRA,Growing sugar beet and cane industry,SGP,0.0020890272387368083,BOL,2015
+2167,BRA,Growing tobacco industry,SGP,1.7741852318342286e-06,BOL,2015
+2168,BRA,Growing fibre crops industry,SGP,0.00010633814725358366,BOL,2015
+2169,BRA,Growing crops n.e.c. industry,SGP,0.00011393810780980537,BOL,2015
+2170,BRA,Growing grapes industry,SGP,0.0,BOL,2015
+2171,BRA,Growing fruits and nuts industry,SGP,0.0,BOL,2015
+2172,BRA,"Growing beverage crops (coffee, tea etc) industry",SGP,2.991703558268108e-05,BOL,2015
+2173,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,4.6544333808238015e-07,BOL,2015
+2174,BRA,Seeds and plant propagation industry,SGP,0.0,BOL,2015
+2175,BRA,Raising of cattle industry,SGP,0.002142798626781877,BOL,2015
+2176,BRA,Growing wheat industry,SLE,1.4083775872008305e-05,BOL,2015
+2177,BRA,Growing maize industry,SLE,1.0284553591840475e-05,BOL,2015
+2178,BRA,Growing cereals n.e.c industry,SLE,1.256757694269581e-05,BOL,2015
+2179,BRA,Growing leguminous crops and oil seeds industry,SLE,0.00028994287368496965,BOL,2015
+2180,BRA,Growing rice industry,SLE,0.0,BOL,2015
+2181,BRA,"Growing vegetables, roots, tubers industry",SLE,1.3935563158647365e-07,BOL,2015
+2182,BRA,Growing sugar beet and cane industry,SLE,4.730911977691834e-05,BOL,2015
+2183,BRA,Growing tobacco industry,SLE,2.8621284426967524e-08,BOL,2015
+2184,BRA,Growing fibre crops industry,SLE,1.8149996383711586e-06,BOL,2015
+2185,BRA,Growing crops n.e.c. industry,SLE,5.0104053974643125e-06,BOL,2015
+2186,BRA,Growing grapes industry,SLE,0.0,BOL,2015
+2187,BRA,Growing fruits and nuts industry,SLE,0.0,BOL,2015
+2188,BRA,"Growing beverage crops (coffee, tea etc) industry",SLE,5.007768865642549e-07,BOL,2015
+2189,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,1.112668345080414e-08,BOL,2015
+2190,BRA,Seeds and plant propagation industry,SLE,0.0,BOL,2015
+2191,BRA,Raising of cattle industry,SLE,6.691071106125345e-05,BOL,2015
+2192,BRA,Growing wheat industry,SLV,0.00015869960507406666,BOL,2015
+2193,BRA,Growing maize industry,SLV,7.654237030768937e-05,BOL,2015
+2194,BRA,Growing cereals n.e.c industry,SLV,8.569645627262556e-05,BOL,2015
+2195,BRA,Growing leguminous crops and oil seeds industry,SLV,0.0034783034062027744,BOL,2015
+2196,BRA,Growing rice industry,SLV,0.0,BOL,2015
+2197,BRA,"Growing vegetables, roots, tubers industry",SLV,6.186718925893135e-06,BOL,2015
+2198,BRA,Growing sugar beet and cane industry,SLV,0.00045208071830930564,BOL,2015
+2199,BRA,Growing tobacco industry,SLV,5.214479937046157e-07,BOL,2015
+2200,BRA,Growing fibre crops industry,SLV,3.0243451624421476e-05,BOL,2015
+2201,BRA,Growing crops n.e.c. industry,SLV,1.791593384025445e-05,BOL,2015
+2202,BRA,Growing grapes industry,SLV,0.0,BOL,2015
+2203,BRA,Growing fruits and nuts industry,SLV,0.0,BOL,2015
+2204,BRA,"Growing beverage crops (coffee, tea etc) industry",SLV,6.405241620907056e-06,BOL,2015
+2205,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,1.1724012223520026e-07,BOL,2015
+2206,BRA,Seeds and plant propagation industry,SLV,0.0,BOL,2015
+2207,BRA,Raising of cattle industry,SLV,0.0006341161632966509,BOL,2015
+2208,BRA,Growing wheat industry,SOM,1.231927575499503e-05,BOL,2015
+2209,BRA,Growing maize industry,SOM,3.931107220110616e-06,BOL,2015
+2210,BRA,Growing cereals n.e.c industry,SOM,5.27787019020892e-06,BOL,2015
+2211,BRA,Growing leguminous crops and oil seeds industry,SOM,0.00028191281177846486,BOL,2015
+2212,BRA,Growing rice industry,SOM,0.0,BOL,2015
+2213,BRA,"Growing vegetables, roots, tubers industry",SOM,1.4010085646539058e-07,BOL,2015
+2214,BRA,Growing sugar beet and cane industry,SOM,3.0253688694303883e-05,BOL,2015
+2215,BRA,Growing tobacco industry,SOM,3.206031600942937e-08,BOL,2015
+2216,BRA,Growing fibre crops industry,SOM,1.9041012602800389e-06,BOL,2015
+2217,BRA,Growing crops n.e.c. industry,SOM,1.4215474213061463e-06,BOL,2015
+2218,BRA,Growing grapes industry,SOM,0.0,BOL,2015
+2219,BRA,Growing fruits and nuts industry,SOM,0.0,BOL,2015
+2220,BRA,"Growing beverage crops (coffee, tea etc) industry",SOM,5.358670176087641e-07,BOL,2015
+2221,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,7.991839765757138e-09,BOL,2015
+2222,BRA,Seeds and plant propagation industry,SOM,0.0,BOL,2015
+2223,BRA,Raising of cattle industry,SOM,3.7658594087026065e-05,BOL,2015
+2224,BRA,Growing wheat industry,SRB,3.509309678202024e-05,BOL,2015
+2225,BRA,Growing maize industry,SRB,1.1023106171791996e-05,BOL,2015
+2226,BRA,Growing cereals n.e.c industry,SRB,1.7347811646632186e-05,BOL,2015
+2227,BRA,Growing leguminous crops and oil seeds industry,SRB,0.0009507864592796325,BOL,2015
+2228,BRA,Growing rice industry,SRB,0.0,BOL,2015
+2229,BRA,"Growing vegetables, roots, tubers industry",SRB,6.385574680452352e-07,BOL,2015
+2230,BRA,Growing sugar beet and cane industry,SRB,0.00010945105508570774,BOL,2015
+2231,BRA,Growing tobacco industry,SRB,1.0843605228555538e-07,BOL,2015
+2232,BRA,Growing fibre crops industry,SRB,7.493427196595902e-06,BOL,2015
+2233,BRA,Growing crops n.e.c. industry,SRB,4.841973326903628e-06,BOL,2015
+2234,BRA,Growing grapes industry,SRB,0.0,BOL,2015
+2235,BRA,Growing fruits and nuts industry,SRB,0.0,BOL,2015
+2236,BRA,"Growing beverage crops (coffee, tea etc) industry",SRB,1.722467070719004e-06,BOL,2015
+2237,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,2.760251179711069e-08,BOL,2015
+2238,BRA,Seeds and plant propagation industry,SRB,0.0,BOL,2015
+2239,BRA,Raising of cattle industry,SRB,0.00017748570542331976,BOL,2015
+2240,BRA,Growing wheat industry,SDN,6.143809017151102e-05,BOL,2015
+2241,BRA,Growing maize industry,SDN,2.1643674992688082e-05,BOL,2015
+2242,BRA,Growing cereals n.e.c industry,SDN,2.84112029956399e-05,BOL,2015
+2243,BRA,Growing leguminous crops and oil seeds industry,SDN,0.0012940948090737672,BOL,2015
+2244,BRA,Growing rice industry,SDN,0.0,BOL,2015
+2245,BRA,"Growing vegetables, roots, tubers industry",SDN,8.054415253439029e-07,BOL,2015
+2246,BRA,Growing sugar beet and cane industry,SDN,0.00015887186731391182,BOL,2015
+2247,BRA,Growing tobacco industry,SDN,1.7213887048740672e-07,BOL,2015
+2248,BRA,Growing fibre crops industry,SDN,9.660746480521205e-06,BOL,2015
+2249,BRA,Growing crops n.e.c. industry,SDN,1.3524761514964397e-05,BOL,2015
+2250,BRA,Growing grapes industry,SDN,0.0,BOL,2015
+2251,BRA,Growing fruits and nuts industry,SDN,0.0,BOL,2015
+2252,BRA,"Growing beverage crops (coffee, tea etc) industry",SDN,2.2684379090468557e-06,BOL,2015
+2253,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,4.794816805875543e-08,BOL,2015
+2254,BRA,Seeds and plant propagation industry,SDN,0.0,BOL,2015
+2255,BRA,Raising of cattle industry,SDN,0.0002024490111078288,BOL,2015
+2256,BRA,Growing wheat industry,SVK,0.000117250019186502,BOL,2015
+2257,BRA,Growing maize industry,SVK,4.0642596325747484e-05,BOL,2015
+2258,BRA,Growing cereals n.e.c industry,SVK,5.561849102289404e-05,BOL,2015
+2259,BRA,Growing leguminous crops and oil seeds industry,SVK,0.0032373121426569657,BOL,2015
+2260,BRA,Growing rice industry,SVK,0.0,BOL,2015
+2261,BRA,"Growing vegetables, roots, tubers industry",SVK,1.7290825379863148e-06,BOL,2015
+2262,BRA,Growing sugar beet and cane industry,SVK,0.00038802165075153605,BOL,2015
+2263,BRA,Growing tobacco industry,SVK,3.836043803151681e-07,BOL,2015
+2264,BRA,Growing fibre crops industry,SVK,2.4428526955780552e-05,BOL,2015
+2265,BRA,Growing crops n.e.c. industry,SVK,1.184081552754808e-05,BOL,2015
+2266,BRA,Growing grapes industry,SVK,0.0,BOL,2015
+2267,BRA,Growing fruits and nuts industry,SVK,0.0,BOL,2015
+2268,BRA,"Growing beverage crops (coffee, tea etc) industry",SVK,5.953551514906389e-06,BOL,2015
+2269,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,9.95864696639968e-08,BOL,2015
+2270,BRA,Seeds and plant propagation industry,SVK,0.0,BOL,2015
+2271,BRA,Raising of cattle industry,SVK,0.0005726354105705329,BOL,2015
+2272,BRA,Growing wheat industry,SVN,7.136671598475835e-05,BOL,2015
+2273,BRA,Growing maize industry,SVN,3.128041723249328e-05,BOL,2015
+2274,BRA,Growing cereals n.e.c industry,SVN,4.575292194325303e-05,BOL,2015
+2275,BRA,Growing leguminous crops and oil seeds industry,SVN,0.0018599597384704259,BOL,2015
+2276,BRA,Growing rice industry,SVN,0.0,BOL,2015
+2277,BRA,"Growing vegetables, roots, tubers industry",SVN,8.615485530155985e-07,BOL,2015
+2278,BRA,Growing sugar beet and cane industry,SVN,0.0003026114667541522,BOL,2015
+2279,BRA,Growing tobacco industry,SVN,1.9739775075729012e-07,BOL,2015
+2280,BRA,Growing fibre crops industry,SVN,1.3664685684278952e-05,BOL,2015
+2281,BRA,Growing crops n.e.c. industry,SVN,1.2991478402416753e-05,BOL,2015
+2282,BRA,Growing grapes industry,SVN,0.0,BOL,2015
+2283,BRA,Growing fruits and nuts industry,SVN,0.0,BOL,2015
+2284,BRA,"Growing beverage crops (coffee, tea etc) industry",SVN,3.88936427435477e-06,BOL,2015
+2285,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,6.415962348309456e-08,BOL,2015
+2286,BRA,Seeds and plant propagation industry,SVN,0.0,BOL,2015
+2287,BRA,Raising of cattle industry,SVN,0.0004469794311351308,BOL,2015
+2288,BRA,Growing wheat industry,SWE,0.0005262596247726276,BOL,2015
+2289,BRA,Growing maize industry,SWE,0.00017421054328536025,BOL,2015
+2290,BRA,Growing cereals n.e.c industry,SWE,0.00031780162423786104,BOL,2015
+2291,BRA,Growing leguminous crops and oil seeds industry,SWE,0.015657483052720873,BOL,2015
+2292,BRA,Growing rice industry,SWE,0.0,BOL,2015
+2293,BRA,"Growing vegetables, roots, tubers industry",SWE,6.461795135426615e-06,BOL,2015
+2294,BRA,Growing sugar beet and cane industry,SWE,0.0019128005876100443,BOL,2015
+2295,BRA,Growing tobacco industry,SWE,1.6382335018603226e-06,BOL,2015
+2296,BRA,Growing fibre crops industry,SWE,9.04832510356629e-05,BOL,2015
+2297,BRA,Growing crops n.e.c. industry,SWE,5.169930033133951e-05,BOL,2015
+2298,BRA,Growing grapes industry,SWE,0.0,BOL,2015
+2299,BRA,Growing fruits and nuts industry,SWE,0.0,BOL,2015
+2300,BRA,"Growing beverage crops (coffee, tea etc) industry",SWE,2.5933295590091358e-05,BOL,2015
+2301,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,3.643407265872696e-07,BOL,2015
+2302,BRA,Seeds and plant propagation industry,SWE,0.0,BOL,2015
+2303,BRA,Raising of cattle industry,SWE,0.0026190330158460283,BOL,2015
+2304,BRA,Growing wheat industry,SYR,0.00015503487914773065,BOL,2015
+2305,BRA,Growing maize industry,SYR,5.398680754918775e-05,BOL,2015
+2306,BRA,Growing cereals n.e.c industry,SYR,0.00010644157354609543,BOL,2015
+2307,BRA,Growing leguminous crops and oil seeds industry,SYR,0.004269512112036803,BOL,2015
+2308,BRA,Growing rice industry,SYR,0.0,BOL,2015
+2309,BRA,"Growing vegetables, roots, tubers industry",SYR,1.2058537345457866e-06,BOL,2015
+2310,BRA,Growing sugar beet and cane industry,SYR,0.0006959692786700864,BOL,2015
+2311,BRA,Growing tobacco industry,SYR,3.137020722113856e-07,BOL,2015
+2312,BRA,Growing fibre crops industry,SYR,3.6479027659165744e-05,BOL,2015
+2313,BRA,Growing crops n.e.c. industry,SYR,1.831150375735646e-05,BOL,2015
+2314,BRA,Growing grapes industry,SYR,0.0,BOL,2015
+2315,BRA,Growing fruits and nuts industry,SYR,0.0,BOL,2015
+2316,BRA,"Growing beverage crops (coffee, tea etc) industry",SYR,9.232370903025777e-06,BOL,2015
+2317,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,1.7249936140861738e-07,BOL,2015
+2318,BRA,Seeds and plant propagation industry,SYR,0.0,BOL,2015
+2319,BRA,Raising of cattle industry,SYR,0.001980610403112994,BOL,2015
+2320,BRA,Growing wheat industry,TCD,2.0641548056753857e-05,BOL,2015
+2321,BRA,Growing maize industry,TCD,9.111613915156861e-06,BOL,2015
+2322,BRA,Growing cereals n.e.c industry,TCD,1.1216415065229381e-05,BOL,2015
+2323,BRA,Growing leguminous crops and oil seeds industry,TCD,0.0005179276679147439,BOL,2015
+2324,BRA,Growing rice industry,TCD,0.0,BOL,2015
+2325,BRA,"Growing vegetables, roots, tubers industry",TCD,3.162836622085998e-07,BOL,2015
+2326,BRA,Growing sugar beet and cane industry,TCD,6.043620783288228e-05,BOL,2015
+2327,BRA,Growing tobacco industry,TCD,6.149209519178428e-08,BOL,2015
+2328,BRA,Growing fibre crops industry,TCD,3.3867394884487604e-06,BOL,2015
+2329,BRA,Growing crops n.e.c. industry,TCD,4.420346910647192e-06,BOL,2015
+2330,BRA,Growing grapes industry,TCD,0.0,BOL,2015
+2331,BRA,Growing fruits and nuts industry,TCD,0.0,BOL,2015
+2332,BRA,"Growing beverage crops (coffee, tea etc) industry",TCD,8.731162687749114e-07,BOL,2015
+2333,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,1.611080410357589e-08,BOL,2015
+2334,BRA,Seeds and plant propagation industry,TCD,0.0,BOL,2015
+2335,BRA,Raising of cattle industry,TCD,7.290961847905365e-05,BOL,2015
+2336,BRA,Growing wheat industry,TGO,2.4877851819042547e-05,BOL,2015
+2337,BRA,Growing maize industry,TGO,2.4284908579073943e-05,BOL,2015
+2338,BRA,Growing cereals n.e.c industry,TGO,3.030467027282159e-05,BOL,2015
+2339,BRA,Growing leguminous crops and oil seeds industry,TGO,0.0004436600564672647,BOL,2015
+2340,BRA,Growing rice industry,TGO,0.0,BOL,2015
+2341,BRA,"Growing vegetables, roots, tubers industry",TGO,1.772268189325385e-07,BOL,2015
+2342,BRA,Growing sugar beet and cane industry,TGO,0.0001031428692217138,BOL,2015
+2343,BRA,Growing tobacco industry,TGO,3.0348670455433506e-08,BOL,2015
+2344,BRA,Growing fibre crops industry,TGO,1.923309847516428e-06,BOL,2015
+2345,BRA,Growing crops n.e.c. industry,TGO,1.7947561684308114e-05,BOL,2015
+2346,BRA,Growing grapes industry,TGO,0.0,BOL,2015
+2347,BRA,Growing fruits and nuts industry,TGO,0.0,BOL,2015
+2348,BRA,"Growing beverage crops (coffee, tea etc) industry",TGO,7.246539873201652e-07,BOL,2015
+2349,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,2.4119254320621238e-08,BOL,2015
+2350,BRA,Seeds and plant propagation industry,TGO,0.0,BOL,2015
+2351,BRA,Raising of cattle industry,TGO,0.00014386801002481443,BOL,2015
+2352,BRA,Growing wheat industry,THA,0.0012238911475413315,BOL,2015
+2353,BRA,Growing maize industry,THA,0.00042669503218038763,BOL,2015
+2354,BRA,Growing cereals n.e.c industry,THA,0.0006113842791624267,BOL,2015
+2355,BRA,Growing leguminous crops and oil seeds industry,THA,0.03430962053115986,BOL,2015
+2356,BRA,Growing rice industry,THA,0.0,BOL,2015
+2357,BRA,"Growing vegetables, roots, tubers industry",THA,1.7149925357752566e-05,BOL,2015
+2358,BRA,Growing sugar beet and cane industry,THA,0.006720305746912737,BOL,2015
+2359,BRA,Growing tobacco industry,THA,3.7215802430824655e-06,BOL,2015
+2360,BRA,Growing fibre crops industry,THA,0.0003603566311720935,BOL,2015
+2361,BRA,Growing crops n.e.c. industry,THA,0.00018227403218645956,BOL,2015
+2362,BRA,Growing grapes industry,THA,0.0,BOL,2015
+2363,BRA,Growing fruits and nuts industry,THA,0.0,BOL,2015
+2364,BRA,"Growing beverage crops (coffee, tea etc) industry",THA,8.640595382936248e-05,BOL,2015
+2365,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,1.1923138465575614e-06,BOL,2015
+2366,BRA,Seeds and plant propagation industry,THA,0.0,BOL,2015
+2367,BRA,Raising of cattle industry,THA,0.005726461075118736,BOL,2015
+2368,BRA,Growing wheat industry,TJK,1.7623172548305438e-05,BOL,2015
+2369,BRA,Growing maize industry,TJK,5.719098576732551e-06,BOL,2015
+2370,BRA,Growing cereals n.e.c industry,TJK,9.67421582834844e-06,BOL,2015
+2371,BRA,Growing leguminous crops and oil seeds industry,TJK,0.00048453460411677967,BOL,2015
+2372,BRA,Growing rice industry,TJK,0.0,BOL,2015
+2373,BRA,"Growing vegetables, roots, tubers industry",TJK,2.1773206057184704e-07,BOL,2015
+2374,BRA,Growing sugar beet and cane industry,TJK,7.263852805776675e-05,BOL,2015
+2375,BRA,Growing tobacco industry,TJK,4.890635684281004e-08,BOL,2015
+2376,BRA,Growing fibre crops industry,TJK,2.9972015944971735e-06,BOL,2015
+2377,BRA,Growing crops n.e.c. industry,TJK,2.7974250935873568e-06,BOL,2015
+2378,BRA,Growing grapes industry,TJK,0.0,BOL,2015
+2379,BRA,Growing fruits and nuts industry,TJK,0.0,BOL,2015
+2380,BRA,"Growing beverage crops (coffee, tea etc) industry",TJK,9.533507981571924e-07,BOL,2015
+2381,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,1.2837630869909127e-08,BOL,2015
+2382,BRA,Seeds and plant propagation industry,TJK,0.0,BOL,2015
+2383,BRA,Raising of cattle industry,TJK,8.784598610593626e-05,BOL,2015
+2384,BRA,Growing wheat industry,TKM,2.4327472489649703e-05,BOL,2015
+2385,BRA,Growing maize industry,TKM,7.682249036874075e-06,BOL,2015
+2386,BRA,Growing cereals n.e.c industry,TKM,1.1904788851881373e-05,BOL,2015
+2387,BRA,Growing leguminous crops and oil seeds industry,TKM,0.0006605478686443262,BOL,2015
+2388,BRA,Growing rice industry,TKM,0.0,BOL,2015
+2389,BRA,"Growing vegetables, roots, tubers industry",TKM,3.128987966652627e-07,BOL,2015
+2390,BRA,Growing sugar beet and cane industry,TKM,6.836082647681903e-05,BOL,2015
+2391,BRA,Growing tobacco industry,TKM,7.014418353809e-08,BOL,2015
+2392,BRA,Growing fibre crops industry,TKM,4.053343418713193e-06,BOL,2015
+2393,BRA,Growing crops n.e.c. industry,TKM,2.3895689795910975e-06,BOL,2015
+2394,BRA,Growing grapes industry,TKM,0.0,BOL,2015
+2395,BRA,Growing fruits and nuts industry,TKM,0.0,BOL,2015
+2396,BRA,"Growing beverage crops (coffee, tea etc) industry",TKM,1.0910617112890372e-06,BOL,2015
+2397,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,1.59529785582837e-08,BOL,2015
+2398,BRA,Seeds and plant propagation industry,TKM,0.0,BOL,2015
+2399,BRA,Raising of cattle industry,TKM,8.492124213586168e-05,BOL,2015
+2400,BRA,Growing wheat industry,TUN,5.690617686429533e-05,BOL,2015
+2401,BRA,Growing maize industry,TUN,2.029579000350656e-05,BOL,2015
+2402,BRA,Growing cereals n.e.c industry,TUN,2.9886203822650633e-05,BOL,2015
+2403,BRA,Growing leguminous crops and oil seeds industry,TUN,0.0015790540839856469,BOL,2015
+2404,BRA,Growing rice industry,TUN,0.0,BOL,2015
+2405,BRA,"Growing vegetables, roots, tubers industry",TUN,8.736834414792044e-07,BOL,2015
+2406,BRA,Growing sugar beet and cane industry,TUN,0.00020632196056594182,BOL,2015
+2407,BRA,Growing tobacco industry,TUN,1.7801259729510465e-07,BOL,2015
+2408,BRA,Growing fibre crops industry,TUN,1.0908692795929458e-05,BOL,2015
+2409,BRA,Growing crops n.e.c. industry,TUN,8.373665755743238e-06,BOL,2015
+2410,BRA,Growing grapes industry,TUN,0.0,BOL,2015
+2411,BRA,Growing fruits and nuts industry,TUN,0.0,BOL,2015
+2412,BRA,"Growing beverage crops (coffee, tea etc) industry",TUN,3.3430848016312213e-06,BOL,2015
+2413,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,4.5498381319535735e-08,BOL,2015
+2414,BRA,Seeds and plant propagation industry,TUN,0.0,BOL,2015
+2415,BRA,Raising of cattle industry,TUN,0.00024038995586783712,BOL,2015
+2416,BRA,Growing wheat industry,TUR,0.007322909489578485,BOL,2015
+2417,BRA,Growing maize industry,TUR,0.0016122325732562317,BOL,2015
+2418,BRA,Growing cereals n.e.c industry,TUR,0.0031188819979386865,BOL,2015
+2419,BRA,Growing leguminous crops and oil seeds industry,TUR,0.17209289488041402,BOL,2015
+2420,BRA,Growing rice industry,TUR,0.0,BOL,2015
+2421,BRA,"Growing vegetables, roots, tubers industry",TUR,5.773850625223688e-05,BOL,2015
+2422,BRA,Growing sugar beet and cane industry,TUR,0.015987384718219082,BOL,2015
+2423,BRA,Growing tobacco industry,TUR,1.5970171586527574e-05,BOL,2015
+2424,BRA,Growing fibre crops industry,TUR,0.0013044535031354796,BOL,2015
+2425,BRA,Growing crops n.e.c. industry,TUR,0.0004983916232312838,BOL,2015
+2426,BRA,Growing grapes industry,TUR,0.0,BOL,2015
+2427,BRA,Growing fruits and nuts industry,TUR,0.0,BOL,2015
+2428,BRA,"Growing beverage crops (coffee, tea etc) industry",TUR,0.00029727051107580974,BOL,2015
+2429,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,3.790924748731411e-06,BOL,2015
+2430,BRA,Seeds and plant propagation industry,TUR,0.0,BOL,2015
+2431,BRA,Raising of cattle industry,TUR,0.022318608065356058,BOL,2015
+2432,BRA,Growing wheat industry,TZA,4.464281722625225e-05,BOL,2015
+2433,BRA,Growing maize industry,TZA,1.4558526004572342e-05,BOL,2015
+2434,BRA,Growing cereals n.e.c industry,TZA,1.866655800981769e-05,BOL,2015
+2435,BRA,Growing leguminous crops and oil seeds industry,TZA,0.0011287805623892075,BOL,2015
+2436,BRA,Growing rice industry,TZA,0.0,BOL,2015
+2437,BRA,"Growing vegetables, roots, tubers industry",TZA,6.612915453524157e-07,BOL,2015
+2438,BRA,Growing sugar beet and cane industry,TZA,0.00013014366934119864,BOL,2015
+2439,BRA,Growing tobacco industry,TZA,1.390511268575325e-07,BOL,2015
+2440,BRA,Growing fibre crops industry,TZA,8.13039781288661e-06,BOL,2015
+2441,BRA,Growing crops n.e.c. industry,TZA,5.716743306004882e-06,BOL,2015
+2442,BRA,Growing grapes industry,TZA,0.0,BOL,2015
+2443,BRA,Growing fruits and nuts industry,TZA,0.0,BOL,2015
+2444,BRA,"Growing beverage crops (coffee, tea etc) industry",TZA,2.1321393418513064e-06,BOL,2015
+2445,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,3.3322626700303514e-08,BOL,2015
+2446,BRA,Seeds and plant propagation industry,TZA,0.0,BOL,2015
+2447,BRA,Raising of cattle industry,TZA,0.0001387267694821961,BOL,2015
+2448,BRA,Growing wheat industry,UGA,3.851399661121912e-05,BOL,2015
+2449,BRA,Growing maize industry,UGA,1.3336049107624892e-05,BOL,2015
+2450,BRA,Growing cereals n.e.c industry,UGA,1.648017615555844e-05,BOL,2015
+2451,BRA,Growing leguminous crops and oil seeds industry,UGA,0.0008842715471603141,BOL,2015
+2452,BRA,Growing rice industry,UGA,0.0,BOL,2015
+2453,BRA,"Growing vegetables, roots, tubers industry",UGA,5.425851017393081e-07,BOL,2015
+2454,BRA,Growing sugar beet and cane industry,UGA,0.00010093697405085316,BOL,2015
+2455,BRA,Growing tobacco industry,UGA,1.1263452890804436e-07,BOL,2015
+2456,BRA,Growing fibre crops industry,UGA,6.951705363055564e-06,BOL,2015
+2457,BRA,Growing crops n.e.c. industry,UGA,4.776715469108206e-06,BOL,2015
+2458,BRA,Growing grapes industry,UGA,0.0,BOL,2015
+2459,BRA,Growing fruits and nuts industry,UGA,0.0,BOL,2015
+2460,BRA,"Growing beverage crops (coffee, tea etc) industry",UGA,1.6577429116780843e-06,BOL,2015
+2461,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,2.655798959003966e-08,BOL,2015
+2462,BRA,Seeds and plant propagation industry,UGA,0.0,BOL,2015
+2463,BRA,Raising of cattle industry,UGA,0.00012579042532079117,BOL,2015
+2464,BRA,Growing wheat industry,UKR,0.001045162803904936,BOL,2015
+2465,BRA,Growing maize industry,UKR,0.00022972177400471135,BOL,2015
+2466,BRA,Growing cereals n.e.c industry,UKR,0.0003265069485001778,BOL,2015
+2467,BRA,Growing leguminous crops and oil seeds industry,UKR,0.020692058346063462,BOL,2015
+2468,BRA,Growing rice industry,UKR,0.0,BOL,2015
+2469,BRA,"Growing vegetables, roots, tubers industry",UKR,9.02019501482258e-06,BOL,2015
+2470,BRA,Growing sugar beet and cane industry,UKR,0.0019527647570678995,BOL,2015
+2471,BRA,Growing tobacco industry,UKR,2.936537296734429e-06,BOL,2015
+2472,BRA,Growing fibre crops industry,UKR,0.00017373668645224064,BOL,2015
+2473,BRA,Growing crops n.e.c. industry,UKR,9.868419462548857e-05,BOL,2015
+2474,BRA,Growing grapes industry,UKR,0.0,BOL,2015
+2475,BRA,Growing fruits and nuts industry,UKR,0.0,BOL,2015
+2476,BRA,"Growing beverage crops (coffee, tea etc) industry",UKR,4.11581298592167e-05,BOL,2015
+2477,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,7.1677822326387e-07,BOL,2015
+2478,BRA,Seeds and plant propagation industry,UKR,0.0,BOL,2015
+2479,BRA,Raising of cattle industry,UKR,0.003262103520005694,BOL,2015
+2480,BRA,Growing wheat industry,URY,0.0005093135548438637,BOL,2015
+2481,BRA,Growing maize industry,URY,0.0002786728906576103,BOL,2015
+2482,BRA,Growing cereals n.e.c industry,URY,0.00041957639247339846,BOL,2015
+2483,BRA,Growing leguminous crops and oil seeds industry,URY,0.012057526469849849,BOL,2015
+2484,BRA,Growing rice industry,URY,0.0,BOL,2015
+2485,BRA,"Growing vegetables, roots, tubers industry",URY,5.226878562986703e-06,BOL,2015
+2486,BRA,Growing sugar beet and cane industry,URY,0.0020803642084649752,BOL,2015
+2487,BRA,Growing tobacco industry,URY,7.012229919355776e-05,BOL,2015
+2488,BRA,Growing fibre crops industry,URY,0.00021464313542979047,BOL,2015
+2489,BRA,Growing crops n.e.c. industry,URY,8.97159016251082e-05,BOL,2015
+2490,BRA,Growing grapes industry,URY,0.0,BOL,2015
+2491,BRA,Growing fruits and nuts industry,URY,0.0,BOL,2015
+2492,BRA,"Growing beverage crops (coffee, tea etc) industry",URY,2.2815878032919647e-05,BOL,2015
+2493,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,5.484103613593094e-07,BOL,2015
+2494,BRA,Seeds and plant propagation industry,URY,0.0,BOL,2015
+2495,BRA,Raising of cattle industry,URY,0.006732230537594162,BOL,2015
+2496,BRA,Growing wheat industry,USA,0.05001329037642444,BOL,2015
+2497,BRA,Growing maize industry,USA,0.014584718790814659,BOL,2015
+2498,BRA,Growing cereals n.e.c industry,USA,0.033338330600541144,BOL,2015
+2499,BRA,Growing leguminous crops and oil seeds industry,USA,1.556613551762697,BOL,2015
+2500,BRA,Growing rice industry,USA,0.0,BOL,2015
+2501,BRA,"Growing vegetables, roots, tubers industry",USA,0.0004962576251611353,BOL,2015
+2502,BRA,Growing sugar beet and cane industry,USA,0.16894664409760787,BOL,2015
+2503,BRA,Growing tobacco industry,USA,0.00012455254354935653,BOL,2015
+2504,BRA,Growing fibre crops industry,USA,0.006836450884650751,BOL,2015
+2505,BRA,Growing crops n.e.c. industry,USA,0.0036910680147716852,BOL,2015
+2506,BRA,Growing grapes industry,USA,0.0,BOL,2015
+2507,BRA,Growing fruits and nuts industry,USA,0.0,BOL,2015
+2508,BRA,"Growing beverage crops (coffee, tea etc) industry",USA,0.0022838933242761324,BOL,2015
+2509,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,2.6741111204442427e-05,BOL,2015
+2510,BRA,Seeds and plant propagation industry,USA,0.0,BOL,2015
+2511,BRA,Raising of cattle industry,USA,0.25000565974043154,BOL,2015
+2512,BRA,Growing wheat industry,UZB,7.025718888507879e-05,BOL,2015
+2513,BRA,Growing maize industry,UZB,3.16804467296987e-05,BOL,2015
+2514,BRA,Growing cereals n.e.c industry,UZB,3.972206644586293e-05,BOL,2015
+2515,BRA,Growing leguminous crops and oil seeds industry,UZB,0.001800706738084768,BOL,2015
+2516,BRA,Growing rice industry,UZB,0.0,BOL,2015
+2517,BRA,"Growing vegetables, roots, tubers industry",UZB,1.0108935677079762e-06,BOL,2015
+2518,BRA,Growing sugar beet and cane industry,UZB,0.00020826394796002185,BOL,2015
+2519,BRA,Growing tobacco industry,UZB,2.2528017654941126e-07,BOL,2015
+2520,BRA,Growing fibre crops industry,UZB,1.1620358434980782e-05,BOL,2015
+2521,BRA,Growing crops n.e.c. industry,UZB,1.3723799964269825e-05,BOL,2015
+2522,BRA,Growing grapes industry,UZB,0.0,BOL,2015
+2523,BRA,Growing fruits and nuts industry,UZB,0.0,BOL,2015
+2524,BRA,"Growing beverage crops (coffee, tea etc) industry",UZB,3.0188450464657876e-06,BOL,2015
+2525,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,5.5074936016418445e-08,BOL,2015
+2526,BRA,Seeds and plant propagation industry,UZB,0.0,BOL,2015
+2527,BRA,Raising of cattle industry,UZB,0.00025563635846022716,BOL,2015
+2528,BRA,Growing wheat industry,VEN,0.012516928726221472,BOL,2015
+2529,BRA,Growing maize industry,VEN,0.0031074932443796665,BOL,2015
+2530,BRA,Growing cereals n.e.c industry,VEN,0.008348087998423988,BOL,2015
+2531,BRA,Growing leguminous crops and oil seeds industry,VEN,0.30846629981750306,BOL,2015
+2532,BRA,Growing rice industry,VEN,0.0,BOL,2015
+2533,BRA,"Growing vegetables, roots, tubers industry",VEN,0.00010860933982420056,BOL,2015
+2534,BRA,Growing sugar beet and cane industry,VEN,0.08720926295990453,BOL,2015
+2535,BRA,Growing tobacco industry,VEN,2.7322915728360003e-05,BOL,2015
+2536,BRA,Growing fibre crops industry,VEN,0.01204924722309134,BOL,2015
+2537,BRA,Growing crops n.e.c. industry,VEN,0.0027357962492599816,BOL,2015
+2538,BRA,Growing grapes industry,VEN,0.0,BOL,2015
+2539,BRA,Growing fruits and nuts industry,VEN,0.0,BOL,2015
+2540,BRA,"Growing beverage crops (coffee, tea etc) industry",VEN,0.0008961130037834427,BOL,2015
+2541,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,1.731590561616778e-05,BOL,2015
+2542,BRA,Seeds and plant propagation industry,VEN,0.0,BOL,2015
+2543,BRA,Raising of cattle industry,VEN,0.1237188512608452,BOL,2015
+2544,BRA,Growing wheat industry,VNM,0.0009103111849088661,BOL,2015
+2545,BRA,Growing maize industry,VNM,0.00028342109099358307,BOL,2015
+2546,BRA,Growing cereals n.e.c industry,VNM,0.0004951381633618513,BOL,2015
+2547,BRA,Growing leguminous crops and oil seeds industry,VNM,0.02296487434936232,BOL,2015
+2548,BRA,Growing rice industry,VNM,0.0,BOL,2015
+2549,BRA,"Growing vegetables, roots, tubers industry",VNM,1.2397834323219978e-05,BOL,2015
+2550,BRA,Growing sugar beet and cane industry,VNM,0.003683084065820696,BOL,2015
+2551,BRA,Growing tobacco industry,VNM,2.5817599734604174e-06,BOL,2015
+2552,BRA,Growing fibre crops industry,VNM,0.0005485403611144135,BOL,2015
+2553,BRA,Growing crops n.e.c. industry,VNM,0.00021275626626359237,BOL,2015
+2554,BRA,Growing grapes industry,VNM,0.0,BOL,2015
+2555,BRA,Growing fruits and nuts industry,VNM,0.0,BOL,2015
+2556,BRA,"Growing beverage crops (coffee, tea etc) industry",VNM,4.513596263730425e-05,BOL,2015
+2557,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,1.029388948364962e-06,BOL,2015
+2558,BRA,Seeds and plant propagation industry,VNM,0.0,BOL,2015
+2559,BRA,Raising of cattle industry,VNM,0.005871526250549914,BOL,2015
+2560,BRA,Growing wheat industry,YEM,5.4524941196651285e-05,BOL,2015
+2561,BRA,Growing maize industry,YEM,2.1497906052136558e-05,BOL,2015
+2562,BRA,Growing cereals n.e.c industry,YEM,2.9437393513632788e-05,BOL,2015
+2563,BRA,Growing leguminous crops and oil seeds industry,YEM,0.0013930902964293301,BOL,2015
+2564,BRA,Growing rice industry,YEM,0.0,BOL,2015
+2565,BRA,"Growing vegetables, roots, tubers industry",YEM,7.355760326132914e-07,BOL,2015
+2566,BRA,Growing sugar beet and cane industry,YEM,0.00018389317110451347,BOL,2015
+2567,BRA,Growing tobacco industry,YEM,1.5283089157096064e-07,BOL,2015
+2568,BRA,Growing fibre crops industry,YEM,9.791687062155827e-06,BOL,2015
+2569,BRA,Growing crops n.e.c. industry,YEM,9.605284580709269e-06,BOL,2015
+2570,BRA,Growing grapes industry,YEM,0.0,BOL,2015
+2571,BRA,Growing fruits and nuts industry,YEM,0.0,BOL,2015
+2572,BRA,"Growing beverage crops (coffee, tea etc) industry",YEM,2.666441304777895e-06,BOL,2015
+2573,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,4.420381804115994e-08,BOL,2015
+2574,BRA,Seeds and plant propagation industry,YEM,0.0,BOL,2015
+2575,BRA,Raising of cattle industry,YEM,0.0002495713149331377,BOL,2015
+2576,BRA,Growing wheat industry,ZAF,0.000419778884198085,BOL,2015
+2577,BRA,Growing maize industry,ZAF,0.00014194009280483425,BOL,2015
+2578,BRA,Growing cereals n.e.c industry,ZAF,0.00019977936264233074,BOL,2015
+2579,BRA,Growing leguminous crops and oil seeds industry,ZAF,0.01145888260559714,BOL,2015
+2580,BRA,Growing rice industry,ZAF,0.0,BOL,2015
+2581,BRA,"Growing vegetables, roots, tubers industry",ZAF,6.82201950094198e-06,BOL,2015
+2582,BRA,Growing sugar beet and cane industry,ZAF,0.0016789877253186238,BOL,2015
+2583,BRA,Growing tobacco industry,ZAF,1.3284599526089598e-06,BOL,2015
+2584,BRA,Growing fibre crops industry,ZAF,8.843837013678683e-05,BOL,2015
+2585,BRA,Growing crops n.e.c. industry,ZAF,5.837314449564727e-05,BOL,2015
+2586,BRA,Growing grapes industry,ZAF,0.0,BOL,2015
+2587,BRA,Growing fruits and nuts industry,ZAF,0.0,BOL,2015
+2588,BRA,"Growing beverage crops (coffee, tea etc) industry",ZAF,2.4080287630888318e-05,BOL,2015
+2589,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,3.5481017656339644e-07,BOL,2015
+2590,BRA,Seeds and plant propagation industry,ZAF,0.0,BOL,2015
+2591,BRA,Raising of cattle industry,ZAF,0.0017578428882816697,BOL,2015
+2592,BRA,Growing wheat industry,ZMB,3.731158770035245e-05,BOL,2015
+2593,BRA,Growing maize industry,ZMB,1.5842435914265664e-05,BOL,2015
+2594,BRA,Growing cereals n.e.c industry,ZMB,1.8527703680475265e-05,BOL,2015
+2595,BRA,Growing leguminous crops and oil seeds industry,ZMB,0.0009038422505000276,BOL,2015
+2596,BRA,Growing rice industry,ZMB,0.0,BOL,2015
+2597,BRA,"Growing vegetables, roots, tubers industry",ZMB,5.890964828713948e-07,BOL,2015
+2598,BRA,Growing sugar beet and cane industry,ZMB,0.00010418596335607248,BOL,2015
+2599,BRA,Growing tobacco industry,ZMB,1.1685975363599991e-07,BOL,2015
+2600,BRA,Growing fibre crops industry,ZMB,7.1657568362253385e-06,BOL,2015
+2601,BRA,Growing crops n.e.c. industry,ZMB,6.439301818282239e-06,BOL,2015
+2602,BRA,Growing grapes industry,ZMB,0.0,BOL,2015
+2603,BRA,Growing fruits and nuts industry,ZMB,0.0,BOL,2015
+2604,BRA,"Growing beverage crops (coffee, tea etc) industry",ZMB,1.568760495347891e-06,BOL,2015
+2605,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,2.83500700275688e-08,BOL,2015
+2606,BRA,Seeds and plant propagation industry,ZMB,0.0,BOL,2015
+2607,BRA,Raising of cattle industry,ZMB,0.00012450141448609202,BOL,2015
+2608,BRA,Growing wheat industry,ZWE,3.332792422652742e-05,BOL,2015
+2609,BRA,Growing maize industry,ZWE,2.0498619277139567e-05,BOL,2015
+2610,BRA,Growing cereals n.e.c industry,ZWE,2.609004723402377e-05,BOL,2015
+2611,BRA,Growing leguminous crops and oil seeds industry,ZWE,0.0007408899992292142,BOL,2015
+2612,BRA,Growing rice industry,ZWE,0.0,BOL,2015
+2613,BRA,"Growing vegetables, roots, tubers industry",ZWE,4.031291584239565e-07,BOL,2015
+2614,BRA,Growing sugar beet and cane industry,ZWE,0.00011393643845045613,BOL,2015
+2615,BRA,Growing tobacco industry,ZWE,7.892003133921102e-08,BOL,2015
+2616,BRA,Growing fibre crops industry,ZWE,4.40738674859215e-06,BOL,2015
+2617,BRA,Growing crops n.e.c. industry,ZWE,1.3240192712567379e-05,BOL,2015
+2618,BRA,Growing grapes industry,ZWE,0.0,BOL,2015
+2619,BRA,Growing fruits and nuts industry,ZWE,0.0,BOL,2015
+2620,BRA,"Growing beverage crops (coffee, tea etc) industry",ZWE,1.2780039872396538e-06,BOL,2015
+2621,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,2.8177642810948656e-08,BOL,2015
+2622,BRA,Seeds and plant propagation industry,ZWE,0.0,BOL,2015
+2623,BRA,Raising of cattle industry,ZWE,0.00015973897085650953,BOL,2015

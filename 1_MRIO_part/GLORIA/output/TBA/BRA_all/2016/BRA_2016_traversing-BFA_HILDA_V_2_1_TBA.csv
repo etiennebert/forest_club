@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,BRA,Growing wheat industry,XAM,0.0,BFA,2016
+1,BRA,Growing maize industry,XAM,9.546500871237913e-05,BFA,2016
+2,BRA,Growing cereals n.e.c industry,XAM,1.591389267324835e-05,BFA,2016
+3,BRA,Growing leguminous crops and oil seeds industry,XAM,0.00022766553150540292,BFA,2016
+4,BRA,Growing rice industry,XAM,1.9966872716321432e-08,BFA,2016
+5,BRA,"Growing vegetables, roots, tubers industry",XAM,3.786807014249369e-08,BFA,2016
+6,BRA,Growing sugar beet and cane industry,XAM,4.021419453063125e-06,BFA,2016
+7,BRA,Growing tobacco industry,XAM,3.8591238402327907e-07,BFA,2016
+8,BRA,Growing fibre crops industry,XAM,0.0,BFA,2016
+9,BRA,Growing crops n.e.c. industry,XAM,3.552647640602313e-06,BFA,2016
+10,BRA,Growing grapes industry,XAM,0.0,BFA,2016
+11,BRA,Growing fruits and nuts industry,XAM,0.0,BFA,2016
+12,BRA,"Growing beverage crops (coffee, tea etc) industry",XAM,2.761265251804687e-07,BFA,2016
+13,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,3.9373117470218316e-08,BFA,2016
+14,BRA,Seeds and plant propagation industry,XAM,0.0,BFA,2016
+15,BRA,Raising of cattle industry,XAM,2.5811699806291448e-05,BFA,2016
+16,BRA,Growing wheat industry,XEU,0.0,BFA,2016
+17,BRA,Growing maize industry,XEU,1.9515797139245988e-05,BFA,2016
+18,BRA,Growing cereals n.e.c industry,XEU,3.882993372933877e-06,BFA,2016
+19,BRA,Growing leguminous crops and oil seeds industry,XEU,4.4915742948512715e-05,BFA,2016
+20,BRA,Growing rice industry,XEU,3.131118193502213e-09,BFA,2016
+21,BRA,"Growing vegetables, roots, tubers industry",XEU,5.97605547071321e-09,BFA,2016
+22,BRA,Growing sugar beet and cane industry,XEU,8.903757131552144e-07,BFA,2016
+23,BRA,Growing tobacco industry,XEU,4.6566435467378875e-08,BFA,2016
+24,BRA,Growing fibre crops industry,XEU,0.0,BFA,2016
+25,BRA,Growing crops n.e.c. industry,XEU,9.572899137416697e-07,BFA,2016
+26,BRA,Growing grapes industry,XEU,0.0,BFA,2016
+27,BRA,Growing fruits and nuts industry,XEU,0.0,BFA,2016
+28,BRA,"Growing beverage crops (coffee, tea etc) industry",XEU,4.7690593518395313e-08,BFA,2016
+29,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,7.575486515100857e-09,BFA,2016
+30,BRA,Seeds and plant propagation industry,XEU,0.0,BFA,2016
+31,BRA,Raising of cattle industry,XEU,4.751896255326606e-06,BFA,2016
+32,BRA,Growing wheat industry,XAF,0.0,BFA,2016
+33,BRA,Growing maize industry,XAF,0.0001488255664362342,BFA,2016
+34,BRA,Growing cereals n.e.c industry,XAF,2.906247502080114e-05,BFA,2016
+35,BRA,Growing leguminous crops and oil seeds industry,XAF,0.00034251313619600187,BFA,2016
+36,BRA,Growing rice industry,XAF,2.1419961788916114e-08,BFA,2016
+37,BRA,"Growing vegetables, roots, tubers industry",XAF,4.3317879184026804e-08,BFA,2016
+38,BRA,Growing sugar beet and cane industry,XAF,6.71210593378731e-06,BFA,2016
+39,BRA,Growing tobacco industry,XAF,2.0721388152115328e-07,BFA,2016
+40,BRA,Growing fibre crops industry,XAF,0.0,BFA,2016
+41,BRA,Growing crops n.e.c. industry,XAF,7.634477493663678e-06,BFA,2016
+42,BRA,Growing grapes industry,XAF,0.0,BFA,2016
+43,BRA,Growing fruits and nuts industry,XAF,0.0,BFA,2016
+44,BRA,"Growing beverage crops (coffee, tea etc) industry",XAF,3.485855432850767e-07,BFA,2016
+45,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,6.206144999338407e-08,BFA,2016
+46,BRA,Seeds and plant propagation industry,XAF,0.0,BFA,2016
+47,BRA,Raising of cattle industry,XAF,3.418587876658499e-05,BFA,2016
+48,BRA,Growing wheat industry,XAS,0.0,BFA,2016
+49,BRA,Growing maize industry,XAS,9.984459569634982e-05,BFA,2016
+50,BRA,Growing cereals n.e.c industry,XAS,2.2832207549698993e-05,BFA,2016
+51,BRA,Growing leguminous crops and oil seeds industry,XAS,0.00020185864981334906,BFA,2016
+52,BRA,Growing rice industry,XAS,1.3530332220425368e-08,BFA,2016
+53,BRA,"Growing vegetables, roots, tubers industry",XAS,2.4447214379036013e-08,BFA,2016
+54,BRA,Growing sugar beet and cane industry,XAS,4.715850718019817e-06,BFA,2016
+55,BRA,Growing tobacco industry,XAS,1.3189072097598732e-07,BFA,2016
+56,BRA,Growing fibre crops industry,XAS,0.0,BFA,2016
+57,BRA,Growing crops n.e.c. industry,XAS,6.199074847104931e-06,BFA,2016
+58,BRA,Growing grapes industry,XAS,0.0,BFA,2016
+59,BRA,Growing fruits and nuts industry,XAS,0.0,BFA,2016
+60,BRA,"Growing beverage crops (coffee, tea etc) industry",XAS,1.768928012041712e-07,BFA,2016
+61,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,3.0681432193797645e-08,BFA,2016
+62,BRA,Seeds and plant propagation industry,XAS,0.0,BFA,2016
+63,BRA,Raising of cattle industry,XAS,2.2967301102157332e-05,BFA,2016
+64,BRA,Growing wheat industry,AFG,0.0,BFA,2016
+65,BRA,Growing maize industry,AFG,3.1073467118739514e-05,BFA,2016
+66,BRA,Growing cereals n.e.c industry,AFG,6.430034594317562e-06,BFA,2016
+67,BRA,Growing leguminous crops and oil seeds industry,AFG,6.409283671431161e-05,BFA,2016
+68,BRA,Growing rice industry,AFG,4.1671367660581755e-09,BFA,2016
+69,BRA,"Growing vegetables, roots, tubers industry",AFG,8.255366140588462e-09,BFA,2016
+70,BRA,Growing sugar beet and cane industry,AFG,1.4277372464091738e-06,BFA,2016
+71,BRA,Growing tobacco industry,AFG,4.6444692881465714e-08,BFA,2016
+72,BRA,Growing fibre crops industry,AFG,0.0,BFA,2016
+73,BRA,Growing crops n.e.c. industry,AFG,1.68390526711062e-06,BFA,2016
+74,BRA,Growing grapes industry,AFG,0.0,BFA,2016
+75,BRA,Growing fruits and nuts industry,AFG,0.0,BFA,2016
+76,BRA,"Growing beverage crops (coffee, tea etc) industry",AFG,6.592725108350472e-08,BFA,2016
+77,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,1.0465429436826818e-08,BFA,2016
+78,BRA,Seeds and plant propagation industry,AFG,0.0,BFA,2016
+79,BRA,Raising of cattle industry,AFG,7.006779726468389e-06,BFA,2016
+80,BRA,Growing wheat industry,AGO,0.0,BFA,2016
+81,BRA,Growing maize industry,AGO,0.0005061050096021213,BFA,2016
+82,BRA,Growing cereals n.e.c industry,AGO,0.00011506796614746647,BFA,2016
+83,BRA,Growing leguminous crops and oil seeds industry,AGO,0.001007299468475836,BFA,2016
+84,BRA,Growing rice industry,AGO,6.361212547142683e-08,BFA,2016
+85,BRA,"Growing vegetables, roots, tubers industry",AGO,1.1362231947228048e-07,BFA,2016
+86,BRA,Growing sugar beet and cane industry,AGO,2.3794316150093636e-05,BFA,2016
+87,BRA,Growing tobacco industry,AGO,4.826439252784404e-07,BFA,2016
+88,BRA,Growing fibre crops industry,AGO,0.0,BFA,2016
+89,BRA,Growing crops n.e.c. industry,AGO,3.256048311387878e-05,BFA,2016
+90,BRA,Growing grapes industry,AGO,0.0,BFA,2016
+91,BRA,Growing fruits and nuts industry,AGO,0.0,BFA,2016
+92,BRA,"Growing beverage crops (coffee, tea etc) industry",AGO,8.563879204842798e-07,BFA,2016
+93,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,1.5801583577808639e-07,BFA,2016
+94,BRA,Seeds and plant propagation industry,AGO,0.0,BFA,2016
+95,BRA,Raising of cattle industry,AGO,0.00011402034726235559,BFA,2016
+96,BRA,Growing wheat industry,ALB,0.0,BFA,2016
+97,BRA,Growing maize industry,ALB,1.6649238825509163e-05,BFA,2016
+98,BRA,Growing cereals n.e.c industry,ALB,2.2718648244266896e-06,BFA,2016
+99,BRA,Growing leguminous crops and oil seeds industry,ALB,4.1879903522223486e-05,BFA,2016
+100,BRA,Growing rice industry,ALB,3.5595536515275153e-09,BFA,2016
+101,BRA,"Growing vegetables, roots, tubers industry",ALB,7.000303945655344e-09,BFA,2016
+102,BRA,Growing sugar beet and cane industry,ALB,6.258340484010361e-07,BFA,2016
+103,BRA,Growing tobacco industry,ALB,4.7815984929586774e-08,BFA,2016
+104,BRA,Growing fibre crops industry,ALB,0.0,BFA,2016
+105,BRA,Growing crops n.e.c. industry,ALB,4.389660881189725e-07,BFA,2016
+106,BRA,Growing grapes industry,ALB,0.0,BFA,2016
+107,BRA,Growing fruits and nuts industry,ALB,0.0,BFA,2016
+108,BRA,"Growing beverage crops (coffee, tea etc) industry",ALB,5.801207544719605e-08,BFA,2016
+109,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,7.240211655230533e-09,BFA,2016
+110,BRA,Seeds and plant propagation industry,ALB,0.0,BFA,2016
+111,BRA,Raising of cattle industry,ALB,3.6772573584656077e-06,BFA,2016
+112,BRA,Growing wheat industry,ARE,0.0,BFA,2016
+113,BRA,Growing maize industry,ARE,0.0007087376514324659,BFA,2016
+114,BRA,Growing cereals n.e.c industry,ARE,0.00011297069267080964,BFA,2016
+115,BRA,Growing leguminous crops and oil seeds industry,ARE,0.001930785033470714,BFA,2016
+116,BRA,Growing rice industry,ARE,1.1449753992324089e-07,BFA,2016
+117,BRA,"Growing vegetables, roots, tubers industry",ARE,2.442618933948588e-07,BFA,2016
+118,BRA,Growing sugar beet and cane industry,ARE,3.1633409917783216e-05,BFA,2016
+119,BRA,Growing tobacco industry,ARE,2.1136142152433924e-06,BFA,2016
+120,BRA,Growing fibre crops industry,ARE,0.0,BFA,2016
+121,BRA,Growing crops n.e.c. industry,ARE,2.5732128027671198e-05,BFA,2016
+122,BRA,Growing grapes industry,ARE,0.0,BFA,2016
+123,BRA,Growing fruits and nuts industry,ARE,0.0,BFA,2016
+124,BRA,"Growing beverage crops (coffee, tea etc) industry",ARE,2.3053511839948224e-06,BFA,2016
+125,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,4.2908136721627203e-07,BFA,2016
+126,BRA,Seeds and plant propagation industry,ARE,0.0,BFA,2016
+127,BRA,Raising of cattle industry,ARE,0.00017253014016159447,BFA,2016
+128,BRA,Growing wheat industry,ARG,0.0,BFA,2016
+129,BRA,Growing maize industry,ARG,0.00019620278977443566,BFA,2016
+130,BRA,Growing cereals n.e.c industry,ARG,3.1799639799363986e-05,BFA,2016
+131,BRA,Growing leguminous crops and oil seeds industry,ARG,0.0005317353967313552,BFA,2016
+132,BRA,Growing rice industry,ARG,5.3522265111283145e-08,BFA,2016
+133,BRA,"Growing vegetables, roots, tubers industry",ARG,8.070453401399008e-08,BFA,2016
+134,BRA,Growing sugar beet and cane industry,ARG,8.463356352881323e-06,BFA,2016
+135,BRA,Growing tobacco industry,ARG,1.2671622214591996e-06,BFA,2016
+136,BRA,Growing fibre crops industry,ARG,0.0,BFA,2016
+137,BRA,Growing crops n.e.c. industry,ARG,6.511394321610683e-06,BFA,2016
+138,BRA,Growing grapes industry,ARG,0.0,BFA,2016
+139,BRA,Growing fruits and nuts industry,ARG,0.0,BFA,2016
+140,BRA,"Growing beverage crops (coffee, tea etc) industry",ARG,7.3117154271795e-07,BFA,2016
+141,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,8.789349897468301e-08,BFA,2016
+142,BRA,Seeds and plant propagation industry,ARG,0.0,BFA,2016
+143,BRA,Raising of cattle industry,ARG,5.162135310249578e-05,BFA,2016
+144,BRA,Growing wheat industry,ARM,0.0,BFA,2016
+145,BRA,Growing maize industry,ARM,2.1172522391502417e-05,BFA,2016
+146,BRA,Growing cereals n.e.c industry,ARM,3.0951952977635924e-06,BFA,2016
+147,BRA,Growing leguminous crops and oil seeds industry,ARM,6.100941183906408e-05,BFA,2016
+148,BRA,Growing rice industry,ARM,4.58262971674585e-09,BFA,2016
+149,BRA,"Growing vegetables, roots, tubers industry",ARM,7.85108476606376e-09,BFA,2016
+150,BRA,Growing sugar beet and cane industry,ARM,8.553558551103531e-07,BFA,2016
+151,BRA,Growing tobacco industry,ARM,4.031722263076431e-08,BFA,2016
+152,BRA,Growing fibre crops industry,ARM,0.0,BFA,2016
+153,BRA,Growing crops n.e.c. industry,ARM,6.869909797004437e-07,BFA,2016
+154,BRA,Growing grapes industry,ARM,0.0,BFA,2016
+155,BRA,Growing fruits and nuts industry,ARM,0.0,BFA,2016
+156,BRA,"Growing beverage crops (coffee, tea etc) industry",ARM,5.832541614500731e-08,BFA,2016
+157,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,8.382988531611749e-09,BFA,2016
+158,BRA,Seeds and plant propagation industry,ARM,0.0,BFA,2016
+159,BRA,Raising of cattle industry,ARM,5.000957780723938e-06,BFA,2016
+160,BRA,Growing wheat industry,AUS,0.0,BFA,2016
+161,BRA,Growing maize industry,AUS,0.0017946914919366272,BFA,2016
+162,BRA,Growing cereals n.e.c industry,AUS,0.0003190272125367124,BFA,2016
+163,BRA,Growing leguminous crops and oil seeds industry,AUS,0.003975368578418893,BFA,2016
+164,BRA,Growing rice industry,AUS,3.3349711946390776e-07,BFA,2016
+165,BRA,"Growing vegetables, roots, tubers industry",AUS,6.967819526548701e-07,BFA,2016
+166,BRA,Growing sugar beet and cane industry,AUS,7.119505514549853e-05,BFA,2016
+167,BRA,Growing tobacco industry,AUS,4.454959407917721e-06,BFA,2016
+168,BRA,Growing fibre crops industry,AUS,0.0,BFA,2016
+169,BRA,Growing crops n.e.c. industry,AUS,7.853829880130735e-05,BFA,2016
+170,BRA,Growing grapes industry,AUS,0.0,BFA,2016
+171,BRA,Growing fruits and nuts industry,AUS,0.0,BFA,2016
+172,BRA,"Growing beverage crops (coffee, tea etc) industry",AUS,4.0451879162537216e-06,BFA,2016
+173,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,6.572964005846491e-07,BFA,2016
+174,BRA,Seeds and plant propagation industry,AUS,0.0,BFA,2016
+175,BRA,Raising of cattle industry,AUS,0.0004187190133717444,BFA,2016
+176,BRA,Growing wheat industry,AUT,0.0,BFA,2016
+177,BRA,Growing maize industry,AUT,0.0008260558762192964,BFA,2016
+178,BRA,Growing cereals n.e.c industry,AUT,0.0001792177192782371,BFA,2016
+179,BRA,Growing leguminous crops and oil seeds industry,AUT,0.0020020351901409907,BFA,2016
+180,BRA,Growing rice industry,AUT,1.2306137715607094e-07,BFA,2016
+181,BRA,"Growing vegetables, roots, tubers industry",AUT,2.3976456635653334e-07,BFA,2016
+182,BRA,Growing sugar beet and cane industry,AUT,3.8610822566671045e-05,BFA,2016
+183,BRA,Growing tobacco industry,AUT,1.451471121657104e-06,BFA,2016
+184,BRA,Growing fibre crops industry,AUT,0.0,BFA,2016
+185,BRA,Growing crops n.e.c. industry,AUT,4.491833161420534e-05,BFA,2016
+186,BRA,Growing grapes industry,AUT,0.0,BFA,2016
+187,BRA,Growing fruits and nuts industry,AUT,0.0,BFA,2016
+188,BRA,"Growing beverage crops (coffee, tea etc) industry",AUT,1.8251828538204322e-06,BFA,2016
+189,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,3.115165103023453e-07,BFA,2016
+190,BRA,Seeds and plant propagation industry,AUT,0.0,BFA,2016
+191,BRA,Raising of cattle industry,AUT,0.00020569365139656373,BFA,2016
+192,BRA,Growing wheat industry,AZE,0.0,BFA,2016
+193,BRA,Growing maize industry,AZE,4.034220086766547e-05,BFA,2016
+194,BRA,Growing cereals n.e.c industry,AZE,6.663263559250366e-06,BFA,2016
+195,BRA,Growing leguminous crops and oil seeds industry,AZE,0.00011056918566232946,BFA,2016
+196,BRA,Growing rice industry,AZE,7.198723324998451e-09,BFA,2016
+197,BRA,"Growing vegetables, roots, tubers industry",AZE,1.443797453001153e-08,BFA,2016
+198,BRA,Growing sugar beet and cane industry,AZE,1.8302664561737213e-06,BFA,2016
+199,BRA,Growing tobacco industry,AZE,1.1241283421379234e-07,BFA,2016
+200,BRA,Growing fibre crops industry,AZE,0.0,BFA,2016
+201,BRA,Growing crops n.e.c. industry,AZE,1.4671524697078745e-06,BFA,2016
+202,BRA,Growing grapes industry,AZE,0.0,BFA,2016
+203,BRA,Growing fruits and nuts industry,AZE,0.0,BFA,2016
+204,BRA,"Growing beverage crops (coffee, tea etc) industry",AZE,1.3210632273201573e-07,BFA,2016
+205,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,2.382474820341787e-08,BFA,2016
+206,BRA,Seeds and plant propagation industry,AZE,0.0,BFA,2016
+207,BRA,Raising of cattle industry,AZE,1.0142086004062213e-05,BFA,2016
+208,BRA,Growing wheat industry,BDI,0.0,BFA,2016
+209,BRA,Growing maize industry,BDI,7.004748024592671e-06,BFA,2016
+210,BRA,Growing cereals n.e.c industry,BDI,1.4412929979256698e-06,BFA,2016
+211,BRA,Growing leguminous crops and oil seeds industry,BDI,1.5818879212061605e-05,BFA,2016
+212,BRA,Growing rice industry,BDI,9.788628841708954e-10,BFA,2016
+213,BRA,"Growing vegetables, roots, tubers industry",BDI,1.9768439100851767e-09,BFA,2016
+214,BRA,Growing sugar beet and cane industry,BDI,3.2586922053476464e-07,BFA,2016
+215,BRA,Growing tobacco industry,BDI,8.691996177586276e-09,BFA,2016
+216,BRA,Growing fibre crops industry,BDI,0.0,BFA,2016
+217,BRA,Growing crops n.e.c. industry,BDI,3.7816190424432794e-07,BFA,2016
+218,BRA,Growing grapes industry,BDI,0.0,BFA,2016
+219,BRA,Growing fruits and nuts industry,BDI,0.0,BFA,2016
+220,BRA,"Growing beverage crops (coffee, tea etc) industry",BDI,1.552779944693849e-08,BFA,2016
+221,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,2.547389414987031e-09,BFA,2016
+222,BRA,Seeds and plant propagation industry,BDI,0.0,BFA,2016
+223,BRA,Raising of cattle industry,BDI,1.5916368840426444e-06,BFA,2016
+224,BRA,Growing wheat industry,BEL,0.0,BFA,2016
+225,BRA,Growing maize industry,BEL,0.0015779148926779727,BFA,2016
+226,BRA,Growing cereals n.e.c industry,BEL,0.00034130324389879796,BFA,2016
+227,BRA,Growing leguminous crops and oil seeds industry,BEL,0.0034091116741496045,BFA,2016
+228,BRA,Growing rice industry,BEL,2.456182670799077e-07,BFA,2016
+229,BRA,"Growing vegetables, roots, tubers industry",BEL,4.7393439707843083e-07,BFA,2016
+230,BRA,Growing sugar beet and cane industry,BEL,7.360208118859799e-05,BFA,2016
+231,BRA,Growing tobacco industry,BEL,3.585404465172147e-06,BFA,2016
+232,BRA,Growing fibre crops industry,BEL,0.0,BFA,2016
+233,BRA,Growing crops n.e.c. industry,BEL,8.92363231075634e-05,BFA,2016
+234,BRA,Growing grapes industry,BEL,0.0,BFA,2016
+235,BRA,Growing fruits and nuts industry,BEL,0.0,BFA,2016
+236,BRA,"Growing beverage crops (coffee, tea etc) industry",BEL,3.384826018577669e-06,BFA,2016
+237,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,5.15371835349642e-07,BFA,2016
+238,BRA,Seeds and plant propagation industry,BEL,0.0,BFA,2016
+239,BRA,Raising of cattle industry,BEL,0.00038184713390144494,BFA,2016
+240,BRA,Growing wheat industry,BEN,0.0,BFA,2016
+241,BRA,Growing maize industry,BEN,0.0020661645003494616,BFA,2016
+242,BRA,Growing cereals n.e.c industry,BEN,0.0001184477796815517,BFA,2016
+243,BRA,Growing leguminous crops and oil seeds industry,BEN,0.0026622905368741076,BFA,2016
+244,BRA,Growing rice industry,BEN,1.725184241989492e-07,BFA,2016
+245,BRA,"Growing vegetables, roots, tubers industry",BEN,2.903308974449871e-07,BFA,2016
+246,BRA,Growing sugar beet and cane industry,BEN,4.681082441105386e-05,BFA,2016
+247,BRA,Growing tobacco industry,BEN,2.7671796116307835e-06,BFA,2016
+248,BRA,Growing fibre crops industry,BEN,0.0,BFA,2016
+249,BRA,Growing crops n.e.c. industry,BEN,2.3682317669064503e-05,BFA,2016
+250,BRA,Growing grapes industry,BEN,0.0,BFA,2016
+251,BRA,Growing fruits and nuts industry,BEN,0.0,BFA,2016
+252,BRA,"Growing beverage crops (coffee, tea etc) industry",BEN,2.2385055731647564e-06,BFA,2016
+253,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,2.477925738982984e-07,BFA,2016
+254,BRA,Seeds and plant propagation industry,BEN,0.0,BFA,2016
+255,BRA,Raising of cattle industry,BEN,0.0004714206200422704,BFA,2016
+256,BRA,Growing wheat industry,BFA,0.0,BFA,2016
+257,BRA,Growing maize industry,BFA,0.0,BFA,2016
+258,BRA,Growing cereals n.e.c industry,BFA,0.0,BFA,2016
+259,BRA,Growing leguminous crops and oil seeds industry,BFA,0.0,BFA,2016
+260,BRA,Growing rice industry,BFA,0.0,BFA,2016
+261,BRA,"Growing vegetables, roots, tubers industry",BFA,0.0,BFA,2016
+262,BRA,Growing sugar beet and cane industry,BFA,0.0,BFA,2016
+263,BRA,Growing tobacco industry,BFA,0.0,BFA,2016
+264,BRA,Growing fibre crops industry,BFA,0.0,BFA,2016
+265,BRA,Growing crops n.e.c. industry,BFA,0.0,BFA,2016
+266,BRA,Growing grapes industry,BFA,0.0,BFA,2016
+267,BRA,Growing fruits and nuts industry,BFA,0.0,BFA,2016
+268,BRA,"Growing beverage crops (coffee, tea etc) industry",BFA,0.0,BFA,2016
+269,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,0.0,BFA,2016
+270,BRA,Seeds and plant propagation industry,BFA,0.0,BFA,2016
+271,BRA,Raising of cattle industry,BFA,0.0,BFA,2016
+272,BRA,Growing wheat industry,BGD,0.0,BFA,2016
+273,BRA,Growing maize industry,BGD,0.0005973507263925271,BFA,2016
+274,BRA,Growing cereals n.e.c industry,BGD,0.00013850144276580297,BFA,2016
+275,BRA,Growing leguminous crops and oil seeds industry,BGD,0.001127837177639039,BFA,2016
+276,BRA,Growing rice industry,BGD,7.22134969021986e-08,BFA,2016
+277,BRA,"Growing vegetables, roots, tubers industry",BGD,1.3625023751366874e-07,BFA,2016
+278,BRA,Growing sugar beet and cane industry,BGD,2.8283272670349675e-05,BFA,2016
+279,BRA,Growing tobacco industry,BGD,5.671943310249732e-07,BFA,2016
+280,BRA,Growing fibre crops industry,BGD,0.0,BFA,2016
+281,BRA,Growing crops n.e.c. industry,BGD,3.9361710791506326e-05,BFA,2016
+282,BRA,Growing grapes industry,BGD,0.0,BFA,2016
+283,BRA,Growing fruits and nuts industry,BGD,0.0,BFA,2016
+284,BRA,"Growing beverage crops (coffee, tea etc) industry",BGD,1.0061463734056203e-06,BFA,2016
+285,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,1.6483320257176351e-07,BFA,2016
+286,BRA,Seeds and plant propagation industry,BGD,0.0,BFA,2016
+287,BRA,Raising of cattle industry,BGD,0.00012960484031952505,BFA,2016
+288,BRA,Growing wheat industry,BGR,0.0,BFA,2016
+289,BRA,Growing maize industry,BGR,8.710808003827744e-05,BFA,2016
+290,BRA,Growing cereals n.e.c industry,BGR,1.4251126433297718e-05,BFA,2016
+291,BRA,Growing leguminous crops and oil seeds industry,BGR,0.00024462856830251127,BFA,2016
+292,BRA,Growing rice industry,BGR,1.7473121528252725e-08,BFA,2016
+293,BRA,"Growing vegetables, roots, tubers industry",BGR,3.324420980257866e-08,BFA,2016
+294,BRA,Growing sugar beet and cane industry,BGR,3.628219953554859e-06,BFA,2016
+295,BRA,Growing tobacco industry,BGR,2.0069683780341631e-07,BFA,2016
+296,BRA,Growing fibre crops industry,BGR,0.0,BFA,2016
+297,BRA,Growing crops n.e.c. industry,BGR,3.1302258822273824e-06,BFA,2016
+298,BRA,Growing grapes industry,BGR,0.0,BFA,2016
+299,BRA,Growing fruits and nuts industry,BGR,0.0,BFA,2016
+300,BRA,"Growing beverage crops (coffee, tea etc) industry",BGR,2.492978130205684e-07,BFA,2016
+301,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,1.0138131901915562e-07,BFA,2016
+302,BRA,Seeds and plant propagation industry,BGR,0.0,BFA,2016
+303,BRA,Raising of cattle industry,BGR,2.1578445259240976e-05,BFA,2016
+304,BRA,Growing wheat industry,BHR,0.0,BFA,2016
+305,BRA,Growing maize industry,BHR,0.00011009563497242719,BFA,2016
+306,BRA,Growing cereals n.e.c industry,BHR,2.5023273380362006e-05,BFA,2016
+307,BRA,Growing leguminous crops and oil seeds industry,BHR,0.0002306143220839512,BFA,2016
+308,BRA,Growing rice industry,BHR,1.4623928371101391e-08,BFA,2016
+309,BRA,"Growing vegetables, roots, tubers industry",BHR,2.5951379880053382e-08,BFA,2016
+310,BRA,Growing sugar beet and cane industry,BHR,5.238728273625696e-06,BFA,2016
+311,BRA,Growing tobacco industry,BHR,1.2670844401222464e-07,BFA,2016
+312,BRA,Growing fibre crops industry,BHR,0.0,BFA,2016
+313,BRA,Growing crops n.e.c. industry,BHR,6.977687446314513e-06,BFA,2016
+314,BRA,Growing grapes industry,BHR,0.0,BFA,2016
+315,BRA,Growing fruits and nuts industry,BHR,0.0,BFA,2016
+316,BRA,"Growing beverage crops (coffee, tea etc) industry",BHR,1.995136173031998e-07,BFA,2016
+317,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,3.6053334327248584e-08,BFA,2016
+318,BRA,Seeds and plant propagation industry,BHR,0.0,BFA,2016
+319,BRA,Raising of cattle industry,BHR,2.4992354797925096e-05,BFA,2016
+320,BRA,Growing wheat industry,BHS,0.0,BFA,2016
+321,BRA,Growing maize industry,BHS,1.3376056097520824e-05,BFA,2016
+322,BRA,Growing cereals n.e.c industry,BHS,1.673822601356028e-06,BFA,2016
+323,BRA,Growing leguminous crops and oil seeds industry,BHS,4.080684385813047e-05,BFA,2016
+324,BRA,Growing rice industry,BHS,3.2757558965536858e-09,BFA,2016
+325,BRA,"Growing vegetables, roots, tubers industry",BHS,5.4932368312123636e-09,BFA,2016
+326,BRA,Growing sugar beet and cane industry,BHS,5.122526799653382e-07,BFA,2016
+327,BRA,Growing tobacco industry,BHS,2.6947725597491525e-08,BFA,2016
+328,BRA,Growing fibre crops industry,BHS,0.0,BFA,2016
+329,BRA,Growing crops n.e.c. industry,BHS,3.108802116181147e-07,BFA,2016
+330,BRA,Growing grapes industry,BHS,0.0,BFA,2016
+331,BRA,Growing fruits and nuts industry,BHS,0.0,BFA,2016
+332,BRA,"Growing beverage crops (coffee, tea etc) industry",BHS,3.778607149836555e-08,BFA,2016
+333,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,5.2433928916445714e-09,BFA,2016
+334,BRA,Seeds and plant propagation industry,BHS,0.0,BFA,2016
+335,BRA,Raising of cattle industry,BHS,3.1507369034623376e-06,BFA,2016
+336,BRA,Growing wheat industry,BIH,0.0,BFA,2016
+337,BRA,Growing maize industry,BIH,2.6379498663947313e-05,BFA,2016
+338,BRA,Growing cereals n.e.c industry,BIH,4.809179997684775e-06,BFA,2016
+339,BRA,Growing leguminous crops and oil seeds industry,BIH,6.907401074788992e-05,BFA,2016
+340,BRA,Growing rice industry,BIH,4.8537275068020145e-09,BFA,2016
+341,BRA,"Growing vegetables, roots, tubers industry",BIH,8.920755184604232e-09,BFA,2016
+342,BRA,Growing sugar beet and cane industry,BIH,1.1373524266626202e-06,BFA,2016
+343,BRA,Growing tobacco industry,BIH,5.020144680238032e-08,BFA,2016
+344,BRA,Growing fibre crops industry,BIH,0.0,BFA,2016
+345,BRA,Growing crops n.e.c. industry,BIH,1.1722868177257174e-06,BFA,2016
+346,BRA,Growing grapes industry,BIH,0.0,BFA,2016
+347,BRA,Growing fruits and nuts industry,BIH,0.0,BFA,2016
+348,BRA,"Growing beverage crops (coffee, tea etc) industry",BIH,6.518570383969455e-08,BFA,2016
+349,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,1.0724445220378443e-08,BFA,2016
+350,BRA,Seeds and plant propagation industry,BIH,0.0,BFA,2016
+351,BRA,Raising of cattle industry,BIH,6.6084288563277575e-06,BFA,2016
+352,BRA,Growing wheat industry,BLR,0.0,BFA,2016
+353,BRA,Growing maize industry,BLR,0.00010634304297494865,BFA,2016
+354,BRA,Growing cereals n.e.c industry,BLR,2.5195840221014755e-05,BFA,2016
+355,BRA,Growing leguminous crops and oil seeds industry,BLR,0.00022797721294533376,BFA,2016
+356,BRA,Growing rice industry,BLR,1.630069352348447e-08,BFA,2016
+357,BRA,"Growing vegetables, roots, tubers industry",BLR,2.6691417844785016e-08,BFA,2016
+358,BRA,Growing sugar beet and cane industry,BLR,5.347683065718265e-06,BFA,2016
+359,BRA,Growing tobacco industry,BLR,1.9689906384546756e-07,BFA,2016
+360,BRA,Growing fibre crops industry,BLR,0.0,BFA,2016
+361,BRA,Growing crops n.e.c. industry,BLR,6.420661887177804e-06,BFA,2016
+362,BRA,Growing grapes industry,BLR,0.0,BFA,2016
+363,BRA,Growing fruits and nuts industry,BLR,0.0,BFA,2016
+364,BRA,"Growing beverage crops (coffee, tea etc) industry",BLR,2.2059621634189523e-07,BFA,2016
+365,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,3.8127167811565095e-08,BFA,2016
+366,BRA,Seeds and plant propagation industry,BLR,0.0,BFA,2016
+367,BRA,Raising of cattle industry,BLR,2.613566880416383e-05,BFA,2016
+368,BRA,Growing wheat industry,BLZ,0.0,BFA,2016
+369,BRA,Growing maize industry,BLZ,1.4427563950584e-06,BFA,2016
+370,BRA,Growing cereals n.e.c industry,BLZ,2.670912935893942e-07,BFA,2016
+371,BRA,Growing leguminous crops and oil seeds industry,BLZ,3.3859414503518772e-06,BFA,2016
+372,BRA,Growing rice industry,BLZ,2.5456847868372536e-10,BFA,2016
+373,BRA,"Growing vegetables, roots, tubers industry",BLZ,4.744223976745809e-10,BFA,2016
+374,BRA,Growing sugar beet and cane industry,BLZ,6.270421691114608e-08,BFA,2016
+375,BRA,Growing tobacco industry,BLZ,3.4995453593765837e-09,BFA,2016
+376,BRA,Growing fibre crops industry,BLZ,0.0,BFA,2016
+377,BRA,Growing crops n.e.c. industry,BLZ,6.590136801606197e-08,BFA,2016
+378,BRA,Growing grapes industry,BLZ,0.0,BFA,2016
+379,BRA,Growing fruits and nuts industry,BLZ,0.0,BFA,2016
+380,BRA,"Growing beverage crops (coffee, tea etc) industry",BLZ,3.5502638867746386e-09,BFA,2016
+381,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,5.393233468399295e-10,BFA,2016
+382,BRA,Seeds and plant propagation industry,BLZ,0.0,BFA,2016
+383,BRA,Raising of cattle industry,BLZ,4.0949442784102665e-07,BFA,2016
+384,BRA,Growing wheat industry,BOL,0.0,BFA,2016
+385,BRA,Growing maize industry,BOL,5.458943548943479e-05,BFA,2016
+386,BRA,Growing cereals n.e.c industry,BOL,1.2242088667926128e-05,BFA,2016
+387,BRA,Growing leguminous crops and oil seeds industry,BOL,0.00011047563028400693,BFA,2016
+388,BRA,Growing rice industry,BOL,7.673374745206965e-09,BFA,2016
+389,BRA,"Growing vegetables, roots, tubers industry",BOL,1.6449747725604174e-08,BFA,2016
+390,BRA,Growing sugar beet and cane industry,BOL,2.6992241295017985e-06,BFA,2016
+391,BRA,Growing tobacco industry,BOL,7.188001336904524e-08,BFA,2016
+392,BRA,Growing fibre crops industry,BOL,0.0,BFA,2016
+393,BRA,Growing crops n.e.c. industry,BOL,3.1021564023643713e-06,BFA,2016
+394,BRA,Growing grapes industry,BOL,0.0,BFA,2016
+395,BRA,Growing fruits and nuts industry,BOL,0.0,BFA,2016
+396,BRA,"Growing beverage crops (coffee, tea etc) industry",BOL,1.214280248379925e-07,BFA,2016
+397,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,1.7329646888277863e-08,BFA,2016
+398,BRA,Seeds and plant propagation industry,BOL,0.0,BFA,2016
+399,BRA,Raising of cattle industry,BOL,1.2865674086100545e-05,BFA,2016
+400,BRA,Growing wheat industry,BRA,0.0,BFA,2016
+401,BRA,Growing maize industry,BRA,0.0012263650051135544,BFA,2016
+402,BRA,Growing cereals n.e.c industry,BRA,0.0002539955156520016,BFA,2016
+403,BRA,Growing leguminous crops and oil seeds industry,BRA,0.002538588868870311,BFA,2016
+404,BRA,Growing rice industry,BRA,1.9744686642979667e-07,BFA,2016
+405,BRA,"Growing vegetables, roots, tubers industry",BRA,3.462925114330091e-07,BFA,2016
+406,BRA,Growing sugar beet and cane industry,BRA,5.452647961896893e-05,BFA,2016
+407,BRA,Growing tobacco industry,BRA,1.9881737260227234e-06,BFA,2016
+408,BRA,Growing fibre crops industry,BRA,0.0,BFA,2016
+409,BRA,Growing crops n.e.c. industry,BRA,6.942772993858628e-05,BFA,2016
+410,BRA,Growing grapes industry,BRA,0.0,BFA,2016
+411,BRA,Growing fruits and nuts industry,BRA,0.0,BFA,2016
+412,BRA,"Growing beverage crops (coffee, tea etc) industry",BRA,2.4225316114995967e-06,BFA,2016
+413,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,4.2914306104038847e-07,BFA,2016
+414,BRA,Seeds and plant propagation industry,BRA,0.0,BFA,2016
+415,BRA,Raising of cattle industry,BRA,0.00027201635268712406,BFA,2016
+416,BRA,Growing wheat industry,BRN,0.0,BFA,2016
+417,BRA,Growing maize industry,BRN,9.164950519034294e-05,BFA,2016
+418,BRA,Growing cereals n.e.c industry,BRN,2.2858539527022685e-05,BFA,2016
+419,BRA,Growing leguminous crops and oil seeds industry,BRN,0.0001924967383196652,BFA,2016
+420,BRA,Growing rice industry,BRN,1.1963491925373422e-08,BFA,2016
+421,BRA,"Growing vegetables, roots, tubers industry",BRN,1.9920399302787462e-08,BFA,2016
+422,BRA,Growing sugar beet and cane industry,BRN,4.584170734237835e-06,BFA,2016
+423,BRA,Growing tobacco industry,BRN,7.907464302443824e-08,BFA,2016
+424,BRA,Growing fibre crops industry,BRN,0.0,BFA,2016
+425,BRA,Growing crops n.e.c. industry,BRN,6.146217342798887e-06,BFA,2016
+426,BRA,Growing grapes industry,BRN,0.0,BFA,2016
+427,BRA,Growing fruits and nuts industry,BRN,0.0,BFA,2016
+428,BRA,"Growing beverage crops (coffee, tea etc) industry",BRN,1.492492376348057e-07,BFA,2016
+429,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,2.710405130523576e-08,BFA,2016
+430,BRA,Seeds and plant propagation industry,BRN,0.0,BFA,2016
+431,BRA,Raising of cattle industry,BRN,2.1901194714603286e-05,BFA,2016
+432,BRA,Growing wheat industry,BTN,0.0,BFA,2016
+433,BRA,Growing maize industry,BTN,9.640722481590234e-06,BFA,2016
+434,BRA,Growing cereals n.e.c industry,BTN,1.4765340040504237e-06,BFA,2016
+435,BRA,Growing leguminous crops and oil seeds industry,BTN,2.8530264884040723e-05,BFA,2016
+436,BRA,Growing rice industry,BTN,1.990843257426132e-09,BFA,2016
+437,BRA,"Growing vegetables, roots, tubers industry",BTN,3.282200946268525e-09,BFA,2016
+438,BRA,Growing sugar beet and cane industry,BTN,4.0278820438739795e-07,BFA,2016
+439,BRA,Growing tobacco industry,BTN,8.503303029543615e-09,BFA,2016
+440,BRA,Growing fibre crops industry,BTN,0.0,BFA,2016
+441,BRA,Growing crops n.e.c. industry,BTN,3.4076638038910036e-07,BFA,2016
+442,BRA,Growing grapes industry,BTN,0.0,BFA,2016
+443,BRA,Growing fruits and nuts industry,BTN,0.0,BFA,2016
+444,BRA,"Growing beverage crops (coffee, tea etc) industry",BTN,2.36203390437968e-08,BFA,2016
+445,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,3.402933294164971e-09,BFA,2016
+446,BRA,Seeds and plant propagation industry,BTN,0.0,BFA,2016
+447,BRA,Raising of cattle industry,BTN,2.2282877317323074e-06,BFA,2016
+448,BRA,Growing wheat industry,BWA,0.0,BFA,2016
+449,BRA,Growing maize industry,BWA,7.163224463460651e-05,BFA,2016
+450,BRA,Growing cereals n.e.c industry,BWA,6.74222319572504e-06,BFA,2016
+451,BRA,Growing leguminous crops and oil seeds industry,BWA,0.00023366388742014082,BFA,2016
+452,BRA,Growing rice industry,BWA,1.3035226193828468e-08,BFA,2016
+453,BRA,"Growing vegetables, roots, tubers industry",BWA,3.155559850704858e-08,BFA,2016
+454,BRA,Growing sugar beet and cane industry,BWA,2.8655130306188533e-06,BFA,2016
+455,BRA,Growing tobacco industry,BWA,1.670541830741308e-07,BFA,2016
+456,BRA,Growing fibre crops industry,BWA,0.0,BFA,2016
+457,BRA,Growing crops n.e.c. industry,BWA,9.231807815041735e-07,BFA,2016
+458,BRA,Growing grapes industry,BWA,0.0,BFA,2016
+459,BRA,Growing fruits and nuts industry,BWA,0.0,BFA,2016
+460,BRA,"Growing beverage crops (coffee, tea etc) industry",BWA,2.9688781449196845e-07,BFA,2016
+461,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,5.8656561377348654e-08,BFA,2016
+462,BRA,Seeds and plant propagation industry,BWA,0.0,BFA,2016
+463,BRA,Raising of cattle industry,BWA,1.7042414972063812e-05,BFA,2016
+464,BRA,Growing wheat industry,CAF,0.0,BFA,2016
+465,BRA,Growing maize industry,CAF,4.028808714196487e-06,BFA,2016
+466,BRA,Growing cereals n.e.c industry,CAF,4.533595421908504e-07,BFA,2016
+467,BRA,Growing leguminous crops and oil seeds industry,CAF,1.0965603172812807e-05,BFA,2016
+468,BRA,Growing rice industry,CAF,8.362613010217654e-10,BFA,2016
+469,BRA,"Growing vegetables, roots, tubers industry",CAF,1.8180006303400976e-09,BFA,2016
+470,BRA,Growing sugar beet and cane industry,CAF,1.348303849331213e-07,BFA,2016
+471,BRA,Growing tobacco industry,CAF,1.002991243565246e-08,BFA,2016
+472,BRA,Growing fibre crops industry,CAF,0.0,BFA,2016
+473,BRA,Growing crops n.e.c. industry,CAF,7.794905155242838e-08,BFA,2016
+474,BRA,Growing grapes industry,CAF,0.0,BFA,2016
+475,BRA,Growing fruits and nuts industry,CAF,0.0,BFA,2016
+476,BRA,"Growing beverage crops (coffee, tea etc) industry",CAF,1.3445067838463423e-08,BFA,2016
+477,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,1.8125118658993574e-09,BFA,2016
+478,BRA,Seeds and plant propagation industry,CAF,0.0,BFA,2016
+479,BRA,Raising of cattle industry,CAF,1.01342006343428e-06,BFA,2016
+480,BRA,Growing wheat industry,CAN,0.0,BFA,2016
+481,BRA,Growing maize industry,CAN,0.005317224858480864,BFA,2016
+482,BRA,Growing cereals n.e.c industry,CAN,0.0005397059288711587,BFA,2016
+483,BRA,Growing leguminous crops and oil seeds industry,CAN,0.014433151107280526,BFA,2016
+484,BRA,Growing rice industry,CAN,1.0712693550427234e-06,BFA,2016
+485,BRA,"Growing vegetables, roots, tubers industry",CAN,3.0034085626732686e-06,BFA,2016
+486,BRA,Growing sugar beet and cane industry,CAN,0.00016651868670734788,BFA,2016
+487,BRA,Growing tobacco industry,CAN,1.8549437837282883e-05,BFA,2016
+488,BRA,Growing fibre crops industry,CAN,0.0,BFA,2016
+489,BRA,Growing crops n.e.c. industry,CAN,9.419560780337206e-05,BFA,2016
+490,BRA,Growing grapes industry,CAN,0.0,BFA,2016
+491,BRA,Growing fruits and nuts industry,CAN,0.0,BFA,2016
+492,BRA,"Growing beverage crops (coffee, tea etc) industry",CAN,1.632018122497349e-05,BFA,2016
+493,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,3.032113415927617e-06,BFA,2016
+494,BRA,Seeds and plant propagation industry,CAN,0.0,BFA,2016
+495,BRA,Raising of cattle industry,CAN,0.0011790750176404804,BFA,2016
+496,BRA,Growing wheat industry,CHE,0.0,BFA,2016
+497,BRA,Growing maize industry,CHE,0.008491952866739826,BFA,2016
+498,BRA,Growing cereals n.e.c industry,CHE,0.0016729788550326568,BFA,2016
+499,BRA,Growing leguminous crops and oil seeds industry,CHE,0.021632892287179104,BFA,2016
+500,BRA,Growing rice industry,CHE,1.3928612432986168e-06,BFA,2016
+501,BRA,"Growing vegetables, roots, tubers industry",CHE,2.7552221966014967e-06,BFA,2016
+502,BRA,Growing sugar beet and cane industry,CHE,0.00035732777304859075,BFA,2016
+503,BRA,Growing tobacco industry,CHE,6.902212554781318e-06,BFA,2016
+504,BRA,Growing fibre crops industry,CHE,0.0,BFA,2016
+505,BRA,Growing crops n.e.c. industry,CHE,0.00044954685780288883,BFA,2016
+506,BRA,Growing grapes industry,CHE,0.0,BFA,2016
+507,BRA,Growing fruits and nuts industry,CHE,0.0,BFA,2016
+508,BRA,"Growing beverage crops (coffee, tea etc) industry",CHE,1.779843109658057e-05,BFA,2016
+509,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,3.4838551743445866e-06,BFA,2016
+510,BRA,Seeds and plant propagation industry,CHE,0.0,BFA,2016
+511,BRA,Raising of cattle industry,CHE,0.0021426825265219857,BFA,2016
+512,BRA,Growing wheat industry,CHL,0.0,BFA,2016
+513,BRA,Growing maize industry,CHL,0.00013843093450543418,BFA,2016
+514,BRA,Growing cereals n.e.c industry,CHL,2.2632128764211136e-05,BFA,2016
+515,BRA,Growing leguminous crops and oil seeds industry,CHL,0.0003261110427328702,BFA,2016
+516,BRA,Growing rice industry,CHL,3.4037647934735784e-08,BFA,2016
+517,BRA,"Growing vegetables, roots, tubers industry",CHL,5.246040778686368e-08,BFA,2016
+518,BRA,Growing sugar beet and cane industry,CHL,5.432616836563106e-06,BFA,2016
+519,BRA,Growing tobacco industry,CHL,3.410331796248309e-07,BFA,2016
+520,BRA,Growing fibre crops industry,CHL,0.0,BFA,2016
+521,BRA,Growing crops n.e.c. industry,CHL,5.430186478291594e-06,BFA,2016
+522,BRA,Growing grapes industry,CHL,0.0,BFA,2016
+523,BRA,Growing fruits and nuts industry,CHL,0.0,BFA,2016
+524,BRA,"Growing beverage crops (coffee, tea etc) industry",CHL,3.564508652951453e-07,BFA,2016
+525,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,6.941541723985893e-08,BFA,2016
+526,BRA,Seeds and plant propagation industry,CHL,0.0,BFA,2016
+527,BRA,Raising of cattle industry,CHL,3.00763543896374e-05,BFA,2016
+528,BRA,Growing wheat industry,CHN,0.0,BFA,2016
+529,BRA,Growing maize industry,CHN,0.019360871871605824,BFA,2016
+530,BRA,Growing cereals n.e.c industry,CHN,0.0032396872267792453,BFA,2016
+531,BRA,Growing leguminous crops and oil seeds industry,CHN,0.04053094662480956,BFA,2016
+532,BRA,Growing rice industry,CHN,5.813524758361806e-06,BFA,2016
+533,BRA,"Growing vegetables, roots, tubers industry",CHN,7.2208186422000345e-06,BFA,2016
+534,BRA,Growing sugar beet and cane industry,CHN,0.0007450132012082043,BFA,2016
+535,BRA,Growing tobacco industry,CHN,4.814393004876427e-05,BFA,2016
+536,BRA,Growing fibre crops industry,CHN,0.0,BFA,2016
+537,BRA,Growing crops n.e.c. industry,CHN,0.0008123962846193548,BFA,2016
+538,BRA,Growing grapes industry,CHN,0.0,BFA,2016
+539,BRA,Growing fruits and nuts industry,CHN,0.0,BFA,2016
+540,BRA,"Growing beverage crops (coffee, tea etc) industry",CHN,4.4259475725674604e-05,BFA,2016
+541,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,1.0422183609896756e-05,BFA,2016
+542,BRA,Seeds and plant propagation industry,CHN,0.0,BFA,2016
+543,BRA,Raising of cattle industry,CHN,0.003846736134770364,BFA,2016
+544,BRA,Growing wheat industry,CIV,0.0,BFA,2016
+545,BRA,Growing maize industry,CIV,0.010383903782266557,BFA,2016
+546,BRA,Growing cereals n.e.c industry,CIV,0.0008669289435295104,BFA,2016
+547,BRA,Growing leguminous crops and oil seeds industry,CIV,0.026081646879695858,BFA,2016
+548,BRA,Growing rice industry,CIV,2.2118908605785365e-06,BFA,2016
+549,BRA,"Growing vegetables, roots, tubers industry",CIV,4.552733663409195e-06,BFA,2016
+550,BRA,Growing sugar beet and cane industry,CIV,0.0003293117669803861,BFA,2016
+551,BRA,Growing tobacco industry,CIV,3.426749092082452e-05,BFA,2016
+552,BRA,Growing fibre crops industry,CIV,0.0,BFA,2016
+553,BRA,Growing crops n.e.c. industry,CIV,9.061034870857311e-05,BFA,2016
+554,BRA,Growing grapes industry,CIV,0.0,BFA,2016
+555,BRA,Growing fruits and nuts industry,CIV,0.0,BFA,2016
+556,BRA,"Growing beverage crops (coffee, tea etc) industry",CIV,3.373040653684067e-05,BFA,2016
+557,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,4.146627575700712e-06,BFA,2016
+558,BRA,Seeds and plant propagation industry,CIV,0.0,BFA,2016
+559,BRA,Raising of cattle industry,CIV,0.0034602923816215592,BFA,2016
+560,BRA,Growing wheat industry,CMR,0.0,BFA,2016
+561,BRA,Growing maize industry,CMR,0.00015150009644944521,BFA,2016
+562,BRA,Growing cereals n.e.c industry,CMR,1.9523271970533614e-05,BFA,2016
+563,BRA,Growing leguminous crops and oil seeds industry,CMR,0.0003572804938865672,BFA,2016
+564,BRA,Growing rice industry,CMR,3.11540553937909e-08,BFA,2016
+565,BRA,"Growing vegetables, roots, tubers industry",CMR,6.484199174560377e-08,BFA,2016
+566,BRA,Growing sugar beet and cane industry,CMR,5.680711874292649e-06,BFA,2016
+567,BRA,Growing tobacco industry,CMR,4.4826919754209127e-07,BFA,2016
+568,BRA,Growing fibre crops industry,CMR,0.0,BFA,2016
+569,BRA,Growing crops n.e.c. industry,CMR,3.599359854479873e-06,BFA,2016
+570,BRA,Growing grapes industry,CMR,0.0,BFA,2016
+571,BRA,Growing fruits and nuts industry,CMR,0.0,BFA,2016
+572,BRA,"Growing beverage crops (coffee, tea etc) industry",CMR,5.173470522370285e-07,BFA,2016
+573,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,7.38435613049148e-08,BFA,2016
+574,BRA,Seeds and plant propagation industry,CMR,0.0,BFA,2016
+575,BRA,Raising of cattle industry,CMR,3.266328942383077e-05,BFA,2016
+576,BRA,Growing wheat industry,COD,0.0,BFA,2016
+577,BRA,Growing maize industry,COD,0.0001849541720689729,BFA,2016
+578,BRA,Growing cereals n.e.c industry,COD,1.9423916662273366e-05,BFA,2016
+579,BRA,Growing leguminous crops and oil seeds industry,COD,0.0006277825222565017,BFA,2016
+580,BRA,Growing rice industry,COD,4.361053259156929e-08,BFA,2016
+581,BRA,"Growing vegetables, roots, tubers industry",COD,9.459581882749769e-08,BFA,2016
+582,BRA,Growing sugar beet and cane industry,COD,6.270163947537515e-06,BFA,2016
+583,BRA,Growing tobacco industry,COD,3.214930589951019e-07,BFA,2016
+584,BRA,Growing fibre crops industry,COD,0.0,BFA,2016
+585,BRA,Growing crops n.e.c. industry,COD,3.0248065347749687e-06,BFA,2016
+586,BRA,Growing grapes industry,COD,0.0,BFA,2016
+587,BRA,Growing fruits and nuts industry,COD,0.0,BFA,2016
+588,BRA,"Growing beverage crops (coffee, tea etc) industry",COD,6.568068287691728e-07,BFA,2016
+589,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,1.2714676850470755e-07,BFA,2016
+590,BRA,Seeds and plant propagation industry,COD,0.0,BFA,2016
+591,BRA,Raising of cattle industry,COD,5.203442243284222e-05,BFA,2016
+592,BRA,Growing wheat industry,COG,0.0,BFA,2016
+593,BRA,Growing maize industry,COG,7.844504644883569e-05,BFA,2016
+594,BRA,Growing cereals n.e.c industry,COG,8.651809790015667e-06,BFA,2016
+595,BRA,Growing leguminous crops and oil seeds industry,COG,0.00019543285509079306,BFA,2016
+596,BRA,Growing rice industry,COG,1.4840858882563238e-08,BFA,2016
+597,BRA,"Growing vegetables, roots, tubers industry",COG,3.362550341087645e-08,BFA,2016
+598,BRA,Growing sugar beet and cane industry,COG,2.7995290057034364e-06,BFA,2016
+599,BRA,Growing tobacco industry,COG,2.196500843272853e-07,BFA,2016
+600,BRA,Growing fibre crops industry,COG,0.0,BFA,2016
+601,BRA,Growing crops n.e.c. industry,COG,1.5486868862833507e-06,BFA,2016
+602,BRA,Growing grapes industry,COG,0.0,BFA,2016
+603,BRA,Growing fruits and nuts industry,COG,0.0,BFA,2016
+604,BRA,"Growing beverage crops (coffee, tea etc) industry",COG,2.6679881928042655e-07,BFA,2016
+605,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,3.5025391677091946e-08,BFA,2016
+606,BRA,Seeds and plant propagation industry,COG,0.0,BFA,2016
+607,BRA,Raising of cattle industry,COG,1.9326841078601335e-05,BFA,2016
+608,BRA,Growing wheat industry,COL,0.0,BFA,2016
+609,BRA,Growing maize industry,COL,0.000258344511015799,BFA,2016
+610,BRA,Growing cereals n.e.c industry,COL,4.666891217767053e-05,BFA,2016
+611,BRA,Growing leguminous crops and oil seeds industry,COL,0.0005894716092706136,BFA,2016
+612,BRA,Growing rice industry,COL,4.824525286272744e-08,BFA,2016
+613,BRA,"Growing vegetables, roots, tubers industry",COL,9.209708982150636e-08,BFA,2016
+614,BRA,Growing sugar beet and cane industry,COL,1.0453546106330194e-05,BFA,2016
+615,BRA,Growing tobacco industry,COL,5.991066331316412e-07,BFA,2016
+616,BRA,Growing fibre crops industry,COL,0.0,BFA,2016
+617,BRA,Growing crops n.e.c. industry,COL,1.204752115482558e-05,BFA,2016
+618,BRA,Growing grapes industry,COL,0.0,BFA,2016
+619,BRA,Growing fruits and nuts industry,COL,0.0,BFA,2016
+620,BRA,"Growing beverage crops (coffee, tea etc) industry",COL,5.872244565883077e-07,BFA,2016
+621,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,9.495687697496221e-08,BFA,2016
+622,BRA,Seeds and plant propagation industry,COL,0.0,BFA,2016
+623,BRA,Raising of cattle industry,COL,5.4504027856588244e-05,BFA,2016
+624,BRA,Growing wheat industry,CRI,0.0,BFA,2016
+625,BRA,Growing maize industry,CRI,1.7803273941223996e-05,BFA,2016
+626,BRA,Growing cereals n.e.c industry,CRI,2.8955022684423336e-06,BFA,2016
+627,BRA,Growing leguminous crops and oil seeds industry,CRI,4.2435141804996086e-05,BFA,2016
+628,BRA,Growing rice industry,CRI,3.943164442317919e-09,BFA,2016
+629,BRA,"Growing vegetables, roots, tubers industry",CRI,6.98231227180153e-09,BFA,2016
+630,BRA,Growing sugar beet and cane industry,CRI,7.060828077882499e-07,BFA,2016
+631,BRA,Growing tobacco industry,CRI,5.05386534459867e-08,BFA,2016
+632,BRA,Growing fibre crops industry,CRI,0.0,BFA,2016
+633,BRA,Growing crops n.e.c. industry,CRI,6.793241782805857e-07,BFA,2016
+634,BRA,Growing grapes industry,CRI,0.0,BFA,2016
+635,BRA,Growing fruits and nuts industry,CRI,0.0,BFA,2016
+636,BRA,"Growing beverage crops (coffee, tea etc) industry",CRI,4.75094214588178e-08,BFA,2016
+637,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,8.405635033840578e-09,BFA,2016
+638,BRA,Seeds and plant propagation industry,CRI,0.0,BFA,2016
+639,BRA,Raising of cattle industry,CRI,4.0147700510627134e-06,BFA,2016
+640,BRA,Growing wheat industry,CUB,0.0,BFA,2016
+641,BRA,Growing maize industry,CUB,3.963327374824766e-05,BFA,2016
+642,BRA,Growing cereals n.e.c industry,CUB,8.249956023008818e-06,BFA,2016
+643,BRA,Growing leguminous crops and oil seeds industry,CUB,8.852942051883379e-05,BFA,2016
+644,BRA,Growing rice industry,CUB,6.8514993451825026e-09,BFA,2016
+645,BRA,"Growing vegetables, roots, tubers industry",CUB,1.1825989798378636e-08,BFA,2016
+646,BRA,Growing sugar beet and cane industry,CUB,1.8282484790948788e-06,BFA,2016
+647,BRA,Growing tobacco industry,CUB,8.085576935295577e-08,BFA,2016
+648,BRA,Growing fibre crops industry,CUB,0.0,BFA,2016
+649,BRA,Growing crops n.e.c. industry,CUB,1.967079345688333e-06,BFA,2016
+650,BRA,Growing grapes industry,CUB,0.0,BFA,2016
+651,BRA,Growing fruits and nuts industry,CUB,0.0,BFA,2016
+652,BRA,"Growing beverage crops (coffee, tea etc) industry",CUB,8.846664840618438e-08,BFA,2016
+653,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,1.4770016297164527e-08,BFA,2016
+654,BRA,Seeds and plant propagation industry,CUB,0.0,BFA,2016
+655,BRA,Raising of cattle industry,CUB,1.0773013067384551e-05,BFA,2016
+656,BRA,Growing wheat industry,CYP,0.0,BFA,2016
+657,BRA,Growing maize industry,CYP,5.225969012933884e-05,BFA,2016
+658,BRA,Growing cereals n.e.c industry,CYP,9.360306401596686e-06,BFA,2016
+659,BRA,Growing leguminous crops and oil seeds industry,CYP,0.00013914122608075634,BFA,2016
+660,BRA,Growing rice industry,CYP,9.785975142287631e-09,BFA,2016
+661,BRA,"Growing vegetables, roots, tubers industry",CYP,1.6559153023626242e-08,BFA,2016
+662,BRA,Growing sugar beet and cane industry,CYP,2.2676914614221055e-06,BFA,2016
+663,BRA,Growing tobacco industry,CYP,7.743534677863477e-08,BFA,2016
+664,BRA,Growing fibre crops industry,CYP,0.0,BFA,2016
+665,BRA,Growing crops n.e.c. industry,CYP,2.3051685268563147e-06,BFA,2016
+666,BRA,Growing grapes industry,CYP,0.0,BFA,2016
+667,BRA,Growing fruits and nuts industry,CYP,0.0,BFA,2016
+668,BRA,"Growing beverage crops (coffee, tea etc) industry",CYP,1.2228639539599681e-07,BFA,2016
+669,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,1.8279881037604746e-08,BFA,2016
+670,BRA,Seeds and plant propagation industry,CYP,0.0,BFA,2016
+671,BRA,Raising of cattle industry,CYP,1.244924825952646e-05,BFA,2016
+672,BRA,Growing wheat industry,CZE,0.0,BFA,2016
+673,BRA,Growing maize industry,CZE,0.0002628978898454608,BFA,2016
+674,BRA,Growing cereals n.e.c industry,CZE,4.91666974201776e-05,BFA,2016
+675,BRA,Growing leguminous crops and oil seeds industry,CZE,0.000601291443606592,BFA,2016
+676,BRA,Growing rice industry,CZE,4.7532881816567844e-08,BFA,2016
+677,BRA,"Growing vegetables, roots, tubers industry",CZE,8.604942059530644e-08,BFA,2016
+678,BRA,Growing sugar beet and cane industry,CZE,1.1425797961232818e-05,BFA,2016
+679,BRA,Growing tobacco industry,CZE,5.472263555582107e-07,BFA,2016
+680,BRA,Growing fibre crops industry,CZE,0.0,BFA,2016
+681,BRA,Growing crops n.e.c. industry,CZE,1.2173727163689644e-05,BFA,2016
+682,BRA,Growing grapes industry,CZE,0.0,BFA,2016
+683,BRA,Growing fruits and nuts industry,CZE,0.0,BFA,2016
+684,BRA,"Growing beverage crops (coffee, tea etc) industry",CZE,6.3870065656977e-07,BFA,2016
+685,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,1.1143800693196299e-07,BFA,2016
+686,BRA,Seeds and plant propagation industry,CZE,0.0,BFA,2016
+687,BRA,Raising of cattle industry,CZE,6.086551424709249e-05,BFA,2016
+688,BRA,Growing wheat industry,DEU,0.0,BFA,2016
+689,BRA,Growing maize industry,DEU,0.006548565897365084,BFA,2016
+690,BRA,Growing cereals n.e.c industry,DEU,0.0011667225932099577,BFA,2016
+691,BRA,Growing leguminous crops and oil seeds industry,DEU,0.017394050892033573,BFA,2016
+692,BRA,Growing rice industry,DEU,1.2123386078163091e-06,BFA,2016
+693,BRA,"Growing vegetables, roots, tubers industry",DEU,2.3453410786153232e-06,BFA,2016
+694,BRA,Growing sugar beet and cane industry,DEU,0.00028104139443787,BFA,2016
+695,BRA,Growing tobacco industry,DEU,1.044896314173194e-05,BFA,2016
+696,BRA,Growing fibre crops industry,DEU,0.0,BFA,2016
+697,BRA,Growing crops n.e.c. industry,DEU,0.00027783156623228483,BFA,2016
+698,BRA,Growing grapes industry,DEU,0.0,BFA,2016
+699,BRA,Growing fruits and nuts industry,DEU,0.0,BFA,2016
+700,BRA,"Growing beverage crops (coffee, tea etc) industry",DEU,1.5884003164098133e-05,BFA,2016
+701,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,2.585881854225732e-06,BFA,2016
+702,BRA,Seeds and plant propagation industry,DEU,0.0,BFA,2016
+703,BRA,Raising of cattle industry,DEU,0.0016061634022306022,BFA,2016
+704,BRA,Growing wheat industry,DJI,0.0,BFA,2016
+705,BRA,Growing maize industry,DJI,2.5043302221658358e-05,BFA,2016
+706,BRA,Growing cereals n.e.c industry,DJI,4.399334309717863e-06,BFA,2016
+707,BRA,Growing leguminous crops and oil seeds industry,DJI,5.652772196838797e-05,BFA,2016
+708,BRA,Growing rice industry,DJI,3.6041658460676924e-09,BFA,2016
+709,BRA,"Growing vegetables, roots, tubers industry",DJI,6.276512644363789e-09,BFA,2016
+710,BRA,Growing sugar beet and cane industry,DJI,1.024004097258603e-06,BFA,2016
+711,BRA,Growing tobacco industry,DJI,2.473204436898429e-08,BFA,2016
+712,BRA,Growing fibre crops industry,DJI,0.0,BFA,2016
+713,BRA,Growing crops n.e.c. industry,DJI,1.152453892314985e-06,BFA,2016
+714,BRA,Growing grapes industry,DJI,0.0,BFA,2016
+715,BRA,Growing fruits and nuts industry,DJI,0.0,BFA,2016
+716,BRA,"Growing beverage crops (coffee, tea etc) industry",DJI,4.941615617880521e-08,BFA,2016
+717,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,7.033066306358971e-09,BFA,2016
+718,BRA,Seeds and plant propagation industry,DJI,0.0,BFA,2016
+719,BRA,Raising of cattle industry,DJI,5.237207154245267e-06,BFA,2016
+720,BRA,Growing wheat industry,DYE,0.0,BFA,2016
+721,BRA,Growing maize industry,DYE,0.0,BFA,2016
+722,BRA,Growing cereals n.e.c industry,DYE,0.0,BFA,2016
+723,BRA,Growing leguminous crops and oil seeds industry,DYE,0.0,BFA,2016
+724,BRA,Growing rice industry,DYE,0.0,BFA,2016
+725,BRA,"Growing vegetables, roots, tubers industry",DYE,0.0,BFA,2016
+726,BRA,Growing sugar beet and cane industry,DYE,0.0,BFA,2016
+727,BRA,Growing tobacco industry,DYE,0.0,BFA,2016
+728,BRA,Growing fibre crops industry,DYE,0.0,BFA,2016
+729,BRA,Growing crops n.e.c. industry,DYE,0.0,BFA,2016
+730,BRA,Growing grapes industry,DYE,0.0,BFA,2016
+731,BRA,Growing fruits and nuts industry,DYE,0.0,BFA,2016
+732,BRA,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,BFA,2016
+733,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,BFA,2016
+734,BRA,Seeds and plant propagation industry,DYE,0.0,BFA,2016
+735,BRA,Raising of cattle industry,DYE,0.0,BFA,2016
+736,BRA,Growing wheat industry,DNK,0.0,BFA,2016
+737,BRA,Growing maize industry,DNK,0.0006351839141507606,BFA,2016
+738,BRA,Growing cereals n.e.c industry,DNK,0.00016109582699050555,BFA,2016
+739,BRA,Growing leguminous crops and oil seeds industry,DNK,0.0013758833447472447,BFA,2016
+740,BRA,Growing rice industry,DNK,8.632793129998359e-08,BFA,2016
+741,BRA,"Growing vegetables, roots, tubers industry",DNK,1.606307842814049e-07,BFA,2016
+742,BRA,Growing sugar beet and cane industry,DNK,3.325500282003732e-05,BFA,2016
+743,BRA,Growing tobacco industry,DNK,9.970907263190745e-07,BFA,2016
+744,BRA,Growing fibre crops industry,DNK,0.0,BFA,2016
+745,BRA,Growing crops n.e.c. industry,DNK,4.005041737861437e-05,BFA,2016
+746,BRA,Growing grapes industry,DNK,0.0,BFA,2016
+747,BRA,Growing fruits and nuts industry,DNK,0.0,BFA,2016
+748,BRA,"Growing beverage crops (coffee, tea etc) industry",DNK,1.2174387052772753e-06,BFA,2016
+749,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,2.1397108180196265e-07,BFA,2016
+750,BRA,Seeds and plant propagation industry,DNK,0.0,BFA,2016
+751,BRA,Raising of cattle industry,DNK,0.00016470118508091515,BFA,2016
+752,BRA,Growing wheat industry,DOM,0.0,BFA,2016
+753,BRA,Growing maize industry,DOM,2.5463066163590343e-05,BFA,2016
+754,BRA,Growing cereals n.e.c industry,DOM,4.682942292277126e-06,BFA,2016
+755,BRA,Growing leguminous crops and oil seeds industry,DOM,5.994961052765165e-05,BFA,2016
+756,BRA,Growing rice industry,DOM,4.77412525405413e-09,BFA,2016
+757,BRA,"Growing vegetables, roots, tubers industry",DOM,8.474424244482736e-09,BFA,2016
+758,BRA,Growing sugar beet and cane industry,DOM,1.118537670457076e-06,BFA,2016
+759,BRA,Growing tobacco industry,DOM,5.8360391624177914e-08,BFA,2016
+760,BRA,Growing fibre crops industry,DOM,0.0,BFA,2016
+761,BRA,Growing crops n.e.c. industry,DOM,1.1166784339470513e-06,BFA,2016
+762,BRA,Growing grapes industry,DOM,0.0,BFA,2016
+763,BRA,Growing fruits and nuts industry,DOM,0.0,BFA,2016
+764,BRA,"Growing beverage crops (coffee, tea etc) industry",DOM,6.170625226864997e-08,BFA,2016
+765,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,9.655826062371132e-09,BFA,2016
+766,BRA,Seeds and plant propagation industry,DOM,0.0,BFA,2016
+767,BRA,Raising of cattle industry,DOM,9.008461485596762e-06,BFA,2016
+768,BRA,Growing wheat industry,DZA,0.0,BFA,2016
+769,BRA,Growing maize industry,DZA,0.0009828458412330845,BFA,2016
+770,BRA,Growing cereals n.e.c industry,DZA,0.0001397837933777797,BFA,2016
+771,BRA,Growing leguminous crops and oil seeds industry,DZA,0.002054145510576007,BFA,2016
+772,BRA,Growing rice industry,DZA,1.4274225125504388e-07,BFA,2016
+773,BRA,"Growing vegetables, roots, tubers industry",DZA,2.974497767504515e-07,BFA,2016
+774,BRA,Growing sugar beet and cane industry,DZA,3.7167887071222926e-05,BFA,2016
+775,BRA,Growing tobacco industry,DZA,1.9028373797327576e-06,BFA,2016
+776,BRA,Growing fibre crops industry,DZA,0.0,BFA,2016
+777,BRA,Growing crops n.e.c. industry,DZA,2.217658442784354e-05,BFA,2016
+778,BRA,Growing grapes industry,DZA,0.0,BFA,2016
+779,BRA,Growing fruits and nuts industry,DZA,0.0,BFA,2016
+780,BRA,"Growing beverage crops (coffee, tea etc) industry",DZA,2.1112465947102583e-06,BFA,2016
+781,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,2.821885948232153e-07,BFA,2016
+782,BRA,Seeds and plant propagation industry,DZA,0.0,BFA,2016
+783,BRA,Raising of cattle industry,DZA,0.0007361835340381306,BFA,2016
+784,BRA,Growing wheat industry,ECU,0.0,BFA,2016
+785,BRA,Growing maize industry,ECU,5.371479887702376e-05,BFA,2016
+786,BRA,Growing cereals n.e.c industry,ECU,6.884958873770265e-06,BFA,2016
+787,BRA,Growing leguminous crops and oil seeds industry,ECU,0.00013030117979217874,BFA,2016
+788,BRA,Growing rice industry,ECU,1.436230121179677e-08,BFA,2016
+789,BRA,"Growing vegetables, roots, tubers industry",ECU,2.397644291717897e-08,BFA,2016
+790,BRA,Growing sugar beet and cane industry,ECU,1.9101836217003795e-06,BFA,2016
+791,BRA,Growing tobacco industry,ECU,1.7494982996668546e-07,BFA,2016
+792,BRA,Growing fibre crops industry,ECU,0.0,BFA,2016
+793,BRA,Growing crops n.e.c. industry,ECU,1.341949684023836e-06,BFA,2016
+794,BRA,Growing grapes industry,ECU,0.0,BFA,2016
+795,BRA,Growing fruits and nuts industry,ECU,0.0,BFA,2016
+796,BRA,"Growing beverage crops (coffee, tea etc) industry",ECU,1.753949283675475e-07,BFA,2016
+797,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,2.7064481567329656e-08,BFA,2016
+798,BRA,Seeds and plant propagation industry,ECU,0.0,BFA,2016
+799,BRA,Raising of cattle industry,ECU,1.1423855909272092e-05,BFA,2016
+800,BRA,Growing wheat industry,EGY,0.0,BFA,2016
+801,BRA,Growing maize industry,EGY,0.00031498755554350163,BFA,2016
+802,BRA,Growing cereals n.e.c industry,EGY,6.857937544069203e-05,BFA,2016
+803,BRA,Growing leguminous crops and oil seeds industry,EGY,0.000667359431751772,BFA,2016
+804,BRA,Growing rice industry,EGY,4.4049626848207796e-08,BFA,2016
+805,BRA,"Growing vegetables, roots, tubers industry",EGY,8.056116721455352e-08,BFA,2016
+806,BRA,Growing sugar beet and cane industry,EGY,1.4674300503774126e-05,BFA,2016
+807,BRA,Growing tobacco industry,EGY,4.279361786057542e-07,BFA,2016
+808,BRA,Growing fibre crops industry,EGY,0.0,BFA,2016
+809,BRA,Growing crops n.e.c. industry,EGY,1.874398890413926e-05,BFA,2016
+810,BRA,Growing grapes industry,EGY,0.0,BFA,2016
+811,BRA,Growing fruits and nuts industry,EGY,0.0,BFA,2016
+812,BRA,"Growing beverage crops (coffee, tea etc) industry",EGY,6.289040009670645e-07,BFA,2016
+813,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,1.0710036074911943e-07,BFA,2016
+814,BRA,Seeds and plant propagation industry,EGY,0.0,BFA,2016
+815,BRA,Raising of cattle industry,EGY,7.411764355275985e-05,BFA,2016
+816,BRA,Growing wheat industry,ERI,0.0,BFA,2016
+817,BRA,Growing maize industry,ERI,5.004559302070244e-06,BFA,2016
+818,BRA,Growing cereals n.e.c industry,ERI,1.157947153297979e-06,BFA,2016
+819,BRA,Growing leguminous crops and oil seeds industry,ERI,1.0242794047231174e-05,BFA,2016
+820,BRA,Growing rice industry,ERI,5.942652027643629e-10,BFA,2016
+821,BRA,"Growing vegetables, roots, tubers industry",ERI,1.1440336739183782e-09,BFA,2016
+822,BRA,Growing sugar beet and cane industry,ERI,2.391075539376068e-07,BFA,2016
+823,BRA,Growing tobacco industry,ERI,5.571207620483374e-09,BFA,2016
+824,BRA,Growing fibre crops industry,ERI,0.0,BFA,2016
+825,BRA,Growing crops n.e.c. industry,ERI,3.28049545333355e-07,BFA,2016
+826,BRA,Growing grapes industry,ERI,0.0,BFA,2016
+827,BRA,Growing fruits and nuts industry,ERI,0.0,BFA,2016
+828,BRA,"Growing beverage crops (coffee, tea etc) industry",ERI,8.80560195415752e-09,BFA,2016
+829,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,1.5605219200211032e-09,BFA,2016
+830,BRA,Seeds and plant propagation industry,ERI,0.0,BFA,2016
+831,BRA,Raising of cattle industry,ERI,1.122594624624169e-06,BFA,2016
+832,BRA,Growing wheat industry,ESP,0.0,BFA,2016
+833,BRA,Growing maize industry,ESP,0.002209874134039572,BFA,2016
+834,BRA,Growing cereals n.e.c industry,ESP,0.00041340288540397426,BFA,2016
+835,BRA,Growing leguminous crops and oil seeds industry,ESP,0.005554716963546833,BFA,2016
+836,BRA,Growing rice industry,ESP,3.881211053216439e-07,BFA,2016
+837,BRA,"Growing vegetables, roots, tubers industry",ESP,7.623838560928208e-07,BFA,2016
+838,BRA,Growing sugar beet and cane industry,ESP,9.438391228449595e-05,BFA,2016
+839,BRA,Growing tobacco industry,ESP,5.192079834992993e-06,BFA,2016
+840,BRA,Growing fibre crops industry,ESP,0.0,BFA,2016
+841,BRA,Growing crops n.e.c. industry,ESP,0.00010328902272857577,BFA,2016
+842,BRA,Growing grapes industry,ESP,0.0,BFA,2016
+843,BRA,Growing fruits and nuts industry,ESP,0.0,BFA,2016
+844,BRA,"Growing beverage crops (coffee, tea etc) industry",ESP,5.7290237719199714e-06,BFA,2016
+845,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,9.172883446077082e-07,BFA,2016
+846,BRA,Seeds and plant propagation industry,ESP,0.0,BFA,2016
+847,BRA,Raising of cattle industry,ESP,0.0005513939646430607,BFA,2016
+848,BRA,Growing wheat industry,EST,0.0,BFA,2016
+849,BRA,Growing maize industry,EST,0.0001375925723977983,BFA,2016
+850,BRA,Growing cereals n.e.c industry,EST,2.0027802929611653e-05,BFA,2016
+851,BRA,Growing leguminous crops and oil seeds industry,EST,0.0004219474657240812,BFA,2016
+852,BRA,Growing rice industry,EST,3.149434716009031e-08,BFA,2016
+853,BRA,"Growing vegetables, roots, tubers industry",EST,4.937702253660364e-08,BFA,2016
+854,BRA,Growing sugar beet and cane industry,EST,5.700340442619155e-06,BFA,2016
+855,BRA,Growing tobacco industry,EST,2.0570623785738688e-07,BFA,2016
+856,BRA,Growing fibre crops industry,EST,0.0,BFA,2016
+857,BRA,Growing crops n.e.c. industry,EST,4.079571274010131e-06,BFA,2016
+858,BRA,Growing grapes industry,EST,0.0,BFA,2016
+859,BRA,Growing fruits and nuts industry,EST,0.0,BFA,2016
+860,BRA,"Growing beverage crops (coffee, tea etc) industry",EST,3.5286694617848614e-07,BFA,2016
+861,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,4.7249617380204e-08,BFA,2016
+862,BRA,Seeds and plant propagation industry,EST,0.0,BFA,2016
+863,BRA,Raising of cattle industry,EST,3.366021544840818e-05,BFA,2016
+864,BRA,Growing wheat industry,ETH,0.0,BFA,2016
+865,BRA,Growing maize industry,ETH,0.00032424384874207623,BFA,2016
+866,BRA,Growing cereals n.e.c industry,ETH,6.958478580466978e-05,BFA,2016
+867,BRA,Growing leguminous crops and oil seeds industry,ETH,0.000659356310991897,BFA,2016
+868,BRA,Growing rice industry,ETH,4.6506267358966755e-08,BFA,2016
+869,BRA,"Growing vegetables, roots, tubers industry",ETH,9.833635755300523e-08,BFA,2016
+870,BRA,Growing sugar beet and cane industry,ETH,1.5709015856591334e-05,BFA,2016
+871,BRA,Growing tobacco industry,ETH,3.941245173218055e-07,BFA,2016
+872,BRA,Growing fibre crops industry,ETH,0.0,BFA,2016
+873,BRA,Growing crops n.e.c. industry,ETH,1.7034940010654022e-05,BFA,2016
+874,BRA,Growing grapes industry,ETH,0.0,BFA,2016
+875,BRA,Growing fruits and nuts industry,ETH,0.0,BFA,2016
+876,BRA,"Growing beverage crops (coffee, tea etc) industry",ETH,8.081739616333691e-07,BFA,2016
+877,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,9.782346705259171e-08,BFA,2016
+878,BRA,Seeds and plant propagation industry,ETH,0.0,BFA,2016
+879,BRA,Raising of cattle industry,ETH,7.255439317176841e-05,BFA,2016
+880,BRA,Growing wheat industry,FIN,0.0,BFA,2016
+881,BRA,Growing maize industry,FIN,0.0002707065218051588,BFA,2016
+882,BRA,Growing cereals n.e.c industry,FIN,5.056732904987581e-05,BFA,2016
+883,BRA,Growing leguminous crops and oil seeds industry,FIN,0.0006161749947410459,BFA,2016
+884,BRA,Growing rice industry,FIN,4.651821578658828e-08,BFA,2016
+885,BRA,"Growing vegetables, roots, tubers industry",FIN,9.989491617560229e-08,BFA,2016
+886,BRA,Growing sugar beet and cane industry,FIN,1.1265839644397404e-05,BFA,2016
+887,BRA,Growing tobacco industry,FIN,7.149800513069731e-07,BFA,2016
+888,BRA,Growing fibre crops industry,FIN,0.0,BFA,2016
+889,BRA,Growing crops n.e.c. industry,FIN,1.2268889502930131e-05,BFA,2016
+890,BRA,Growing grapes industry,FIN,0.0,BFA,2016
+891,BRA,Growing fruits and nuts industry,FIN,0.0,BFA,2016
+892,BRA,"Growing beverage crops (coffee, tea etc) industry",FIN,6.229644307377793e-07,BFA,2016
+893,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,9.943503059857193e-08,BFA,2016
+894,BRA,Seeds and plant propagation industry,FIN,0.0,BFA,2016
+895,BRA,Raising of cattle industry,FIN,6.360961062380555e-05,BFA,2016
+896,BRA,Growing wheat industry,FRA,0.0,BFA,2016
+897,BRA,Growing maize industry,FRA,0.018048267487105463,BFA,2016
+898,BRA,Growing cereals n.e.c industry,FRA,0.004083019527890923,BFA,2016
+899,BRA,Growing leguminous crops and oil seeds industry,FRA,0.03606806426224088,BFA,2016
+900,BRA,Growing rice industry,FRA,2.1887513604670293e-06,BFA,2016
+901,BRA,"Growing vegetables, roots, tubers industry",FRA,4.391868966504974e-06,BFA,2016
+902,BRA,Growing sugar beet and cane industry,FRA,0.0008310901608885921,BFA,2016
+903,BRA,Growing tobacco industry,FRA,2.0367361780163698e-05,BFA,2016
+904,BRA,Growing fibre crops industry,FRA,0.0,BFA,2016
+905,BRA,Growing crops n.e.c. industry,FRA,0.0011650355090263927,BFA,2016
+906,BRA,Growing grapes industry,FRA,0.0,BFA,2016
+907,BRA,Growing fruits and nuts industry,FRA,0.0,BFA,2016
+908,BRA,"Growing beverage crops (coffee, tea etc) industry",FRA,3.0430316867990405e-05,BFA,2016
+909,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,5.040392075666274e-06,BFA,2016
+910,BRA,Seeds and plant propagation industry,FRA,0.0,BFA,2016
+911,BRA,Raising of cattle industry,FRA,0.004092437099849456,BFA,2016
+912,BRA,Growing wheat industry,GAB,0.0,BFA,2016
+913,BRA,Growing maize industry,GAB,0.00018925839577112248,BFA,2016
+914,BRA,Growing cereals n.e.c industry,GAB,2.3233849813616127e-05,BFA,2016
+915,BRA,Growing leguminous crops and oil seeds industry,GAB,0.00041073111219472845,BFA,2016
+916,BRA,Growing rice industry,GAB,3.353091993302392e-08,BFA,2016
+917,BRA,"Growing vegetables, roots, tubers industry",GAB,7.258747731383668e-08,BFA,2016
+918,BRA,Growing sugar beet and cane industry,GAB,6.47641409683725e-06,BFA,2016
+919,BRA,Growing tobacco industry,GAB,4.455507031481014e-07,BFA,2016
+920,BRA,Growing fibre crops industry,GAB,0.0,BFA,2016
+921,BRA,Growing crops n.e.c. industry,GAB,4.703697308777839e-06,BFA,2016
+922,BRA,Growing grapes industry,GAB,0.0,BFA,2016
+923,BRA,Growing fruits and nuts industry,GAB,0.0,BFA,2016
+924,BRA,"Growing beverage crops (coffee, tea etc) industry",GAB,5.681161940594417e-07,BFA,2016
+925,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,6.079056266959776e-08,BFA,2016
+926,BRA,Seeds and plant propagation industry,GAB,0.0,BFA,2016
+927,BRA,Raising of cattle industry,GAB,4.2345428657587184e-05,BFA,2016
+928,BRA,Growing wheat industry,GBR,0.0,BFA,2016
+929,BRA,Growing maize industry,GBR,0.007986679914139979,BFA,2016
+930,BRA,Growing cereals n.e.c industry,GBR,0.00179233948796619,BFA,2016
+931,BRA,Growing leguminous crops and oil seeds industry,GBR,0.016232087464752222,BFA,2016
+932,BRA,Growing rice industry,GBR,1.0919339112624898e-06,BFA,2016
+933,BRA,"Growing vegetables, roots, tubers industry",GBR,2.0385916802273955e-06,BFA,2016
+934,BRA,Growing sugar beet and cane industry,GBR,0.0003721671067767214,BFA,2016
+935,BRA,Growing tobacco industry,GBR,1.4677638146986577e-05,BFA,2016
+936,BRA,Growing fibre crops industry,GBR,0.0,BFA,2016
+937,BRA,Growing crops n.e.c. industry,GBR,0.0005011302214000579,BFA,2016
+938,BRA,Growing grapes industry,GBR,0.0,BFA,2016
+939,BRA,Growing fruits and nuts industry,GBR,0.0,BFA,2016
+940,BRA,"Growing beverage crops (coffee, tea etc) industry",GBR,1.4891147776266098e-05,BFA,2016
+941,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,2.3259095679697834e-06,BFA,2016
+942,BRA,Seeds and plant propagation industry,GBR,0.0,BFA,2016
+943,BRA,Raising of cattle industry,GBR,0.0018441714971673402,BFA,2016
+944,BRA,Growing wheat industry,GEO,0.0,BFA,2016
+945,BRA,Growing maize industry,GEO,4.8997745762785014e-05,BFA,2016
+946,BRA,Growing cereals n.e.c industry,GEO,9.199999798222625e-06,BFA,2016
+947,BRA,Growing leguminous crops and oil seeds industry,GEO,0.00011001337416798581,BFA,2016
+948,BRA,Growing rice industry,GEO,8.527247730471174e-09,BFA,2016
+949,BRA,"Growing vegetables, roots, tubers industry",GEO,1.4746817774065283e-08,BFA,2016
+950,BRA,Growing sugar beet and cane industry,GEO,2.13330061630032e-06,BFA,2016
+951,BRA,Growing tobacco industry,GEO,9.95643679233868e-08,BFA,2016
+952,BRA,Growing fibre crops industry,GEO,0.0,BFA,2016
+953,BRA,Growing crops n.e.c. industry,GEO,2.359652252961446e-06,BFA,2016
+954,BRA,Growing grapes industry,GEO,0.0,BFA,2016
+955,BRA,Growing fruits and nuts industry,GEO,0.0,BFA,2016
+956,BRA,"Growing beverage crops (coffee, tea etc) industry",GEO,1.2337182021768864e-07,BFA,2016
+957,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,1.678078926136025e-08,BFA,2016
+958,BRA,Seeds and plant propagation industry,GEO,0.0,BFA,2016
+959,BRA,Raising of cattle industry,GEO,1.0690708523956417e-05,BFA,2016
+960,BRA,Growing wheat industry,GHA,0.0,BFA,2016
+961,BRA,Growing maize industry,GHA,0.01693641312297719,BFA,2016
+962,BRA,Growing cereals n.e.c industry,GHA,0.002869118143749583,BFA,2016
+963,BRA,Growing leguminous crops and oil seeds industry,GHA,0.04051255656540889,BFA,2016
+964,BRA,Growing rice industry,GHA,3.3589803632897615e-06,BFA,2016
+965,BRA,"Growing vegetables, roots, tubers industry",GHA,5.782904937709882e-06,BFA,2016
+966,BRA,Growing sugar beet and cane industry,GHA,0.0007458396954160055,BFA,2016
+967,BRA,Growing tobacco industry,GHA,7.46277371415717e-05,BFA,2016
+968,BRA,Growing fibre crops industry,GHA,0.0,BFA,2016
+969,BRA,Growing crops n.e.c. industry,GHA,0.0006098280675492166,BFA,2016
+970,BRA,Growing grapes industry,GHA,0.0,BFA,2016
+971,BRA,Growing fruits and nuts industry,GHA,0.0,BFA,2016
+972,BRA,"Growing beverage crops (coffee, tea etc) industry",GHA,4.7163273740929164e-05,BFA,2016
+973,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,4.941391387474138e-06,BFA,2016
+974,BRA,Seeds and plant propagation industry,GHA,0.0,BFA,2016
+975,BRA,Raising of cattle industry,GHA,0.005079041441751538,BFA,2016
+976,BRA,Growing wheat industry,GIN,0.0,BFA,2016
+977,BRA,Growing maize industry,GIN,0.000897215783523418,BFA,2016
+978,BRA,Growing cereals n.e.c industry,GIN,0.00010632747539674012,BFA,2016
+979,BRA,Growing leguminous crops and oil seeds industry,GIN,0.0014320641642520345,BFA,2016
+980,BRA,Growing rice industry,GIN,1.1555734474625838e-07,BFA,2016
+981,BRA,"Growing vegetables, roots, tubers industry",GIN,2.771210718620977e-07,BFA,2016
+982,BRA,Growing sugar beet and cane industry,GIN,2.4284883309414948e-05,BFA,2016
+983,BRA,Growing tobacco industry,GIN,8.314670513031909e-07,BFA,2016
+984,BRA,Growing fibre crops industry,GIN,0.0,BFA,2016
+985,BRA,Growing crops n.e.c. industry,GIN,2.4486326151902397e-05,BFA,2016
+986,BRA,Growing grapes industry,GIN,0.0,BFA,2016
+987,BRA,Growing fruits and nuts industry,GIN,0.0,BFA,2016
+988,BRA,"Growing beverage crops (coffee, tea etc) industry",GIN,1.3852522928258898e-06,BFA,2016
+989,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,2.4853857495280443e-07,BFA,2016
+990,BRA,Seeds and plant propagation industry,GIN,0.0,BFA,2016
+991,BRA,Raising of cattle industry,GIN,0.00014483861992913924,BFA,2016
+992,BRA,Growing wheat industry,GMB,0.0,BFA,2016
+993,BRA,Growing maize industry,GMB,7.297172140586315e-06,BFA,2016
+994,BRA,Growing cereals n.e.c industry,GMB,1.0631630145465492e-06,BFA,2016
+995,BRA,Growing leguminous crops and oil seeds industry,GMB,1.2883284508447668e-05,BFA,2016
+996,BRA,Growing rice industry,GMB,1.2417983979542408e-09,BFA,2016
+997,BRA,"Growing vegetables, roots, tubers industry",GMB,2.9010846764245484e-09,BFA,2016
+998,BRA,Growing sugar beet and cane industry,GMB,2.7118009265203626e-07,BFA,2016
+999,BRA,Growing tobacco industry,GMB,1.0442079378478472e-08,BFA,2016
+1000,BRA,Growing fibre crops industry,GMB,0.0,BFA,2016
+1001,BRA,Growing crops n.e.c. industry,GMB,2.4828860988946606e-07,BFA,2016
+1002,BRA,Growing grapes industry,GMB,0.0,BFA,2016
+1003,BRA,Growing fruits and nuts industry,GMB,0.0,BFA,2016
+1004,BRA,"Growing beverage crops (coffee, tea etc) industry",GMB,1.6714607116235997e-08,BFA,2016
+1005,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,2.3663458746578902e-09,BFA,2016
+1006,BRA,Seeds and plant propagation industry,GMB,0.0,BFA,2016
+1007,BRA,Raising of cattle industry,GMB,1.2331427422120826e-06,BFA,2016
+1008,BRA,Growing wheat industry,GNQ,0.0,BFA,2016
+1009,BRA,Growing maize industry,GNQ,0.00013970100797758354,BFA,2016
+1010,BRA,Growing cereals n.e.c industry,GNQ,1.324120498833034e-05,BFA,2016
+1011,BRA,Growing leguminous crops and oil seeds industry,GNQ,0.00042308879581158163,BFA,2016
+1012,BRA,Growing rice industry,GNQ,3.341066513433633e-08,BFA,2016
+1013,BRA,"Growing vegetables, roots, tubers industry",GNQ,5.364192555686701e-08,BFA,2016
+1014,BRA,Growing sugar beet and cane industry,GNQ,4.836635678074376e-06,BFA,2016
+1015,BRA,Growing tobacco industry,GNQ,2.2866763745689373e-07,BFA,2016
+1016,BRA,Growing fibre crops industry,GNQ,0.0,BFA,2016
+1017,BRA,Growing crops n.e.c. industry,GNQ,2.0834783456185654e-06,BFA,2016
+1018,BRA,Growing grapes industry,GNQ,0.0,BFA,2016
+1019,BRA,Growing fruits and nuts industry,GNQ,0.0,BFA,2016
+1020,BRA,"Growing beverage crops (coffee, tea etc) industry",GNQ,4.1613909608065413e-07,BFA,2016
+1021,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,4.648001708989759e-08,BFA,2016
+1022,BRA,Seeds and plant propagation industry,GNQ,0.0,BFA,2016
+1023,BRA,Raising of cattle industry,GNQ,3.021772485428671e-05,BFA,2016
+1024,BRA,Growing wheat industry,GRC,0.0,BFA,2016
+1025,BRA,Growing maize industry,GRC,0.0003154553726629666,BFA,2016
+1026,BRA,Growing cereals n.e.c industry,GRC,6.678796675815395e-05,BFA,2016
+1027,BRA,Growing leguminous crops and oil seeds industry,GRC,0.0007063709057901549,BFA,2016
+1028,BRA,Growing rice industry,GRC,5.099184765036953e-08,BFA,2016
+1029,BRA,"Growing vegetables, roots, tubers industry",GRC,9.046762914794208e-08,BFA,2016
+1030,BRA,Growing sugar beet and cane industry,GRC,1.472772059330274e-05,BFA,2016
+1031,BRA,Growing tobacco industry,GRC,8.312192735264469e-07,BFA,2016
+1032,BRA,Growing fibre crops industry,GRC,0.0,BFA,2016
+1033,BRA,Growing crops n.e.c. industry,GRC,1.76114833865724e-05,BFA,2016
+1034,BRA,Growing grapes industry,GRC,0.0,BFA,2016
+1035,BRA,Growing fruits and nuts industry,GRC,0.0,BFA,2016
+1036,BRA,"Growing beverage crops (coffee, tea etc) industry",GRC,7.370665043506344e-07,BFA,2016
+1037,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,1.1110927497442376e-07,BFA,2016
+1038,BRA,Seeds and plant propagation industry,GRC,0.0,BFA,2016
+1039,BRA,Raising of cattle industry,GRC,7.788127158076623e-05,BFA,2016
+1040,BRA,Growing wheat industry,GTM,0.0,BFA,2016
+1041,BRA,Growing maize industry,GTM,4.910185796390506e-05,BFA,2016
+1042,BRA,Growing cereals n.e.c industry,GTM,9.62175120625152e-06,BFA,2016
+1043,BRA,Growing leguminous crops and oil seeds industry,GTM,0.00010630117926656967,BFA,2016
+1044,BRA,Growing rice industry,GTM,7.663883991698005e-09,BFA,2016
+1045,BRA,"Growing vegetables, roots, tubers industry",GTM,1.3236024817520544e-08,BFA,2016
+1046,BRA,Growing sugar beet and cane industry,GTM,2.1237285518793773e-06,BFA,2016
+1047,BRA,Growing tobacco industry,GTM,7.396421710155133e-08,BFA,2016
+1048,BRA,Growing fibre crops industry,GTM,0.0,BFA,2016
+1049,BRA,Growing crops n.e.c. industry,GTM,2.580183262982276e-06,BFA,2016
+1050,BRA,Growing grapes industry,GTM,0.0,BFA,2016
+1051,BRA,Growing fruits and nuts industry,GTM,0.0,BFA,2016
+1052,BRA,"Growing beverage crops (coffee, tea etc) industry",GTM,9.665166937368911e-08,BFA,2016
+1053,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,1.6480199242869962e-08,BFA,2016
+1054,BRA,Seeds and plant propagation industry,GTM,0.0,BFA,2016
+1055,BRA,Raising of cattle industry,GTM,1.0838627198694475e-05,BFA,2016
+1056,BRA,Growing wheat industry,HND,0.0,BFA,2016
+1057,BRA,Growing maize industry,HND,2.3564515264540084e-05,BFA,2016
+1058,BRA,Growing cereals n.e.c industry,HND,4.215981519648101e-06,BFA,2016
+1059,BRA,Growing leguminous crops and oil seeds industry,HND,5.793946690657259e-05,BFA,2016
+1060,BRA,Growing rice industry,HND,4.538015620738296e-09,BFA,2016
+1061,BRA,"Growing vegetables, roots, tubers industry",HND,8.241282121446004e-09,BFA,2016
+1062,BRA,Growing sugar beet and cane industry,HND,1.0306045686158503e-06,BFA,2016
+1063,BRA,Growing tobacco industry,HND,4.205462197472503e-08,BFA,2016
+1064,BRA,Growing fibre crops industry,HND,0.0,BFA,2016
+1065,BRA,Growing crops n.e.c. industry,HND,1.0048802671447429e-06,BFA,2016
+1066,BRA,Growing grapes industry,HND,0.0,BFA,2016
+1067,BRA,Growing fruits and nuts industry,HND,0.0,BFA,2016
+1068,BRA,"Growing beverage crops (coffee, tea etc) industry",HND,5.8720689172918167e-08,BFA,2016
+1069,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,8.994277357991664e-09,BFA,2016
+1070,BRA,Seeds and plant propagation industry,HND,0.0,BFA,2016
+1071,BRA,Raising of cattle industry,HND,5.460631230376514e-06,BFA,2016
+1072,BRA,Growing wheat industry,HKG,0.0,BFA,2016
+1073,BRA,Growing maize industry,HKG,0.001268640289626244,BFA,2016
+1074,BRA,Growing cereals n.e.c industry,HKG,0.00027071120816877603,BFA,2016
+1075,BRA,Growing leguminous crops and oil seeds industry,HKG,0.00279840359781176,BFA,2016
+1076,BRA,Growing rice industry,HKG,2.3561159766139456e-07,BFA,2016
+1077,BRA,"Growing vegetables, roots, tubers industry",HKG,3.6427000053046875e-07,BFA,2016
+1078,BRA,Growing sugar beet and cane industry,HKG,5.842500117449572e-05,BFA,2016
+1079,BRA,Growing tobacco industry,HKG,1.8506935124308e-06,BFA,2016
+1080,BRA,Growing fibre crops industry,HKG,0.0,BFA,2016
+1081,BRA,Growing crops n.e.c. industry,HKG,6.872665813633516e-05,BFA,2016
+1082,BRA,Growing grapes industry,HKG,0.0,BFA,2016
+1083,BRA,Growing fruits and nuts industry,HKG,0.0,BFA,2016
+1084,BRA,"Growing beverage crops (coffee, tea etc) industry",HKG,2.6148052571428977e-06,BFA,2016
+1085,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,5.363188997072849e-07,BFA,2016
+1086,BRA,Seeds and plant propagation industry,HKG,0.0,BFA,2016
+1087,BRA,Raising of cattle industry,HKG,0.00029783323914630406,BFA,2016
+1088,BRA,Growing wheat industry,HRV,0.0,BFA,2016
+1089,BRA,Growing maize industry,HRV,6.703936657292767e-05,BFA,2016
+1090,BRA,Growing cereals n.e.c industry,HRV,1.4712719056477051e-05,BFA,2016
+1091,BRA,Growing leguminous crops and oil seeds industry,HRV,0.00014571239289245462,BFA,2016
+1092,BRA,Growing rice industry,HRV,9.771275548425523e-09,BFA,2016
+1093,BRA,"Growing vegetables, roots, tubers industry",HRV,1.8000160815892437e-08,BFA,2016
+1094,BRA,Growing sugar beet and cane industry,HRV,3.1476160969842583e-06,BFA,2016
+1095,BRA,Growing tobacco industry,HRV,1.1520959687460071e-07,BFA,2016
+1096,BRA,Growing fibre crops industry,HRV,0.0,BFA,2016
+1097,BRA,Growing crops n.e.c. industry,HRV,3.921089154452459e-06,BFA,2016
+1098,BRA,Growing grapes industry,HRV,0.0,BFA,2016
+1099,BRA,Growing fruits and nuts industry,HRV,0.0,BFA,2016
+1100,BRA,"Growing beverage crops (coffee, tea etc) industry",HRV,1.369345596517113e-07,BFA,2016
+1101,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,2.3788636752574168e-08,BFA,2016
+1102,BRA,Seeds and plant propagation industry,HRV,0.0,BFA,2016
+1103,BRA,Raising of cattle industry,HRV,1.5896978461088995e-05,BFA,2016
+1104,BRA,Growing wheat industry,HTI,0.0,BFA,2016
+1105,BRA,Growing maize industry,HTI,8.18573082571655e-06,BFA,2016
+1106,BRA,Growing cereals n.e.c industry,HTI,1.6022752575917504e-06,BFA,2016
+1107,BRA,Growing leguminous crops and oil seeds industry,HTI,1.7699162917809236e-05,BFA,2016
+1108,BRA,Growing rice industry,HTI,1.4703822216080763e-09,BFA,2016
+1109,BRA,"Growing vegetables, roots, tubers industry",HTI,2.5612609993734514e-09,BFA,2016
+1110,BRA,Growing sugar beet and cane industry,HTI,3.558956158598547e-07,BFA,2016
+1111,BRA,Growing tobacco industry,HTI,1.8535399622237638e-08,BFA,2016
+1112,BRA,Growing fibre crops industry,HTI,0.0,BFA,2016
+1113,BRA,Growing crops n.e.c. industry,HTI,4.1272046207529216e-07,BFA,2016
+1114,BRA,Growing grapes industry,HTI,0.0,BFA,2016
+1115,BRA,Growing fruits and nuts industry,HTI,0.0,BFA,2016
+1116,BRA,"Growing beverage crops (coffee, tea etc) industry",HTI,1.8254946884012036e-08,BFA,2016
+1117,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,3.1759685180914525e-09,BFA,2016
+1118,BRA,Seeds and plant propagation industry,HTI,0.0,BFA,2016
+1119,BRA,Raising of cattle industry,HTI,1.9022633629519643e-06,BFA,2016
+1120,BRA,Growing wheat industry,HUN,0.0,BFA,2016
+1121,BRA,Growing maize industry,HUN,0.00016604568670543893,BFA,2016
+1122,BRA,Growing cereals n.e.c industry,HUN,3.5382480021739345e-05,BFA,2016
+1123,BRA,Growing leguminous crops and oil seeds industry,HUN,0.00035520448345440696,BFA,2016
+1124,BRA,Growing rice industry,HUN,2.4789585658705775e-08,BFA,2016
+1125,BRA,"Growing vegetables, roots, tubers industry",HUN,4.681988967503004e-08,BFA,2016
+1126,BRA,Growing sugar beet and cane industry,HUN,7.543917792038779e-06,BFA,2016
+1127,BRA,Growing tobacco industry,HUN,2.998742400948867e-07,BFA,2016
+1128,BRA,Growing fibre crops industry,HUN,0.0,BFA,2016
+1129,BRA,Growing crops n.e.c. industry,HUN,9.456601719380686e-06,BFA,2016
+1130,BRA,Growing grapes industry,HUN,0.0,BFA,2016
+1131,BRA,Growing fruits and nuts industry,HUN,0.0,BFA,2016
+1132,BRA,"Growing beverage crops (coffee, tea etc) industry",HUN,3.3221952668367515e-07,BFA,2016
+1133,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,5.759525313325466e-08,BFA,2016
+1134,BRA,Seeds and plant propagation industry,HUN,0.0,BFA,2016
+1135,BRA,Raising of cattle industry,HUN,3.84437280370002e-05,BFA,2016
+1136,BRA,Growing wheat industry,IDN,0.0,BFA,2016
+1137,BRA,Growing maize industry,IDN,0.0021454476703743727,BFA,2016
+1138,BRA,Growing cereals n.e.c industry,IDN,0.0004942903062293357,BFA,2016
+1139,BRA,Growing leguminous crops and oil seeds industry,IDN,0.004243559880401308,BFA,2016
+1140,BRA,Growing rice industry,IDN,2.914935004060234e-07,BFA,2016
+1141,BRA,"Growing vegetables, roots, tubers industry",IDN,4.997435389026411e-07,BFA,2016
+1142,BRA,Growing sugar beet and cane industry,IDN,0.00010098454435091358,BFA,2016
+1143,BRA,Growing tobacco industry,IDN,2.5257287541529235e-06,BFA,2016
+1144,BRA,Growing fibre crops industry,IDN,0.0,BFA,2016
+1145,BRA,Growing crops n.e.c. industry,IDN,0.00013980216105775295,BFA,2016
+1146,BRA,Growing grapes industry,IDN,0.0,BFA,2016
+1147,BRA,Growing fruits and nuts industry,IDN,0.0,BFA,2016
+1148,BRA,"Growing beverage crops (coffee, tea etc) industry",IDN,3.7048213929758186e-06,BFA,2016
+1149,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,6.517619355837005e-07,BFA,2016
+1150,BRA,Seeds and plant propagation industry,IDN,0.0,BFA,2016
+1151,BRA,Raising of cattle industry,IDN,0.00047620346407847966,BFA,2016
+1152,BRA,Growing wheat industry,IND,0.0,BFA,2016
+1153,BRA,Growing maize industry,IND,0.004968437957524341,BFA,2016
+1154,BRA,Growing cereals n.e.c industry,IND,0.0009251060813306794,BFA,2016
+1155,BRA,Growing leguminous crops and oil seeds industry,IND,0.012432263794343049,BFA,2016
+1156,BRA,Growing rice industry,IND,7.717461206737387e-07,BFA,2016
+1157,BRA,"Growing vegetables, roots, tubers industry",IND,1.547319228510791e-06,BFA,2016
+1158,BRA,Growing sugar beet and cane industry,IND,0.00022281962940373087,BFA,2016
+1159,BRA,Growing tobacco industry,IND,7.415069605940408e-06,BFA,2016
+1160,BRA,Growing fibre crops industry,IND,0.0,BFA,2016
+1161,BRA,Growing crops n.e.c. industry,IND,0.00022939731250567767,BFA,2016
+1162,BRA,Growing grapes industry,IND,0.0,BFA,2016
+1163,BRA,Growing fruits and nuts industry,IND,0.0,BFA,2016
+1164,BRA,"Growing beverage crops (coffee, tea etc) industry",IND,1.2907732782135042e-05,BFA,2016
+1165,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,2.3967490659338367e-06,BFA,2016
+1166,BRA,Seeds and plant propagation industry,IND,0.0,BFA,2016
+1167,BRA,Raising of cattle industry,IND,0.0011981773999221732,BFA,2016
+1168,BRA,Growing wheat industry,IRL,0.0,BFA,2016
+1169,BRA,Growing maize industry,IRL,0.000337796673293372,BFA,2016
+1170,BRA,Growing cereals n.e.c industry,IRL,7.445711268554564e-05,BFA,2016
+1171,BRA,Growing leguminous crops and oil seeds industry,IRL,0.0007022896660863831,BFA,2016
+1172,BRA,Growing rice industry,IRL,4.827293824850126e-08,BFA,2016
+1173,BRA,"Growing vegetables, roots, tubers industry",IRL,8.978113559146217e-08,BFA,2016
+1174,BRA,Growing sugar beet and cane industry,IRL,1.561584320213323e-05,BFA,2016
+1175,BRA,Growing tobacco industry,IRL,5.90633236670667e-07,BFA,2016
+1176,BRA,Growing fibre crops industry,IRL,0.0,BFA,2016
+1177,BRA,Growing crops n.e.c. industry,IRL,2.0306825572797366e-05,BFA,2016
+1178,BRA,Growing grapes industry,IRL,0.0,BFA,2016
+1179,BRA,Growing fruits and nuts industry,IRL,0.0,BFA,2016
+1180,BRA,"Growing beverage crops (coffee, tea etc) industry",IRL,6.497708406996891e-07,BFA,2016
+1181,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,1.065954073148771e-07,BFA,2016
+1182,BRA,Seeds and plant propagation industry,IRL,0.0,BFA,2016
+1183,BRA,Raising of cattle industry,IRL,7.807042354155e-05,BFA,2016
+1184,BRA,Growing wheat industry,IRN,0.0,BFA,2016
+1185,BRA,Growing maize industry,IRN,0.004974055129879845,BFA,2016
+1186,BRA,Growing cereals n.e.c industry,IRN,0.0012292975051696646,BFA,2016
+1187,BRA,Growing leguminous crops and oil seeds industry,IRN,0.009236225646891423,BFA,2016
+1188,BRA,Growing rice industry,IRN,5.167409226125237e-07,BFA,2016
+1189,BRA,"Growing vegetables, roots, tubers industry",IRN,9.183519838672465e-07,BFA,2016
+1190,BRA,Growing sugar beet and cane industry,IRN,0.00024199222390306616,BFA,2016
+1191,BRA,Growing tobacco industry,IRN,2.8330351442631145e-06,BFA,2016
+1192,BRA,Growing fibre crops industry,IRN,0.0,BFA,2016
+1193,BRA,Growing crops n.e.c. industry,IRN,0.00036511845796710206,BFA,2016
+1194,BRA,Growing grapes industry,IRN,0.0,BFA,2016
+1195,BRA,Growing fruits and nuts industry,IRN,0.0,BFA,2016
+1196,BRA,"Growing beverage crops (coffee, tea etc) industry",IRN,6.874603377336301e-06,BFA,2016
+1197,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,1.2831572739019852e-06,BFA,2016
+1198,BRA,Seeds and plant propagation industry,IRN,0.0,BFA,2016
+1199,BRA,Raising of cattle industry,IRN,0.001077370588473766,BFA,2016
+1200,BRA,Growing wheat industry,IRQ,0.0,BFA,2016
+1201,BRA,Growing maize industry,IRQ,0.00034659021851235933,BFA,2016
+1202,BRA,Growing cereals n.e.c industry,IRQ,7.277216308354863e-05,BFA,2016
+1203,BRA,Growing leguminous crops and oil seeds industry,IRQ,0.0007964927733571095,BFA,2016
+1204,BRA,Growing rice industry,IRQ,5.2588451989685335e-08,BFA,2016
+1205,BRA,"Growing vegetables, roots, tubers industry",IRQ,9.566825742632551e-08,BFA,2016
+1206,BRA,Growing sugar beet and cane industry,IRQ,1.6435756057263573e-05,BFA,2016
+1207,BRA,Growing tobacco industry,IRQ,4.884852503428304e-07,BFA,2016
+1208,BRA,Growing fibre crops industry,IRQ,0.0,BFA,2016
+1209,BRA,Growing crops n.e.c. industry,IRQ,1.871926181438169e-05,BFA,2016
+1210,BRA,Growing grapes industry,IRQ,0.0,BFA,2016
+1211,BRA,Growing fruits and nuts industry,IRQ,0.0,BFA,2016
+1212,BRA,"Growing beverage crops (coffee, tea etc) industry",IRQ,7.839356885940925e-07,BFA,2016
+1213,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,1.532206712121433e-07,BFA,2016
+1214,BRA,Seeds and plant propagation industry,IRQ,0.0,BFA,2016
+1215,BRA,Raising of cattle industry,IRQ,8.161551218557261e-05,BFA,2016
+1216,BRA,Growing wheat industry,ISL,0.0,BFA,2016
+1217,BRA,Growing maize industry,ISL,3.239735121443292e-05,BFA,2016
+1218,BRA,Growing cereals n.e.c industry,ISL,7.77895201344573e-06,BFA,2016
+1219,BRA,Growing leguminous crops and oil seeds industry,ISL,6.413196507468918e-05,BFA,2016
+1220,BRA,Growing rice industry,ISL,4.012858763763152e-09,BFA,2016
+1221,BRA,"Growing vegetables, roots, tubers industry",ISL,7.1902922694501974e-09,BFA,2016
+1222,BRA,Growing sugar beet and cane industry,ISL,1.5689183716500598e-06,BFA,2016
+1223,BRA,Growing tobacco industry,ISL,3.260332736343141e-08,BFA,2016
+1224,BRA,Growing fibre crops industry,ISL,0.0,BFA,2016
+1225,BRA,Growing crops n.e.c. industry,ISL,2.188479479484043e-06,BFA,2016
+1226,BRA,Growing grapes industry,ISL,0.0,BFA,2016
+1227,BRA,Growing fruits and nuts industry,ISL,0.0,BFA,2016
+1228,BRA,"Growing beverage crops (coffee, tea etc) industry",ISL,5.238161874028827e-08,BFA,2016
+1229,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,9.607698615906274e-09,BFA,2016
+1230,BRA,Seeds and plant propagation industry,ISL,0.0,BFA,2016
+1231,BRA,Raising of cattle industry,ISL,7.380416153676586e-06,BFA,2016
+1232,BRA,Growing wheat industry,ISR,0.0,BFA,2016
+1233,BRA,Growing maize industry,ISR,0.0022134834874348364,BFA,2016
+1234,BRA,Growing cereals n.e.c industry,ISR,0.0005555358299709744,BFA,2016
+1235,BRA,Growing leguminous crops and oil seeds industry,ISR,0.004073473503880196,BFA,2016
+1236,BRA,Growing rice industry,ISR,2.208795623240282e-07,BFA,2016
+1237,BRA,"Growing vegetables, roots, tubers industry",ISR,3.994853023316634e-07,BFA,2016
+1238,BRA,Growing sugar beet and cane industry,ISR,0.00010831320809418101,BFA,2016
+1239,BRA,Growing tobacco industry,ISR,1.2771444237311537e-06,BFA,2016
+1240,BRA,Growing fibre crops industry,ISR,0.0,BFA,2016
+1241,BRA,Growing crops n.e.c. industry,ISR,0.00016589670151600586,BFA,2016
+1242,BRA,Growing grapes industry,ISR,0.0,BFA,2016
+1243,BRA,Growing fruits and nuts industry,ISR,0.0,BFA,2016
+1244,BRA,"Growing beverage crops (coffee, tea etc) industry",ISR,2.9641389594297647e-06,BFA,2016
+1245,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,5.38158637563604e-07,BFA,2016
+1246,BRA,Seeds and plant propagation industry,ISR,0.0,BFA,2016
+1247,BRA,Raising of cattle industry,ISR,0.0004815166991713802,BFA,2016
+1248,BRA,Growing wheat industry,ITA,0.0,BFA,2016
+1249,BRA,Growing maize industry,ITA,0.002453156685548804,BFA,2016
+1250,BRA,Growing cereals n.e.c industry,ITA,0.00043027691801157317,BFA,2016
+1251,BRA,Growing leguminous crops and oil seeds industry,ITA,0.006221356135780524,BFA,2016
+1252,BRA,Growing rice industry,ITA,4.369663312572842e-07,BFA,2016
+1253,BRA,"Growing vegetables, roots, tubers industry",ITA,8.998702608005639e-07,BFA,2016
+1254,BRA,Growing sugar beet and cane industry,ITA,0.00010131811151061526,BFA,2016
+1255,BRA,Growing tobacco industry,ITA,6.011221379925309e-06,BFA,2016
+1256,BRA,Growing fibre crops industry,ITA,0.0,BFA,2016
+1257,BRA,Growing crops n.e.c. industry,ITA,0.00010607508543668749,BFA,2016
+1258,BRA,Growing grapes industry,ITA,0.0,BFA,2016
+1259,BRA,Growing fruits and nuts industry,ITA,0.0,BFA,2016
+1260,BRA,"Growing beverage crops (coffee, tea etc) industry",ITA,6.4527825046755015e-06,BFA,2016
+1261,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,1.0898975148287335e-06,BFA,2016
+1262,BRA,Seeds and plant propagation industry,ITA,0.0,BFA,2016
+1263,BRA,Raising of cattle industry,ITA,0.0006058703076350537,BFA,2016
+1264,BRA,Growing wheat industry,JAM,0.0,BFA,2016
+1265,BRA,Growing maize industry,JAM,8.95711461453435e-06,BFA,2016
+1266,BRA,Growing cereals n.e.c industry,JAM,1.2353236916796248e-06,BFA,2016
+1267,BRA,Growing leguminous crops and oil seeds industry,JAM,2.354301383259419e-05,BFA,2016
+1268,BRA,Growing rice industry,JAM,2.0625335832063255e-09,BFA,2016
+1269,BRA,"Growing vegetables, roots, tubers industry",JAM,4.004998891558876e-09,BFA,2016
+1270,BRA,Growing sugar beet and cane industry,JAM,3.400320621359519e-07,BFA,2016
+1271,BRA,Growing tobacco industry,JAM,2.7862149452377265e-08,BFA,2016
+1272,BRA,Growing fibre crops industry,JAM,0.0,BFA,2016
+1273,BRA,Growing crops n.e.c. industry,JAM,2.586501795078919e-07,BFA,2016
+1274,BRA,Growing grapes industry,JAM,0.0,BFA,2016
+1275,BRA,Growing fruits and nuts industry,JAM,0.0,BFA,2016
+1276,BRA,"Growing beverage crops (coffee, tea etc) industry",JAM,2.5635816329909152e-08,BFA,2016
+1277,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,3.984589038161715e-09,BFA,2016
+1278,BRA,Seeds and plant propagation industry,JAM,0.0,BFA,2016
+1279,BRA,Raising of cattle industry,JAM,2.130100976312558e-06,BFA,2016
+1280,BRA,Growing wheat industry,JOR,0.0,BFA,2016
+1281,BRA,Growing maize industry,JOR,5.555019547361611e-05,BFA,2016
+1282,BRA,Growing cereals n.e.c industry,JOR,9.860890888562774e-06,BFA,2016
+1283,BRA,Growing leguminous crops and oil seeds industry,JOR,0.0001398929486258291,BFA,2016
+1284,BRA,Growing rice industry,JOR,1.002551114150668e-08,BFA,2016
+1285,BRA,"Growing vegetables, roots, tubers industry",JOR,1.8137552068648205e-08,BFA,2016
+1286,BRA,Growing sugar beet and cane industry,JOR,2.4443589145860952e-06,BFA,2016
+1287,BRA,Growing tobacco industry,JOR,1.0392629229971995e-07,BFA,2016
+1288,BRA,Growing fibre crops industry,JOR,0.0,BFA,2016
+1289,BRA,Growing crops n.e.c. industry,JOR,2.284040086489353e-06,BFA,2016
+1290,BRA,Growing grapes industry,JOR,0.0,BFA,2016
+1291,BRA,Growing fruits and nuts industry,JOR,0.0,BFA,2016
+1292,BRA,"Growing beverage crops (coffee, tea etc) industry",JOR,1.5077314404014178e-07,BFA,2016
+1293,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,2.4191102830165303e-08,BFA,2016
+1294,BRA,Seeds and plant propagation industry,JOR,0.0,BFA,2016
+1295,BRA,Raising of cattle industry,JOR,1.2857295747843744e-05,BFA,2016
+1296,BRA,Growing wheat industry,JPN,0.0,BFA,2016
+1297,BRA,Growing maize industry,JPN,0.004387701191152103,BFA,2016
+1298,BRA,Growing cereals n.e.c industry,JPN,0.0009121542920917142,BFA,2016
+1299,BRA,Growing leguminous crops and oil seeds industry,JPN,0.009941151449543724,BFA,2016
+1300,BRA,Growing rice industry,JPN,7.768828824134586e-07,BFA,2016
+1301,BRA,"Growing vegetables, roots, tubers industry",JPN,1.3969916910885765e-06,BFA,2016
+1302,BRA,Growing sugar beet and cane industry,JPN,0.00019948167465804728,BFA,2016
+1303,BRA,Growing tobacco industry,JPN,8.470074338791706e-06,BFA,2016
+1304,BRA,Growing fibre crops industry,JPN,0.0,BFA,2016
+1305,BRA,Growing crops n.e.c. industry,JPN,0.00023536106913196975,BFA,2016
+1306,BRA,Growing grapes industry,JPN,0.0,BFA,2016
+1307,BRA,Growing fruits and nuts industry,JPN,0.0,BFA,2016
+1308,BRA,"Growing beverage crops (coffee, tea etc) industry",JPN,9.626699266235977e-06,BFA,2016
+1309,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,1.7375588761252e-06,BFA,2016
+1310,BRA,Seeds and plant propagation industry,JPN,0.0,BFA,2016
+1311,BRA,Raising of cattle industry,JPN,0.0010790913883956452,BFA,2016
+1312,BRA,Growing wheat industry,KAZ,0.0,BFA,2016
+1313,BRA,Growing maize industry,KAZ,0.00014257845133484418,BFA,2016
+1314,BRA,Growing cereals n.e.c industry,KAZ,2.2318229825147142e-05,BFA,2016
+1315,BRA,Growing leguminous crops and oil seeds industry,KAZ,0.00036178533525650967,BFA,2016
+1316,BRA,Growing rice industry,KAZ,3.832754510270124e-08,BFA,2016
+1317,BRA,"Growing vegetables, roots, tubers industry",KAZ,7.148339579852575e-08,BFA,2016
+1318,BRA,Growing sugar beet and cane industry,KAZ,6.096566048173256e-06,BFA,2016
+1319,BRA,Growing tobacco industry,KAZ,6.489016304202695e-07,BFA,2016
+1320,BRA,Growing fibre crops industry,KAZ,0.0,BFA,2016
+1321,BRA,Growing crops n.e.c. industry,KAZ,4.371658627937849e-06,BFA,2016
+1322,BRA,Growing grapes industry,KAZ,0.0,BFA,2016
+1323,BRA,Growing fruits and nuts industry,KAZ,0.0,BFA,2016
+1324,BRA,"Growing beverage crops (coffee, tea etc) industry",KAZ,4.865283528433195e-07,BFA,2016
+1325,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,6.144549742269356e-08,BFA,2016
+1326,BRA,Seeds and plant propagation industry,KAZ,0.0,BFA,2016
+1327,BRA,Raising of cattle industry,KAZ,4.8228557373866225e-05,BFA,2016
+1328,BRA,Growing wheat industry,KEN,0.0,BFA,2016
+1329,BRA,Growing maize industry,KEN,0.00032284771414984437,BFA,2016
+1330,BRA,Growing cereals n.e.c industry,KEN,6.930871914250987e-05,BFA,2016
+1331,BRA,Growing leguminous crops and oil seeds industry,KEN,0.0006519261174066201,BFA,2016
+1332,BRA,Growing rice industry,KEN,4.537785466966356e-08,BFA,2016
+1333,BRA,"Growing vegetables, roots, tubers industry",KEN,9.455346285220343e-08,BFA,2016
+1334,BRA,Growing sugar beet and cane industry,KEN,1.5452725078207904e-05,BFA,2016
+1335,BRA,Growing tobacco industry,KEN,4.323983694891775e-07,BFA,2016
+1336,BRA,Growing fibre crops industry,KEN,0.0,BFA,2016
+1337,BRA,Growing crops n.e.c. industry,KEN,1.7286585008455266e-05,BFA,2016
+1338,BRA,Growing grapes industry,KEN,0.0,BFA,2016
+1339,BRA,Growing fruits and nuts industry,KEN,0.0,BFA,2016
+1340,BRA,"Growing beverage crops (coffee, tea etc) industry",KEN,7.918312231512168e-07,BFA,2016
+1341,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,1.01398230508367e-07,BFA,2016
+1342,BRA,Seeds and plant propagation industry,KEN,0.0,BFA,2016
+1343,BRA,Raising of cattle industry,KEN,7.148449842363022e-05,BFA,2016
+1344,BRA,Growing wheat industry,KGZ,0.0,BFA,2016
+1345,BRA,Growing maize industry,KGZ,8.23910614087062e-06,BFA,2016
+1346,BRA,Growing cereals n.e.c industry,KGZ,1.4044622814704552e-06,BFA,2016
+1347,BRA,Growing leguminous crops and oil seeds industry,KGZ,1.897188181996047e-05,BFA,2016
+1348,BRA,Growing rice industry,KGZ,1.7410318685125775e-09,BFA,2016
+1349,BRA,"Growing vegetables, roots, tubers industry",KGZ,2.7838711957835066e-09,BFA,2016
+1350,BRA,Growing sugar beet and cane industry,KGZ,3.431493260374734e-07,BFA,2016
+1351,BRA,Growing tobacco industry,KGZ,2.192382839977787e-08,BFA,2016
+1352,BRA,Growing fibre crops industry,KGZ,0.0,BFA,2016
+1353,BRA,Growing crops n.e.c. industry,KGZ,3.42415334866073e-07,BFA,2016
+1354,BRA,Growing grapes industry,KGZ,0.0,BFA,2016
+1355,BRA,Growing fruits and nuts industry,KGZ,0.0,BFA,2016
+1356,BRA,"Growing beverage crops (coffee, tea etc) industry",KGZ,2.1335788168638637e-08,BFA,2016
+1357,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,3.4161534955776082e-09,BFA,2016
+1358,BRA,Seeds and plant propagation industry,KGZ,0.0,BFA,2016
+1359,BRA,Raising of cattle industry,KGZ,1.8529982402008885e-06,BFA,2016
+1360,BRA,Growing wheat industry,KHM,0.0,BFA,2016
+1361,BRA,Growing maize industry,KHM,6.0843301560239175e-05,BFA,2016
+1362,BRA,Growing cereals n.e.c industry,KHM,1.3289991015539394e-05,BFA,2016
+1363,BRA,Growing leguminous crops and oil seeds industry,KHM,0.0001370208387115932,BFA,2016
+1364,BRA,Growing rice industry,KHM,9.797735979918643e-09,BFA,2016
+1365,BRA,"Growing vegetables, roots, tubers industry",KHM,1.7974773935091453e-08,BFA,2016
+1366,BRA,Growing sugar beet and cane industry,KHM,2.8474367935581168e-06,BFA,2016
+1367,BRA,Growing tobacco industry,KHM,1.54384419259385e-07,BFA,2016
+1368,BRA,Growing fibre crops industry,KHM,0.0,BFA,2016
+1369,BRA,Growing crops n.e.c. industry,KHM,3.273569193637406e-06,BFA,2016
+1370,BRA,Growing grapes industry,KHM,0.0,BFA,2016
+1371,BRA,Growing fruits and nuts industry,KHM,0.0,BFA,2016
+1372,BRA,"Growing beverage crops (coffee, tea etc) industry",KHM,1.3855100549665989e-07,BFA,2016
+1373,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,2.085276015679625e-08,BFA,2016
+1374,BRA,Seeds and plant propagation industry,KHM,0.0,BFA,2016
+1375,BRA,Raising of cattle industry,KHM,1.4179696836537013e-05,BFA,2016
+1376,BRA,Growing wheat industry,KOR,0.0,BFA,2016
+1377,BRA,Growing maize industry,KOR,0.002877228053170357,BFA,2016
+1378,BRA,Growing cereals n.e.c industry,KOR,0.0004008166106810052,BFA,2016
+1379,BRA,Growing leguminous crops and oil seeds industry,KOR,0.009575285392173375,BFA,2016
+1380,BRA,Growing rice industry,KOR,4.5301160542713384e-07,BFA,2016
+1381,BRA,"Growing vegetables, roots, tubers industry",KOR,1.214857989504563e-06,BFA,2016
+1382,BRA,Growing sugar beet and cane industry,KOR,9.70813760075475e-05,BFA,2016
+1383,BRA,Growing tobacco industry,KOR,5.283716362627153e-06,BFA,2016
+1384,BRA,Growing fibre crops industry,KOR,0.0,BFA,2016
+1385,BRA,Growing crops n.e.c. industry,KOR,8.87056806879639e-05,BFA,2016
+1386,BRA,Growing grapes industry,KOR,0.0,BFA,2016
+1387,BRA,Growing fruits and nuts industry,KOR,0.0,BFA,2016
+1388,BRA,"Growing beverage crops (coffee, tea etc) industry",KOR,8.01210152264409e-06,BFA,2016
+1389,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,8.555518733792445e-07,BFA,2016
+1390,BRA,Seeds and plant propagation industry,KOR,0.0,BFA,2016
+1391,BRA,Raising of cattle industry,KOR,0.0005798320516833335,BFA,2016
+1392,BRA,Growing wheat industry,KWT,0.0,BFA,2016
+1393,BRA,Growing maize industry,KWT,0.00039513026769832135,BFA,2016
+1394,BRA,Growing cereals n.e.c industry,KWT,9.211837604148792e-05,BFA,2016
+1395,BRA,Growing leguminous crops and oil seeds industry,KWT,0.0007985298116204064,BFA,2016
+1396,BRA,Growing rice industry,KWT,4.764708025274412e-08,BFA,2016
+1397,BRA,"Growing vegetables, roots, tubers industry",KWT,8.748746889760482e-08,BFA,2016
+1398,BRA,Growing sugar beet and cane industry,KWT,1.8961127548999164e-05,BFA,2016
+1399,BRA,Growing tobacco industry,KWT,3.591140675879119e-07,BFA,2016
+1400,BRA,Growing fibre crops industry,KWT,0.0,BFA,2016
+1401,BRA,Growing crops n.e.c. industry,KWT,2.592197055978096e-05,BFA,2016
+1402,BRA,Growing grapes industry,KWT,0.0,BFA,2016
+1403,BRA,Growing fruits and nuts industry,KWT,0.0,BFA,2016
+1404,BRA,"Growing beverage crops (coffee, tea etc) industry",KWT,6.722234519450831e-07,BFA,2016
+1405,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,1.2048665615180962e-07,BFA,2016
+1406,BRA,Seeds and plant propagation industry,KWT,0.0,BFA,2016
+1407,BRA,Raising of cattle industry,KWT,8.878452617936907e-05,BFA,2016
+1408,BRA,Growing wheat industry,LAO,0.0,BFA,2016
+1409,BRA,Growing maize industry,LAO,8.998003708287299e-05,BFA,2016
+1410,BRA,Growing cereals n.e.c industry,LAO,8.678206689260702e-06,BFA,2016
+1411,BRA,Growing leguminous crops and oil seeds industry,LAO,0.0003598160629136979,BFA,2016
+1412,BRA,Growing rice industry,LAO,1.5956986130779936e-08,BFA,2016
+1413,BRA,"Growing vegetables, roots, tubers industry",LAO,4.629562773163974e-08,BFA,2016
+1414,BRA,Growing sugar beet and cane industry,LAO,2.6551286957016882e-06,BFA,2016
+1415,BRA,Growing tobacco industry,LAO,6.222660648531984e-07,BFA,2016
+1416,BRA,Growing fibre crops industry,LAO,0.0,BFA,2016
+1417,BRA,Growing crops n.e.c. industry,LAO,1.434631596073477e-06,BFA,2016
+1418,BRA,Growing grapes industry,LAO,0.0,BFA,2016
+1419,BRA,Growing fruits and nuts industry,LAO,0.0,BFA,2016
+1420,BRA,"Growing beverage crops (coffee, tea etc) industry",LAO,3.5098164811832185e-07,BFA,2016
+1421,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,2.661726765838347e-08,BFA,2016
+1422,BRA,Seeds and plant propagation industry,LAO,0.0,BFA,2016
+1423,BRA,Raising of cattle industry,LAO,2.034567360784044e-05,BFA,2016
+1424,BRA,Growing wheat industry,LBN,0.0,BFA,2016
+1425,BRA,Growing maize industry,LBN,0.0004456506975460906,BFA,2016
+1426,BRA,Growing cereals n.e.c industry,LBN,4.935970111441875e-05,BFA,2016
+1427,BRA,Growing leguminous crops and oil seeds industry,LBN,0.0014402566146586274,BFA,2016
+1428,BRA,Growing rice industry,LBN,7.442532231187632e-08,BFA,2016
+1429,BRA,"Growing vegetables, roots, tubers industry",LBN,1.8381192374713355e-07,BFA,2016
+1430,BRA,Growing sugar beet and cane industry,LBN,1.8740115241265312e-05,BFA,2016
+1431,BRA,Growing tobacco industry,LBN,7.644984972358049e-07,BFA,2016
+1432,BRA,Growing fibre crops industry,LBN,0.0,BFA,2016
+1433,BRA,Growing crops n.e.c. industry,LBN,8.23773494010324e-06,BFA,2016
+1434,BRA,Growing grapes industry,LBN,0.0,BFA,2016
+1435,BRA,Growing fruits and nuts industry,LBN,0.0,BFA,2016
+1436,BRA,"Growing beverage crops (coffee, tea etc) industry",LBN,1.756381589806761e-06,BFA,2016
+1437,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,3.693105953128616e-07,BFA,2016
+1438,BRA,Seeds and plant propagation industry,LBN,0.0,BFA,2016
+1439,BRA,Raising of cattle industry,LBN,0.0001089262801671409,BFA,2016
+1440,BRA,Growing wheat industry,LBR,0.0,BFA,2016
+1441,BRA,Growing maize industry,LBR,7.083423200659356e-06,BFA,2016
+1442,BRA,Growing cereals n.e.c industry,LBR,8.365217773428395e-07,BFA,2016
+1443,BRA,Growing leguminous crops and oil seeds industry,LBR,1.876260786050399e-05,BFA,2016
+1444,BRA,Growing rice industry,LBR,2.187667236157508e-09,BFA,2016
+1445,BRA,"Growing vegetables, roots, tubers industry",LBR,4.8307015990159326e-09,BFA,2016
+1446,BRA,Growing sugar beet and cane industry,LBR,2.5340101986602604e-07,BFA,2016
+1447,BRA,Growing tobacco industry,LBR,3.806380746521795e-08,BFA,2016
+1448,BRA,Growing fibre crops industry,LBR,0.0,BFA,2016
+1449,BRA,Growing crops n.e.c. industry,LBR,1.0905680548836006e-07,BFA,2016
+1450,BRA,Growing grapes industry,LBR,0.0,BFA,2016
+1451,BRA,Growing fruits and nuts industry,LBR,0.0,BFA,2016
+1452,BRA,"Growing beverage crops (coffee, tea etc) industry",LBR,2.4682968006879568e-08,BFA,2016
+1453,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,3.157593931062918e-09,BFA,2016
+1454,BRA,Seeds and plant propagation industry,LBR,0.0,BFA,2016
+1455,BRA,Raising of cattle industry,LBR,1.8896288984094209e-06,BFA,2016
+1456,BRA,Growing wheat industry,LBY,0.0,BFA,2016
+1457,BRA,Growing maize industry,LBY,0.00013203602258782013,BFA,2016
+1458,BRA,Growing cereals n.e.c industry,LBY,2.861226316978342e-05,BFA,2016
+1459,BRA,Growing leguminous crops and oil seeds industry,LBY,0.00029681596221432517,BFA,2016
+1460,BRA,Growing rice industry,LBY,2.0370868272864803e-08,BFA,2016
+1461,BRA,"Growing vegetables, roots, tubers industry",LBY,3.656740233680831e-08,BFA,2016
+1462,BRA,Growing sugar beet and cane industry,LBY,6.313493694544606e-06,BFA,2016
+1463,BRA,Growing tobacco industry,LBY,2.08318283323172e-07,BFA,2016
+1464,BRA,Growing fibre crops industry,LBY,0.0,BFA,2016
+1465,BRA,Growing crops n.e.c. industry,LBY,7.294948514209161e-06,BFA,2016
+1466,BRA,Growing grapes industry,LBY,0.0,BFA,2016
+1467,BRA,Growing fruits and nuts industry,LBY,0.0,BFA,2016
+1468,BRA,"Growing beverage crops (coffee, tea etc) industry",LBY,2.903184734417554e-07,BFA,2016
+1469,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,5.434626189890612e-08,BFA,2016
+1470,BRA,Seeds and plant propagation industry,LBY,0.0,BFA,2016
+1471,BRA,Raising of cattle industry,LBY,3.168307438627605e-05,BFA,2016
+1472,BRA,Growing wheat industry,LKA,0.0,BFA,2016
+1473,BRA,Growing maize industry,LKA,0.00016301164387751233,BFA,2016
+1474,BRA,Growing cereals n.e.c industry,LKA,3.4328944106472986e-05,BFA,2016
+1475,BRA,Growing leguminous crops and oil seeds industry,LKA,0.00035417743510322125,BFA,2016
+1476,BRA,Growing rice industry,LKA,2.676932460605553e-08,BFA,2016
+1477,BRA,"Growing vegetables, roots, tubers industry",LKA,5.1515399570860727e-08,BFA,2016
+1478,BRA,Growing sugar beet and cane industry,LKA,7.782444590428995e-06,BFA,2016
+1479,BRA,Growing tobacco industry,LKA,2.610027805206006e-07,BFA,2016
+1480,BRA,Growing fibre crops industry,LKA,0.0,BFA,2016
+1481,BRA,Growing crops n.e.c. industry,LKA,8.534012729792372e-06,BFA,2016
+1482,BRA,Growing grapes industry,LKA,0.0,BFA,2016
+1483,BRA,Growing fruits and nuts industry,LKA,0.0,BFA,2016
+1484,BRA,"Growing beverage crops (coffee, tea etc) industry",LKA,3.810995234626145e-07,BFA,2016
+1485,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,6.104400273221049e-08,BFA,2016
+1486,BRA,Seeds and plant propagation industry,LKA,0.0,BFA,2016
+1487,BRA,Raising of cattle industry,LKA,3.9106618054183436e-05,BFA,2016
+1488,BRA,Growing wheat industry,LTU,0.0,BFA,2016
+1489,BRA,Growing maize industry,LTU,5.1540100349332466e-05,BFA,2016
+1490,BRA,Growing cereals n.e.c industry,LTU,1.0011927444299283e-05,BFA,2016
+1491,BRA,Growing leguminous crops and oil seeds industry,LTU,0.0001296660644979022,BFA,2016
+1492,BRA,Growing rice industry,LTU,1.0274286185792166e-08,BFA,2016
+1493,BRA,"Growing vegetables, roots, tubers industry",LTU,1.7332609745406346e-08,BFA,2016
+1494,BRA,Growing sugar beet and cane industry,LTU,2.3894653265429654e-06,BFA,2016
+1495,BRA,Growing tobacco industry,LTU,1.7550963928325547e-07,BFA,2016
+1496,BRA,Growing fibre crops industry,LTU,0.0,BFA,2016
+1497,BRA,Growing crops n.e.c. industry,LTU,2.331816328141626e-06,BFA,2016
+1498,BRA,Growing grapes industry,LTU,0.0,BFA,2016
+1499,BRA,Growing fruits and nuts industry,LTU,0.0,BFA,2016
+1500,BRA,"Growing beverage crops (coffee, tea etc) industry",LTU,1.4088742673422178e-07,BFA,2016
+1501,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,1.9860642368087455e-08,BFA,2016
+1502,BRA,Seeds and plant propagation industry,LTU,0.0,BFA,2016
+1503,BRA,Raising of cattle industry,LTU,1.3567231388910915e-05,BFA,2016
+1504,BRA,Growing wheat industry,LUX,0.0,BFA,2016
+1505,BRA,Growing maize industry,LUX,0.00010301811299746201,BFA,2016
+1506,BRA,Growing cereals n.e.c industry,LUX,2.1571339902056734e-05,BFA,2016
+1507,BRA,Growing leguminous crops and oil seeds industry,LUX,0.0002456873060576197,BFA,2016
+1508,BRA,Growing rice industry,LUX,1.5916767015287676e-08,BFA,2016
+1509,BRA,"Growing vegetables, roots, tubers industry",LUX,2.8928276225239896e-08,BFA,2016
+1510,BRA,Growing sugar beet and cane industry,LUX,4.727228628628726e-06,BFA,2016
+1511,BRA,Growing tobacco industry,LUX,1.4624232935982396e-07,BFA,2016
+1512,BRA,Growing fibre crops industry,LUX,0.0,BFA,2016
+1513,BRA,Growing crops n.e.c. industry,LUX,5.597137204160409e-06,BFA,2016
+1514,BRA,Growing grapes industry,LUX,0.0,BFA,2016
+1515,BRA,Growing fruits and nuts industry,LUX,0.0,BFA,2016
+1516,BRA,"Growing beverage crops (coffee, tea etc) industry",LUX,2.088831938044539e-07,BFA,2016
+1517,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,3.374650620815806e-08,BFA,2016
+1518,BRA,Seeds and plant propagation industry,LUX,0.0,BFA,2016
+1519,BRA,Raising of cattle industry,LUX,2.4935159572203257e-05,BFA,2016
+1520,BRA,Growing wheat industry,LVA,0.0,BFA,2016
+1521,BRA,Growing maize industry,LVA,3.0884467302227314e-05,BFA,2016
+1522,BRA,Growing cereals n.e.c industry,LVA,5.918132653691729e-06,BFA,2016
+1523,BRA,Growing leguminous crops and oil seeds industry,LVA,7.672907358833051e-05,BFA,2016
+1524,BRA,Growing rice industry,LVA,6.0277239257453215e-09,BFA,2016
+1525,BRA,"Growing vegetables, roots, tubers industry",LVA,1.0729332950833374e-08,BFA,2016
+1526,BRA,Growing sugar beet and cane industry,LVA,1.3894100342484936e-06,BFA,2016
+1527,BRA,Growing tobacco industry,LVA,9.69149560316391e-08,BFA,2016
+1528,BRA,Growing fibre crops industry,LVA,0.0,BFA,2016
+1529,BRA,Growing crops n.e.c. industry,LVA,1.37664577621038e-06,BFA,2016
+1530,BRA,Growing grapes industry,LVA,0.0,BFA,2016
+1531,BRA,Growing fruits and nuts industry,LVA,0.0,BFA,2016
+1532,BRA,"Growing beverage crops (coffee, tea etc) industry",LVA,8.310099295760511e-08,BFA,2016
+1533,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,1.2699784198808938e-08,BFA,2016
+1534,BRA,Seeds and plant propagation industry,LVA,0.0,BFA,2016
+1535,BRA,Raising of cattle industry,LVA,8.092145004993766e-06,BFA,2016
+1536,BRA,Growing wheat industry,MAR,0.0,BFA,2016
+1537,BRA,Growing maize industry,MAR,0.0003195273005653353,BFA,2016
+1538,BRA,Growing cereals n.e.c industry,MAR,5.301838947064084e-05,BFA,2016
+1539,BRA,Growing leguminous crops and oil seeds industry,MAR,0.0008009919064651383,BFA,2016
+1540,BRA,Growing rice industry,MAR,6.226991622162301e-08,BFA,2016
+1541,BRA,"Growing vegetables, roots, tubers industry",MAR,1.3180885370372575e-07,BFA,2016
+1542,BRA,Growing sugar beet and cane industry,MAR,1.36714057910571e-05,BFA,2016
+1543,BRA,Growing tobacco industry,MAR,7.802991854502585e-07,BFA,2016
+1544,BRA,Growing fibre crops industry,MAR,0.0,BFA,2016
+1545,BRA,Growing crops n.e.c. industry,MAR,1.156144643372664e-05,BFA,2016
+1546,BRA,Growing grapes industry,MAR,0.0,BFA,2016
+1547,BRA,Growing fruits and nuts industry,MAR,0.0,BFA,2016
+1548,BRA,"Growing beverage crops (coffee, tea etc) industry",MAR,9.746073649623044e-07,BFA,2016
+1549,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,1.5296133754242658e-07,BFA,2016
+1550,BRA,Seeds and plant propagation industry,MAR,0.0,BFA,2016
+1551,BRA,Raising of cattle industry,MAR,7.603527759432566e-05,BFA,2016
+1552,BRA,Growing wheat industry,MDA,0.0,BFA,2016
+1553,BRA,Growing maize industry,MDA,2.0642705796510178e-05,BFA,2016
+1554,BRA,Growing cereals n.e.c industry,MDA,3.971512998849143e-06,BFA,2016
+1555,BRA,Growing leguminous crops and oil seeds industry,MDA,4.779869136488012e-05,BFA,2016
+1556,BRA,Growing rice industry,MDA,3.487486522161647e-09,BFA,2016
+1557,BRA,"Growing vegetables, roots, tubers industry",MDA,6.357946355434158e-09,BFA,2016
+1558,BRA,Growing sugar beet and cane industry,MDA,9.10956888304909e-07,BFA,2016
+1559,BRA,Growing tobacco industry,MDA,4.6917302050862263e-08,BFA,2016
+1560,BRA,Growing fibre crops industry,MDA,0.0,BFA,2016
+1561,BRA,Growing crops n.e.c. industry,MDA,1.0007539288944795e-06,BFA,2016
+1562,BRA,Growing grapes industry,MDA,0.0,BFA,2016
+1563,BRA,Growing fruits and nuts industry,MDA,0.0,BFA,2016
+1564,BRA,"Growing beverage crops (coffee, tea etc) industry",MDA,5.180592638582874e-08,BFA,2016
+1565,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,7.314080498321169e-09,BFA,2016
+1566,BRA,Seeds and plant propagation industry,MDA,0.0,BFA,2016
+1567,BRA,Raising of cattle industry,MDA,4.873438462659149e-06,BFA,2016
+1568,BRA,Growing wheat industry,MDG,0.0,BFA,2016
+1569,BRA,Growing maize industry,MDG,0.00011834631000129514,BFA,2016
+1570,BRA,Growing cereals n.e.c industry,MDG,2.0985026778567753e-05,BFA,2016
+1571,BRA,Growing leguminous crops and oil seeds industry,MDG,0.00030481811177209385,BFA,2016
+1572,BRA,Growing rice industry,MDG,2.4277817980606624e-08,BFA,2016
+1573,BRA,"Growing vegetables, roots, tubers industry",MDG,5.120231958695615e-08,BFA,2016
+1574,BRA,Growing sugar beet and cane industry,MDG,5.2979296162654885e-06,BFA,2016
+1575,BRA,Growing tobacco industry,MDG,2.3699735655078154e-07,BFA,2016
+1576,BRA,Growing fibre crops industry,MDG,0.0,BFA,2016
+1577,BRA,Growing crops n.e.c. industry,MDG,4.646472292581821e-06,BFA,2016
+1578,BRA,Growing grapes industry,MDG,0.0,BFA,2016
+1579,BRA,Growing fruits and nuts industry,MDG,0.0,BFA,2016
+1580,BRA,"Growing beverage crops (coffee, tea etc) industry",MDG,3.113591955541359e-07,BFA,2016
+1581,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,4.9590525242150416e-08,BFA,2016
+1582,BRA,Seeds and plant propagation industry,MDG,0.0,BFA,2016
+1583,BRA,Raising of cattle industry,MDG,5.272306141293863e-05,BFA,2016
+1584,BRA,Growing wheat industry,MEX,0.0,BFA,2016
+1585,BRA,Growing maize industry,MEX,0.0007822623867132626,BFA,2016
+1586,BRA,Growing cereals n.e.c industry,MEX,0.0001302786456191972,BFA,2016
+1587,BRA,Growing leguminous crops and oil seeds industry,MEX,0.001688281544056194,BFA,2016
+1588,BRA,Growing rice industry,MEX,1.6456475166243163e-07,BFA,2016
+1589,BRA,"Growing vegetables, roots, tubers industry",MEX,3.00122229912206e-07,BFA,2016
+1590,BRA,Growing sugar beet and cane industry,MEX,3.0337412533567742e-05,BFA,2016
+1591,BRA,Growing tobacco industry,MEX,2.4207812079719185e-06,BFA,2016
+1592,BRA,Growing fibre crops industry,MEX,0.0,BFA,2016
+1593,BRA,Growing crops n.e.c. industry,MEX,3.2308989722055345e-05,BFA,2016
+1594,BRA,Growing grapes industry,MEX,0.0,BFA,2016
+1595,BRA,Growing fruits and nuts industry,MEX,0.0,BFA,2016
+1596,BRA,"Growing beverage crops (coffee, tea etc) industry",MEX,1.9415444620644737e-06,BFA,2016
+1597,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,3.188612878665033e-07,BFA,2016
+1598,BRA,Seeds and plant propagation industry,MEX,0.0,BFA,2016
+1599,BRA,Raising of cattle industry,MEX,0.00016695687734867898,BFA,2016
+1600,BRA,Growing wheat industry,MKD,0.0,BFA,2016
+1601,BRA,Growing maize industry,MKD,2.6536337523528235e-05,BFA,2016
+1602,BRA,Growing cereals n.e.c industry,MKD,4.5206202216064205e-06,BFA,2016
+1603,BRA,Growing leguminous crops and oil seeds industry,MKD,7.006030309885322e-05,BFA,2016
+1604,BRA,Growing rice industry,MKD,5.454987851544646e-09,BFA,2016
+1605,BRA,"Growing vegetables, roots, tubers industry",MKD,9.519710101171123e-09,BFA,2016
+1606,BRA,Growing sugar beet and cane industry,MKD,1.1516747848235582e-06,BFA,2016
+1607,BRA,Growing tobacco industry,MKD,6.528495499749082e-08,BFA,2016
+1608,BRA,Growing fibre crops industry,MKD,0.0,BFA,2016
+1609,BRA,Growing crops n.e.c. industry,MKD,9.810844448359918e-07,BFA,2016
+1610,BRA,Growing grapes industry,MKD,0.0,BFA,2016
+1611,BRA,Growing fruits and nuts industry,MKD,0.0,BFA,2016
+1612,BRA,"Growing beverage crops (coffee, tea etc) industry",MKD,7.118192740041297e-08,BFA,2016
+1613,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.0118715038134505e-08,BFA,2016
+1614,BRA,Seeds and plant propagation industry,MKD,0.0,BFA,2016
+1615,BRA,Raising of cattle industry,MKD,7.234006912397608e-06,BFA,2016
+1616,BRA,Growing wheat industry,MLI,0.0,BFA,2016
+1617,BRA,Growing maize industry,MLI,0.007970297225933665,BFA,2016
+1618,BRA,Growing cereals n.e.c industry,MLI,0.0006810525909022832,BFA,2016
+1619,BRA,Growing leguminous crops and oil seeds industry,MLI,0.023035376920074953,BFA,2016
+1620,BRA,Growing rice industry,MLI,1.8684939884077187e-06,BFA,2016
+1621,BRA,"Growing vegetables, roots, tubers industry",MLI,3.936905108795412e-06,BFA,2016
+1622,BRA,Growing sugar beet and cane industry,MLI,0.0002449693088753783,BFA,2016
+1623,BRA,Growing tobacco industry,MLI,2.2349045412635673e-05,BFA,2016
+1624,BRA,Growing fibre crops industry,MLI,0.0,BFA,2016
+1625,BRA,Growing crops n.e.c. industry,MLI,5.8940516367680224e-05,BFA,2016
+1626,BRA,Growing grapes industry,MLI,0.0,BFA,2016
+1627,BRA,Growing fruits and nuts industry,MLI,0.0,BFA,2016
+1628,BRA,"Growing beverage crops (coffee, tea etc) industry",MLI,3.255968341505625e-05,BFA,2016
+1629,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,3.842948439997394e-06,BFA,2016
+1630,BRA,Seeds and plant propagation industry,MLI,0.0,BFA,2016
+1631,BRA,Raising of cattle industry,MLI,0.0018081731585830305,BFA,2016
+1632,BRA,Growing wheat industry,MLT,0.0,BFA,2016
+1633,BRA,Growing maize industry,MLT,1.8723267206918633e-05,BFA,2016
+1634,BRA,Growing cereals n.e.c industry,MLT,3.907876459072762e-06,BFA,2016
+1635,BRA,Growing leguminous crops and oil seeds industry,MLT,4.1367610439634414e-05,BFA,2016
+1636,BRA,Growing rice industry,MLT,2.7412119832525995e-09,BFA,2016
+1637,BRA,"Growing vegetables, roots, tubers industry",MLT,5.367396857432179e-09,BFA,2016
+1638,BRA,Growing sugar beet and cane industry,MLT,8.439825439314403e-07,BFA,2016
+1639,BRA,Growing tobacco industry,MLT,3.289371187991101e-08,BFA,2016
+1640,BRA,Growing fibre crops industry,MLT,0.0,BFA,2016
+1641,BRA,Growing crops n.e.c. industry,MLT,1.0481922666034456e-06,BFA,2016
+1642,BRA,Growing grapes industry,MLT,0.0,BFA,2016
+1643,BRA,Growing fruits and nuts industry,MLT,0.0,BFA,2016
+1644,BRA,"Growing beverage crops (coffee, tea etc) industry",MLT,3.943940279032309e-08,BFA,2016
+1645,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,6.50909613970536e-09,BFA,2016
+1646,BRA,Seeds and plant propagation industry,MLT,0.0,BFA,2016
+1647,BRA,Raising of cattle industry,MLT,4.310373372310877e-06,BFA,2016
+1648,BRA,Growing wheat industry,MMR,0.0,BFA,2016
+1649,BRA,Growing maize industry,MMR,0.00013615908123872086,BFA,2016
+1650,BRA,Growing cereals n.e.c industry,MMR,3.285515601125525e-05,BFA,2016
+1651,BRA,Growing leguminous crops and oil seeds industry,MMR,0.0003070259747942674,BFA,2016
+1652,BRA,Growing rice industry,MMR,1.865364718059589e-08,BFA,2016
+1653,BRA,"Growing vegetables, roots, tubers industry",MMR,3.282690508203234e-08,BFA,2016
+1654,BRA,Growing sugar beet and cane industry,MMR,6.744607612322432e-06,BFA,2016
+1655,BRA,Growing tobacco industry,MMR,2.0042897204723347e-07,BFA,2016
+1656,BRA,Growing fibre crops industry,MMR,0.0,BFA,2016
+1657,BRA,Growing crops n.e.c. industry,MMR,8.682606668340195e-06,BFA,2016
+1658,BRA,Growing grapes industry,MMR,0.0,BFA,2016
+1659,BRA,Growing fruits and nuts industry,MMR,0.0,BFA,2016
+1660,BRA,"Growing beverage crops (coffee, tea etc) industry",MMR,2.663405275216588e-07,BFA,2016
+1661,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,5.17873529043593e-08,BFA,2016
+1662,BRA,Seeds and plant propagation industry,MMR,0.0,BFA,2016
+1663,BRA,Raising of cattle industry,MMR,3.240373528246313e-05,BFA,2016
+1664,BRA,Growing wheat industry,MNG,0.0,BFA,2016
+1665,BRA,Growing maize industry,MNG,2.4288465879600064e-05,BFA,2016
+1666,BRA,Growing cereals n.e.c industry,MNG,3.796187380703414e-06,BFA,2016
+1667,BRA,Growing leguminous crops and oil seeds industry,MNG,6.361334753013308e-05,BFA,2016
+1668,BRA,Growing rice industry,MNG,6.609109804375716e-09,BFA,2016
+1669,BRA,"Growing vegetables, roots, tubers industry",MNG,9.10696020650332e-09,BFA,2016
+1670,BRA,Growing sugar beet and cane industry,MNG,9.823868273992546e-07,BFA,2016
+1671,BRA,Growing tobacco industry,MNG,5.813221234712785e-08,BFA,2016
+1672,BRA,Growing fibre crops industry,MNG,0.0,BFA,2016
+1673,BRA,Growing crops n.e.c. industry,MNG,8.166954897059322e-07,BFA,2016
+1674,BRA,Growing grapes industry,MNG,0.0,BFA,2016
+1675,BRA,Growing fruits and nuts industry,MNG,0.0,BFA,2016
+1676,BRA,"Growing beverage crops (coffee, tea etc) industry",MNG,6.365417381886243e-08,BFA,2016
+1677,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,1.1488218928419456e-08,BFA,2016
+1678,BRA,Seeds and plant propagation industry,MNG,0.0,BFA,2016
+1679,BRA,Raising of cattle industry,MNG,5.517133087325696e-06,BFA,2016
+1680,BRA,Growing wheat industry,MOZ,0.0,BFA,2016
+1681,BRA,Growing maize industry,MOZ,8.718986435495376e-05,BFA,2016
+1682,BRA,Growing cereals n.e.c industry,MOZ,1.1833015726775056e-05,BFA,2016
+1683,BRA,Growing leguminous crops and oil seeds industry,MOZ,0.00024918482521148514,BFA,2016
+1684,BRA,Growing rice industry,MOZ,1.601037749494384e-08,BFA,2016
+1685,BRA,"Growing vegetables, roots, tubers industry",MOZ,3.329422326807464e-08,BFA,2016
+1686,BRA,Growing sugar beet and cane industry,MOZ,3.6384802021202824e-06,BFA,2016
+1687,BRA,Growing tobacco industry,MOZ,1.6481521666126658e-07,BFA,2016
+1688,BRA,Growing fibre crops industry,MOZ,0.0,BFA,2016
+1689,BRA,Growing crops n.e.c. industry,MOZ,2.5018559014160826e-06,BFA,2016
+1690,BRA,Growing grapes industry,MOZ,0.0,BFA,2016
+1691,BRA,Growing fruits and nuts industry,MOZ,0.0,BFA,2016
+1692,BRA,"Growing beverage crops (coffee, tea etc) industry",MOZ,2.8643650756194066e-07,BFA,2016
+1693,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,5.5943404625372965e-08,BFA,2016
+1694,BRA,Seeds and plant propagation industry,MOZ,0.0,BFA,2016
+1695,BRA,Raising of cattle industry,MOZ,2.0124227329382755e-05,BFA,2016
+1696,BRA,Growing wheat industry,MRT,0.0,BFA,2016
+1697,BRA,Growing maize industry,MRT,7.083716715174341e-05,BFA,2016
+1698,BRA,Growing cereals n.e.c industry,MRT,9.894574856754631e-06,BFA,2016
+1699,BRA,Growing leguminous crops and oil seeds industry,MRT,0.0001842036590774065,BFA,2016
+1700,BRA,Growing rice industry,MRT,1.6947059302013037e-08,BFA,2016
+1701,BRA,"Growing vegetables, roots, tubers industry",MRT,3.6862991997411786e-08,BFA,2016
+1702,BRA,Growing sugar beet and cane industry,MRT,2.8225353191026544e-06,BFA,2016
+1703,BRA,Growing tobacco industry,MRT,2.2130867212584918e-07,BFA,2016
+1704,BRA,Growing fibre crops industry,MRT,0.0,BFA,2016
+1705,BRA,Growing crops n.e.c. industry,MRT,1.8699913569429172e-06,BFA,2016
+1706,BRA,Growing grapes industry,MRT,0.0,BFA,2016
+1707,BRA,Growing fruits and nuts industry,MRT,0.0,BFA,2016
+1708,BRA,"Growing beverage crops (coffee, tea etc) industry",MRT,2.3749202384406094e-07,BFA,2016
+1709,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,2.9251519660545156e-08,BFA,2016
+1710,BRA,Seeds and plant propagation industry,MRT,0.0,BFA,2016
+1711,BRA,Raising of cattle industry,MRT,1.8451918318340563e-05,BFA,2016
+1712,BRA,Growing wheat industry,MWI,0.0,BFA,2016
+1713,BRA,Growing maize industry,MWI,2.0480377843163096e-05,BFA,2016
+1714,BRA,Growing cereals n.e.c industry,MWI,3.502231240046401e-06,BFA,2016
+1715,BRA,Growing leguminous crops and oil seeds industry,MWI,5.1728355184057706e-05,BFA,2016
+1716,BRA,Growing rice industry,MWI,3.1482113861305095e-09,BFA,2016
+1717,BRA,"Growing vegetables, roots, tubers industry",MWI,6.510852837923602e-09,BFA,2016
+1718,BRA,Growing sugar beet and cane industry,MWI,8.860423652814938e-07,BFA,2016
+1719,BRA,Growing tobacco industry,MWI,3.132094978218396e-08,BFA,2016
+1720,BRA,Growing fibre crops industry,MWI,0.0,BFA,2016
+1721,BRA,Growing crops n.e.c. industry,MWI,8.864627924912006e-07,BFA,2016
+1722,BRA,Growing grapes industry,MWI,0.0,BFA,2016
+1723,BRA,Growing fruits and nuts industry,MWI,0.0,BFA,2016
+1724,BRA,"Growing beverage crops (coffee, tea etc) industry",MWI,5.3522405942672074e-08,BFA,2016
+1725,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,1.0126921748585757e-08,BFA,2016
+1726,BRA,Seeds and plant propagation industry,MWI,0.0,BFA,2016
+1727,BRA,Raising of cattle industry,MWI,4.622997543758828e-06,BFA,2016
+1728,BRA,Growing wheat industry,MYS,0.0,BFA,2016
+1729,BRA,Growing maize industry,MYS,0.0024381943551838414,BFA,2016
+1730,BRA,Growing cereals n.e.c industry,MYS,0.0003680014456789739,BFA,2016
+1731,BRA,Growing leguminous crops and oil seeds industry,MYS,0.006289724161222641,BFA,2016
+1732,BRA,Growing rice industry,MYS,6.862792429091615e-07,BFA,2016
+1733,BRA,"Growing vegetables, roots, tubers industry",MYS,8.87675503030424e-07,BFA,2016
+1734,BRA,Growing sugar beet and cane industry,MYS,9.515491427566528e-05,BFA,2016
+1735,BRA,Growing tobacco industry,MYS,4.033052848059628e-06,BFA,2016
+1736,BRA,Growing fibre crops industry,MYS,0.0,BFA,2016
+1737,BRA,Growing crops n.e.c. industry,MYS,8.698764142044417e-05,BFA,2016
+1738,BRA,Growing grapes industry,MYS,0.0,BFA,2016
+1739,BRA,Growing fruits and nuts industry,MYS,0.0,BFA,2016
+1740,BRA,"Growing beverage crops (coffee, tea etc) industry",MYS,5.776131863596956e-06,BFA,2016
+1741,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,1.0823069057470978e-06,BFA,2016
+1742,BRA,Seeds and plant propagation industry,MYS,0.0,BFA,2016
+1743,BRA,Raising of cattle industry,MYS,0.0005147242471901125,BFA,2016
+1744,BRA,Growing wheat industry,NAM,0.0,BFA,2016
+1745,BRA,Growing maize industry,NAM,7.510422445843513e-05,BFA,2016
+1746,BRA,Growing cereals n.e.c industry,NAM,7.507387992888743e-06,BFA,2016
+1747,BRA,Growing leguminous crops and oil seeds industry,NAM,0.0002373934103141254,BFA,2016
+1748,BRA,Growing rice industry,NAM,1.315850957858263e-08,BFA,2016
+1749,BRA,"Growing vegetables, roots, tubers industry",NAM,3.206580422369021e-08,BFA,2016
+1750,BRA,Growing sugar beet and cane industry,NAM,3.0297620701065064e-06,BFA,2016
+1751,BRA,Growing tobacco industry,NAM,1.8330177895238486e-07,BFA,2016
+1752,BRA,Growing fibre crops industry,NAM,0.0,BFA,2016
+1753,BRA,Growing crops n.e.c. industry,NAM,1.125086641334676e-06,BFA,2016
+1754,BRA,Growing grapes industry,NAM,0.0,BFA,2016
+1755,BRA,Growing fruits and nuts industry,NAM,0.0,BFA,2016
+1756,BRA,"Growing beverage crops (coffee, tea etc) industry",NAM,3.0682720243426004e-07,BFA,2016
+1757,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,5.962162396866663e-08,BFA,2016
+1758,BRA,Seeds and plant propagation industry,NAM,0.0,BFA,2016
+1759,BRA,Raising of cattle industry,NAM,1.7735203610826877e-05,BFA,2016
+1760,BRA,Growing wheat industry,NER,0.0,BFA,2016
+1761,BRA,Growing maize industry,NER,0.005374022957019868,BFA,2016
+1762,BRA,Growing cereals n.e.c industry,NER,0.0005019929192531892,BFA,2016
+1763,BRA,Growing leguminous crops and oil seeds industry,NER,0.015007800404966872,BFA,2016
+1764,BRA,Growing rice industry,NER,1.2476346734919631e-06,BFA,2016
+1765,BRA,"Growing vegetables, roots, tubers industry",NER,2.5294016452659732e-06,BFA,2016
+1766,BRA,Growing sugar beet and cane industry,NER,0.00016550136209118408,BFA,2016
+1767,BRA,Growing tobacco industry,NER,1.1825293556516926e-05,BFA,2016
+1768,BRA,Growing fibre crops industry,NER,0.0,BFA,2016
+1769,BRA,Growing crops n.e.c. industry,NER,7.814511980876622e-05,BFA,2016
+1770,BRA,Growing grapes industry,NER,0.0,BFA,2016
+1771,BRA,Growing fruits and nuts industry,NER,0.0,BFA,2016
+1772,BRA,"Growing beverage crops (coffee, tea etc) industry",NER,1.6162928492211138e-05,BFA,2016
+1773,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,2.424615309949449e-06,BFA,2016
+1774,BRA,Seeds and plant propagation industry,NER,0.0,BFA,2016
+1775,BRA,Raising of cattle industry,NER,0.0011964043720748385,BFA,2016
+1776,BRA,Growing wheat industry,NGA,0.0,BFA,2016
+1777,BRA,Growing maize industry,NGA,0.0016346416791457065,BFA,2016
+1778,BRA,Growing cereals n.e.c industry,NGA,0.0003176958045373593,BFA,2016
+1779,BRA,Growing leguminous crops and oil seeds industry,NGA,0.003603743632563431,BFA,2016
+1780,BRA,Growing rice industry,NGA,2.4073739742283647e-07,BFA,2016
+1781,BRA,"Growing vegetables, roots, tubers industry",NGA,5.100749525654724e-07,BFA,2016
+1782,BRA,Growing sugar beet and cane industry,NGA,7.284265318589698e-05,BFA,2016
+1783,BRA,Growing tobacco industry,NGA,1.6642323499547184e-06,BFA,2016
+1784,BRA,Growing fibre crops industry,NGA,0.0,BFA,2016
+1785,BRA,Growing crops n.e.c. industry,NGA,7.620032134669565e-05,BFA,2016
+1786,BRA,Growing grapes industry,NGA,0.0,BFA,2016
+1787,BRA,Growing fruits and nuts industry,NGA,0.0,BFA,2016
+1788,BRA,"Growing beverage crops (coffee, tea etc) industry",NGA,3.7291395996891458e-06,BFA,2016
+1789,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,5.627497868921037e-07,BFA,2016
+1790,BRA,Seeds and plant propagation industry,NGA,0.0,BFA,2016
+1791,BRA,Raising of cattle industry,NGA,0.0004919993827897251,BFA,2016
+1792,BRA,Growing wheat industry,NIC,0.0,BFA,2016
+1793,BRA,Growing maize industry,NIC,1.6477672472825924e-05,BFA,2016
+1794,BRA,Growing cereals n.e.c industry,NIC,1.7737806589286708e-06,BFA,2016
+1795,BRA,Growing leguminous crops and oil seeds industry,NIC,4.785674036699016e-05,BFA,2016
+1796,BRA,Growing rice industry,NIC,3.6433188521366102e-09,BFA,2016
+1797,BRA,"Growing vegetables, roots, tubers industry",NIC,5.869432645002691e-09,BFA,2016
+1798,BRA,Growing sugar beet and cane industry,NIC,5.793542001356893e-07,BFA,2016
+1799,BRA,Growing tobacco industry,NIC,2.881952193384729e-08,BFA,2016
+1800,BRA,Growing fibre crops industry,NIC,0.0,BFA,2016
+1801,BRA,Growing crops n.e.c. industry,NIC,3.3611818852995353e-07,BFA,2016
+1802,BRA,Growing grapes industry,NIC,0.0,BFA,2016
+1803,BRA,Growing fruits and nuts industry,NIC,0.0,BFA,2016
+1804,BRA,"Growing beverage crops (coffee, tea etc) industry",NIC,4.3725243593981885e-08,BFA,2016
+1805,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,6.496241747534979e-09,BFA,2016
+1806,BRA,Seeds and plant propagation industry,NIC,0.0,BFA,2016
+1807,BRA,Raising of cattle industry,NIC,3.729483492199524e-06,BFA,2016
+1808,BRA,Growing wheat industry,NLD,0.0,BFA,2016
+1809,BRA,Growing maize industry,NLD,0.0020212157373425605,BFA,2016
+1810,BRA,Growing cereals n.e.c industry,NLD,0.0004449339191973351,BFA,2016
+1811,BRA,Growing leguminous crops and oil seeds industry,NLD,0.004410877721603641,BFA,2016
+1812,BRA,Growing rice industry,NLD,3.12343181254332e-07,BFA,2016
+1813,BRA,"Growing vegetables, roots, tubers industry",NLD,5.755961894693027e-07,BFA,2016
+1814,BRA,Growing sugar beet and cane industry,NLD,9.571042517512746e-05,BFA,2016
+1815,BRA,Growing tobacco industry,NLD,3.929546002214098e-06,BFA,2016
+1816,BRA,Growing fibre crops industry,NLD,0.0,BFA,2016
+1817,BRA,Growing crops n.e.c. industry,NLD,0.00011088380397879119,BFA,2016
+1818,BRA,Growing grapes industry,NLD,0.0,BFA,2016
+1819,BRA,Growing fruits and nuts industry,NLD,0.0,BFA,2016
+1820,BRA,"Growing beverage crops (coffee, tea etc) industry",NLD,4.208533416760506e-06,BFA,2016
+1821,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,7.070075996102332e-07,BFA,2016
+1822,BRA,Seeds and plant propagation industry,NLD,0.0,BFA,2016
+1823,BRA,Raising of cattle industry,NLD,0.0005082213046870155,BFA,2016
+1824,BRA,Growing wheat industry,NOR,0.0,BFA,2016
+1825,BRA,Growing maize industry,NOR,0.0006044803730387443,BFA,2016
+1826,BRA,Growing cereals n.e.c industry,NOR,0.00013783613068183066,BFA,2016
+1827,BRA,Growing leguminous crops and oil seeds industry,NOR,0.0013110636121995113,BFA,2016
+1828,BRA,Growing rice industry,NOR,8.714587057834381e-08,BFA,2016
+1829,BRA,"Growing vegetables, roots, tubers industry",NOR,1.5664464761204412e-07,BFA,2016
+1830,BRA,Growing sugar beet and cane industry,NOR,2.8800265370252176e-05,BFA,2016
+1831,BRA,Growing tobacco industry,NOR,9.388093498707148e-07,BFA,2016
+1832,BRA,Growing fibre crops industry,NOR,0.0,BFA,2016
+1833,BRA,Growing crops n.e.c. industry,NOR,3.6613980253322175e-05,BFA,2016
+1834,BRA,Growing grapes industry,NOR,0.0,BFA,2016
+1835,BRA,Growing fruits and nuts industry,NOR,0.0,BFA,2016
+1836,BRA,"Growing beverage crops (coffee, tea etc) industry",NOR,1.1698076480641863e-06,BFA,2016
+1837,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,3.0639665181691486e-07,BFA,2016
+1838,BRA,Seeds and plant propagation industry,NOR,0.0,BFA,2016
+1839,BRA,Raising of cattle industry,NOR,0.00014383298720322172,BFA,2016
+1840,BRA,Growing wheat industry,NPL,0.0,BFA,2016
+1841,BRA,Growing maize industry,NPL,7.364539097733715e-05,BFA,2016
+1842,BRA,Growing cereals n.e.c industry,NPL,1.3213355596341566e-05,BFA,2016
+1843,BRA,Growing leguminous crops and oil seeds industry,NPL,0.00016807127091987556,BFA,2016
+1844,BRA,Growing rice industry,NPL,1.142545192996806e-08,BFA,2016
+1845,BRA,"Growing vegetables, roots, tubers industry",NPL,2.307021843010061e-08,BFA,2016
+1846,BRA,Growing sugar beet and cane industry,NPL,3.26242825913912e-06,BFA,2016
+1847,BRA,Growing tobacco industry,NPL,8.909182633534294e-08,BFA,2016
+1848,BRA,Growing fibre crops industry,NPL,0.0,BFA,2016
+1849,BRA,Growing crops n.e.c. industry,NPL,3.142070731983078e-06,BFA,2016
+1850,BRA,Growing grapes industry,NPL,0.0,BFA,2016
+1851,BRA,Growing fruits and nuts industry,NPL,0.0,BFA,2016
+1852,BRA,"Growing beverage crops (coffee, tea etc) industry",NPL,1.8045208873891373e-07,BFA,2016
+1853,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,2.881459571335912e-08,BFA,2016
+1854,BRA,Seeds and plant propagation industry,NPL,0.0,BFA,2016
+1855,BRA,Raising of cattle industry,NPL,1.629244160507131e-05,BFA,2016
+1856,BRA,Growing wheat industry,NZL,0.0,BFA,2016
+1857,BRA,Growing maize industry,NZL,0.0001990006838478979,BFA,2016
+1858,BRA,Growing cereals n.e.c industry,NZL,4.584380457433825e-05,BFA,2016
+1859,BRA,Growing leguminous crops and oil seeds industry,NZL,0.0004052183367882756,BFA,2016
+1860,BRA,Growing rice industry,NZL,2.992771342136785e-08,BFA,2016
+1861,BRA,"Growing vegetables, roots, tubers industry",NZL,4.931631482191848e-08,BFA,2016
+1862,BRA,Growing sugar beet and cane industry,NZL,9.490977925569625e-06,BFA,2016
+1863,BRA,Growing tobacco industry,NZL,2.842081937938181e-07,BFA,2016
+1864,BRA,Growing fibre crops industry,NZL,0.0,BFA,2016
+1865,BRA,Growing crops n.e.c. industry,NZL,1.23974231172905e-05,BFA,2016
+1866,BRA,Growing grapes industry,NZL,0.0,BFA,2016
+1867,BRA,Growing fruits and nuts industry,NZL,0.0,BFA,2016
+1868,BRA,"Growing beverage crops (coffee, tea etc) industry",NZL,3.613266359988778e-07,BFA,2016
+1869,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,6.722867679712353e-08,BFA,2016
+1870,BRA,Seeds and plant propagation industry,NZL,0.0,BFA,2016
+1871,BRA,Raising of cattle industry,NZL,4.5834469771119284e-05,BFA,2016
+1872,BRA,Growing wheat industry,OMN,0.0,BFA,2016
+1873,BRA,Growing maize industry,OMN,0.00010343847636999022,BFA,2016
+1874,BRA,Growing cereals n.e.c industry,OMN,2.1729593547210308e-05,BFA,2016
+1875,BRA,Growing leguminous crops and oil seeds industry,OMN,0.00023335643192523288,BFA,2016
+1876,BRA,Growing rice industry,OMN,1.557575171203782e-08,BFA,2016
+1877,BRA,"Growing vegetables, roots, tubers industry",OMN,2.8844852908844525e-08,BFA,2016
+1878,BRA,Growing sugar beet and cane industry,OMN,4.840146480218681e-06,BFA,2016
+1879,BRA,Growing tobacco industry,OMN,1.6541042698053008e-07,BFA,2016
+1880,BRA,Growing fibre crops industry,OMN,0.0,BFA,2016
+1881,BRA,Growing crops n.e.c. industry,OMN,5.595864323312625e-06,BFA,2016
+1882,BRA,Growing grapes industry,OMN,0.0,BFA,2016
+1883,BRA,Growing fruits and nuts industry,OMN,0.0,BFA,2016
+1884,BRA,"Growing beverage crops (coffee, tea etc) industry",OMN,2.27614522705472e-07,BFA,2016
+1885,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,4.187308313000797e-08,BFA,2016
+1886,BRA,Seeds and plant propagation industry,OMN,0.0,BFA,2016
+1887,BRA,Raising of cattle industry,OMN,2.44101007683947e-05,BFA,2016
+1888,BRA,Growing wheat industry,PAK,0.0,BFA,2016
+1889,BRA,Growing maize industry,PAK,0.0018516611101930976,BFA,2016
+1890,BRA,Growing cereals n.e.c industry,PAK,0.00028289198710489637,BFA,2016
+1891,BRA,Growing leguminous crops and oil seeds industry,PAK,0.005363022423008636,BFA,2016
+1892,BRA,Growing rice industry,PAK,4.003203080029166e-07,BFA,2016
+1893,BRA,"Growing vegetables, roots, tubers industry",PAK,5.136778276366461e-07,BFA,2016
+1894,BRA,Growing sugar beet and cane industry,PAK,7.660127476465408e-05,BFA,2016
+1895,BRA,Growing tobacco industry,PAK,2.0596957492049444e-06,BFA,2016
+1896,BRA,Growing fibre crops industry,PAK,0.0,BFA,2016
+1897,BRA,Growing crops n.e.c. industry,PAK,6.998201172168272e-05,BFA,2016
+1898,BRA,Growing grapes industry,PAK,0.0,BFA,2016
+1899,BRA,Growing fruits and nuts industry,PAK,0.0,BFA,2016
+1900,BRA,"Growing beverage crops (coffee, tea etc) industry",PAK,4.174648835235688e-06,BFA,2016
+1901,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,5.569822528307777e-07,BFA,2016
+1902,BRA,Seeds and plant propagation industry,PAK,0.0,BFA,2016
+1903,BRA,Raising of cattle industry,PAK,0.00041760239927928676,BFA,2016
+1904,BRA,Growing wheat industry,PSE,0.0,BFA,2016
+1905,BRA,Growing maize industry,PSE,6.0360286476306725e-05,BFA,2016
+1906,BRA,Growing cereals n.e.c industry,PSE,1.456923674118206e-05,BFA,2016
+1907,BRA,Growing leguminous crops and oil seeds industry,PSE,0.0001410635049304334,BFA,2016
+1908,BRA,Growing rice industry,PSE,8.291008841127108e-09,BFA,2016
+1909,BRA,"Growing vegetables, roots, tubers industry",PSE,1.3737888068017853e-08,BFA,2016
+1910,BRA,Growing sugar beet and cane industry,PSE,3.077264997084626e-06,BFA,2016
+1911,BRA,Growing tobacco industry,PSE,5.0797352126441235e-08,BFA,2016
+1912,BRA,Growing fibre crops industry,PSE,0.0,BFA,2016
+1913,BRA,Growing crops n.e.c. industry,PSE,3.978306470055299e-06,BFA,2016
+1914,BRA,Growing grapes industry,PSE,0.0,BFA,2016
+1915,BRA,Growing fruits and nuts industry,PSE,0.0,BFA,2016
+1916,BRA,"Growing beverage crops (coffee, tea etc) industry",PSE,1.0584677913777625e-07,BFA,2016
+1917,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.774503857982069e-08,BFA,2016
+1918,BRA,Seeds and plant propagation industry,PSE,0.0,BFA,2016
+1919,BRA,Raising of cattle industry,PSE,1.532219307457359e-05,BFA,2016
+1920,BRA,Growing wheat industry,PAN,0.0,BFA,2016
+1921,BRA,Growing maize industry,PAN,6.579860328973732e-05,BFA,2016
+1922,BRA,Growing cereals n.e.c industry,PAN,7.77764608760336e-06,BFA,2016
+1923,BRA,Growing leguminous crops and oil seeds industry,PAN,0.00017884282566748368,BFA,2016
+1924,BRA,Growing rice industry,PAN,1.800082077366688e-08,BFA,2016
+1925,BRA,"Growing vegetables, roots, tubers industry",PAN,2.8997886142593556e-08,BFA,2016
+1926,BRA,Growing sugar beet and cane industry,PAN,2.41508078873945e-06,BFA,2016
+1927,BRA,Growing tobacco industry,PAN,1.9471757351240813e-07,BFA,2016
+1928,BRA,Growing fibre crops industry,PAN,0.0,BFA,2016
+1929,BRA,Growing crops n.e.c. industry,PAN,1.44263964470486e-06,BFA,2016
+1930,BRA,Growing grapes industry,PAN,0.0,BFA,2016
+1931,BRA,Growing fruits and nuts industry,PAN,0.0,BFA,2016
+1932,BRA,"Growing beverage crops (coffee, tea etc) industry",PAN,2.1213793978860113e-07,BFA,2016
+1933,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,3.3243479749728455e-08,BFA,2016
+1934,BRA,Seeds and plant propagation industry,PAN,0.0,BFA,2016
+1935,BRA,Raising of cattle industry,PAN,1.6152229132709443e-05,BFA,2016
+1936,BRA,Growing wheat industry,PER,0.0,BFA,2016
+1937,BRA,Growing maize industry,PER,0.0007877825008614482,BFA,2016
+1938,BRA,Growing cereals n.e.c industry,PER,7.45317837775998e-05,BFA,2016
+1939,BRA,Growing leguminous crops and oil seeds industry,PER,0.0023920855828279525,BFA,2016
+1940,BRA,Growing rice industry,PER,1.6691067344835006e-07,BFA,2016
+1941,BRA,"Growing vegetables, roots, tubers industry",PER,3.7847654201018736e-07,BFA,2016
+1942,BRA,Growing sugar beet and cane industry,PER,2.9675934335446648e-05,BFA,2016
+1943,BRA,Growing tobacco industry,PER,7.448074121866112e-06,BFA,2016
+1944,BRA,Growing fibre crops industry,PER,0.0,BFA,2016
+1945,BRA,Growing crops n.e.c. industry,PER,1.035288017951785e-05,BFA,2016
+1946,BRA,Growing grapes industry,PER,0.0,BFA,2016
+1947,BRA,Growing fruits and nuts industry,PER,0.0,BFA,2016
+1948,BRA,"Growing beverage crops (coffee, tea etc) industry",PER,3.9475908323948e-06,BFA,2016
+1949,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,4.6727240818484856e-07,BFA,2016
+1950,BRA,Seeds and plant propagation industry,PER,0.0,BFA,2016
+1951,BRA,Raising of cattle industry,PER,0.0002473241313626386,BFA,2016
+1952,BRA,Growing wheat industry,PHL,0.0,BFA,2016
+1953,BRA,Growing maize industry,PHL,0.0006355705842598736,BFA,2016
+1954,BRA,Growing cereals n.e.c industry,PHL,0.0001264045442387135,BFA,2016
+1955,BRA,Growing leguminous crops and oil seeds industry,PHL,0.0013373058685504412,BFA,2016
+1956,BRA,Growing rice industry,PHL,8.87189547495214e-08,BFA,2016
+1957,BRA,"Growing vegetables, roots, tubers industry",PHL,2.1068467694752052e-07,BFA,2016
+1958,BRA,Growing sugar beet and cane industry,PHL,2.6010659902666216e-05,BFA,2016
+1959,BRA,Growing tobacco industry,PHL,1.2261794035164842e-06,BFA,2016
+1960,BRA,Growing fibre crops industry,PHL,0.0,BFA,2016
+1961,BRA,Growing crops n.e.c. industry,PHL,3.334411159953625e-05,BFA,2016
+1962,BRA,Growing grapes industry,PHL,0.0,BFA,2016
+1963,BRA,Growing fruits and nuts industry,PHL,0.0,BFA,2016
+1964,BRA,"Growing beverage crops (coffee, tea etc) industry",PHL,1.1495043098799938e-06,BFA,2016
+1965,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,1.9716950521355709e-07,BFA,2016
+1966,BRA,Seeds and plant propagation industry,PHL,0.0,BFA,2016
+1967,BRA,Raising of cattle industry,PHL,0.0001452324947071444,BFA,2016
+1968,BRA,Growing wheat industry,PNG,0.0,BFA,2016
+1969,BRA,Growing maize industry,PNG,8.426890083164649e-05,BFA,2016
+1970,BRA,Growing cereals n.e.c industry,PNG,2.2480204952835117e-05,BFA,2016
+1971,BRA,Growing leguminous crops and oil seeds industry,PNG,0.00017704163850976,BFA,2016
+1972,BRA,Growing rice industry,PNG,1.1456534033618815e-08,BFA,2016
+1973,BRA,"Growing vegetables, roots, tubers industry",PNG,1.782260448162497e-08,BFA,2016
+1974,BRA,Growing sugar beet and cane industry,PNG,4.535358974141881e-06,BFA,2016
+1975,BRA,Growing tobacco industry,PNG,8.478305065009099e-08,BFA,2016
+1976,BRA,Growing fibre crops industry,PNG,0.0,BFA,2016
+1977,BRA,Growing crops n.e.c. industry,PNG,5.640735480435452e-06,BFA,2016
+1978,BRA,Growing grapes industry,PNG,0.0,BFA,2016
+1979,BRA,Growing fruits and nuts industry,PNG,0.0,BFA,2016
+1980,BRA,"Growing beverage crops (coffee, tea etc) industry",PNG,1.414874273601899e-07,BFA,2016
+1981,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,2.731474341465733e-08,BFA,2016
+1982,BRA,Seeds and plant propagation industry,PNG,0.0,BFA,2016
+1983,BRA,Raising of cattle industry,PNG,2.1484558017876433e-05,BFA,2016
+1984,BRA,Growing wheat industry,POL,0.0,BFA,2016
+1985,BRA,Growing maize industry,POL,0.0008151860921687703,BFA,2016
+1986,BRA,Growing cereals n.e.c industry,POL,0.00017997414882174218,BFA,2016
+1987,BRA,Growing leguminous crops and oil seeds industry,POL,0.0017402856291497376,BFA,2016
+1988,BRA,Growing rice industry,POL,1.217501575072628e-07,BFA,2016
+1989,BRA,"Growing vegetables, roots, tubers industry",POL,2.1178145066395863e-07,BFA,2016
+1990,BRA,Growing sugar beet and cane industry,POL,3.867535384183201e-05,BFA,2016
+1991,BRA,Growing tobacco industry,POL,1.514502134922691e-06,BFA,2016
+1992,BRA,Growing fibre crops industry,POL,0.0,BFA,2016
+1993,BRA,Growing crops n.e.c. industry,POL,4.6992355594810115e-05,BFA,2016
+1994,BRA,Growing grapes industry,POL,0.0,BFA,2016
+1995,BRA,Growing fruits and nuts industry,POL,0.0,BFA,2016
+1996,BRA,"Growing beverage crops (coffee, tea etc) industry",POL,1.6510673361160927e-06,BFA,2016
+1997,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,2.785361768538947e-07,BFA,2016
+1998,BRA,Seeds and plant propagation industry,POL,0.0,BFA,2016
+1999,BRA,Raising of cattle industry,POL,0.00019736473056117555,BFA,2016
+2000,BRA,Growing wheat industry,PRK,0.0,BFA,2016
+2001,BRA,Growing maize industry,PRK,8.698101386287378e-06,BFA,2016
+2002,BRA,Growing cereals n.e.c industry,PRK,1.0591837969393719e-06,BFA,2016
+2003,BRA,Growing leguminous crops and oil seeds industry,PRK,2.2311612147432266e-05,BFA,2016
+2004,BRA,Growing rice industry,PRK,1.5933447101658149e-09,BFA,2016
+2005,BRA,"Growing vegetables, roots, tubers industry",PRK,2.5964245097280743e-09,BFA,2016
+2006,BRA,Growing sugar beet and cane industry,PRK,3.096820706594953e-07,BFA,2016
+2007,BRA,Growing tobacco industry,PRK,3.442742344767054e-08,BFA,2016
+2008,BRA,Growing fibre crops industry,PRK,0.0,BFA,2016
+2009,BRA,Growing crops n.e.c. industry,PRK,2.199482714255559e-07,BFA,2016
+2010,BRA,Growing grapes industry,PRK,0.0,BFA,2016
+2011,BRA,Growing fruits and nuts industry,PRK,0.0,BFA,2016
+2012,BRA,"Growing beverage crops (coffee, tea etc) industry",PRK,2.5117993635859188e-08,BFA,2016
+2013,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,3.1168271971651633e-09,BFA,2016
+2014,BRA,Seeds and plant propagation industry,PRK,0.0,BFA,2016
+2015,BRA,Raising of cattle industry,PRK,1.8624107499588865e-06,BFA,2016
+2016,BRA,Growing wheat industry,PRT,0.0,BFA,2016
+2017,BRA,Growing maize industry,PRT,0.0005537242819469786,BFA,2016
+2018,BRA,Growing cereals n.e.c industry,PRT,7.659978303163182e-05,BFA,2016
+2019,BRA,Growing leguminous crops and oil seeds industry,PRT,0.00123223135591194,BFA,2016
+2020,BRA,Growing rice industry,PRT,8.544597550951843e-08,BFA,2016
+2021,BRA,"Growing vegetables, roots, tubers industry",PRT,1.4249685162204993e-07,BFA,2016
+2022,BRA,Growing sugar beet and cane industry,PRT,1.9737614140235812e-05,BFA,2016
+2023,BRA,Growing tobacco industry,PRT,6.287879650567286e-07,BFA,2016
+2024,BRA,Growing fibre crops industry,PRT,0.0,BFA,2016
+2025,BRA,Growing crops n.e.c. industry,PRT,1.903281989329179e-05,BFA,2016
+2026,BRA,Growing grapes industry,PRT,0.0,BFA,2016
+2027,BRA,Growing fruits and nuts industry,PRT,0.0,BFA,2016
+2028,BRA,"Growing beverage crops (coffee, tea etc) industry",PRT,1.0728865806032003e-06,BFA,2016
+2029,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,1.5629952050354576e-07,BFA,2016
+2030,BRA,Seeds and plant propagation industry,PRT,0.0,BFA,2016
+2031,BRA,Raising of cattle industry,PRT,0.00011571962720902462,BFA,2016
+2032,BRA,Growing wheat industry,PRY,0.0,BFA,2016
+2033,BRA,Growing maize industry,PRY,2.47204774194242e-05,BFA,2016
+2034,BRA,Growing cereals n.e.c industry,PRY,4.256867133009631e-06,BFA,2016
+2035,BRA,Growing leguminous crops and oil seeds industry,PRY,6.15699765432441e-05,BFA,2016
+2036,BRA,Growing rice industry,PRY,5.881203019733618e-09,BFA,2016
+2037,BRA,"Growing vegetables, roots, tubers industry",PRY,9.701996092586296e-09,BFA,2016
+2038,BRA,Growing sugar beet and cane industry,PRY,1.1612926492819497e-06,BFA,2016
+2039,BRA,Growing tobacco industry,PRY,5.529470394696537e-08,BFA,2016
+2040,BRA,Growing fibre crops industry,PRY,0.0,BFA,2016
+2041,BRA,Growing crops n.e.c. industry,PRY,7.652851393476929e-07,BFA,2016
+2042,BRA,Growing grapes industry,PRY,0.0,BFA,2016
+2043,BRA,Growing fruits and nuts industry,PRY,0.0,BFA,2016
+2044,BRA,"Growing beverage crops (coffee, tea etc) industry",PRY,7.046572120400578e-08,BFA,2016
+2045,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,1.1969074731968316e-08,BFA,2016
+2046,BRA,Seeds and plant propagation industry,PRY,0.0,BFA,2016
+2047,BRA,Raising of cattle industry,PRY,1.9130822356858538e-05,BFA,2016
+2048,BRA,Growing wheat industry,QAT,0.0,BFA,2016
+2049,BRA,Growing maize industry,QAT,0.00013731786835353028,BFA,2016
+2050,BRA,Growing cereals n.e.c industry,QAT,2.228802900113842e-05,BFA,2016
+2051,BRA,Growing leguminous crops and oil seeds industry,QAT,0.00034130941287565986,BFA,2016
+2052,BRA,Growing rice industry,QAT,2.5395381015233983e-08,BFA,2016
+2053,BRA,"Growing vegetables, roots, tubers industry",QAT,4.9408645291372047e-08,BFA,2016
+2054,BRA,Growing sugar beet and cane industry,QAT,5.723117999569375e-06,BFA,2016
+2055,BRA,Growing tobacco industry,QAT,3.164032221053542e-07,BFA,2016
+2056,BRA,Growing fibre crops industry,QAT,0.0,BFA,2016
+2057,BRA,Growing crops n.e.c. industry,QAT,5.121479478122551e-06,BFA,2016
+2058,BRA,Growing grapes industry,QAT,0.0,BFA,2016
+2059,BRA,Growing fruits and nuts industry,QAT,0.0,BFA,2016
+2060,BRA,"Growing beverage crops (coffee, tea etc) industry",QAT,3.8119010045263305e-07,BFA,2016
+2061,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,7.173382092546188e-08,BFA,2016
+2062,BRA,Seeds and plant propagation industry,QAT,0.0,BFA,2016
+2063,BRA,Raising of cattle industry,QAT,3.203986974295871e-05,BFA,2016
+2064,BRA,Growing wheat industry,ROU,0.0,BFA,2016
+2065,BRA,Growing maize industry,ROU,0.0001435691552330767,BFA,2016
+2066,BRA,Growing cereals n.e.c industry,ROU,2.4479063796573046e-05,BFA,2016
+2067,BRA,Growing leguminous crops and oil seeds industry,ROU,0.000360664038343119,BFA,2016
+2068,BRA,Growing rice industry,ROU,2.7430410137177184e-08,BFA,2016
+2069,BRA,"Growing vegetables, roots, tubers industry",ROU,5.318894859063965e-08,BFA,2016
+2070,BRA,Growing sugar beet and cane industry,ROU,6.059586031957543e-06,BFA,2016
+2071,BRA,Growing tobacco industry,ROU,3.944509038018847e-07,BFA,2016
+2072,BRA,Growing fibre crops industry,ROU,0.0,BFA,2016
+2073,BRA,Growing crops n.e.c. industry,ROU,5.828337812200887e-06,BFA,2016
+2074,BRA,Growing grapes industry,ROU,0.0,BFA,2016
+2075,BRA,Growing fruits and nuts industry,ROU,0.0,BFA,2016
+2076,BRA,"Growing beverage crops (coffee, tea etc) industry",ROU,4.050243521691612e-07,BFA,2016
+2077,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,6.993347314927074e-08,BFA,2016
+2078,BRA,Seeds and plant propagation industry,ROU,0.0,BFA,2016
+2079,BRA,Raising of cattle industry,ROU,3.502820405200033e-05,BFA,2016
+2080,BRA,Growing wheat industry,RUS,0.0,BFA,2016
+2081,BRA,Growing maize industry,RUS,0.002905260764561099,BFA,2016
+2082,BRA,Growing cereals n.e.c industry,RUS,0.0004846078472795371,BFA,2016
+2083,BRA,Growing leguminous crops and oil seeds industry,RUS,0.00823510576535576,BFA,2016
+2084,BRA,Growing rice industry,RUS,1.0115774349621588e-06,BFA,2016
+2085,BRA,"Growing vegetables, roots, tubers industry",RUS,1.3585252654312148e-06,BFA,2016
+2086,BRA,Growing sugar beet and cane industry,RUS,0.00015037258527603067,BFA,2016
+2087,BRA,Growing tobacco industry,RUS,3.811712055830618e-05,BFA,2016
+2088,BRA,Growing fibre crops industry,RUS,0.0,BFA,2016
+2089,BRA,Growing crops n.e.c. industry,RUS,7.237289910296426e-05,BFA,2016
+2090,BRA,Growing grapes industry,RUS,0.0,BFA,2016
+2091,BRA,Growing fruits and nuts industry,RUS,0.0,BFA,2016
+2092,BRA,"Growing beverage crops (coffee, tea etc) industry",RUS,1.5630558806194735e-05,BFA,2016
+2093,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,1.2277287782931366e-06,BFA,2016
+2094,BRA,Seeds and plant propagation industry,RUS,0.0,BFA,2016
+2095,BRA,Raising of cattle industry,RUS,0.0010542734027678886,BFA,2016
+2096,BRA,Growing wheat industry,RWA,0.0,BFA,2016
+2097,BRA,Growing maize industry,RWA,3.7692767621886646e-05,BFA,2016
+2098,BRA,Growing cereals n.e.c industry,RWA,6.423447544338445e-06,BFA,2016
+2099,BRA,Growing leguminous crops and oil seeds industry,RWA,9.332814000180682e-05,BFA,2016
+2100,BRA,Growing rice industry,RWA,7.862790588989826e-09,BFA,2016
+2101,BRA,"Growing vegetables, roots, tubers industry",RWA,1.8273633948080045e-08,BFA,2016
+2102,BRA,Growing sugar beet and cane industry,RWA,1.704170394488341e-06,BFA,2016
+2103,BRA,Growing tobacco industry,RWA,7.483452159738886e-08,BFA,2016
+2104,BRA,Growing fibre crops industry,RWA,0.0,BFA,2016
+2105,BRA,Growing crops n.e.c. industry,RWA,1.3644328238862726e-06,BFA,2016
+2106,BRA,Growing grapes industry,RWA,0.0,BFA,2016
+2107,BRA,Growing fruits and nuts industry,RWA,0.0,BFA,2016
+2108,BRA,"Growing beverage crops (coffee, tea etc) industry",RWA,1.2135771192554957e-07,BFA,2016
+2109,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,1.5519606589368016e-08,BFA,2016
+2110,BRA,Seeds and plant propagation industry,RWA,0.0,BFA,2016
+2111,BRA,Raising of cattle industry,RWA,1.0218999760242386e-05,BFA,2016
+2112,BRA,Growing wheat industry,SAU,0.0,BFA,2016
+2113,BRA,Growing maize industry,SAU,0.0011286941787323607,BFA,2016
+2114,BRA,Growing cereals n.e.c industry,SAU,0.00020016875958727478,BFA,2016
+2115,BRA,Growing leguminous crops and oil seeds industry,SAU,0.0030829598113251266,BFA,2016
+2116,BRA,Growing rice industry,SAU,1.7028876372752217e-07,BFA,2016
+2117,BRA,"Growing vegetables, roots, tubers industry",SAU,3.570778256751285e-07,BFA,2016
+2118,BRA,Growing sugar beet and cane industry,SAU,4.800039846315426e-05,BFA,2016
+2119,BRA,Growing tobacco industry,SAU,1.8218868686239004e-06,BFA,2016
+2120,BRA,Growing fibre crops industry,SAU,0.0,BFA,2016
+2121,BRA,Growing crops n.e.c. industry,SAU,4.932590852749199e-05,BFA,2016
+2122,BRA,Growing grapes industry,SAU,0.0,BFA,2016
+2123,BRA,Growing fruits and nuts industry,SAU,0.0,BFA,2016
+2124,BRA,"Growing beverage crops (coffee, tea etc) industry",SAU,3.071754329078806e-06,BFA,2016
+2125,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,4.870027033175447e-07,BFA,2016
+2126,BRA,Seeds and plant propagation industry,SAU,0.0,BFA,2016
+2127,BRA,Raising of cattle industry,SAU,0.00024217982696566004,BFA,2016
+2128,BRA,Growing wheat industry,SDS,0.0,BFA,2016
+2129,BRA,Growing maize industry,SDS,1.467836418915251e-05,BFA,2016
+2130,BRA,Growing cereals n.e.c industry,SDS,1.8926673650445937e-06,BFA,2016
+2131,BRA,Growing leguminous crops and oil seeds industry,SDS,3.6350065779000196e-05,BFA,2016
+2132,BRA,Growing rice industry,SDS,3.515302944630797e-09,BFA,2016
+2133,BRA,"Growing vegetables, roots, tubers industry",SDS,7.646313952978253e-09,BFA,2016
+2134,BRA,Growing sugar beet and cane industry,SDS,5.470207963050108e-07,BFA,2016
+2135,BRA,Growing tobacco industry,SDS,1.467074330774603e-07,BFA,2016
+2136,BRA,Growing fibre crops industry,SDS,0.0,BFA,2016
+2137,BRA,Growing crops n.e.c. industry,SDS,3.2992935129053396e-07,BFA,2016
+2138,BRA,Growing grapes industry,SDS,0.0,BFA,2016
+2139,BRA,Growing fruits and nuts industry,SDS,0.0,BFA,2016
+2140,BRA,"Growing beverage crops (coffee, tea etc) industry",SDS,6.412936862405211e-08,BFA,2016
+2141,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,4.404204054906186e-09,BFA,2016
+2142,BRA,Seeds and plant propagation industry,SDS,0.0,BFA,2016
+2143,BRA,Raising of cattle industry,SDS,3.6186430045296142e-06,BFA,2016
+2144,BRA,Growing wheat industry,SEN,0.0,BFA,2016
+2145,BRA,Growing maize industry,SEN,0.0007475556930755173,BFA,2016
+2146,BRA,Growing cereals n.e.c industry,SEN,8.485071321038565e-05,BFA,2016
+2147,BRA,Growing leguminous crops and oil seeds industry,SEN,0.0019052018449371637,BFA,2016
+2148,BRA,Growing rice industry,SEN,1.7361424768693046e-07,BFA,2016
+2149,BRA,"Growing vegetables, roots, tubers industry",SEN,3.2954255174381787e-07,BFA,2016
+2150,BRA,Growing sugar beet and cane industry,SEN,2.6615571691053667e-05,BFA,2016
+2151,BRA,Growing tobacco industry,SEN,2.068517705479421e-06,BFA,2016
+2152,BRA,Growing fibre crops industry,SEN,0.0,BFA,2016
+2153,BRA,Growing crops n.e.c. industry,SEN,1.2757050489622831e-05,BFA,2016
+2154,BRA,Growing grapes industry,SEN,0.0,BFA,2016
+2155,BRA,Growing fruits and nuts industry,SEN,0.0,BFA,2016
+2156,BRA,"Growing beverage crops (coffee, tea etc) industry",SEN,2.7005932041211045e-06,BFA,2016
+2157,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,2.392230269200091e-07,BFA,2016
+2158,BRA,Seeds and plant propagation industry,SEN,0.0,BFA,2016
+2159,BRA,Raising of cattle industry,SEN,0.00016043160350824964,BFA,2016
+2160,BRA,Growing wheat industry,SGP,0.0,BFA,2016
+2161,BRA,Growing maize industry,SGP,0.0016586791621078648,BFA,2016
+2162,BRA,Growing cereals n.e.c industry,SGP,0.0004009468114537396,BFA,2016
+2163,BRA,Growing leguminous crops and oil seeds industry,SGP,0.0037060195977431,BFA,2016
+2164,BRA,Growing rice industry,SGP,2.6956425158985553e-07,BFA,2016
+2165,BRA,"Growing vegetables, roots, tubers industry",SGP,4.286173169146404e-07,BFA,2016
+2166,BRA,Growing sugar beet and cane industry,SGP,8.389106177896465e-05,BFA,2016
+2167,BRA,Growing tobacco industry,SGP,3.1476682030400468e-06,BFA,2016
+2168,BRA,Growing fibre crops industry,SGP,0.0,BFA,2016
+2169,BRA,Growing crops n.e.c. industry,SGP,0.00010784938886323343,BFA,2016
+2170,BRA,Growing grapes industry,SGP,0.0,BFA,2016
+2171,BRA,Growing fruits and nuts industry,SGP,0.0,BFA,2016
+2172,BRA,"Growing beverage crops (coffee, tea etc) industry",SGP,3.3238950255659265e-06,BFA,2016
+2173,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,5.673063281423157e-07,BFA,2016
+2174,BRA,Seeds and plant propagation industry,SGP,0.0,BFA,2016
+2175,BRA,Raising of cattle industry,SGP,0.0004302245702284886,BFA,2016
+2176,BRA,Growing wheat industry,SLE,0.0,BFA,2016
+2177,BRA,Growing maize industry,SLE,8.830343505277137e-05,BFA,2016
+2178,BRA,Growing cereals n.e.c industry,SLE,2.2786353047416502e-05,BFA,2016
+2179,BRA,Growing leguminous crops and oil seeds industry,SLE,0.00020874949638524374,BFA,2016
+2180,BRA,Growing rice industry,SLE,1.2515048919743548e-08,BFA,2016
+2181,BRA,"Growing vegetables, roots, tubers industry",SLE,2.360118631585037e-08,BFA,2016
+2182,BRA,Growing sugar beet and cane industry,SLE,4.558074475320643e-06,BFA,2016
+2183,BRA,Growing tobacco industry,SLE,1.1930958485921987e-07,BFA,2016
+2184,BRA,Growing fibre crops industry,SLE,0.0,BFA,2016
+2185,BRA,Growing crops n.e.c. industry,SLE,6.403918954755815e-06,BFA,2016
+2186,BRA,Growing grapes industry,SLE,0.0,BFA,2016
+2187,BRA,Growing fruits and nuts industry,SLE,0.0,BFA,2016
+2188,BRA,"Growing beverage crops (coffee, tea etc) industry",SLE,1.671693721877565e-07,BFA,2016
+2189,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,2.7696149950351313e-08,BFA,2016
+2190,BRA,Seeds and plant propagation industry,SLE,0.0,BFA,2016
+2191,BRA,Raising of cattle industry,SLE,2.346017935411806e-05,BFA,2016
+2192,BRA,Growing wheat industry,SLV,0.0,BFA,2016
+2193,BRA,Growing maize industry,SLV,5.9890474595124076e-05,BFA,2016
+2194,BRA,Growing cereals n.e.c industry,SLV,5.563083079409557e-06,BFA,2016
+2195,BRA,Growing leguminous crops and oil seeds industry,SLV,0.00018080295004784991,BFA,2016
+2196,BRA,Growing rice industry,SLV,1.5097679462544682e-08,BFA,2016
+2197,BRA,"Growing vegetables, roots, tubers industry",SLV,2.2909557811389648e-08,BFA,2016
+2198,BRA,Growing sugar beet and cane industry,SLV,2.0425332014502886e-06,BFA,2016
+2199,BRA,Growing tobacco industry,SLV,7.286012593751099e-08,BFA,2016
+2200,BRA,Growing fibre crops industry,SLV,0.0,BFA,2016
+2201,BRA,Growing crops n.e.c. industry,SLV,8.044724147123819e-07,BFA,2016
+2202,BRA,Growing grapes industry,SLV,0.0,BFA,2016
+2203,BRA,Growing fruits and nuts industry,SLV,0.0,BFA,2016
+2204,BRA,"Growing beverage crops (coffee, tea etc) industry",SLV,1.5910638988935355e-07,BFA,2016
+2205,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,2.0032864076837675e-08,BFA,2016
+2206,BRA,Seeds and plant propagation industry,SLV,0.0,BFA,2016
+2207,BRA,Raising of cattle industry,SLV,1.6242565152102777e-05,BFA,2016
+2208,BRA,Growing wheat industry,SOM,0.0,BFA,2016
+2209,BRA,Growing maize industry,SOM,2.229258763357234e-05,BFA,2016
+2210,BRA,Growing cereals n.e.c industry,SOM,4.986885128916476e-06,BFA,2016
+2211,BRA,Growing leguminous crops and oil seeds industry,SOM,4.762474476664742e-05,BFA,2016
+2212,BRA,Growing rice industry,SOM,2.77651380352933e-09,BFA,2016
+2213,BRA,"Growing vegetables, roots, tubers industry",SOM,5.362432441730512e-09,BFA,2016
+2214,BRA,Growing sugar beet and cane industry,SOM,1.0737557570115547e-06,BFA,2016
+2215,BRA,Growing tobacco industry,SOM,2.7937372106154947e-08,BFA,2016
+2216,BRA,Growing fibre crops industry,SOM,0.0,BFA,2016
+2217,BRA,Growing crops n.e.c. industry,SOM,1.3455566509431322e-06,BFA,2016
+2218,BRA,Growing grapes industry,SOM,0.0,BFA,2016
+2219,BRA,Growing fruits and nuts industry,SOM,0.0,BFA,2016
+2220,BRA,"Growing beverage crops (coffee, tea etc) industry",SOM,4.607508375515311e-08,BFA,2016
+2221,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,7.895906657927754e-09,BFA,2016
+2222,BRA,Seeds and plant propagation industry,SOM,0.0,BFA,2016
+2223,BRA,Raising of cattle industry,SOM,5.128831377954016e-06,BFA,2016
+2224,BRA,Growing wheat industry,SRB,0.0,BFA,2016
+2225,BRA,Growing maize industry,SRB,3.0068920828742644e-05,BFA,2016
+2226,BRA,Growing cereals n.e.c industry,SRB,4.941155537380829e-06,BFA,2016
+2227,BRA,Growing leguminous crops and oil seeds industry,SRB,6.58845716378836e-05,BFA,2016
+2228,BRA,Growing rice industry,SRB,5.2622802927232965e-09,BFA,2016
+2229,BRA,"Growing vegetables, roots, tubers industry",SRB,9.697891804662144e-09,BFA,2016
+2230,BRA,Growing sugar beet and cane industry,SRB,1.2057438786212992e-06,BFA,2016
+2231,BRA,Growing tobacco industry,SRB,7.250340748679851e-08,BFA,2016
+2232,BRA,Growing fibre crops industry,SRB,0.0,BFA,2016
+2233,BRA,Growing crops n.e.c. industry,SRB,1.2007844210575713e-06,BFA,2016
+2234,BRA,Growing grapes industry,SRB,0.0,BFA,2016
+2235,BRA,Growing fruits and nuts industry,SRB,0.0,BFA,2016
+2236,BRA,"Growing beverage crops (coffee, tea etc) industry",SRB,7.50400666487903e-08,BFA,2016
+2237,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,1.1888066547142128e-08,BFA,2016
+2238,BRA,Seeds and plant propagation industry,SRB,0.0,BFA,2016
+2239,BRA,Raising of cattle industry,SRB,6.899847235616207e-06,BFA,2016
+2240,BRA,Growing wheat industry,SDN,0.0,BFA,2016
+2241,BRA,Growing maize industry,SDN,0.00016674169664659795,BFA,2016
+2242,BRA,Growing cereals n.e.c industry,SDN,1.6176105773327538e-05,BFA,2016
+2243,BRA,Growing leguminous crops and oil seeds industry,SDN,0.0004571544127183288,BFA,2016
+2244,BRA,Growing rice industry,SDN,3.0685911261026526e-08,BFA,2016
+2245,BRA,"Growing vegetables, roots, tubers industry",SDN,6.138835275332457e-08,BFA,2016
+2246,BRA,Growing sugar beet and cane industry,SDN,5.591125109100697e-06,BFA,2016
+2247,BRA,Growing tobacco industry,SDN,1.995119460353034e-07,BFA,2016
+2248,BRA,Growing fibre crops industry,SDN,0.0,BFA,2016
+2249,BRA,Growing crops n.e.c. industry,SDN,2.64939266719873e-06,BFA,2016
+2250,BRA,Growing grapes industry,SDN,0.0,BFA,2016
+2251,BRA,Growing fruits and nuts industry,SDN,0.0,BFA,2016
+2252,BRA,"Growing beverage crops (coffee, tea etc) industry",SDN,4.957501441228557e-07,BFA,2016
+2253,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,6.464162996881608e-08,BFA,2016
+2254,BRA,Seeds and plant propagation industry,SDN,0.0,BFA,2016
+2255,BRA,Raising of cattle industry,SDN,3.3208552187806965e-05,BFA,2016
+2256,BRA,Growing wheat industry,SVK,0.0,BFA,2016
+2257,BRA,Growing maize industry,SVK,0.00017276754566120675,BFA,2016
+2258,BRA,Growing cereals n.e.c industry,SVK,3.197227524089157e-05,BFA,2016
+2259,BRA,Growing leguminous crops and oil seeds industry,SVK,0.0004530101732966447,BFA,2016
+2260,BRA,Growing rice industry,SVK,3.343329067603151e-08,BFA,2016
+2261,BRA,"Growing vegetables, roots, tubers industry",SVK,5.8412873026935745e-08,BFA,2016
+2262,BRA,Growing sugar beet and cane industry,SVK,7.4393119104769264e-06,BFA,2016
+2263,BRA,Growing tobacco industry,SVK,3.1162377840963554e-07,BFA,2016
+2264,BRA,Growing fibre crops industry,SVK,0.0,BFA,2016
+2265,BRA,Growing crops n.e.c. industry,SVK,7.354984224007161e-06,BFA,2016
+2266,BRA,Growing grapes industry,SVK,0.0,BFA,2016
+2267,BRA,Growing fruits and nuts industry,SVK,0.0,BFA,2016
+2268,BRA,"Growing beverage crops (coffee, tea etc) industry",SVK,4.28562001753702e-07,BFA,2016
+2269,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,1.991448687530073e-07,BFA,2016
+2270,BRA,Seeds and plant propagation industry,SVK,0.0,BFA,2016
+2271,BRA,Raising of cattle industry,SVK,4.229663287354875e-05,BFA,2016
+2272,BRA,Growing wheat industry,SVN,0.0,BFA,2016
+2273,BRA,Growing maize industry,SVN,0.0001835481726396146,BFA,2016
+2274,BRA,Growing cereals n.e.c industry,SVN,4.3134882339250285e-05,BFA,2016
+2275,BRA,Growing leguminous crops and oil seeds industry,SVN,0.0003630061177588036,BFA,2016
+2276,BRA,Growing rice industry,SVN,2.1505709331690622e-08,BFA,2016
+2277,BRA,"Growing vegetables, roots, tubers industry",SVN,3.999961661105972e-08,BFA,2016
+2278,BRA,Growing sugar beet and cane industry,SVN,8.736670228070093e-06,BFA,2016
+2279,BRA,Growing tobacco industry,SVN,1.7690960553926166e-07,BFA,2016
+2280,BRA,Growing fibre crops industry,SVN,0.0,BFA,2016
+2281,BRA,Growing crops n.e.c. industry,SVN,1.2398091366244532e-05,BFA,2016
+2282,BRA,Growing grapes industry,SVN,0.0,BFA,2016
+2283,BRA,Growing fruits and nuts industry,SVN,0.0,BFA,2016
+2284,BRA,"Growing beverage crops (coffee, tea etc) industry",SVN,2.9561126633532216e-07,BFA,2016
+2285,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,5.300339854380059e-08,BFA,2016
+2286,BRA,Seeds and plant propagation industry,SVN,0.0,BFA,2016
+2287,BRA,Raising of cattle industry,SVN,4.115606406923121e-05,BFA,2016
+2288,BRA,Growing wheat industry,SWE,0.0,BFA,2016
+2289,BRA,Growing maize industry,SWE,0.0006567820907247213,BFA,2016
+2290,BRA,Growing cereals n.e.c industry,SWE,0.00014230222524911964,BFA,2016
+2291,BRA,Growing leguminous crops and oil seeds industry,SWE,0.0014431301207324812,BFA,2016
+2292,BRA,Growing rice industry,SWE,1.023077789986342e-07,BFA,2016
+2293,BRA,"Growing vegetables, roots, tubers industry",SWE,2.0849559252466088e-07,BFA,2016
+2294,BRA,Growing sugar beet and cane industry,SWE,3.0922615003789675e-05,BFA,2016
+2295,BRA,Growing tobacco industry,SWE,1.1528306115133557e-06,BFA,2016
+2296,BRA,Growing fibre crops industry,SWE,0.0,BFA,2016
+2297,BRA,Growing crops n.e.c. industry,SWE,3.4950465426512335e-05,BFA,2016
+2298,BRA,Growing grapes industry,SWE,0.0,BFA,2016
+2299,BRA,Growing fruits and nuts industry,SWE,0.0,BFA,2016
+2300,BRA,"Growing beverage crops (coffee, tea etc) industry",SWE,1.4181233234255322e-06,BFA,2016
+2301,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,2.2496357964817855e-07,BFA,2016
+2302,BRA,Seeds and plant propagation industry,SWE,0.0,BFA,2016
+2303,BRA,Raising of cattle industry,SWE,0.00015903983387945616,BFA,2016
+2304,BRA,Growing wheat industry,SYR,0.0,BFA,2016
+2305,BRA,Growing maize industry,SYR,0.00012656039847334062,BFA,2016
+2306,BRA,Growing cereals n.e.c industry,SYR,2.907806738473754e-05,BFA,2016
+2307,BRA,Growing leguminous crops and oil seeds industry,SYR,0.00029537459240661844,BFA,2016
+2308,BRA,Growing rice industry,SYR,1.7611227834523453e-08,BFA,2016
+2309,BRA,"Growing vegetables, roots, tubers industry",SYR,3.1322009001142866e-08,BFA,2016
+2310,BRA,Growing sugar beet and cane industry,SYR,6.423809424993262e-06,BFA,2016
+2311,BRA,Growing tobacco industry,SYR,1.5339966822986716e-07,BFA,2016
+2312,BRA,Growing fibre crops industry,SYR,0.0,BFA,2016
+2313,BRA,Growing crops n.e.c. industry,SYR,7.139830569567912e-06,BFA,2016
+2314,BRA,Growing grapes industry,SYR,0.0,BFA,2016
+2315,BRA,Growing fruits and nuts industry,SYR,0.0,BFA,2016
+2316,BRA,"Growing beverage crops (coffee, tea etc) industry",SYR,2.738531004935987e-07,BFA,2016
+2317,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,4.899207683957277e-08,BFA,2016
+2318,BRA,Seeds and plant propagation industry,SYR,0.0,BFA,2016
+2319,BRA,Raising of cattle industry,SYR,3.142868794603048e-05,BFA,2016
+2320,BRA,Growing wheat industry,TCD,0.0,BFA,2016
+2321,BRA,Growing maize industry,TCD,0.0003018466202986163,BFA,2016
+2322,BRA,Growing cereals n.e.c industry,TCD,2.0423739453211168e-05,BFA,2016
+2323,BRA,Growing leguminous crops and oil seeds industry,TCD,0.0004905248857599706,BFA,2016
+2324,BRA,Growing rice industry,TCD,3.7379295819793954e-08,BFA,2016
+2325,BRA,"Growing vegetables, roots, tubers industry",TCD,9.89738037239445e-08,BFA,2016
+2326,BRA,Growing sugar beet and cane industry,TCD,6.778101324818561e-06,BFA,2016
+2327,BRA,Growing tobacco industry,TCD,5.668730967109699e-07,BFA,2016
+2328,BRA,Growing fibre crops industry,TCD,0.0,BFA,2016
+2329,BRA,Growing crops n.e.c. industry,TCD,3.9281395172624835e-06,BFA,2016
+2330,BRA,Growing grapes industry,TCD,0.0,BFA,2016
+2331,BRA,Growing fruits and nuts industry,TCD,0.0,BFA,2016
+2332,BRA,"Growing beverage crops (coffee, tea etc) industry",TCD,4.845538320624923e-07,BFA,2016
+2333,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,6.691105600714676e-08,BFA,2016
+2334,BRA,Seeds and plant propagation industry,TCD,0.0,BFA,2016
+2335,BRA,Raising of cattle industry,TCD,6.266413998140019e-05,BFA,2016
+2336,BRA,Growing wheat industry,TGO,0.0,BFA,2016
+2337,BRA,Growing maize industry,TGO,0.0018461262007253437,BFA,2016
+2338,BRA,Growing cereals n.e.c industry,TGO,0.00040242244758348584,BFA,2016
+2339,BRA,Growing leguminous crops and oil seeds industry,TGO,0.0035100970812436036,BFA,2016
+2340,BRA,Growing rice industry,TGO,2.1813289545097715e-07,BFA,2016
+2341,BRA,"Growing vegetables, roots, tubers industry",TGO,4.022395483056825e-07,BFA,2016
+2342,BRA,Growing sugar beet and cane industry,TGO,8.468504286470416e-05,BFA,2016
+2343,BRA,Growing tobacco industry,TGO,2.4445820057226374e-06,BFA,2016
+2344,BRA,Growing fibre crops industry,TGO,0.0,BFA,2016
+2345,BRA,Growing crops n.e.c. industry,TGO,0.00011062362767312802,BFA,2016
+2346,BRA,Growing grapes industry,TGO,0.0,BFA,2016
+2347,BRA,Growing fruits and nuts industry,TGO,0.0,BFA,2016
+2348,BRA,"Growing beverage crops (coffee, tea etc) industry",TGO,3.031539994864036e-06,BFA,2016
+2349,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,4.5852865442342034e-07,BFA,2016
+2350,BRA,Seeds and plant propagation industry,TGO,0.0,BFA,2016
+2351,BRA,Raising of cattle industry,TGO,0.0005401632550015495,BFA,2016
+2352,BRA,Growing wheat industry,THA,0.0,BFA,2016
+2353,BRA,Growing maize industry,THA,0.004065135001356865,BFA,2016
+2354,BRA,Growing cereals n.e.c industry,THA,0.000934638974332702,BFA,2016
+2355,BRA,Growing leguminous crops and oil seeds industry,THA,0.00834097723316162,BFA,2016
+2356,BRA,Growing rice industry,THA,6.258626450242543e-07,BFA,2016
+2357,BRA,"Growing vegetables, roots, tubers industry",THA,1.0038839278665268e-06,BFA,2016
+2358,BRA,Growing sugar beet and cane industry,THA,0.00019839467869769278,BFA,2016
+2359,BRA,Growing tobacco industry,THA,1.1677756361400547e-05,BFA,2016
+2360,BRA,Growing fibre crops industry,THA,0.0,BFA,2016
+2361,BRA,Growing crops n.e.c. industry,THA,0.0002569293562244164,BFA,2016
+2362,BRA,Growing grapes industry,THA,0.0,BFA,2016
+2363,BRA,Growing fruits and nuts industry,THA,0.0,BFA,2016
+2364,BRA,"Growing beverage crops (coffee, tea etc) industry",THA,8.684149120475606e-06,BFA,2016
+2365,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,1.1441576564904667e-06,BFA,2016
+2366,BRA,Seeds and plant propagation industry,THA,0.0,BFA,2016
+2367,BRA,Raising of cattle industry,THA,0.0009933309496677177,BFA,2016
+2368,BRA,Growing wheat industry,TJK,0.0,BFA,2016
+2369,BRA,Growing maize industry,TJK,1.4766725632886574e-05,BFA,2016
+2370,BRA,Growing cereals n.e.c industry,TJK,2.1574212675190457e-06,BFA,2016
+2371,BRA,Growing leguminous crops and oil seeds industry,TJK,3.88511302801634e-05,BFA,2016
+2372,BRA,Growing rice industry,TJK,3.381529768430506e-09,BFA,2016
+2373,BRA,"Growing vegetables, roots, tubers industry",TJK,5.658128370607881e-09,BFA,2016
+2374,BRA,Growing sugar beet and cane industry,TJK,6.128405820669663e-07,BFA,2016
+2375,BRA,Growing tobacco industry,TJK,4.622649294703471e-08,BFA,2016
+2376,BRA,Growing fibre crops industry,TJK,0.0,BFA,2016
+2377,BRA,Growing crops n.e.c. industry,TJK,4.6125293770940025e-07,BFA,2016
+2378,BRA,Growing grapes industry,TJK,0.0,BFA,2016
+2379,BRA,Growing fruits and nuts industry,TJK,0.0,BFA,2016
+2380,BRA,"Growing beverage crops (coffee, tea etc) industry",TJK,4.674280048754794e-08,BFA,2016
+2381,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,7.663895414743334e-09,BFA,2016
+2382,BRA,Seeds and plant propagation industry,TJK,0.0,BFA,2016
+2383,BRA,Raising of cattle industry,TJK,3.4272964657125554e-06,BFA,2016
+2384,BRA,Growing wheat industry,TKM,0.0,BFA,2016
+2385,BRA,Growing maize industry,TKM,1.6269078328852508e-05,BFA,2016
+2386,BRA,Growing cereals n.e.c industry,TKM,2.693740353750616e-06,BFA,2016
+2387,BRA,Growing leguminous crops and oil seeds industry,TKM,4.262937321346644e-05,BFA,2016
+2388,BRA,Growing rice industry,TKM,3.4983118781405763e-09,BFA,2016
+2389,BRA,"Growing vegetables, roots, tubers industry",TKM,5.978792504537897e-09,BFA,2016
+2390,BRA,Growing sugar beet and cane industry,TKM,7.296784358476743e-07,BFA,2016
+2391,BRA,Growing tobacco industry,TKM,6.033669961390473e-08,BFA,2016
+2392,BRA,Growing fibre crops industry,TKM,0.0,BFA,2016
+2393,BRA,Growing crops n.e.c. industry,TKM,5.857848486514394e-07,BFA,2016
+2394,BRA,Growing grapes industry,TKM,0.0,BFA,2016
+2395,BRA,Growing fruits and nuts industry,TKM,0.0,BFA,2016
+2396,BRA,"Growing beverage crops (coffee, tea etc) industry",TKM,5.3512736719862107e-08,BFA,2016
+2397,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,9.210938119518838e-09,BFA,2016
+2398,BRA,Seeds and plant propagation industry,TKM,0.0,BFA,2016
+2399,BRA,Raising of cattle industry,TKM,4.103745124962873e-06,BFA,2016
+2400,BRA,Growing wheat industry,TUN,0.0,BFA,2016
+2401,BRA,Growing maize industry,TUN,0.00018772329536133084,BFA,2016
+2402,BRA,Growing cereals n.e.c industry,TUN,3.932902897940854e-05,BFA,2016
+2403,BRA,Growing leguminous crops and oil seeds industry,TUN,0.0004115018035428534,BFA,2016
+2404,BRA,Growing rice industry,TUN,2.7412734171811035e-08,BFA,2016
+2405,BRA,"Growing vegetables, roots, tubers industry",TUN,5.5059060063801224e-08,BFA,2016
+2406,BRA,Growing sugar beet and cane industry,TUN,8.503592809693735e-06,BFA,2016
+2407,BRA,Growing tobacco industry,TUN,2.862202935418102e-07,BFA,2016
+2408,BRA,Growing fibre crops industry,TUN,0.0,BFA,2016
+2409,BRA,Growing crops n.e.c. industry,TUN,1.0504282320908577e-05,BFA,2016
+2410,BRA,Growing grapes industry,TUN,0.0,BFA,2016
+2411,BRA,Growing fruits and nuts industry,TUN,0.0,BFA,2016
+2412,BRA,"Growing beverage crops (coffee, tea etc) industry",TUN,4.0313327592273986e-07,BFA,2016
+2413,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,6.49431758503149e-08,BFA,2016
+2414,BRA,Seeds and plant propagation industry,TUN,0.0,BFA,2016
+2415,BRA,Raising of cattle industry,TUN,4.3382522824728686e-05,BFA,2016
+2416,BRA,Growing wheat industry,TUR,0.0,BFA,2016
+2417,BRA,Growing maize industry,TUR,0.010217053833466012,BFA,2016
+2418,BRA,Growing cereals n.e.c industry,TUR,0.0009618357312725158,BFA,2016
+2419,BRA,Growing leguminous crops and oil seeds industry,TUR,0.035842166153483554,BFA,2016
+2420,BRA,Growing rice industry,TUR,1.659404116492198e-06,BFA,2016
+2421,BRA,"Growing vegetables, roots, tubers industry",TUR,4.3537655000313075e-06,BFA,2016
+2422,BRA,Growing sugar beet and cane industry,TUR,0.0004353157585249361,BFA,2016
+2423,BRA,Growing tobacco industry,TUR,1.739471917489741e-05,BFA,2016
+2424,BRA,Growing fibre crops industry,TUR,0.0,BFA,2016
+2425,BRA,Growing crops n.e.c. industry,TUR,0.0001283616007474192,BFA,2016
+2426,BRA,Growing grapes industry,TUR,0.0,BFA,2016
+2427,BRA,Growing fruits and nuts industry,TUR,0.0,BFA,2016
+2428,BRA,"Growing beverage crops (coffee, tea etc) industry",TUR,4.447256486897168e-05,BFA,2016
+2429,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,9.738862924645375e-06,BFA,2016
+2430,BRA,Seeds and plant propagation industry,TUR,0.0,BFA,2016
+2431,BRA,Raising of cattle industry,TUR,0.002508030925396337,BFA,2016
+2432,BRA,Growing wheat industry,TZA,0.0,BFA,2016
+2433,BRA,Growing maize industry,TZA,9.586089453772622e-05,BFA,2016
+2434,BRA,Growing cereals n.e.c industry,TZA,1.4260943325984145e-05,BFA,2016
+2435,BRA,Growing leguminous crops and oil seeds industry,TZA,0.00023523096331157234,BFA,2016
+2436,BRA,Growing rice industry,TZA,1.819056480045165e-08,BFA,2016
+2437,BRA,"Growing vegetables, roots, tubers industry",TZA,4.1422846241121974e-08,BFA,2016
+2438,BRA,Growing sugar beet and cane industry,TZA,3.5734409699017087e-06,BFA,2016
+2439,BRA,Growing tobacco industry,TZA,2.4634424663342026e-07,BFA,2016
+2440,BRA,Growing fibre crops industry,TZA,0.0,BFA,2016
+2441,BRA,Growing crops n.e.c. industry,TZA,3.368404387851573e-06,BFA,2016
+2442,BRA,Growing grapes industry,TZA,0.0,BFA,2016
+2443,BRA,Growing fruits and nuts industry,TZA,0.0,BFA,2016
+2444,BRA,"Growing beverage crops (coffee, tea etc) industry",TZA,2.506247509453045e-07,BFA,2016
+2445,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,4.6357098359485753e-08,BFA,2016
+2446,BRA,Seeds and plant propagation industry,TZA,0.0,BFA,2016
+2447,BRA,Raising of cattle industry,TZA,2.1269560952814116e-05,BFA,2016
+2448,BRA,Growing wheat industry,UGA,0.0,BFA,2016
+2449,BRA,Growing maize industry,UGA,0.0009568131717762778,BFA,2016
+2450,BRA,Growing cereals n.e.c industry,UGA,8.5760771373526e-05,BFA,2016
+2451,BRA,Growing leguminous crops and oil seeds industry,UGA,0.0034028984600596147,BFA,2016
+2452,BRA,Growing rice industry,UGA,1.567954082678429e-07,BFA,2016
+2453,BRA,"Growing vegetables, roots, tubers industry",UGA,4.2073672403564407e-07,BFA,2016
+2454,BRA,Growing sugar beet and cane industry,UGA,4.0757386430057274e-05,BFA,2016
+2455,BRA,Growing tobacco industry,UGA,1.6353979330628076e-06,BFA,2016
+2456,BRA,Growing fibre crops industry,UGA,0.0,BFA,2016
+2457,BRA,Growing crops n.e.c. industry,UGA,1.0150974809759896e-05,BFA,2016
+2458,BRA,Growing grapes industry,UGA,0.0,BFA,2016
+2459,BRA,Growing fruits and nuts industry,UGA,0.0,BFA,2016
+2460,BRA,"Growing beverage crops (coffee, tea etc) industry",UGA,4.251675474337332e-06,BFA,2016
+2461,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,9.314695905719566e-07,BFA,2016
+2462,BRA,Seeds and plant propagation industry,UGA,0.0,BFA,2016
+2463,BRA,Raising of cattle industry,UGA,0.00023437936670490917,BFA,2016
+2464,BRA,Growing wheat industry,UKR,0.0,BFA,2016
+2465,BRA,Growing maize industry,UKR,0.00028091093861102554,BFA,2016
+2466,BRA,Growing cereals n.e.c industry,UKR,5.4731685316014076e-05,BFA,2016
+2467,BRA,Growing leguminous crops and oil seeds industry,UKR,0.000617080082236373,BFA,2016
+2468,BRA,Growing rice industry,UKR,4.7005419578601914e-08,BFA,2016
+2469,BRA,"Growing vegetables, roots, tubers industry",UKR,8.622571195090386e-08,BFA,2016
+2470,BRA,Growing sugar beet and cane industry,UKR,1.257394700383407e-05,BFA,2016
+2471,BRA,Growing tobacco industry,UKR,6.484163709226765e-07,BFA,2016
+2472,BRA,Growing fibre crops industry,UKR,0.0,BFA,2016
+2473,BRA,Growing crops n.e.c. industry,UKR,1.361651361736224e-05,BFA,2016
+2474,BRA,Growing grapes industry,UKR,0.0,BFA,2016
+2475,BRA,Growing fruits and nuts industry,UKR,0.0,BFA,2016
+2476,BRA,"Growing beverage crops (coffee, tea etc) industry",UKR,6.72477648523108e-07,BFA,2016
+2477,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,9.943136444123496e-08,BFA,2016
+2478,BRA,Seeds and plant propagation industry,UKR,0.0,BFA,2016
+2479,BRA,Raising of cattle industry,UKR,6.623691032346267e-05,BFA,2016
+2480,BRA,Growing wheat industry,URY,0.0,BFA,2016
+2481,BRA,Growing maize industry,URY,5.529045057205131e-05,BFA,2016
+2482,BRA,Growing cereals n.e.c industry,URY,1.178385026302657e-05,BFA,2016
+2483,BRA,Growing leguminous crops and oil seeds industry,URY,0.0001173593341057973,BFA,2016
+2484,BRA,Growing rice industry,URY,9.525892465042592e-09,BFA,2016
+2485,BRA,"Growing vegetables, roots, tubers industry",URY,1.4834147314237186e-08,BFA,2016
+2486,BRA,Growing sugar beet and cane industry,URY,2.520386655940861e-06,BFA,2016
+2487,BRA,Growing tobacco industry,URY,7.927030262808556e-08,BFA,2016
+2488,BRA,Growing fibre crops industry,URY,0.0,BFA,2016
+2489,BRA,Growing crops n.e.c. industry,URY,3.1699790286499007e-06,BFA,2016
+2490,BRA,Growing grapes industry,URY,0.0,BFA,2016
+2491,BRA,Growing fruits and nuts industry,URY,0.0,BFA,2016
+2492,BRA,"Growing beverage crops (coffee, tea etc) industry",URY,1.0563408772620938e-07,BFA,2016
+2493,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,1.964369380455383e-08,BFA,2016
+2494,BRA,Seeds and plant propagation industry,URY,0.0,BFA,2016
+2495,BRA,Raising of cattle industry,URY,1.2836628094442742e-05,BFA,2016
+2496,BRA,Growing wheat industry,USA,0.0,BFA,2016
+2497,BRA,Growing maize industry,USA,0.008606076048993026,BFA,2016
+2498,BRA,Growing cereals n.e.c industry,USA,0.0013846327959566723,BFA,2016
+2499,BRA,Growing leguminous crops and oil seeds industry,USA,0.02035773380113032,BFA,2016
+2500,BRA,Growing rice industry,USA,1.9096443151235218e-06,BFA,2016
+2501,BRA,"Growing vegetables, roots, tubers industry",USA,3.552726128196973e-06,BFA,2016
+2502,BRA,Growing sugar beet and cane industry,USA,0.00033327042684330564,BFA,2016
+2503,BRA,Growing tobacco industry,USA,2.5215143889312867e-05,BFA,2016
+2504,BRA,Growing fibre crops industry,USA,0.0,BFA,2016
+2505,BRA,Growing crops n.e.c. industry,USA,0.0003261580215215049,BFA,2016
+2506,BRA,Growing grapes industry,USA,0.0,BFA,2016
+2507,BRA,Growing fruits and nuts industry,USA,0.0,BFA,2016
+2508,BRA,"Growing beverage crops (coffee, tea etc) industry",USA,2.231870395709468e-05,BFA,2016
+2509,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,4.4227837130475236e-06,BFA,2016
+2510,BRA,Seeds and plant propagation industry,USA,0.0,BFA,2016
+2511,BRA,Raising of cattle industry,USA,0.002033575754383164,BFA,2016
+2512,BRA,Growing wheat industry,UZB,0.0,BFA,2016
+2513,BRA,Growing maize industry,UZB,4.1677347539204705e-05,BFA,2016
+2514,BRA,Growing cereals n.e.c industry,UZB,5.709607464906185e-06,BFA,2016
+2515,BRA,Growing leguminous crops and oil seeds industry,UZB,0.00011831680736835237,BFA,2016
+2516,BRA,Growing rice industry,UZB,1.0317905836057999e-08,BFA,2016
+2517,BRA,"Growing vegetables, roots, tubers industry",UZB,1.7182012411703115e-08,BFA,2016
+2518,BRA,Growing sugar beet and cane industry,UZB,1.6603094828273878e-06,BFA,2016
+2519,BRA,Growing tobacco industry,UZB,1.3026882114893073e-07,BFA,2016
+2520,BRA,Growing fibre crops industry,UZB,0.0,BFA,2016
+2521,BRA,Growing crops n.e.c. industry,UZB,1.1554785535306158e-06,BFA,2016
+2522,BRA,Growing grapes industry,UZB,0.0,BFA,2016
+2523,BRA,Growing fruits and nuts industry,UZB,0.0,BFA,2016
+2524,BRA,"Growing beverage crops (coffee, tea etc) industry",UZB,1.307461591419694e-07,BFA,2016
+2525,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,2.101202686143766e-08,BFA,2016
+2526,BRA,Seeds and plant propagation industry,UZB,0.0,BFA,2016
+2527,BRA,Raising of cattle industry,UZB,9.994188486055829e-06,BFA,2016
+2528,BRA,Growing wheat industry,VEN,0.0,BFA,2016
+2529,BRA,Growing maize industry,VEN,0.002084278412675356,BFA,2016
+2530,BRA,Growing cereals n.e.c industry,VEN,0.00014451414819621866,BFA,2016
+2531,BRA,Growing leguminous crops and oil seeds industry,VEN,0.004870171120686754,BFA,2016
+2532,BRA,Growing rice industry,VEN,3.7401444646874076e-07,BFA,2016
+2533,BRA,"Growing vegetables, roots, tubers industry",VEN,5.780652705112616e-07,BFA,2016
+2534,BRA,Growing sugar beet and cane industry,VEN,5.694538942646436e-05,BFA,2016
+2535,BRA,Growing tobacco industry,VEN,1.7611981561926905e-06,BFA,2016
+2536,BRA,Growing fibre crops industry,VEN,0.0,BFA,2016
+2537,BRA,Growing crops n.e.c. industry,VEN,2.1896132324806445e-05,BFA,2016
+2538,BRA,Growing grapes industry,VEN,0.0,BFA,2016
+2539,BRA,Growing fruits and nuts industry,VEN,0.0,BFA,2016
+2540,BRA,"Growing beverage crops (coffee, tea etc) industry",VEN,4.207084210335871e-06,BFA,2016
+2541,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,5.775674923130937e-07,BFA,2016
+2542,BRA,Seeds and plant propagation industry,VEN,0.0,BFA,2016
+2543,BRA,Raising of cattle industry,VEN,0.00039863543014811254,BFA,2016
+2544,BRA,Growing wheat industry,VNM,0.0,BFA,2016
+2545,BRA,Growing maize industry,VNM,0.0028037198945318944,BFA,2016
+2546,BRA,Growing cereals n.e.c industry,VNM,0.0007576499655625091,BFA,2016
+2547,BRA,Growing leguminous crops and oil seeds industry,VNM,0.0056996443356543665,BFA,2016
+2548,BRA,Growing rice industry,VNM,3.3621216262013307e-07,BFA,2016
+2549,BRA,"Growing vegetables, roots, tubers industry",VNM,6.083753375632371e-07,BFA,2016
+2550,BRA,Growing sugar beet and cane industry,VNM,0.0001499965351996683,BFA,2016
+2551,BRA,Growing tobacco industry,VNM,2.65693043636944e-06,BFA,2016
+2552,BRA,Growing fibre crops industry,VNM,0.0,BFA,2016
+2553,BRA,Growing crops n.e.c. industry,VNM,0.00019817020027794926,BFA,2016
+2554,BRA,Growing grapes industry,VNM,0.0,BFA,2016
+2555,BRA,Growing fruits and nuts industry,VNM,0.0,BFA,2016
+2556,BRA,"Growing beverage crops (coffee, tea etc) industry",VNM,4.3622606137565596e-06,BFA,2016
+2557,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,7.856287817353405e-07,BFA,2016
+2558,BRA,Seeds and plant propagation industry,VNM,0.0,BFA,2016
+2559,BRA,Raising of cattle industry,VNM,0.000706107643783052,BFA,2016
+2560,BRA,Growing wheat industry,YEM,0.0,BFA,2016
+2561,BRA,Growing maize industry,YEM,5.9208764542827254e-05,BFA,2016
+2562,BRA,Growing cereals n.e.c industry,YEM,1.3329617798868784e-05,BFA,2016
+2563,BRA,Growing leguminous crops and oil seeds industry,YEM,0.00012632228510814567,BFA,2016
+2564,BRA,Growing rice industry,YEM,9.176901204386031e-09,BFA,2016
+2565,BRA,"Growing vegetables, roots, tubers industry",YEM,1.5256375720426296e-08,BFA,2016
+2566,BRA,Growing sugar beet and cane industry,YEM,2.834634478016114e-06,BFA,2016
+2567,BRA,Growing tobacco industry,YEM,8.802640101414083e-08,BFA,2016
+2568,BRA,Growing fibre crops industry,YEM,0.0,BFA,2016
+2569,BRA,Growing crops n.e.c. industry,YEM,3.561787133045838e-06,BFA,2016
+2570,BRA,Growing grapes industry,YEM,0.0,BFA,2016
+2571,BRA,Growing fruits and nuts industry,YEM,0.0,BFA,2016
+2572,BRA,"Growing beverage crops (coffee, tea etc) industry",YEM,1.1733499819892855e-07,BFA,2016
+2573,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,2.1683916675603918e-08,BFA,2016
+2574,BRA,Seeds and plant propagation industry,YEM,0.0,BFA,2016
+2575,BRA,Raising of cattle industry,YEM,1.3784235136539878e-05,BFA,2016
+2576,BRA,Growing wheat industry,ZAF,0.0,BFA,2016
+2577,BRA,Growing maize industry,ZAF,0.0020393373221549737,BFA,2016
+2578,BRA,Growing cereals n.e.c industry,ZAF,0.00027693956046649735,BFA,2016
+2579,BRA,Growing leguminous crops and oil seeds industry,ZAF,0.00569255185355228,BFA,2016
+2580,BRA,Growing rice industry,ZAF,3.6065957723399217e-07,BFA,2016
+2581,BRA,"Growing vegetables, roots, tubers industry",ZAF,8.407138421656311e-07,BFA,2016
+2582,BRA,Growing sugar beet and cane industry,ZAF,8.416991914827237e-05,BFA,2016
+2583,BRA,Growing tobacco industry,ZAF,5.675825353331861e-06,BFA,2016
+2584,BRA,Growing fibre crops industry,ZAF,0.0,BFA,2016
+2585,BRA,Growing crops n.e.c. industry,ZAF,5.750371560961041e-05,BFA,2016
+2586,BRA,Growing grapes industry,ZAF,0.0,BFA,2016
+2587,BRA,Growing fruits and nuts industry,ZAF,0.0,BFA,2016
+2588,BRA,"Growing beverage crops (coffee, tea etc) industry",ZAF,7.0288676579364996e-06,BFA,2016
+2589,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,1.2331422125504318e-06,BFA,2016
+2590,BRA,Seeds and plant propagation industry,ZAF,0.0,BFA,2016
+2591,BRA,Raising of cattle industry,ZAF,0.000496667191153327,BFA,2016
+2592,BRA,Growing wheat industry,ZMB,0.0,BFA,2016
+2593,BRA,Growing maize industry,ZMB,0.0006205692773560386,BFA,2016
+2594,BRA,Growing cereals n.e.c industry,ZMB,0.0001504674947051065,BFA,2016
+2595,BRA,Growing leguminous crops and oil seeds industry,ZMB,0.0012222022296302349,BFA,2016
+2596,BRA,Growing rice industry,ZMB,6.605652849870743e-08,BFA,2016
+2597,BRA,"Growing vegetables, roots, tubers industry",ZMB,1.2740690462681067e-07,BFA,2016
+2598,BRA,Growing sugar beet and cane industry,ZMB,3.0688097778095016e-05,BFA,2016
+2599,BRA,Growing tobacco industry,ZMB,4.023653167784772e-07,BFA,2016
+2600,BRA,Growing fibre crops industry,ZMB,0.0,BFA,2016
+2601,BRA,Growing crops n.e.c. industry,ZMB,4.3147783676113056e-05,BFA,2016
+2602,BRA,Growing grapes industry,ZMB,0.0,BFA,2016
+2603,BRA,Growing fruits and nuts industry,ZMB,0.0,BFA,2016
+2604,BRA,"Growing beverage crops (coffee, tea etc) industry",ZMB,1.002204286512669e-06,BFA,2016
+2605,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,1.8363541996736007e-07,BFA,2016
+2606,BRA,Seeds and plant propagation industry,ZMB,0.0,BFA,2016
+2607,BRA,Raising of cattle industry,ZMB,0.0001383199053141689,BFA,2016
+2608,BRA,Growing wheat industry,ZWE,0.0,BFA,2016
+2609,BRA,Growing maize industry,ZWE,0.00029661012051696733,BFA,2016
+2610,BRA,Growing cereals n.e.c industry,ZWE,6.629951889829378e-05,BFA,2016
+2611,BRA,Growing leguminous crops and oil seeds industry,ZWE,0.0006257111085442478,BFA,2016
+2612,BRA,Growing rice industry,ZWE,3.470114301091332e-08,BFA,2016
+2613,BRA,"Growing vegetables, roots, tubers industry",ZWE,6.611963635936588e-08,BFA,2016
+2614,BRA,Growing sugar beet and cane industry,ZWE,1.4048351496705418e-05,BFA,2016
+2615,BRA,Growing tobacco industry,ZWE,2.2265746802228878e-07,BFA,2016
+2616,BRA,Growing fibre crops industry,ZWE,0.0,BFA,2016
+2617,BRA,Growing crops n.e.c. industry,ZWE,1.899741358365892e-05,BFA,2016
+2618,BRA,Growing grapes industry,ZWE,0.0,BFA,2016
+2619,BRA,Growing fruits and nuts industry,ZWE,0.0,BFA,2016
+2620,BRA,"Growing beverage crops (coffee, tea etc) industry",ZWE,5.271847534099176e-07,BFA,2016
+2621,BRA,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,9.900394379805195e-08,BFA,2016
+2622,BRA,Seeds and plant propagation industry,ZWE,0.0,BFA,2016
+2623,BRA,Raising of cattle industry,ZWE,6.536932943782216e-05,BFA,2016

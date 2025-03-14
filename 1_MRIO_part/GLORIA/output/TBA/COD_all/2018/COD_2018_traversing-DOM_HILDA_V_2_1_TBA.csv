@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,COD,Growing wheat industry,XAM,1.6593328018610105e-06,DOM,2018
+1,COD,Growing maize industry,XAM,1.7567220974495107e-05,DOM,2018
+2,COD,Growing cereals n.e.c industry,XAM,0.0,DOM,2018
+3,COD,Growing leguminous crops and oil seeds industry,XAM,4.643720975218555e-06,DOM,2018
+4,COD,Growing rice industry,XAM,3.9795366596200026e-06,DOM,2018
+5,COD,"Growing vegetables, roots, tubers industry",XAM,1.9036567405172264e-05,DOM,2018
+6,COD,Growing sugar beet and cane industry,XAM,3.0375567192869804e-06,DOM,2018
+7,COD,Growing tobacco industry,XAM,7.539354847172968e-09,DOM,2018
+8,COD,Growing fibre crops industry,XAM,5.598510208914547e-07,DOM,2018
+9,COD,Growing crops n.e.c. industry,XAM,7.775802453302807e-06,DOM,2018
+10,COD,Growing grapes industry,XAM,0.0,DOM,2018
+11,COD,Growing fruits and nuts industry,XAM,2.0077256610294527e-06,DOM,2018
+12,COD,"Growing beverage crops (coffee, tea etc) industry",XAM,4.304610416671747e-06,DOM,2018
+13,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,2.6393397131718346e-08,DOM,2018
+14,COD,Seeds and plant propagation industry,XAM,0.0,DOM,2018
+15,COD,Raising of cattle industry,XAM,0.00025851067215806417,DOM,2018
+16,COD,Growing wheat industry,XEU,2.5579836648154427e-07,DOM,2018
+17,COD,Growing maize industry,XEU,2.9332752920002762e-06,DOM,2018
+18,COD,Growing cereals n.e.c industry,XEU,0.0,DOM,2018
+19,COD,Growing leguminous crops and oil seeds industry,XEU,7.155759351039567e-07,DOM,2018
+20,COD,Growing rice industry,XEU,7.69328109058719e-07,DOM,2018
+21,COD,"Growing vegetables, roots, tubers industry",XEU,2.2669379634058724e-06,DOM,2018
+22,COD,Growing sugar beet and cane industry,XEU,5.0294786654269e-07,DOM,2018
+23,COD,Growing tobacco industry,XEU,1.1546233219941434e-09,DOM,2018
+24,COD,Growing fibre crops industry,XEU,8.084626308898776e-08,DOM,2018
+25,COD,Growing crops n.e.c. industry,XEU,1.2200306937071804e-06,DOM,2018
+26,COD,Growing grapes industry,XEU,0.0,DOM,2018
+27,COD,Growing fruits and nuts industry,XEU,2.581431603300908e-07,DOM,2018
+28,COD,"Growing beverage crops (coffee, tea etc) industry",XEU,5.64464178976073e-07,DOM,2018
+29,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,3.1630535685735892e-09,DOM,2018
+30,COD,Seeds and plant propagation industry,XEU,0.0,DOM,2018
+31,COD,Raising of cattle industry,XEU,4.2645189254747625e-05,DOM,2018
+32,COD,Growing wheat industry,XAF,5.4802169691422553e-08,DOM,2018
+33,COD,Growing maize industry,XAF,4.840000884595397e-07,DOM,2018
+34,COD,Growing cereals n.e.c industry,XAF,0.0,DOM,2018
+35,COD,Growing leguminous crops and oil seeds industry,XAF,1.6650598606727916e-07,DOM,2018
+36,COD,Growing rice industry,XAF,2.1258926273396797e-07,DOM,2018
+37,COD,"Growing vegetables, roots, tubers industry",XAF,4.749250041163531e-07,DOM,2018
+38,COD,Growing sugar beet and cane industry,XAF,1.205315769888888e-07,DOM,2018
+39,COD,Growing tobacco industry,XAF,3.4635683544913053e-10,DOM,2018
+40,COD,Growing fibre crops industry,XAF,2.3536883956909853e-08,DOM,2018
+41,COD,Growing crops n.e.c. industry,XAF,2.653893741568067e-07,DOM,2018
+42,COD,Growing grapes industry,XAF,0.0,DOM,2018
+43,COD,Growing fruits and nuts industry,XAF,9.296386624163705e-08,DOM,2018
+44,COD,"Growing beverage crops (coffee, tea etc) industry",XAF,1.36919669038686e-07,DOM,2018
+45,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,7.416051796952987e-10,DOM,2018
+46,COD,Seeds and plant propagation industry,XAF,0.0,DOM,2018
+47,COD,Raising of cattle industry,XAF,1.0180439827987667e-05,DOM,2018
+48,COD,Growing wheat industry,XAS,4.9981133052795744e-08,DOM,2018
+49,COD,Growing maize industry,XAS,5.060549906391281e-07,DOM,2018
+50,COD,Growing cereals n.e.c industry,XAS,0.0,DOM,2018
+51,COD,Growing leguminous crops and oil seeds industry,XAS,1.515476339468265e-07,DOM,2018
+52,COD,Growing rice industry,XAS,1.7825202930553992e-07,DOM,2018
+53,COD,"Growing vegetables, roots, tubers industry",XAS,4.543711774429417e-07,DOM,2018
+54,COD,Growing sugar beet and cane industry,XAS,1.137859768258543e-07,DOM,2018
+55,COD,Growing tobacco industry,XAS,2.9226292359963894e-10,DOM,2018
+56,COD,Growing fibre crops industry,XAS,2.8443496328391148e-08,DOM,2018
+57,COD,Growing crops n.e.c. industry,XAS,2.5294734750320137e-07,DOM,2018
+58,COD,Growing grapes industry,XAS,0.0,DOM,2018
+59,COD,Growing fruits and nuts industry,XAS,1.2287119504273277e-07,DOM,2018
+60,COD,"Growing beverage crops (coffee, tea etc) industry",XAS,1.4014610374763357e-07,DOM,2018
+61,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,6.764632011427885e-10,DOM,2018
+62,COD,Seeds and plant propagation industry,XAS,0.0,DOM,2018
+63,COD,Raising of cattle industry,XAS,8.82921064228679e-06,DOM,2018
+64,COD,Growing wheat industry,AFG,1.1873811932481856e-08,DOM,2018
+65,COD,Growing maize industry,AFG,1.386043926170208e-07,DOM,2018
+66,COD,Growing cereals n.e.c industry,AFG,0.0,DOM,2018
+67,COD,Growing leguminous crops and oil seeds industry,AFG,3.724582344896874e-08,DOM,2018
+68,COD,Growing rice industry,AFG,3.606497820321033e-08,DOM,2018
+69,COD,"Growing vegetables, roots, tubers industry",AFG,1.1479909632386093e-07,DOM,2018
+70,COD,Growing sugar beet and cane industry,AFG,2.784970296927987e-08,DOM,2018
+71,COD,Growing tobacco industry,AFG,7.145604799860961e-11,DOM,2018
+72,COD,Growing fibre crops industry,AFG,8.55283530864421e-09,DOM,2018
+73,COD,Growing crops n.e.c. industry,AFG,6.374818701682631e-08,DOM,2018
+74,COD,Growing grapes industry,AFG,0.0,DOM,2018
+75,COD,Growing fruits and nuts industry,AFG,3.934631636084306e-08,DOM,2018
+76,COD,"Growing beverage crops (coffee, tea etc) industry",AFG,3.7678308544615583e-08,DOM,2018
+77,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,1.721066687825166e-10,DOM,2018
+78,COD,Seeds and plant propagation industry,AFG,0.0,DOM,2018
+79,COD,Raising of cattle industry,AFG,1.9518286115739176e-06,DOM,2018
+80,COD,Growing wheat industry,AGO,1.7971715772234266e-07,DOM,2018
+81,COD,Growing maize industry,AGO,2.2905518593200286e-06,DOM,2018
+82,COD,Growing cereals n.e.c industry,AGO,0.0,DOM,2018
+83,COD,Growing leguminous crops and oil seeds industry,AGO,5.812290498755228e-07,DOM,2018
+84,COD,Growing rice industry,AGO,5.324529160796366e-07,DOM,2018
+85,COD,"Growing vegetables, roots, tubers industry",AGO,1.949486358795216e-06,DOM,2018
+86,COD,Growing sugar beet and cane industry,AGO,4.4837023605245436e-07,DOM,2018
+87,COD,Growing tobacco industry,AGO,1.124939059589061e-09,DOM,2018
+88,COD,Growing fibre crops industry,AGO,1.4620916811680503e-07,DOM,2018
+89,COD,Growing crops n.e.c. industry,AGO,9.67134395037844e-07,DOM,2018
+90,COD,Growing grapes industry,AGO,0.0,DOM,2018
+91,COD,Growing fruits and nuts industry,AGO,6.956230480240915e-07,DOM,2018
+92,COD,"Growing beverage crops (coffee, tea etc) industry",AGO,6.417322266137316e-07,DOM,2018
+93,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,2.8711436316891966e-09,DOM,2018
+94,COD,Seeds and plant propagation industry,AGO,0.0,DOM,2018
+95,COD,Raising of cattle industry,AGO,2.9674527911610857e-05,DOM,2018
+96,COD,Growing wheat industry,ALB,1.4905574186600145e-08,DOM,2018
+97,COD,Growing maize industry,ALB,1.263984142172059e-07,DOM,2018
+98,COD,Growing cereals n.e.c industry,ALB,0.0,DOM,2018
+99,COD,Growing leguminous crops and oil seeds industry,ALB,4.0412822368480953e-08,DOM,2018
+100,COD,Growing rice industry,ALB,5.171464875314122e-08,DOM,2018
+101,COD,"Growing vegetables, roots, tubers industry",ALB,9.799325056652142e-08,DOM,2018
+102,COD,Growing sugar beet and cane industry,ALB,2.953496273147508e-08,DOM,2018
+103,COD,Growing tobacco industry,ALB,9.484982778780671e-11,DOM,2018
+104,COD,Growing fibre crops industry,ALB,6.7426117831767344e-09,DOM,2018
+105,COD,Growing crops n.e.c. industry,ALB,7.591773728014108e-08,DOM,2018
+106,COD,Growing grapes industry,ALB,0.0,DOM,2018
+107,COD,Growing fruits and nuts industry,ALB,2.4406234665176812e-08,DOM,2018
+108,COD,"Growing beverage crops (coffee, tea etc) industry",ALB,3.0243695996706066e-08,DOM,2018
+109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,1.519973748766054e-10,DOM,2018
+110,COD,Seeds and plant propagation industry,ALB,0.0,DOM,2018
+111,COD,Raising of cattle industry,ALB,3.182972810484903e-06,DOM,2018
+112,COD,Growing wheat industry,ARE,2.6130651451039326e-07,DOM,2018
+113,COD,Growing maize industry,ARE,2.8116451044958332e-06,DOM,2018
+114,COD,Growing cereals n.e.c industry,ARE,0.0,DOM,2018
+115,COD,Growing leguminous crops and oil seeds industry,ARE,7.854878117225241e-07,DOM,2018
+116,COD,Growing rice industry,ARE,8.319524774213014e-07,DOM,2018
+117,COD,"Growing vegetables, roots, tubers industry",ARE,2.4134784477180448e-06,DOM,2018
+118,COD,Growing sugar beet and cane industry,ARE,5.836366892401669e-07,DOM,2018
+119,COD,Growing tobacco industry,ARE,1.4648218395574454e-09,DOM,2018
+120,COD,Growing fibre crops industry,ARE,1.5663365993040746e-07,DOM,2018
+121,COD,Growing crops n.e.c. industry,ARE,1.3386059082572837e-06,DOM,2018
+122,COD,Growing grapes industry,ARE,0.0,DOM,2018
+123,COD,Growing fruits and nuts industry,ARE,6.569499506719838e-07,DOM,2018
+124,COD,"Growing beverage crops (coffee, tea etc) industry",ARE,7.350892125712765e-07,DOM,2018
+125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,3.640723232692461e-09,DOM,2018
+126,COD,Seeds and plant propagation industry,ARE,0.0,DOM,2018
+127,COD,Raising of cattle industry,ARE,4.12724369405015e-05,DOM,2018
+128,COD,Growing wheat industry,ARG,2.867071661558586e-07,DOM,2018
+129,COD,Growing maize industry,ARG,4.387088366843571e-06,DOM,2018
+130,COD,Growing cereals n.e.c industry,ARG,0.0,DOM,2018
+131,COD,Growing leguminous crops and oil seeds industry,ARG,1.1304879724502588e-06,DOM,2018
+132,COD,Growing rice industry,ARG,7.206916481464799e-07,DOM,2018
+133,COD,"Growing vegetables, roots, tubers industry",ARG,3.820442863541196e-06,DOM,2018
+134,COD,Growing sugar beet and cane industry,ARG,7.495050805180751e-07,DOM,2018
+135,COD,Growing tobacco industry,ARG,2.6460715955123684e-09,DOM,2018
+136,COD,Growing fibre crops industry,ARG,2.746464530626727e-07,DOM,2018
+137,COD,Growing crops n.e.c. industry,ARG,1.5093797461787321e-06,DOM,2018
+138,COD,Growing grapes industry,ARG,0.0,DOM,2018
+139,COD,Growing fruits and nuts industry,ARG,1.3492568350720102e-06,DOM,2018
+140,COD,"Growing beverage crops (coffee, tea etc) industry",ARG,1.2259142013620875e-06,DOM,2018
+141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,6.356191828110243e-09,DOM,2018
+142,COD,Seeds and plant propagation industry,ARG,0.0,DOM,2018
+143,COD,Raising of cattle industry,ARG,4.02322736988152e-05,DOM,2018
+144,COD,Growing wheat industry,ARM,1.8374446436477715e-08,DOM,2018
+145,COD,Growing maize industry,ARM,1.7005651469253174e-07,DOM,2018
+146,COD,Growing cereals n.e.c industry,ARM,0.0,DOM,2018
+147,COD,Growing leguminous crops and oil seeds industry,ARM,4.878344253196653e-08,DOM,2018
+148,COD,Growing rice industry,ARM,6.58709154118374e-08,DOM,2018
+149,COD,"Growing vegetables, roots, tubers industry",ARM,1.525790059300067e-07,DOM,2018
+150,COD,Growing sugar beet and cane industry,ARM,4.762128823941992e-08,DOM,2018
+151,COD,Growing tobacco industry,ARM,9.520767528843815e-11,DOM,2018
+152,COD,Growing fibre crops industry,ARM,8.168836932760901e-09,DOM,2018
+153,COD,Growing crops n.e.c. industry,ARM,9.17474404397868e-08,DOM,2018
+154,COD,Growing grapes industry,ARM,0.0,DOM,2018
+155,COD,Growing fruits and nuts industry,ARM,3.0159935407118726e-08,DOM,2018
+156,COD,"Growing beverage crops (coffee, tea etc) industry",ARM,4.1376260706601154e-08,DOM,2018
+157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,2.1372446302016163e-10,DOM,2018
+158,COD,Seeds and plant propagation industry,ARM,0.0,DOM,2018
+159,COD,Raising of cattle industry,ARM,3.5947702498336484e-06,DOM,2018
+160,COD,Growing wheat industry,AUS,1.6945441702788174e-06,DOM,2018
+161,COD,Growing maize industry,AUS,2.9312512815173948e-05,DOM,2018
+162,COD,Growing cereals n.e.c industry,AUS,0.0,DOM,2018
+163,COD,Growing leguminous crops and oil seeds industry,AUS,6.307930060876136e-06,DOM,2018
+164,COD,Growing rice industry,AUS,4.163489807256468e-06,DOM,2018
+165,COD,"Growing vegetables, roots, tubers industry",AUS,2.4456424834577234e-05,DOM,2018
+166,COD,Growing sugar beet and cane industry,AUS,4.767137792068057e-06,DOM,2018
+167,COD,Growing tobacco industry,AUS,1.1850767405787798e-08,DOM,2018
+168,COD,Growing fibre crops industry,AUS,1.8650796737039716e-06,DOM,2018
+169,COD,Growing crops n.e.c. industry,AUS,9.34316745137729e-06,DOM,2018
+170,COD,Growing grapes industry,AUS,0.0,DOM,2018
+171,COD,Growing fruits and nuts industry,AUS,9.326460479468053e-06,DOM,2018
+172,COD,"Growing beverage crops (coffee, tea etc) industry",AUS,8.035274762748688e-06,DOM,2018
+173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,3.610509685225371e-08,DOM,2018
+174,COD,Seeds and plant propagation industry,AUS,0.0,DOM,2018
+175,COD,Raising of cattle industry,AUS,0.00023215240335624167,DOM,2018
+176,COD,Growing wheat industry,AUT,3.417253925206911e-07,DOM,2018
+177,COD,Growing maize industry,AUT,5.045742066458702e-06,DOM,2018
+178,COD,Growing cereals n.e.c industry,AUT,0.0,DOM,2018
+179,COD,Growing leguminous crops and oil seeds industry,AUT,1.2356119538139274e-06,DOM,2018
+180,COD,Growing rice industry,AUT,1.0053671510006729e-06,DOM,2018
+181,COD,"Growing vegetables, roots, tubers industry",AUT,4.740804454046871e-06,DOM,2018
+182,COD,Growing sugar beet and cane industry,AUT,8.01671668253283e-07,DOM,2018
+183,COD,Growing tobacco industry,AUT,2.1985165177156706e-09,DOM,2018
+184,COD,Growing fibre crops industry,AUT,2.8654344234883974e-07,DOM,2018
+185,COD,Growing crops n.e.c. industry,AUT,1.7215474421299227e-06,DOM,2018
+186,COD,Growing grapes industry,AUT,0.0,DOM,2018
+187,COD,Growing fruits and nuts industry,AUT,1.1813610780295323e-06,DOM,2018
+188,COD,"Growing beverage crops (coffee, tea etc) industry",AUT,1.386149546632395e-06,DOM,2018
+189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,6.89289486449937e-09,DOM,2018
+190,COD,Seeds and plant propagation industry,AUT,0.0,DOM,2018
+191,COD,Raising of cattle industry,AUT,5.0323389005580466e-05,DOM,2018
+192,COD,Growing wheat industry,AZE,2.074295647842053e-08,DOM,2018
+193,COD,Growing maize industry,AZE,2.5537973495161943e-07,DOM,2018
+194,COD,Growing cereals n.e.c industry,AZE,0.0,DOM,2018
+195,COD,Growing leguminous crops and oil seeds industry,AZE,6.596974817758754e-08,DOM,2018
+196,COD,Growing rice industry,AZE,6.305066289040076e-08,DOM,2018
+197,COD,"Growing vegetables, roots, tubers industry",AZE,2.124881030780907e-07,DOM,2018
+198,COD,Growing sugar beet and cane industry,AZE,4.942887745525901e-08,DOM,2018
+199,COD,Growing tobacco industry,AZE,1.2936768689405246e-10,DOM,2018
+200,COD,Growing fibre crops industry,AZE,1.5489532841052416e-08,DOM,2018
+201,COD,Growing crops n.e.c. industry,AZE,1.0933429122076326e-07,DOM,2018
+202,COD,Growing grapes industry,AZE,0.0,DOM,2018
+203,COD,Growing fruits and nuts industry,AZE,7.047150136884829e-08,DOM,2018
+204,COD,"Growing beverage crops (coffee, tea etc) industry",AZE,6.841664302839052e-08,DOM,2018
+205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,3.1671094023006543e-10,DOM,2018
+206,COD,Seeds and plant propagation industry,AZE,0.0,DOM,2018
+207,COD,Raising of cattle industry,AZE,3.444175723918978e-06,DOM,2018
+208,COD,Growing wheat industry,BDI,2.3952758179420305e-09,DOM,2018
+209,COD,Growing maize industry,BDI,2.174951821399247e-08,DOM,2018
+210,COD,Growing cereals n.e.c industry,BDI,0.0,DOM,2018
+211,COD,Growing leguminous crops and oil seeds industry,BDI,6.4769185510145945e-09,DOM,2018
+212,COD,Growing rice industry,BDI,7.959868882045387e-09,DOM,2018
+213,COD,"Growing vegetables, roots, tubers industry",BDI,1.7921723250721174e-08,DOM,2018
+214,COD,Growing sugar beet and cane industry,BDI,4.94792239040804e-09,DOM,2018
+215,COD,Growing tobacco industry,BDI,1.2038422700863045e-11,DOM,2018
+216,COD,Growing fibre crops industry,BDI,1.2113489825043366e-09,DOM,2018
+217,COD,Growing crops n.e.c. industry,BDI,1.1864126800839276e-08,DOM,2018
+218,COD,Growing grapes industry,BDI,0.0,DOM,2018
+219,COD,Growing fruits and nuts industry,BDI,5.0108783336107755e-09,DOM,2018
+220,COD,"Growing beverage crops (coffee, tea etc) industry",BDI,5.577171140974892e-09,DOM,2018
+221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,2.7193029182119637e-11,DOM,2018
+222,COD,Seeds and plant propagation industry,BDI,0.0,DOM,2018
+223,COD,Raising of cattle industry,BDI,3.761362596594953e-07,DOM,2018
+224,COD,Growing wheat industry,BEL,1.5970973169692479e-06,DOM,2018
+225,COD,Growing maize industry,BEL,1.2693538706137489e-05,DOM,2018
+226,COD,Growing cereals n.e.c industry,BEL,0.0,DOM,2018
+227,COD,Growing leguminous crops and oil seeds industry,BEL,4.214796989798852e-06,DOM,2018
+228,COD,Growing rice industry,BEL,3.781388744930271e-06,DOM,2018
+229,COD,"Growing vegetables, roots, tubers industry",BEL,1.1368768625964901e-05,DOM,2018
+230,COD,Growing sugar beet and cane industry,BEL,2.323765122166499e-06,DOM,2018
+231,COD,Growing tobacco industry,BEL,6.995962939571754e-09,DOM,2018
+232,COD,Growing fibre crops industry,BEL,7.137036946680891e-07,DOM,2018
+233,COD,Growing crops n.e.c. industry,BEL,7.918599304597391e-06,DOM,2018
+234,COD,Growing grapes industry,BEL,0.0,DOM,2018
+235,COD,Growing fruits and nuts industry,BEL,2.501791139484914e-06,DOM,2018
+236,COD,"Growing beverage crops (coffee, tea etc) industry",BEL,3.4582573967258505e-06,DOM,2018
+237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,1.6420471794469407e-08,DOM,2018
+238,COD,Seeds and plant propagation industry,BEL,0.0,DOM,2018
+239,COD,Raising of cattle industry,BEL,0.00024297997404834976,DOM,2018
+240,COD,Growing wheat industry,BEN,1.253453110847805e-08,DOM,2018
+241,COD,Growing maize industry,BEN,1.2166988915870163e-07,DOM,2018
+242,COD,Growing cereals n.e.c industry,BEN,0.0,DOM,2018
+243,COD,Growing leguminous crops and oil seeds industry,BEN,3.909124805182123e-08,DOM,2018
+244,COD,Growing rice industry,BEN,3.681068213416359e-08,DOM,2018
+245,COD,"Growing vegetables, roots, tubers industry",BEN,9.413325753447148e-08,DOM,2018
+246,COD,Growing sugar beet and cane industry,BEN,2.513646324835704e-08,DOM,2018
+247,COD,Growing tobacco industry,BEN,8.917465248817565e-11,DOM,2018
+248,COD,Growing fibre crops industry,BEN,6.139708163044961e-09,DOM,2018
+249,COD,Growing crops n.e.c. industry,BEN,6.160589916041365e-08,DOM,2018
+250,COD,Growing grapes industry,BEN,0.0,DOM,2018
+251,COD,Growing fruits and nuts industry,BEN,2.4770677274509177e-08,DOM,2018
+252,COD,"Growing beverage crops (coffee, tea etc) industry",BEN,2.9135294707992635e-08,DOM,2018
+253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,1.7151944213723849e-10,DOM,2018
+254,COD,Seeds and plant propagation industry,BEN,0.0,DOM,2018
+255,COD,Raising of cattle industry,BEN,2.074325703407214e-06,DOM,2018
+256,COD,Growing wheat industry,BFA,1.292644280913031e-08,DOM,2018
+257,COD,Growing maize industry,BFA,1.794151862094253e-07,DOM,2018
+258,COD,Growing cereals n.e.c industry,BFA,0.0,DOM,2018
+259,COD,Growing leguminous crops and oil seeds industry,BFA,4.5884101496679274e-08,DOM,2018
+260,COD,Growing rice industry,BFA,4.1234824246753074e-08,DOM,2018
+261,COD,"Growing vegetables, roots, tubers industry",BFA,1.405822665516624e-07,DOM,2018
+262,COD,Growing sugar beet and cane industry,BFA,2.820418371566532e-08,DOM,2018
+263,COD,Growing tobacco industry,BFA,1.0134054790547178e-10,DOM,2018
+264,COD,Growing fibre crops industry,BFA,6.446397089300798e-09,DOM,2018
+265,COD,Growing crops n.e.c. industry,BFA,6.683136408884907e-08,DOM,2018
+266,COD,Growing grapes industry,BFA,0.0,DOM,2018
+267,COD,Growing fruits and nuts industry,BFA,2.5587339401335945e-08,DOM,2018
+268,COD,"Growing beverage crops (coffee, tea etc) industry",BFA,4.487503135419743e-08,DOM,2018
+269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,2.284882838648683e-10,DOM,2018
+270,COD,Seeds and plant propagation industry,BFA,0.0,DOM,2018
+271,COD,Raising of cattle industry,BFA,2.226169830790535e-06,DOM,2018
+272,COD,Growing wheat industry,BGD,5.052679758196249e-07,DOM,2018
+273,COD,Growing maize industry,BGD,7.525456959082782e-06,DOM,2018
+274,COD,Growing cereals n.e.c industry,BGD,0.0,DOM,2018
+275,COD,Growing leguminous crops and oil seeds industry,BGD,1.3886181162380772e-06,DOM,2018
+276,COD,Growing rice industry,BGD,1.051141481672121e-06,DOM,2018
+277,COD,"Growing vegetables, roots, tubers industry",BGD,7.1394462836217206e-06,DOM,2018
+278,COD,Growing sugar beet and cane industry,BGD,8.257584627373425e-07,DOM,2018
+279,COD,Growing tobacco industry,BGD,2.620866061128915e-09,DOM,2018
+280,COD,Growing fibre crops industry,BGD,2.963933509114378e-07,DOM,2018
+281,COD,Growing crops n.e.c. industry,BGD,1.6667249061422103e-06,DOM,2018
+282,COD,Growing grapes industry,BGD,0.0,DOM,2018
+283,COD,Growing fruits and nuts industry,BGD,1.195057989155055e-06,DOM,2018
+284,COD,"Growing beverage crops (coffee, tea etc) industry",BGD,1.7779744768632506e-06,DOM,2018
+285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,1.1700262648838235e-08,DOM,2018
+286,COD,Seeds and plant propagation industry,BGD,0.0,DOM,2018
+287,COD,Raising of cattle industry,BGD,5.1222771354201024e-05,DOM,2018
+288,COD,Growing wheat industry,BGR,4.2658774263019466e-08,DOM,2018
+289,COD,Growing maize industry,BGR,4.617515955127344e-07,DOM,2018
+290,COD,Growing cereals n.e.c industry,BGR,0.0,DOM,2018
+291,COD,Growing leguminous crops and oil seeds industry,BGR,1.2570032289125458e-07,DOM,2018
+292,COD,Growing rice industry,BGR,1.393226154806994e-07,DOM,2018
+293,COD,"Growing vegetables, roots, tubers industry",BGR,3.7881787527378447e-07,DOM,2018
+294,COD,Growing sugar beet and cane industry,BGR,9.377011364418266e-08,DOM,2018
+295,COD,Growing tobacco industry,BGR,2.3333559223013926e-10,DOM,2018
+296,COD,Growing fibre crops industry,BGR,2.474807150230378e-08,DOM,2018
+297,COD,Growing crops n.e.c. industry,BGR,2.18885576488922e-07,DOM,2018
+298,COD,Growing grapes industry,BGR,0.0,DOM,2018
+299,COD,Growing fruits and nuts industry,BGR,1.0593803669229904e-07,DOM,2018
+300,COD,"Growing beverage crops (coffee, tea etc) industry",BGR,1.1794007914869659e-07,DOM,2018
+301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,5.555168945032408e-10,DOM,2018
+302,COD,Seeds and plant propagation industry,BGR,0.0,DOM,2018
+303,COD,Raising of cattle industry,BGR,6.82245586670257e-06,DOM,2018
+304,COD,Growing wheat industry,BHR,7.72791139598593e-08,DOM,2018
+305,COD,Growing maize industry,BHR,5.975406249954771e-07,DOM,2018
+306,COD,Growing cereals n.e.c industry,BHR,0.0,DOM,2018
+307,COD,Growing leguminous crops and oil seeds industry,BHR,2.0424953062984542e-07,DOM,2018
+308,COD,Growing rice industry,BHR,2.7688423107113523e-07,DOM,2018
+309,COD,"Growing vegetables, roots, tubers industry",BHR,4.709087727303883e-07,DOM,2018
+310,COD,Growing sugar beet and cane industry,BHR,1.5981692630310024e-07,DOM,2018
+311,COD,Growing tobacco industry,BHR,3.660003362047213e-10,DOM,2018
+312,COD,Growing fibre crops industry,BHR,3.6926603265365846e-08,DOM,2018
+313,COD,Growing crops n.e.c. industry,BHR,4.000179892613565e-07,DOM,2018
+314,COD,Growing grapes industry,BHR,0.0,DOM,2018
+315,COD,Growing fruits and nuts industry,BHR,1.4733342493685644e-07,DOM,2018
+316,COD,"Growing beverage crops (coffee, tea etc) industry",BHR,1.5537767729203176e-07,DOM,2018
+317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,6.881517302535161e-10,DOM,2018
+318,COD,Seeds and plant propagation industry,BHR,0.0,DOM,2018
+319,COD,Raising of cattle industry,BHR,1.248842596186358e-05,DOM,2018
+320,COD,Growing wheat industry,BHS,2.001329452378988e-07,DOM,2018
+321,COD,Growing maize industry,BHS,1.5123889107542762e-06,DOM,2018
+322,COD,Growing cereals n.e.c industry,BHS,0.0,DOM,2018
+323,COD,Growing leguminous crops and oil seeds industry,BHS,5.376970567166665e-07,DOM,2018
+324,COD,Growing rice industry,BHS,8.71824809869064e-07,DOM,2018
+325,COD,"Growing vegetables, roots, tubers industry",BHS,1.6189248241664864e-06,DOM,2018
+326,COD,Growing sugar beet and cane industry,BHS,4.3817775155413024e-07,DOM,2018
+327,COD,Growing tobacco industry,BHS,9.450255197937633e-10,DOM,2018
+328,COD,Growing fibre crops industry,BHS,5.825648738597615e-08,DOM,2018
+329,COD,Growing crops n.e.c. industry,BHS,9.364333876806826e-07,DOM,2018
+330,COD,Growing grapes industry,BHS,0.0,DOM,2018
+331,COD,Growing fruits and nuts industry,BHS,1.947312703153824e-07,DOM,2018
+332,COD,"Growing beverage crops (coffee, tea etc) industry",BHS,4.347372626740925e-07,DOM,2018
+333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,2.2494370940349367e-09,DOM,2018
+334,COD,Seeds and plant propagation industry,BHS,0.0,DOM,2018
+335,COD,Raising of cattle industry,BHS,4.0849497465434455e-05,DOM,2018
+336,COD,Growing wheat industry,BIH,1.653640891169554e-08,DOM,2018
+337,COD,Growing maize industry,BIH,1.90392916869666e-07,DOM,2018
+338,COD,Growing cereals n.e.c industry,BIH,0.0,DOM,2018
+339,COD,Growing leguminous crops and oil seeds industry,BIH,5.316266918569424e-08,DOM,2018
+340,COD,Growing rice industry,BIH,5.3460259405526794e-08,DOM,2018
+341,COD,"Growing vegetables, roots, tubers industry",BIH,1.4869662468110884e-07,DOM,2018
+342,COD,Growing sugar beet and cane industry,BIH,3.581949148311039e-08,DOM,2018
+343,COD,Growing tobacco industry,BIH,1.0650334558159851e-10,DOM,2018
+344,COD,Growing fibre crops industry,BIH,9.259185558645691e-09,DOM,2018
+345,COD,Growing crops n.e.c. industry,BIH,8.254555432528389e-08,DOM,2018
+346,COD,Growing grapes industry,BIH,0.0,DOM,2018
+347,COD,Growing fruits and nuts industry,BIH,3.898461211663667e-08,DOM,2018
+348,COD,"Growing beverage crops (coffee, tea etc) industry",BIH,4.487255038469071e-08,DOM,2018
+349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,2.338896563770033e-10,DOM,2018
+350,COD,Seeds and plant propagation industry,BIH,0.0,DOM,2018
+351,COD,Raising of cattle industry,BIH,2.6215418305817034e-06,DOM,2018
+352,COD,Growing wheat industry,BLR,7.340606228054342e-08,DOM,2018
+353,COD,Growing maize industry,BLR,1.0432234921307032e-06,DOM,2018
+354,COD,Growing cereals n.e.c industry,BLR,0.0,DOM,2018
+355,COD,Growing leguminous crops and oil seeds industry,BLR,2.4935615988891994e-07,DOM,2018
+356,COD,Growing rice industry,BLR,2.0349948753585775e-07,DOM,2018
+357,COD,"Growing vegetables, roots, tubers industry",BLR,9.147742243519832e-07,DOM,2018
+358,COD,Growing sugar beet and cane industry,BLR,1.7702852113999766e-07,DOM,2018
+359,COD,Growing tobacco industry,BLR,4.943459050639636e-10,DOM,2018
+360,COD,Growing fibre crops industry,BLR,5.7587961069475585e-08,DOM,2018
+361,COD,Growing crops n.e.c. industry,BLR,3.750031953758841e-07,DOM,2018
+362,COD,Growing grapes industry,BLR,0.0,DOM,2018
+363,COD,Growing fruits and nuts industry,BLR,2.646261041871497e-07,DOM,2018
+364,COD,"Growing beverage crops (coffee, tea etc) industry",BLR,2.758415958403905e-07,DOM,2018
+365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,1.367161140539831e-09,DOM,2018
+366,COD,Seeds and plant propagation industry,BLR,0.0,DOM,2018
+367,COD,Raising of cattle industry,BLR,1.1413025511059476e-05,DOM,2018
+368,COD,Growing wheat industry,BLZ,1.0306029898025875e-08,DOM,2018
+369,COD,Growing maize industry,BLZ,1.248462785688989e-07,DOM,2018
+370,COD,Growing cereals n.e.c industry,BLZ,0.0,DOM,2018
+371,COD,Growing leguminous crops and oil seeds industry,BLZ,3.0833376881199136e-08,DOM,2018
+372,COD,Growing rice industry,BLZ,3.391545088264947e-08,DOM,2018
+373,COD,"Growing vegetables, roots, tubers industry",BLZ,9.445472160837414e-08,DOM,2018
+374,COD,Growing sugar beet and cane industry,BLZ,2.1495595081193798e-08,DOM,2018
+375,COD,Growing tobacco industry,BLZ,5.3008834883459576e-11,DOM,2018
+376,COD,Growing fibre crops industry,BLZ,3.978969085058104e-09,DOM,2018
+377,COD,Growing crops n.e.c. industry,BLZ,4.8171036180273843e-08,DOM,2018
+378,COD,Growing grapes industry,BLZ,0.0,DOM,2018
+379,COD,Growing fruits and nuts industry,BLZ,1.3189556326082237e-08,DOM,2018
+380,COD,"Growing beverage crops (coffee, tea etc) industry",BLZ,2.5487772593574034e-08,DOM,2018
+381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,1.4159236983607427e-10,DOM,2018
+382,COD,Seeds and plant propagation industry,BLZ,0.0,DOM,2018
+383,COD,Raising of cattle industry,BLZ,1.798506177042651e-06,DOM,2018
+384,COD,Growing wheat industry,BOL,3.616075859443259e-08,DOM,2018
+385,COD,Growing maize industry,BOL,4.3134961605588124e-07,DOM,2018
+386,COD,Growing cereals n.e.c industry,BOL,0.0,DOM,2018
+387,COD,Growing leguminous crops and oil seeds industry,BOL,1.0917763788093614e-07,DOM,2018
+388,COD,Growing rice industry,BOL,9.952957449731145e-08,DOM,2018
+389,COD,"Growing vegetables, roots, tubers industry",BOL,3.829164880943685e-07,DOM,2018
+390,COD,Growing sugar beet and cane industry,BOL,7.070738231311197e-08,DOM,2018
+391,COD,Growing tobacco industry,BOL,2.1647117292877233e-10,DOM,2018
+392,COD,Growing fibre crops industry,BOL,2.0688538423841657e-08,DOM,2018
+393,COD,Growing crops n.e.c. industry,BOL,1.631061104704637e-07,DOM,2018
+394,COD,Growing grapes industry,BOL,0.0,DOM,2018
+395,COD,Growing fruits and nuts industry,BOL,8.376432715565661e-08,DOM,2018
+396,COD,"Growing beverage crops (coffee, tea etc) industry",BOL,1.0809306510806125e-07,DOM,2018
+397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,6.170190775070865e-10,DOM,2018
+398,COD,Seeds and plant propagation industry,BOL,0.0,DOM,2018
+399,COD,Raising of cattle industry,BOL,5.218939604820078e-06,DOM,2018
+400,COD,Growing wheat industry,BRA,1.355318770271661e-06,DOM,2018
+401,COD,Growing maize industry,BRA,2.0453654760000605e-05,DOM,2018
+402,COD,Growing cereals n.e.c industry,BRA,0.0,DOM,2018
+403,COD,Growing leguminous crops and oil seeds industry,BRA,5.260062850973548e-06,DOM,2018
+404,COD,Growing rice industry,BRA,3.394422376041013e-06,DOM,2018
+405,COD,"Growing vegetables, roots, tubers industry",BRA,1.8145325175904757e-05,DOM,2018
+406,COD,Growing sugar beet and cane industry,BRA,3.5727628501419988e-06,DOM,2018
+407,COD,Growing tobacco industry,BRA,1.1883174077788158e-08,DOM,2018
+408,COD,Growing fibre crops industry,BRA,1.2968193634686704e-06,DOM,2018
+409,COD,Growing crops n.e.c. industry,BRA,7.140554206654412e-06,DOM,2018
+410,COD,Growing grapes industry,BRA,0.0,DOM,2018
+411,COD,Growing fruits and nuts industry,BRA,6.366316801040296e-06,DOM,2018
+412,COD,"Growing beverage crops (coffee, tea etc) industry",BRA,5.800865062606692e-06,DOM,2018
+413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,2.960649557572898e-08,DOM,2018
+414,COD,Seeds and plant propagation industry,BRA,0.0,DOM,2018
+415,COD,Raising of cattle industry,BRA,0.00018794550125935368,DOM,2018
+416,COD,Growing wheat industry,BRN,1.547886355314574e-08,DOM,2018
+417,COD,Growing maize industry,BRN,2.1347659140386462e-07,DOM,2018
+418,COD,Growing cereals n.e.c industry,BRN,0.0,DOM,2018
+419,COD,Growing leguminous crops and oil seeds industry,BRN,5.140769008558419e-08,DOM,2018
+420,COD,Growing rice industry,BRN,4.435541266795806e-08,DOM,2018
+421,COD,"Growing vegetables, roots, tubers industry",BRN,1.818121705334107e-07,DOM,2018
+422,COD,Growing sugar beet and cane industry,BRN,3.7914459383186464e-08,DOM,2018
+423,COD,Growing tobacco industry,BRN,9.798951943974566e-11,DOM,2018
+424,COD,Growing fibre crops industry,BRN,1.2766146200368976e-08,DOM,2018
+425,COD,Growing crops n.e.c. industry,BRN,8.216591029473133e-08,DOM,2018
+426,COD,Growing grapes industry,BRN,0.0,DOM,2018
+427,COD,Growing fruits and nuts industry,BRN,5.928475036005934e-08,DOM,2018
+428,COD,"Growing beverage crops (coffee, tea etc) industry",BRN,5.731790002609319e-08,DOM,2018
+429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,2.678222959334608e-10,DOM,2018
+430,COD,Seeds and plant propagation industry,BRN,0.0,DOM,2018
+431,COD,Raising of cattle industry,BRN,2.4243235344799486e-06,DOM,2018
+432,COD,Growing wheat industry,BTN,2.1163073063751605e-09,DOM,2018
+433,COD,Growing maize industry,BTN,1.937873519503737e-08,DOM,2018
+434,COD,Growing cereals n.e.c industry,BTN,0.0,DOM,2018
+435,COD,Growing leguminous crops and oil seeds industry,BTN,7.100645612673837e-09,DOM,2018
+436,COD,Growing rice industry,BTN,7.210798465505833e-09,DOM,2018
+437,COD,"Growing vegetables, roots, tubers industry",BTN,1.7476042633096122e-08,DOM,2018
+438,COD,Growing sugar beet and cane industry,BTN,4.470365712075869e-09,DOM,2018
+439,COD,Growing tobacco industry,BTN,1.6958642826223823e-11,DOM,2018
+440,COD,Growing fibre crops industry,BTN,1.0290147369178057e-09,DOM,2018
+441,COD,Growing crops n.e.c. industry,BTN,1.0926730883891613e-08,DOM,2018
+442,COD,Growing grapes industry,BTN,0.0,DOM,2018
+443,COD,Growing fruits and nuts industry,BTN,4.181071895855089e-09,DOM,2018
+444,COD,"Growing beverage crops (coffee, tea etc) industry",BTN,5.295505336922262e-09,DOM,2018
+445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,3.0935554615002385e-11,DOM,2018
+446,COD,Seeds and plant propagation industry,BTN,0.0,DOM,2018
+447,COD,Raising of cattle industry,BTN,3.8045201352146926e-07,DOM,2018
+448,COD,Growing wheat industry,BWA,1.6362621667694934e-08,DOM,2018
+449,COD,Growing maize industry,BWA,1.8057835238526203e-07,DOM,2018
+450,COD,Growing cereals n.e.c industry,BWA,0.0,DOM,2018
+451,COD,Growing leguminous crops and oil seeds industry,BWA,5.658526277843233e-08,DOM,2018
+452,COD,Growing rice industry,BWA,4.9919901112409244e-08,DOM,2018
+453,COD,"Growing vegetables, roots, tubers industry",BWA,1.5358445394550652e-07,DOM,2018
+454,COD,Growing sugar beet and cane industry,BWA,3.698734330298152e-08,DOM,2018
+455,COD,Growing tobacco industry,BWA,1.368912212704225e-10,DOM,2018
+456,COD,Growing fibre crops industry,BWA,1.0671252940223225e-08,DOM,2018
+457,COD,Growing crops n.e.c. industry,BWA,8.42038463693959e-08,DOM,2018
+458,COD,Growing grapes industry,BWA,0.0,DOM,2018
+459,COD,Growing fruits and nuts industry,BWA,4.8354002042388796e-08,DOM,2018
+460,COD,"Growing beverage crops (coffee, tea etc) industry",BWA,4.8853043778191785e-08,DOM,2018
+461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,2.6616271279529963e-10,DOM,2018
+462,COD,Seeds and plant propagation industry,BWA,0.0,DOM,2018
+463,COD,Raising of cattle industry,BWA,2.685491491697032e-06,DOM,2018
+464,COD,Growing wheat industry,CAF,2.6400221055543842e-09,DOM,2018
+465,COD,Growing maize industry,CAF,2.8641207821380347e-08,DOM,2018
+466,COD,Growing cereals n.e.c industry,CAF,0.0,DOM,2018
+467,COD,Growing leguminous crops and oil seeds industry,CAF,7.565248568951609e-09,DOM,2018
+468,COD,Growing rice industry,CAF,7.919886709749691e-09,DOM,2018
+469,COD,"Growing vegetables, roots, tubers industry",CAF,2.7468023675654467e-08,DOM,2018
+470,COD,Growing sugar beet and cane industry,CAF,5.117930026558892e-09,DOM,2018
+471,COD,Growing tobacco industry,CAF,1.5414935999893195e-11,DOM,2018
+472,COD,Growing fibre crops industry,CAF,1.3543895111987712e-09,DOM,2018
+473,COD,Growing crops n.e.c. industry,CAF,1.2067893354036866e-08,DOM,2018
+474,COD,Growing grapes industry,CAF,0.0,DOM,2018
+475,COD,Growing fruits and nuts industry,CAF,5.618490317369627e-09,DOM,2018
+476,COD,"Growing beverage crops (coffee, tea etc) industry",CAF,7.579433788763683e-09,DOM,2018
+477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,4.446797492241325e-11,DOM,2018
+478,COD,Seeds and plant propagation industry,CAF,0.0,DOM,2018
+479,COD,Raising of cattle industry,CAF,3.560687474541215e-07,DOM,2018
+480,COD,Growing wheat industry,CAN,6.2793721704058e-06,DOM,2018
+481,COD,Growing maize industry,CAN,6.616559883600886e-05,DOM,2018
+482,COD,Growing cereals n.e.c industry,CAN,0.0,DOM,2018
+483,COD,Growing leguminous crops and oil seeds industry,CAN,2.050413749982101e-05,DOM,2018
+484,COD,Growing rice industry,CAN,1.7921583430728364e-05,DOM,2018
+485,COD,"Growing vegetables, roots, tubers industry",CAN,6.0025302617324254e-05,DOM,2018
+486,COD,Growing sugar beet and cane industry,CAN,1.2709935104274048e-05,DOM,2018
+487,COD,Growing tobacco industry,CAN,3.6687842802582346e-08,DOM,2018
+488,COD,Growing fibre crops industry,CAN,3.738175440013773e-06,DOM,2018
+489,COD,Growing crops n.e.c. industry,CAN,3.799873822926903e-05,DOM,2018
+490,COD,Growing grapes industry,CAN,0.0,DOM,2018
+491,COD,Growing fruits and nuts industry,CAN,1.5429810279552802e-05,DOM,2018
+492,COD,"Growing beverage crops (coffee, tea etc) industry",CAN,1.8761831896366696e-05,DOM,2018
+493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,8.807574138396743e-08,DOM,2018
+494,COD,Seeds and plant propagation industry,CAN,0.0,DOM,2018
+495,COD,Raising of cattle industry,CAN,0.0011311411558524635,DOM,2018
+496,COD,Growing wheat industry,CHE,6.486996719490709e-07,DOM,2018
+497,COD,Growing maize industry,CHE,9.586761162051781e-06,DOM,2018
+498,COD,Growing cereals n.e.c industry,CHE,0.0,DOM,2018
+499,COD,Growing leguminous crops and oil seeds industry,CHE,2.1226694440898682e-06,DOM,2018
+500,COD,Growing rice industry,CHE,1.886711087040857e-06,DOM,2018
+501,COD,"Growing vegetables, roots, tubers industry",CHE,9.195568571500763e-06,DOM,2018
+502,COD,Growing sugar beet and cane industry,CHE,1.5320213880214841e-06,DOM,2018
+503,COD,Growing tobacco industry,CHE,4.023929789148841e-09,DOM,2018
+504,COD,Growing fibre crops industry,CHE,4.6355983538272605e-07,DOM,2018
+505,COD,Growing crops n.e.c. industry,CHE,3.3156609429965235e-06,DOM,2018
+506,COD,Growing grapes industry,CHE,0.0,DOM,2018
+507,COD,Growing fruits and nuts industry,CHE,2.0979737235456664e-06,DOM,2018
+508,COD,"Growing beverage crops (coffee, tea etc) industry",CHE,2.485007255320683e-06,DOM,2018
+509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,1.3258625098074766e-08,DOM,2018
+510,COD,Seeds and plant propagation industry,CHE,0.0,DOM,2018
+511,COD,Raising of cattle industry,CHE,9.792887745321236e-05,DOM,2018
+512,COD,Growing wheat industry,CHL,5.075484260404629e-07,DOM,2018
+513,COD,Growing maize industry,CHL,7.770003762906097e-06,DOM,2018
+514,COD,Growing cereals n.e.c industry,CHL,0.0,DOM,2018
+515,COD,Growing leguminous crops and oil seeds industry,CHL,1.6849327945652322e-06,DOM,2018
+516,COD,Growing rice industry,CHL,1.3697649056664032e-06,DOM,2018
+517,COD,"Growing vegetables, roots, tubers industry",CHL,6.2251032170459744e-06,DOM,2018
+518,COD,Growing sugar beet and cane industry,CHL,1.1510236739381875e-06,DOM,2018
+519,COD,Growing tobacco industry,CHL,3.255155694899053e-09,DOM,2018
+520,COD,Growing fibre crops industry,CHL,3.4711161223652115e-07,DOM,2018
+521,COD,Growing crops n.e.c. industry,CHL,2.560963523232201e-06,DOM,2018
+522,COD,Growing grapes industry,CHL,0.0,DOM,2018
+523,COD,Growing fruits and nuts industry,CHL,1.504424602644381e-06,DOM,2018
+524,COD,"Growing beverage crops (coffee, tea etc) industry",CHL,1.8362806742613604e-06,DOM,2018
+525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,9.297041293368512e-09,DOM,2018
+526,COD,Seeds and plant propagation industry,CHL,0.0,DOM,2018
+527,COD,Raising of cattle industry,CHL,7.680044928516064e-05,DOM,2018
+528,COD,Growing wheat industry,CHN,4.5936210098349405e-05,DOM,2018
+529,COD,Growing maize industry,CHN,0.0006448630109287851,DOM,2018
+530,COD,Growing cereals n.e.c industry,CHN,0.0,DOM,2018
+531,COD,Growing leguminous crops and oil seeds industry,CHN,0.00014889196437300778,DOM,2018
+532,COD,Growing rice industry,CHN,0.00012719167373035037,DOM,2018
+533,COD,"Growing vegetables, roots, tubers industry",CHN,0.0005241302513637226,DOM,2018
+534,COD,Growing sugar beet and cane industry,CHN,0.00012035171252270463,DOM,2018
+535,COD,Growing tobacco industry,CHN,2.8999683229676077e-07,DOM,2018
+536,COD,Growing fibre crops industry,CHN,4.3785332772840284e-05,DOM,2018
+537,COD,Growing crops n.e.c. industry,CHN,0.0002480792203734755,DOM,2018
+538,COD,Growing grapes industry,CHN,0.0,DOM,2018
+539,COD,Growing fruits and nuts industry,CHN,0.0002144059833691454,DOM,2018
+540,COD,"Growing beverage crops (coffee, tea etc) industry",CHN,0.00017816137300660773,DOM,2018
+541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,7.639747612317835e-07,DOM,2018
+542,COD,Seeds and plant propagation industry,CHN,0.0,DOM,2018
+543,COD,Raising of cattle industry,CHN,0.0072192523280940534,DOM,2018
+544,COD,Growing wheat industry,CIV,4.875116139394886e-08,DOM,2018
+545,COD,Growing maize industry,CIV,5.547630630852848e-07,DOM,2018
+546,COD,Growing cereals n.e.c industry,CIV,0.0,DOM,2018
+547,COD,Growing leguminous crops and oil seeds industry,CIV,2.4342545781859275e-07,DOM,2018
+548,COD,Growing rice industry,CIV,1.2138103271758895e-07,DOM,2018
+549,COD,"Growing vegetables, roots, tubers industry",CIV,5.732592556167257e-07,DOM,2018
+550,COD,Growing sugar beet and cane industry,CIV,9.770146188604861e-08,DOM,2018
+551,COD,Growing tobacco industry,CIV,8.405587724602631e-10,DOM,2018
+552,COD,Growing fibre crops industry,CIV,2.2138649068366237e-08,DOM,2018
+553,COD,Growing crops n.e.c. industry,CIV,1.9763065518670612e-07,DOM,2018
+554,COD,Growing grapes industry,CIV,0.0,DOM,2018
+555,COD,Growing fruits and nuts industry,CIV,9.934271949552108e-08,DOM,2018
+556,COD,"Growing beverage crops (coffee, tea etc) industry",CIV,1.4844739201229526e-07,DOM,2018
+557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,1.4115754259919043e-09,DOM,2018
+558,COD,Seeds and plant propagation industry,CIV,0.0,DOM,2018
+559,COD,Raising of cattle industry,CIV,6.328839631877114e-06,DOM,2018
+560,COD,Growing wheat industry,CMR,5.0514774216405e-08,DOM,2018
+561,COD,Growing maize industry,CMR,6.686416103161556e-07,DOM,2018
+562,COD,Growing cereals n.e.c industry,CMR,0.0,DOM,2018
+563,COD,Growing leguminous crops and oil seeds industry,CMR,2.6768762680200155e-07,DOM,2018
+564,COD,Growing rice industry,CMR,1.3380559747331388e-07,DOM,2018
+565,COD,"Growing vegetables, roots, tubers industry",CMR,5.47895992212047e-07,DOM,2018
+566,COD,Growing sugar beet and cane industry,CMR,1.0757127612139278e-07,DOM,2018
+567,COD,Growing tobacco industry,CMR,9.223089430565828e-10,DOM,2018
+568,COD,Growing fibre crops industry,CMR,2.097643037546023e-08,DOM,2018
+569,COD,Growing crops n.e.c. industry,CMR,2.066845458103729e-07,DOM,2018
+570,COD,Growing grapes industry,CMR,0.0,DOM,2018
+571,COD,Growing fruits and nuts industry,CMR,9.200869936482657e-08,DOM,2018
+572,COD,"Growing beverage crops (coffee, tea etc) industry",CMR,1.4861234458484987e-07,DOM,2018
+573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,1.4302750440405796e-09,DOM,2018
+574,COD,Seeds and plant propagation industry,CMR,0.0,DOM,2018
+575,COD,Raising of cattle industry,CMR,6.930710582567085e-06,DOM,2018
+576,COD,Growing wheat industry,COD,3.578028733016024e-08,DOM,2018
+577,COD,Growing maize industry,COD,4.1809142667859154e-07,DOM,2018
+578,COD,Growing cereals n.e.c industry,COD,0.0,DOM,2018
+579,COD,Growing leguminous crops and oil seeds industry,COD,1.2410034361313804e-07,DOM,2018
+580,COD,Growing rice industry,COD,9.523205736691659e-08,DOM,2018
+581,COD,"Growing vegetables, roots, tubers industry",COD,3.7568539455772193e-07,DOM,2018
+582,COD,Growing sugar beet and cane industry,COD,7.214764993556315e-08,DOM,2018
+583,COD,Growing tobacco industry,COD,3.1639060691400245e-10,DOM,2018
+584,COD,Growing fibre crops industry,COD,2.185898767963366e-08,DOM,2018
+585,COD,Growing crops n.e.c. industry,COD,1.6169430310578108e-07,DOM,2018
+586,COD,Growing grapes industry,COD,0.0,DOM,2018
+587,COD,Growing fruits and nuts industry,COD,9.744807962989728e-08,DOM,2018
+588,COD,"Growing beverage crops (coffee, tea etc) industry",COD,1.0989639174325e-07,DOM,2018
+589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,6.909052280096437e-10,DOM,2018
+590,COD,Seeds and plant propagation industry,COD,0.0,DOM,2018
+591,COD,Raising of cattle industry,COD,4.982837053511168e-06,DOM,2018
+592,COD,Growing wheat industry,COG,1.995871322863793e-08,DOM,2018
+593,COD,Growing maize industry,COG,2.052972266880033e-07,DOM,2018
+594,COD,Growing cereals n.e.c industry,COG,0.0,DOM,2018
+595,COD,Growing leguminous crops and oil seeds industry,COG,6.079096751848143e-08,DOM,2018
+596,COD,Growing rice industry,COG,6.44179125642577e-08,DOM,2018
+597,COD,"Growing vegetables, roots, tubers industry",COG,1.7829951240053732e-07,DOM,2018
+598,COD,Growing sugar beet and cane industry,COG,4.525784600494413e-08,DOM,2018
+599,COD,Growing tobacco industry,COG,1.2084129840467633e-10,DOM,2018
+600,COD,Growing fibre crops industry,COG,1.2479034825281237e-08,DOM,2018
+601,COD,Growing crops n.e.c. industry,COG,1.0467048111146666e-07,DOM,2018
+602,COD,Growing grapes industry,COG,0.0,DOM,2018
+603,COD,Growing fruits and nuts industry,COG,5.599061830806925e-08,DOM,2018
+604,COD,"Growing beverage crops (coffee, tea etc) industry",COG,5.7345768372568185e-08,DOM,2018
+605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,2.7076823744564415e-10,DOM,2018
+606,COD,Seeds and plant propagation industry,COG,0.0,DOM,2018
+607,COD,Raising of cattle industry,COG,3.331300627302226e-06,DOM,2018
+608,COD,Growing wheat industry,COL,5.497363783763282e-07,DOM,2018
+609,COD,Growing maize industry,COL,6.800238594427972e-06,DOM,2018
+610,COD,Growing cereals n.e.c industry,COL,0.0,DOM,2018
+611,COD,Growing leguminous crops and oil seeds industry,COL,2.034654156906285e-06,DOM,2018
+612,COD,Growing rice industry,COL,1.4424510230764433e-06,DOM,2018
+613,COD,"Growing vegetables, roots, tubers industry",COL,6.4514480729241134e-06,DOM,2018
+614,COD,Growing sugar beet and cane industry,COL,1.1874783317009527e-06,DOM,2018
+615,COD,Growing tobacco industry,COL,5.0646259212301554e-09,DOM,2018
+616,COD,Growing fibre crops industry,COL,3.5461953287261046e-07,DOM,2018
+617,COD,Growing crops n.e.c. industry,COL,2.6583542148321057e-06,DOM,2018
+618,COD,Growing grapes industry,COL,0.0,DOM,2018
+619,COD,Growing fruits and nuts industry,COL,1.5312484034615404e-06,DOM,2018
+620,COD,"Growing beverage crops (coffee, tea etc) industry",COL,1.8448306413060542e-06,DOM,2018
+621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,1.1189248184831185e-08,DOM,2018
+622,COD,Seeds and plant propagation industry,COL,0.0,DOM,2018
+623,COD,Raising of cattle industry,COL,8.155998240361302e-05,DOM,2018
+624,COD,Growing wheat industry,CRI,3.160375210725759e-07,DOM,2018
+625,COD,Growing maize industry,CRI,4.25739481076602e-06,DOM,2018
+626,COD,Growing cereals n.e.c industry,CRI,0.0,DOM,2018
+627,COD,Growing leguminous crops and oil seeds industry,CRI,1.0868410219284116e-06,DOM,2018
+628,COD,Growing rice industry,CRI,8.839194925735107e-07,DOM,2018
+629,COD,"Growing vegetables, roots, tubers industry",CRI,3.7138555432594296e-06,DOM,2018
+630,COD,Growing sugar beet and cane industry,CRI,6.727506787559868e-07,DOM,2018
+631,COD,Growing tobacco industry,CRI,2.0389537010348466e-09,DOM,2018
+632,COD,Growing fibre crops industry,CRI,1.7377996346731275e-07,DOM,2018
+633,COD,Growing crops n.e.c. industry,CRI,1.5055584676822336e-06,DOM,2018
+634,COD,Growing grapes industry,CRI,0.0,DOM,2018
+635,COD,Growing fruits and nuts industry,CRI,6.099870056176693e-07,DOM,2018
+636,COD,"Growing beverage crops (coffee, tea etc) industry",CRI,9.912455993601479e-07,DOM,2018
+637,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,5.660428132289134e-09,DOM,2018
+638,COD,Seeds and plant propagation industry,CRI,0.0,DOM,2018
+639,COD,Raising of cattle industry,CRI,5.097717756661163e-05,DOM,2018
+640,COD,Growing wheat industry,CUB,7.644099728349356e-07,DOM,2018
+641,COD,Growing maize industry,CUB,1.3345639168680962e-05,DOM,2018
+642,COD,Growing cereals n.e.c industry,CUB,0.0,DOM,2018
+643,COD,Growing leguminous crops and oil seeds industry,CUB,2.5395453708672733e-06,DOM,2018
+644,COD,Growing rice industry,CUB,2.0342194429576067e-06,DOM,2018
+645,COD,"Growing vegetables, roots, tubers industry",CUB,8.937832874326038e-06,DOM,2018
+646,COD,Growing sugar beet and cane industry,CUB,1.7311800761555965e-06,DOM,2018
+647,COD,Growing tobacco industry,CUB,3.8409528591077815e-09,DOM,2018
+648,COD,Growing fibre crops industry,CUB,3.8655780610390047e-07,DOM,2018
+649,COD,Growing crops n.e.c. industry,CUB,3.6074883539825224e-06,DOM,2018
+650,COD,Growing grapes industry,CUB,0.0,DOM,2018
+651,COD,Growing fruits and nuts industry,CUB,1.3145901454559526e-06,DOM,2018
+652,COD,"Growing beverage crops (coffee, tea etc) industry",CUB,2.538659142642669e-06,DOM,2018
+653,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,1.2745901890080049e-08,DOM,2018
+654,COD,Seeds and plant propagation industry,CUB,0.0,DOM,2018
+655,COD,Raising of cattle industry,CUB,0.00012447812867362741,DOM,2018
+656,COD,Growing wheat industry,CYP,2.600663878955276e-08,DOM,2018
+657,COD,Growing maize industry,CYP,2.285925371637825e-07,DOM,2018
+658,COD,Growing cereals n.e.c industry,CYP,0.0,DOM,2018
+659,COD,Growing leguminous crops and oil seeds industry,CYP,7.935445168813983e-08,DOM,2018
+660,COD,Growing rice industry,CYP,8.723948266028833e-08,DOM,2018
+661,COD,"Growing vegetables, roots, tubers industry",CYP,1.923523528147206e-07,DOM,2018
+662,COD,Growing sugar beet and cane industry,CYP,5.171229251750073e-08,DOM,2018
+663,COD,Growing tobacco industry,CYP,1.500375373765529e-10,DOM,2018
+664,COD,Growing fibre crops industry,CYP,1.220572731808922e-08,DOM,2018
+665,COD,Growing crops n.e.c. industry,CYP,1.5285071405268425e-07,DOM,2018
+666,COD,Growing grapes industry,CYP,0.0,DOM,2018
+667,COD,Growing fruits and nuts industry,CYP,4.3726906771993936e-08,DOM,2018
+668,COD,"Growing beverage crops (coffee, tea etc) industry",CYP,6.217763323132022e-08,DOM,2018
+669,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,2.8587848817056553e-10,DOM,2018
+670,COD,Seeds and plant propagation industry,CYP,0.0,DOM,2018
+671,COD,Raising of cattle industry,CYP,4.944609591481559e-06,DOM,2018
+672,COD,Growing wheat industry,CZE,2.583901048587826e-07,DOM,2018
+673,COD,Growing maize industry,CZE,4.343143313281067e-06,DOM,2018
+674,COD,Growing cereals n.e.c industry,CZE,0.0,DOM,2018
+675,COD,Growing leguminous crops and oil seeds industry,CZE,9.665041402874823e-07,DOM,2018
+676,COD,Growing rice industry,CZE,6.910166439005052e-07,DOM,2018
+677,COD,"Growing vegetables, roots, tubers industry",CZE,3.962632220317619e-06,DOM,2018
+678,COD,Growing sugar beet and cane industry,CZE,6.848771368355728e-07,DOM,2018
+679,COD,Growing tobacco industry,CZE,1.7140038386726032e-09,DOM,2018
+680,COD,Growing fibre crops industry,CZE,2.703098043925268e-07,DOM,2018
+681,COD,Growing crops n.e.c. industry,CZE,1.3539603321654897e-06,DOM,2018
+682,COD,Growing grapes industry,CZE,0.0,DOM,2018
+683,COD,Growing fruits and nuts industry,CZE,1.2560686006825795e-06,DOM,2018
+684,COD,"Growing beverage crops (coffee, tea etc) industry",CZE,1.224386458334673e-06,DOM,2018
+685,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,5.692336677482534e-09,DOM,2018
+686,COD,Seeds and plant propagation industry,CZE,0.0,DOM,2018
+687,COD,Raising of cattle industry,CZE,3.580575138835947e-05,DOM,2018
+688,COD,Growing wheat industry,DEU,3.726477342047098e-06,DOM,2018
+689,COD,Growing maize industry,DEU,4.9118233056261674e-05,DOM,2018
+690,COD,Growing cereals n.e.c industry,DEU,0.0,DOM,2018
+691,COD,Growing leguminous crops and oil seeds industry,DEU,1.2041093799344867e-05,DOM,2018
+692,COD,Growing rice industry,DEU,1.1428683009542182e-05,DOM,2018
+693,COD,"Growing vegetables, roots, tubers industry",DEU,4.3070140033797816e-05,DOM,2018
+694,COD,Growing sugar beet and cane industry,DEU,8.713145558018525e-06,DOM,2018
+695,COD,Growing tobacco industry,DEU,2.2582282007573527e-08,DOM,2018
+696,COD,Growing fibre crops industry,DEU,2.662570174456642e-06,DOM,2018
+697,COD,Growing crops n.e.c. industry,DEU,1.9071239696907573e-05,DOM,2018
+698,COD,Growing grapes industry,DEU,0.0,DOM,2018
+699,COD,Growing fruits and nuts industry,DEU,1.1909224029940304e-05,DOM,2018
+700,COD,"Growing beverage crops (coffee, tea etc) industry",DEU,1.2798747089558417e-05,DOM,2018
+701,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,6.296223101919616e-08,DOM,2018
+702,COD,Seeds and plant propagation industry,DEU,0.0,DOM,2018
+703,COD,Raising of cattle industry,DEU,0.0005573079317492957,DOM,2018
+704,COD,Growing wheat industry,DJI,5.074095234098872e-09,DOM,2018
+705,COD,Growing maize industry,DJI,6.279509828894342e-08,DOM,2018
+706,COD,Growing cereals n.e.c industry,DJI,0.0,DOM,2018
+707,COD,Growing leguminous crops and oil seeds industry,DJI,1.5032350206437362e-08,DOM,2018
+708,COD,Growing rice industry,DJI,1.5602547797435415e-08,DOM,2018
+709,COD,"Growing vegetables, roots, tubers industry",DJI,4.959535958824482e-08,DOM,2018
+710,COD,Growing sugar beet and cane industry,DJI,1.18817173246281e-08,DOM,2018
+711,COD,Growing tobacco industry,DJI,2.8469001895472264e-11,DOM,2018
+712,COD,Growing fibre crops industry,DJI,3.1053216260289046e-09,DOM,2018
+713,COD,Growing crops n.e.c. industry,DJI,2.584362790989665e-08,DOM,2018
+714,COD,Growing grapes industry,DJI,0.0,DOM,2018
+715,COD,Growing fruits and nuts industry,DJI,1.337436939561115e-08,DOM,2018
+716,COD,"Growing beverage crops (coffee, tea etc) industry",DJI,1.506148810501945e-08,DOM,2018
+717,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,7.261571233226731e-11,DOM,2018
+718,COD,Seeds and plant propagation industry,DJI,0.0,DOM,2018
+719,COD,Raising of cattle industry,DJI,8.480221099377647e-07,DOM,2018
+720,COD,Growing wheat industry,DYE,0.0,DOM,2018
+721,COD,Growing maize industry,DYE,0.0,DOM,2018
+722,COD,Growing cereals n.e.c industry,DYE,0.0,DOM,2018
+723,COD,Growing leguminous crops and oil seeds industry,DYE,0.0,DOM,2018
+724,COD,Growing rice industry,DYE,0.0,DOM,2018
+725,COD,"Growing vegetables, roots, tubers industry",DYE,0.0,DOM,2018
+726,COD,Growing sugar beet and cane industry,DYE,0.0,DOM,2018
+727,COD,Growing tobacco industry,DYE,0.0,DOM,2018
+728,COD,Growing fibre crops industry,DYE,0.0,DOM,2018
+729,COD,Growing crops n.e.c. industry,DYE,0.0,DOM,2018
+730,COD,Growing grapes industry,DYE,0.0,DOM,2018
+731,COD,Growing fruits and nuts industry,DYE,0.0,DOM,2018
+732,COD,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,DOM,2018
+733,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,DOM,2018
+734,COD,Seeds and plant propagation industry,DYE,0.0,DOM,2018
+735,COD,Raising of cattle industry,DYE,0.0,DOM,2018
+736,COD,Growing wheat industry,DNK,1.9892113600924632e-07,DOM,2018
+737,COD,Growing maize industry,DNK,2.5952058028988606e-06,DOM,2018
+738,COD,Growing cereals n.e.c industry,DNK,0.0,DOM,2018
+739,COD,Growing leguminous crops and oil seeds industry,DNK,6.477669687994008e-07,DOM,2018
+740,COD,Growing rice industry,DNK,5.979236703781235e-07,DOM,2018
+741,COD,"Growing vegetables, roots, tubers industry",DNK,2.2538306292332754e-06,DOM,2018
+742,COD,Growing sugar beet and cane industry,DNK,4.716527087865601e-07,DOM,2018
+743,COD,Growing tobacco industry,DNK,1.2580878373160897e-09,DOM,2018
+744,COD,Growing fibre crops industry,DNK,1.4144453468273363e-07,DOM,2018
+745,COD,Growing crops n.e.c. industry,DNK,1.0264317979571723e-06,DOM,2018
+746,COD,Growing grapes industry,DNK,0.0,DOM,2018
+747,COD,Growing fruits and nuts industry,DNK,6.416349070105093e-07,DOM,2018
+748,COD,"Growing beverage crops (coffee, tea etc) industry",DNK,6.834636297864218e-07,DOM,2018
+749,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,3.3838285237154785e-09,DOM,2018
+750,COD,Seeds and plant propagation industry,DNK,0.0,DOM,2018
+751,COD,Raising of cattle industry,DNK,3.036386377312258e-05,DOM,2018
+752,COD,Growing wheat industry,DOM,0.0,DOM,2018
+753,COD,Growing maize industry,DOM,0.0,DOM,2018
+754,COD,Growing cereals n.e.c industry,DOM,0.0,DOM,2018
+755,COD,Growing leguminous crops and oil seeds industry,DOM,0.0,DOM,2018
+756,COD,Growing rice industry,DOM,0.0,DOM,2018
+757,COD,"Growing vegetables, roots, tubers industry",DOM,0.0,DOM,2018
+758,COD,Growing sugar beet and cane industry,DOM,0.0,DOM,2018
+759,COD,Growing tobacco industry,DOM,0.0,DOM,2018
+760,COD,Growing fibre crops industry,DOM,0.0,DOM,2018
+761,COD,Growing crops n.e.c. industry,DOM,0.0,DOM,2018
+762,COD,Growing grapes industry,DOM,0.0,DOM,2018
+763,COD,Growing fruits and nuts industry,DOM,0.0,DOM,2018
+764,COD,"Growing beverage crops (coffee, tea etc) industry",DOM,0.0,DOM,2018
+765,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,0.0,DOM,2018
+766,COD,Seeds and plant propagation industry,DOM,0.0,DOM,2018
+767,COD,Raising of cattle industry,DOM,0.0,DOM,2018
+768,COD,Growing wheat industry,DZA,2.156656334394992e-07,DOM,2018
+769,COD,Growing maize industry,DZA,2.815309877301015e-06,DOM,2018
+770,COD,Growing cereals n.e.c industry,DZA,0.0,DOM,2018
+771,COD,Growing leguminous crops and oil seeds industry,DZA,7.248583289103472e-07,DOM,2018
+772,COD,Growing rice industry,DZA,6.454045618189091e-07,DOM,2018
+773,COD,"Growing vegetables, roots, tubers industry",DZA,2.31649664769226e-06,DOM,2018
+774,COD,Growing sugar beet and cane industry,DZA,5.225039230851728e-07,DOM,2018
+775,COD,Growing tobacco industry,DZA,1.540444452221273e-09,DOM,2018
+776,COD,Growing fibre crops industry,DZA,1.5784054057508557e-07,DOM,2018
+777,COD,Growing crops n.e.c. industry,DZA,1.1186776232516677e-06,DOM,2018
+778,COD,Growing grapes industry,DZA,0.0,DOM,2018
+779,COD,Growing fruits and nuts industry,DZA,7.26773624862839e-07,DOM,2018
+780,COD,"Growing beverage crops (coffee, tea etc) industry",DZA,7.43995504849442e-07,DOM,2018
+781,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,3.612515793426427e-09,DOM,2018
+782,COD,Seeds and plant propagation industry,DZA,0.0,DOM,2018
+783,COD,Raising of cattle industry,DZA,3.5313567161500916e-05,DOM,2018
+784,COD,Growing wheat industry,ECU,4.1633780398145057e-07,DOM,2018
+785,COD,Growing maize industry,ECU,8.311763305165135e-06,DOM,2018
+786,COD,Growing cereals n.e.c industry,ECU,0.0,DOM,2018
+787,COD,Growing leguminous crops and oil seeds industry,ECU,1.8015025399525638e-06,DOM,2018
+788,COD,Growing rice industry,ECU,9.875057405626862e-07,DOM,2018
+789,COD,"Growing vegetables, roots, tubers industry",ECU,9.224898086679136e-06,DOM,2018
+790,COD,Growing sugar beet and cane industry,ECU,9.166057136832237e-07,DOM,2018
+791,COD,Growing tobacco industry,ECU,2.932638074300591e-09,DOM,2018
+792,COD,Growing fibre crops industry,ECU,4.612216843418944e-07,DOM,2018
+793,COD,Growing crops n.e.c. industry,ECU,1.757230224636153e-06,DOM,2018
+794,COD,Growing grapes industry,ECU,0.0,DOM,2018
+795,COD,Growing fruits and nuts industry,ECU,1.7493677015068103e-06,DOM,2018
+796,COD,"Growing beverage crops (coffee, tea etc) industry",ECU,2.4757928444987003e-06,DOM,2018
+797,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,1.3249826770444005e-08,DOM,2018
+798,COD,Seeds and plant propagation industry,ECU,0.0,DOM,2018
+799,COD,Raising of cattle industry,ECU,4.98651039889654e-05,DOM,2018
+800,COD,Growing wheat industry,EGY,1.7730405445630837e-07,DOM,2018
+801,COD,Growing maize industry,EGY,2.1532450292488517e-06,DOM,2018
+802,COD,Growing cereals n.e.c industry,EGY,0.0,DOM,2018
+803,COD,Growing leguminous crops and oil seeds industry,EGY,1.0340914646462488e-06,DOM,2018
+804,COD,Growing rice industry,EGY,4.370576789901545e-07,DOM,2018
+805,COD,"Growing vegetables, roots, tubers industry",EGY,2.2388428098656124e-06,DOM,2018
+806,COD,Growing sugar beet and cane industry,EGY,3.7962951189527136e-07,DOM,2018
+807,COD,Growing tobacco industry,EGY,3.772777065756913e-09,DOM,2018
+808,COD,Growing fibre crops industry,EGY,1.016861315227879e-07,DOM,2018
+809,COD,Growing crops n.e.c. industry,EGY,7.271681301039349e-07,DOM,2018
+810,COD,Growing grapes industry,EGY,0.0,DOM,2018
+811,COD,Growing fruits and nuts industry,EGY,4.841390476924877e-07,DOM,2018
+812,COD,"Growing beverage crops (coffee, tea etc) industry",EGY,6.168677159372358e-07,DOM,2018
+813,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,5.905886256612049e-09,DOM,2018
+814,COD,Seeds and plant propagation industry,EGY,0.0,DOM,2018
+815,COD,Raising of cattle industry,EGY,2.2307173550248274e-05,DOM,2018
+816,COD,Growing wheat industry,ERI,2.1133958534764686e-09,DOM,2018
+817,COD,Growing maize industry,ERI,1.59907871701319e-08,DOM,2018
+818,COD,Growing cereals n.e.c industry,ERI,0.0,DOM,2018
+819,COD,Growing leguminous crops and oil seeds industry,ERI,5.468112974896299e-09,DOM,2018
+820,COD,Growing rice industry,ERI,7.961834791685922e-09,DOM,2018
+821,COD,"Growing vegetables, roots, tubers industry",ERI,1.3141237189662922e-08,DOM,2018
+822,COD,Growing sugar beet and cane industry,ERI,4.384787394350786e-09,DOM,2018
+823,COD,Growing tobacco industry,ERI,1.039045771660727e-11,DOM,2018
+824,COD,Growing fibre crops industry,ERI,8.881483921307029e-10,DOM,2018
+825,COD,Growing crops n.e.c. industry,ERI,1.0714561741464901e-08,DOM,2018
+826,COD,Growing grapes industry,ERI,0.0,DOM,2018
+827,COD,Growing fruits and nuts industry,ERI,3.409277774333206e-09,DOM,2018
+828,COD,"Growing beverage crops (coffee, tea etc) industry",ERI,4.160643899694715e-09,DOM,2018
+829,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,1.8849802596250985e-11,DOM,2018
+830,COD,Seeds and plant propagation industry,ERI,0.0,DOM,2018
+831,COD,Raising of cattle industry,ERI,3.9459062278453327e-07,DOM,2018
+832,COD,Growing wheat industry,ESP,1.6096395838534131e-06,DOM,2018
+833,COD,Growing maize industry,ESP,2.6914208451510674e-05,DOM,2018
+834,COD,Growing cereals n.e.c industry,ESP,0.0,DOM,2018
+835,COD,Growing leguminous crops and oil seeds industry,ESP,5.684184697653752e-06,DOM,2018
+836,COD,Growing rice industry,ESP,4.597585075578162e-06,DOM,2018
+837,COD,"Growing vegetables, roots, tubers industry",ESP,2.390814211731984e-05,DOM,2018
+838,COD,Growing sugar beet and cane industry,ESP,3.5502946013121582e-06,DOM,2018
+839,COD,Growing tobacco industry,ESP,1.0409240261212362e-08,DOM,2018
+840,COD,Growing fibre crops industry,ESP,1.103540042864845e-06,DOM,2018
+841,COD,Growing crops n.e.c. industry,ESP,7.658130764228376e-06,DOM,2018
+842,COD,Growing grapes industry,ESP,0.0,DOM,2018
+843,COD,Growing fruits and nuts industry,ESP,4.37428897192939e-06,DOM,2018
+844,COD,"Growing beverage crops (coffee, tea etc) industry",ESP,6.555070287237853e-06,DOM,2018
+845,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,3.4666742147444566e-08,DOM,2018
+846,COD,Seeds and plant propagation industry,ESP,0.0,DOM,2018
+847,COD,Raising of cattle industry,ESP,0.00023916425011089287,DOM,2018
+848,COD,Growing wheat industry,EST,3.693840351660542e-08,DOM,2018
+849,COD,Growing maize industry,EST,5.684889799230985e-07,DOM,2018
+850,COD,Growing cereals n.e.c industry,EST,0.0,DOM,2018
+851,COD,Growing leguminous crops and oil seeds industry,EST,1.246669516036688e-07,DOM,2018
+852,COD,Growing rice industry,EST,1.1124908619120854e-07,DOM,2018
+853,COD,"Growing vegetables, roots, tubers industry",EST,4.228208873376963e-07,DOM,2018
+854,COD,Growing sugar beet and cane industry,EST,8.728774598109814e-08,DOM,2018
+855,COD,Growing tobacco industry,EST,2.2242407143742567e-10,DOM,2018
+856,COD,Growing fibre crops industry,EST,2.5194234325454218e-08,DOM,2018
+857,COD,Growing crops n.e.c. industry,EST,1.8524397935475298e-07,DOM,2018
+858,COD,Growing grapes industry,EST,0.0,DOM,2018
+859,COD,Growing fruits and nuts industry,EST,1.1720369162150051e-07,DOM,2018
+860,COD,"Growing beverage crops (coffee, tea etc) industry",EST,1.2702451470284269e-07,DOM,2018
+861,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,6.168594912117176e-10,DOM,2018
+862,COD,Seeds and plant propagation industry,EST,0.0,DOM,2018
+863,COD,Raising of cattle industry,EST,5.667996061053535e-06,DOM,2018
+864,COD,Growing wheat industry,ETH,8.065163688431923e-08,DOM,2018
+865,COD,Growing maize industry,ETH,7.810889543274719e-07,DOM,2018
+866,COD,Growing cereals n.e.c industry,ETH,0.0,DOM,2018
+867,COD,Growing leguminous crops and oil seeds industry,ETH,2.2052180039182337e-07,DOM,2018
+868,COD,Growing rice industry,ETH,2.5392356725659736e-07,DOM,2018
+869,COD,"Growing vegetables, roots, tubers industry",ETH,5.799063071282313e-07,DOM,2018
+870,COD,Growing sugar beet and cane industry,ETH,1.6519007469017297e-07,DOM,2018
+871,COD,Growing tobacco industry,ETH,4.423391441106273e-10,DOM,2018
+872,COD,Growing fibre crops industry,ETH,4.0042327041390236e-08,DOM,2018
+873,COD,Growing crops n.e.c. industry,ETH,3.982085341061211e-07,DOM,2018
+874,COD,Growing grapes industry,ETH,0.0,DOM,2018
+875,COD,Growing fruits and nuts industry,ETH,1.5859739733198626e-07,DOM,2018
+876,COD,"Growing beverage crops (coffee, tea etc) industry",ETH,1.817248906153722e-07,DOM,2018
+877,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,9.1395709870881e-10,DOM,2018
+878,COD,Seeds and plant propagation industry,ETH,0.0,DOM,2018
+879,COD,Raising of cattle industry,ETH,1.5206397393418472e-05,DOM,2018
+880,COD,Growing wheat industry,FIN,2.4476720002290043e-07,DOM,2018
+881,COD,Growing maize industry,FIN,3.105370539691642e-06,DOM,2018
+882,COD,Growing cereals n.e.c industry,FIN,0.0,DOM,2018
+883,COD,Growing leguminous crops and oil seeds industry,FIN,8.074963612474328e-07,DOM,2018
+884,COD,Growing rice industry,FIN,8.02175828135418e-07,DOM,2018
+885,COD,"Growing vegetables, roots, tubers industry",FIN,2.863839688285099e-06,DOM,2018
+886,COD,Growing sugar beet and cane industry,FIN,5.979218464011149e-07,DOM,2018
+887,COD,Growing tobacco industry,FIN,1.4583759152897837e-09,DOM,2018
+888,COD,Growing fibre crops industry,FIN,1.8326417363109025e-07,DOM,2018
+889,COD,Growing crops n.e.c. industry,FIN,1.2558343107167841e-06,DOM,2018
+890,COD,Growing grapes industry,FIN,0.0,DOM,2018
+891,COD,Growing fruits and nuts industry,FIN,8.279660016406545e-07,DOM,2018
+892,COD,"Growing beverage crops (coffee, tea etc) industry",FIN,8.827122182463549e-07,DOM,2018
+893,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,4.1399329499384084e-09,DOM,2018
+894,COD,Seeds and plant propagation industry,FIN,0.0,DOM,2018
+895,COD,Raising of cattle industry,FIN,3.9934950406352e-05,DOM,2018
+896,COD,Growing wheat industry,FRA,2.6881553309690014e-06,DOM,2018
+897,COD,Growing maize industry,FRA,2.5894713108349158e-05,DOM,2018
+898,COD,Growing cereals n.e.c industry,FRA,0.0,DOM,2018
+899,COD,Growing leguminous crops and oil seeds industry,FRA,7.664125324390102e-06,DOM,2018
+900,COD,Growing rice industry,FRA,8.879893836371615e-06,DOM,2018
+901,COD,"Growing vegetables, roots, tubers industry",FRA,2.2791556318421843e-05,DOM,2018
+902,COD,Growing sugar beet and cane industry,FRA,5.671205742571778e-06,DOM,2018
+903,COD,Growing tobacco industry,FRA,1.48105664243998e-08,DOM,2018
+904,COD,Growing fibre crops industry,FRA,1.3889974548484014e-06,DOM,2018
+905,COD,Growing crops n.e.c. industry,FRA,1.3689378258343644e-05,DOM,2018
+906,COD,Growing grapes industry,FRA,0.0,DOM,2018
+907,COD,Growing fruits and nuts industry,FRA,5.838242793989519e-06,DOM,2018
+908,COD,"Growing beverage crops (coffee, tea etc) industry",FRA,6.758132291175154e-06,DOM,2018
+909,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,3.4087058900820484e-08,DOM,2018
+910,COD,Seeds and plant propagation industry,FRA,0.0,DOM,2018
+911,COD,Raising of cattle industry,FRA,0.0004175957024316355,DOM,2018
+912,COD,Growing wheat industry,GAB,1.9158286921299215e-08,DOM,2018
+913,COD,Growing maize industry,GAB,1.7172396951506417e-07,DOM,2018
+914,COD,Growing cereals n.e.c industry,GAB,0.0,DOM,2018
+915,COD,Growing leguminous crops and oil seeds industry,GAB,5.612211004195483e-08,DOM,2018
+916,COD,Growing rice industry,GAB,6.611525179762093e-08,DOM,2018
+917,COD,"Growing vegetables, roots, tubers industry",GAB,1.4852688719281612e-07,DOM,2018
+918,COD,Growing sugar beet and cane industry,GAB,4.098600738608764e-08,DOM,2018
+919,COD,Growing tobacco industry,GAB,1.1304681505025429e-10,DOM,2018
+920,COD,Growing fibre crops industry,GAB,9.915538186537974e-09,DOM,2018
+921,COD,Growing crops n.e.c. industry,GAB,9.980949498176002e-08,DOM,2018
+922,COD,Growing grapes industry,GAB,0.0,DOM,2018
+923,COD,Growing fruits and nuts industry,GAB,4.215667347832838e-08,DOM,2018
+924,COD,"Growing beverage crops (coffee, tea etc) industry",GAB,4.731361133231662e-08,DOM,2018
+925,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,2.2754591103849554e-10,DOM,2018
+926,COD,Seeds and plant propagation industry,GAB,0.0,DOM,2018
+927,COD,Raising of cattle industry,GAB,3.3779465600634222e-06,DOM,2018
+928,COD,Growing wheat industry,GBR,2.0527568284478934e-06,DOM,2018
+929,COD,Growing maize industry,GBR,3.1012781602128594e-05,DOM,2018
+930,COD,Growing cereals n.e.c industry,GBR,0.0,DOM,2018
+931,COD,Growing leguminous crops and oil seeds industry,GBR,7.212286969466681e-06,DOM,2018
+932,COD,Growing rice industry,GBR,5.622379257607758e-06,DOM,2018
+933,COD,"Growing vegetables, roots, tubers industry",GBR,2.8424690987794815e-05,DOM,2018
+934,COD,Growing sugar beet and cane industry,GBR,4.887557827640997e-06,DOM,2018
+935,COD,Growing tobacco industry,GBR,1.3918467063776041e-08,DOM,2018
+936,COD,Growing fibre crops industry,GBR,1.6354309897094696e-06,DOM,2018
+937,COD,Growing crops n.e.c. industry,GBR,1.0852308788603774e-05,DOM,2018
+938,COD,Growing grapes industry,GBR,0.0,DOM,2018
+939,COD,Growing fruits and nuts industry,GBR,7.324532961643118e-06,DOM,2018
+940,COD,"Growing beverage crops (coffee, tea etc) industry",GBR,8.231918403638329e-06,DOM,2018
+941,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,4.229677341559468e-08,DOM,2018
+942,COD,Seeds and plant propagation industry,GBR,0.0,DOM,2018
+943,COD,Raising of cattle industry,GBR,0.00030566522639135276,DOM,2018
+944,COD,Growing wheat industry,GEO,2.6104286694348312e-08,DOM,2018
+945,COD,Growing maize industry,GEO,3.0799363415630854e-07,DOM,2018
+946,COD,Growing cereals n.e.c industry,GEO,0.0,DOM,2018
+947,COD,Growing leguminous crops and oil seeds industry,GEO,7.816936367836931e-08,DOM,2018
+948,COD,Growing rice industry,GEO,8.557372802449204e-08,DOM,2018
+949,COD,"Growing vegetables, roots, tubers industry",GEO,2.4143068308327324e-07,DOM,2018
+950,COD,Growing sugar beet and cane industry,GEO,6.032337796211153e-08,DOM,2018
+951,COD,Growing tobacco industry,GEO,1.5609949464434822e-10,DOM,2018
+952,COD,Growing fibre crops industry,GEO,1.6220954720351463e-08,DOM,2018
+953,COD,Growing crops n.e.c. industry,GEO,1.356848036910318e-07,DOM,2018
+954,COD,Growing grapes industry,GEO,0.0,DOM,2018
+955,COD,Growing fruits and nuts industry,GEO,7.042120242103018e-08,DOM,2018
+956,COD,"Growing beverage crops (coffee, tea etc) industry",GEO,7.531308415245368e-08,DOM,2018
+957,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,3.5341152413271337e-10,DOM,2018
+958,COD,Seeds and plant propagation industry,GEO,0.0,DOM,2018
+959,COD,Raising of cattle industry,GEO,4.877927352522567e-06,DOM,2018
+960,COD,Growing wheat industry,GHA,1.0310515037217767e-07,DOM,2018
+961,COD,Growing maize industry,GHA,1.133454605050176e-06,DOM,2018
+962,COD,Growing cereals n.e.c industry,GHA,0.0,DOM,2018
+963,COD,Growing leguminous crops and oil seeds industry,GHA,3.9243002127432655e-07,DOM,2018
+964,COD,Growing rice industry,GHA,3.0672769865853064e-07,DOM,2018
+965,COD,"Growing vegetables, roots, tubers industry",GHA,1.0651808508558527e-06,DOM,2018
+966,COD,Growing sugar beet and cane industry,GHA,2.3985753918244025e-07,DOM,2018
+967,COD,Growing tobacco industry,GHA,1.0462505040381656e-09,DOM,2018
+968,COD,Growing fibre crops industry,GHA,6.344160671065239e-08,DOM,2018
+969,COD,Growing crops n.e.c. industry,GHA,5.206617841268889e-07,DOM,2018
+970,COD,Growing grapes industry,GHA,0.0,DOM,2018
+971,COD,Growing fruits and nuts industry,GHA,2.839618258467678e-07,DOM,2018
+972,COD,"Growing beverage crops (coffee, tea etc) industry",GHA,3.205061181606552e-07,DOM,2018
+973,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,1.9811569273199154e-09,DOM,2018
+974,COD,Seeds and plant propagation industry,GHA,0.0,DOM,2018
+975,COD,Raising of cattle industry,GHA,1.704425949463666e-05,DOM,2018
+976,COD,Growing wheat industry,GIN,1.6073377200421242e-08,DOM,2018
+977,COD,Growing maize industry,GIN,1.8127126337673914e-07,DOM,2018
+978,COD,Growing cereals n.e.c industry,GIN,0.0,DOM,2018
+979,COD,Growing leguminous crops and oil seeds industry,GIN,5.008635547161628e-08,DOM,2018
+980,COD,Growing rice industry,GIN,4.5533794463476024e-08,DOM,2018
+981,COD,"Growing vegetables, roots, tubers industry",GIN,1.5310951493216284e-07,DOM,2018
+982,COD,Growing sugar beet and cane industry,GIN,3.335364406193447e-08,DOM,2018
+983,COD,Growing tobacco industry,GIN,1.0935680850959539e-10,DOM,2018
+984,COD,Growing fibre crops industry,GIN,9.524065314147582e-09,DOM,2018
+985,COD,Growing crops n.e.c. industry,GIN,7.681341596344202e-08,DOM,2018
+986,COD,Growing grapes industry,GIN,0.0,DOM,2018
+987,COD,Growing fruits and nuts industry,GIN,4.118059561571651e-08,DOM,2018
+988,COD,"Growing beverage crops (coffee, tea etc) industry",GIN,4.6037151458037654e-08,DOM,2018
+989,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,2.561921558818948e-10,DOM,2018
+990,COD,Seeds and plant propagation industry,GIN,0.0,DOM,2018
+991,COD,Raising of cattle industry,GIN,2.4972417424992412e-06,DOM,2018
+992,COD,Growing wheat industry,GMB,1.2821445827731718e-09,DOM,2018
+993,COD,Growing maize industry,GMB,1.105805337385693e-08,DOM,2018
+994,COD,Growing cereals n.e.c industry,GMB,0.0,DOM,2018
+995,COD,Growing leguminous crops and oil seeds industry,GMB,3.574194514974954e-09,DOM,2018
+996,COD,Growing rice industry,GMB,4.429270540783429e-09,DOM,2018
+997,COD,"Growing vegetables, roots, tubers industry",GMB,8.666991189916646e-09,DOM,2018
+998,COD,Growing sugar beet and cane industry,GMB,2.6566911141679865e-09,DOM,2018
+999,COD,Growing tobacco industry,GMB,7.952903570482446e-12,DOM,2018
+1000,COD,Growing fibre crops industry,GMB,6.282170637284268e-10,DOM,2018
+1001,COD,Growing crops n.e.c. industry,GMB,6.4383383186863994e-09,DOM,2018
+1002,COD,Growing grapes industry,GMB,0.0,DOM,2018
+1003,COD,Growing fruits and nuts industry,GMB,2.469106949427369e-09,DOM,2018
+1004,COD,"Growing beverage crops (coffee, tea etc) industry",GMB,2.749625623632505e-09,DOM,2018
+1005,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,1.3829465940739384e-11,DOM,2018
+1006,COD,Seeds and plant propagation industry,GMB,0.0,DOM,2018
+1007,COD,Raising of cattle industry,GMB,2.4208265967495277e-07,DOM,2018
+1008,COD,Growing wheat industry,GNQ,3.082192559628569e-08,DOM,2018
+1009,COD,Growing maize industry,GNQ,3.383157636561197e-07,DOM,2018
+1010,COD,Growing cereals n.e.c industry,GNQ,0.0,DOM,2018
+1011,COD,Growing leguminous crops and oil seeds industry,GNQ,1.1109253720481882e-07,DOM,2018
+1012,COD,Growing rice industry,GNQ,9.289193112809749e-08,DOM,2018
+1013,COD,"Growing vegetables, roots, tubers industry",GNQ,2.990296231271994e-07,DOM,2018
+1014,COD,Growing sugar beet and cane industry,GNQ,6.945528708402596e-08,DOM,2018
+1015,COD,Growing tobacco industry,GNQ,2.8095386373620595e-10,DOM,2018
+1016,COD,Growing fibre crops industry,GNQ,1.9753273630670192e-08,DOM,2018
+1017,COD,Growing crops n.e.c. industry,GNQ,1.5692360143652136e-07,DOM,2018
+1018,COD,Growing grapes industry,GNQ,0.0,DOM,2018
+1019,COD,Growing fruits and nuts industry,GNQ,9.080948552513704e-08,DOM,2018
+1020,COD,"Growing beverage crops (coffee, tea etc) industry",GNQ,9.390959523962293e-08,DOM,2018
+1021,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,5.38015672918355e-10,DOM,2018
+1022,COD,Seeds and plant propagation industry,GNQ,0.0,DOM,2018
+1023,COD,Raising of cattle industry,GNQ,4.953694322556234e-06,DOM,2018
+1024,COD,Growing wheat industry,GRC,1.2386743226698684e-07,DOM,2018
+1025,COD,Growing maize industry,GRC,1.6432171648593463e-06,DOM,2018
+1026,COD,Growing cereals n.e.c industry,GRC,0.0,DOM,2018
+1027,COD,Growing leguminous crops and oil seeds industry,GRC,4.1169719231787526e-07,DOM,2018
+1028,COD,Growing rice industry,GRC,3.706512483207026e-07,DOM,2018
+1029,COD,"Growing vegetables, roots, tubers industry",GRC,1.4341404706249416e-06,DOM,2018
+1030,COD,Growing sugar beet and cane industry,GRC,3.016361121139018e-07,DOM,2018
+1031,COD,Growing tobacco industry,GRC,8.058555361783097e-10,DOM,2018
+1032,COD,Growing fibre crops industry,GRC,9.436658003559374e-08,DOM,2018
+1033,COD,Growing crops n.e.c. industry,GRC,6.410621123475662e-07,DOM,2018
+1034,COD,Growing grapes industry,GRC,0.0,DOM,2018
+1035,COD,Growing fruits and nuts industry,GRC,4.374082666918678e-07,DOM,2018
+1036,COD,"Growing beverage crops (coffee, tea etc) industry",GRC,4.4196909393887887e-07,DOM,2018
+1037,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,2.1494304613265314e-09,DOM,2018
+1038,COD,Seeds and plant propagation industry,GRC,0.0,DOM,2018
+1039,COD,Raising of cattle industry,GRC,1.9453180426158573e-05,DOM,2018
+1040,COD,Growing wheat industry,GTM,9.68287319971197e-07,DOM,2018
+1041,COD,Growing maize industry,GTM,9.003040399862851e-06,DOM,2018
+1042,COD,Growing cereals n.e.c industry,GTM,0.0,DOM,2018
+1043,COD,Growing leguminous crops and oil seeds industry,GTM,4.031706441636949e-06,DOM,2018
+1044,COD,Growing rice industry,GTM,2.2895194528192012e-06,DOM,2018
+1045,COD,"Growing vegetables, roots, tubers industry",GTM,1.1637383978410529e-05,DOM,2018
+1046,COD,Growing sugar beet and cane industry,GTM,1.6770523709525695e-06,DOM,2018
+1047,COD,Growing tobacco industry,GTM,1.201051822641146e-08,DOM,2018
+1048,COD,Growing fibre crops industry,GTM,3.412845241278303e-07,DOM,2018
+1049,COD,Growing crops n.e.c. industry,GTM,3.908302460311554e-06,DOM,2018
+1050,COD,Growing grapes industry,GTM,0.0,DOM,2018
+1051,COD,Growing fruits and nuts industry,GTM,1.2212808130356902e-06,DOM,2018
+1052,COD,"Growing beverage crops (coffee, tea etc) industry",GTM,2.776701864675503e-06,DOM,2018
+1053,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,2.3587021774905178e-08,DOM,2018
+1054,COD,Seeds and plant propagation industry,GTM,0.0,DOM,2018
+1055,COD,Raising of cattle industry,GTM,0.00013390590181088205,DOM,2018
+1056,COD,Growing wheat industry,HND,3.785712461078036e-07,DOM,2018
+1057,COD,Growing maize industry,HND,5.165284285388576e-06,DOM,2018
+1058,COD,Growing cereals n.e.c industry,HND,0.0,DOM,2018
+1059,COD,Growing leguminous crops and oil seeds industry,HND,1.7637021578375481e-06,DOM,2018
+1060,COD,Growing rice industry,HND,9.739248792937068e-07,DOM,2018
+1061,COD,"Growing vegetables, roots, tubers industry",HND,4.998002883053515e-06,DOM,2018
+1062,COD,Growing sugar beet and cane industry,HND,7.508795190509245e-07,DOM,2018
+1063,COD,Growing tobacco industry,HND,5.314909333209359e-09,DOM,2018
+1064,COD,Growing fibre crops industry,HND,2.0456135526042228e-07,DOM,2018
+1065,COD,Growing crops n.e.c. industry,HND,1.5195166311674092e-06,DOM,2018
+1066,COD,Growing grapes industry,HND,0.0,DOM,2018
+1067,COD,Growing fruits and nuts industry,HND,6.263045451031367e-07,DOM,2018
+1068,COD,"Growing beverage crops (coffee, tea etc) industry",HND,1.246526818256603e-06,DOM,2018
+1069,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,1.0387723702114761e-08,DOM,2018
+1070,COD,Seeds and plant propagation industry,HND,0.0,DOM,2018
+1071,COD,Raising of cattle industry,HND,5.1615383126519753e-05,DOM,2018
+1072,COD,Growing wheat industry,HKG,1.3569705857426383e-06,DOM,2018
+1073,COD,Growing maize industry,HKG,2.1983765327866317e-05,DOM,2018
+1074,COD,Growing cereals n.e.c industry,HKG,0.0,DOM,2018
+1075,COD,Growing leguminous crops and oil seeds industry,HKG,4.726264110668243e-06,DOM,2018
+1076,COD,Growing rice industry,HKG,3.460705758311421e-06,DOM,2018
+1077,COD,"Growing vegetables, roots, tubers industry",HKG,1.79125015669426e-05,DOM,2018
+1078,COD,Growing sugar beet and cane industry,HKG,3.5010610244808914e-06,DOM,2018
+1079,COD,Growing tobacco industry,HKG,8.757286799312544e-09,DOM,2018
+1080,COD,Growing fibre crops industry,HKG,1.4657578274539762e-06,DOM,2018
+1081,COD,Growing crops n.e.c. industry,HKG,7.200967839515691e-06,DOM,2018
+1082,COD,Growing grapes industry,HKG,0.0,DOM,2018
+1083,COD,Growing fruits and nuts industry,HKG,6.110697940174391e-06,DOM,2018
+1084,COD,"Growing beverage crops (coffee, tea etc) industry",HKG,5.756038917288561e-06,DOM,2018
+1085,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,2.6129064703200015e-08,DOM,2018
+1086,COD,Seeds and plant propagation industry,HKG,0.0,DOM,2018
+1087,COD,Raising of cattle industry,HKG,0.00019990508336218475,DOM,2018
+1088,COD,Growing wheat industry,HRV,5.997796922471927e-08,DOM,2018
+1089,COD,Growing maize industry,HRV,8.463608265844606e-07,DOM,2018
+1090,COD,Growing cereals n.e.c industry,HRV,0.0,DOM,2018
+1091,COD,Growing leguminous crops and oil seeds industry,HRV,1.989674628946804e-07,DOM,2018
+1092,COD,Growing rice industry,HRV,1.6892301258639252e-07,DOM,2018
+1093,COD,"Growing vegetables, roots, tubers industry",HRV,8.896672192820344e-07,DOM,2018
+1094,COD,Growing sugar beet and cane industry,HRV,1.3598488979405895e-07,DOM,2018
+1095,COD,Growing tobacco industry,HRV,3.714213734451684e-10,DOM,2018
+1096,COD,Growing fibre crops industry,HRV,4.156704135981082e-08,DOM,2018
+1097,COD,Growing crops n.e.c. industry,HRV,3.5238051211370966e-07,DOM,2018
+1098,COD,Growing grapes industry,HRV,0.0,DOM,2018
+1099,COD,Growing fruits and nuts industry,HRV,1.7524259746100856e-07,DOM,2018
+1100,COD,"Growing beverage crops (coffee, tea etc) industry",HRV,2.5495746657239783e-07,DOM,2018
+1101,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,1.3211996139307634e-09,DOM,2018
+1102,COD,Seeds and plant propagation industry,HRV,0.0,DOM,2018
+1103,COD,Raising of cattle industry,HRV,8.75794076539207e-06,DOM,2018
+1104,COD,Growing wheat industry,HTI,9.919562243336963e-06,DOM,2018
+1105,COD,Growing maize industry,HTI,0.00014646137079266802,DOM,2018
+1106,COD,Growing cereals n.e.c industry,HTI,0.0,DOM,2018
+1107,COD,Growing leguminous crops and oil seeds industry,HTI,3.293324445128803e-05,DOM,2018
+1108,COD,Growing rice industry,HTI,2.6941867102426182e-05,DOM,2018
+1109,COD,"Growing vegetables, roots, tubers industry",HTI,0.00014205439296280866,DOM,2018
+1110,COD,Growing sugar beet and cane industry,HTI,2.0718068700170075e-05,DOM,2018
+1111,COD,Growing tobacco industry,HTI,5.1490701342589267e-08,DOM,2018
+1112,COD,Growing fibre crops industry,HTI,6.059627229967202e-06,DOM,2018
+1113,COD,Growing crops n.e.c. industry,HTI,4.528386180668941e-05,DOM,2018
+1114,COD,Growing grapes industry,HTI,0.0,DOM,2018
+1115,COD,Growing fruits and nuts industry,HTI,1.722827821306258e-05,DOM,2018
+1116,COD,"Growing beverage crops (coffee, tea etc) industry",HTI,3.5021056986755784e-05,DOM,2018
+1117,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,2.0180479474584353e-07,DOM,2018
+1118,COD,Seeds and plant propagation industry,HTI,0.0,DOM,2018
+1119,COD,Raising of cattle industry,HTI,0.0015538394574939195,DOM,2018
+1120,COD,Growing wheat industry,HUN,9.70828719668094e-08,DOM,2018
+1121,COD,Growing maize industry,HUN,1.3117414329882666e-06,DOM,2018
+1122,COD,Growing cereals n.e.c industry,HUN,0.0,DOM,2018
+1123,COD,Growing leguminous crops and oil seeds industry,HUN,3.207441703231083e-07,DOM,2018
+1124,COD,Growing rice industry,HUN,2.847163340750661e-07,DOM,2018
+1125,COD,"Growing vegetables, roots, tubers industry",HUN,1.0823135598965852e-06,DOM,2018
+1126,COD,Growing sugar beet and cane industry,HUN,2.3852681193184e-07,DOM,2018
+1127,COD,Growing tobacco industry,HUN,6.101884016692779e-10,DOM,2018
+1128,COD,Growing fibre crops industry,HUN,7.803624724387751e-08,DOM,2018
+1129,COD,Growing crops n.e.c. industry,HUN,5.118935228879411e-07,DOM,2018
+1130,COD,Growing grapes industry,HUN,0.0,DOM,2018
+1131,COD,Growing fruits and nuts industry,HUN,3.642389194355581e-07,DOM,2018
+1132,COD,"Growing beverage crops (coffee, tea etc) industry",HUN,3.489549061005023e-07,DOM,2018
+1133,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,1.608008329665398e-09,DOM,2018
+1134,COD,Seeds and plant propagation industry,HUN,0.0,DOM,2018
+1135,COD,Raising of cattle industry,HUN,1.4574974164923272e-05,DOM,2018
+1136,COD,Growing wheat industry,IDN,7.65945060550435e-07,DOM,2018
+1137,COD,Growing maize industry,IDN,1.073430726158092e-05,DOM,2018
+1138,COD,Growing cereals n.e.c industry,IDN,0.0,DOM,2018
+1139,COD,Growing leguminous crops and oil seeds industry,IDN,2.6265245364066595e-06,DOM,2018
+1140,COD,Growing rice industry,IDN,2.0517566476199417e-06,DOM,2018
+1141,COD,"Growing vegetables, roots, tubers industry",IDN,9.276533890053385e-06,DOM,2018
+1142,COD,Growing sugar beet and cane industry,IDN,1.8889764640821362e-06,DOM,2018
+1143,COD,Growing tobacco industry,IDN,5.349021731599709e-09,DOM,2018
+1144,COD,Growing fibre crops industry,IDN,6.640755271600174e-07,DOM,2018
+1145,COD,Growing crops n.e.c. industry,IDN,4.000169199537093e-06,DOM,2018
+1146,COD,Growing grapes industry,IDN,0.0,DOM,2018
+1147,COD,Growing fruits and nuts industry,IDN,3.1300973976333855e-06,DOM,2018
+1148,COD,"Growing beverage crops (coffee, tea etc) industry",IDN,2.9439791522095346e-06,DOM,2018
+1149,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,1.4106745570795002e-08,DOM,2018
+1150,COD,Seeds and plant propagation industry,IDN,0.0,DOM,2018
+1151,COD,Raising of cattle industry,IDN,0.00011631779309097678,DOM,2018
+1152,COD,Growing wheat industry,IND,2.3765136616684385e-06,DOM,2018
+1153,COD,Growing maize industry,IND,2.4931896447436735e-05,DOM,2018
+1154,COD,Growing cereals n.e.c industry,IND,0.0,DOM,2018
+1155,COD,Growing leguminous crops and oil seeds industry,IND,8.67986362114188e-06,DOM,2018
+1156,COD,Growing rice industry,IND,7.2244666677972455e-06,DOM,2018
+1157,COD,"Growing vegetables, roots, tubers industry",IND,2.199070037778519e-05,DOM,2018
+1158,COD,Growing sugar beet and cane industry,IND,5.141718189930512e-06,DOM,2018
+1159,COD,Growing tobacco industry,IND,2.024684879202709e-08,DOM,2018
+1160,COD,Growing fibre crops industry,IND,1.459600504025353e-06,DOM,2018
+1161,COD,Growing crops n.e.c. industry,IND,1.400096063606658e-05,DOM,2018
+1162,COD,Growing grapes industry,IND,0.0,DOM,2018
+1163,COD,Growing fruits and nuts industry,IND,6.238666246318012e-06,DOM,2018
+1164,COD,"Growing beverage crops (coffee, tea etc) industry",IND,7.003745870822847e-06,DOM,2018
+1165,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,3.778516060453208e-08,DOM,2018
+1166,COD,Seeds and plant propagation industry,IND,0.0,DOM,2018
+1167,COD,Raising of cattle industry,IND,0.0004398137508789678,DOM,2018
+1168,COD,Growing wheat industry,IRL,1.8248754900125574e-07,DOM,2018
+1169,COD,Growing maize industry,IRL,3.015277098264238e-06,DOM,2018
+1170,COD,Growing cereals n.e.c industry,IRL,0.0,DOM,2018
+1171,COD,Growing leguminous crops and oil seeds industry,IRL,6.795008125639069e-07,DOM,2018
+1172,COD,Growing rice industry,IRL,4.843168308636096e-07,DOM,2018
+1173,COD,"Growing vegetables, roots, tubers industry",IRL,2.770875988571882e-06,DOM,2018
+1174,COD,Growing sugar beet and cane industry,IRL,4.6520623415190924e-07,DOM,2018
+1175,COD,Growing tobacco industry,IRL,1.2833283083591159e-09,DOM,2018
+1176,COD,Growing fibre crops industry,IRL,1.7037959694553106e-07,DOM,2018
+1177,COD,Growing crops n.e.c. industry,IRL,9.972350567299938e-07,DOM,2018
+1178,COD,Growing grapes industry,IRL,0.0,DOM,2018
+1179,COD,Growing fruits and nuts industry,IRL,7.651662165649922e-07,DOM,2018
+1180,COD,"Growing beverage crops (coffee, tea etc) industry",IRL,8.413920434878057e-07,DOM,2018
+1181,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,4.116287812483721e-09,DOM,2018
+1182,COD,Seeds and plant propagation industry,IRL,0.0,DOM,2018
+1183,COD,Raising of cattle industry,IRL,2.6172302706593037e-05,DOM,2018
+1184,COD,Growing wheat industry,IRN,6.664847163643732e-07,DOM,2018
+1185,COD,Growing maize industry,IRN,9.89662530655123e-06,DOM,2018
+1186,COD,Growing cereals n.e.c industry,IRN,0.0,DOM,2018
+1187,COD,Growing leguminous crops and oil seeds industry,IRN,2.277847581121599e-06,DOM,2018
+1188,COD,Growing rice industry,IRN,1.8186336655133023e-06,DOM,2018
+1189,COD,"Growing vegetables, roots, tubers industry",IRN,8.23156330613123e-06,DOM,2018
+1190,COD,Growing sugar beet and cane industry,IRN,1.7880027639855856e-06,DOM,2018
+1191,COD,Growing tobacco industry,IRN,4.3612358820558e-09,DOM,2018
+1192,COD,Growing fibre crops industry,IRN,6.530423652489027e-07,DOM,2018
+1193,COD,Growing crops n.e.c. industry,IRN,3.627947964255929e-06,DOM,2018
+1194,COD,Growing grapes industry,IRN,0.0,DOM,2018
+1195,COD,Growing fruits and nuts industry,IRN,3.2361391766939394e-06,DOM,2018
+1196,COD,"Growing beverage crops (coffee, tea etc) industry",IRN,2.767646301823259e-06,DOM,2018
+1197,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,1.2086994935645338e-08,DOM,2018
+1198,COD,Seeds and plant propagation industry,IRN,0.0,DOM,2018
+1199,COD,Raising of cattle industry,IRN,0.00010176893095292257,DOM,2018
+1200,COD,Growing wheat industry,IRQ,2.1924426203016192e-07,DOM,2018
+1201,COD,Growing maize industry,IRQ,3.119052310399982e-06,DOM,2018
+1202,COD,Growing cereals n.e.c industry,IRQ,0.0,DOM,2018
+1203,COD,Growing leguminous crops and oil seeds industry,IRQ,7.455927242597841e-07,DOM,2018
+1204,COD,Growing rice industry,IRQ,6.066599060425109e-07,DOM,2018
+1205,COD,"Growing vegetables, roots, tubers industry",IRQ,2.6394132856369094e-06,DOM,2018
+1206,COD,Growing sugar beet and cane industry,IRQ,5.680985508485026e-07,DOM,2018
+1207,COD,Growing tobacco industry,IRQ,1.4631133526674455e-09,DOM,2018
+1208,COD,Growing fibre crops industry,IRQ,2.0015875659720497e-07,DOM,2018
+1209,COD,Growing crops n.e.c. industry,IRQ,1.1899349006662992e-06,DOM,2018
+1210,COD,Growing grapes industry,IRQ,0.0,DOM,2018
+1211,COD,Growing fruits and nuts industry,IRQ,9.780365950088984e-07,DOM,2018
+1212,COD,"Growing beverage crops (coffee, tea etc) industry",IRQ,8.663951741259458e-07,DOM,2018
+1213,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,3.921915827630885e-09,DOM,2018
+1214,COD,Seeds and plant propagation industry,IRQ,0.0,DOM,2018
+1215,COD,Raising of cattle industry,IRQ,3.402215968745691e-05,DOM,2018
+1216,COD,Growing wheat industry,ISL,1.8312498111594386e-08,DOM,2018
+1217,COD,Growing maize industry,ISL,2.359999555791659e-07,DOM,2018
+1218,COD,Growing cereals n.e.c industry,ISL,0.0,DOM,2018
+1219,COD,Growing leguminous crops and oil seeds industry,ISL,5.900396498144824e-08,DOM,2018
+1220,COD,Growing rice industry,ISL,5.4991872367066756e-08,DOM,2018
+1221,COD,"Growing vegetables, roots, tubers industry",ISL,1.947576807934261e-07,DOM,2018
+1222,COD,Growing sugar beet and cane industry,ISL,4.456131370642507e-08,DOM,2018
+1223,COD,Growing tobacco industry,ISL,1.074239739119729e-10,DOM,2018
+1224,COD,Growing fibre crops industry,ISL,1.4925219902229406e-08,DOM,2018
+1225,COD,Growing crops n.e.c. industry,ISL,9.6946193016815e-08,DOM,2018
+1226,COD,Growing grapes industry,ISL,0.0,DOM,2018
+1227,COD,Growing fruits and nuts industry,ISL,6.610478865978467e-08,DOM,2018
+1228,COD,"Growing beverage crops (coffee, tea etc) industry",ISL,6.31034615061351e-08,DOM,2018
+1229,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,2.867982100077776e-10,DOM,2018
+1230,COD,Seeds and plant propagation industry,ISL,0.0,DOM,2018
+1231,COD,Raising of cattle industry,ISL,2.7092357980020366e-06,DOM,2018
+1232,COD,Growing wheat industry,ISR,2.6887106723578053e-06,DOM,2018
+1233,COD,Growing maize industry,ISR,1.1346444801698796e-05,DOM,2018
+1234,COD,Growing cereals n.e.c industry,ISR,0.0,DOM,2018
+1235,COD,Growing leguminous crops and oil seeds industry,ISR,5.586386518857847e-06,DOM,2018
+1236,COD,Growing rice industry,ISR,6.9883833283631835e-06,DOM,2018
+1237,COD,"Growing vegetables, roots, tubers industry",ISR,1.107136245779491e-05,DOM,2018
+1238,COD,Growing sugar beet and cane industry,ISR,3.331418736781976e-06,DOM,2018
+1239,COD,Growing tobacco industry,ISR,9.47490437459351e-09,DOM,2018
+1240,COD,Growing fibre crops industry,ISR,6.064543386249802e-07,DOM,2018
+1241,COD,Growing crops n.e.c. industry,ISR,1.2954731413200163e-05,DOM,2018
+1242,COD,Growing grapes industry,ISR,0.0,DOM,2018
+1243,COD,Growing fruits and nuts industry,ISR,1.6625397284081863e-06,DOM,2018
+1244,COD,"Growing beverage crops (coffee, tea etc) industry",ISR,3.3041788384662456e-06,DOM,2018
+1245,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,1.6007804385078893e-08,DOM,2018
+1246,COD,Seeds and plant propagation industry,ISR,0.0,DOM,2018
+1247,COD,Raising of cattle industry,ISR,0.00040788058119367777,DOM,2018
+1248,COD,Growing wheat industry,ITA,1.3871052676660487e-06,DOM,2018
+1249,COD,Growing maize industry,ITA,1.684877741496153e-05,DOM,2018
+1250,COD,Growing cereals n.e.c industry,ITA,0.0,DOM,2018
+1251,COD,Growing leguminous crops and oil seeds industry,ITA,4.943357918165264e-06,DOM,2018
+1252,COD,Growing rice industry,ITA,3.757872566577846e-06,DOM,2018
+1253,COD,"Growing vegetables, roots, tubers industry",ITA,1.5478212515547538e-05,DOM,2018
+1254,COD,Growing sugar beet and cane industry,ITA,3.008612336509418e-06,DOM,2018
+1255,COD,Growing tobacco industry,ITA,1.1678925252241262e-08,DOM,2018
+1256,COD,Growing fibre crops industry,ITA,8.603419571730019e-07,DOM,2018
+1257,COD,Growing crops n.e.c. industry,ITA,6.742364499851857e-06,DOM,2018
+1258,COD,Growing grapes industry,ITA,0.0,DOM,2018
+1259,COD,Growing fruits and nuts industry,ITA,3.8086720496928355e-06,DOM,2018
+1260,COD,"Growing beverage crops (coffee, tea etc) industry",ITA,4.556503005989908e-06,DOM,2018
+1261,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,2.640654818121791e-08,DOM,2018
+1262,COD,Seeds and plant propagation industry,ITA,0.0,DOM,2018
+1263,COD,Raising of cattle industry,ITA,0.0002026156152920784,DOM,2018
+1264,COD,Growing wheat industry,JAM,3.0550461669668804e-06,DOM,2018
+1265,COD,Growing maize industry,JAM,1.2574081318260558e-05,DOM,2018
+1266,COD,Growing cereals n.e.c industry,JAM,0.0,DOM,2018
+1267,COD,Growing leguminous crops and oil seeds industry,JAM,6.524119626436083e-06,DOM,2018
+1268,COD,Growing rice industry,JAM,6.841186831347586e-06,DOM,2018
+1269,COD,"Growing vegetables, roots, tubers industry",JAM,8.456082602808042e-06,DOM,2018
+1270,COD,Growing sugar beet and cane industry,JAM,3.32314426780906e-06,DOM,2018
+1271,COD,Growing tobacco industry,JAM,1.1768170939279417e-08,DOM,2018
+1272,COD,Growing fibre crops industry,JAM,5.434663634606162e-07,DOM,2018
+1273,COD,Growing crops n.e.c. industry,JAM,1.4741259731018041e-05,DOM,2018
+1274,COD,Growing grapes industry,JAM,0.0,DOM,2018
+1275,COD,Growing fruits and nuts industry,JAM,9.793569072818436e-07,DOM,2018
+1276,COD,"Growing beverage crops (coffee, tea etc) industry",JAM,3.3855357004725092e-06,DOM,2018
+1277,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,1.445138468780979e-08,DOM,2018
+1278,COD,Seeds and plant propagation industry,JAM,0.0,DOM,2018
+1279,COD,Raising of cattle industry,JAM,0.00048415424857404783,DOM,2018
+1280,COD,Growing wheat industry,JOR,3.43199936388314e-08,DOM,2018
+1281,COD,Growing maize industry,JOR,4.050660576606692e-07,DOM,2018
+1282,COD,Growing cereals n.e.c industry,JOR,0.0,DOM,2018
+1283,COD,Growing leguminous crops and oil seeds industry,JOR,1.1033719452249927e-07,DOM,2018
+1284,COD,Growing rice industry,JOR,1.0112087705530817e-07,DOM,2018
+1285,COD,"Growing vegetables, roots, tubers industry",JOR,3.458951275364188e-07,DOM,2018
+1286,COD,Growing sugar beet and cane industry,JOR,7.907036158530876e-08,DOM,2018
+1287,COD,Growing tobacco industry,JOR,2.2145883168341174e-10,DOM,2018
+1288,COD,Growing fibre crops industry,JOR,2.4727819971232287e-08,DOM,2018
+1289,COD,Growing crops n.e.c. industry,JOR,1.8264352205316748e-07,DOM,2018
+1290,COD,Growing grapes industry,JOR,0.0,DOM,2018
+1291,COD,Growing fruits and nuts industry,JOR,1.1363222780270733e-07,DOM,2018
+1292,COD,"Growing beverage crops (coffee, tea etc) industry",JOR,1.1129000605870884e-07,DOM,2018
+1293,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,5.273530366802146e-10,DOM,2018
+1294,COD,Seeds and plant propagation industry,JOR,0.0,DOM,2018
+1295,COD,Raising of cattle industry,JOR,5.567787126825489e-06,DOM,2018
+1296,COD,Growing wheat industry,JPN,6.741350706912287e-06,DOM,2018
+1297,COD,Growing maize industry,JPN,0.00012211257329981494,DOM,2018
+1298,COD,Growing cereals n.e.c industry,JPN,0.0,DOM,2018
+1299,COD,Growing leguminous crops and oil seeds industry,JPN,2.540349487763333e-05,DOM,2018
+1300,COD,Growing rice industry,JPN,1.6934407374770186e-05,DOM,2018
+1301,COD,"Growing vegetables, roots, tubers industry",JPN,9.972277420256898e-05,DOM,2018
+1302,COD,Growing sugar beet and cane industry,JPN,1.8631508710493782e-05,DOM,2018
+1303,COD,Growing tobacco industry,JPN,4.647986569266864e-08,DOM,2018
+1304,COD,Growing fibre crops industry,JPN,7.0037443114766406e-06,DOM,2018
+1305,COD,Growing crops n.e.c. industry,JPN,3.6057783669853454e-05,DOM,2018
+1306,COD,Growing grapes industry,JPN,0.0,DOM,2018
+1307,COD,Growing fruits and nuts industry,JPN,3.4999772456246565e-05,DOM,2018
+1308,COD,"Growing beverage crops (coffee, tea etc) industry",JPN,3.167122910179821e-05,DOM,2018
+1309,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,1.4619467636279642e-07,DOM,2018
+1310,COD,Seeds and plant propagation industry,JPN,0.0,DOM,2018
+1311,COD,Raising of cattle industry,JPN,0.0009453934308202699,DOM,2018
+1312,COD,Growing wheat industry,KAZ,1.8856027322546323e-07,DOM,2018
+1313,COD,Growing maize industry,KAZ,1.6328955261663373e-06,DOM,2018
+1314,COD,Growing cereals n.e.c industry,KAZ,0.0,DOM,2018
+1315,COD,Growing leguminous crops and oil seeds industry,KAZ,5.090082027958153e-07,DOM,2018
+1316,COD,Growing rice industry,KAZ,6.585405996360455e-07,DOM,2018
+1317,COD,"Growing vegetables, roots, tubers industry",KAZ,1.2878854636366313e-06,DOM,2018
+1318,COD,Growing sugar beet and cane industry,KAZ,3.986462893507129e-07,DOM,2018
+1319,COD,Growing tobacco industry,KAZ,9.80919180475366e-10,DOM,2018
+1320,COD,Growing fibre crops industry,KAZ,9.799204903985238e-08,DOM,2018
+1321,COD,Growing crops n.e.c. industry,KAZ,9.736251112128787e-07,DOM,2018
+1322,COD,Growing grapes industry,KAZ,0.0,DOM,2018
+1323,COD,Growing fruits and nuts industry,KAZ,4.050671806760953e-07,DOM,2018
+1324,COD,"Growing beverage crops (coffee, tea etc) industry",KAZ,4.2119375146283244e-07,DOM,2018
+1325,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,1.878302219254934e-09,DOM,2018
+1326,COD,Seeds and plant propagation industry,KAZ,0.0,DOM,2018
+1327,COD,Raising of cattle industry,KAZ,3.3361447407224185e-05,DOM,2018
+1328,COD,Growing wheat industry,KEN,7.957946423141189e-08,DOM,2018
+1329,COD,Growing maize industry,KEN,9.292142503630966e-07,DOM,2018
+1330,COD,Growing cereals n.e.c industry,KEN,0.0,DOM,2018
+1331,COD,Growing leguminous crops and oil seeds industry,KEN,2.437966662903258e-07,DOM,2018
+1332,COD,Growing rice industry,KEN,2.0733746810926071e-07,DOM,2018
+1333,COD,"Growing vegetables, roots, tubers industry",KEN,7.347542949053214e-07,DOM,2018
+1334,COD,Growing sugar beet and cane industry,KEN,1.6650606300806279e-07,DOM,2018
+1335,COD,Growing tobacco industry,KEN,4.885835739231034e-10,DOM,2018
+1336,COD,Growing fibre crops industry,KEN,4.990255751802176e-08,DOM,2018
+1337,COD,Growing crops n.e.c. industry,KEN,3.8858928732091545e-07,DOM,2018
+1338,COD,Growing grapes industry,KEN,0.0,DOM,2018
+1339,COD,Growing fruits and nuts industry,KEN,2.2150731986721832e-07,DOM,2018
+1340,COD,"Growing beverage crops (coffee, tea etc) industry",KEN,2.3171575908029103e-07,DOM,2018
+1341,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,1.202031703956691e-09,DOM,2018
+1342,COD,Seeds and plant propagation industry,KEN,0.0,DOM,2018
+1343,COD,Raising of cattle industry,KEN,1.2053875102061702e-05,DOM,2018
+1344,COD,Growing wheat industry,KGZ,3.4606144034725736e-08,DOM,2018
+1345,COD,Growing maize industry,KGZ,3.816117977625392e-07,DOM,2018
+1346,COD,Growing cereals n.e.c industry,KGZ,0.0,DOM,2018
+1347,COD,Growing leguminous crops and oil seeds industry,KGZ,1.334190188260438e-07,DOM,2018
+1348,COD,Growing rice industry,KGZ,8.797367022876556e-08,DOM,2018
+1349,COD,"Growing vegetables, roots, tubers industry",KGZ,3.9570427681694605e-07,DOM,2018
+1350,COD,Growing sugar beet and cane industry,KGZ,6.562815741629337e-08,DOM,2018
+1351,COD,Growing tobacco industry,KGZ,3.3885064431482846e-10,DOM,2018
+1352,COD,Growing fibre crops industry,KGZ,1.6060717167096724e-08,DOM,2018
+1353,COD,Growing crops n.e.c. industry,KGZ,1.5755403730515485e-07,DOM,2018
+1354,COD,Growing grapes industry,KGZ,0.0,DOM,2018
+1355,COD,Growing fruits and nuts industry,KGZ,5.7568216935255934e-08,DOM,2018
+1356,COD,"Growing beverage crops (coffee, tea etc) industry",KGZ,9.888614764773485e-08,DOM,2018
+1357,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,7.177872608852973e-10,DOM,2018
+1358,COD,Seeds and plant propagation industry,KGZ,0.0,DOM,2018
+1359,COD,Raising of cattle industry,KGZ,5.3296438809051095e-06,DOM,2018
+1360,COD,Growing wheat industry,KHM,4.073093956927295e-08,DOM,2018
+1361,COD,Growing maize industry,KHM,5.101039773956731e-07,DOM,2018
+1362,COD,Growing cereals n.e.c industry,KHM,0.0,DOM,2018
+1363,COD,Growing leguminous crops and oil seeds industry,KHM,1.329466247471514e-07,DOM,2018
+1364,COD,Growing rice industry,KHM,1.1878853110832347e-07,DOM,2018
+1365,COD,"Growing vegetables, roots, tubers industry",KHM,4.2708778499492263e-07,DOM,2018
+1366,COD,Growing sugar beet and cane industry,KHM,9.422266207880975e-08,DOM,2018
+1367,COD,Growing tobacco industry,KHM,2.499202802738028e-10,DOM,2018
+1368,COD,Growing fibre crops industry,KHM,3.1475794821785314e-08,DOM,2018
+1369,COD,Growing crops n.e.c. industry,KHM,2.2974400954192017e-07,DOM,2018
+1370,COD,Growing grapes industry,KHM,0.0,DOM,2018
+1371,COD,Growing fruits and nuts industry,KHM,1.3838861633863585e-07,DOM,2018
+1372,COD,"Growing beverage crops (coffee, tea etc) industry",KHM,1.3751367902023715e-07,DOM,2018
+1373,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,6.232581696821586e-10,DOM,2018
+1374,COD,Seeds and plant propagation industry,KHM,0.0,DOM,2018
+1375,COD,Raising of cattle industry,KHM,7.0683463025508715e-06,DOM,2018
+1376,COD,Growing wheat industry,KOR,5.341176713576978e-06,DOM,2018
+1377,COD,Growing maize industry,KOR,9.883418842492925e-05,DOM,2018
+1378,COD,Growing cereals n.e.c industry,KOR,0.0,DOM,2018
+1379,COD,Growing leguminous crops and oil seeds industry,KOR,2.0555322346819537e-05,DOM,2018
+1380,COD,Growing rice industry,KOR,1.2935625216197732e-05,DOM,2018
+1381,COD,"Growing vegetables, roots, tubers industry",KOR,8.568232466941411e-05,DOM,2018
+1382,COD,Growing sugar beet and cane industry,KOR,1.6117760921436007e-05,DOM,2018
+1383,COD,Growing tobacco industry,KOR,3.753549539376938e-08,DOM,2018
+1384,COD,Growing fibre crops industry,KOR,6.646919333038728e-06,DOM,2018
+1385,COD,Growing crops n.e.c. industry,KOR,2.9426193107884405e-05,DOM,2018
+1386,COD,Growing grapes industry,KOR,0.0,DOM,2018
+1387,COD,Growing fruits and nuts industry,KOR,3.392041553634189e-05,DOM,2018
+1388,COD,"Growing beverage crops (coffee, tea etc) industry",KOR,2.833774651118266e-05,DOM,2018
+1389,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,1.2462956171352575e-07,DOM,2018
+1390,COD,Seeds and plant propagation industry,KOR,0.0,DOM,2018
+1391,COD,Raising of cattle industry,KOR,0.0006862207246967893,DOM,2018
+1392,COD,Growing wheat industry,KWT,1.212707105565e-07,DOM,2018
+1393,COD,Growing maize industry,KWT,1.5431851157612529e-06,DOM,2018
+1394,COD,Growing cereals n.e.c industry,KWT,0.0,DOM,2018
+1395,COD,Growing leguminous crops and oil seeds industry,KWT,4.2889132842479557e-07,DOM,2018
+1396,COD,Growing rice industry,KWT,3.5133188809309615e-07,DOM,2018
+1397,COD,"Growing vegetables, roots, tubers industry",KWT,1.341950760437111e-06,DOM,2018
+1398,COD,Growing sugar beet and cane industry,KWT,2.894071302099475e-07,DOM,2018
+1399,COD,Growing tobacco industry,KWT,9.088788549530852e-10,DOM,2018
+1400,COD,Growing fibre crops industry,KWT,9.435675245784478e-08,DOM,2018
+1401,COD,Growing crops n.e.c. industry,KWT,6.525549260885164e-07,DOM,2018
+1402,COD,Growing grapes industry,KWT,0.0,DOM,2018
+1403,COD,Growing fruits and nuts industry,KWT,4.315589492487603e-07,DOM,2018
+1404,COD,"Growing beverage crops (coffee, tea etc) industry",KWT,4.280497280984115e-07,DOM,2018
+1405,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,2.128396260422146e-09,DOM,2018
+1406,COD,Seeds and plant propagation industry,KWT,0.0,DOM,2018
+1407,COD,Raising of cattle industry,KWT,1.9471612615337813e-05,DOM,2018
+1408,COD,Growing wheat industry,LAO,1.5446073477467543e-07,DOM,2018
+1409,COD,Growing maize industry,LAO,6.734314891455587e-07,DOM,2018
+1410,COD,Growing cereals n.e.c industry,LAO,0.0,DOM,2018
+1411,COD,Growing leguminous crops and oil seeds industry,LAO,3.2273333863422303e-07,DOM,2018
+1412,COD,Growing rice industry,LAO,6.165393155738742e-07,DOM,2018
+1413,COD,"Growing vegetables, roots, tubers industry",LAO,4.592811434021223e-07,DOM,2018
+1414,COD,Growing sugar beet and cane industry,LAO,2.7115540415807335e-07,DOM,2018
+1415,COD,Growing tobacco industry,LAO,5.667578051558181e-10,DOM,2018
+1416,COD,Growing fibre crops industry,LAO,3.2467761873447766e-08,DOM,2018
+1417,COD,Growing crops n.e.c. industry,LAO,7.805922508749303e-07,DOM,2018
+1418,COD,Growing grapes industry,LAO,0.0,DOM,2018
+1419,COD,Growing fruits and nuts industry,LAO,7.815449762688074e-08,DOM,2018
+1420,COD,"Growing beverage crops (coffee, tea etc) industry",LAO,1.4998193661210408e-07,DOM,2018
+1421,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,6.182346391022819e-10,DOM,2018
+1422,COD,Seeds and plant propagation industry,LAO,0.0,DOM,2018
+1423,COD,Raising of cattle industry,LAO,2.522460430644529e-05,DOM,2018
+1424,COD,Growing wheat industry,LBN,6.387279404830925e-08,DOM,2018
+1425,COD,Growing maize industry,LBN,8.633676247257202e-07,DOM,2018
+1426,COD,Growing cereals n.e.c industry,LBN,0.0,DOM,2018
+1427,COD,Growing leguminous crops and oil seeds industry,LBN,2.1670082199114972e-07,DOM,2018
+1428,COD,Growing rice industry,LBN,1.8214193824381216e-07,DOM,2018
+1429,COD,"Growing vegetables, roots, tubers industry",LBN,7.407187829651766e-07,DOM,2018
+1430,COD,Growing sugar beet and cane industry,LBN,1.5242444973212356e-07,DOM,2018
+1431,COD,Growing tobacco industry,LBN,4.220218348525808e-10,DOM,2018
+1432,COD,Growing fibre crops industry,LBN,5.0551663212624245e-08,DOM,2018
+1433,COD,Growing crops n.e.c. industry,LBN,3.396661108324042e-07,DOM,2018
+1434,COD,Growing grapes industry,LBN,0.0,DOM,2018
+1435,COD,Growing fruits and nuts industry,LBN,2.2738484934895862e-07,DOM,2018
+1436,COD,"Growing beverage crops (coffee, tea etc) industry",LBN,2.317225329648054e-07,DOM,2018
+1437,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,1.1145682943954846e-09,DOM,2018
+1438,COD,Seeds and plant propagation industry,LBN,0.0,DOM,2018
+1439,COD,Raising of cattle industry,LBN,1.004409177240682e-05,DOM,2018
+1440,COD,Growing wheat industry,LBR,6.736904373642272e-09,DOM,2018
+1441,COD,Growing maize industry,LBR,8.194115912278207e-08,DOM,2018
+1442,COD,Growing cereals n.e.c industry,LBR,0.0,DOM,2018
+1443,COD,Growing leguminous crops and oil seeds industry,LBR,2.1501471809121125e-08,DOM,2018
+1444,COD,Growing rice industry,LBR,2.1242894674757963e-08,DOM,2018
+1445,COD,"Growing vegetables, roots, tubers industry",LBR,7.105243879976179e-08,DOM,2018
+1446,COD,Growing sugar beet and cane industry,LBR,1.662982449948774e-08,DOM,2018
+1447,COD,Growing tobacco industry,LBR,4.233853874753311e-11,DOM,2018
+1448,COD,Growing fibre crops industry,LBR,5.135603588484309e-09,DOM,2018
+1449,COD,Growing crops n.e.c. industry,LBR,3.483152454833211e-08,DOM,2018
+1450,COD,Growing grapes industry,LBR,0.0,DOM,2018
+1451,COD,Growing fruits and nuts industry,LBR,2.447061131184293e-08,DOM,2018
+1452,COD,"Growing beverage crops (coffee, tea etc) industry",LBR,2.3029783867971356e-08,DOM,2018
+1453,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,1.065526659410279e-10,DOM,2018
+1454,COD,Seeds and plant propagation industry,LBR,0.0,DOM,2018
+1455,COD,Raising of cattle industry,LBR,1.07380937546673e-06,DOM,2018
+1456,COD,Growing wheat industry,LBY,4.961120055447429e-07,DOM,2018
+1457,COD,Growing maize industry,LBY,2.3208897461054577e-06,DOM,2018
+1458,COD,Growing cereals n.e.c industry,LBY,0.0,DOM,2018
+1459,COD,Growing leguminous crops and oil seeds industry,LBY,1.080053439612062e-06,DOM,2018
+1460,COD,Growing rice industry,LBY,1.8907325263068123e-06,DOM,2018
+1461,COD,"Growing vegetables, roots, tubers industry",LBY,1.6968493859100207e-06,DOM,2018
+1462,COD,Growing sugar beet and cane industry,LBY,9.348966075592657e-07,DOM,2018
+1463,COD,Growing tobacco industry,LBY,2.0031649533654107e-09,DOM,2018
+1464,COD,Growing fibre crops industry,LBY,1.3171016323148282e-07,DOM,2018
+1465,COD,Growing crops n.e.c. industry,LBY,2.551624957355884e-06,DOM,2018
+1466,COD,Growing grapes industry,LBY,0.0,DOM,2018
+1467,COD,Growing fruits and nuts industry,LBY,3.8333967791797824e-07,DOM,2018
+1468,COD,"Growing beverage crops (coffee, tea etc) industry",LBY,5.620437767382672e-07,DOM,2018
+1469,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,2.3370277613139054e-09,DOM,2018
+1470,COD,Seeds and plant propagation industry,LBY,0.0,DOM,2018
+1471,COD,Raising of cattle industry,LBY,8.762764112639094e-05,DOM,2018
+1472,COD,Growing wheat industry,LKA,7.284839560288468e-08,DOM,2018
+1473,COD,Growing maize industry,LKA,1.014633522211596e-06,DOM,2018
+1474,COD,Growing cereals n.e.c industry,LKA,0.0,DOM,2018
+1475,COD,Growing leguminous crops and oil seeds industry,LKA,2.3839847138426621e-07,DOM,2018
+1476,COD,Growing rice industry,LKA,1.9741963305991328e-07,DOM,2018
+1477,COD,"Growing vegetables, roots, tubers industry",LKA,8.272697189990725e-07,DOM,2018
+1478,COD,Growing sugar beet and cane industry,LKA,1.7711722446596625e-07,DOM,2018
+1479,COD,Growing tobacco industry,LKA,4.797139383797507e-10,DOM,2018
+1480,COD,Growing fibre crops industry,LKA,5.950382513617831e-08,DOM,2018
+1481,COD,Growing crops n.e.c. industry,LKA,3.8388588700885905e-07,DOM,2018
+1482,COD,Growing grapes industry,LKA,0.0,DOM,2018
+1483,COD,Growing fruits and nuts industry,LKA,2.696978090990535e-07,DOM,2018
+1484,COD,"Growing beverage crops (coffee, tea etc) industry",LKA,2.608127494616356e-07,DOM,2018
+1485,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,1.2521985045453846e-09,DOM,2018
+1486,COD,Seeds and plant propagation industry,LKA,0.0,DOM,2018
+1487,COD,Raising of cattle industry,LKA,1.1098449721142583e-05,DOM,2018
+1488,COD,Growing wheat industry,LTU,5.317916725941332e-08,DOM,2018
+1489,COD,Growing maize industry,LTU,4.7067080836859405e-07,DOM,2018
+1490,COD,Growing cereals n.e.c industry,LTU,0.0,DOM,2018
+1491,COD,Growing leguminous crops and oil seeds industry,LTU,1.4125181439116692e-07,DOM,2018
+1492,COD,Growing rice industry,LTU,1.9384980319491084e-07,DOM,2018
+1493,COD,"Growing vegetables, roots, tubers industry",LTU,3.58677696977732e-07,DOM,2018
+1494,COD,Growing sugar beet and cane industry,LTU,1.0900346567495943e-07,DOM,2018
+1495,COD,Growing tobacco industry,LTU,3.022103198327928e-10,DOM,2018
+1496,COD,Growing fibre crops industry,LTU,2.453984782923692e-08,DOM,2018
+1497,COD,Growing crops n.e.c. industry,LTU,2.7231568336176677e-07,DOM,2018
+1498,COD,Growing grapes industry,LTU,0.0,DOM,2018
+1499,COD,Growing fruits and nuts industry,LTU,8.880684311464538e-08,DOM,2018
+1500,COD,"Growing beverage crops (coffee, tea etc) industry",LTU,1.1080003808298205e-07,DOM,2018
+1501,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,5.188422008918007e-10,DOM,2018
+1502,COD,Seeds and plant propagation industry,LTU,0.0,DOM,2018
+1503,COD,Raising of cattle industry,LTU,1.1285538975534796e-05,DOM,2018
+1504,COD,Growing wheat industry,LUX,4.448321426045682e-08,DOM,2018
+1505,COD,Growing maize industry,LUX,6.424059767008288e-07,DOM,2018
+1506,COD,Growing cereals n.e.c industry,LUX,0.0,DOM,2018
+1507,COD,Growing leguminous crops and oil seeds industry,LUX,1.583019320742703e-07,DOM,2018
+1508,COD,Growing rice industry,LUX,1.344528572787647e-07,DOM,2018
+1509,COD,"Growing vegetables, roots, tubers industry",LUX,6.294319165790388e-07,DOM,2018
+1510,COD,Growing sugar beet and cane industry,LUX,1.0228753349303683e-07,DOM,2018
+1511,COD,Growing tobacco industry,LUX,2.611246273333698e-10,DOM,2018
+1512,COD,Growing fibre crops industry,LUX,3.7588899232556136e-08,DOM,2018
+1513,COD,Growing crops n.e.c. industry,LUX,2.2712397988799162e-07,DOM,2018
+1514,COD,Growing grapes industry,LUX,0.0,DOM,2018
+1515,COD,Growing fruits and nuts industry,LUX,1.4451634048301467e-07,DOM,2018
+1516,COD,"Growing beverage crops (coffee, tea etc) industry",LUX,1.8282212294085374e-07,DOM,2018
+1517,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,8.919999684934949e-10,DOM,2018
+1518,COD,Seeds and plant propagation industry,LUX,0.0,DOM,2018
+1519,COD,Raising of cattle industry,LUX,6.484936647089012e-06,DOM,2018
+1520,COD,Growing wheat industry,LVA,2.8720656966680297e-08,DOM,2018
+1521,COD,Growing maize industry,LVA,2.6198233888768765e-07,DOM,2018
+1522,COD,Growing cereals n.e.c industry,LVA,0.0,DOM,2018
+1523,COD,Growing leguminous crops and oil seeds industry,LVA,7.808119283412302e-08,DOM,2018
+1524,COD,Growing rice industry,LVA,1.006091349153173e-07,DOM,2018
+1525,COD,"Growing vegetables, roots, tubers industry",LVA,2.0715859194893748e-07,DOM,2018
+1526,COD,Growing sugar beet and cane industry,LVA,6.262909525097684e-08,DOM,2018
+1527,COD,Growing tobacco industry,LVA,1.4127253423027059e-10,DOM,2018
+1528,COD,Growing fibre crops industry,LVA,1.3993227324650472e-08,DOM,2018
+1529,COD,Growing crops n.e.c. industry,LVA,1.46283944691132e-07,DOM,2018
+1530,COD,Growing grapes industry,LVA,0.0,DOM,2018
+1531,COD,Growing fruits and nuts industry,LVA,5.757644233267306e-08,DOM,2018
+1532,COD,"Growing beverage crops (coffee, tea etc) industry",LVA,6.507485989245229e-08,DOM,2018
+1533,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,3.004975061127069e-10,DOM,2018
+1534,COD,Seeds and plant propagation industry,LVA,0.0,DOM,2018
+1535,COD,Raising of cattle industry,LVA,4.5935728858308175e-06,DOM,2018
+1536,COD,Growing wheat industry,MAR,9.784660421189135e-08,DOM,2018
+1537,COD,Growing maize industry,MAR,1.093847374403753e-06,DOM,2018
+1538,COD,Growing cereals n.e.c industry,MAR,0.0,DOM,2018
+1539,COD,Growing leguminous crops and oil seeds industry,MAR,3.141446904926718e-07,DOM,2018
+1540,COD,Growing rice industry,MAR,3.017790529857118e-07,DOM,2018
+1541,COD,"Growing vegetables, roots, tubers industry",MAR,9.197609608723422e-07,DOM,2018
+1542,COD,Growing sugar beet and cane industry,MAR,2.227211086581842e-07,DOM,2018
+1543,COD,Growing tobacco industry,MAR,6.741606517370755e-10,DOM,2018
+1544,COD,Growing fibre crops industry,MAR,6.32843685018147e-08,DOM,2018
+1545,COD,Growing crops n.e.c. industry,MAR,5.050582051701504e-07,DOM,2018
+1546,COD,Growing grapes industry,MAR,0.0,DOM,2018
+1547,COD,Growing fruits and nuts industry,MAR,2.8566966946227014e-07,DOM,2018
+1548,COD,"Growing beverage crops (coffee, tea etc) industry",MAR,2.8989580444796353e-07,DOM,2018
+1549,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,1.4655747940202086e-09,DOM,2018
+1550,COD,Seeds and plant propagation industry,MAR,0.0,DOM,2018
+1551,COD,Raising of cattle industry,MAR,1.5246049139075066e-05,DOM,2018
+1552,COD,Growing wheat industry,MDA,8.949660432636434e-09,DOM,2018
+1553,COD,Growing maize industry,MDA,1.0107272645329161e-07,DOM,2018
+1554,COD,Growing cereals n.e.c industry,MDA,0.0,DOM,2018
+1555,COD,Growing leguminous crops and oil seeds industry,MDA,2.6916269116701126e-08,DOM,2018
+1556,COD,Growing rice industry,MDA,2.8660738893563223e-08,DOM,2018
+1557,COD,"Growing vegetables, roots, tubers industry",MDA,8.180138692042841e-08,DOM,2018
+1558,COD,Growing sugar beet and cane industry,MDA,2.038831935097502e-08,DOM,2018
+1559,COD,Growing tobacco industry,MDA,5.1626917826880887e-11,DOM,2018
+1560,COD,Growing fibre crops industry,MDA,5.681054271746906e-09,DOM,2018
+1561,COD,Growing crops n.e.c. industry,MDA,4.6235079504734154e-08,DOM,2018
+1562,COD,Growing grapes industry,MDA,0.0,DOM,2018
+1563,COD,Growing fruits and nuts industry,MDA,2.4767203396497206e-08,DOM,2018
+1564,COD,"Growing beverage crops (coffee, tea etc) industry",MDA,2.6065327699409842e-08,DOM,2018
+1565,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.2101975775850378e-10,DOM,2018
+1566,COD,Seeds and plant propagation industry,MDA,0.0,DOM,2018
+1567,COD,Raising of cattle industry,MDA,1.4621800369912045e-06,DOM,2018
+1568,COD,Growing wheat industry,MDG,1.4589960515116376e-08,DOM,2018
+1569,COD,Growing maize industry,MDG,1.2848681744154488e-07,DOM,2018
+1570,COD,Growing cereals n.e.c industry,MDG,0.0,DOM,2018
+1571,COD,Growing leguminous crops and oil seeds industry,MDG,4.021555579015097e-08,DOM,2018
+1572,COD,Growing rice industry,MDG,4.937326604895324e-08,DOM,2018
+1573,COD,"Growing vegetables, roots, tubers industry",MDG,1.0410192374576727e-07,DOM,2018
+1574,COD,Growing sugar beet and cane industry,MDG,3.039849232281895e-08,DOM,2018
+1575,COD,Growing tobacco industry,MDG,8.046654787263665e-11,DOM,2018
+1576,COD,Growing fibre crops industry,MDG,7.743405494966838e-09,DOM,2018
+1577,COD,Growing crops n.e.c. industry,MDG,7.704662739403708e-08,DOM,2018
+1578,COD,Growing grapes industry,MDG,0.0,DOM,2018
+1579,COD,Growing fruits and nuts industry,MDG,3.1134572710602545e-08,DOM,2018
+1580,COD,"Growing beverage crops (coffee, tea etc) industry",MDG,3.36658889671289e-08,DOM,2018
+1581,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,1.5374138058932803e-10,DOM,2018
+1582,COD,Seeds and plant propagation industry,MDG,0.0,DOM,2018
+1583,COD,Raising of cattle industry,MDG,2.685778384530636e-06,DOM,2018
+1584,COD,Growing wheat industry,MEX,2.2802348631644457e-06,DOM,2018
+1585,COD,Growing maize industry,MEX,3.582973854508813e-05,DOM,2018
+1586,COD,Growing cereals n.e.c industry,MEX,0.0,DOM,2018
+1587,COD,Growing leguminous crops and oil seeds industry,MEX,8.27252347777769e-06,DOM,2018
+1588,COD,Growing rice industry,MEX,6.095456091733239e-06,DOM,2018
+1589,COD,"Growing vegetables, roots, tubers industry",MEX,3.103226256116547e-05,DOM,2018
+1590,COD,Growing sugar beet and cane industry,MEX,5.6062942441763835e-06,DOM,2018
+1591,COD,Growing tobacco industry,MEX,1.458083824748871e-08,DOM,2018
+1592,COD,Growing fibre crops industry,MEX,2.0587531794990864e-06,DOM,2018
+1593,COD,Growing crops n.e.c. industry,MEX,1.2443860637963297e-05,DOM,2018
+1594,COD,Growing grapes industry,MEX,0.0,DOM,2018
+1595,COD,Growing fruits and nuts industry,MEX,8.831636898442921e-06,DOM,2018
+1596,COD,"Growing beverage crops (coffee, tea etc) industry",MEX,9.440488167360962e-06,DOM,2018
+1597,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,4.537662878837061e-08,DOM,2018
+1598,COD,Seeds and plant propagation industry,MEX,0.0,DOM,2018
+1599,COD,Raising of cattle industry,MEX,0.0003477776244236529,DOM,2018
+1600,COD,Growing wheat industry,MKD,1.1371632091141833e-08,DOM,2018
+1601,COD,Growing maize industry,MKD,1.3128826442458242e-07,DOM,2018
+1602,COD,Growing cereals n.e.c industry,MKD,0.0,DOM,2018
+1603,COD,Growing leguminous crops and oil seeds industry,MKD,3.463166521602111e-08,DOM,2018
+1604,COD,Growing rice industry,MKD,3.581653590305537e-08,DOM,2018
+1605,COD,"Growing vegetables, roots, tubers industry",MKD,1.1252362247037487e-07,DOM,2018
+1606,COD,Growing sugar beet and cane industry,MKD,2.7375638960506735e-08,DOM,2018
+1607,COD,Growing tobacco industry,MKD,6.419071722415062e-11,DOM,2018
+1608,COD,Growing fibre crops industry,MKD,6.587674919381742e-09,DOM,2018
+1609,COD,Growing crops n.e.c. industry,MKD,5.588707700340584e-08,DOM,2018
+1610,COD,Growing grapes industry,MKD,0.0,DOM,2018
+1611,COD,Growing fruits and nuts industry,MKD,2.8763511271413627e-08,DOM,2018
+1612,COD,"Growing beverage crops (coffee, tea etc) industry",MKD,3.302503044402637e-08,DOM,2018
+1613,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.6833720800856148e-10,DOM,2018
+1614,COD,Seeds and plant propagation industry,MKD,0.0,DOM,2018
+1615,COD,Raising of cattle industry,MKD,1.7092952934727092e-06,DOM,2018
+1616,COD,Growing wheat industry,MLI,1.2463260727715376e-08,DOM,2018
+1617,COD,Growing maize industry,MLI,1.2556736842690965e-07,DOM,2018
+1618,COD,Growing cereals n.e.c industry,MLI,0.0,DOM,2018
+1619,COD,Growing leguminous crops and oil seeds industry,MLI,4.490286134078437e-08,DOM,2018
+1620,COD,Growing rice industry,MLI,3.949383699765016e-08,DOM,2018
+1621,COD,"Growing vegetables, roots, tubers industry",MLI,1.084299600604543e-07,DOM,2018
+1622,COD,Growing sugar beet and cane industry,MLI,2.622218005958264e-08,DOM,2018
+1623,COD,Growing tobacco industry,MLI,1.2130659148018982e-10,DOM,2018
+1624,COD,Growing fibre crops industry,MLI,6.436778295857134e-09,DOM,2018
+1625,COD,Growing crops n.e.c. industry,MLI,6.110044640153167e-08,DOM,2018
+1626,COD,Growing grapes industry,MLI,0.0,DOM,2018
+1627,COD,Growing fruits and nuts industry,MLI,2.7139679726430838e-08,DOM,2018
+1628,COD,"Growing beverage crops (coffee, tea etc) industry",MLI,3.329601743526184e-08,DOM,2018
+1629,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,2.1075101671659325e-10,DOM,2018
+1630,COD,Seeds and plant propagation industry,MLI,0.0,DOM,2018
+1631,COD,Raising of cattle industry,MLI,1.9916258074416267e-06,DOM,2018
+1632,COD,Growing wheat industry,MLT,1.3978429256923685e-08,DOM,2018
+1633,COD,Growing maize industry,MLT,1.398099303746663e-07,DOM,2018
+1634,COD,Growing cereals n.e.c industry,MLT,0.0,DOM,2018
+1635,COD,Growing leguminous crops and oil seeds industry,MLT,4.036598168722547e-08,DOM,2018
+1636,COD,Growing rice industry,MLT,4.619880173380368e-08,DOM,2018
+1637,COD,"Growing vegetables, roots, tubers industry",MLT,1.21223348101992e-07,DOM,2018
+1638,COD,Growing sugar beet and cane industry,MLT,3.116933876537648e-08,DOM,2018
+1639,COD,Growing tobacco industry,MLT,7.720000845676051e-11,DOM,2018
+1640,COD,Growing fibre crops industry,MLT,7.574471781868011e-09,DOM,2018
+1641,COD,Growing crops n.e.c. industry,MLT,7.104466925976755e-08,DOM,2018
+1642,COD,Growing grapes industry,MLT,0.0,DOM,2018
+1643,COD,Growing fruits and nuts industry,MLT,3.213386071967861e-08,DOM,2018
+1644,COD,"Growing beverage crops (coffee, tea etc) industry",MLT,3.671502345761679e-08,DOM,2018
+1645,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,1.8044090428549483e-10,DOM,2018
+1646,COD,Seeds and plant propagation industry,MLT,0.0,DOM,2018
+1647,COD,Raising of cattle industry,MLT,2.238034264617438e-06,DOM,2018
+1648,COD,Growing wheat industry,MMR,2.235630847077106e-07,DOM,2018
+1649,COD,Growing maize industry,MMR,8.527919436226218e-07,DOM,2018
+1650,COD,Growing cereals n.e.c industry,MMR,0.0,DOM,2018
+1651,COD,Growing leguminous crops and oil seeds industry,MMR,4.6431668225487e-07,DOM,2018
+1652,COD,Growing rice industry,MMR,9.194021575322307e-07,DOM,2018
+1653,COD,"Growing vegetables, roots, tubers industry",MMR,5.821766941579823e-07,DOM,2018
+1654,COD,Growing sugar beet and cane industry,MMR,4.062142594990627e-07,DOM,2018
+1655,COD,Growing tobacco industry,MMR,8.01192343678654e-10,DOM,2018
+1656,COD,Growing fibre crops industry,MMR,4.8683355542794274e-08,DOM,2018
+1657,COD,Growing crops n.e.c. industry,MMR,1.125774793544487e-06,DOM,2018
+1658,COD,Growing grapes industry,MMR,0.0,DOM,2018
+1659,COD,Growing fruits and nuts industry,MMR,1.1887579247243317e-07,DOM,2018
+1660,COD,"Growing beverage crops (coffee, tea etc) industry",MMR,1.9694203147093645e-07,DOM,2018
+1661,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,7.886271348318936e-10,DOM,2018
+1662,COD,Seeds and plant propagation industry,MMR,0.0,DOM,2018
+1663,COD,Raising of cattle industry,MMR,3.6238707818593736e-05,DOM,2018
+1664,COD,Growing wheat industry,MNG,3.8723170968217564e-08,DOM,2018
+1665,COD,Growing maize industry,MNG,5.603680022616148e-07,DOM,2018
+1666,COD,Growing cereals n.e.c industry,MNG,0.0,DOM,2018
+1667,COD,Growing leguminous crops and oil seeds industry,MNG,1.308377301207053e-07,DOM,2018
+1668,COD,Growing rice industry,MNG,1.0447083353588584e-07,DOM,2018
+1669,COD,"Growing vegetables, roots, tubers industry",MNG,4.6332417184828935e-07,DOM,2018
+1670,COD,Growing sugar beet and cane industry,MNG,1.018437987895578e-07,DOM,2018
+1671,COD,Growing tobacco industry,MNG,2.518159077725526e-10,DOM,2018
+1672,COD,Growing fibre crops industry,MNG,3.76424035013801e-08,DOM,2018
+1673,COD,Growing crops n.e.c. industry,MNG,2.1453630731882668e-07,DOM,2018
+1674,COD,Growing grapes industry,MNG,0.0,DOM,2018
+1675,COD,Growing fruits and nuts industry,MNG,1.836422739757197e-07,DOM,2018
+1676,COD,"Growing beverage crops (coffee, tea etc) industry",MNG,1.5665620438633794e-07,DOM,2018
+1677,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,6.780011441564257e-10,DOM,2018
+1678,COD,Seeds and plant propagation industry,MNG,0.0,DOM,2018
+1679,COD,Raising of cattle industry,MNG,6.1126710159674585e-06,DOM,2018
+1680,COD,Growing wheat industry,MOZ,3.3063556381359255e-08,DOM,2018
+1681,COD,Growing maize industry,MOZ,4.0228474222521666e-07,DOM,2018
+1682,COD,Growing cereals n.e.c industry,MOZ,0.0,DOM,2018
+1683,COD,Growing leguminous crops and oil seeds industry,MOZ,1.0889495201440097e-07,DOM,2018
+1684,COD,Growing rice industry,MOZ,9.679362310179154e-08,DOM,2018
+1685,COD,"Growing vegetables, roots, tubers industry",MOZ,3.360514359372008e-07,DOM,2018
+1686,COD,Growing sugar beet and cane industry,MOZ,7.820628880905301e-08,DOM,2018
+1687,COD,Growing tobacco industry,MOZ,2.32426514007759e-10,DOM,2018
+1688,COD,Growing fibre crops industry,MOZ,2.505796492358768e-08,DOM,2018
+1689,COD,Growing crops n.e.c. industry,MOZ,1.7566933572283127e-07,DOM,2018
+1690,COD,Growing grapes industry,MOZ,0.0,DOM,2018
+1691,COD,Growing fruits and nuts industry,MOZ,1.1688701447772517e-07,DOM,2018
+1692,COD,"Growing beverage crops (coffee, tea etc) industry",MOZ,1.103959452810046e-07,DOM,2018
+1693,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,5.241396565964661e-10,DOM,2018
+1694,COD,Seeds and plant propagation industry,MOZ,0.0,DOM,2018
+1695,COD,Raising of cattle industry,MOZ,5.529601809470564e-06,DOM,2018
+1696,COD,Growing wheat industry,MRT,1.4101980339630393e-08,DOM,2018
+1697,COD,Growing maize industry,MRT,1.3456170084725702e-07,DOM,2018
+1698,COD,Growing cereals n.e.c industry,MRT,0.0,DOM,2018
+1699,COD,Growing leguminous crops and oil seeds industry,MRT,3.94865579612323e-08,DOM,2018
+1700,COD,Growing rice industry,MRT,4.5112672271105716e-08,DOM,2018
+1701,COD,"Growing vegetables, roots, tubers industry",MRT,1.0447099410203289e-07,DOM,2018
+1702,COD,Growing sugar beet and cane industry,MRT,2.9101896229482733e-08,DOM,2018
+1703,COD,Growing tobacco industry,MRT,8.666093307848521e-11,DOM,2018
+1704,COD,Growing fibre crops industry,MRT,7.905183196385829e-09,DOM,2018
+1705,COD,Growing crops n.e.c. industry,MRT,7.295868796660777e-08,DOM,2018
+1706,COD,Growing grapes industry,MRT,0.0,DOM,2018
+1707,COD,Growing fruits and nuts industry,MRT,3.2143600655475955e-08,DOM,2018
+1708,COD,"Growing beverage crops (coffee, tea etc) industry",MRT,3.380940499901488e-08,DOM,2018
+1709,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.5909694093000848e-10,DOM,2018
+1710,COD,Seeds and plant propagation industry,MRT,0.0,DOM,2018
+1711,COD,Raising of cattle industry,MRT,2.7738340255494356e-06,DOM,2018
+1712,COD,Growing wheat industry,MWI,5.767455477571479e-09,DOM,2018
+1713,COD,Growing maize industry,MWI,5.9210880349394984e-08,DOM,2018
+1714,COD,Growing cereals n.e.c industry,MWI,0.0,DOM,2018
+1715,COD,Growing leguminous crops and oil seeds industry,MWI,1.7097081128893176e-08,DOM,2018
+1716,COD,Growing rice industry,MWI,1.8116101385439332e-08,DOM,2018
+1717,COD,"Growing vegetables, roots, tubers industry",MWI,4.950213001738538e-08,DOM,2018
+1718,COD,Growing sugar beet and cane industry,MWI,1.26926439032668e-08,DOM,2018
+1719,COD,Growing tobacco industry,MWI,3.382892724884007e-11,DOM,2018
+1720,COD,Growing fibre crops industry,MWI,3.6616341285043254e-09,DOM,2018
+1721,COD,Growing crops n.e.c. industry,MWI,3.0579045934376956e-08,DOM,2018
+1722,COD,Growing grapes industry,MWI,0.0,DOM,2018
+1723,COD,Growing fruits and nuts industry,MWI,1.6159635112491206e-08,DOM,2018
+1724,COD,"Growing beverage crops (coffee, tea etc) industry",MWI,1.611649958787631e-08,DOM,2018
+1725,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,7.41257540604759e-11,DOM,2018
+1726,COD,Seeds and plant propagation industry,MWI,0.0,DOM,2018
+1727,COD,Raising of cattle industry,MWI,9.75924172385496e-07,DOM,2018
+1728,COD,Growing wheat industry,MYS,3.6045917012084193e-06,DOM,2018
+1729,COD,Growing maize industry,MYS,1.8318618569353264e-05,DOM,2018
+1730,COD,Growing cereals n.e.c industry,MYS,0.0,DOM,2018
+1731,COD,Growing leguminous crops and oil seeds industry,MYS,8.022340650375807e-06,DOM,2018
+1732,COD,Growing rice industry,MYS,1.4373950382857447e-05,DOM,2018
+1733,COD,"Growing vegetables, roots, tubers industry",MYS,1.2795197446063512e-05,DOM,2018
+1734,COD,Growing sugar beet and cane industry,MYS,6.918391098529487e-06,DOM,2018
+1735,COD,Growing tobacco industry,MYS,1.4784529427299566e-08,DOM,2018
+1736,COD,Growing fibre crops industry,MYS,1.1305662053283338e-06,DOM,2018
+1737,COD,Growing crops n.e.c. industry,MYS,1.8824287492786147e-05,DOM,2018
+1738,COD,Growing grapes industry,MYS,0.0,DOM,2018
+1739,COD,Growing fruits and nuts industry,MYS,3.71653263521552e-06,DOM,2018
+1740,COD,"Growing beverage crops (coffee, tea etc) industry",MYS,4.41075566506359e-06,DOM,2018
+1741,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,1.7361956646000887e-08,DOM,2018
+1742,COD,Seeds and plant propagation industry,MYS,0.0,DOM,2018
+1743,COD,Raising of cattle industry,MYS,0.0006403700533586945,DOM,2018
+1744,COD,Growing wheat industry,NAM,2.2502880158381302e-08,DOM,2018
+1745,COD,Growing maize industry,NAM,2.499115227015328e-07,DOM,2018
+1746,COD,Growing cereals n.e.c industry,NAM,0.0,DOM,2018
+1747,COD,Growing leguminous crops and oil seeds industry,NAM,6.568083092704512e-08,DOM,2018
+1748,COD,Growing rice industry,NAM,6.522695855123078e-08,DOM,2018
+1749,COD,"Growing vegetables, roots, tubers industry",NAM,2.3957253060134716e-07,DOM,2018
+1750,COD,Growing sugar beet and cane industry,NAM,4.273777022980109e-08,DOM,2018
+1751,COD,Growing tobacco industry,NAM,1.484748957435148e-10,DOM,2018
+1752,COD,Growing fibre crops industry,NAM,1.1480053818311969e-08,DOM,2018
+1753,COD,Growing crops n.e.c. industry,NAM,1.0310562197279909e-07,DOM,2018
+1754,COD,Growing grapes industry,NAM,0.0,DOM,2018
+1755,COD,Growing fruits and nuts industry,NAM,4.493609860225667e-08,DOM,2018
+1756,COD,"Growing beverage crops (coffee, tea etc) industry",NAM,6.462871276647535e-08,DOM,2018
+1757,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,3.919003591760057e-10,DOM,2018
+1758,COD,Seeds and plant propagation industry,NAM,0.0,DOM,2018
+1759,COD,Raising of cattle industry,NAM,3.6687883449891854e-06,DOM,2018
+1760,COD,Growing wheat industry,NER,7.880546239886342e-09,DOM,2018
+1761,COD,Growing maize industry,NER,7.164018009414863e-08,DOM,2018
+1762,COD,Growing cereals n.e.c industry,NER,0.0,DOM,2018
+1763,COD,Growing leguminous crops and oil seeds industry,NER,2.3594654129395085e-08,DOM,2018
+1764,COD,Growing rice industry,NER,2.6189341732696327e-08,DOM,2018
+1765,COD,"Growing vegetables, roots, tubers industry",NER,5.885587984887902e-08,DOM,2018
+1766,COD,Growing sugar beet and cane industry,NER,1.6397156457994944e-08,DOM,2018
+1767,COD,Growing tobacco industry,NER,5.3003618184905704e-11,DOM,2018
+1768,COD,Growing fibre crops industry,NER,3.756157284036578e-09,DOM,2018
+1769,COD,Growing crops n.e.c. industry,NER,3.939600063739243e-08,DOM,2018
+1770,COD,Growing grapes industry,NER,0.0,DOM,2018
+1771,COD,Growing fruits and nuts industry,NER,1.521183755411146e-08,DOM,2018
+1772,COD,"Growing beverage crops (coffee, tea etc) industry",NER,1.8180623869849783e-08,DOM,2018
+1773,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,9.941063711044015e-11,DOM,2018
+1774,COD,Seeds and plant propagation industry,NER,0.0,DOM,2018
+1775,COD,Raising of cattle industry,NER,1.3487668093247424e-06,DOM,2018
+1776,COD,Growing wheat industry,NGA,4.163063641468987e-07,DOM,2018
+1777,COD,Growing maize industry,NGA,4.934088057447268e-06,DOM,2018
+1778,COD,Growing cereals n.e.c industry,NGA,0.0,DOM,2018
+1779,COD,Growing leguminous crops and oil seeds industry,NGA,2.511889752285429e-06,DOM,2018
+1780,COD,Growing rice industry,NGA,9.493380439550867e-07,DOM,2018
+1781,COD,"Growing vegetables, roots, tubers industry",NGA,5.0283426568819565e-06,DOM,2018
+1782,COD,Growing sugar beet and cane industry,NGA,8.502858593899027e-07,DOM,2018
+1783,COD,Growing tobacco industry,NGA,9.46243444737144e-09,DOM,2018
+1784,COD,Growing fibre crops industry,NGA,2.0483386620898046e-07,DOM,2018
+1785,COD,Growing crops n.e.c. industry,NGA,1.5849737303811886e-06,DOM,2018
+1786,COD,Growing grapes industry,NGA,0.0,DOM,2018
+1787,COD,Growing fruits and nuts industry,NGA,9.757323019028122e-07,DOM,2018
+1788,COD,"Growing beverage crops (coffee, tea etc) industry",NGA,1.3488952661023278e-06,DOM,2018
+1789,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,1.4425972598526534e-08,DOM,2018
+1790,COD,Seeds and plant propagation industry,NGA,0.0,DOM,2018
+1791,COD,Raising of cattle industry,NGA,4.9586512995211634e-05,DOM,2018
+1792,COD,Growing wheat industry,NIC,2.054194262965092e-07,DOM,2018
+1793,COD,Growing maize industry,NIC,2.90242043995625e-06,DOM,2018
+1794,COD,Growing cereals n.e.c industry,NIC,0.0,DOM,2018
+1795,COD,Growing leguminous crops and oil seeds industry,NIC,8.408299567921871e-07,DOM,2018
+1796,COD,Growing rice industry,NIC,5.445195839532087e-07,DOM,2018
+1797,COD,"Growing vegetables, roots, tubers industry",NIC,2.6735454145675228e-06,DOM,2018
+1798,COD,Growing sugar beet and cane industry,NIC,4.2524243012166584e-07,DOM,2018
+1799,COD,Growing tobacco industry,NIC,1.918782453916308e-09,DOM,2018
+1800,COD,Growing fibre crops industry,NIC,1.4495199961959153e-07,DOM,2018
+1801,COD,Growing crops n.e.c. industry,NIC,9.016982347577598e-07,DOM,2018
+1802,COD,Growing grapes industry,NIC,0.0,DOM,2018
+1803,COD,Growing fruits and nuts industry,NIC,3.7877276289229363e-07,DOM,2018
+1804,COD,"Growing beverage crops (coffee, tea etc) industry",NIC,6.916193945160923e-07,DOM,2018
+1805,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,4.636653854732546e-09,DOM,2018
+1806,COD,Seeds and plant propagation industry,NIC,0.0,DOM,2018
+1807,COD,Raising of cattle industry,NIC,3.0395911838452244e-05,DOM,2018
+1808,COD,Growing wheat industry,NLD,1.3774097886605007e-06,DOM,2018
+1809,COD,Growing maize industry,NLD,2.365944286183888e-05,DOM,2018
+1810,COD,Growing cereals n.e.c industry,NLD,0.0,DOM,2018
+1811,COD,Growing leguminous crops and oil seeds industry,NLD,5.005355494843906e-06,DOM,2018
+1812,COD,Growing rice industry,NLD,3.654287313417734e-06,DOM,2018
+1813,COD,"Growing vegetables, roots, tubers industry",NLD,2.0646058243433597e-05,DOM,2018
+1814,COD,Growing sugar beet and cane industry,NLD,3.47545179789765e-06,DOM,2018
+1815,COD,Growing tobacco industry,NLD,8.977233096416418e-09,DOM,2018
+1816,COD,Growing fibre crops industry,NLD,1.2263077488437864e-06,DOM,2018
+1817,COD,Growing crops n.e.c. industry,NLD,7.035461104454145e-06,DOM,2018
+1818,COD,Growing grapes industry,NLD,0.0,DOM,2018
+1819,COD,Growing fruits and nuts industry,NLD,5.63875589980428e-06,DOM,2018
+1820,COD,"Growing beverage crops (coffee, tea etc) industry",NLD,5.984313461189335e-06,DOM,2018
+1821,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,2.991373236056872e-08,DOM,2018
+1822,COD,Seeds and plant propagation industry,NLD,0.0,DOM,2018
+1823,COD,Raising of cattle industry,NLD,0.00019620704517476099,DOM,2018
+1824,COD,Growing wheat industry,NOR,3.602411074154907e-07,DOM,2018
+1825,COD,Growing maize industry,NOR,4.959801833777891e-06,DOM,2018
+1826,COD,Growing cereals n.e.c industry,NOR,0.0,DOM,2018
+1827,COD,Growing leguminous crops and oil seeds industry,NOR,1.2382139702517269e-06,DOM,2018
+1828,COD,Growing rice industry,NOR,1.0579073952246377e-06,DOM,2018
+1829,COD,"Growing vegetables, roots, tubers industry",NOR,4.5140630771620725e-06,DOM,2018
+1830,COD,Growing sugar beet and cane industry,NOR,8.687640861419887e-07,DOM,2018
+1831,COD,Growing tobacco industry,NOR,2.246768704455111e-09,DOM,2018
+1832,COD,Growing fibre crops industry,NOR,2.9818680275293345e-07,DOM,2018
+1833,COD,Growing crops n.e.c. industry,NOR,1.8987551184795909e-06,DOM,2018
+1834,COD,Growing grapes industry,NOR,0.0,DOM,2018
+1835,COD,Growing fruits and nuts industry,NOR,1.3164257395399855e-06,DOM,2018
+1836,COD,"Growing beverage crops (coffee, tea etc) industry",NOR,1.3879070841304974e-06,DOM,2018
+1837,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,6.621021538784549e-09,DOM,2018
+1838,COD,Seeds and plant propagation industry,NOR,0.0,DOM,2018
+1839,COD,Raising of cattle industry,NOR,5.349661639670579e-05,DOM,2018
+1840,COD,Growing wheat industry,NPL,2.760077882986679e-08,DOM,2018
+1841,COD,Growing maize industry,NPL,3.430829084354876e-07,DOM,2018
+1842,COD,Growing cereals n.e.c industry,NPL,0.0,DOM,2018
+1843,COD,Growing leguminous crops and oil seeds industry,NPL,9.278675649989493e-08,DOM,2018
+1844,COD,Growing rice industry,NPL,7.588128596656112e-08,DOM,2018
+1845,COD,"Growing vegetables, roots, tubers industry",NPL,2.854631295396336e-07,DOM,2018
+1846,COD,Growing sugar beet and cane industry,NPL,6.390789334024423e-08,DOM,2018
+1847,COD,Growing tobacco industry,NPL,2.0464353454501854e-10,DOM,2018
+1848,COD,Growing fibre crops industry,NPL,2.001000484233732e-08,DOM,2018
+1849,COD,Growing crops n.e.c. industry,NPL,1.4050383285431004e-07,DOM,2018
+1850,COD,Growing grapes industry,NPL,0.0,DOM,2018
+1851,COD,Growing fruits and nuts industry,NPL,9.207603999343188e-08,DOM,2018
+1852,COD,"Growing beverage crops (coffee, tea etc) industry",NPL,9.000909004519064e-08,DOM,2018
+1853,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,4.746394259322313e-10,DOM,2018
+1854,COD,Seeds and plant propagation industry,NPL,0.0,DOM,2018
+1855,COD,Raising of cattle industry,NPL,4.208998483717621e-06,DOM,2018
+1856,COD,Growing wheat industry,NZL,1.5773689638966356e-07,DOM,2018
+1857,COD,Growing maize industry,NZL,2.541912727670237e-06,DOM,2018
+1858,COD,Growing cereals n.e.c industry,NZL,0.0,DOM,2018
+1859,COD,Growing leguminous crops and oil seeds industry,NZL,5.707625310825257e-07,DOM,2018
+1860,COD,Growing rice industry,NZL,4.1117791856749484e-07,DOM,2018
+1861,COD,"Growing vegetables, roots, tubers industry",NZL,2.1490111272032264e-06,DOM,2018
+1862,COD,Growing sugar beet and cane industry,NZL,4.1558397321039825e-07,DOM,2018
+1863,COD,Growing tobacco industry,NZL,1.0965449415709085e-09,DOM,2018
+1864,COD,Growing fibre crops industry,NZL,1.5412650294901093e-07,DOM,2018
+1865,COD,Growing crops n.e.c. industry,NZL,8.579323678383799e-07,DOM,2018
+1866,COD,Growing grapes industry,NZL,0.0,DOM,2018
+1867,COD,Growing fruits and nuts industry,NZL,7.337893419910801e-07,DOM,2018
+1868,COD,"Growing beverage crops (coffee, tea etc) industry",NZL,6.882448538174284e-07,DOM,2018
+1869,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,3.2103503506293743e-09,DOM,2018
+1870,COD,Seeds and plant propagation industry,NZL,0.0,DOM,2018
+1871,COD,Raising of cattle industry,NZL,2.2697347027362843e-05,DOM,2018
+1872,COD,Growing wheat industry,OMN,6.677327776027859e-08,DOM,2018
+1873,COD,Growing maize industry,OMN,8.118818069188983e-07,DOM,2018
+1874,COD,Growing cereals n.e.c industry,OMN,0.0,DOM,2018
+1875,COD,Growing leguminous crops and oil seeds industry,OMN,2.2458807729259558e-07,DOM,2018
+1876,COD,Growing rice industry,OMN,1.9849487272081698e-07,DOM,2018
+1877,COD,"Growing vegetables, roots, tubers industry",OMN,6.912286886081024e-07,DOM,2018
+1878,COD,Growing sugar beet and cane industry,OMN,1.5769047597264588e-07,DOM,2018
+1879,COD,Growing tobacco industry,OMN,4.588197444175334e-10,DOM,2018
+1880,COD,Growing fibre crops industry,OMN,4.974208298841956e-08,DOM,2018
+1881,COD,Growing crops n.e.c. industry,OMN,3.652911873664206e-07,DOM,2018
+1882,COD,Growing grapes industry,OMN,0.0,DOM,2018
+1883,COD,Growing fruits and nuts industry,OMN,2.2985141331742173e-07,DOM,2018
+1884,COD,"Growing beverage crops (coffee, tea etc) industry",OMN,2.248602094436936e-07,DOM,2018
+1885,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,1.0664164912637756e-09,DOM,2018
+1886,COD,Seeds and plant propagation industry,OMN,0.0,DOM,2018
+1887,COD,Raising of cattle industry,OMN,1.110020834761112e-05,DOM,2018
+1888,COD,Growing wheat industry,PAK,1.8546077693816824e-07,DOM,2018
+1889,COD,Growing maize industry,PAK,2.4500385098236414e-06,DOM,2018
+1890,COD,Growing cereals n.e.c industry,PAK,0.0,DOM,2018
+1891,COD,Growing leguminous crops and oil seeds industry,PAK,5.749549241269699e-07,DOM,2018
+1892,COD,Growing rice industry,PAK,5.041964876925114e-07,DOM,2018
+1893,COD,"Growing vegetables, roots, tubers industry",PAK,2.137294030335853e-06,DOM,2018
+1894,COD,Growing sugar beet and cane industry,PAK,4.4597222998601904e-07,DOM,2018
+1895,COD,Growing tobacco industry,PAK,1.099506790466425e-09,DOM,2018
+1896,COD,Growing fibre crops industry,PAK,1.3751226087512798e-07,DOM,2018
+1897,COD,Growing crops n.e.c. industry,PAK,8.92088900687155e-07,DOM,2018
+1898,COD,Growing grapes industry,PAK,0.0,DOM,2018
+1899,COD,Growing fruits and nuts industry,PAK,6.306637698469091e-07,DOM,2018
+1900,COD,"Growing beverage crops (coffee, tea etc) industry",PAK,6.405323052017776e-07,DOM,2018
+1901,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,3.241020159237666e-09,DOM,2018
+1902,COD,Seeds and plant propagation industry,PAK,0.0,DOM,2018
+1903,COD,Raising of cattle industry,PAK,2.7197097559331904e-05,DOM,2018
+1904,COD,Growing wheat industry,PSE,1.832417645263633e-08,DOM,2018
+1905,COD,Growing maize industry,PSE,1.3114443815914248e-07,DOM,2018
+1906,COD,Growing cereals n.e.c industry,PSE,0.0,DOM,2018
+1907,COD,Growing leguminous crops and oil seeds industry,PSE,4.636140493768004e-08,DOM,2018
+1908,COD,Growing rice industry,PSE,6.229702318832328e-08,DOM,2018
+1909,COD,"Growing vegetables, roots, tubers industry",PSE,1.0527549217505125e-07,DOM,2018
+1910,COD,Growing sugar beet and cane industry,PSE,3.552048861029265e-08,DOM,2018
+1911,COD,Growing tobacco industry,PSE,8.8974849165828e-11,DOM,2018
+1912,COD,Growing fibre crops industry,PSE,7.82589567833507e-09,DOM,2018
+1913,COD,Growing crops n.e.c. industry,PSE,9.311891517036969e-08,DOM,2018
+1914,COD,Growing grapes industry,PSE,0.0,DOM,2018
+1915,COD,Growing fruits and nuts industry,PSE,3.127777562633573e-08,DOM,2018
+1916,COD,"Growing beverage crops (coffee, tea etc) industry",PSE,3.4310460237899925e-08,DOM,2018
+1917,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.5750810046412253e-10,DOM,2018
+1918,COD,Seeds and plant propagation industry,PSE,0.0,DOM,2018
+1919,COD,Raising of cattle industry,PSE,2.974713649996104e-06,DOM,2018
+1920,COD,Growing wheat industry,PAN,1.8087221619985893e-07,DOM,2018
+1921,COD,Growing maize industry,PAN,2.1686295386973424e-06,DOM,2018
+1922,COD,Growing cereals n.e.c industry,PAN,0.0,DOM,2018
+1923,COD,Growing leguminous crops and oil seeds industry,PAN,5.52267434397882e-07,DOM,2018
+1924,COD,Growing rice industry,PAN,4.723157520215564e-07,DOM,2018
+1925,COD,"Growing vegetables, roots, tubers industry",PAN,1.8384905264374284e-06,DOM,2018
+1926,COD,Growing sugar beet and cane industry,PAN,3.5385518196280907e-07,DOM,2018
+1927,COD,Growing tobacco industry,PAN,1.1116627727267922e-09,DOM,2018
+1928,COD,Growing fibre crops industry,PAN,1.0406145055213394e-07,DOM,2018
+1929,COD,Growing crops n.e.c. industry,PAN,8.53155274848307e-07,DOM,2018
+1930,COD,Growing grapes industry,PAN,0.0,DOM,2018
+1931,COD,Growing fruits and nuts industry,PAN,4.318612405964378e-07,DOM,2018
+1932,COD,"Growing beverage crops (coffee, tea etc) industry",PAN,5.495473956948025e-07,DOM,2018
+1933,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,2.900649442071908e-09,DOM,2018
+1934,COD,Seeds and plant propagation industry,PAN,0.0,DOM,2018
+1935,COD,Raising of cattle industry,PAN,2.7591580194589584e-05,DOM,2018
+1936,COD,Growing wheat industry,PER,1.015577282777576e-06,DOM,2018
+1937,COD,Growing maize industry,PER,6.8912141928815716e-06,DOM,2018
+1938,COD,Growing cereals n.e.c industry,PER,0.0,DOM,2018
+1939,COD,Growing leguminous crops and oil seeds industry,PER,2.9517416700550692e-06,DOM,2018
+1940,COD,Growing rice industry,PER,3.7628193953272515e-06,DOM,2018
+1941,COD,"Growing vegetables, roots, tubers industry",PER,7.738463263296772e-06,DOM,2018
+1942,COD,Growing sugar beet and cane industry,PER,1.9841073935573445e-06,DOM,2018
+1943,COD,Growing tobacco industry,PER,6.665020450813769e-09,DOM,2018
+1944,COD,Growing fibre crops industry,PER,3.3809531130129785e-07,DOM,2018
+1945,COD,Growing crops n.e.c. industry,PER,4.870461874457592e-06,DOM,2018
+1946,COD,Growing grapes industry,PER,0.0,DOM,2018
+1947,COD,Growing fruits and nuts industry,PER,1.2233792291728305e-06,DOM,2018
+1948,COD,"Growing beverage crops (coffee, tea etc) industry",PER,2.062378335080742e-06,DOM,2018
+1949,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,1.2790173134639308e-08,DOM,2018
+1950,COD,Seeds and plant propagation industry,PER,0.0,DOM,2018
+1951,COD,Raising of cattle industry,PER,0.00017144369825418317,DOM,2018
+1952,COD,Growing wheat industry,PHL,8.847846009955923e-07,DOM,2018
+1953,COD,Growing maize industry,PHL,1.730895594726009e-05,DOM,2018
+1954,COD,Growing cereals n.e.c industry,PHL,0.0,DOM,2018
+1955,COD,Growing leguminous crops and oil seeds industry,PHL,3.481289947757146e-06,DOM,2018
+1956,COD,Growing rice industry,PHL,1.936207006565725e-06,DOM,2018
+1957,COD,"Growing vegetables, roots, tubers industry",PHL,1.4483210902638869e-05,DOM,2018
+1958,COD,Growing sugar beet and cane industry,PHL,2.7612531072249e-06,DOM,2018
+1959,COD,Growing tobacco industry,PHL,6.412916245384555e-09,DOM,2018
+1960,COD,Growing fibre crops industry,PHL,1.1795696606603026e-06,DOM,2018
+1961,COD,Growing crops n.e.c. industry,PHL,4.969511480145696e-06,DOM,2018
+1962,COD,Growing grapes industry,PHL,0.0,DOM,2018
+1963,COD,Growing fruits and nuts industry,PHL,6.077745909070928e-06,DOM,2018
+1964,COD,"Growing beverage crops (coffee, tea etc) industry",PHL,4.876667420269037e-06,DOM,2018
+1965,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,2.1217751893205936e-08,DOM,2018
+1966,COD,Seeds and plant propagation industry,PHL,0.0,DOM,2018
+1967,COD,Raising of cattle industry,PHL,0.00010420929852948777,DOM,2018
+1968,COD,Growing wheat industry,PNG,2.4475056911097544e-08,DOM,2018
+1969,COD,Growing maize industry,PNG,3.366044397918988e-07,DOM,2018
+1970,COD,Growing cereals n.e.c industry,PNG,0.0,DOM,2018
+1971,COD,Growing leguminous crops and oil seeds industry,PNG,8.219809132023215e-08,DOM,2018
+1972,COD,Growing rice industry,PNG,6.889809932039708e-08,DOM,2018
+1973,COD,"Growing vegetables, roots, tubers industry",PNG,2.791700853928321e-07,DOM,2018
+1974,COD,Growing sugar beet and cane industry,PNG,6.090992503638098e-08,DOM,2018
+1975,COD,Growing tobacco industry,PNG,1.5874060030674188e-10,DOM,2018
+1976,COD,Growing fibre crops industry,PNG,2.1451100646896337e-08,DOM,2018
+1977,COD,Growing crops n.e.c. industry,PNG,1.326074097771697e-07,DOM,2018
+1978,COD,Growing grapes industry,PNG,0.0,DOM,2018
+1979,COD,Growing fruits and nuts industry,PNG,9.993639164227457e-08,DOM,2018
+1980,COD,"Growing beverage crops (coffee, tea etc) industry",PNG,9.16952543777683e-08,DOM,2018
+1981,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,4.13945555180302e-10,DOM,2018
+1982,COD,Seeds and plant propagation industry,PNG,0.0,DOM,2018
+1983,COD,Raising of cattle industry,PNG,3.914550884043065e-06,DOM,2018
+1984,COD,Growing wheat industry,POL,5.623608478061826e-07,DOM,2018
+1985,COD,Growing maize industry,POL,1.0157009126308797e-05,DOM,2018
+1986,COD,Growing cereals n.e.c industry,POL,0.0,DOM,2018
+1987,COD,Growing leguminous crops and oil seeds industry,POL,2.1567076017416603e-06,DOM,2018
+1988,COD,Growing rice industry,POL,1.5395792961908843e-06,DOM,2018
+1989,COD,"Growing vegetables, roots, tubers industry",POL,8.559769446650574e-06,DOM,2018
+1990,COD,Growing sugar beet and cane industry,POL,1.4062491938306768e-06,DOM,2018
+1991,COD,Growing tobacco industry,POL,3.736611982421983e-09,DOM,2018
+1992,COD,Growing fibre crops industry,POL,5.133712991199074e-07,DOM,2018
+1993,COD,Growing crops n.e.c. industry,POL,2.819177166076224e-06,DOM,2018
+1994,COD,Growing grapes industry,POL,0.0,DOM,2018
+1995,COD,Growing fruits and nuts industry,POL,2.3336379837250172e-06,DOM,2018
+1996,COD,"Growing beverage crops (coffee, tea etc) industry",POL,2.5322030848975947e-06,DOM,2018
+1997,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,1.2282425310294897e-08,DOM,2018
+1998,COD,Seeds and plant propagation industry,POL,0.0,DOM,2018
+1999,COD,Raising of cattle industry,POL,8.12248637690055e-05,DOM,2018
+2000,COD,Growing wheat industry,PRK,6.750110432516059e-09,DOM,2018
+2001,COD,Growing maize industry,PRK,5.7163850736460055e-08,DOM,2018
+2002,COD,Growing cereals n.e.c industry,PRK,0.0,DOM,2018
+2003,COD,Growing leguminous crops and oil seeds industry,PRK,1.8543522974225794e-08,DOM,2018
+2004,COD,Growing rice industry,PRK,2.4412505912209267e-08,DOM,2018
+2005,COD,"Growing vegetables, roots, tubers industry",PRK,4.6374360804755274e-08,DOM,2018
+2006,COD,Growing sugar beet and cane industry,PRK,1.3742730192137127e-08,DOM,2018
+2007,COD,Growing tobacco industry,PRK,4.2174997855023593e-11,DOM,2018
+2008,COD,Growing fibre crops industry,PRK,3.3251473204848617e-09,DOM,2018
+2009,COD,Growing crops n.e.c. industry,PRK,3.366386765742534e-08,DOM,2018
+2010,COD,Growing grapes industry,PRK,0.0,DOM,2018
+2011,COD,Growing fruits and nuts industry,PRK,1.0649476723839586e-08,DOM,2018
+2012,COD,"Growing beverage crops (coffee, tea etc) industry",PRK,1.4091113963587185e-08,DOM,2018
+2013,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,7.191120390815444e-11,DOM,2018
+2014,COD,Seeds and plant propagation industry,PRK,0.0,DOM,2018
+2015,COD,Raising of cattle industry,PRK,1.4002254869981378e-06,DOM,2018
+2016,COD,Growing wheat industry,PRT,2.111179276702491e-07,DOM,2018
+2017,COD,Growing maize industry,PRT,2.1537906204252443e-06,DOM,2018
+2018,COD,Growing cereals n.e.c industry,PRT,0.0,DOM,2018
+2019,COD,Growing leguminous crops and oil seeds industry,PRT,6.231583868526879e-07,DOM,2018
+2020,COD,Growing rice industry,PRT,6.660999737166322e-07,DOM,2018
+2021,COD,"Growing vegetables, roots, tubers industry",PRT,2.0050538606206104e-06,DOM,2018
+2022,COD,Growing sugar beet and cane industry,PRT,4.731884595868313e-07,DOM,2018
+2023,COD,Growing tobacco industry,PRT,1.3706511181886412e-09,DOM,2018
+2024,COD,Growing fibre crops industry,PRT,8.840376438377621e-08,DOM,2018
+2025,COD,Growing crops n.e.c. industry,PRT,9.350803680312097e-07,DOM,2018
+2026,COD,Growing grapes industry,PRT,0.0,DOM,2018
+2027,COD,Growing fruits and nuts industry,PRT,3.3387944427605737e-07,DOM,2018
+2028,COD,"Growing beverage crops (coffee, tea etc) industry",PRT,5.291992271819096e-07,DOM,2018
+2029,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,3.2803728543895576e-09,DOM,2018
+2030,COD,Seeds and plant propagation industry,PRT,0.0,DOM,2018
+2031,COD,Raising of cattle industry,PRT,3.024344804198806e-05,DOM,2018
+2032,COD,Growing wheat industry,PRY,1.3248248751848742e-07,DOM,2018
+2033,COD,Growing maize industry,PRY,1.783550259615521e-06,DOM,2018
+2034,COD,Growing cereals n.e.c industry,PRY,0.0,DOM,2018
+2035,COD,Growing leguminous crops and oil seeds industry,PRY,8.917128079543313e-07,DOM,2018
+2036,COD,Growing rice industry,PRY,2.6235635710099475e-07,DOM,2018
+2037,COD,"Growing vegetables, roots, tubers industry",PRY,1.9705111017008583e-06,DOM,2018
+2038,COD,Growing sugar beet and cane industry,PRY,2.580685510965935e-07,DOM,2018
+2039,COD,Growing tobacco industry,PRY,3.522673893952246e-09,DOM,2018
+2040,COD,Growing fibre crops industry,PRY,6.923824756936197e-08,DOM,2018
+2041,COD,Growing crops n.e.c. industry,PRY,4.2533272812012516e-07,DOM,2018
+2042,COD,Growing grapes industry,PRY,0.0,DOM,2018
+2043,COD,Growing fruits and nuts industry,PRY,3.287718086769211e-07,DOM,2018
+2044,COD,"Growing beverage crops (coffee, tea etc) industry",PRY,4.976225846752667e-07,DOM,2018
+2045,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,5.609690723439432e-09,DOM,2018
+2046,COD,Seeds and plant propagation industry,PRY,0.0,DOM,2018
+2047,COD,Raising of cattle industry,PRY,1.2483174871302447e-05,DOM,2018
+2048,COD,Growing wheat industry,QAT,1.4625606101882768e-07,DOM,2018
+2049,COD,Growing maize industry,QAT,1.853445111703299e-06,DOM,2018
+2050,COD,Growing cereals n.e.c industry,QAT,0.0,DOM,2018
+2051,COD,Growing leguminous crops and oil seeds industry,QAT,4.795471514060321e-07,DOM,2018
+2052,COD,Growing rice industry,QAT,4.2936301823361636e-07,DOM,2018
+2053,COD,"Growing vegetables, roots, tubers industry",QAT,1.5732759170689265e-06,DOM,2018
+2054,COD,Growing sugar beet and cane industry,QAT,3.5817516194695337e-07,DOM,2018
+2055,COD,Growing tobacco industry,QAT,8.951247871734367e-10,DOM,2018
+2056,COD,Growing fibre crops industry,QAT,1.1785138817288887e-07,DOM,2018
+2057,COD,Growing crops n.e.c. industry,QAT,8.117896825036733e-07,DOM,2018
+2058,COD,Growing grapes industry,QAT,0.0,DOM,2018
+2059,COD,Growing fruits and nuts industry,QAT,5.571492175096645e-07,DOM,2018
+2060,COD,"Growing beverage crops (coffee, tea etc) industry",QAT,5.204202656077438e-07,DOM,2018
+2061,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,2.3068904538198988e-09,DOM,2018
+2062,COD,Seeds and plant propagation industry,QAT,0.0,DOM,2018
+2063,COD,Raising of cattle industry,QAT,2.3671658191657034e-05,DOM,2018
+2064,COD,Growing wheat industry,ROU,1.113909383194228e-07,DOM,2018
+2065,COD,Growing maize industry,ROU,1.3202168755494711e-06,DOM,2018
+2066,COD,Growing cereals n.e.c industry,ROU,0.0,DOM,2018
+2067,COD,Growing leguminous crops and oil seeds industry,ROU,3.424771608992418e-07,DOM,2018
+2068,COD,Growing rice industry,ROU,3.4384925784752026e-07,DOM,2018
+2069,COD,"Growing vegetables, roots, tubers industry",ROU,1.1094901755282919e-06,DOM,2018
+2070,COD,Growing sugar beet and cane industry,ROU,2.6004012208595607e-07,DOM,2018
+2071,COD,Growing tobacco industry,ROU,6.509028301880567e-10,DOM,2018
+2072,COD,Growing fibre crops industry,ROU,7.69648459245749e-08,DOM,2018
+2073,COD,Growing crops n.e.c. industry,ROU,5.827277837232833e-07,DOM,2018
+2074,COD,Growing grapes industry,ROU,0.0,DOM,2018
+2075,COD,Growing fruits and nuts industry,ROU,3.549317244673156e-07,DOM,2018
+2076,COD,"Growing beverage crops (coffee, tea etc) industry",ROU,3.4998241674457213e-07,DOM,2018
+2077,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,1.6354434701772382e-09,DOM,2018
+2078,COD,Seeds and plant propagation industry,ROU,0.0,DOM,2018
+2079,COD,Raising of cattle industry,ROU,1.7394922090754412e-05,DOM,2018
+2080,COD,Growing wheat industry,RUS,1.3420483218232303e-06,DOM,2018
+2081,COD,Growing maize industry,RUS,2.0133523777792502e-05,DOM,2018
+2082,COD,Growing cereals n.e.c industry,RUS,0.0,DOM,2018
+2083,COD,Growing leguminous crops and oil seeds industry,RUS,4.726251619949334e-06,DOM,2018
+2084,COD,Growing rice industry,RUS,3.708574099992988e-06,DOM,2018
+2085,COD,"Growing vegetables, roots, tubers industry",RUS,1.7392114989769723e-05,DOM,2018
+2086,COD,Growing sugar beet and cane industry,RUS,3.3397125085093904e-06,DOM,2018
+2087,COD,Growing tobacco industry,RUS,9.214672468669879e-09,DOM,2018
+2088,COD,Growing fibre crops industry,RUS,1.1830450524975517e-06,DOM,2018
+2089,COD,Growing crops n.e.c. industry,RUS,7.042448099207737e-06,DOM,2018
+2090,COD,Growing grapes industry,RUS,0.0,DOM,2018
+2091,COD,Growing fruits and nuts industry,RUS,5.60528956591668e-06,DOM,2018
+2092,COD,"Growing beverage crops (coffee, tea etc) industry",RUS,5.458744920096757e-06,DOM,2018
+2093,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,2.592599612982121e-08,DOM,2018
+2094,COD,Seeds and plant propagation industry,RUS,0.0,DOM,2018
+2095,COD,Raising of cattle industry,RUS,0.0002029400230432064,DOM,2018
+2096,COD,Growing wheat industry,RWA,8.525184401706443e-09,DOM,2018
+2097,COD,Growing maize industry,RWA,7.794171801820781e-08,DOM,2018
+2098,COD,Growing cereals n.e.c industry,RWA,0.0,DOM,2018
+2099,COD,Growing leguminous crops and oil seeds industry,RWA,2.2598474889013214e-08,DOM,2018
+2100,COD,Growing rice industry,RWA,2.6664603010934646e-08,DOM,2018
+2101,COD,"Growing vegetables, roots, tubers industry",RWA,6.055766351767147e-08,DOM,2018
+2102,COD,Growing sugar beet and cane industry,RWA,1.6582554088958206e-08,DOM,2018
+2103,COD,Growing tobacco industry,RWA,4.381039548383945e-11,DOM,2018
+2104,COD,Growing fibre crops industry,RWA,4.001601687450919e-09,DOM,2018
+2105,COD,Growing crops n.e.c. industry,RWA,4.105730377073484e-08,DOM,2018
+2106,COD,Growing grapes industry,RWA,0.0,DOM,2018
+2107,COD,Growing fruits and nuts industry,RWA,1.561340580049389e-08,DOM,2018
+2108,COD,"Growing beverage crops (coffee, tea etc) industry",RWA,1.8660662890051817e-08,DOM,2018
+2109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,9.54158358738257e-11,DOM,2018
+2110,COD,Seeds and plant propagation industry,RWA,0.0,DOM,2018
+2111,COD,Raising of cattle industry,RWA,1.450511814350243e-06,DOM,2018
+2112,COD,Growing wheat industry,SAU,7.014455854396197e-07,DOM,2018
+2113,COD,Growing maize industry,SAU,9.257324293299025e-06,DOM,2018
+2114,COD,Growing cereals n.e.c industry,SAU,0.0,DOM,2018
+2115,COD,Growing leguminous crops and oil seeds industry,SAU,2.334057054256713e-06,DOM,2018
+2116,COD,Growing rice industry,SAU,2.0136088257020584e-06,DOM,2018
+2117,COD,"Growing vegetables, roots, tubers industry",SAU,7.824894985624489e-06,DOM,2018
+2118,COD,Growing sugar beet and cane industry,SAU,1.7156034110017283e-06,DOM,2018
+2119,COD,Growing tobacco industry,SAU,4.429970184702457e-09,DOM,2018
+2120,COD,Growing fibre crops industry,SAU,5.72213537738207e-07,DOM,2018
+2121,COD,Growing crops n.e.c. industry,SAU,3.848890318790724e-06,DOM,2018
+2122,COD,Growing grapes industry,SAU,0.0,DOM,2018
+2123,COD,Growing fruits and nuts industry,SAU,2.678589545969712e-06,DOM,2018
+2124,COD,"Growing beverage crops (coffee, tea etc) industry",SAU,2.5532181452846937e-06,DOM,2018
+2125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,1.1573363152073662e-08,DOM,2018
+2126,COD,Seeds and plant propagation industry,SAU,0.0,DOM,2018
+2127,COD,Raising of cattle industry,SAU,0.00011178375870823747,DOM,2018
+2128,COD,Growing wheat industry,SDS,4.865573132001009e-08,DOM,2018
+2129,COD,Growing maize industry,SDS,2.3872932760467497e-07,DOM,2018
+2130,COD,Growing cereals n.e.c industry,SDS,0.0,DOM,2018
+2131,COD,Growing leguminous crops and oil seeds industry,SDS,1.0748748634574752e-07,DOM,2018
+2132,COD,Growing rice industry,SDS,1.9529663768620771e-07,DOM,2018
+2133,COD,"Growing vegetables, roots, tubers industry",SDS,1.79428946782328e-07,DOM,2018
+2134,COD,Growing sugar beet and cane industry,SDS,9.299820381937594e-08,DOM,2018
+2135,COD,Growing tobacco industry,SDS,1.8616378798967658e-10,DOM,2018
+2136,COD,Growing fibre crops industry,SDS,1.3773922328021066e-08,DOM,2018
+2137,COD,Growing crops n.e.c. industry,SDS,2.453645372735336e-07,DOM,2018
+2138,COD,Growing grapes industry,SDS,0.0,DOM,2018
+2139,COD,Growing fruits and nuts industry,SDS,4.4897382572630904e-08,DOM,2018
+2140,COD,"Growing beverage crops (coffee, tea etc) industry",SDS,5.94227579800819e-08,DOM,2018
+2141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,2.484250920173587e-10,DOM,2018
+2142,COD,Seeds and plant propagation industry,SDS,0.0,DOM,2018
+2143,COD,Raising of cattle industry,SDS,7.814978961870222e-06,DOM,2018
+2144,COD,Growing wheat industry,SEN,3.061799902073694e-08,DOM,2018
+2145,COD,Growing maize industry,SEN,3.469861274528282e-07,DOM,2018
+2146,COD,Growing cereals n.e.c industry,SEN,0.0,DOM,2018
+2147,COD,Growing leguminous crops and oil seeds industry,SEN,1.3154288350489689e-07,DOM,2018
+2148,COD,Growing rice industry,SEN,8.39867183750458e-08,DOM,2018
+2149,COD,"Growing vegetables, roots, tubers industry",SEN,3.31061270427241e-07,DOM,2018
+2150,COD,Growing sugar beet and cane industry,SEN,6.562084213991315e-08,DOM,2018
+2151,COD,Growing tobacco industry,SEN,4.020340168315237e-10,DOM,2018
+2152,COD,Growing fibre crops industry,SEN,1.5415999817600445e-08,DOM,2018
+2153,COD,Growing crops n.e.c. industry,SEN,1.2963029763413537e-07,DOM,2018
+2154,COD,Growing grapes industry,SEN,0.0,DOM,2018
+2155,COD,Growing fruits and nuts industry,SEN,6.476462206960123e-08,DOM,2018
+2156,COD,"Growing beverage crops (coffee, tea etc) industry",SEN,9.003330255316296e-08,DOM,2018
+2157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,7.27347442541034e-10,DOM,2018
+2158,COD,Seeds and plant propagation industry,SEN,0.0,DOM,2018
+2159,COD,Raising of cattle industry,SEN,4.144002029980419e-06,DOM,2018
+2160,COD,Growing wheat industry,SGP,6.030979455515275e-07,DOM,2018
+2161,COD,Growing maize industry,SGP,1.051262140222127e-05,DOM,2018
+2162,COD,Growing cereals n.e.c industry,SGP,0.0,DOM,2018
+2163,COD,Growing leguminous crops and oil seeds industry,SGP,2.2855023587955578e-06,DOM,2018
+2164,COD,Growing rice industry,SGP,1.5000422576326067e-06,DOM,2018
+2165,COD,"Growing vegetables, roots, tubers industry",SGP,9.04007712557005e-06,DOM,2018
+2166,COD,Growing sugar beet and cane industry,SGP,1.6115829193170984e-06,DOM,2018
+2167,COD,Growing tobacco industry,SGP,4.148251735480154e-09,DOM,2018
+2168,COD,Growing fibre crops industry,SGP,6.471346426749885e-07,DOM,2018
+2169,COD,Growing crops n.e.c. industry,SGP,3.2320018164001015e-06,DOM,2018
+2170,COD,Growing grapes industry,SGP,0.0,DOM,2018
+2171,COD,Growing fruits and nuts industry,SGP,3.076892325011936e-06,DOM,2018
+2172,COD,"Growing beverage crops (coffee, tea etc) industry",SGP,2.8637649269847013e-06,DOM,2018
+2173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,1.3186438275795913e-08,DOM,2018
+2174,COD,Seeds and plant propagation industry,SGP,0.0,DOM,2018
+2175,COD,Raising of cattle industry,SGP,8.437707860644576e-05,DOM,2018
+2176,COD,Growing wheat industry,SLE,7.710978034146487e-09,DOM,2018
+2177,COD,Growing maize industry,SLE,8.787349728107305e-08,DOM,2018
+2178,COD,Growing cereals n.e.c industry,SLE,0.0,DOM,2018
+2179,COD,Growing leguminous crops and oil seeds industry,SLE,2.642408586039295e-08,DOM,2018
+2180,COD,Growing rice industry,SLE,2.2156957682358854e-08,DOM,2018
+2181,COD,"Growing vegetables, roots, tubers industry",SLE,7.359310355973574e-08,DOM,2018
+2182,COD,Growing sugar beet and cane industry,SLE,1.7154336442779783e-08,DOM,2018
+2183,COD,Growing tobacco industry,SLE,6.075854177213049e-11,DOM,2018
+2184,COD,Growing fibre crops industry,SLE,5.025290716634419e-09,DOM,2018
+2185,COD,Growing crops n.e.c. industry,SLE,3.964624828478351e-08,DOM,2018
+2186,COD,Growing grapes industry,SLE,0.0,DOM,2018
+2187,COD,Growing fruits and nuts industry,SLE,2.2573227002423245e-08,DOM,2018
+2188,COD,"Growing beverage crops (coffee, tea etc) industry",SLE,2.3302843209235045e-08,DOM,2018
+2189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,1.2707300101771635e-10,DOM,2018
+2190,COD,Seeds and plant propagation industry,SLE,0.0,DOM,2018
+2191,COD,Raising of cattle industry,SLE,1.2151978391534725e-06,DOM,2018
+2192,COD,Growing wheat industry,SLV,3.6859663152166e-07,DOM,2018
+2193,COD,Growing maize industry,SLV,4.115787355070447e-06,DOM,2018
+2194,COD,Growing cereals n.e.c industry,SLV,0.0,DOM,2018
+2195,COD,Growing leguminous crops and oil seeds industry,SLV,1.3385957133296703e-06,DOM,2018
+2196,COD,Growing rice industry,SLV,8.943320334898278e-07,DOM,2018
+2197,COD,"Growing vegetables, roots, tubers industry",SLV,4.044429845911759e-06,DOM,2018
+2198,COD,Growing sugar beet and cane industry,SLV,6.757307301465586e-07,DOM,2018
+2199,COD,Growing tobacco industry,SLV,3.0361364621449866e-09,DOM,2018
+2200,COD,Growing fibre crops industry,SLV,1.7823387244799103e-07,DOM,2018
+2201,COD,Growing crops n.e.c. industry,SLV,1.5412338478411364e-06,DOM,2018
+2202,COD,Growing grapes industry,SLV,0.0,DOM,2018
+2203,COD,Growing fruits and nuts industry,SLV,5.218198708121881e-07,DOM,2018
+2204,COD,"Growing beverage crops (coffee, tea etc) industry",SLV,1.0526982793006178e-06,DOM,2018
+2205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,7.190958956468366e-09,DOM,2018
+2206,COD,Seeds and plant propagation industry,SLV,0.0,DOM,2018
+2207,COD,Raising of cattle industry,SLV,5.294079869991121e-05,DOM,2018
+2208,COD,Growing wheat industry,SOM,8.733473458078314e-09,DOM,2018
+2209,COD,Growing maize industry,SOM,9.870844670567767e-08,DOM,2018
+2210,COD,Growing cereals n.e.c industry,SOM,0.0,DOM,2018
+2211,COD,Growing leguminous crops and oil seeds industry,SOM,2.6109049729280596e-08,DOM,2018
+2212,COD,Growing rice industry,SOM,2.7137850485173365e-08,DOM,2018
+2213,COD,"Growing vegetables, roots, tubers industry",SOM,6.742664879852855e-08,DOM,2018
+2214,COD,Growing sugar beet and cane industry,SOM,1.9207764433843304e-08,DOM,2018
+2215,COD,Growing tobacco industry,SOM,4.629843374920072e-11,DOM,2018
+2216,COD,Growing fibre crops industry,SOM,4.685668623462034e-09,DOM,2018
+2217,COD,Growing crops n.e.c. industry,SOM,4.501124359887024e-08,DOM,2018
+2218,COD,Growing grapes industry,SOM,0.0,DOM,2018
+2219,COD,Growing fruits and nuts industry,SOM,1.929376687543687e-08,DOM,2018
+2220,COD,"Growing beverage crops (coffee, tea etc) industry",SOM,2.1631829684572693e-08,DOM,2018
+2221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,1.0056730998341774e-10,DOM,2018
+2222,COD,Seeds and plant propagation industry,SOM,0.0,DOM,2018
+2223,COD,Raising of cattle industry,SOM,1.4626736839478467e-06,DOM,2018
+2224,COD,Growing wheat industry,SRB,2.7206281982532913e-07,DOM,2018
+2225,COD,Growing maize industry,SRB,3.7276831211399595e-06,DOM,2018
+2226,COD,Growing cereals n.e.c industry,SRB,0.0,DOM,2018
+2227,COD,Growing leguminous crops and oil seeds industry,SRB,1.1129856765987338e-06,DOM,2018
+2228,COD,Growing rice industry,SRB,7.248428830162874e-07,DOM,2018
+2229,COD,"Growing vegetables, roots, tubers industry",SRB,3.0336341777924415e-06,DOM,2018
+2230,COD,Growing sugar beet and cane industry,SRB,5.622025634656834e-07,DOM,2018
+2231,COD,Growing tobacco industry,SRB,2.5540808451427555e-09,DOM,2018
+2232,COD,Growing fibre crops industry,SRB,1.3341050663172375e-07,DOM,2018
+2233,COD,Growing crops n.e.c. industry,SRB,1.2939430228306092e-06,DOM,2018
+2234,COD,Growing grapes industry,SRB,0.0,DOM,2018
+2235,COD,Growing fruits and nuts industry,SRB,4.885770737580411e-07,DOM,2018
+2236,COD,"Growing beverage crops (coffee, tea etc) industry",SRB,8.265525367318901e-07,DOM,2018
+2237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,5.4781638354545315e-09,DOM,2018
+2238,COD,Seeds and plant propagation industry,SRB,0.0,DOM,2018
+2239,COD,Raising of cattle industry,SRB,4.368227110047483e-05,DOM,2018
+2240,COD,Growing wheat industry,SDN,5.682299148984049e-08,DOM,2018
+2241,COD,Growing maize industry,SDN,5.134503035397518e-07,DOM,2018
+2242,COD,Growing cereals n.e.c industry,SDN,0.0,DOM,2018
+2243,COD,Growing leguminous crops and oil seeds industry,SDN,1.5058531306817924e-07,DOM,2018
+2244,COD,Growing rice industry,SDN,1.8296139462007996e-07,DOM,2018
+2245,COD,"Growing vegetables, roots, tubers industry",SDN,4.3866847428616126e-07,DOM,2018
+2246,COD,Growing sugar beet and cane industry,SDN,1.3650395468616893e-07,DOM,2018
+2247,COD,Growing tobacco industry,SDN,2.769692381057393e-10,DOM,2018
+2248,COD,Growing fibre crops industry,SDN,3.008896638411477e-08,DOM,2018
+2249,COD,Growing crops n.e.c. industry,SDN,2.8961976955700186e-07,DOM,2018
+2250,COD,Growing grapes industry,SDN,0.0,DOM,2018
+2251,COD,Growing fruits and nuts industry,SDN,1.2074846491237228e-07,DOM,2018
+2252,COD,"Growing beverage crops (coffee, tea etc) industry",SDN,1.3325383137573082e-07,DOM,2018
+2253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,6.339213464695008e-10,DOM,2018
+2254,COD,Seeds and plant propagation industry,SDN,0.0,DOM,2018
+2255,COD,Raising of cattle industry,SDN,9.241000564105117e-06,DOM,2018
+2256,COD,Growing wheat industry,SVK,1.6408386038193523e-07,DOM,2018
+2257,COD,Growing maize industry,SVK,3.371568821117624e-06,DOM,2018
+2258,COD,Growing cereals n.e.c industry,SVK,0.0,DOM,2018
+2259,COD,Growing leguminous crops and oil seeds industry,SVK,7.086895149437847e-07,DOM,2018
+2260,COD,Growing rice industry,SVK,4.2900503174667487e-07,DOM,2018
+2261,COD,"Growing vegetables, roots, tubers industry",SVK,3.537079834880747e-06,DOM,2018
+2262,COD,Growing sugar beet and cane industry,SVK,4.261716145054137e-07,DOM,2018
+2263,COD,Growing tobacco industry,SVK,1.117053519658847e-09,DOM,2018
+2264,COD,Growing fibre crops industry,SVK,1.9583766730327765e-07,DOM,2018
+2265,COD,Growing crops n.e.c. industry,SVK,7.979094184050502e-07,DOM,2018
+2266,COD,Growing grapes industry,SVK,0.0,DOM,2018
+2267,COD,Growing fruits and nuts industry,SVK,8.141675655937013e-07,DOM,2018
+2268,COD,"Growing beverage crops (coffee, tea etc) industry",SVK,9.916648718553897e-07,DOM,2018
+2269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,4.8932638254898966e-09,DOM,2018
+2270,COD,Seeds and plant propagation industry,SVK,0.0,DOM,2018
+2271,COD,Raising of cattle industry,SVK,2.142300534275758e-05,DOM,2018
+2272,COD,Growing wheat industry,SVN,4.861418218911904e-08,DOM,2018
+2273,COD,Growing maize industry,SVN,6.188738140313971e-07,DOM,2018
+2274,COD,Growing cereals n.e.c industry,SVN,0.0,DOM,2018
+2275,COD,Growing leguminous crops and oil seeds industry,SVN,1.5999701406153062e-07,DOM,2018
+2276,COD,Growing rice industry,SVN,1.47519715270862e-07,DOM,2018
+2277,COD,"Growing vegetables, roots, tubers industry",SVN,5.221812463844481e-07,DOM,2018
+2278,COD,Growing sugar beet and cane industry,SVN,1.1325389961176549e-07,DOM,2018
+2279,COD,Growing tobacco industry,SVN,3.1131505536214186e-10,DOM,2018
+2280,COD,Growing fibre crops industry,SVN,3.44749977742056e-08,DOM,2018
+2281,COD,Growing crops n.e.c. industry,SVN,2.5065700582880547e-07,DOM,2018
+2282,COD,Growing grapes industry,SVN,0.0,DOM,2018
+2283,COD,Growing fruits and nuts industry,SVN,1.525836513034071e-07,DOM,2018
+2284,COD,"Growing beverage crops (coffee, tea etc) industry",SVN,1.608285316461404e-07,DOM,2018
+2285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,7.900554527778424e-10,DOM,2018
+2286,COD,Seeds and plant propagation industry,SVN,0.0,DOM,2018
+2287,COD,Raising of cattle industry,SVN,7.488398753029894e-06,DOM,2018
+2288,COD,Growing wheat industry,SWE,4.7616518235552546e-07,DOM,2018
+2289,COD,Growing maize industry,SWE,5.09010534928384e-06,DOM,2018
+2290,COD,Growing cereals n.e.c industry,SWE,0.0,DOM,2018
+2291,COD,Growing leguminous crops and oil seeds industry,SWE,1.3952789770641186e-06,DOM,2018
+2292,COD,Growing rice industry,SWE,1.5908998602595044e-06,DOM,2018
+2293,COD,"Growing vegetables, roots, tubers industry",SWE,4.216535252651209e-06,DOM,2018
+2294,COD,Growing sugar beet and cane industry,SWE,1.0338949518715884e-06,DOM,2018
+2295,COD,Growing tobacco industry,SWE,2.6814937862933467e-09,DOM,2018
+2296,COD,Growing fibre crops industry,SWE,2.568835960992531e-07,DOM,2018
+2297,COD,Growing crops n.e.c. industry,SWE,2.4371446731062832e-06,DOM,2018
+2298,COD,Growing grapes industry,SWE,0.0,DOM,2018
+2299,COD,Growing fruits and nuts industry,SWE,1.0888475517313124e-06,DOM,2018
+2300,COD,"Growing beverage crops (coffee, tea etc) industry",SWE,1.276624175711103e-06,DOM,2018
+2301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,6.308593399360631e-09,DOM,2018
+2302,COD,Seeds and plant propagation industry,SWE,0.0,DOM,2018
+2303,COD,Raising of cattle industry,SWE,7.557428905801757e-05,DOM,2018
+2304,COD,Growing wheat industry,SYR,3.15009708644033e-08,DOM,2018
+2305,COD,Growing maize industry,SYR,3.7234690499244565e-07,DOM,2018
+2306,COD,Growing cereals n.e.c industry,SYR,0.0,DOM,2018
+2307,COD,Growing leguminous crops and oil seeds industry,SYR,9.993036721693286e-08,DOM,2018
+2308,COD,Growing rice industry,SYR,9.458304100151546e-08,DOM,2018
+2309,COD,"Growing vegetables, roots, tubers industry",SYR,3.116626051576268e-07,DOM,2018
+2310,COD,Growing sugar beet and cane industry,SYR,7.386917777361535e-08,DOM,2018
+2311,COD,Growing tobacco industry,SYR,2.0552682545797026e-10,DOM,2018
+2312,COD,Growing fibre crops industry,SYR,2.3047121788512043e-08,DOM,2018
+2313,COD,Growing crops n.e.c. industry,SYR,1.6535848122696432e-07,DOM,2018
+2314,COD,Growing grapes industry,SYR,0.0,DOM,2018
+2315,COD,Growing fruits and nuts industry,SYR,1.0632707929279673e-07,DOM,2018
+2316,COD,"Growing beverage crops (coffee, tea etc) industry",SYR,1.011625527009422e-07,DOM,2018
+2317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,4.749598405456453e-10,DOM,2018
+2318,COD,Seeds and plant propagation industry,SYR,0.0,DOM,2018
+2319,COD,Raising of cattle industry,SYR,5.247677370803605e-06,DOM,2018
+2320,COD,Growing wheat industry,TCD,1.4490801428947624e-08,DOM,2018
+2321,COD,Growing maize industry,TCD,1.5844177999854269e-07,DOM,2018
+2322,COD,Growing cereals n.e.c industry,TCD,0.0,DOM,2018
+2323,COD,Growing leguminous crops and oil seeds industry,TCD,4.6851979717619003e-08,DOM,2018
+2324,COD,Growing rice industry,TCD,4.384066312569069e-08,DOM,2018
+2325,COD,"Growing vegetables, roots, tubers industry",TCD,1.317323170522958e-07,DOM,2018
+2326,COD,Growing sugar beet and cane industry,TCD,3.269746680274047e-08,DOM,2018
+2327,COD,Growing tobacco industry,TCD,1.025132579666515e-10,DOM,2018
+2328,COD,Growing fibre crops industry,TCD,9.652043979784991e-09,DOM,2018
+2329,COD,Growing crops n.e.c. industry,TCD,7.633897755193836e-08,DOM,2018
+2330,COD,Growing grapes industry,TCD,0.0,DOM,2018
+2331,COD,Growing fruits and nuts industry,TCD,4.417642706150145e-08,DOM,2018
+2332,COD,"Growing beverage crops (coffee, tea etc) industry",TCD,4.301765445463117e-08,DOM,2018
+2333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,2.133184473252905e-10,DOM,2018
+2334,COD,Seeds and plant propagation industry,TCD,0.0,DOM,2018
+2335,COD,Raising of cattle industry,TCD,2.347126878482399e-06,DOM,2018
+2336,COD,Growing wheat industry,TGO,7.080671792954964e-09,DOM,2018
+2337,COD,Growing maize industry,TGO,6.792680555172765e-08,DOM,2018
+2338,COD,Growing cereals n.e.c industry,TGO,0.0,DOM,2018
+2339,COD,Growing leguminous crops and oil seeds industry,TGO,3.1906772591018783e-08,DOM,2018
+2340,COD,Growing rice industry,TGO,2.1218120684235505e-08,DOM,2018
+2341,COD,"Growing vegetables, roots, tubers industry",TGO,6.731329438501877e-08,DOM,2018
+2342,COD,Growing sugar beet and cane industry,TGO,1.450634153574191e-08,DOM,2018
+2343,COD,Growing tobacco industry,TGO,1.065878610738564e-10,DOM,2018
+2344,COD,Growing fibre crops industry,TGO,3.2845680668335756e-09,DOM,2018
+2345,COD,Growing crops n.e.c. industry,TGO,3.123313758907493e-08,DOM,2018
+2346,COD,Growing grapes industry,TGO,0.0,DOM,2018
+2347,COD,Growing fruits and nuts industry,TGO,1.440485971456813e-08,DOM,2018
+2348,COD,"Growing beverage crops (coffee, tea etc) industry",TGO,1.901438286004848e-08,DOM,2018
+2349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,1.6432971087654118e-10,DOM,2018
+2350,COD,Seeds and plant propagation industry,TGO,0.0,DOM,2018
+2351,COD,Raising of cattle industry,TGO,1.0497025315877886e-06,DOM,2018
+2352,COD,Growing wheat industry,THA,1.9058333572287923e-06,DOM,2018
+2353,COD,Growing maize industry,THA,2.9891174779293098e-05,DOM,2018
+2354,COD,Growing cereals n.e.c industry,THA,0.0,DOM,2018
+2355,COD,Growing leguminous crops and oil seeds industry,THA,6.955038731546986e-06,DOM,2018
+2356,COD,Growing rice industry,THA,4.8289509573195785e-06,DOM,2018
+2357,COD,"Growing vegetables, roots, tubers industry",THA,2.7174803011826685e-05,DOM,2018
+2358,COD,Growing sugar beet and cane industry,THA,5.120516654829749e-06,DOM,2018
+2359,COD,Growing tobacco industry,THA,1.2777604431177572e-08,DOM,2018
+2360,COD,Growing fibre crops industry,THA,1.8097200430849243e-06,DOM,2018
+2361,COD,Growing crops n.e.c. industry,THA,1.0810935561299324e-05,DOM,2018
+2362,COD,Growing grapes industry,THA,0.0,DOM,2018
+2363,COD,Growing fruits and nuts industry,THA,8.753774252554813e-06,DOM,2018
+2364,COD,"Growing beverage crops (coffee, tea etc) industry",THA,8.558605368098925e-06,DOM,2018
+2365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,3.941663485936178e-08,DOM,2018
+2366,COD,Seeds and plant propagation industry,THA,0.0,DOM,2018
+2367,COD,Raising of cattle industry,THA,0.0002826755262937609,DOM,2018
+2368,COD,Growing wheat industry,TJK,1.3937130491033573e-08,DOM,2018
+2369,COD,Growing maize industry,TJK,1.482432343983859e-07,DOM,2018
+2370,COD,Growing cereals n.e.c industry,TJK,0.0,DOM,2018
+2371,COD,Growing leguminous crops and oil seeds industry,TJK,4.019679309784716e-08,DOM,2018
+2372,COD,Growing rice industry,TJK,4.4367558723154626e-08,DOM,2018
+2373,COD,"Growing vegetables, roots, tubers industry",TJK,1.2035759802949395e-07,DOM,2018
+2374,COD,Growing sugar beet and cane industry,TJK,3.167777131023953e-08,DOM,2018
+2375,COD,Growing tobacco industry,TJK,7.899976241240028e-11,DOM,2018
+2376,COD,Growing fibre crops industry,TJK,9.066506086590328e-09,DOM,2018
+2377,COD,Growing crops n.e.c. industry,TJK,7.231164608771261e-08,DOM,2018
+2378,COD,Growing grapes industry,TJK,0.0,DOM,2018
+2379,COD,Growing fruits and nuts industry,TJK,4.056679269660277e-08,DOM,2018
+2380,COD,"Growing beverage crops (coffee, tea etc) industry",TJK,3.9592114103715477e-08,DOM,2018
+2381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,1.7592060801261162e-10,DOM,2018
+2382,COD,Seeds and plant propagation industry,TJK,0.0,DOM,2018
+2383,COD,Raising of cattle industry,TJK,2.4346124895680515e-06,DOM,2018
+2384,COD,Growing wheat industry,TKM,1.556480467531338e-08,DOM,2018
+2385,COD,Growing maize industry,TKM,1.76488485995237e-07,DOM,2018
+2386,COD,Growing cereals n.e.c industry,TKM,0.0,DOM,2018
+2387,COD,Growing leguminous crops and oil seeds industry,TKM,4.733239024734756e-08,DOM,2018
+2388,COD,Growing rice industry,TKM,4.864439687027884e-08,DOM,2018
+2389,COD,"Growing vegetables, roots, tubers industry",TKM,1.462027478812951e-07,DOM,2018
+2390,COD,Growing sugar beet and cane industry,TKM,3.6004222132660216e-08,DOM,2018
+2391,COD,Growing tobacco industry,TKM,9.113086673534442e-11,DOM,2018
+2392,COD,Growing fibre crops industry,TKM,1.1064996832438163e-08,DOM,2018
+2393,COD,Growing crops n.e.c. industry,TKM,8.187229734377588e-08,DOM,2018
+2394,COD,Growing grapes industry,TKM,0.0,DOM,2018
+2395,COD,Growing fruits and nuts industry,TKM,4.9412042581356894e-08,DOM,2018
+2396,COD,"Growing beverage crops (coffee, tea etc) industry",TKM,4.7814590686813366e-08,DOM,2018
+2397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,2.1421946009146152e-10,DOM,2018
+2398,COD,Seeds and plant propagation industry,TKM,0.0,DOM,2018
+2399,COD,Raising of cattle industry,TKM,2.704559822821644e-06,DOM,2018
+2400,COD,Growing wheat industry,TUN,5.072453899043461e-08,DOM,2018
+2401,COD,Growing maize industry,TUN,5.663530342135928e-07,DOM,2018
+2402,COD,Growing cereals n.e.c industry,TUN,0.0,DOM,2018
+2403,COD,Growing leguminous crops and oil seeds industry,TUN,1.5849448230627421e-07,DOM,2018
+2404,COD,Growing rice industry,TUN,1.5870883220941568e-07,DOM,2018
+2405,COD,"Growing vegetables, roots, tubers industry",TUN,4.730232399876201e-07,DOM,2018
+2406,COD,Growing sugar beet and cane industry,TUN,1.1701775854735066e-07,DOM,2018
+2407,COD,Growing tobacco industry,TUN,3.232498748348339e-10,DOM,2018
+2408,COD,Growing fibre crops industry,TUN,3.456161249517134e-08,DOM,2018
+2409,COD,Growing crops n.e.c. industry,TUN,2.641239873160042e-07,DOM,2018
+2410,COD,Growing grapes industry,TUN,0.0,DOM,2018
+2411,COD,Growing fruits and nuts industry,TUN,1.5557909433492907e-07,DOM,2018
+2412,COD,"Growing beverage crops (coffee, tea etc) industry",TUN,1.5224547431196792e-07,DOM,2018
+2413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,7.296837650479162e-10,DOM,2018
+2414,COD,Seeds and plant propagation industry,TUN,0.0,DOM,2018
+2415,COD,Raising of cattle industry,TUN,7.803500835670355e-06,DOM,2018
+2416,COD,Growing wheat industry,TUR,5.653109337679144e-07,DOM,2018
+2417,COD,Growing maize industry,TUR,7.472106895127946e-06,DOM,2018
+2418,COD,Growing cereals n.e.c industry,TUR,0.0,DOM,2018
+2419,COD,Growing leguminous crops and oil seeds industry,TUR,1.9162155034943064e-06,DOM,2018
+2420,COD,Growing rice industry,TUR,1.6621339378991646e-06,DOM,2018
+2421,COD,"Growing vegetables, roots, tubers industry",TUR,6.534579916333963e-06,DOM,2018
+2422,COD,Growing sugar beet and cane industry,TUR,1.3596336475175552e-06,DOM,2018
+2423,COD,Growing tobacco industry,TUR,3.768332307210876e-09,DOM,2018
+2424,COD,Growing fibre crops industry,TUR,4.562010139289802e-07,DOM,2018
+2425,COD,Growing crops n.e.c. industry,TUR,2.953510569423022e-06,DOM,2018
+2426,COD,Growing grapes industry,TUR,0.0,DOM,2018
+2427,COD,Growing fruits and nuts industry,TUR,2.054353526470309e-06,DOM,2018
+2428,COD,"Growing beverage crops (coffee, tea etc) industry",TUR,2.049423309829607e-06,DOM,2018
+2429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,9.857437628803495e-09,DOM,2018
+2430,COD,Seeds and plant propagation industry,TUR,0.0,DOM,2018
+2431,COD,Raising of cattle industry,TUR,8.881224479182524e-05,DOM,2018
+2432,COD,Growing wheat industry,TZA,6.273646273447416e-08,DOM,2018
+2433,COD,Growing maize industry,TZA,6.82211271369286e-07,DOM,2018
+2434,COD,Growing cereals n.e.c industry,TZA,0.0,DOM,2018
+2435,COD,Growing leguminous crops and oil seeds industry,TZA,1.9573043908662492e-07,DOM,2018
+2436,COD,Growing rice industry,TZA,1.8791933366837215e-07,DOM,2018
+2437,COD,"Growing vegetables, roots, tubers industry",TZA,5.585195188824804e-07,DOM,2018
+2438,COD,Growing sugar beet and cane industry,TZA,1.366932532306209e-07,DOM,2018
+2439,COD,Growing tobacco industry,TZA,4.004536161510205e-10,DOM,2018
+2440,COD,Growing fibre crops industry,TZA,3.877086955952392e-08,DOM,2018
+2441,COD,Growing crops n.e.c. industry,TZA,3.2163573804235176e-07,DOM,2018
+2442,COD,Growing grapes industry,TZA,0.0,DOM,2018
+2443,COD,Growing fruits and nuts industry,TZA,1.7141569922389481e-07,DOM,2018
+2444,COD,"Growing beverage crops (coffee, tea etc) industry",TZA,1.773244111037528e-07,DOM,2018
+2445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,8.831323877583712e-10,DOM,2018
+2446,COD,Seeds and plant propagation industry,TZA,0.0,DOM,2018
+2447,COD,Raising of cattle industry,TZA,1.0022729984689399e-05,DOM,2018
+2448,COD,Growing wheat industry,UGA,1.1399416517407586e-07,DOM,2018
+2449,COD,Growing maize industry,UGA,9.82956851207234e-07,DOM,2018
+2450,COD,Growing cereals n.e.c industry,UGA,0.0,DOM,2018
+2451,COD,Growing leguminous crops and oil seeds industry,UGA,2.6893870399295193e-07,DOM,2018
+2452,COD,Growing rice industry,UGA,2.6363985420534974e-07,DOM,2018
+2453,COD,"Growing vegetables, roots, tubers industry",UGA,8.414044549348847e-07,DOM,2018
+2454,COD,Growing sugar beet and cane industry,UGA,1.5429671255073167e-07,DOM,2018
+2455,COD,Growing tobacco industry,UGA,4.928877177748719e-10,DOM,2018
+2456,COD,Growing fibre crops industry,UGA,4.035177695868538e-08,DOM,2018
+2457,COD,Growing crops n.e.c. industry,UGA,4.815078363445987e-07,DOM,2018
+2458,COD,Growing grapes industry,UGA,0.0,DOM,2018
+2459,COD,Growing fruits and nuts industry,UGA,1.377876409744605e-07,DOM,2018
+2460,COD,"Growing beverage crops (coffee, tea etc) industry",UGA,2.3804113112731755e-07,DOM,2018
+2461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,1.3837635824688612e-09,DOM,2018
+2462,COD,Seeds and plant propagation industry,UGA,0.0,DOM,2018
+2463,COD,Raising of cattle industry,UGA,1.5850679926054867e-05,DOM,2018
+2464,COD,Growing wheat industry,UKR,1.6222199835289322e-07,DOM,2018
+2465,COD,Growing maize industry,UKR,2.2247386057987404e-06,DOM,2018
+2466,COD,Growing cereals n.e.c industry,UKR,0.0,DOM,2018
+2467,COD,Growing leguminous crops and oil seeds industry,UKR,5.283777973141084e-07,DOM,2018
+2468,COD,Growing rice industry,UKR,4.828994216913681e-07,DOM,2018
+2469,COD,"Growing vegetables, roots, tubers industry",UKR,1.8248029269221467e-06,DOM,2018
+2470,COD,Growing sugar beet and cane industry,UKR,3.97168848882617e-07,DOM,2018
+2471,COD,Growing tobacco industry,UKR,9.699851387743937e-10,DOM,2018
+2472,COD,Growing fibre crops industry,UKR,1.2316209979730302e-07,DOM,2018
+2473,COD,Growing crops n.e.c. industry,UKR,8.50063123424593e-07,DOM,2018
+2474,COD,Growing grapes industry,UKR,0.0,DOM,2018
+2475,COD,Growing fruits and nuts industry,UKR,5.533468119351309e-07,DOM,2018
+2476,COD,"Growing beverage crops (coffee, tea etc) industry",UKR,5.825803826390344e-07,DOM,2018
+2477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,2.663041573138424e-09,DOM,2018
+2478,COD,Seeds and plant propagation industry,UKR,0.0,DOM,2018
+2479,COD,Raising of cattle industry,UKR,2.591550515379033e-05,DOM,2018
+2480,COD,Growing wheat industry,URY,7.772666755006608e-08,DOM,2018
+2481,COD,Growing maize industry,URY,1.2221880150083727e-06,DOM,2018
+2482,COD,Growing cereals n.e.c industry,URY,0.0,DOM,2018
+2483,COD,Growing leguminous crops and oil seeds industry,URY,3.66801499713226e-07,DOM,2018
+2484,COD,Growing rice industry,URY,1.8196702127537232e-07,DOM,2018
+2485,COD,"Growing vegetables, roots, tubers industry",URY,1.1632409073188158e-06,DOM,2018
+2486,COD,Growing sugar beet and cane industry,URY,1.8139005844922632e-07,DOM,2018
+2487,COD,Growing tobacco industry,URY,1.054888449417929e-09,DOM,2018
+2488,COD,Growing fibre crops industry,URY,6.432508830131842e-08,DOM,2018
+2489,COD,Growing crops n.e.c. industry,URY,3.447674139693191e-07,DOM,2018
+2490,COD,Growing grapes industry,URY,0.0,DOM,2018
+2491,COD,Growing fruits and nuts industry,URY,2.9942781902201804e-07,DOM,2018
+2492,COD,"Growing beverage crops (coffee, tea etc) industry",URY,3.349997976807722e-07,DOM,2018
+2493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,2.2598762257170484e-09,DOM,2018
+2494,COD,Seeds and plant propagation industry,URY,0.0,DOM,2018
+2495,COD,Raising of cattle industry,URY,9.615295370450238e-06,DOM,2018
+2496,COD,Growing wheat industry,USA,6.0635391661649806e-05,DOM,2018
+2497,COD,Growing maize industry,USA,0.0011001404442116563,DOM,2018
+2498,COD,Growing cereals n.e.c industry,USA,0.0,DOM,2018
+2499,COD,Growing leguminous crops and oil seeds industry,USA,0.00023333010418040648,DOM,2018
+2500,COD,Growing rice industry,USA,0.0001528473523781424,DOM,2018
+2501,COD,"Growing vegetables, roots, tubers industry",USA,0.0010526612065970054,DOM,2018
+2502,COD,Growing sugar beet and cane industry,USA,0.00015601245690275377,DOM,2018
+2503,COD,Growing tobacco industry,USA,3.9711807755570275e-07,DOM,2018
+2504,COD,Growing fibre crops industry,USA,6.033080386765231e-05,DOM,2018
+2505,COD,Growing crops n.e.c. industry,USA,0.00033329105716923483,DOM,2018
+2506,COD,Growing grapes industry,USA,0.0,DOM,2018
+2507,COD,Growing fruits and nuts industry,USA,0.00026025482020638384,DOM,2018
+2508,COD,"Growing beverage crops (coffee, tea etc) industry",USA,0.0003020447824735516,DOM,2018
+2509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,1.5128355889063906e-06,DOM,2018
+2510,COD,Seeds and plant propagation industry,USA,0.0,DOM,2018
+2511,COD,Raising of cattle industry,USA,0.008518253051094661,DOM,2018
+2512,COD,Growing wheat industry,UZB,6.112290928360213e-08,DOM,2018
+2513,COD,Growing maize industry,UZB,7.865077826373267e-07,DOM,2018
+2514,COD,Growing cereals n.e.c industry,UZB,0.0,DOM,2018
+2515,COD,Growing leguminous crops and oil seeds industry,UZB,1.9478615574586734e-07,DOM,2018
+2516,COD,Growing rice industry,UZB,1.819964914030712e-07,DOM,2018
+2517,COD,"Growing vegetables, roots, tubers industry",UZB,6.535029092429844e-07,DOM,2018
+2518,COD,Growing sugar beet and cane industry,UZB,1.5299891080249132e-07,DOM,2018
+2519,COD,Growing tobacco industry,UZB,3.760524555071046e-10,DOM,2018
+2520,COD,Growing fibre crops industry,UZB,5.093642347960335e-08,DOM,2018
+2521,COD,Growing crops n.e.c. industry,UZB,3.2749717989285317e-07,DOM,2018
+2522,COD,Growing grapes industry,UZB,0.0,DOM,2018
+2523,COD,Growing fruits and nuts industry,UZB,2.4404912490948354e-07,DOM,2018
+2524,COD,"Growing beverage crops (coffee, tea etc) industry",UZB,2.1747125122720273e-07,DOM,2018
+2525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,9.5439419073553e-10,DOM,2018
+2526,COD,Seeds and plant propagation industry,UZB,0.0,DOM,2018
+2527,COD,Raising of cattle industry,UZB,1.01008858962273e-05,DOM,2018
+2528,COD,Growing wheat industry,VEN,1.033887422411679e-06,DOM,2018
+2529,COD,Growing maize industry,VEN,1.5360696629494408e-05,DOM,2018
+2530,COD,Growing cereals n.e.c industry,VEN,0.0,DOM,2018
+2531,COD,Growing leguminous crops and oil seeds industry,VEN,3.4211728354492893e-06,DOM,2018
+2532,COD,Growing rice industry,VEN,2.9746170691581337e-06,DOM,2018
+2533,COD,"Growing vegetables, roots, tubers industry",VEN,1.397726558999142e-05,DOM,2018
+2534,COD,Growing sugar beet and cane industry,VEN,2.280231697097142e-06,DOM,2018
+2535,COD,Growing tobacco industry,VEN,5.523242085764238e-09,DOM,2018
+2536,COD,Growing fibre crops industry,VEN,6.464101661377481e-07,DOM,2018
+2537,COD,Growing crops n.e.c. industry,VEN,4.890314451892359e-06,DOM,2018
+2538,COD,Growing grapes industry,VEN,0.0,DOM,2018
+2539,COD,Growing fruits and nuts industry,VEN,2.4989808454570437e-06,DOM,2018
+2540,COD,"Growing beverage crops (coffee, tea etc) industry",VEN,3.845266741747295e-06,DOM,2018
+2541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,1.978337411864497e-08,DOM,2018
+2542,COD,Seeds and plant propagation industry,VEN,0.0,DOM,2018
+2543,COD,Raising of cattle industry,VEN,0.00016598557876694242,DOM,2018
+2544,COD,Growing wheat industry,VNM,8.994016943118909e-07,DOM,2018
+2545,COD,Growing maize industry,VNM,9.190904598034873e-06,DOM,2018
+2546,COD,Growing cereals n.e.c industry,VNM,0.0,DOM,2018
+2547,COD,Growing leguminous crops and oil seeds industry,VNM,2.772644367099352e-06,DOM,2018
+2548,COD,Growing rice industry,VNM,3.385333903509709e-06,DOM,2018
+2549,COD,"Growing vegetables, roots, tubers industry",VNM,9.035523173000152e-06,DOM,2018
+2550,COD,Growing sugar beet and cane industry,VNM,2.033260866719611e-06,DOM,2018
+2551,COD,Growing tobacco industry,VNM,4.663941182816032e-09,DOM,2018
+2552,COD,Growing fibre crops industry,VNM,5.259223844450757e-07,DOM,2018
+2553,COD,Growing crops n.e.c. industry,VNM,4.409012180158444e-06,DOM,2018
+2554,COD,Growing grapes industry,VNM,0.0,DOM,2018
+2555,COD,Growing fruits and nuts industry,VNM,1.8989488593495335e-06,DOM,2018
+2556,COD,"Growing beverage crops (coffee, tea etc) industry",VNM,2.6108518917648525e-06,DOM,2018
+2557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,1.2862627597495541e-08,DOM,2018
+2558,COD,Seeds and plant propagation industry,VNM,0.0,DOM,2018
+2559,COD,Raising of cattle industry,VNM,0.0001662596510864467,DOM,2018
+2560,COD,Growing wheat industry,YEM,8.237658097809688e-08,DOM,2018
+2561,COD,Growing maize industry,YEM,1.082979344574218e-06,DOM,2018
+2562,COD,Growing cereals n.e.c industry,YEM,0.0,DOM,2018
+2563,COD,Growing leguminous crops and oil seeds industry,YEM,2.6436950897011927e-07,DOM,2018
+2564,COD,Growing rice industry,YEM,2.3608456167061325e-07,DOM,2018
+2565,COD,"Growing vegetables, roots, tubers industry",YEM,6.500400053354888e-07,DOM,2018
+2566,COD,Growing sugar beet and cane industry,YEM,1.8519707510346615e-07,DOM,2018
+2567,COD,Growing tobacco industry,YEM,4.438538582267929e-10,DOM,2018
+2568,COD,Growing fibre crops industry,YEM,4.116944795796596e-08,DOM,2018
+2569,COD,Growing crops n.e.c. industry,YEM,4.1320383056495117e-07,DOM,2018
+2570,COD,Growing grapes industry,YEM,0.0,DOM,2018
+2571,COD,Growing fruits and nuts industry,YEM,1.6365122321434484e-07,DOM,2018
+2572,COD,"Growing beverage crops (coffee, tea etc) industry",YEM,2.0234435421304884e-07,DOM,2018
+2573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,9.867181184402405e-10,DOM,2018
+2574,COD,Seeds and plant propagation industry,YEM,0.0,DOM,2018
+2575,COD,Raising of cattle industry,YEM,1.429849187881116e-05,DOM,2018
+2576,COD,Growing wheat industry,ZAF,3.560643071055917e-07,DOM,2018
+2577,COD,Growing maize industry,ZAF,4.841046434983892e-06,DOM,2018
+2578,COD,Growing cereals n.e.c industry,ZAF,0.0,DOM,2018
+2579,COD,Growing leguminous crops and oil seeds industry,ZAF,1.2944917507015696e-06,DOM,2018
+2580,COD,Growing rice industry,ZAF,9.95466326617728e-07,DOM,2018
+2581,COD,"Growing vegetables, roots, tubers industry",ZAF,4.2522050403340454e-06,DOM,2018
+2582,COD,Growing sugar beet and cane industry,ZAF,8.718609262741345e-07,DOM,2018
+2583,COD,Growing tobacco industry,ZAF,2.8064263206905266e-09,DOM,2018
+2584,COD,Growing fibre crops industry,ZAF,3.017848806570237e-07,DOM,2018
+2585,COD,Growing crops n.e.c. industry,ZAF,1.8812499476694107e-06,DOM,2018
+2586,COD,Growing grapes industry,ZAF,0.0,DOM,2018
+2587,COD,Growing fruits and nuts industry,ZAF,1.3999568623172788e-06,DOM,2018
+2588,COD,"Growing beverage crops (coffee, tea etc) industry",ZAF,1.3539119665412575e-06,DOM,2018
+2589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,6.771141134446873e-09,DOM,2018
+2590,COD,Seeds and plant propagation industry,ZAF,0.0,DOM,2018
+2591,COD,Raising of cattle industry,ZAF,5.515164849417945e-05,DOM,2018
+2592,COD,Growing wheat industry,ZMB,2.9728630287726864e-08,DOM,2018
+2593,COD,Growing maize industry,ZMB,3.0058914736631364e-07,DOM,2018
+2594,COD,Growing cereals n.e.c industry,ZMB,0.0,DOM,2018
+2595,COD,Growing leguminous crops and oil seeds industry,ZMB,8.877155035341984e-08,DOM,2018
+2596,COD,Growing rice industry,ZMB,9.270721255858613e-08,DOM,2018
+2597,COD,"Growing vegetables, roots, tubers industry",ZMB,2.361945963481372e-07,DOM,2018
+2598,COD,Growing sugar beet and cane industry,ZMB,6.35496331134532e-08,DOM,2018
+2599,COD,Growing tobacco industry,ZMB,1.9004738511930526e-10,DOM,2018
+2600,COD,Growing fibre crops industry,ZMB,1.714575549551992e-08,DOM,2018
+2601,COD,Growing crops n.e.c. industry,ZMB,1.5226976567336363e-07,DOM,2018
+2602,COD,Growing grapes industry,ZMB,0.0,DOM,2018
+2603,COD,Growing fruits and nuts industry,ZMB,7.253053633034498e-08,DOM,2018
+2604,COD,"Growing beverage crops (coffee, tea etc) industry",ZMB,7.588348786602123e-08,DOM,2018
+2605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,3.8169578009341946e-10,DOM,2018
+2606,COD,Seeds and plant propagation industry,ZMB,0.0,DOM,2018
+2607,COD,Raising of cattle industry,ZMB,5.3177079829546835e-06,DOM,2018
+2608,COD,Growing wheat industry,ZWE,2.5862913902464924e-08,DOM,2018
+2609,COD,Growing maize industry,ZWE,3.2228417766784097e-07,DOM,2018
+2610,COD,Growing cereals n.e.c industry,ZWE,0.0,DOM,2018
+2611,COD,Growing leguminous crops and oil seeds industry,ZWE,8.368522216313807e-08,DOM,2018
+2612,COD,Growing rice industry,ZWE,7.573961054697876e-08,DOM,2018
+2613,COD,"Growing vegetables, roots, tubers industry",ZWE,2.657944394837796e-07,DOM,2018
+2614,COD,Growing sugar beet and cane industry,ZWE,6.268962324037437e-08,DOM,2018
+2615,COD,Growing tobacco industry,ZWE,1.7408538121027534e-10,DOM,2018
+2616,COD,Growing fibre crops industry,ZWE,2.0590689753428675e-08,DOM,2018
+2617,COD,Growing crops n.e.c. industry,ZWE,1.3946139329290873e-07,DOM,2018
+2618,COD,Growing grapes industry,ZWE,0.0,DOM,2018
+2619,COD,Growing fruits and nuts industry,ZWE,9.685583082375253e-08,DOM,2018
+2620,COD,"Growing beverage crops (coffee, tea etc) industry",ZWE,8.824224986528625e-08,DOM,2018
+2621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,4.0383518808347986e-10,DOM,2018
+2622,COD,Seeds and plant propagation industry,ZWE,0.0,DOM,2018
+2623,COD,Raising of cattle industry,ZWE,4.3430124629073445e-06,DOM,2018

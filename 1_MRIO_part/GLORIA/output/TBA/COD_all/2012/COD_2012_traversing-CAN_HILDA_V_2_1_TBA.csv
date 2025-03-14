@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,COD,Growing wheat industry,XAM,5.711433559726562e-06,CAN,2012
+1,COD,Growing maize industry,XAM,0.0017514074838893066,CAN,2012
+2,COD,Growing cereals n.e.c industry,XAM,1.3261162198275446e-06,CAN,2012
+3,COD,Growing leguminous crops and oil seeds industry,XAM,0.011822418691123068,CAN,2012
+4,COD,Growing rice industry,XAM,0.00018432295052921944,CAN,2012
+5,COD,"Growing vegetables, roots, tubers industry",XAM,0.004864012500866144,CAN,2012
+6,COD,Growing sugar beet and cane industry,XAM,0.0,CAN,2012
+7,COD,Growing tobacco industry,XAM,9.014837002630522e-07,CAN,2012
+8,COD,Growing fibre crops industry,XAM,0.00046942052314540483,CAN,2012
+9,COD,Growing crops n.e.c. industry,XAM,4.145292317091042e-07,CAN,2012
+10,COD,Growing grapes industry,XAM,0.0,CAN,2012
+11,COD,Growing fruits and nuts industry,XAM,0.005734468576540311,CAN,2012
+12,COD,"Growing beverage crops (coffee, tea etc) industry",XAM,2.4903093225531904e-05,CAN,2012
+13,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,2.2750844813514513e-06,CAN,2012
+14,COD,Seeds and plant propagation industry,XAM,0.0,CAN,2012
+15,COD,Raising of cattle industry,XAM,0.001846310573149156,CAN,2012
+16,COD,Growing wheat industry,XEU,1.568236208674401e-07,CAN,2012
+17,COD,Growing maize industry,XEU,3.2741693517652516e-05,CAN,2012
+18,COD,Growing cereals n.e.c industry,XEU,3.370452186730126e-08,CAN,2012
+19,COD,Growing leguminous crops and oil seeds industry,XEU,8.731974080016017e-05,CAN,2012
+20,COD,Growing rice industry,XEU,4.832978390753301e-06,CAN,2012
+21,COD,"Growing vegetables, roots, tubers industry",XEU,4.2712605378602676e-05,CAN,2012
+22,COD,Growing sugar beet and cane industry,XEU,0.0,CAN,2012
+23,COD,Growing tobacco industry,XEU,2.816316169560839e-08,CAN,2012
+24,COD,Growing fibre crops industry,XEU,4.70279450952674e-06,CAN,2012
+25,COD,Growing crops n.e.c. industry,XEU,1.2110970715894888e-08,CAN,2012
+26,COD,Growing grapes industry,XEU,0.0,CAN,2012
+27,COD,Growing fruits and nuts industry,XEU,5.615724301425488e-05,CAN,2012
+28,COD,"Growing beverage crops (coffee, tea etc) industry",XEU,2.895371032731977e-07,CAN,2012
+29,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,4.047883687004972e-08,CAN,2012
+30,COD,Seeds and plant propagation industry,XEU,0.0,CAN,2012
+31,COD,Raising of cattle industry,XEU,5.369323945918145e-05,CAN,2012
+32,COD,Growing wheat industry,XAF,1.332031835950457e-07,CAN,2012
+33,COD,Growing maize industry,XAF,2.698575183372406e-05,CAN,2012
+34,COD,Growing cereals n.e.c industry,XAF,2.9274185539106223e-08,CAN,2012
+35,COD,Growing leguminous crops and oil seeds industry,XAF,7.526135177166382e-05,CAN,2012
+36,COD,Growing rice industry,XAF,3.959118056822312e-06,CAN,2012
+37,COD,"Growing vegetables, roots, tubers industry",XAF,3.542550079661098e-05,CAN,2012
+38,COD,Growing sugar beet and cane industry,XAF,0.0,CAN,2012
+39,COD,Growing tobacco industry,XAF,2.0042936817525852e-08,CAN,2012
+40,COD,Growing fibre crops industry,XAF,4.572481183567938e-06,CAN,2012
+41,COD,Growing crops n.e.c. industry,XAF,1.0639959977988617e-08,CAN,2012
+42,COD,Growing grapes industry,XAF,0.0,CAN,2012
+43,COD,Growing fruits and nuts industry,XAF,5.278596601356152e-05,CAN,2012
+44,COD,"Growing beverage crops (coffee, tea etc) industry",XAF,2.479674723858028e-07,CAN,2012
+45,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,3.336782742571894e-08,CAN,2012
+46,COD,Seeds and plant propagation industry,XAF,0.0,CAN,2012
+47,COD,Raising of cattle industry,XAF,4.3603513590296474e-05,CAN,2012
+48,COD,Growing wheat industry,XAS,3.016324671362361e-07,CAN,2012
+49,COD,Growing maize industry,XAS,6.974544710580413e-05,CAN,2012
+50,COD,Growing cereals n.e.c industry,XAS,6.931802249154641e-08,CAN,2012
+51,COD,Growing leguminous crops and oil seeds industry,XAS,0.00018157141850774574,CAN,2012
+52,COD,Growing rice industry,XAS,8.978082170662657e-06,CAN,2012
+53,COD,"Growing vegetables, roots, tubers industry",XAS,8.339491371325082e-05,CAN,2012
+54,COD,Growing sugar beet and cane industry,XAS,0.0,CAN,2012
+55,COD,Growing tobacco industry,XAS,4.5042687558375016e-08,CAN,2012
+56,COD,Growing fibre crops industry,XAS,9.649109891243354e-06,CAN,2012
+57,COD,Growing crops n.e.c. industry,XAS,2.3717298676788684e-08,CAN,2012
+58,COD,Growing grapes industry,XAS,0.0,CAN,2012
+59,COD,Growing fruits and nuts industry,XAS,0.00012071093160549826,CAN,2012
+60,COD,"Growing beverage crops (coffee, tea etc) industry",XAS,5.660625532091882e-07,CAN,2012
+61,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,7.134407043306969e-08,CAN,2012
+62,COD,Seeds and plant propagation industry,XAS,0.0,CAN,2012
+63,COD,Raising of cattle industry,XAS,9.953222969869165e-05,CAN,2012
+64,COD,Growing wheat industry,AFG,1.4080532400004387e-07,CAN,2012
+65,COD,Growing maize industry,AFG,2.180157705219756e-05,CAN,2012
+66,COD,Growing cereals n.e.c industry,AFG,3.043441476602415e-08,CAN,2012
+67,COD,Growing leguminous crops and oil seeds industry,AFG,4.748649954504039e-05,CAN,2012
+68,COD,Growing rice industry,AFG,4.116759737411575e-06,CAN,2012
+69,COD,"Growing vegetables, roots, tubers industry",AFG,2.2118192307322787e-05,CAN,2012
+70,COD,Growing sugar beet and cane industry,AFG,0.0,CAN,2012
+71,COD,Growing tobacco industry,AFG,2.67499191683424e-08,CAN,2012
+72,COD,Growing fibre crops industry,AFG,3.807881266755925e-06,CAN,2012
+73,COD,Growing crops n.e.c. industry,AFG,1.1878674366447548e-08,CAN,2012
+74,COD,Growing grapes industry,AFG,0.0,CAN,2012
+75,COD,Growing fruits and nuts industry,AFG,3.399030832435292e-05,CAN,2012
+76,COD,"Growing beverage crops (coffee, tea etc) industry",AFG,1.8021221096046267e-07,CAN,2012
+77,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,2.1927797831556667e-08,CAN,2012
+78,COD,Seeds and plant propagation industry,AFG,0.0,CAN,2012
+79,COD,Raising of cattle industry,AFG,5.134191937856426e-05,CAN,2012
+80,COD,Growing wheat industry,AGO,1.1588769273809735e-06,CAN,2012
+81,COD,Growing maize industry,AGO,0.00021290648941140735,CAN,2012
+82,COD,Growing cereals n.e.c industry,AGO,2.715578147267153e-07,CAN,2012
+83,COD,Growing leguminous crops and oil seeds industry,AGO,0.0005049839036065861,CAN,2012
+84,COD,Growing rice industry,AGO,3.370694657345261e-05,CAN,2012
+85,COD,"Growing vegetables, roots, tubers industry",AGO,0.0002320639372213727,CAN,2012
+86,COD,Growing sugar beet and cane industry,AGO,0.0,CAN,2012
+87,COD,Growing tobacco industry,AGO,2.051101108284388e-07,CAN,2012
+88,COD,Growing fibre crops industry,AGO,3.7826654945724716e-05,CAN,2012
+89,COD,Growing crops n.e.c. industry,AGO,1.0074837679190419e-07,CAN,2012
+90,COD,Growing grapes industry,AGO,0.0,CAN,2012
+91,COD,Growing fruits and nuts industry,AGO,0.0003656111315655678,CAN,2012
+92,COD,"Growing beverage crops (coffee, tea etc) industry",AGO,1.8120138933958493e-06,CAN,2012
+93,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,2.176864354634021e-07,CAN,2012
+94,COD,Seeds and plant propagation industry,AGO,0.0,CAN,2012
+95,COD,Raising of cattle industry,AGO,0.000396875607423052,CAN,2012
+96,COD,Growing wheat industry,ALB,1.2070630597513696e-07,CAN,2012
+97,COD,Growing maize industry,ALB,2.6697104872358785e-05,CAN,2012
+98,COD,Growing cereals n.e.c industry,ALB,2.7770692407786627e-08,CAN,2012
+99,COD,Growing leguminous crops and oil seeds industry,ALB,8.016353663535793e-05,CAN,2012
+100,COD,Growing rice industry,ALB,3.605429616273425e-06,CAN,2012
+101,COD,"Growing vegetables, roots, tubers industry",ALB,3.454148534336281e-05,CAN,2012
+102,COD,Growing sugar beet and cane industry,ALB,0.0,CAN,2012
+103,COD,Growing tobacco industry,ALB,1.7912796046084665e-08,CAN,2012
+104,COD,Growing fibre crops industry,ALB,4.025443426706615e-06,CAN,2012
+105,COD,Growing crops n.e.c. industry,ALB,1.0117890404577594e-08,CAN,2012
+106,COD,Growing grapes industry,ALB,0.0,CAN,2012
+107,COD,Growing fruits and nuts industry,ALB,4.7571651736874025e-05,CAN,2012
+108,COD,"Growing beverage crops (coffee, tea etc) industry",ALB,2.1922596837860623e-07,CAN,2012
+109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,2.344303532423983e-08,CAN,2012
+110,COD,Seeds and plant propagation industry,ALB,0.0,CAN,2012
+111,COD,Raising of cattle industry,ALB,4.0761333158768766e-05,CAN,2012
+112,COD,Growing wheat industry,ARE,1.6002194930745199e-06,CAN,2012
+113,COD,Growing maize industry,ARE,0.0004959779303200572,CAN,2012
+114,COD,Growing cereals n.e.c industry,ARE,3.805789781132542e-07,CAN,2012
+115,COD,Growing leguminous crops and oil seeds industry,ARE,0.0007692070719717028,CAN,2012
+116,COD,Growing rice industry,ARE,4.791628859535397e-05,CAN,2012
+117,COD,"Growing vegetables, roots, tubers industry",ARE,0.00038596576021888095,CAN,2012
+118,COD,Growing sugar beet and cane industry,ARE,0.0,CAN,2012
+119,COD,Growing tobacco industry,ARE,2.5372008545674623e-07,CAN,2012
+120,COD,Growing fibre crops industry,ARE,5.651240478586769e-05,CAN,2012
+121,COD,Growing crops n.e.c. industry,ARE,1.259072351643289e-07,CAN,2012
+122,COD,Growing grapes industry,ARE,0.0,CAN,2012
+123,COD,Growing fruits and nuts industry,ARE,0.0006749787103950771,CAN,2012
+124,COD,"Growing beverage crops (coffee, tea etc) industry",ARE,2.808353705698125e-06,CAN,2012
+125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,4.137867151096561e-07,CAN,2012
+126,COD,Seeds and plant propagation industry,ARE,0.0,CAN,2012
+127,COD,Raising of cattle industry,ARE,0.0005334990161328186,CAN,2012
+128,COD,Growing wheat industry,ARG,1.9585392120292043e-06,CAN,2012
+129,COD,Growing maize industry,ARG,0.0004432648258906756,CAN,2012
+130,COD,Growing cereals n.e.c industry,ARG,4.48994581764064e-07,CAN,2012
+131,COD,Growing leguminous crops and oil seeds industry,ARG,0.0014442990375332424,CAN,2012
+132,COD,Growing rice industry,ARG,5.766586815788429e-05,CAN,2012
+133,COD,"Growing vegetables, roots, tubers industry",ARG,0.0006366802753098854,CAN,2012
+134,COD,Growing sugar beet and cane industry,ARG,0.0,CAN,2012
+135,COD,Growing tobacco industry,ARG,3.2095604576751083e-07,CAN,2012
+136,COD,Growing fibre crops industry,ARG,8.711647246078487e-05,CAN,2012
+137,COD,Growing crops n.e.c. industry,ARG,1.5940777914830804e-07,CAN,2012
+138,COD,Growing grapes industry,ARG,0.0,CAN,2012
+139,COD,Growing fruits and nuts industry,ARG,0.0009173356902076302,CAN,2012
+140,COD,"Growing beverage crops (coffee, tea etc) industry",ARG,4.103809630719139e-06,CAN,2012
+141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,4.6890836130445897e-07,CAN,2012
+142,COD,Seeds and plant propagation industry,ARG,0.0,CAN,2012
+143,COD,Raising of cattle industry,ARG,0.0006348915367612809,CAN,2012
+144,COD,Growing wheat industry,ARM,1.215813198611819e-07,CAN,2012
+145,COD,Growing maize industry,ARM,4.143349622571019e-05,CAN,2012
+146,COD,Growing cereals n.e.c industry,ARM,2.8915156960538404e-08,CAN,2012
+147,COD,Growing leguminous crops and oil seeds industry,ARM,4.1210275538134416e-05,CAN,2012
+148,COD,Growing rice industry,ARM,3.76390525375568e-06,CAN,2012
+149,COD,"Growing vegetables, roots, tubers industry",ARM,1.997929376057045e-05,CAN,2012
+150,COD,Growing sugar beet and cane industry,ARM,0.0,CAN,2012
+151,COD,Growing tobacco industry,ARM,1.9501668700679062e-08,CAN,2012
+152,COD,Growing fibre crops industry,ARM,3.3663927505593643e-06,CAN,2012
+153,COD,Growing crops n.e.c. industry,ARM,9.102311987515245e-09,CAN,2012
+154,COD,Growing grapes industry,ARM,0.0,CAN,2012
+155,COD,Growing fruits and nuts industry,ARM,3.350551797852026e-05,CAN,2012
+156,COD,"Growing beverage crops (coffee, tea etc) industry",ARM,1.667729879710108e-07,CAN,2012
+157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,2.099097560707444e-08,CAN,2012
+158,COD,Seeds and plant propagation industry,ARM,0.0,CAN,2012
+159,COD,Raising of cattle industry,ARM,4.406592643910774e-05,CAN,2012
+160,COD,Growing wheat industry,AUS,1.1841816933107884e-05,CAN,2012
+161,COD,Growing maize industry,AUS,0.005911421124421695,CAN,2012
+162,COD,Growing cereals n.e.c industry,AUS,3.2897173284942613e-06,CAN,2012
+163,COD,Growing leguminous crops and oil seeds industry,AUS,0.013290430741113244,CAN,2012
+164,COD,Growing rice industry,AUS,0.00036590874112631767,CAN,2012
+165,COD,"Growing vegetables, roots, tubers industry",AUS,0.005656185517295225,CAN,2012
+166,COD,Growing sugar beet and cane industry,AUS,0.0,CAN,2012
+167,COD,Growing tobacco industry,AUS,1.840577983053813e-06,CAN,2012
+168,COD,Growing fibre crops industry,AUS,0.000716366407689669,CAN,2012
+169,COD,Growing crops n.e.c. industry,AUS,9.325550231539754e-07,CAN,2012
+170,COD,Growing grapes industry,AUS,0.0,CAN,2012
+171,COD,Growing fruits and nuts industry,AUS,0.00792798400813329,CAN,2012
+172,COD,"Growing beverage crops (coffee, tea etc) industry",AUS,3.2820791398840186e-05,CAN,2012
+173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,3.451136529074764e-06,CAN,2012
+174,COD,Seeds and plant propagation industry,AUS,0.0,CAN,2012
+175,COD,Raising of cattle industry,AUS,0.003740852929673354,CAN,2012
+176,COD,Growing wheat industry,AUT,1.7328382322319953e-06,CAN,2012
+177,COD,Growing maize industry,AUT,0.00035555756832547836,CAN,2012
+178,COD,Growing cereals n.e.c industry,AUT,3.90952437578904e-07,CAN,2012
+179,COD,Growing leguminous crops and oil seeds industry,AUT,0.001297272977036602,CAN,2012
+180,COD,Growing rice industry,AUT,5.3253646870974395e-05,CAN,2012
+181,COD,"Growing vegetables, roots, tubers industry",AUT,0.0005654813585493099,CAN,2012
+182,COD,Growing sugar beet and cane industry,AUT,0.0,CAN,2012
+183,COD,Growing tobacco industry,AUT,2.710729559591284e-07,CAN,2012
+184,COD,Growing fibre crops industry,AUT,7.217740749952537e-05,CAN,2012
+185,COD,Growing crops n.e.c. industry,AUT,1.3516371881641844e-07,CAN,2012
+186,COD,Growing grapes industry,AUT,0.0,CAN,2012
+187,COD,Growing fruits and nuts industry,AUT,0.0008221070248771477,CAN,2012
+188,COD,"Growing beverage crops (coffee, tea etc) industry",AUT,3.6633747532900408e-06,CAN,2012
+189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,4.1666583630459603e-07,CAN,2012
+190,COD,Seeds and plant propagation industry,AUT,0.0,CAN,2012
+191,COD,Raising of cattle industry,AUT,0.0005725468750658814,CAN,2012
+192,COD,Growing wheat industry,AZE,1.3397882377320283e-07,CAN,2012
+193,COD,Growing maize industry,AZE,2.9023581742278725e-05,CAN,2012
+194,COD,Growing cereals n.e.c industry,AZE,2.9702383060536396e-08,CAN,2012
+195,COD,Growing leguminous crops and oil seeds industry,AZE,6.315129259508078e-05,CAN,2012
+196,COD,Growing rice industry,AZE,4.084229496742102e-06,CAN,2012
+197,COD,"Growing vegetables, roots, tubers industry",AZE,2.9616552844484407e-05,CAN,2012
+198,COD,Growing sugar beet and cane industry,AZE,0.0,CAN,2012
+199,COD,Growing tobacco industry,AZE,2.118919259841893e-08,CAN,2012
+200,COD,Growing fibre crops industry,AZE,4.314431086761476e-06,CAN,2012
+201,COD,Growing crops n.e.c. industry,AZE,1.0574975514099236e-08,CAN,2012
+202,COD,Growing grapes industry,AZE,0.0,CAN,2012
+203,COD,Growing fruits and nuts industry,AZE,4.848501572986991e-05,CAN,2012
+204,COD,"Growing beverage crops (coffee, tea etc) industry",AZE,2.299407935676026e-07,CAN,2012
+205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,2.8311412666626517e-08,CAN,2012
+206,COD,Seeds and plant propagation industry,AZE,0.0,CAN,2012
+207,COD,Raising of cattle industry,AZE,4.5677944516041744e-05,CAN,2012
+208,COD,Growing wheat industry,BDI,7.90906725183337e-09,CAN,2012
+209,COD,Growing maize industry,BDI,1.6356410951489806e-06,CAN,2012
+210,COD,Growing cereals n.e.c industry,BDI,1.7359987698797975e-09,CAN,2012
+211,COD,Growing leguminous crops and oil seeds industry,BDI,3.736753315598835e-06,CAN,2012
+212,COD,Growing rice industry,BDI,2.29600177410281e-07,CAN,2012
+213,COD,"Growing vegetables, roots, tubers industry",BDI,1.8511855045117276e-06,CAN,2012
+214,COD,Growing sugar beet and cane industry,BDI,0.0,CAN,2012
+215,COD,Growing tobacco industry,BDI,1.2384117843675684e-09,CAN,2012
+216,COD,Growing fibre crops industry,BDI,2.610046511107292e-07,CAN,2012
+217,COD,Growing crops n.e.c. industry,BDI,6.121124384288489e-10,CAN,2012
+218,COD,Growing grapes industry,BDI,0.0,CAN,2012
+219,COD,Growing fruits and nuts industry,BDI,2.755686139501039e-06,CAN,2012
+220,COD,"Growing beverage crops (coffee, tea etc) industry",BDI,1.3770742489057638e-08,CAN,2012
+221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,2.0100853663897283e-09,CAN,2012
+222,COD,Seeds and plant propagation industry,BDI,0.0,CAN,2012
+223,COD,Raising of cattle industry,BDI,2.614071884055813e-06,CAN,2012
+224,COD,Growing wheat industry,BEL,3.0761489501877266e-06,CAN,2012
+225,COD,Growing maize industry,BEL,0.0006890283096593062,CAN,2012
+226,COD,Growing cereals n.e.c industry,BEL,6.83078050888276e-07,CAN,2012
+227,COD,Growing leguminous crops and oil seeds industry,BEL,0.002484200154617998,CAN,2012
+228,COD,Growing rice industry,BEL,9.439495100457563e-05,CAN,2012
+229,COD,"Growing vegetables, roots, tubers industry",BEL,0.0010915645907189845,CAN,2012
+230,COD,Growing sugar beet and cane industry,BEL,0.0,CAN,2012
+231,COD,Growing tobacco industry,BEL,4.7028703440858217e-07,CAN,2012
+232,COD,Growing fibre crops industry,BEL,0.00013692244465050306,CAN,2012
+233,COD,Growing crops n.e.c. industry,BEL,2.2757893034528696e-07,CAN,2012
+234,COD,Growing grapes industry,BEL,0.0,CAN,2012
+235,COD,Growing fruits and nuts industry,BEL,0.0015334189229408404,CAN,2012
+236,COD,"Growing beverage crops (coffee, tea etc) industry",BEL,6.893387013696482e-06,CAN,2012
+237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,7.845441356627405e-07,CAN,2012
+238,COD,Seeds and plant propagation industry,BEL,0.0,CAN,2012
+239,COD,Raising of cattle industry,BEL,0.0009804879995307064,CAN,2012
+240,COD,Growing wheat industry,BEN,6.801263509647842e-08,CAN,2012
+241,COD,Growing maize industry,BEN,1.2992811233194864e-05,CAN,2012
+242,COD,Growing cereals n.e.c industry,BEN,1.5288533230699547e-08,CAN,2012
+243,COD,Growing leguminous crops and oil seeds industry,BEN,2.606616498637276e-05,CAN,2012
+244,COD,Growing rice industry,BEN,1.9775761884479076e-06,CAN,2012
+245,COD,"Growing vegetables, roots, tubers industry",BEN,1.2309384133917016e-05,CAN,2012
+246,COD,Growing sugar beet and cane industry,BEN,0.0,CAN,2012
+247,COD,Growing tobacco industry,BEN,1.1486292959979224e-08,CAN,2012
+248,COD,Growing fibre crops industry,BEN,2.17323631458099e-06,CAN,2012
+249,COD,Growing crops n.e.c. industry,BEN,5.623369854143008e-09,CAN,2012
+250,COD,Growing grapes industry,BEN,0.0,CAN,2012
+251,COD,Growing fruits and nuts industry,BEN,1.979735021706629e-05,CAN,2012
+252,COD,"Growing beverage crops (coffee, tea etc) industry",BEN,9.668865394214253e-08,CAN,2012
+253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,1.2186277831679325e-08,CAN,2012
+254,COD,Seeds and plant propagation industry,BEN,0.0,CAN,2012
+255,COD,Raising of cattle industry,BEN,2.3414416004984163e-05,CAN,2012
+256,COD,Growing wheat industry,BFA,2.668863003309319e-07,CAN,2012
+257,COD,Growing maize industry,BFA,3.996672145789983e-05,CAN,2012
+258,COD,Growing cereals n.e.c industry,BFA,5.8403639780818514e-08,CAN,2012
+259,COD,Growing leguminous crops and oil seeds industry,BFA,0.00015017648111931121,CAN,2012
+260,COD,Growing rice industry,BFA,7.949228699807156e-06,CAN,2012
+261,COD,"Growing vegetables, roots, tubers industry",BFA,6.442878302867453e-05,CAN,2012
+262,COD,Growing sugar beet and cane industry,BFA,0.0,CAN,2012
+263,COD,Growing tobacco industry,BFA,4.106745779664819e-08,CAN,2012
+264,COD,Growing fibre crops industry,BFA,8.13581865390385e-06,CAN,2012
+265,COD,Growing crops n.e.c. industry,BFA,2.3079318333968058e-08,CAN,2012
+266,COD,Growing grapes industry,BFA,0.0,CAN,2012
+267,COD,Growing fruits and nuts industry,BFA,8.623318126436663e-05,CAN,2012
+268,COD,"Growing beverage crops (coffee, tea etc) industry",BFA,4.3201866870315753e-07,CAN,2012
+269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,4.5091000306326914e-08,CAN,2012
+270,COD,Seeds and plant propagation industry,BFA,0.0,CAN,2012
+271,COD,Raising of cattle industry,BFA,9.516846889810737e-05,CAN,2012
+272,COD,Growing wheat industry,BGD,1.1104689258112003e-06,CAN,2012
+273,COD,Growing maize industry,BGD,0.00024857274056868647,CAN,2012
+274,COD,Growing cereals n.e.c industry,BGD,2.4377757285703626e-07,CAN,2012
+275,COD,Growing leguminous crops and oil seeds industry,BGD,0.00032160404773495804,CAN,2012
+276,COD,Growing rice industry,BGD,3.2186504697281864e-05,CAN,2012
+277,COD,"Growing vegetables, roots, tubers industry",BGD,0.0001598197079507504,CAN,2012
+278,COD,Growing sugar beet and cane industry,BGD,0.0,CAN,2012
+279,COD,Growing tobacco industry,BGD,1.9110658031825678e-07,CAN,2012
+280,COD,Growing fibre crops industry,BGD,2.9299964069840962e-05,CAN,2012
+281,COD,Growing crops n.e.c. industry,BGD,8.180429967979711e-08,CAN,2012
+282,COD,Growing grapes industry,BGD,0.0,CAN,2012
+283,COD,Growing fruits and nuts industry,BGD,0.0002641795859217295,CAN,2012
+284,COD,"Growing beverage crops (coffee, tea etc) industry",BGD,1.2878821114522273e-06,CAN,2012
+285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,1.75424875150002e-07,CAN,2012
+286,COD,Seeds and plant propagation industry,BGD,0.0,CAN,2012
+287,COD,Raising of cattle industry,BGD,0.0004023878110819753,CAN,2012
+288,COD,Growing wheat industry,BGR,2.025412802680298e-07,CAN,2012
+289,COD,Growing maize industry,BGR,5.399385506865524e-05,CAN,2012
+290,COD,Growing cereals n.e.c industry,BGR,4.59913898052454e-08,CAN,2012
+291,COD,Growing leguminous crops and oil seeds industry,BGR,0.00020742509334935292,CAN,2012
+292,COD,Growing rice industry,BGR,6.4134243339568105e-06,CAN,2012
+293,COD,"Growing vegetables, roots, tubers industry",BGR,8.884749524858263e-05,CAN,2012
+294,COD,Growing sugar beet and cane industry,BGR,0.0,CAN,2012
+295,COD,Growing tobacco industry,BGR,3.1111691263759705e-08,CAN,2012
+296,COD,Growing fibre crops industry,BGR,1.0958825086924316e-05,CAN,2012
+297,COD,Growing crops n.e.c. industry,BGR,1.4816804741675331e-08,CAN,2012
+298,COD,Growing grapes industry,BGR,0.0,CAN,2012
+299,COD,Growing fruits and nuts industry,BGR,0.00011710390691585149,CAN,2012
+300,COD,"Growing beverage crops (coffee, tea etc) industry",BGR,5.300504672550684e-07,CAN,2012
+301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,5.856688521949572e-08,CAN,2012
+302,COD,Seeds and plant propagation industry,BGR,0.0,CAN,2012
+303,COD,Raising of cattle industry,BGR,6.401767090501235e-05,CAN,2012
+304,COD,Growing wheat industry,BHR,3.5405650563165895e-07,CAN,2012
+305,COD,Growing maize industry,BHR,8.064805443547419e-05,CAN,2012
+306,COD,Growing cereals n.e.c industry,BHR,8.245682827814437e-08,CAN,2012
+307,COD,Growing leguminous crops and oil seeds industry,BHR,0.00013880627396976338,CAN,2012
+308,COD,Growing rice industry,BHR,1.0552025414880387e-05,CAN,2012
+309,COD,"Growing vegetables, roots, tubers industry",BHR,6.604622474098567e-05,CAN,2012
+310,COD,Growing sugar beet and cane industry,BHR,0.0,CAN,2012
+311,COD,Growing tobacco industry,BHR,6.17324697281161e-08,CAN,2012
+312,COD,Growing fibre crops industry,BHR,1.1882992920460898e-05,CAN,2012
+313,COD,Growing crops n.e.c. industry,BHR,3.0520538409149654e-08,CAN,2012
+314,COD,Growing grapes industry,BHR,0.0,CAN,2012
+315,COD,Growing fruits and nuts industry,BHR,0.00015984758078532298,CAN,2012
+316,COD,"Growing beverage crops (coffee, tea etc) industry",BHR,6.586470049915344e-07,CAN,2012
+317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,6.807654982373613e-08,CAN,2012
+318,COD,Seeds and plant propagation industry,BHR,0.0,CAN,2012
+319,COD,Raising of cattle industry,BHR,0.00011913577042913254,CAN,2012
+320,COD,Growing wheat industry,BHS,2.415338300150986e-07,CAN,2012
+321,COD,Growing maize industry,BHS,9.641584947349134e-05,CAN,2012
+322,COD,Growing cereals n.e.c industry,BHS,5.9137834203740484e-08,CAN,2012
+323,COD,Growing leguminous crops and oil seeds industry,BHS,0.0002666884804322876,CAN,2012
+324,COD,Growing rice industry,BHS,7.860822317373148e-06,CAN,2012
+325,COD,"Growing vegetables, roots, tubers industry",BHS,0.0001198478888806003,CAN,2012
+326,COD,Growing sugar beet and cane industry,BHS,0.0,CAN,2012
+327,COD,Growing tobacco industry,BHS,3.761184987022929e-08,CAN,2012
+328,COD,Growing fibre crops industry,BHS,1.2890309464834382e-05,CAN,2012
+329,COD,Growing crops n.e.c. industry,BHS,1.6742857159678393e-08,CAN,2012
+330,COD,Growing grapes industry,BHS,0.0,CAN,2012
+331,COD,Growing fruits and nuts industry,BHS,0.00016110435707349135,CAN,2012
+332,COD,"Growing beverage crops (coffee, tea etc) industry",BHS,7.008548946942336e-07,CAN,2012
+333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,8.165343785987462e-08,CAN,2012
+334,COD,Seeds and plant propagation industry,BHS,0.0,CAN,2012
+335,COD,Raising of cattle industry,BHS,8.019629244509398e-05,CAN,2012
+336,COD,Growing wheat industry,BIH,6.706789064701398e-08,CAN,2012
+337,COD,Growing maize industry,BIH,1.2794226289912223e-05,CAN,2012
+338,COD,Growing cereals n.e.c industry,BIH,1.4528401608503892e-08,CAN,2012
+339,COD,Growing leguminous crops and oil seeds industry,BIH,3.142470253865369e-05,CAN,2012
+340,COD,Growing rice industry,BIH,2.013883159379699e-06,CAN,2012
+341,COD,"Growing vegetables, roots, tubers industry",BIH,1.4731998317550507e-05,CAN,2012
+342,COD,Growing sugar beet and cane industry,BIH,0.0,CAN,2012
+343,COD,Growing tobacco industry,BIH,1.0853377947224675e-08,CAN,2012
+344,COD,Growing fibre crops industry,BIH,2.0971098228996244e-06,CAN,2012
+345,COD,Growing crops n.e.c. industry,BIH,5.3190472208682635e-09,CAN,2012
+346,COD,Growing grapes industry,BIH,0.0,CAN,2012
+347,COD,Growing fruits and nuts industry,BIH,2.4351393173471263e-05,CAN,2012
+348,COD,"Growing beverage crops (coffee, tea etc) industry",BIH,1.10401978668425e-07,CAN,2012
+349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,1.4374169740105367e-08,CAN,2012
+350,COD,Seeds and plant propagation industry,BIH,0.0,CAN,2012
+351,COD,Raising of cattle industry,BIH,2.2442450662232202e-05,CAN,2012
+352,COD,Growing wheat industry,BLR,3.474515484459399e-07,CAN,2012
+353,COD,Growing maize industry,BLR,8.386576736490537e-05,CAN,2012
+354,COD,Growing cereals n.e.c industry,BLR,7.805831054660102e-08,CAN,2012
+355,COD,Growing leguminous crops and oil seeds industry,BLR,0.00029258491262127524,CAN,2012
+356,COD,Growing rice industry,BLR,1.1051484488316326e-05,CAN,2012
+357,COD,"Growing vegetables, roots, tubers industry",BLR,0.00012783112311743624,CAN,2012
+358,COD,Growing sugar beet and cane industry,BLR,0.0,CAN,2012
+359,COD,Growing tobacco industry,BLR,5.269835117279925e-08,CAN,2012
+360,COD,Growing fibre crops industry,BLR,1.7641419267486583e-05,CAN,2012
+361,COD,Growing crops n.e.c. industry,BLR,2.4346822086130528e-08,CAN,2012
+362,COD,Growing grapes industry,BLR,0.0,CAN,2012
+363,COD,Growing fruits and nuts industry,BLR,0.00020264824144693898,CAN,2012
+364,COD,"Growing beverage crops (coffee, tea etc) industry",BLR,7.92937028264272e-07,CAN,2012
+365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,9.26824354085299e-08,CAN,2012
+366,COD,Seeds and plant propagation industry,BLR,0.0,CAN,2012
+367,COD,Raising of cattle industry,BLR,0.00011445314344913081,CAN,2012
+368,COD,Growing wheat industry,BLZ,2.4811197616141476e-08,CAN,2012
+369,COD,Growing maize industry,BLZ,7.856284749850827e-06,CAN,2012
+370,COD,Growing cereals n.e.c industry,BLZ,5.825138822586949e-09,CAN,2012
+371,COD,Growing leguminous crops and oil seeds industry,BLZ,1.3186763982304584e-05,CAN,2012
+372,COD,Growing rice industry,BLZ,7.376508665032162e-07,CAN,2012
+373,COD,"Growing vegetables, roots, tubers industry",BLZ,6.435668916172004e-06,CAN,2012
+374,COD,Growing sugar beet and cane industry,BLZ,0.0,CAN,2012
+375,COD,Growing tobacco industry,BLZ,4.111032512023862e-09,CAN,2012
+376,COD,Growing fibre crops industry,BLZ,8.126960265134601e-07,CAN,2012
+377,COD,Growing crops n.e.c. industry,BLZ,1.898427876820039e-09,CAN,2012
+378,COD,Growing grapes industry,BLZ,0.0,CAN,2012
+379,COD,Growing fruits and nuts industry,BLZ,1.2434297319159367e-05,CAN,2012
+380,COD,"Growing beverage crops (coffee, tea etc) industry",BLZ,5.18671993510805e-08,CAN,2012
+381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,5.79897472243452e-09,CAN,2012
+382,COD,Seeds and plant propagation industry,BLZ,0.0,CAN,2012
+383,COD,Raising of cattle industry,BLZ,8.513599344720647e-06,CAN,2012
+384,COD,Growing wheat industry,BOL,1.8064674704256505e-07,CAN,2012
+385,COD,Growing maize industry,BOL,3.653872279640352e-05,CAN,2012
+386,COD,Growing cereals n.e.c industry,BOL,4.131083002223223e-08,CAN,2012
+387,COD,Growing leguminous crops and oil seeds industry,BOL,8.433092094020206e-05,CAN,2012
+388,COD,Growing rice industry,BOL,5.2752734019514066e-06,CAN,2012
+389,COD,"Growing vegetables, roots, tubers industry",BOL,3.901035311204774e-05,CAN,2012
+390,COD,Growing sugar beet and cane industry,BOL,0.0,CAN,2012
+391,COD,Growing tobacco industry,BOL,2.9281862506019735e-08,CAN,2012
+392,COD,Growing fibre crops industry,BOL,5.631090654922154e-06,CAN,2012
+393,COD,Growing crops n.e.c. industry,BOL,1.5044398498039667e-08,CAN,2012
+394,COD,Growing grapes industry,BOL,0.0,CAN,2012
+395,COD,Growing fruits and nuts industry,BOL,6.432994188117353e-05,CAN,2012
+396,COD,"Growing beverage crops (coffee, tea etc) industry",BOL,2.8439973697389733e-07,CAN,2012
+397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,3.5596430168476774e-08,CAN,2012
+398,COD,Seeds and plant propagation industry,BOL,0.0,CAN,2012
+399,COD,Raising of cattle industry,BOL,6.0558437858718235e-05,CAN,2012
+400,COD,Growing wheat industry,BRA,1.0494465381436932e-05,CAN,2012
+401,COD,Growing maize industry,BRA,0.0029452212435369133,CAN,2012
+402,COD,Growing cereals n.e.c industry,BRA,2.4726046348430675e-06,CAN,2012
+403,COD,Growing leguminous crops and oil seeds industry,BRA,0.007486633122012274,CAN,2012
+404,COD,Growing rice industry,BRA,0.00030510497758000837,CAN,2012
+405,COD,"Growing vegetables, roots, tubers industry",BRA,0.0033191801742418494,CAN,2012
+406,COD,Growing sugar beet and cane industry,BRA,0.0,CAN,2012
+407,COD,Growing tobacco industry,BRA,1.5858049306686444e-06,CAN,2012
+408,COD,Growing fibre crops industry,BRA,0.0004330406490257031,CAN,2012
+409,COD,Growing crops n.e.c. industry,BRA,7.94352211708371e-07,CAN,2012
+410,COD,Growing grapes industry,BRA,0.0,CAN,2012
+411,COD,Growing fruits and nuts industry,BRA,0.005053639567058632,CAN,2012
+412,COD,"Growing beverage crops (coffee, tea etc) industry",BRA,2.0863165277366547e-05,CAN,2012
+413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,2.439023780416132e-06,CAN,2012
+414,COD,Seeds and plant propagation industry,BRA,0.0,CAN,2012
+415,COD,Raising of cattle industry,BRA,0.0033802581257781714,CAN,2012
+416,COD,Growing wheat industry,BRN,1.0727402543424176e-07,CAN,2012
+417,COD,Growing maize industry,BRN,2.3460598441712617e-05,CAN,2012
+418,COD,Growing cereals n.e.c industry,BRN,2.3728696243945184e-08,CAN,2012
+419,COD,Growing leguminous crops and oil seeds industry,BRN,8.560577856359327e-05,CAN,2012
+420,COD,Growing rice industry,BRN,3.3522009863589893e-06,CAN,2012
+421,COD,"Growing vegetables, roots, tubers industry",BRN,3.7030091964957625e-05,CAN,2012
+422,COD,Growing sugar beet and cane industry,BRN,0.0,CAN,2012
+423,COD,Growing tobacco industry,BRN,1.8134996920376764e-08,CAN,2012
+424,COD,Growing fibre crops industry,BRN,4.50972285600716e-06,CAN,2012
+425,COD,Growing crops n.e.c. industry,BRN,8.150029271085163e-09,CAN,2012
+426,COD,Growing grapes industry,BRN,0.0,CAN,2012
+427,COD,Growing fruits and nuts industry,BRN,5.321059373841929e-05,CAN,2012
+428,COD,"Growing beverage crops (coffee, tea etc) industry",BRN,2.3277289302954123e-07,CAN,2012
+429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,2.6082290028502045e-08,CAN,2012
+430,COD,Seeds and plant propagation industry,BRN,0.0,CAN,2012
+431,COD,Raising of cattle industry,BRN,3.5751582260938775e-05,CAN,2012
+432,COD,Growing wheat industry,BTN,8.708413368516697e-09,CAN,2012
+433,COD,Growing maize industry,BTN,1.6300816513313276e-06,CAN,2012
+434,COD,Growing cereals n.e.c industry,BTN,1.8436377102326704e-09,CAN,2012
+435,COD,Growing leguminous crops and oil seeds industry,BTN,4.327798398232089e-06,CAN,2012
+436,COD,Growing rice industry,BTN,2.657734913444052e-07,CAN,2012
+437,COD,"Growing vegetables, roots, tubers industry",BTN,2.014586034946152e-06,CAN,2012
+438,COD,Growing sugar beet and cane industry,BTN,0.0,CAN,2012
+439,COD,Growing tobacco industry,BTN,1.2586356576146183e-09,CAN,2012
+440,COD,Growing fibre crops industry,BTN,2.4458583025598734e-07,CAN,2012
+441,COD,Growing crops n.e.c. industry,BTN,6.224034487008857e-10,CAN,2012
+442,COD,Growing grapes industry,BTN,0.0,CAN,2012
+443,COD,Growing fruits and nuts industry,BTN,3.077621419918737e-06,CAN,2012
+444,COD,"Growing beverage crops (coffee, tea etc) industry",BTN,1.4359020521713673e-08,CAN,2012
+445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,1.74935803485426e-09,CAN,2012
+446,COD,Seeds and plant propagation industry,BTN,0.0,CAN,2012
+447,COD,Raising of cattle industry,BTN,2.968036404268528e-06,CAN,2012
+448,COD,Growing wheat industry,BWA,9.24079428174071e-08,CAN,2012
+449,COD,Growing maize industry,BWA,1.5199917452751018e-05,CAN,2012
+450,COD,Growing cereals n.e.c industry,BWA,2.0412393614346856e-08,CAN,2012
+451,COD,Growing leguminous crops and oil seeds industry,BWA,3.5380726413152906e-05,CAN,2012
+452,COD,Growing rice industry,BWA,2.6866309119449278e-06,CAN,2012
+453,COD,"Growing vegetables, roots, tubers industry",BWA,1.736444020035373e-05,CAN,2012
+454,COD,Growing sugar beet and cane industry,BWA,0.0,CAN,2012
+455,COD,Growing tobacco industry,BWA,1.5027676844750213e-08,CAN,2012
+456,COD,Growing fibre crops industry,BWA,3.0394813670952316e-06,CAN,2012
+457,COD,Growing crops n.e.c. industry,BWA,7.952300850159341e-09,CAN,2012
+458,COD,Growing grapes industry,BWA,0.0,CAN,2012
+459,COD,Growing fruits and nuts industry,BWA,2.6648777641041285e-05,CAN,2012
+460,COD,"Growing beverage crops (coffee, tea etc) industry",BWA,1.412408639805089e-07,CAN,2012
+461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,1.9832013148636497e-08,CAN,2012
+462,COD,Seeds and plant propagation industry,BWA,0.0,CAN,2012
+463,COD,Raising of cattle industry,BWA,3.108959345634505e-05,CAN,2012
+464,COD,Growing wheat industry,CAF,4.213276474786554e-09,CAN,2012
+465,COD,Growing maize industry,CAF,7.752205769785111e-07,CAN,2012
+466,COD,Growing cereals n.e.c industry,CAF,9.120646795875089e-10,CAN,2012
+467,COD,Growing leguminous crops and oil seeds industry,CAF,1.9447052816521237e-06,CAN,2012
+468,COD,Growing rice industry,CAF,1.240521710124655e-07,CAN,2012
+469,COD,"Growing vegetables, roots, tubers industry",CAF,9.249078353379465e-07,CAN,2012
+470,COD,Growing sugar beet and cane industry,CAF,0.0,CAN,2012
+471,COD,Growing tobacco industry,CAF,7.071633417160684e-10,CAN,2012
+472,COD,Growing fibre crops industry,CAF,1.2651321718017623e-07,CAN,2012
+473,COD,Growing crops n.e.c. industry,CAF,3.2782097893945797e-10,CAN,2012
+474,COD,Growing grapes industry,CAF,0.0,CAN,2012
+475,COD,Growing fruits and nuts industry,CAF,1.3771577419862107e-06,CAN,2012
+476,COD,"Growing beverage crops (coffee, tea etc) industry",CAF,6.819288914084712e-09,CAN,2012
+477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,8.821959008976622e-10,CAN,2012
+478,COD,Seeds and plant propagation industry,CAF,0.0,CAN,2012
+479,COD,Raising of cattle industry,CAF,1.4351229120385672e-06,CAN,2012
+480,COD,Growing wheat industry,CAN,0.0,CAN,2012
+481,COD,Growing maize industry,CAN,0.0,CAN,2012
+482,COD,Growing cereals n.e.c industry,CAN,0.0,CAN,2012
+483,COD,Growing leguminous crops and oil seeds industry,CAN,0.0,CAN,2012
+484,COD,Growing rice industry,CAN,0.0,CAN,2012
+485,COD,"Growing vegetables, roots, tubers industry",CAN,0.0,CAN,2012
+486,COD,Growing sugar beet and cane industry,CAN,0.0,CAN,2012
+487,COD,Growing tobacco industry,CAN,0.0,CAN,2012
+488,COD,Growing fibre crops industry,CAN,0.0,CAN,2012
+489,COD,Growing crops n.e.c. industry,CAN,0.0,CAN,2012
+490,COD,Growing grapes industry,CAN,0.0,CAN,2012
+491,COD,Growing fruits and nuts industry,CAN,0.0,CAN,2012
+492,COD,"Growing beverage crops (coffee, tea etc) industry",CAN,0.0,CAN,2012
+493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,0.0,CAN,2012
+494,COD,Seeds and plant propagation industry,CAN,0.0,CAN,2012
+495,COD,Raising of cattle industry,CAN,0.0,CAN,2012
+496,COD,Growing wheat industry,CHE,3.960622377772986e-06,CAN,2012
+497,COD,Growing maize industry,CHE,0.0010496688635806455,CAN,2012
+498,COD,Growing cereals n.e.c industry,CHE,9.565792596281816e-07,CAN,2012
+499,COD,Growing leguminous crops and oil seeds industry,CHE,0.004121227318029348,CAN,2012
+500,COD,Growing rice industry,CHE,0.00011984805111265108,CAN,2012
+501,COD,"Growing vegetables, roots, tubers industry",CHE,0.0017454206851785772,CAN,2012
+502,COD,Growing sugar beet and cane industry,CHE,0.0,CAN,2012
+503,COD,Growing tobacco industry,CHE,6.253869801011733e-07,CAN,2012
+504,COD,Growing fibre crops industry,CHE,0.0002141690702226125,CAN,2012
+505,COD,Growing crops n.e.c. industry,CHE,3.1957663328591155e-07,CAN,2012
+506,COD,Growing grapes industry,CHE,0.0,CAN,2012
+507,COD,Growing fruits and nuts industry,CHE,0.002475434710475089,CAN,2012
+508,COD,"Growing beverage crops (coffee, tea etc) industry",CHE,1.058848368782107e-05,CAN,2012
+509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,1.0574174465520158e-06,CAN,2012
+510,COD,Seeds and plant propagation industry,CHE,0.0,CAN,2012
+511,COD,Raising of cattle industry,CHE,0.0012721858583570238,CAN,2012
+512,COD,Growing wheat industry,CHL,3.0106017410114687e-06,CAN,2012
+513,COD,Growing maize industry,CHL,0.0007602516680962988,CAN,2012
+514,COD,Growing cereals n.e.c industry,CHL,6.888225380011435e-07,CAN,2012
+515,COD,Growing leguminous crops and oil seeds industry,CHL,0.002034384028665164,CAN,2012
+516,COD,Growing rice industry,CHL,8.912031222364615e-05,CAN,2012
+517,COD,"Growing vegetables, roots, tubers industry",CHL,0.0009222562872296106,CAN,2012
+518,COD,Growing sugar beet and cane industry,CHL,0.0,CAN,2012
+519,COD,Growing tobacco industry,CHL,4.7474182148156117e-07,CAN,2012
+520,COD,Growing fibre crops industry,CHL,0.00011209467871717141,CAN,2012
+521,COD,Growing crops n.e.c. industry,CHL,2.337481993348586e-07,CAN,2012
+522,COD,Growing grapes industry,CHL,0.0,CAN,2012
+523,COD,Growing fruits and nuts industry,CHL,0.0016622232449459583,CAN,2012
+524,COD,"Growing beverage crops (coffee, tea etc) industry",CHL,5.868650687900366e-06,CAN,2012
+525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,7.100891909695073e-07,CAN,2012
+526,COD,Seeds and plant propagation industry,CHL,0.0,CAN,2012
+527,COD,Raising of cattle industry,CHL,0.0009986878455599604,CAN,2012
+528,COD,Growing wheat industry,CHN,5.2918253562901365e-05,CAN,2012
+529,COD,Growing maize industry,CHN,0.0123742891598137,CAN,2012
+530,COD,Growing cereals n.e.c industry,CHN,1.187144181240091e-05,CAN,2012
+531,COD,Growing leguminous crops and oil seeds industry,CHN,0.02791150741189516,CAN,2012
+532,COD,Growing rice industry,CHN,0.001589883490965773,CAN,2012
+533,COD,"Growing vegetables, roots, tubers industry",CHN,0.013018180422905609,CAN,2012
+534,COD,Growing sugar beet and cane industry,CHN,0.0,CAN,2012
+535,COD,Growing tobacco industry,CHN,8.627755570791059e-06,CAN,2012
+536,COD,Growing fibre crops industry,CHN,0.0020077862316995594,CAN,2012
+537,COD,Growing crops n.e.c. industry,CHN,4.071259606524864e-06,CAN,2012
+538,COD,Growing grapes industry,CHN,0.0,CAN,2012
+539,COD,Growing fruits and nuts industry,CHN,0.021091783508464,CAN,2012
+540,COD,"Growing beverage crops (coffee, tea etc) industry",CHN,9.237974321437244e-05,CAN,2012
+541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,1.2001895675767873e-05,CAN,2012
+542,COD,Seeds and plant propagation industry,CHN,0.0,CAN,2012
+543,COD,Raising of cattle industry,CHN,0.01733217183979518,CAN,2012
+544,COD,Growing wheat industry,CIV,5.221966173488797e-07,CAN,2012
+545,COD,Growing maize industry,CIV,0.00011997677983675238,CAN,2012
+546,COD,Growing cereals n.e.c industry,CIV,1.132440181310204e-07,CAN,2012
+547,COD,Growing leguminous crops and oil seeds industry,CIV,0.0005117599877102257,CAN,2012
+548,COD,Growing rice industry,CIV,1.8765522899170534e-05,CAN,2012
+549,COD,"Growing vegetables, roots, tubers industry",CIV,0.00021376170991362927,CAN,2012
+550,COD,Growing sugar beet and cane industry,CIV,0.0,CAN,2012
+551,COD,Growing tobacco industry,CIV,7.44845359533246e-08,CAN,2012
+552,COD,Growing fibre crops industry,CIV,2.6925097683291178e-05,CAN,2012
+553,COD,Growing crops n.e.c. industry,CIV,3.145410278455369e-08,CAN,2012
+554,COD,Growing grapes industry,CIV,0.0,CAN,2012
+555,COD,Growing fruits and nuts industry,CIV,0.00025945720485900264,CAN,2012
+556,COD,"Growing beverage crops (coffee, tea etc) industry",CIV,1.2384604833886094e-06,CAN,2012
+557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,1.6186151312127646e-07,CAN,2012
+558,COD,Seeds and plant propagation industry,CIV,0.0,CAN,2012
+559,COD,Raising of cattle industry,CIV,0.00014617907563739847,CAN,2012
+560,COD,Growing wheat industry,CMR,1.5237423023776696e-07,CAN,2012
+561,COD,Growing maize industry,CMR,2.7262106113691646e-05,CAN,2012
+562,COD,Growing cereals n.e.c industry,CMR,3.330927324952034e-08,CAN,2012
+563,COD,Growing leguminous crops and oil seeds industry,CMR,5.936439541801949e-05,CAN,2012
+564,COD,Growing rice industry,CMR,4.416658623301764e-06,CAN,2012
+565,COD,"Growing vegetables, roots, tubers industry",CMR,2.800391484065908e-05,CAN,2012
+566,COD,Growing sugar beet and cane industry,CMR,0.0,CAN,2012
+567,COD,Growing tobacco industry,CMR,2.5102804091705068e-08,CAN,2012
+568,COD,Growing fibre crops industry,CMR,4.584691591039913e-06,CAN,2012
+569,COD,Growing crops n.e.c. industry,CMR,1.2321893655105275e-08,CAN,2012
+570,COD,Growing grapes industry,CMR,0.0,CAN,2012
+571,COD,Growing fruits and nuts industry,CMR,4.205821808938203e-05,CAN,2012
+572,COD,"Growing beverage crops (coffee, tea etc) industry",CMR,2.1227592978369256e-07,CAN,2012
+573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,2.7465477990121523e-08,CAN,2012
+574,COD,Seeds and plant propagation industry,CMR,0.0,CAN,2012
+575,COD,Raising of cattle industry,CMR,5.231080397839894e-05,CAN,2012
+576,COD,Growing wheat industry,COD,1.357039274895439e-07,CAN,2012
+577,COD,Growing maize industry,COD,2.62040398146686e-05,CAN,2012
+578,COD,Growing cereals n.e.c industry,COD,2.993709210220219e-08,CAN,2012
+579,COD,Growing leguminous crops and oil seeds industry,COD,5.9613689861561796e-05,CAN,2012
+580,COD,Growing rice industry,COD,4.002160969770183e-06,CAN,2012
+581,COD,"Growing vegetables, roots, tubers industry",COD,2.7817821317245085e-05,CAN,2012
+582,COD,Growing sugar beet and cane industry,COD,0.0,CAN,2012
+583,COD,Growing tobacco industry,COD,2.218209211028478e-08,CAN,2012
+584,COD,Growing fibre crops industry,COD,4.3027582755852795e-06,CAN,2012
+585,COD,Growing crops n.e.c. industry,COD,1.0838360596479382e-08,CAN,2012
+586,COD,Growing grapes industry,COD,0.0,CAN,2012
+587,COD,Growing fruits and nuts industry,COD,4.4739054928817184e-05,CAN,2012
+588,COD,"Growing beverage crops (coffee, tea etc) industry",COD,2.0599351258156614e-07,CAN,2012
+589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,2.646034102329037e-08,CAN,2012
+590,COD,Seeds and plant propagation industry,COD,0.0,CAN,2012
+591,COD,Raising of cattle industry,COD,4.697273618145955e-05,CAN,2012
+592,COD,Growing wheat industry,COG,1.411842710472182e-07,CAN,2012
+593,COD,Growing maize industry,COG,2.8122141413962333e-05,CAN,2012
+594,COD,Growing cereals n.e.c industry,COG,3.3268314968760943e-08,CAN,2012
+595,COD,Growing leguminous crops and oil seeds industry,COG,5.3475073269813216e-05,CAN,2012
+596,COD,Growing rice industry,COG,4.12906057226597e-06,CAN,2012
+597,COD,"Growing vegetables, roots, tubers industry",COG,2.4842558492892182e-05,CAN,2012
+598,COD,Growing sugar beet and cane industry,COG,0.0,CAN,2012
+599,COD,Growing tobacco industry,COG,2.4085021399779193e-08,CAN,2012
+600,COD,Growing fibre crops industry,COG,4.762782909423723e-06,CAN,2012
+601,COD,Growing crops n.e.c. industry,COG,1.237398131408008e-08,CAN,2012
+602,COD,Growing grapes industry,COG,0.0,CAN,2012
+603,COD,Growing fruits and nuts industry,COG,4.164808540641897e-05,CAN,2012
+604,COD,"Growing beverage crops (coffee, tea etc) industry",COG,2.0344415057294181e-07,CAN,2012
+605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,2.5192992075643066e-08,CAN,2012
+606,COD,Seeds and plant propagation industry,COG,0.0,CAN,2012
+607,COD,Raising of cattle industry,COG,4.843062322176769e-05,CAN,2012
+608,COD,Growing wheat industry,COL,3.77230265787563e-06,CAN,2012
+609,COD,Growing maize industry,COL,0.0015394995778337773,CAN,2012
+610,COD,Growing cereals n.e.c industry,COL,9.601072625931742e-07,CAN,2012
+611,COD,Growing leguminous crops and oil seeds industry,COL,0.0023757376469256326,CAN,2012
+612,COD,Growing rice industry,COL,0.00011105981156555461,CAN,2012
+613,COD,"Growing vegetables, roots, tubers industry",COL,0.0011084805783355958,CAN,2012
+614,COD,Growing sugar beet and cane industry,COL,0.0,CAN,2012
+615,COD,Growing tobacco industry,COL,5.963838742862564e-07,CAN,2012
+616,COD,Growing fibre crops industry,COL,0.00014587427702384586,CAN,2012
+617,COD,Growing crops n.e.c. industry,COL,2.8566864201059044e-07,CAN,2012
+618,COD,Growing grapes industry,COL,0.0,CAN,2012
+619,COD,Growing fruits and nuts industry,COL,0.003922266622693154,CAN,2012
+620,COD,"Growing beverage crops (coffee, tea etc) industry",COL,7.030247075107026e-06,CAN,2012
+621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,8.910841975828771e-07,CAN,2012
+622,COD,Seeds and plant propagation industry,COL,0.0,CAN,2012
+623,COD,Raising of cattle industry,COL,0.0012553353745672535,CAN,2012
+624,COD,Growing wheat industry,CRI,7.351366283085587e-07,CAN,2012
+625,COD,Growing maize industry,CRI,0.00018071476719848592,CAN,2012
+626,COD,Growing cereals n.e.c industry,CRI,1.6250098510894755e-07,CAN,2012
+627,COD,Growing leguminous crops and oil seeds industry,CRI,0.00044353863253093995,CAN,2012
+628,COD,Growing rice industry,CRI,2.2602846037626277e-05,CAN,2012
+629,COD,"Growing vegetables, roots, tubers industry",CRI,0.00020657961224891455,CAN,2012
+630,COD,Growing sugar beet and cane industry,CRI,0.0,CAN,2012
+631,COD,Growing tobacco industry,CRI,1.1578541849812235e-07,CAN,2012
+632,COD,Growing fibre crops industry,CRI,2.6004309142165148e-05,CAN,2012
+633,COD,Growing crops n.e.c. industry,CRI,5.321170738425151e-08,CAN,2012
+634,COD,Growing grapes industry,CRI,0.0,CAN,2012
+635,COD,Growing fruits and nuts industry,CRI,0.0003640364598354575,CAN,2012
+636,COD,"Growing beverage crops (coffee, tea etc) industry",CRI,1.5881788550467216e-06,CAN,2012
+637,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,1.7957792243111828e-07,CAN,2012
+638,COD,Seeds and plant propagation industry,CRI,0.0,CAN,2012
+639,COD,Raising of cattle industry,CRI,0.00023960612682041637,CAN,2012
+640,COD,Growing wheat industry,CUB,1.8377362647255075e-06,CAN,2012
+641,COD,Growing maize industry,CUB,0.0004163243934768473,CAN,2012
+642,COD,Growing cereals n.e.c industry,CUB,4.1553242305557787e-07,CAN,2012
+643,COD,Growing leguminous crops and oil seeds industry,CUB,0.0008076329804229582,CAN,2012
+644,COD,Growing rice industry,CUB,5.2723578382491955e-05,CAN,2012
+645,COD,"Growing vegetables, roots, tubers industry",CUB,0.00037765258855147006,CAN,2012
+646,COD,Growing sugar beet and cane industry,CUB,0.0,CAN,2012
+647,COD,Growing tobacco industry,CUB,3.079755737302818e-07,CAN,2012
+648,COD,Growing fibre crops industry,CUB,5.7202028644627305e-05,CAN,2012
+649,COD,Growing crops n.e.c. industry,CUB,1.7122762919524777e-07,CAN,2012
+650,COD,Growing grapes industry,CUB,0.0,CAN,2012
+651,COD,Growing fruits and nuts industry,CUB,0.0006055619341320126,CAN,2012
+652,COD,"Growing beverage crops (coffee, tea etc) industry",CUB,2.8075959705024705e-06,CAN,2012
+653,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,3.7318564997509826e-07,CAN,2012
+654,COD,Seeds and plant propagation industry,CUB,0.0,CAN,2012
+655,COD,Raising of cattle industry,CUB,0.0006098281865082598,CAN,2012
+656,COD,Growing wheat industry,CYP,9.124399987998539e-08,CAN,2012
+657,COD,Growing maize industry,CYP,2.1081429577008626e-05,CAN,2012
+658,COD,Growing cereals n.e.c industry,CYP,2.0275867210602288e-08,CAN,2012
+659,COD,Growing leguminous crops and oil seeds industry,CYP,8.937483089772792e-05,CAN,2012
+660,COD,Growing rice industry,CYP,2.8943311550493727e-06,CAN,2012
+661,COD,"Growing vegetables, roots, tubers industry",CYP,3.8209175892703424e-05,CAN,2012
+662,COD,Growing sugar beet and cane industry,CYP,0.0,CAN,2012
+663,COD,Growing tobacco industry,CYP,1.3999671219805985e-08,CAN,2012
+664,COD,Growing fibre crops industry,CYP,4.520989558730087e-06,CAN,2012
+665,COD,Growing crops n.e.c. industry,CYP,6.643263291495103e-09,CAN,2012
+666,COD,Growing grapes industry,CYP,0.0,CAN,2012
+667,COD,Growing fruits and nuts industry,CYP,5.138754088926238e-05,CAN,2012
+668,COD,"Growing beverage crops (coffee, tea etc) industry",CYP,2.2919118595948593e-07,CAN,2012
+669,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,2.4910355129876224e-08,CAN,2012
+670,COD,Seeds and plant propagation industry,CYP,0.0,CAN,2012
+671,COD,Raising of cattle industry,CYP,2.9370706702402396e-05,CAN,2012
+672,COD,Growing wheat industry,CZE,7.990812510750495e-07,CAN,2012
+673,COD,Growing maize industry,CZE,0.0002079734445135998,CAN,2012
+674,COD,Growing cereals n.e.c industry,CZE,1.8534957014015794e-07,CAN,2012
+675,COD,Growing leguminous crops and oil seeds industry,CZE,0.0007446911152248041,CAN,2012
+676,COD,Growing rice industry,CZE,2.4337455945016908e-05,CAN,2012
+677,COD,"Growing vegetables, roots, tubers industry",CZE,0.0003206322942221687,CAN,2012
+678,COD,Growing sugar beet and cane industry,CZE,0.0,CAN,2012
+679,COD,Growing tobacco industry,CZE,1.2946122548123377e-07,CAN,2012
+680,COD,Growing fibre crops industry,CZE,3.856584023572282e-05,CAN,2012
+681,COD,Growing crops n.e.c. industry,CZE,6.282601010064789e-08,CAN,2012
+682,COD,Growing grapes industry,CZE,0.0,CAN,2012
+683,COD,Growing fruits and nuts industry,CZE,0.0005564524329042382,CAN,2012
+684,COD,"Growing beverage crops (coffee, tea etc) industry",CZE,2.02868036449424e-06,CAN,2012
+685,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,2.083911443084138e-07,CAN,2012
+686,COD,Seeds and plant propagation industry,CZE,0.0,CAN,2012
+687,COD,Raising of cattle industry,CZE,0.0002607684654907318,CAN,2012
+688,COD,Growing wheat industry,DEU,1.737611508472508e-05,CAN,2012
+689,COD,Growing maize industry,DEU,0.004218778619456083,CAN,2012
+690,COD,Growing cereals n.e.c industry,DEU,3.923811951342323e-06,CAN,2012
+691,COD,Growing leguminous crops and oil seeds industry,DEU,0.01611220392989018,CAN,2012
+692,COD,Growing rice industry,DEU,0.0005486114777456147,CAN,2012
+693,COD,"Growing vegetables, roots, tubers industry",DEU,0.0070097620929541185,CAN,2012
+694,COD,Growing sugar beet and cane industry,DEU,0.0,CAN,2012
+695,COD,Growing tobacco industry,DEU,2.71648683214556e-06,CAN,2012
+696,COD,Growing fibre crops industry,DEU,0.0008265459837376868,CAN,2012
+697,COD,Growing crops n.e.c. industry,DEU,1.2889669358948199e-06,CAN,2012
+698,COD,Growing grapes industry,DEU,0.0,CAN,2012
+699,COD,Growing fruits and nuts industry,DEU,0.010455829524363532,CAN,2012
+700,COD,"Growing beverage crops (coffee, tea etc) industry",DEU,4.2361366161376e-05,CAN,2012
+701,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,5.016419632286186e-06,CAN,2012
+702,COD,Seeds and plant propagation industry,DEU,0.0,CAN,2012
+703,COD,Raising of cattle industry,DEU,0.005443482594136431,CAN,2012
+704,COD,Growing wheat industry,DJI,1.8586177221375242e-08,CAN,2012
+705,COD,Growing maize industry,DJI,3.781967163761091e-06,CAN,2012
+706,COD,Growing cereals n.e.c industry,DJI,4.148412321868508e-09,CAN,2012
+707,COD,Growing leguminous crops and oil seeds industry,DJI,8.28797075193149e-06,CAN,2012
+708,COD,Growing rice industry,DJI,5.462892527345346e-07,CAN,2012
+709,COD,"Growing vegetables, roots, tubers industry",DJI,3.8594506965000424e-06,CAN,2012
+710,COD,Growing sugar beet and cane industry,DJI,0.0,CAN,2012
+711,COD,Growing tobacco industry,DJI,3.2956399604714378e-09,CAN,2012
+712,COD,Growing fibre crops industry,DJI,6.163144134616498e-07,CAN,2012
+713,COD,Growing crops n.e.c. industry,DJI,1.5907057136485457e-09,CAN,2012
+714,COD,Growing grapes industry,DJI,0.0,CAN,2012
+715,COD,Growing fruits and nuts industry,DJI,6.526167435070238e-06,CAN,2012
+716,COD,"Growing beverage crops (coffee, tea etc) industry",DJI,2.922460665963628e-08,CAN,2012
+717,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,3.7195635745931254e-09,CAN,2012
+718,COD,Seeds and plant propagation industry,DJI,0.0,CAN,2012
+719,COD,Raising of cattle industry,DJI,6.224891822748594e-06,CAN,2012
+720,COD,Growing wheat industry,DYE,0.0,CAN,2012
+721,COD,Growing maize industry,DYE,0.0,CAN,2012
+722,COD,Growing cereals n.e.c industry,DYE,0.0,CAN,2012
+723,COD,Growing leguminous crops and oil seeds industry,DYE,0.0,CAN,2012
+724,COD,Growing rice industry,DYE,0.0,CAN,2012
+725,COD,"Growing vegetables, roots, tubers industry",DYE,0.0,CAN,2012
+726,COD,Growing sugar beet and cane industry,DYE,0.0,CAN,2012
+727,COD,Growing tobacco industry,DYE,0.0,CAN,2012
+728,COD,Growing fibre crops industry,DYE,0.0,CAN,2012
+729,COD,Growing crops n.e.c. industry,DYE,0.0,CAN,2012
+730,COD,Growing grapes industry,DYE,0.0,CAN,2012
+731,COD,Growing fruits and nuts industry,DYE,0.0,CAN,2012
+732,COD,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,CAN,2012
+733,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,CAN,2012
+734,COD,Seeds and plant propagation industry,DYE,0.0,CAN,2012
+735,COD,Raising of cattle industry,DYE,0.0,CAN,2012
+736,COD,Growing wheat industry,DNK,1.3998220183458086e-06,CAN,2012
+737,COD,Growing maize industry,DNK,0.00042246358720630846,CAN,2012
+738,COD,Growing cereals n.e.c industry,DNK,3.3031403276613856e-07,CAN,2012
+739,COD,Growing leguminous crops and oil seeds industry,DNK,0.0011555703493463239,CAN,2012
+740,COD,Growing rice industry,DNK,4.3391449731439655e-05,CAN,2012
+741,COD,"Growing vegetables, roots, tubers industry",DNK,0.000511984480008043,CAN,2012
+742,COD,Growing sugar beet and cane industry,DNK,0.0,CAN,2012
+743,COD,Growing tobacco industry,DNK,2.1683510356190384e-07,CAN,2012
+744,COD,Growing fibre crops industry,DNK,7.338849860370022e-05,CAN,2012
+745,COD,Growing crops n.e.c. industry,DNK,1.0278951614903573e-07,CAN,2012
+746,COD,Growing grapes industry,DNK,0.0,CAN,2012
+747,COD,Growing fruits and nuts industry,DNK,0.0008426499960286065,CAN,2012
+748,COD,"Growing beverage crops (coffee, tea etc) industry",DNK,3.2832882526799507e-06,CAN,2012
+749,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,3.817471214102812e-07,CAN,2012
+750,COD,Seeds and plant propagation industry,DNK,0.0,CAN,2012
+751,COD,Raising of cattle industry,DNK,0.0004400801778020617,CAN,2012
+752,COD,Growing wheat industry,DOM,7.732182659069907e-07,CAN,2012
+753,COD,Growing maize industry,DOM,0.00019759609887616918,CAN,2012
+754,COD,Growing cereals n.e.c industry,DOM,1.7337948458646265e-07,CAN,2012
+755,COD,Growing leguminous crops and oil seeds industry,DOM,0.00037208620255332604,CAN,2012
+756,COD,Growing rice industry,DOM,2.25374276586609e-05,CAN,2012
+757,COD,"Growing vegetables, roots, tubers industry",DOM,0.00018082465686998901,CAN,2012
+758,COD,Growing sugar beet and cane industry,DOM,0.0,CAN,2012
+759,COD,Growing tobacco industry,DOM,1.3224780955036792e-07,CAN,2012
+760,COD,Growing fibre crops industry,DOM,2.3912978443512075e-05,CAN,2012
+761,COD,Growing crops n.e.c. industry,DOM,5.980884420637991e-08,CAN,2012
+762,COD,Growing grapes industry,DOM,0.0,CAN,2012
+763,COD,Growing fruits and nuts industry,DOM,0.0002905646360023321,CAN,2012
+764,COD,"Growing beverage crops (coffee, tea etc) industry",DOM,1.325354652997971e-06,CAN,2012
+765,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,1.6824534171962442e-07,CAN,2012
+766,COD,Seeds and plant propagation industry,DOM,0.0,CAN,2012
+767,COD,Raising of cattle industry,DOM,0.00026807676166035383,CAN,2012
+768,COD,Growing wheat industry,DZA,1.5954461576809006e-06,CAN,2012
+769,COD,Growing maize industry,DZA,0.00033262798505348024,CAN,2012
+770,COD,Growing cereals n.e.c industry,DZA,3.5820013395154974e-07,CAN,2012
+771,COD,Growing leguminous crops and oil seeds industry,DZA,0.000631302107274865,CAN,2012
+772,COD,Growing rice industry,DZA,4.639232442153272e-05,CAN,2012
+773,COD,"Growing vegetables, roots, tubers industry",DZA,0.0003040414721301497,CAN,2012
+774,COD,Growing sugar beet and cane industry,DZA,0.0,CAN,2012
+775,COD,Growing tobacco industry,DZA,2.5279274513002997e-07,CAN,2012
+776,COD,Growing fibre crops industry,DZA,4.898335942257094e-05,CAN,2012
+777,COD,Growing crops n.e.c. industry,DZA,1.26297952152054e-07,CAN,2012
+778,COD,Growing grapes industry,DZA,0.0,CAN,2012
+779,COD,Growing fruits and nuts industry,DZA,0.0004695216517124695,CAN,2012
+780,COD,"Growing beverage crops (coffee, tea etc) industry",DZA,2.2871493748914423e-06,CAN,2012
+781,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,3.1368204126510673e-07,CAN,2012
+782,COD,Seeds and plant propagation industry,DZA,0.0,CAN,2012
+783,COD,Raising of cattle industry,DZA,0.0005430565949977572,CAN,2012
+784,COD,Growing wheat industry,ECU,1.3178602690651695e-06,CAN,2012
+785,COD,Growing maize industry,ECU,0.00025132086624213426,CAN,2012
+786,COD,Growing cereals n.e.c industry,ECU,2.8332491252340787e-07,CAN,2012
+787,COD,Growing leguminous crops and oil seeds industry,ECU,0.0005831761724627978,CAN,2012
+788,COD,Growing rice industry,ECU,3.8588741816553826e-05,CAN,2012
+789,COD,"Growing vegetables, roots, tubers industry",ECU,0.0002844959532698432,CAN,2012
+790,COD,Growing sugar beet and cane industry,ECU,0.0,CAN,2012
+791,COD,Growing tobacco industry,ECU,2.2467485572410819e-07,CAN,2012
+792,COD,Growing fibre crops industry,ECU,3.844405326055486e-05,CAN,2012
+793,COD,Growing crops n.e.c. industry,ECU,1.0548294374698507e-07,CAN,2012
+794,COD,Growing grapes industry,ECU,0.0,CAN,2012
+795,COD,Growing fruits and nuts industry,ECU,0.00044339471694810457,CAN,2012
+796,COD,"Growing beverage crops (coffee, tea etc) industry",ECU,2.2325394427014694e-06,CAN,2012
+797,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,2.833018777190034e-07,CAN,2012
+798,COD,Seeds and plant propagation industry,ECU,0.0,CAN,2012
+799,COD,Raising of cattle industry,ECU,0.00045789244485715106,CAN,2012
+800,COD,Growing wheat industry,EGY,1.4145118024838487e-06,CAN,2012
+801,COD,Growing maize industry,EGY,0.000492919177650543,CAN,2012
+802,COD,Growing cereals n.e.c industry,EGY,3.4747439602879646e-07,CAN,2012
+803,COD,Growing leguminous crops and oil seeds industry,EGY,0.0011442155695660368,CAN,2012
+804,COD,Growing rice industry,EGY,4.36869049710711e-05,CAN,2012
+805,COD,"Growing vegetables, roots, tubers industry",EGY,0.00050605749437602,CAN,2012
+806,COD,Growing sugar beet and cane industry,EGY,0.0,CAN,2012
+807,COD,Growing tobacco industry,EGY,2.1487957106300422e-07,CAN,2012
+808,COD,Growing fibre crops industry,EGY,6.022316681642334e-05,CAN,2012
+809,COD,Growing crops n.e.c. industry,EGY,1.0258381232016157e-07,CAN,2012
+810,COD,Growing grapes industry,EGY,0.0,CAN,2012
+811,COD,Growing fruits and nuts industry,EGY,0.001276913931698359,CAN,2012
+812,COD,"Growing beverage crops (coffee, tea etc) industry",EGY,3.0576822684606754e-06,CAN,2012
+813,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,3.7059383115810983e-07,CAN,2012
+814,COD,Seeds and plant propagation industry,EGY,0.0,CAN,2012
+815,COD,Raising of cattle industry,EGY,0.0004459611460189458,CAN,2012
+816,COD,Growing wheat industry,ERI,4.245163500868472e-08,CAN,2012
+817,COD,Growing maize industry,ERI,4.3538882740298464e-06,CAN,2012
+818,COD,Growing cereals n.e.c industry,ERI,8.034797000079385e-09,CAN,2012
+819,COD,Growing leguminous crops and oil seeds industry,ERI,8.856439231060322e-06,CAN,2012
+820,COD,Growing rice industry,ERI,1.2743827177959917e-06,CAN,2012
+821,COD,"Growing vegetables, roots, tubers industry",ERI,4.18100753589298e-06,CAN,2012
+822,COD,Growing sugar beet and cane industry,ERI,0.0,CAN,2012
+823,COD,Growing tobacco industry,ERI,8.444234471639846e-09,CAN,2012
+824,COD,Growing fibre crops industry,ERI,7.474337134440296e-07,CAN,2012
+825,COD,Growing crops n.e.c. industry,ERI,2.9560210150635647e-09,CAN,2012
+826,COD,Growing grapes industry,ERI,0.0,CAN,2012
+827,COD,Growing fruits and nuts industry,ERI,5.721327387128831e-06,CAN,2012
+828,COD,"Growing beverage crops (coffee, tea etc) industry",ERI,3.7422493780672407e-08,CAN,2012
+829,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,4.25395644884873e-09,CAN,2012
+830,COD,Seeds and plant propagation industry,ERI,0.0,CAN,2012
+831,COD,Raising of cattle industry,ERI,1.8069430860241436e-05,CAN,2012
+832,COD,Growing wheat industry,ESP,3.871229178347898e-06,CAN,2012
+833,COD,Growing maize industry,ESP,0.0008425657158749912,CAN,2012
+834,COD,Growing cereals n.e.c industry,ESP,8.695013205033731e-07,CAN,2012
+835,COD,Growing leguminous crops and oil seeds industry,ESP,0.0027001647141994298,CAN,2012
+836,COD,Growing rice industry,ESP,0.0001169046174767504,CAN,2012
+837,COD,"Growing vegetables, roots, tubers industry",ESP,0.0012176174006815362,CAN,2012
+838,COD,Growing sugar beet and cane industry,ESP,0.0,CAN,2012
+839,COD,Growing tobacco industry,ESP,6.151564686433897e-07,CAN,2012
+840,COD,Growing fibre crops industry,ESP,0.00015704704808860388,CAN,2012
+841,COD,Growing crops n.e.c. industry,ESP,3.007271611392568e-07,CAN,2012
+842,COD,Growing grapes industry,ESP,0.0,CAN,2012
+843,COD,Growing fruits and nuts industry,ESP,0.0016954853747175541,CAN,2012
+844,COD,"Growing beverage crops (coffee, tea etc) industry",ESP,7.97990255603221e-06,CAN,2012
+845,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,9.656388998171239e-07,CAN,2012
+846,COD,Seeds and plant propagation industry,ESP,0.0,CAN,2012
+847,COD,Raising of cattle industry,ESP,0.0012576506299739646,CAN,2012
+848,COD,Growing wheat industry,EST,1.1013103656224892e-07,CAN,2012
+849,COD,Growing maize industry,EST,2.585553173609776e-05,CAN,2012
+850,COD,Growing cereals n.e.c industry,EST,2.4832863324912873e-08,CAN,2012
+851,COD,Growing leguminous crops and oil seeds industry,EST,0.000120263972083117,CAN,2012
+852,COD,Growing rice industry,EST,3.393274180895249e-06,CAN,2012
+853,COD,"Growing vegetables, roots, tubers industry",EST,5.051970699414702e-05,CAN,2012
+854,COD,Growing sugar beet and cane industry,EST,0.0,CAN,2012
+855,COD,Growing tobacco industry,EST,1.7235409546598143e-08,CAN,2012
+856,COD,Growing fibre crops industry,EST,5.90357987862548e-06,CAN,2012
+857,COD,Growing crops n.e.c. industry,EST,8.61427370570935e-09,CAN,2012
+858,COD,Growing grapes industry,EST,0.0,CAN,2012
+859,COD,Growing fruits and nuts industry,EST,7.017883047627604e-05,CAN,2012
+860,COD,"Growing beverage crops (coffee, tea etc) industry",EST,3.01267110801128e-07,CAN,2012
+861,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,2.9360562790562366e-08,CAN,2012
+862,COD,Seeds and plant propagation industry,EST,0.0,CAN,2012
+863,COD,Raising of cattle industry,EST,3.536813054891902e-05,CAN,2012
+864,COD,Growing wheat industry,ETH,6.857984987312099e-07,CAN,2012
+865,COD,Growing maize industry,ETH,0.00010271627486162407,CAN,2012
+866,COD,Growing cereals n.e.c industry,ETH,1.5736876045499832e-07,CAN,2012
+867,COD,Growing leguminous crops and oil seeds industry,ETH,0.00016957934048030297,CAN,2012
+868,COD,Growing rice industry,ETH,1.952362702695895e-05,CAN,2012
+869,COD,"Growing vegetables, roots, tubers industry",ETH,8.445168768660109e-05,CAN,2012
+870,COD,Growing sugar beet and cane industry,ETH,0.0,CAN,2012
+871,COD,Growing tobacco industry,ETH,1.5558861252976397e-07,CAN,2012
+872,COD,Growing fibre crops industry,ETH,1.6803252741983895e-05,CAN,2012
+873,COD,Growing crops n.e.c. industry,ETH,7.252838056660541e-08,CAN,2012
+874,COD,Growing grapes industry,ETH,0.0,CAN,2012
+875,COD,Growing fruits and nuts industry,ETH,0.0001461793433149149,CAN,2012
+876,COD,"Growing beverage crops (coffee, tea etc) industry",ETH,8.36753509540454e-07,CAN,2012
+877,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,1.1860215371001099e-07,CAN,2012
+878,COD,Seeds and plant propagation industry,ETH,0.0,CAN,2012
+879,COD,Raising of cattle industry,ETH,0.00024374371333220278,CAN,2012
+880,COD,Growing wheat industry,FIN,1.0269726543622995e-06,CAN,2012
+881,COD,Growing maize industry,FIN,0.0002098496370049736,CAN,2012
+882,COD,Growing cereals n.e.c industry,FIN,2.2867026575494827e-07,CAN,2012
+883,COD,Growing leguminous crops and oil seeds industry,FIN,0.0007479070008989884,CAN,2012
+884,COD,Growing rice industry,FIN,3.127533647960478e-05,CAN,2012
+885,COD,"Growing vegetables, roots, tubers industry",FIN,0.00033009653479975265,CAN,2012
+886,COD,Growing sugar beet and cane industry,FIN,0.0,CAN,2012
+887,COD,Growing tobacco industry,FIN,1.6135313636310957e-07,CAN,2012
+888,COD,Growing fibre crops industry,FIN,4.3876746237420766e-05,CAN,2012
+889,COD,Growing crops n.e.c. industry,FIN,8.173649396403786e-08,CAN,2012
+890,COD,Growing grapes industry,FIN,0.0,CAN,2012
+891,COD,Growing fruits and nuts industry,FIN,0.0004635913060866168,CAN,2012
+892,COD,"Growing beverage crops (coffee, tea etc) industry",FIN,2.169339457085033e-06,CAN,2012
+893,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,2.547661917318188e-07,CAN,2012
+894,COD,Seeds and plant propagation industry,FIN,0.0,CAN,2012
+895,COD,Raising of cattle industry,FIN,0.0003294242834034408,CAN,2012
+896,COD,Growing wheat industry,FRA,1.2672921893706214e-05,CAN,2012
+897,COD,Growing maize industry,FRA,0.0033182941120959105,CAN,2012
+898,COD,Growing cereals n.e.c industry,FRA,2.9789082142336616e-06,CAN,2012
+899,COD,Growing leguminous crops and oil seeds industry,FRA,0.014305773570667037,CAN,2012
+900,COD,Growing rice industry,FRA,0.00038655641520476405,CAN,2012
+901,COD,"Growing vegetables, roots, tubers industry",FRA,0.006093959623663705,CAN,2012
+902,COD,Growing sugar beet and cane industry,FRA,0.0,CAN,2012
+903,COD,Growing tobacco industry,FRA,2.027467034501104e-06,CAN,2012
+904,COD,Growing fibre crops industry,FRA,0.0007082807087072307,CAN,2012
+905,COD,Growing crops n.e.c. industry,FRA,9.76578606218315e-07,CAN,2012
+906,COD,Growing grapes industry,FRA,0.0,CAN,2012
+907,COD,Growing fruits and nuts industry,FRA,0.00851316105764118,CAN,2012
+908,COD,"Growing beverage crops (coffee, tea etc) industry",FRA,3.554544539866694e-05,CAN,2012
+909,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,3.705522523048705e-06,CAN,2012
+910,COD,Seeds and plant propagation industry,FRA,0.0,CAN,2012
+911,COD,Raising of cattle industry,FRA,0.004004457567127644,CAN,2012
+912,COD,Growing wheat industry,GAB,1.7662887135890305e-07,CAN,2012
+913,COD,Growing maize industry,GAB,4.291592012491916e-05,CAN,2012
+914,COD,Growing cereals n.e.c industry,GAB,4.094758937344633e-08,CAN,2012
+915,COD,Growing leguminous crops and oil seeds industry,GAB,6.957451067940627e-05,CAN,2012
+916,COD,Growing rice industry,GAB,5.169952417748204e-06,CAN,2012
+917,COD,"Growing vegetables, roots, tubers industry",GAB,3.3118049150413594e-05,CAN,2012
+918,COD,Growing sugar beet and cane industry,GAB,0.0,CAN,2012
+919,COD,Growing tobacco industry,GAB,3.0292968255475475e-08,CAN,2012
+920,COD,Growing fibre crops industry,GAB,5.8298026566158005e-06,CAN,2012
+921,COD,Growing crops n.e.c. industry,GAB,1.5426541867336975e-08,CAN,2012
+922,COD,Growing grapes industry,GAB,0.0,CAN,2012
+923,COD,Growing fruits and nuts industry,GAB,5.572110937238433e-05,CAN,2012
+924,COD,"Growing beverage crops (coffee, tea etc) industry",GAB,2.635974511074033e-07,CAN,2012
+925,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,3.521320783115022e-08,CAN,2012
+926,COD,Seeds and plant propagation industry,GAB,0.0,CAN,2012
+927,COD,Raising of cattle industry,GAB,6.075682327925088e-05,CAN,2012
+928,COD,Growing wheat industry,GBR,2.2157444651560832e-05,CAN,2012
+929,COD,Growing maize industry,GBR,0.00480338599355793,CAN,2012
+930,COD,Growing cereals n.e.c industry,GBR,4.874297008588037e-06,CAN,2012
+931,COD,Growing leguminous crops and oil seeds industry,GBR,0.01716465546293645,CAN,2012
+932,COD,Growing rice industry,GBR,0.0006695422094580571,CAN,2012
+933,COD,"Growing vegetables, roots, tubers industry",GBR,0.007517678913078128,CAN,2012
+934,COD,Growing sugar beet and cane industry,GBR,0.0,CAN,2012
+935,COD,Growing tobacco industry,GBR,4.009718097668516e-06,CAN,2012
+936,COD,Growing fibre crops industry,GBR,0.0009672237161136532,CAN,2012
+937,COD,Growing crops n.e.c. industry,GBR,1.974525293369891e-06,CAN,2012
+938,COD,Growing grapes industry,GBR,0.0,CAN,2012
+939,COD,Growing fruits and nuts industry,GBR,0.010671503928584672,CAN,2012
+940,COD,"Growing beverage crops (coffee, tea etc) industry",GBR,4.913251650835981e-05,CAN,2012
+941,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,5.515704708479284e-06,CAN,2012
+942,COD,Seeds and plant propagation industry,GBR,0.0,CAN,2012
+943,COD,Raising of cattle industry,GBR,0.0071653154867859494,CAN,2012
+944,COD,Growing wheat industry,GEO,1.5011445622525714e-07,CAN,2012
+945,COD,Growing maize industry,GEO,3.844401628431981e-05,CAN,2012
+946,COD,Growing cereals n.e.c industry,GEO,3.445557502085414e-08,CAN,2012
+947,COD,Growing leguminous crops and oil seeds industry,GEO,5.9404468265169854e-05,CAN,2012
+948,COD,Growing rice industry,GEO,4.534829339088936e-06,CAN,2012
+949,COD,"Growing vegetables, roots, tubers industry",GEO,2.9063896316960797e-05,CAN,2012
+950,COD,Growing sugar beet and cane industry,GEO,0.0,CAN,2012
+951,COD,Growing tobacco industry,GEO,2.4893955566763506e-08,CAN,2012
+952,COD,Growing fibre crops industry,GEO,4.978625458261106e-06,CAN,2012
+953,COD,Growing crops n.e.c. industry,GEO,1.2262186049553195e-08,CAN,2012
+954,COD,Growing grapes industry,GEO,0.0,CAN,2012
+955,COD,Growing fruits and nuts industry,GEO,5.791514976923744e-05,CAN,2012
+956,COD,"Growing beverage crops (coffee, tea etc) industry",GEO,2.4995275227243165e-07,CAN,2012
+957,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,3.3395737977183393e-08,CAN,2012
+958,COD,Seeds and plant propagation industry,GEO,0.0,CAN,2012
+959,COD,Raising of cattle industry,GEO,5.086919374684049e-05,CAN,2012
+960,COD,Growing wheat industry,GHA,1.3844815739944283e-06,CAN,2012
+961,COD,Growing maize industry,GHA,0.00023709432249222542,CAN,2012
+962,COD,Growing cereals n.e.c industry,GHA,3.09700608513829e-07,CAN,2012
+963,COD,Growing leguminous crops and oil seeds industry,GHA,0.0005186411967707822,CAN,2012
+964,COD,Growing rice industry,GHA,3.997280011662564e-05,CAN,2012
+965,COD,"Growing vegetables, roots, tubers industry",GHA,0.0002685784270435686,CAN,2012
+966,COD,Growing sugar beet and cane industry,GHA,0.0,CAN,2012
+967,COD,Growing tobacco industry,GHA,2.13746516338771e-07,CAN,2012
+968,COD,Growing fibre crops industry,GHA,4.3453438137083775e-05,CAN,2012
+969,COD,Growing crops n.e.c. industry,GHA,1.2136458802054348e-07,CAN,2012
+970,COD,Growing grapes industry,GHA,0.0,CAN,2012
+971,COD,Growing fruits and nuts industry,GHA,0.0004618470809004422,CAN,2012
+972,COD,"Growing beverage crops (coffee, tea etc) industry",GHA,2.4187251054509275e-06,CAN,2012
+973,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,3.362516590397584e-07,CAN,2012
+974,COD,Seeds and plant propagation industry,GHA,0.0,CAN,2012
+975,COD,Raising of cattle industry,GHA,0.0004662143107987481,CAN,2012
+976,COD,Growing wheat industry,GIN,1.0953797745344523e-07,CAN,2012
+977,COD,Growing maize industry,GIN,2.0496788488049966e-05,CAN,2012
+978,COD,Growing cereals n.e.c industry,GIN,2.4388033987160864e-08,CAN,2012
+979,COD,Growing leguminous crops and oil seeds industry,GIN,5.740283417551402e-05,CAN,2012
+980,COD,Growing rice industry,GIN,3.1869922313255203e-06,CAN,2012
+981,COD,"Growing vegetables, roots, tubers industry",GIN,2.595984471746917e-05,CAN,2012
+982,COD,Growing sugar beet and cane industry,GIN,0.0,CAN,2012
+983,COD,Growing tobacco industry,GIN,1.726499283682355e-08,CAN,2012
+984,COD,Growing fibre crops industry,GIN,3.6157563767325115e-06,CAN,2012
+985,COD,Growing crops n.e.c. industry,GIN,9.206168771197704e-09,CAN,2012
+986,COD,Growing grapes industry,GIN,0.0,CAN,2012
+987,COD,Growing fruits and nuts industry,GIN,3.766796423978664e-05,CAN,2012
+988,COD,"Growing beverage crops (coffee, tea etc) industry",GIN,1.8183330584697533e-07,CAN,2012
+989,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,2.1965626535709855e-08,CAN,2012
+990,COD,Seeds and plant propagation industry,GIN,0.0,CAN,2012
+991,COD,Raising of cattle industry,GIN,3.6530192483915204e-05,CAN,2012
+992,COD,Growing wheat industry,GMB,3.327078848717846e-09,CAN,2012
+993,COD,Growing maize industry,GMB,6.956865817666547e-07,CAN,2012
+994,COD,Growing cereals n.e.c industry,GMB,7.181043893741421e-10,CAN,2012
+995,COD,Growing leguminous crops and oil seeds industry,GMB,1.9860353530169724e-06,CAN,2012
+996,COD,Growing rice industry,GMB,9.846478688850455e-08,CAN,2012
+997,COD,"Growing vegetables, roots, tubers industry",GMB,8.987933186373987e-07,CAN,2012
+998,COD,Growing sugar beet and cane industry,GMB,0.0,CAN,2012
+999,COD,Growing tobacco industry,GMB,5.185790272733252e-10,CAN,2012
+1000,COD,Growing fibre crops industry,GMB,1.038269024552002e-07,CAN,2012
+1001,COD,Growing crops n.e.c. industry,GMB,2.4320558871875806e-10,CAN,2012
+1002,COD,Growing grapes industry,GMB,0.0,CAN,2012
+1003,COD,Growing fruits and nuts industry,GMB,1.2379993667913662e-06,CAN,2012
+1004,COD,"Growing beverage crops (coffee, tea etc) industry",GMB,6.012091037281909e-09,CAN,2012
+1005,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,7.279444947155155e-10,CAN,2012
+1006,COD,Seeds and plant propagation industry,GMB,0.0,CAN,2012
+1007,COD,Raising of cattle industry,GMB,1.0988291721945397e-06,CAN,2012
+1008,COD,Growing wheat industry,GNQ,1.9040630315814699e-07,CAN,2012
+1009,COD,Growing maize industry,GNQ,5.578692553504404e-05,CAN,2012
+1010,COD,Growing cereals n.e.c industry,GNQ,4.585077031097353e-08,CAN,2012
+1011,COD,Growing leguminous crops and oil seeds industry,GNQ,7.888800751378702e-05,CAN,2012
+1012,COD,Growing rice industry,GNQ,5.689146052512159e-06,CAN,2012
+1013,COD,"Growing vegetables, roots, tubers industry",GNQ,3.7610488116086755e-05,CAN,2012
+1014,COD,Growing sugar beet and cane industry,GNQ,0.0,CAN,2012
+1015,COD,Growing tobacco industry,GNQ,3.4845557086140274e-08,CAN,2012
+1016,COD,Growing fibre crops industry,GNQ,6.225152045894732e-06,CAN,2012
+1017,COD,Growing crops n.e.c. industry,GNQ,1.6139635624537083e-08,CAN,2012
+1018,COD,Growing grapes industry,GNQ,0.0,CAN,2012
+1019,COD,Growing fruits and nuts industry,GNQ,6.142825694071917e-05,CAN,2012
+1020,COD,"Growing beverage crops (coffee, tea etc) industry",GNQ,2.9471039267807165e-07,CAN,2012
+1021,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,3.914575827673353e-08,CAN,2012
+1022,COD,Seeds and plant propagation industry,GNQ,0.0,CAN,2012
+1023,COD,Raising of cattle industry,GNQ,6.573924380244244e-05,CAN,2012
+1024,COD,Growing wheat industry,GRC,1.1485726982499401e-06,CAN,2012
+1025,COD,Growing maize industry,GRC,0.00023509234264493608,CAN,2012
+1026,COD,Growing cereals n.e.c industry,GRC,2.4187020942381225e-07,CAN,2012
+1027,COD,Growing leguminous crops and oil seeds industry,GRC,0.0008512140609758175,CAN,2012
+1028,COD,Growing rice industry,GRC,3.8778339396562355e-05,CAN,2012
+1029,COD,"Growing vegetables, roots, tubers industry",GRC,0.00037806992441925255,CAN,2012
+1030,COD,Growing sugar beet and cane industry,GRC,0.0,CAN,2012
+1031,COD,Growing tobacco industry,GRC,1.6542187072397512e-07,CAN,2012
+1032,COD,Growing fibre crops industry,GRC,5.003603786565139e-05,CAN,2012
+1033,COD,Growing crops n.e.c. industry,GRC,7.347305470033874e-08,CAN,2012
+1034,COD,Growing grapes industry,GRC,0.0,CAN,2012
+1035,COD,Growing fruits and nuts industry,GRC,0.0004887409776450344,CAN,2012
+1036,COD,"Growing beverage crops (coffee, tea etc) industry",GRC,2.3366230632330875e-06,CAN,2012
+1037,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,3.181205241584602e-07,CAN,2012
+1038,COD,Seeds and plant propagation industry,GRC,0.0,CAN,2012
+1039,COD,Raising of cattle industry,GRC,0.000377118973523023,CAN,2012
+1040,COD,Growing wheat industry,GTM,9.830842366348694e-07,CAN,2012
+1041,COD,Growing maize industry,GTM,0.00024724226855947756,CAN,2012
+1042,COD,Growing cereals n.e.c industry,GTM,2.204303829288498e-07,CAN,2012
+1043,COD,Growing leguminous crops and oil seeds industry,GTM,0.0008916051341473904,CAN,2012
+1044,COD,Growing rice industry,GTM,2.9856174866683854e-05,CAN,2012
+1045,COD,"Growing vegetables, roots, tubers industry",GTM,0.0003925135886371896,CAN,2012
+1046,COD,Growing sugar beet and cane industry,GTM,0.0,CAN,2012
+1047,COD,Growing tobacco industry,GTM,1.5014470530352477e-07,CAN,2012
+1048,COD,Growing fibre crops industry,GTM,4.443618948093271e-05,CAN,2012
+1049,COD,Growing crops n.e.c. industry,GTM,7.051751574238144e-08,CAN,2012
+1050,COD,Growing grapes industry,GTM,0.0,CAN,2012
+1051,COD,Growing fruits and nuts industry,GTM,0.0005065193766406219,CAN,2012
+1052,COD,"Growing beverage crops (coffee, tea etc) industry",GTM,2.386594363550241e-06,CAN,2012
+1053,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,2.6622476186055617e-07,CAN,2012
+1054,COD,Seeds and plant propagation industry,GTM,0.0,CAN,2012
+1055,COD,Raising of cattle industry,GTM,0.0003249745262172504,CAN,2012
+1056,COD,Growing wheat industry,HND,6.180111196366196e-07,CAN,2012
+1057,COD,Growing maize industry,HND,0.00015447948590166966,CAN,2012
+1058,COD,Growing cereals n.e.c industry,HND,1.3630040517301086e-07,CAN,2012
+1059,COD,Growing leguminous crops and oil seeds industry,HND,0.0006319006899237316,CAN,2012
+1060,COD,Growing rice industry,HND,1.8932991956084782e-05,CAN,2012
+1061,COD,"Growing vegetables, roots, tubers industry",HND,0.00027610711916778745,CAN,2012
+1062,COD,Growing sugar beet and cane industry,HND,0.0,CAN,2012
+1063,COD,Growing tobacco industry,HND,1.010505442650371e-07,CAN,2012
+1064,COD,Growing fibre crops industry,HND,2.8802624249332435e-05,CAN,2012
+1065,COD,Growing crops n.e.c. industry,HND,4.467745316181535e-08,CAN,2012
+1066,COD,Growing grapes industry,HND,0.0,CAN,2012
+1067,COD,Growing fruits and nuts industry,HND,0.0003517006941940174,CAN,2012
+1068,COD,"Growing beverage crops (coffee, tea etc) industry",HND,1.6696820833882456e-06,CAN,2012
+1069,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,1.7858955609635946e-07,CAN,2012
+1070,COD,Seeds and plant propagation industry,HND,0.0,CAN,2012
+1071,COD,Raising of cattle industry,HND,0.00020304410579458746,CAN,2012
+1072,COD,Growing wheat industry,HKG,5.157302583985022e-06,CAN,2012
+1073,COD,Growing maize industry,HKG,0.001359318324039337,CAN,2012
+1074,COD,Growing cereals n.e.c industry,HKG,1.2023343996045986e-06,CAN,2012
+1075,COD,Growing leguminous crops and oil seeds industry,HKG,0.004698933700649785,CAN,2012
+1076,COD,Growing rice industry,HKG,0.00015747083312343162,CAN,2012
+1077,COD,"Growing vegetables, roots, tubers industry",HKG,0.002031757115663329,CAN,2012
+1078,COD,Growing sugar beet and cane industry,HKG,0.0,CAN,2012
+1079,COD,Growing tobacco industry,HKG,8.028875184767882e-07,CAN,2012
+1080,COD,Growing fibre crops industry,HKG,0.00026126453631100335,CAN,2012
+1081,COD,Growing crops n.e.c. industry,HKG,3.886797560698045e-07,CAN,2012
+1082,COD,Growing grapes industry,HKG,0.0,CAN,2012
+1083,COD,Growing fruits and nuts industry,HKG,0.0035705262752984313,CAN,2012
+1084,COD,"Growing beverage crops (coffee, tea etc) industry",HKG,1.2319971661535796e-05,CAN,2012
+1085,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,1.325718894559464e-06,CAN,2012
+1086,COD,Seeds and plant propagation industry,HKG,0.0,CAN,2012
+1087,COD,Raising of cattle industry,HKG,0.00168975687875963,CAN,2012
+1088,COD,Growing wheat industry,HRV,1.940891916715881e-07,CAN,2012
+1089,COD,Growing maize industry,HRV,4.6405026649044523e-05,CAN,2012
+1090,COD,Growing cereals n.e.c industry,HRV,4.358724156908105e-08,CAN,2012
+1091,COD,Growing leguminous crops and oil seeds industry,HRV,0.00019550478925645383,CAN,2012
+1092,COD,Growing rice industry,HRV,6.119886425946274e-06,CAN,2012
+1093,COD,"Growing vegetables, roots, tubers industry",HRV,8.335064550487228e-05,CAN,2012
+1094,COD,Growing sugar beet and cane industry,HRV,0.0,CAN,2012
+1095,COD,Growing tobacco industry,HRV,3.0196704854672814e-08,CAN,2012
+1096,COD,Growing fibre crops industry,HRV,9.749756146680313e-06,CAN,2012
+1097,COD,Growing crops n.e.c. industry,HRV,1.4289935190479542e-08,CAN,2012
+1098,COD,Growing grapes industry,HRV,0.0,CAN,2012
+1099,COD,Growing fruits and nuts industry,HRV,0.00011887556367778293,CAN,2012
+1100,COD,"Growing beverage crops (coffee, tea etc) industry",HRV,4.93933244596434e-07,CAN,2012
+1101,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,5.387522337502855e-08,CAN,2012
+1102,COD,Seeds and plant propagation industry,HRV,0.0,CAN,2012
+1103,COD,Raising of cattle industry,HRV,6.130584763013485e-05,CAN,2012
+1104,COD,Growing wheat industry,HTI,2.0548475260643336e-07,CAN,2012
+1105,COD,Growing maize industry,HTI,5.812899877923937e-05,CAN,2012
+1106,COD,Growing cereals n.e.c industry,HTI,4.8413556524484703e-08,CAN,2012
+1107,COD,Growing leguminous crops and oil seeds industry,HTI,9.840731403025237e-05,CAN,2012
+1108,COD,Growing rice industry,HTI,5.975220096039111e-06,CAN,2012
+1109,COD,"Growing vegetables, roots, tubers industry",HTI,4.795348556110485e-05,CAN,2012
+1110,COD,Growing sugar beet and cane industry,HTI,0.0,CAN,2012
+1111,COD,Growing tobacco industry,HTI,3.2790474606049675e-08,CAN,2012
+1112,COD,Growing fibre crops industry,HTI,7.293313241310773e-06,CAN,2012
+1113,COD,Growing crops n.e.c. industry,HTI,1.663811985452071e-08,CAN,2012
+1114,COD,Growing grapes industry,HTI,0.0,CAN,2012
+1115,COD,Growing fruits and nuts industry,HTI,7.444331740145972e-05,CAN,2012
+1116,COD,"Growing beverage crops (coffee, tea etc) industry",HTI,3.5098161111778597e-07,CAN,2012
+1117,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,4.8149503581089233e-08,CAN,2012
+1118,COD,Seeds and plant propagation industry,HTI,0.0,CAN,2012
+1119,COD,Raising of cattle industry,HTI,6.852768553238532e-05,CAN,2012
+1120,COD,Growing wheat industry,HUN,4.673775700562865e-07,CAN,2012
+1121,COD,Growing maize industry,HUN,0.0001040944595684344,CAN,2012
+1122,COD,Growing cereals n.e.c industry,HUN,1.0425352778022118e-07,CAN,2012
+1123,COD,Growing leguminous crops and oil seeds industry,HUN,0.0004311369301300814,CAN,2012
+1124,COD,Growing rice industry,HUN,1.4383312137317457e-05,CAN,2012
+1125,COD,"Growing vegetables, roots, tubers industry",HUN,0.0001850516260656721,CAN,2012
+1126,COD,Growing sugar beet and cane industry,HUN,0.0,CAN,2012
+1127,COD,Growing tobacco industry,HUN,7.464144772026308e-08,CAN,2012
+1128,COD,Growing fibre crops industry,HUN,2.2432616145760062e-05,CAN,2012
+1129,COD,Growing crops n.e.c. industry,HUN,3.597812015662669e-08,CAN,2012
+1130,COD,Growing grapes industry,HUN,0.0,CAN,2012
+1131,COD,Growing fruits and nuts industry,HUN,0.0002562968297547685,CAN,2012
+1132,COD,"Growing beverage crops (coffee, tea etc) industry",HUN,1.1364661584438356e-06,CAN,2012
+1133,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,1.21972088444897e-07,CAN,2012
+1134,COD,Seeds and plant propagation industry,HUN,0.0,CAN,2012
+1135,COD,Raising of cattle industry,HUN,0.00015182513392538043,CAN,2012
+1136,COD,Growing wheat industry,IDN,5.0446527977376276e-06,CAN,2012
+1137,COD,Growing maize industry,IDN,0.0012305437293776305,CAN,2012
+1138,COD,Growing cereals n.e.c industry,IDN,1.1445587387080268e-06,CAN,2012
+1139,COD,Growing leguminous crops and oil seeds industry,IDN,0.002784772088915288,CAN,2012
+1140,COD,Growing rice industry,IDN,0.00015043872838817402,CAN,2012
+1141,COD,"Growing vegetables, roots, tubers industry",IDN,0.0012745267212388239,CAN,2012
+1142,COD,Growing sugar beet and cane industry,IDN,0.0,CAN,2012
+1143,COD,Growing tobacco industry,IDN,7.717676252042074e-07,CAN,2012
+1144,COD,Growing fibre crops industry,IDN,0.0001907709127305865,CAN,2012
+1145,COD,Growing crops n.e.c. industry,IDN,3.7417061992695145e-07,CAN,2012
+1146,COD,Growing grapes industry,IDN,0.0,CAN,2012
+1147,COD,Growing fruits and nuts industry,IDN,0.0019010457547457122,CAN,2012
+1148,COD,"Growing beverage crops (coffee, tea etc) industry",IDN,8.607044000756234e-06,CAN,2012
+1149,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,1.1009170472565085e-06,CAN,2012
+1150,COD,Seeds and plant propagation industry,IDN,0.0,CAN,2012
+1151,COD,Raising of cattle industry,IDN,0.0016673579500404705,CAN,2012
+1152,COD,Growing wheat industry,IND,1.0791359434993468e-05,CAN,2012
+1153,COD,Growing maize industry,IND,0.002347933173463027,CAN,2012
+1154,COD,Growing cereals n.e.c industry,IND,2.4359174993731463e-06,CAN,2012
+1155,COD,Growing leguminous crops and oil seeds industry,IND,0.006093427033764327,CAN,2012
+1156,COD,Growing rice industry,IND,0.0003284867118553211,CAN,2012
+1157,COD,"Growing vegetables, roots, tubers industry",IND,0.0027446561268040653,CAN,2012
+1158,COD,Growing sugar beet and cane industry,IND,0.0,CAN,2012
+1159,COD,Growing tobacco industry,IND,1.6793722816126228e-06,CAN,2012
+1160,COD,Growing fibre crops industry,IND,0.0003808081735970893,CAN,2012
+1161,COD,Growing crops n.e.c. industry,IND,8.353583782266106e-07,CAN,2012
+1162,COD,Growing grapes industry,IND,0.0,CAN,2012
+1163,COD,Growing fruits and nuts industry,IND,0.004643444152608115,CAN,2012
+1164,COD,"Growing beverage crops (coffee, tea etc) industry",IND,1.899880844224256e-05,CAN,2012
+1165,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,2.2737238627265987e-06,CAN,2012
+1166,COD,Seeds and plant propagation industry,IND,0.0,CAN,2012
+1167,COD,Raising of cattle industry,IND,0.0036405686349363317,CAN,2012
+1168,COD,Growing wheat industry,IRL,1.7740177173711399e-06,CAN,2012
+1169,COD,Growing maize industry,IRL,0.00043472684159285023,CAN,2012
+1170,COD,Growing cereals n.e.c industry,IRL,4.105536990163334e-07,CAN,2012
+1171,COD,Growing leguminous crops and oil seeds industry,IRL,0.0020231864119383005,CAN,2012
+1172,COD,Growing rice industry,IRL,5.437000609548309e-05,CAN,2012
+1173,COD,"Growing vegetables, roots, tubers industry",IRL,0.000854890068624089,CAN,2012
+1174,COD,Growing sugar beet and cane industry,IRL,0.0,CAN,2012
+1175,COD,Growing tobacco industry,IRL,2.864135185042568e-07,CAN,2012
+1176,COD,Growing fibre crops industry,IRL,0.00010202476938617113,CAN,2012
+1177,COD,Growing crops n.e.c. industry,IRL,1.3507189239631516e-07,CAN,2012
+1178,COD,Growing grapes industry,IRL,0.0,CAN,2012
+1179,COD,Growing fruits and nuts industry,IRL,0.0011406303174636098,CAN,2012
+1180,COD,"Growing beverage crops (coffee, tea etc) industry",IRL,5.016646711797792e-06,CAN,2012
+1181,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,5.050593136506462e-07,CAN,2012
+1182,COD,Seeds and plant propagation industry,IRL,0.0,CAN,2012
+1183,COD,Raising of cattle industry,IRL,0.0005630271926942864,CAN,2012
+1184,COD,Growing wheat industry,IRN,3.835615151710212e-06,CAN,2012
+1185,COD,Growing maize industry,IRN,0.0006609707694646593,CAN,2012
+1186,COD,Growing cereals n.e.c industry,IRN,7.945859539363594e-07,CAN,2012
+1187,COD,Growing leguminous crops and oil seeds industry,IRN,0.0016874947730365917,CAN,2012
+1188,COD,Growing rice industry,IRN,0.00012649892748913563,CAN,2012
+1189,COD,"Growing vegetables, roots, tubers industry",IRN,0.0007687904975799487,CAN,2012
+1190,COD,Growing sugar beet and cane industry,IRN,0.0,CAN,2012
+1191,COD,Growing tobacco industry,IRN,6.038135134420653e-07,CAN,2012
+1192,COD,Growing fibre crops industry,IRN,0.00012090093932476756,CAN,2012
+1193,COD,Growing crops n.e.c. industry,IRN,2.6506383435927453e-07,CAN,2012
+1194,COD,Growing grapes industry,IRN,0.0,CAN,2012
+1195,COD,Growing fruits and nuts industry,IRN,0.0011267928335886611,CAN,2012
+1196,COD,"Growing beverage crops (coffee, tea etc) industry",IRN,5.6725789965147675e-06,CAN,2012
+1197,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,8.36187309321678e-07,CAN,2012
+1198,COD,Seeds and plant propagation industry,IRN,0.0,CAN,2012
+1199,COD,Raising of cattle industry,IRN,0.001248602413146726,CAN,2012
+1200,COD,Growing wheat industry,IRQ,1.5818376101869106e-06,CAN,2012
+1201,COD,Growing maize industry,IRQ,0.0002757101198787457,CAN,2012
+1202,COD,Growing cereals n.e.c industry,IRQ,3.4561312859015957e-07,CAN,2012
+1203,COD,Growing leguminous crops and oil seeds industry,IRQ,0.000616364841527105,CAN,2012
+1204,COD,Growing rice industry,IRQ,4.635002567723591e-05,CAN,2012
+1205,COD,"Growing vegetables, roots, tubers industry",IRQ,0.00028706388107353883,CAN,2012
+1206,COD,Growing sugar beet and cane industry,IRQ,0.0,CAN,2012
+1207,COD,Growing tobacco industry,IRQ,2.657247910060053e-07,CAN,2012
+1208,COD,Growing fibre crops industry,IRQ,4.768181919648393e-05,CAN,2012
+1209,COD,Growing crops n.e.c. industry,IRQ,1.2807636239781946e-07,CAN,2012
+1210,COD,Growing grapes industry,IRQ,0.0,CAN,2012
+1211,COD,Growing fruits and nuts industry,IRQ,0.0004485291868864893,CAN,2012
+1212,COD,"Growing beverage crops (coffee, tea etc) industry",IRQ,2.2147444202082354e-06,CAN,2012
+1213,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,2.761385987862164e-07,CAN,2012
+1214,COD,Seeds and plant propagation industry,IRQ,0.0,CAN,2012
+1215,COD,Raising of cattle industry,IRQ,0.0005549437482378692,CAN,2012
+1216,COD,Growing wheat industry,ISL,1.930708180239619e-07,CAN,2012
+1217,COD,Growing maize industry,ISL,4.780249859080751e-05,CAN,2012
+1218,COD,Growing cereals n.e.c industry,ISL,4.299495130102965e-08,CAN,2012
+1219,COD,Growing leguminous crops and oil seeds industry,ISL,0.00023799675430932036,CAN,2012
+1220,COD,Growing rice industry,ISL,6.507026695014471e-06,CAN,2012
+1221,COD,"Growing vegetables, roots, tubers industry",ISL,9.991798272521914e-05,CAN,2012
+1222,COD,Growing sugar beet and cane industry,ISL,0.0,CAN,2012
+1223,COD,Growing tobacco industry,ISL,2.909712646115491e-08,CAN,2012
+1224,COD,Growing fibre crops industry,ISL,1.173157511143166e-05,CAN,2012
+1225,COD,Growing crops n.e.c. industry,ISL,1.320998783757107e-08,CAN,2012
+1226,COD,Growing grapes industry,ISL,0.0,CAN,2012
+1227,COD,Growing fruits and nuts industry,ISL,0.0001230045532128191,CAN,2012
+1228,COD,"Growing beverage crops (coffee, tea etc) industry",ISL,5.716630087570103e-07,CAN,2012
+1229,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,6.413666557077165e-08,CAN,2012
+1230,COD,Seeds and plant propagation industry,ISL,0.0,CAN,2012
+1231,COD,Raising of cattle industry,ISL,5.816857984264947e-05,CAN,2012
+1232,COD,Growing wheat industry,ISR,1.4615356780991619e-06,CAN,2012
+1233,COD,Growing maize industry,ISR,0.00030845924650123546,CAN,2012
+1234,COD,Growing cereals n.e.c industry,ISR,3.2364638929950555e-07,CAN,2012
+1235,COD,Growing leguminous crops and oil seeds industry,ISR,0.001290995463811783,CAN,2012
+1236,COD,Growing rice industry,ISR,4.4558810219090207e-05,CAN,2012
+1237,COD,"Growing vegetables, roots, tubers industry",ISR,0.0005581924159256732,CAN,2012
+1238,COD,Growing sugar beet and cane industry,ISR,0.0,CAN,2012
+1239,COD,Growing tobacco industry,ISR,2.3755442864922847e-07,CAN,2012
+1240,COD,Growing fibre crops industry,ISR,6.981968569455718e-05,CAN,2012
+1241,COD,Growing crops n.e.c. industry,ISR,1.1303757302859781e-07,CAN,2012
+1242,COD,Growing grapes industry,ISR,0.0,CAN,2012
+1243,COD,Growing fruits and nuts industry,ISR,0.00073967116458118,CAN,2012
+1244,COD,"Growing beverage crops (coffee, tea etc) industry",ISR,3.4757688535772104e-06,CAN,2012
+1245,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,3.7540432471095176e-07,CAN,2012
+1246,COD,Seeds and plant propagation industry,ISR,0.0,CAN,2012
+1247,COD,Raising of cattle industry,ISR,0.00048143313125668095,CAN,2012
+1248,COD,Growing wheat industry,ITA,5.79244816169205e-06,CAN,2012
+1249,COD,Growing maize industry,ITA,0.001829333522082474,CAN,2012
+1250,COD,Growing cereals n.e.c industry,ITA,1.4005137548221542e-06,CAN,2012
+1251,COD,Growing leguminous crops and oil seeds industry,ITA,0.004020741445997682,CAN,2012
+1252,COD,Growing rice industry,ITA,0.00017599012282245132,CAN,2012
+1253,COD,"Growing vegetables, roots, tubers industry",ITA,0.0018238439256891116,CAN,2012
+1254,COD,Growing sugar beet and cane industry,ITA,0.0,CAN,2012
+1255,COD,Growing tobacco industry,ITA,8.958346219874273e-07,CAN,2012
+1256,COD,Growing fibre crops industry,ITA,0.00024065985059036125,CAN,2012
+1257,COD,Growing crops n.e.c. industry,ITA,4.4230374540197485e-07,CAN,2012
+1258,COD,Growing grapes industry,ITA,0.0,CAN,2012
+1259,COD,Growing fruits and nuts industry,ITA,0.0045544401651938645,CAN,2012
+1260,COD,"Growing beverage crops (coffee, tea etc) industry",ITA,1.173499418462825e-05,CAN,2012
+1261,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,1.4564230282373247e-06,CAN,2012
+1262,COD,Seeds and plant propagation industry,ITA,0.0,CAN,2012
+1263,COD,Raising of cattle industry,ITA,0.0018779524393496942,CAN,2012
+1264,COD,Growing wheat industry,JAM,8.700695763190096e-07,CAN,2012
+1265,COD,Growing maize industry,JAM,0.0002846961856030788,CAN,2012
+1266,COD,Growing cereals n.e.c industry,JAM,2.0257005877294064e-07,CAN,2012
+1267,COD,Growing leguminous crops and oil seeds industry,JAM,0.0010168984740850386,CAN,2012
+1268,COD,Growing rice industry,JAM,2.8872246879873052e-05,CAN,2012
+1269,COD,"Growing vegetables, roots, tubers industry",JAM,0.0004320805640426499,CAN,2012
+1270,COD,Growing sugar beet and cane industry,JAM,0.0,CAN,2012
+1271,COD,Growing tobacco industry,JAM,1.2607394904187143e-07,CAN,2012
+1272,COD,Growing fibre crops industry,JAM,5.033966184063633e-05,CAN,2012
+1273,COD,Growing crops n.e.c. industry,JAM,5.740218748216066e-08,CAN,2012
+1274,COD,Growing grapes industry,JAM,0.0,CAN,2012
+1275,COD,Growing fruits and nuts industry,JAM,0.0005360535337630979,CAN,2012
+1276,COD,"Growing beverage crops (coffee, tea etc) industry",JAM,2.399595196790649e-06,CAN,2012
+1277,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,2.6864701068957325e-07,CAN,2012
+1278,COD,Seeds and plant propagation industry,JAM,0.0,CAN,2012
+1279,COD,Raising of cattle industry,JAM,0.00028778109625876146,CAN,2012
+1280,COD,Growing wheat industry,JOR,3.5835848700842497e-07,CAN,2012
+1281,COD,Growing maize industry,JOR,6.986473169399034e-05,CAN,2012
+1282,COD,Growing cereals n.e.c industry,JOR,8.122509992393367e-08,CAN,2012
+1283,COD,Growing leguminous crops and oil seeds industry,JOR,0.00018715815630977788,CAN,2012
+1284,COD,Growing rice industry,JOR,1.0487118326611753e-05,CAN,2012
+1285,COD,"Growing vegetables, roots, tubers industry",JOR,8.549397562352491e-05,CAN,2012
+1286,COD,Growing sugar beet and cane industry,JOR,0.0,CAN,2012
+1287,COD,Growing tobacco industry,JOR,5.673099505705792e-08,CAN,2012
+1288,COD,Growing fibre crops industry,JOR,1.1756241146454466e-05,CAN,2012
+1289,COD,Growing crops n.e.c. industry,JOR,3.005188334961039e-08,CAN,2012
+1290,COD,Growing grapes industry,JOR,0.0,CAN,2012
+1291,COD,Growing fruits and nuts industry,JOR,0.00012602478834740114,CAN,2012
+1292,COD,"Growing beverage crops (coffee, tea etc) industry",JOR,6.10476429075869e-07,CAN,2012
+1293,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,7.472193900627087e-08,CAN,2012
+1294,COD,Seeds and plant propagation industry,JOR,0.0,CAN,2012
+1295,COD,Raising of cattle industry,JOR,0.00011825069273765622,CAN,2012
+1296,COD,Growing wheat industry,JPN,3.126219830759656e-05,CAN,2012
+1297,COD,Growing maize industry,JPN,0.022407393677052044,CAN,2012
+1298,COD,Growing cereals n.e.c industry,JPN,9.690616506060321e-06,CAN,2012
+1299,COD,Growing leguminous crops and oil seeds industry,JPN,0.01855240234718754,CAN,2012
+1300,COD,Growing rice industry,JPN,0.0009453823208547122,CAN,2012
+1301,COD,"Growing vegetables, roots, tubers industry",JPN,0.009097036442493737,CAN,2012
+1302,COD,Growing sugar beet and cane industry,JPN,0.0,CAN,2012
+1303,COD,Growing tobacco industry,JPN,5.2042555245917985e-06,CAN,2012
+1304,COD,Growing fibre crops industry,JPN,0.001249248189023892,CAN,2012
+1305,COD,Growing crops n.e.c. industry,JPN,2.521964516483666e-06,CAN,2012
+1306,COD,Growing grapes industry,JPN,0.0,CAN,2012
+1307,COD,Growing fruits and nuts industry,JPN,0.06453386585717742,CAN,2012
+1308,COD,"Growing beverage crops (coffee, tea etc) industry",JPN,6.241181426486816e-05,CAN,2012
+1309,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,7.599458901733995e-06,CAN,2012
+1310,COD,Seeds and plant propagation industry,JPN,0.0,CAN,2012
+1311,COD,Raising of cattle industry,JPN,0.010122934663970172,CAN,2012
+1312,COD,Growing wheat industry,KAZ,9.412958740985075e-07,CAN,2012
+1313,COD,Growing maize industry,KAZ,0.00020363185794093955,CAN,2012
+1314,COD,Growing cereals n.e.c industry,KAZ,2.1259732271463567e-07,CAN,2012
+1315,COD,Growing leguminous crops and oil seeds industry,KAZ,0.0009019344423040315,CAN,2012
+1316,COD,Growing rice industry,KAZ,2.9668771053802547e-05,CAN,2012
+1317,COD,"Growing vegetables, roots, tubers industry",KAZ,0.0003802337141599185,CAN,2012
+1318,COD,Growing sugar beet and cane industry,KAZ,0.0,CAN,2012
+1319,COD,Growing tobacco industry,KAZ,1.518258439683906e-07,CAN,2012
+1320,COD,Growing fibre crops industry,KAZ,4.499633618122199e-05,CAN,2012
+1321,COD,Growing crops n.e.c. industry,KAZ,7.404915392494106e-08,CAN,2012
+1322,COD,Growing grapes industry,KAZ,0.0,CAN,2012
+1323,COD,Growing fruits and nuts industry,KAZ,0.0004978281385598371,CAN,2012
+1324,COD,"Growing beverage crops (coffee, tea etc) industry",KAZ,2.2792740738346364e-06,CAN,2012
+1325,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,2.4596955795678513e-07,CAN,2012
+1326,COD,Seeds and plant propagation industry,KAZ,0.0,CAN,2012
+1327,COD,Raising of cattle industry,KAZ,0.0003028366432240235,CAN,2012
+1328,COD,Growing wheat industry,KEN,3.168792449486727e-07,CAN,2012
+1329,COD,Growing maize industry,KEN,5.663416693718996e-05,CAN,2012
+1330,COD,Growing cereals n.e.c industry,KEN,7.232608752443663e-08,CAN,2012
+1331,COD,Growing leguminous crops and oil seeds industry,KEN,0.00011730505347988422,CAN,2012
+1332,COD,Growing rice industry,KEN,9.248001029028252e-06,CAN,2012
+1333,COD,"Growing vegetables, roots, tubers industry",KEN,5.590700869385407e-05,CAN,2012
+1334,COD,Growing sugar beet and cane industry,KEN,0.0,CAN,2012
+1335,COD,Growing tobacco industry,KEN,5.4497071056121526e-08,CAN,2012
+1336,COD,Growing fibre crops industry,KEN,9.623849229959948e-06,CAN,2012
+1337,COD,Growing crops n.e.c. industry,KEN,2.7014472644328753e-08,CAN,2012
+1338,COD,Growing grapes industry,KEN,0.0,CAN,2012
+1339,COD,Growing fruits and nuts industry,KEN,9.028068232732158e-05,CAN,2012
+1340,COD,"Growing beverage crops (coffee, tea etc) industry",KEN,4.4903001207801415e-07,CAN,2012
+1341,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,5.868052046040809e-08,CAN,2012
+1342,COD,Seeds and plant propagation industry,KEN,0.0,CAN,2012
+1343,COD,Raising of cattle industry,KEN,0.00010764546056783374,CAN,2012
+1344,COD,Growing wheat industry,KGZ,1.089792435528266e-07,CAN,2012
+1345,COD,Growing maize industry,KGZ,3.0843578402185355e-05,CAN,2012
+1346,COD,Growing cereals n.e.c industry,KGZ,2.4718778539963962e-08,CAN,2012
+1347,COD,Growing leguminous crops and oil seeds industry,KGZ,7.4917429937763e-05,CAN,2012
+1348,COD,Growing rice industry,KGZ,3.52796713409449e-06,CAN,2012
+1349,COD,"Growing vegetables, roots, tubers industry",KGZ,3.577350609146293e-05,CAN,2012
+1350,COD,Growing sugar beet and cane industry,KGZ,0.0,CAN,2012
+1351,COD,Growing tobacco industry,KGZ,1.5899409929749196e-08,CAN,2012
+1352,COD,Growing fibre crops industry,KGZ,4.62078791707694e-06,CAN,2012
+1353,COD,Growing crops n.e.c. industry,KGZ,7.220112100044047e-09,CAN,2012
+1354,COD,Growing grapes industry,KGZ,0.0,CAN,2012
+1355,COD,Growing fruits and nuts industry,KGZ,6.544102783599738e-05,CAN,2012
+1356,COD,"Growing beverage crops (coffee, tea etc) industry",KGZ,2.2548822007181129e-07,CAN,2012
+1357,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,3.1987634050831636e-08,CAN,2012
+1358,COD,Seeds and plant propagation industry,KGZ,0.0,CAN,2012
+1359,COD,Raising of cattle industry,KGZ,3.7021658050808326e-05,CAN,2012
+1360,COD,Growing wheat industry,KHM,1.0672602365782736e-07,CAN,2012
+1361,COD,Growing maize industry,KHM,2.2737255116231318e-05,CAN,2012
+1362,COD,Growing cereals n.e.c industry,KHM,2.342748467290784e-08,CAN,2012
+1363,COD,Growing leguminous crops and oil seeds industry,KHM,5.577961568586111e-05,CAN,2012
+1364,COD,Growing rice industry,KHM,3.271626570727325e-06,CAN,2012
+1365,COD,"Growing vegetables, roots, tubers industry",KHM,2.5763170915910375e-05,CAN,2012
+1366,COD,Growing sugar beet and cane industry,KHM,0.0,CAN,2012
+1367,COD,Growing tobacco industry,KHM,1.7549349479308796e-08,CAN,2012
+1368,COD,Growing fibre crops industry,KHM,3.832121737029849e-06,CAN,2012
+1369,COD,Growing crops n.e.c. industry,KHM,8.336334634197208e-09,CAN,2012
+1370,COD,Growing grapes industry,KHM,0.0,CAN,2012
+1371,COD,Growing fruits and nuts industry,KHM,4.293041903419094e-05,CAN,2012
+1372,COD,"Growing beverage crops (coffee, tea etc) industry",KHM,1.8537011828878673e-07,CAN,2012
+1373,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,2.397544949896912e-08,CAN,2012
+1374,COD,Seeds and plant propagation industry,KHM,0.0,CAN,2012
+1375,COD,Raising of cattle industry,KHM,3.5841998257811745e-05,CAN,2012
+1376,COD,Growing wheat industry,KOR,1.0314316033891085e-05,CAN,2012
+1377,COD,Growing maize industry,KOR,0.0025855473219520073,CAN,2012
+1378,COD,Growing cereals n.e.c industry,KOR,2.350642957807762e-06,CAN,2012
+1379,COD,Growing leguminous crops and oil seeds industry,KOR,0.009122793543922258,CAN,2012
+1380,COD,Growing rice industry,KOR,0.0003117070111554255,CAN,2012
+1381,COD,"Growing vegetables, roots, tubers industry",KOR,0.003940780023516252,CAN,2012
+1382,COD,Growing sugar beet and cane industry,KOR,0.0,CAN,2012
+1383,COD,Growing tobacco industry,KOR,1.6274169799523424e-06,CAN,2012
+1384,COD,Growing fibre crops industry,KOR,0.0004907623973647812,CAN,2012
+1385,COD,Growing crops n.e.c. industry,KOR,7.720365033192554e-07,CAN,2012
+1386,COD,Growing grapes industry,KOR,0.0,CAN,2012
+1387,COD,Growing fruits and nuts industry,KOR,0.005617746215417754,CAN,2012
+1388,COD,"Growing beverage crops (coffee, tea etc) industry",KOR,2.43776157815675e-05,CAN,2012
+1389,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,2.5903569320649304e-06,CAN,2012
+1390,COD,Seeds and plant propagation industry,KOR,0.0,CAN,2012
+1391,COD,Raising of cattle industry,KOR,0.0033874708407859665,CAN,2012
+1392,COD,Growing wheat industry,KWT,1.3630428118470834e-06,CAN,2012
+1393,COD,Growing maize industry,KWT,0.00028091030688027064,CAN,2012
+1394,COD,Growing cereals n.e.c industry,KWT,3.061768662176171e-07,CAN,2012
+1395,COD,Growing leguminous crops and oil seeds industry,KWT,0.0006126216270373093,CAN,2012
+1396,COD,Growing rice industry,KWT,4.012776560501747e-05,CAN,2012
+1397,COD,"Growing vegetables, roots, tubers industry",KWT,0.00029765714314740403,CAN,2012
+1398,COD,Growing sugar beet and cane industry,KWT,0.0,CAN,2012
+1399,COD,Growing tobacco industry,KWT,2.2803186184644774e-07,CAN,2012
+1400,COD,Growing fibre crops industry,KWT,4.248957940108523e-05,CAN,2012
+1401,COD,Growing crops n.e.c. industry,KWT,1.2268626296506727e-07,CAN,2012
+1402,COD,Growing grapes industry,KWT,0.0,CAN,2012
+1403,COD,Growing fruits and nuts industry,KWT,0.00048533071144463196,CAN,2012
+1404,COD,"Growing beverage crops (coffee, tea etc) industry",KWT,2.2452645143490366e-06,CAN,2012
+1405,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,3.1903664489321274e-07,CAN,2012
+1406,COD,Seeds and plant propagation industry,KWT,0.0,CAN,2012
+1407,COD,Raising of cattle industry,KWT,0.0004621209334521917,CAN,2012
+1408,COD,Growing wheat industry,LAO,8.586376910159607e-08,CAN,2012
+1409,COD,Growing maize industry,LAO,1.604575813605243e-05,CAN,2012
+1410,COD,Growing cereals n.e.c industry,LAO,1.8257606393834617e-08,CAN,2012
+1411,COD,Growing leguminous crops and oil seeds industry,LAO,3.957367189108496e-05,CAN,2012
+1412,COD,Growing rice industry,LAO,2.750148054006799e-06,CAN,2012
+1413,COD,"Growing vegetables, roots, tubers industry",LAO,1.8400900949597262e-05,CAN,2012
+1414,COD,Growing sugar beet and cane industry,LAO,0.0,CAN,2012
+1415,COD,Growing tobacco industry,LAO,1.3412550136250121e-08,CAN,2012
+1416,COD,Growing fibre crops industry,LAO,2.9052075822494943e-06,CAN,2012
+1417,COD,Growing crops n.e.c. industry,LAO,6.12740861397709e-09,CAN,2012
+1418,COD,Growing grapes industry,LAO,0.0,CAN,2012
+1419,COD,Growing fruits and nuts industry,LAO,3.086536411848181e-05,CAN,2012
+1420,COD,"Growing beverage crops (coffee, tea etc) industry",LAO,1.3800105057313078e-07,CAN,2012
+1421,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,1.944281748697972e-08,CAN,2012
+1422,COD,Seeds and plant propagation industry,LAO,0.0,CAN,2012
+1423,COD,Raising of cattle industry,LAO,2.8090214535136598e-05,CAN,2012
+1424,COD,Growing wheat industry,LBN,6.694663792438847e-07,CAN,2012
+1425,COD,Growing maize industry,LBN,0.00012676488067991503,CAN,2012
+1426,COD,Growing cereals n.e.c industry,LBN,1.548269749456825e-07,CAN,2012
+1427,COD,Growing leguminous crops and oil seeds industry,LBN,0.0002665952503869569,CAN,2012
+1428,COD,Growing rice industry,LBN,1.9215867095209214e-05,CAN,2012
+1429,COD,"Growing vegetables, roots, tubers industry",LBN,0.00012620726229187616,CAN,2012
+1430,COD,Growing sugar beet and cane industry,LBN,0.0,CAN,2012
+1431,COD,Growing tobacco industry,LBN,1.0723709539855769e-07,CAN,2012
+1432,COD,Growing fibre crops industry,LBN,2.3639464585789658e-05,CAN,2012
+1433,COD,Growing crops n.e.c. industry,LBN,5.729979467935111e-08,CAN,2012
+1434,COD,Growing grapes industry,LBN,0.0,CAN,2012
+1435,COD,Growing fruits and nuts industry,LBN,0.00021712799423179128,CAN,2012
+1436,COD,"Growing beverage crops (coffee, tea etc) industry",LBN,1.0162485005964265e-06,CAN,2012
+1437,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,1.2738269102194754e-07,CAN,2012
+1438,COD,Seeds and plant propagation industry,LBN,0.0,CAN,2012
+1439,COD,Raising of cattle industry,LBN,0.0002191233552799104,CAN,2012
+1440,COD,Growing wheat industry,LBR,1.4693621666242519e-08,CAN,2012
+1441,COD,Growing maize industry,LBR,2.95324200553699e-06,CAN,2012
+1442,COD,Growing cereals n.e.c industry,LBR,3.2834763283772494e-09,CAN,2012
+1443,COD,Growing leguminous crops and oil seeds industry,LBR,6.83945064724539e-06,CAN,2012
+1444,COD,Growing rice industry,LBR,4.362319469327258e-07,CAN,2012
+1445,COD,"Growing vegetables, roots, tubers industry",LBR,3.285163183670526e-06,CAN,2012
+1446,COD,Growing sugar beet and cane industry,LBR,0.0,CAN,2012
+1447,COD,Growing tobacco industry,LBR,2.39751494542909e-09,CAN,2012
+1448,COD,Growing fibre crops industry,LBR,4.657626154905549e-07,CAN,2012
+1449,COD,Growing crops n.e.c. industry,LBR,1.1568397476915308e-09,CAN,2012
+1450,COD,Growing grapes industry,LBR,0.0,CAN,2012
+1451,COD,Growing fruits and nuts industry,LBR,5.0490654440550166e-06,CAN,2012
+1452,COD,"Growing beverage crops (coffee, tea etc) industry",LBR,2.410877722638694e-08,CAN,2012
+1453,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,3.1941397752979714e-09,CAN,2012
+1454,COD,Seeds and plant propagation industry,LBR,0.0,CAN,2012
+1455,COD,Raising of cattle industry,LBR,4.9666045945729055e-06,CAN,2012
+1456,COD,Growing wheat industry,LBY,9.11910589042824e-07,CAN,2012
+1457,COD,Growing maize industry,LBY,0.00019406155468906772,CAN,2012
+1458,COD,Growing cereals n.e.c industry,LBY,2.1410476187300552e-07,CAN,2012
+1459,COD,Growing leguminous crops and oil seeds industry,LBY,0.00034655489616348414,CAN,2012
+1460,COD,Growing rice industry,LBY,2.6290139390697204e-05,CAN,2012
+1461,COD,"Growing vegetables, roots, tubers industry",LBY,0.00016187431121733026,CAN,2012
+1462,COD,Growing sugar beet and cane industry,LBY,0.0,CAN,2012
+1463,COD,Growing tobacco industry,LBY,1.4504481650261543e-07,CAN,2012
+1464,COD,Growing fibre crops industry,LBY,3.0918481044266904e-05,CAN,2012
+1465,COD,Growing crops n.e.c. industry,LBY,7.865133044579299e-08,CAN,2012
+1466,COD,Growing grapes industry,LBY,0.0,CAN,2012
+1467,COD,Growing fruits and nuts industry,LBY,0.00028392120774757275,CAN,2012
+1468,COD,"Growing beverage crops (coffee, tea etc) industry",LBY,1.2852996019842287e-06,CAN,2012
+1469,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,1.6158473867763213e-07,CAN,2012
+1470,COD,Seeds and plant propagation industry,LBY,0.0,CAN,2012
+1471,COD,Raising of cattle industry,LBY,0.0003079351132149176,CAN,2012
+1472,COD,Growing wheat industry,LKA,3.898110247106732e-07,CAN,2012
+1473,COD,Growing maize industry,LKA,7.488132957258616e-05,CAN,2012
+1474,COD,Growing cereals n.e.c industry,LKA,8.13885858831913e-08,CAN,2012
+1475,COD,Growing leguminous crops and oil seeds industry,LKA,0.00014491411017198043,CAN,2012
+1476,COD,Growing rice industry,LKA,1.1457719754809175e-05,CAN,2012
+1477,COD,"Growing vegetables, roots, tubers industry",LKA,7.13513579108868e-05,CAN,2012
+1478,COD,Growing sugar beet and cane industry,LKA,0.0,CAN,2012
+1479,COD,Growing tobacco industry,LKA,5.641005209645731e-08,CAN,2012
+1480,COD,Growing fibre crops industry,LKA,1.1073474465632775e-05,CAN,2012
+1481,COD,Growing crops n.e.c. industry,LKA,2.7822951447821185e-08,CAN,2012
+1482,COD,Growing grapes industry,LKA,0.0,CAN,2012
+1483,COD,Growing fruits and nuts industry,LKA,0.00011239000749357533,CAN,2012
+1484,COD,"Growing beverage crops (coffee, tea etc) industry",LKA,5.533891272673212e-07,CAN,2012
+1485,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,7.69135909752405e-08,CAN,2012
+1486,COD,Seeds and plant propagation industry,LKA,0.0,CAN,2012
+1487,COD,Raising of cattle industry,LKA,0.00012995925696613323,CAN,2012
+1488,COD,Growing wheat industry,LTU,1.613545939363635e-07,CAN,2012
+1489,COD,Growing maize industry,LTU,3.593586482098291e-05,CAN,2012
+1490,COD,Growing cereals n.e.c industry,LTU,3.593249551594107e-08,CAN,2012
+1491,COD,Growing leguminous crops and oil seeds industry,LTU,0.00016101898928602367,CAN,2012
+1492,COD,Growing rice industry,LTU,4.96163990304356e-06,CAN,2012
+1493,COD,"Growing vegetables, roots, tubers industry",LTU,6.818320190987118e-05,CAN,2012
+1494,COD,Growing sugar beet and cane industry,LTU,0.0,CAN,2012
+1495,COD,Growing tobacco industry,LTU,2.61331936240931e-08,CAN,2012
+1496,COD,Growing fibre crops industry,LTU,7.931989712588911e-06,CAN,2012
+1497,COD,Growing crops n.e.c. industry,LTU,1.2697346574702372e-08,CAN,2012
+1498,COD,Growing grapes industry,LTU,0.0,CAN,2012
+1499,COD,Growing fruits and nuts industry,LTU,8.933533645853216e-05,CAN,2012
+1500,COD,"Growing beverage crops (coffee, tea etc) industry",LTU,4.071010102055536e-07,CAN,2012
+1501,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,4.1688092790816494e-08,CAN,2012
+1502,COD,Seeds and plant propagation industry,LTU,0.0,CAN,2012
+1503,COD,Raising of cattle industry,LTU,5.302215878031184e-05,CAN,2012
+1504,COD,Growing wheat industry,LUX,2.749189031983747e-07,CAN,2012
+1505,COD,Growing maize industry,LUX,6.380764513701318e-05,CAN,2012
+1506,COD,Growing cereals n.e.c industry,LUX,6.498959294378066e-08,CAN,2012
+1507,COD,Growing leguminous crops and oil seeds industry,LUX,0.0002855744978706975,CAN,2012
+1508,COD,Growing rice industry,LUX,8.18241142845201e-06,CAN,2012
+1509,COD,"Growing vegetables, roots, tubers industry",LUX,0.00012202508021735341,CAN,2012
+1510,COD,Growing sugar beet and cane industry,LUX,0.0,CAN,2012
+1511,COD,Growing tobacco industry,LUX,4.381932743178858e-08,CAN,2012
+1512,COD,Growing fibre crops industry,LUX,1.6177897532786737e-05,CAN,2012
+1513,COD,Growing crops n.e.c. industry,LUX,2.1680537572052464e-08,CAN,2012
+1514,COD,Growing grapes industry,LUX,0.0,CAN,2012
+1515,COD,Growing fruits and nuts industry,LUX,0.00016134006966808572,CAN,2012
+1516,COD,"Growing beverage crops (coffee, tea etc) industry",LUX,7.522378695280217e-07,CAN,2012
+1517,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,7.727317106324003e-08,CAN,2012
+1518,COD,Seeds and plant propagation industry,LUX,0.0,CAN,2012
+1519,COD,Raising of cattle industry,LUX,8.496247280842317e-05,CAN,2012
+1520,COD,Growing wheat industry,LVA,1.0533462993081644e-07,CAN,2012
+1521,COD,Growing maize industry,LVA,2.4508033302915794e-05,CAN,2012
+1522,COD,Growing cereals n.e.c industry,LVA,2.3402031474115717e-08,CAN,2012
+1523,COD,Growing leguminous crops and oil seeds industry,LVA,0.00013215103845533148,CAN,2012
+1524,COD,Growing rice industry,LVA,3.3972811598157614e-06,CAN,2012
+1525,COD,"Growing vegetables, roots, tubers industry",LVA,5.4968309165266514e-05,CAN,2012
+1526,COD,Growing sugar beet and cane industry,LVA,0.0,CAN,2012
+1527,COD,Growing tobacco industry,LVA,1.6201199024395486e-08,CAN,2012
+1528,COD,Growing fibre crops industry,LVA,5.8583394403805814e-06,CAN,2012
+1529,COD,Growing crops n.e.c. industry,LVA,7.685324510017471e-09,CAN,2012
+1530,COD,Growing grapes industry,LVA,0.0,CAN,2012
+1531,COD,Growing fruits and nuts industry,LVA,6.928143793929665e-05,CAN,2012
+1532,COD,"Growing beverage crops (coffee, tea etc) industry",LVA,3.119846929223719e-07,CAN,2012
+1533,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,3.1296179843743765e-08,CAN,2012
+1534,COD,Seeds and plant propagation industry,LVA,0.0,CAN,2012
+1535,COD,Raising of cattle industry,LVA,3.3483209528833795e-05,CAN,2012
+1536,COD,Growing wheat industry,MAR,1.1100311809381584e-06,CAN,2012
+1537,COD,Growing maize industry,MAR,0.00023708983308620365,CAN,2012
+1538,COD,Growing cereals n.e.c industry,MAR,2.391560797527399e-07,CAN,2012
+1539,COD,Growing leguminous crops and oil seeds industry,MAR,0.0007701568877003143,CAN,2012
+1540,COD,Growing rice industry,MAR,3.3803893281597226e-05,CAN,2012
+1541,COD,"Growing vegetables, roots, tubers industry",MAR,0.00034694592358980574,CAN,2012
+1542,COD,Growing sugar beet and cane industry,MAR,0.0,CAN,2012
+1543,COD,Growing tobacco industry,MAR,1.6388290063343712e-07,CAN,2012
+1544,COD,Growing fibre crops industry,MAR,4.452818774938755e-05,CAN,2012
+1545,COD,Growing crops n.e.c. industry,MAR,7.691368593447702e-08,CAN,2012
+1546,COD,Growing grapes industry,MAR,0.0,CAN,2012
+1547,COD,Growing fruits and nuts industry,MAR,0.00043519630434980317,CAN,2012
+1548,COD,"Growing beverage crops (coffee, tea etc) industry",MAR,2.1605093875826453e-06,CAN,2012
+1549,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,2.744531101642369e-07,CAN,2012
+1550,COD,Seeds and plant propagation industry,MAR,0.0,CAN,2012
+1551,COD,Raising of cattle industry,MAR,0.0003660330988704141,CAN,2012
+1552,COD,Growing wheat industry,MDA,3.841002240097258e-08,CAN,2012
+1553,COD,Growing maize industry,MDA,8.430923314747682e-06,CAN,2012
+1554,COD,Growing cereals n.e.c industry,MDA,8.48423518172005e-09,CAN,2012
+1555,COD,Growing leguminous crops and oil seeds industry,MDA,2.0343845319621645e-05,CAN,2012
+1556,COD,Growing rice industry,MDA,1.1636511359474786e-06,CAN,2012
+1557,COD,"Growing vegetables, roots, tubers industry",MDA,9.283506397646759e-06,CAN,2012
+1558,COD,Growing sugar beet and cane industry,MDA,0.0,CAN,2012
+1559,COD,Growing tobacco industry,MDA,6.058465035874661e-09,CAN,2012
+1560,COD,Growing fibre crops industry,MDA,1.2581803417304353e-06,CAN,2012
+1561,COD,Growing crops n.e.c. industry,MDA,3.0060108546555093e-09,CAN,2012
+1562,COD,Growing grapes industry,MDA,0.0,CAN,2012
+1563,COD,Growing fruits and nuts industry,MDA,1.4861322128346623e-05,CAN,2012
+1564,COD,"Growing beverage crops (coffee, tea etc) industry",MDA,6.792054993181272e-08,CAN,2012
+1565,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,7.966956463268162e-09,CAN,2012
+1566,COD,Seeds and plant propagation industry,MDA,0.0,CAN,2012
+1567,COD,Raising of cattle industry,MDA,1.2833915676164513e-05,CAN,2012
+1568,COD,Growing wheat industry,MDG,1.5733228547311385e-07,CAN,2012
+1569,COD,Growing maize industry,MDG,2.496276832441144e-05,CAN,2012
+1570,COD,Growing cereals n.e.c industry,MDG,3.466654280699332e-08,CAN,2012
+1571,COD,Growing leguminous crops and oil seeds industry,MDG,8.834522459257446e-05,CAN,2012
+1572,COD,Growing rice industry,MDG,4.7423988544674605e-06,CAN,2012
+1573,COD,"Growing vegetables, roots, tubers industry",MDG,3.908619269531826e-05,CAN,2012
+1574,COD,Growing sugar beet and cane industry,MDG,0.0,CAN,2012
+1575,COD,Growing tobacco industry,MDG,2.4243622032738707e-08,CAN,2012
+1576,COD,Growing fibre crops industry,MDG,4.433646550599203e-06,CAN,2012
+1577,COD,Growing crops n.e.c. industry,MDG,1.350913356042674e-08,CAN,2012
+1578,COD,Growing grapes industry,MDG,0.0,CAN,2012
+1579,COD,Growing fruits and nuts industry,MDG,5.5263596686649684e-05,CAN,2012
+1580,COD,"Growing beverage crops (coffee, tea etc) industry",MDG,2.712250910327062e-07,CAN,2012
+1581,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,3.231682480700564e-08,CAN,2012
+1582,COD,Seeds and plant propagation industry,MDG,0.0,CAN,2012
+1583,COD,Raising of cattle industry,MDG,5.4366254232896414e-05,CAN,2012
+1584,COD,Growing wheat industry,MEX,3.097468017470615e-05,CAN,2012
+1585,COD,Growing maize industry,MEX,0.007479510526228797,CAN,2012
+1586,COD,Growing cereals n.e.c industry,MEX,7.049715157463284e-06,CAN,2012
+1587,COD,Growing leguminous crops and oil seeds industry,MEX,0.02001979289054061,CAN,2012
+1588,COD,Growing rice industry,MEX,0.0009221185526396531,CAN,2012
+1589,COD,"Growing vegetables, roots, tubers industry",MEX,0.008923507331538771,CAN,2012
+1590,COD,Growing sugar beet and cane industry,MEX,0.0,CAN,2012
+1591,COD,Growing tobacco industry,MEX,4.839769604765219e-06,CAN,2012
+1592,COD,Growing fibre crops industry,MEX,0.0010242414533532156,CAN,2012
+1593,COD,Growing crops n.e.c. industry,MEX,2.4844143939519133e-06,CAN,2012
+1594,COD,Growing grapes industry,MEX,0.0,CAN,2012
+1595,COD,Growing fruits and nuts industry,MEX,0.014956723227096345,CAN,2012
+1596,COD,"Growing beverage crops (coffee, tea etc) industry",MEX,5.677427534699613e-05,CAN,2012
+1597,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,6.544941567499514e-06,CAN,2012
+1598,COD,Seeds and plant propagation industry,MEX,0.0,CAN,2012
+1599,COD,Raising of cattle industry,MEX,0.01041324122250514,CAN,2012
+1600,COD,Growing wheat industry,MKD,5.889404277389208e-08,CAN,2012
+1601,COD,Growing maize industry,MKD,2.4766092475828918e-05,CAN,2012
+1602,COD,Growing cereals n.e.c industry,MKD,1.4714861858190353e-08,CAN,2012
+1603,COD,Growing leguminous crops and oil seeds industry,MKD,2.6031483900460506e-05,CAN,2012
+1604,COD,Growing rice industry,MKD,1.8138149359854061e-06,CAN,2012
+1605,COD,"Growing vegetables, roots, tubers industry",MKD,1.5412973759824023e-05,CAN,2012
+1606,COD,Growing sugar beet and cane industry,MKD,0.0,CAN,2012
+1607,COD,Growing tobacco industry,MKD,9.494868336830355e-09,CAN,2012
+1608,COD,Growing fibre crops industry,MKD,2.1475573372030487e-06,CAN,2012
+1609,COD,Growing crops n.e.c. industry,MKD,4.322172074201879e-09,CAN,2012
+1610,COD,Growing grapes industry,MKD,0.0,CAN,2012
+1611,COD,Growing fruits and nuts industry,MKD,2.4813092653251097e-05,CAN,2012
+1612,COD,"Growing beverage crops (coffee, tea etc) industry",MKD,1.0934554562302063e-07,CAN,2012
+1613,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.9006033680404784e-08,CAN,2012
+1614,COD,Seeds and plant propagation industry,MKD,0.0,CAN,2012
+1615,COD,Raising of cattle industry,MKD,1.9852001827981088e-05,CAN,2012
+1616,COD,Growing wheat industry,MLI,1.0454407221609238e-07,CAN,2012
+1617,COD,Growing maize industry,MLI,1.8286429000462888e-05,CAN,2012
+1618,COD,Growing cereals n.e.c industry,MLI,2.3159613718885497e-08,CAN,2012
+1619,COD,Growing leguminous crops and oil seeds industry,MLI,5.156635308752855e-05,CAN,2012
+1620,COD,Growing rice industry,MLI,3.118942999165547e-06,CAN,2012
+1621,COD,"Growing vegetables, roots, tubers industry",MLI,2.3524761514901715e-05,CAN,2012
+1622,COD,Growing sugar beet and cane industry,MLI,0.0,CAN,2012
+1623,COD,Growing tobacco industry,MLI,1.7362547693055314e-08,CAN,2012
+1624,COD,Growing fibre crops industry,MLI,3.3987792627213654e-06,CAN,2012
+1625,COD,Growing crops n.e.c. industry,MLI,8.785118603511789e-09,CAN,2012
+1626,COD,Growing grapes industry,MLI,0.0,CAN,2012
+1627,COD,Growing fruits and nuts industry,MLI,3.564723775137098e-05,CAN,2012
+1628,COD,"Growing beverage crops (coffee, tea etc) industry",MLI,1.7306845975021684e-07,CAN,2012
+1629,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,2.117657086027483e-08,CAN,2012
+1630,COD,Seeds and plant propagation industry,MLI,0.0,CAN,2012
+1631,COD,Raising of cattle industry,MLI,3.58338785019273e-05,CAN,2012
+1632,COD,Growing wheat industry,MLT,1.0518355799022279e-07,CAN,2012
+1633,COD,Growing maize industry,MLT,2.47732478978954e-05,CAN,2012
+1634,COD,Growing cereals n.e.c industry,MLT,2.3641637306009553e-08,CAN,2012
+1635,COD,Growing leguminous crops and oil seeds industry,MLT,0.00013276011724961252,CAN,2012
+1636,COD,Growing rice industry,MLT,3.361835292327087e-06,CAN,2012
+1637,COD,"Growing vegetables, roots, tubers industry",MLT,5.548059543857001e-05,CAN,2012
+1638,COD,Growing sugar beet and cane industry,MLT,0.0,CAN,2012
+1639,COD,Growing tobacco industry,MLT,1.5888881137371154e-08,CAN,2012
+1640,COD,Growing fibre crops industry,MLT,7.082035516151948e-06,CAN,2012
+1641,COD,Growing crops n.e.c. industry,MLT,7.518776309660392e-09,CAN,2012
+1642,COD,Growing grapes industry,MLT,0.0,CAN,2012
+1643,COD,Growing fruits and nuts industry,MLT,6.733924339234304e-05,CAN,2012
+1644,COD,"Growing beverage crops (coffee, tea etc) industry",MLT,3.189649744949709e-07,CAN,2012
+1645,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,3.2133319324493207e-08,CAN,2012
+1646,COD,Seeds and plant propagation industry,MLT,0.0,CAN,2012
+1647,COD,Raising of cattle industry,MLT,3.345155829008048e-05,CAN,2012
+1648,COD,Growing wheat industry,MMR,1.8515854971690066e-07,CAN,2012
+1649,COD,Growing maize industry,MMR,4.117182019869654e-05,CAN,2012
+1650,COD,Growing cereals n.e.c industry,MMR,4.2019549778371616e-08,CAN,2012
+1651,COD,Growing leguminous crops and oil seeds industry,MMR,8.493104264685003e-05,CAN,2012
+1652,COD,Growing rice industry,MMR,5.682426623807899e-06,CAN,2012
+1653,COD,"Growing vegetables, roots, tubers industry",MMR,4.000681648431278e-05,CAN,2012
+1654,COD,Growing sugar beet and cane industry,MMR,0.0,CAN,2012
+1655,COD,Growing tobacco industry,MMR,2.8115748231084135e-08,CAN,2012
+1656,COD,Growing fibre crops industry,MMR,6.626047458005091e-06,CAN,2012
+1657,COD,Growing crops n.e.c. industry,MMR,1.3813452605622356e-08,CAN,2012
+1658,COD,Growing grapes industry,MMR,0.0,CAN,2012
+1659,COD,Growing fruits and nuts industry,MMR,6.659182405104573e-05,CAN,2012
+1660,COD,"Growing beverage crops (coffee, tea etc) industry",MMR,2.9179077760970454e-07,CAN,2012
+1661,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,3.882888955496819e-08,CAN,2012
+1662,COD,Seeds and plant propagation industry,MMR,0.0,CAN,2012
+1663,COD,Raising of cattle industry,MMR,6.444504857620196e-05,CAN,2012
+1664,COD,Growing wheat industry,MNG,3.2606458632179545e-07,CAN,2012
+1665,COD,Growing maize industry,MNG,4.831502122522736e-05,CAN,2012
+1666,COD,Growing cereals n.e.c industry,MNG,7.151751865571931e-08,CAN,2012
+1667,COD,Growing leguminous crops and oil seeds industry,MNG,0.000172009656452983,CAN,2012
+1668,COD,Growing rice industry,MNG,9.714967610494032e-06,CAN,2012
+1669,COD,"Growing vegetables, roots, tubers industry",MNG,7.534198264641729e-05,CAN,2012
+1670,COD,Growing sugar beet and cane industry,MNG,0.0,CAN,2012
+1671,COD,Growing tobacco industry,MNG,5.280938470052302e-08,CAN,2012
+1672,COD,Growing fibre crops industry,MNG,9.613479333455837e-06,CAN,2012
+1673,COD,Growing crops n.e.c. industry,MNG,2.8034606363087812e-08,CAN,2012
+1674,COD,Growing grapes industry,MNG,0.0,CAN,2012
+1675,COD,Growing fruits and nuts industry,MNG,0.0001047103735984251,CAN,2012
+1676,COD,"Growing beverage crops (coffee, tea etc) industry",MNG,5.216673874588699e-07,CAN,2012
+1677,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,5.856886948871222e-08,CAN,2012
+1678,COD,Seeds and plant propagation industry,MNG,0.0,CAN,2012
+1679,COD,Raising of cattle industry,MNG,0.00011647339196302429,CAN,2012
+1680,COD,Growing wheat industry,MOZ,2.0335340090553688e-07,CAN,2012
+1681,COD,Growing maize industry,MOZ,3.9081397654607926e-05,CAN,2012
+1682,COD,Growing cereals n.e.c industry,MOZ,4.5227270777293104e-08,CAN,2012
+1683,COD,Growing leguminous crops and oil seeds industry,MOZ,8.448151845110179e-05,CAN,2012
+1684,COD,Growing rice industry,MOZ,5.943279036867994e-06,CAN,2012
+1685,COD,"Growing vegetables, roots, tubers industry",MOZ,3.9818265422134416e-05,CAN,2012
+1686,COD,Growing sugar beet and cane industry,MOZ,0.0,CAN,2012
+1687,COD,Growing tobacco industry,MOZ,3.377995400563604e-08,CAN,2012
+1688,COD,Growing fibre crops industry,MOZ,6.142600651449844e-06,CAN,2012
+1689,COD,Growing crops n.e.c. industry,MOZ,1.642100237922323e-08,CAN,2012
+1690,COD,Growing grapes industry,MOZ,0.0,CAN,2012
+1691,COD,Growing fruits and nuts industry,MOZ,6.249532970860955e-05,CAN,2012
+1692,COD,"Growing beverage crops (coffee, tea etc) industry",MOZ,2.9978614029805844e-07,CAN,2012
+1693,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,3.8388656941186605e-08,CAN,2012
+1694,COD,Seeds and plant propagation industry,MOZ,0.0,CAN,2012
+1695,COD,Raising of cattle industry,MOZ,7.031304355718316e-05,CAN,2012
+1696,COD,Growing wheat industry,MRT,8.904472634548814e-08,CAN,2012
+1697,COD,Growing maize industry,MRT,1.4013512144445379e-05,CAN,2012
+1698,COD,Growing cereals n.e.c industry,MRT,1.8753663451164587e-08,CAN,2012
+1699,COD,Growing leguminous crops and oil seeds industry,MRT,3.701914653781718e-05,CAN,2012
+1700,COD,Growing rice industry,MRT,2.670593926644278e-06,CAN,2012
+1701,COD,"Growing vegetables, roots, tubers industry",MRT,1.67099464046541e-05,CAN,2012
+1702,COD,Growing sugar beet and cane industry,MRT,0.0,CAN,2012
+1703,COD,Growing tobacco industry,MRT,1.57822471189817e-08,CAN,2012
+1704,COD,Growing fibre crops industry,MRT,2.5647562560950537e-06,CAN,2012
+1705,COD,Growing crops n.e.c. industry,MRT,7.114711490046292e-09,CAN,2012
+1706,COD,Growing grapes industry,MRT,0.0,CAN,2012
+1707,COD,Growing fruits and nuts industry,MRT,2.5179110900913877e-05,CAN,2012
+1708,COD,"Growing beverage crops (coffee, tea etc) industry",MRT,1.2420401495042533e-07,CAN,2012
+1709,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.4470860426884288e-08,CAN,2012
+1710,COD,Seeds and plant propagation industry,MRT,0.0,CAN,2012
+1711,COD,Raising of cattle industry,MRT,3.294963637656136e-05,CAN,2012
+1712,COD,Growing wheat industry,MWI,4.3085108356517425e-08,CAN,2012
+1713,COD,Growing maize industry,MWI,8.924378969057515e-06,CAN,2012
+1714,COD,Growing cereals n.e.c industry,MWI,9.5243621200947e-09,CAN,2012
+1715,COD,Growing leguminous crops and oil seeds industry,MWI,1.767041053245521e-05,CAN,2012
+1716,COD,Growing rice industry,MWI,1.2400460720867523e-06,CAN,2012
+1717,COD,"Growing vegetables, roots, tubers industry",MWI,8.423704185227838e-06,CAN,2012
+1718,COD,Growing sugar beet and cane industry,MWI,0.0,CAN,2012
+1719,COD,Growing tobacco industry,MWI,6.535794559572879e-09,CAN,2012
+1720,COD,Growing fibre crops industry,MWI,1.3039939808372649e-06,CAN,2012
+1721,COD,Growing crops n.e.c. industry,MWI,3.2397670113041813e-09,CAN,2012
+1722,COD,Growing grapes industry,MWI,0.0,CAN,2012
+1723,COD,Growing fruits and nuts industry,MWI,1.302503867926504e-05,CAN,2012
+1724,COD,"Growing beverage crops (coffee, tea etc) industry",MWI,6.147943541471119e-08,CAN,2012
+1725,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,8.118393306079233e-09,CAN,2012
+1726,COD,Seeds and plant propagation industry,MWI,0.0,CAN,2012
+1727,COD,Raising of cattle industry,MWI,1.4419388305658038e-05,CAN,2012
+1728,COD,Growing wheat industry,MYS,2.542709038329866e-06,CAN,2012
+1729,COD,Growing maize industry,MYS,0.0007014920248540778,CAN,2012
+1730,COD,Growing cereals n.e.c industry,MYS,5.940356586680588e-07,CAN,2012
+1731,COD,Growing leguminous crops and oil seeds industry,MYS,0.003187984225445432,CAN,2012
+1732,COD,Growing rice industry,MYS,7.726970696385539e-05,CAN,2012
+1733,COD,"Growing vegetables, roots, tubers industry",MYS,0.0013303732068236378,CAN,2012
+1734,COD,Growing sugar beet and cane industry,MYS,0.0,CAN,2012
+1735,COD,Growing tobacco industry,MYS,4.0464957505503407e-07,CAN,2012
+1736,COD,Growing fibre crops industry,MYS,0.00015183527768775374,CAN,2012
+1737,COD,Growing crops n.e.c. industry,MYS,1.9383167106896554e-07,CAN,2012
+1738,COD,Growing grapes industry,MYS,0.0,CAN,2012
+1739,COD,Growing fruits and nuts industry,MYS,0.0017257391657474633,CAN,2012
+1740,COD,"Growing beverage crops (coffee, tea etc) industry",MYS,7.480102695568814e-06,CAN,2012
+1741,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,7.147058016358374e-07,CAN,2012
+1742,COD,Seeds and plant propagation industry,MYS,0.0,CAN,2012
+1743,COD,Raising of cattle industry,MYS,0.000826121767910764,CAN,2012
+1744,COD,Growing wheat industry,NAM,1.3452276843208111e-07,CAN,2012
+1745,COD,Growing maize industry,NAM,2.3747526961056942e-05,CAN,2012
+1746,COD,Growing cereals n.e.c industry,NAM,2.946903889067038e-08,CAN,2012
+1747,COD,Growing leguminous crops and oil seeds industry,NAM,6.255091239701272e-05,CAN,2012
+1748,COD,Growing rice industry,NAM,3.9325442781273336e-06,CAN,2012
+1749,COD,"Growing vegetables, roots, tubers industry",NAM,2.9207592052844525e-05,CAN,2012
+1750,COD,Growing sugar beet and cane industry,NAM,0.0,CAN,2012
+1751,COD,Growing tobacco industry,NAM,2.0962401189905228e-08,CAN,2012
+1752,COD,Growing fibre crops industry,NAM,3.914596128774496e-06,CAN,2012
+1753,COD,Growing crops n.e.c. industry,NAM,1.0940839200499975e-08,CAN,2012
+1754,COD,Growing grapes industry,NAM,0.0,CAN,2012
+1755,COD,Growing fruits and nuts industry,NAM,3.967667322191511e-05,CAN,2012
+1756,COD,"Growing beverage crops (coffee, tea etc) industry",NAM,2.109634548858584e-07,CAN,2012
+1757,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,2.681037889879935e-08,CAN,2012
+1758,COD,Seeds and plant propagation industry,NAM,0.0,CAN,2012
+1759,COD,Raising of cattle industry,NAM,4.4074725828362405e-05,CAN,2012
+1760,COD,Growing wheat industry,NER,9.508248021093865e-08,CAN,2012
+1761,COD,Growing maize industry,NER,1.680804775226363e-05,CAN,2012
+1762,COD,Growing cereals n.e.c industry,NER,2.0322746470534374e-08,CAN,2012
+1763,COD,Growing leguminous crops and oil seeds industry,NER,4.824617610721699e-05,CAN,2012
+1764,COD,Growing rice industry,NER,2.892105626623692e-06,CAN,2012
+1765,COD,"Growing vegetables, roots, tubers industry",NER,2.0957414006974634e-05,CAN,2012
+1766,COD,Growing sugar beet and cane industry,NER,0.0,CAN,2012
+1767,COD,Growing tobacco industry,NER,1.78034594575141e-08,CAN,2012
+1768,COD,Growing fibre crops industry,NER,2.5439391578210544e-06,CAN,2012
+1769,COD,Growing crops n.e.c. industry,NER,7.383351686509233e-09,CAN,2012
+1770,COD,Growing grapes industry,NER,0.0,CAN,2012
+1771,COD,Growing fruits and nuts industry,NER,3.521283151548155e-05,CAN,2012
+1772,COD,"Growing beverage crops (coffee, tea etc) industry",NER,1.476242842885094e-07,CAN,2012
+1773,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,1.5842986483941538e-08,CAN,2012
+1774,COD,Seeds and plant propagation industry,NER,0.0,CAN,2012
+1775,COD,Raising of cattle industry,NER,3.489834224970079e-05,CAN,2012
+1776,COD,Growing wheat industry,NGA,1.7381487388757157e-06,CAN,2012
+1777,COD,Growing maize industry,NGA,0.00032934494520017114,CAN,2012
+1778,COD,Growing cereals n.e.c industry,NGA,3.9973165851095095e-07,CAN,2012
+1779,COD,Growing leguminous crops and oil seeds industry,NGA,0.0010090524394762296,CAN,2012
+1780,COD,Growing rice industry,NGA,5.153516364995926e-05,CAN,2012
+1781,COD,"Growing vegetables, roots, tubers industry",NGA,0.0004412811555558681,CAN,2012
+1782,COD,Growing sugar beet and cane industry,NGA,0.0,CAN,2012
+1783,COD,Growing tobacco industry,NGA,2.7972738526940017e-07,CAN,2012
+1784,COD,Growing fibre crops industry,NGA,6.857532478631953e-05,CAN,2012
+1785,COD,Growing crops n.e.c. industry,NGA,1.4444508094880284e-07,CAN,2012
+1786,COD,Growing grapes industry,NGA,0.0,CAN,2012
+1787,COD,Growing fruits and nuts industry,NGA,0.0006580529647948905,CAN,2012
+1788,COD,"Growing beverage crops (coffee, tea etc) industry",NGA,3.118153839473243e-06,CAN,2012
+1789,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,3.420937978836907e-07,CAN,2012
+1790,COD,Seeds and plant propagation industry,NGA,0.0,CAN,2012
+1791,COD,Raising of cattle industry,NGA,0.0005727945678277454,CAN,2012
+1792,COD,Growing wheat industry,NIC,2.581878929014845e-07,CAN,2012
+1793,COD,Growing maize industry,NIC,6.219417853325713e-05,CAN,2012
+1794,COD,Growing cereals n.e.c industry,NIC,5.7148181924596864e-08,CAN,2012
+1795,COD,Growing leguminous crops and oil seeds industry,NIC,0.00018325178298181212,CAN,2012
+1796,COD,Growing rice industry,NIC,7.910730299392263e-06,CAN,2012
+1797,COD,"Growing vegetables, roots, tubers industry",NIC,8.211892222056145e-05,CAN,2012
+1798,COD,Growing sugar beet and cane industry,NIC,0.0,CAN,2012
+1799,COD,Growing tobacco industry,NIC,4.742060943379532e-08,CAN,2012
+1800,COD,Growing fibre crops industry,NIC,1.0235379576228473e-05,CAN,2012
+1801,COD,Growing crops n.e.c. industry,NIC,2.1075924745847214e-08,CAN,2012
+1802,COD,Growing grapes industry,NIC,0.0,CAN,2012
+1803,COD,Growing fruits and nuts industry,NIC,0.00016171700182984628,CAN,2012
+1804,COD,"Growing beverage crops (coffee, tea etc) industry",NIC,7.083233603620793e-07,CAN,2012
+1805,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,6.199521262817871e-08,CAN,2012
+1806,COD,Seeds and plant propagation industry,NIC,0.0,CAN,2012
+1807,COD,Raising of cattle industry,NIC,8.779964037405397e-05,CAN,2012
+1808,COD,Growing wheat industry,NLD,4.666189461684247e-06,CAN,2012
+1809,COD,Growing maize industry,NLD,0.0010747684245364343,CAN,2012
+1810,COD,Growing cereals n.e.c industry,NLD,1.0568979771420787e-06,CAN,2012
+1811,COD,Growing leguminous crops and oil seeds industry,NLD,0.004585322764054841,CAN,2012
+1812,COD,Growing rice industry,NLD,0.00014203871343458478,CAN,2012
+1813,COD,"Growing vegetables, roots, tubers industry",NLD,0.0019830033054249402,CAN,2012
+1814,COD,Growing sugar beet and cane industry,NLD,0.0,CAN,2012
+1815,COD,Growing tobacco industry,NLD,7.375056847080837e-07,CAN,2012
+1816,COD,Growing fibre crops industry,NLD,0.00023167671871934537,CAN,2012
+1817,COD,Growing crops n.e.c. industry,NLD,3.604738836288398e-07,CAN,2012
+1818,COD,Growing grapes industry,NLD,0.0,CAN,2012
+1819,COD,Growing fruits and nuts industry,NLD,0.0026249977179103705,CAN,2012
+1820,COD,"Growing beverage crops (coffee, tea etc) industry",NLD,1.2021807339994029e-05,CAN,2012
+1821,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,1.3126820401480785e-06,CAN,2012
+1822,COD,Seeds and plant propagation industry,NLD,0.0,CAN,2012
+1823,COD,Raising of cattle industry,NLD,0.0014843489685467059,CAN,2012
+1824,COD,Growing wheat industry,NOR,3.519765770218892e-06,CAN,2012
+1825,COD,Growing maize industry,NOR,0.0006145886329277316,CAN,2012
+1826,COD,Growing cereals n.e.c industry,NOR,7.49405861461258e-07,CAN,2012
+1827,COD,Growing leguminous crops and oil seeds industry,NOR,0.001656056198208644,CAN,2012
+1828,COD,Growing rice industry,NOR,0.00010901449927589315,CAN,2012
+1829,COD,"Growing vegetables, roots, tubers industry",NOR,0.0007459755867935991,CAN,2012
+1830,COD,Growing sugar beet and cane industry,NOR,0.0,CAN,2012
+1831,COD,Growing tobacco industry,NOR,7.622172432186878e-07,CAN,2012
+1832,COD,Growing fibre crops industry,NOR,0.00011691712915817048,CAN,2012
+1833,COD,Growing crops n.e.c. industry,NOR,3.044202603692702e-07,CAN,2012
+1834,COD,Growing grapes industry,NOR,0.0,CAN,2012
+1835,COD,Growing fruits and nuts industry,NOR,0.0011886208792963003,CAN,2012
+1836,COD,"Growing beverage crops (coffee, tea etc) industry",NOR,5.822371751390227e-06,CAN,2012
+1837,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,7.444273377884477e-07,CAN,2012
+1838,COD,Seeds and plant propagation industry,NOR,0.0,CAN,2012
+1839,COD,Raising of cattle industry,NOR,0.00119168015056389,CAN,2012
+1840,COD,Growing wheat industry,NPL,8.934681223472897e-08,CAN,2012
+1841,COD,Growing maize industry,NPL,1.6086453125874724e-05,CAN,2012
+1842,COD,Growing cereals n.e.c industry,NPL,1.9699966170046232e-08,CAN,2012
+1843,COD,Growing leguminous crops and oil seeds industry,NPL,2.9073082227031646e-05,CAN,2012
+1844,COD,Growing rice industry,NPL,2.7154490791863173e-06,CAN,2012
+1845,COD,"Growing vegetables, roots, tubers industry",NPL,1.4309014065282847e-05,CAN,2012
+1846,COD,Growing sugar beet and cane industry,NPL,0.0,CAN,2012
+1847,COD,Growing tobacco industry,NPL,1.56843351234627e-08,CAN,2012
+1848,COD,Growing fibre crops industry,NPL,2.5529748112007385e-06,CAN,2012
+1849,COD,Growing crops n.e.c. industry,NPL,6.869714065975524e-09,CAN,2012
+1850,COD,Growing grapes industry,NPL,0.0,CAN,2012
+1851,COD,Growing fruits and nuts industry,NPL,2.3720207656405922e-05,CAN,2012
+1852,COD,"Growing beverage crops (coffee, tea etc) industry",NPL,1.2696191930314896e-07,CAN,2012
+1853,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,1.5646737129503728e-08,CAN,2012
+1854,COD,Seeds and plant propagation industry,NPL,0.0,CAN,2012
+1855,COD,Raising of cattle industry,NPL,3.070460548386648e-05,CAN,2012
+1856,COD,Growing wheat industry,NZL,1.4199823550269382e-06,CAN,2012
+1857,COD,Growing maize industry,NZL,0.0003730159935621162,CAN,2012
+1858,COD,Growing cereals n.e.c industry,NZL,3.293813053996772e-07,CAN,2012
+1859,COD,Growing leguminous crops and oil seeds industry,NZL,0.0011889460033808982,CAN,2012
+1860,COD,Growing rice industry,NZL,4.3764686369074915e-05,CAN,2012
+1861,COD,"Growing vegetables, roots, tubers industry",NZL,0.0005197740677580758,CAN,2012
+1862,COD,Growing sugar beet and cane industry,NZL,0.0,CAN,2012
+1863,COD,Growing tobacco industry,NZL,2.1436991058736277e-07,CAN,2012
+1864,COD,Growing fibre crops industry,NZL,6.715835198647455e-05,CAN,2012
+1865,COD,Growing crops n.e.c. industry,NZL,1.0539620971143969e-07,CAN,2012
+1866,COD,Growing grapes industry,NZL,0.0,CAN,2012
+1867,COD,Growing fruits and nuts industry,NZL,0.0007293315143085911,CAN,2012
+1868,COD,"Growing beverage crops (coffee, tea etc) industry",NZL,3.204158490984949e-06,CAN,2012
+1869,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,3.7722155204853404e-07,CAN,2012
+1870,COD,Seeds and plant propagation industry,NZL,0.0,CAN,2012
+1871,COD,Raising of cattle industry,NZL,0.0004484165905963384,CAN,2012
+1872,COD,Growing wheat industry,OMN,7.806650013266344e-07,CAN,2012
+1873,COD,Growing maize industry,OMN,0.00013436592109315675,CAN,2012
+1874,COD,Growing cereals n.e.c industry,OMN,1.729160864721723e-07,CAN,2012
+1875,COD,Growing leguminous crops and oil seeds industry,OMN,0.00030307349991614136,CAN,2012
+1876,COD,Growing rice industry,OMN,2.3057146073615964e-05,CAN,2012
+1877,COD,"Growing vegetables, roots, tubers industry",OMN,0.00014251681528578824,CAN,2012
+1878,COD,Growing sugar beet and cane industry,OMN,0.0,CAN,2012
+1879,COD,Growing tobacco industry,OMN,1.28551683181611e-07,CAN,2012
+1880,COD,Growing fibre crops industry,OMN,2.3497836447871197e-05,CAN,2012
+1881,COD,Growing crops n.e.c. industry,OMN,6.61985199548442e-08,CAN,2012
+1882,COD,Growing grapes industry,OMN,0.0,CAN,2012
+1883,COD,Growing fruits and nuts industry,OMN,0.00024037578246167572,CAN,2012
+1884,COD,"Growing beverage crops (coffee, tea etc) industry",OMN,1.1345136151669835e-06,CAN,2012
+1885,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,1.4232102604063226e-07,CAN,2012
+1886,COD,Seeds and plant propagation industry,OMN,0.0,CAN,2012
+1887,COD,Raising of cattle industry,OMN,0.0002715189064017881,CAN,2012
+1888,COD,Growing wheat industry,PAK,1.735719108300089e-06,CAN,2012
+1889,COD,Growing maize industry,PAK,0.000380352020585993,CAN,2012
+1890,COD,Growing cereals n.e.c industry,PAK,3.859433451563143e-07,CAN,2012
+1891,COD,Growing leguminous crops and oil seeds industry,PAK,0.0015406159311187864,CAN,2012
+1892,COD,Growing rice industry,PAK,5.573940964832937e-05,CAN,2012
+1893,COD,"Growing vegetables, roots, tubers industry",PAK,0.0006597905532271656,CAN,2012
+1894,COD,Growing sugar beet and cane industry,PAK,0.0,CAN,2012
+1895,COD,Growing tobacco industry,PAK,2.6560072352023374e-07,CAN,2012
+1896,COD,Growing fibre crops industry,PAK,8.168087603875188e-05,CAN,2012
+1897,COD,Growing crops n.e.c. industry,PAK,1.213528149676661e-07,CAN,2012
+1898,COD,Growing grapes industry,PAK,0.0,CAN,2012
+1899,COD,Growing fruits and nuts industry,PAK,0.0008185348441341388,CAN,2012
+1900,COD,"Growing beverage crops (coffee, tea etc) industry",PAK,3.935132561146759e-06,CAN,2012
+1901,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,4.6445486335965254e-07,CAN,2012
+1902,COD,Seeds and plant propagation industry,PAK,0.0,CAN,2012
+1903,COD,Raising of cattle industry,PAK,0.0005527601456901398,CAN,2012
+1904,COD,Growing wheat industry,PSE,5.7248351508728776e-08,CAN,2012
+1905,COD,Growing maize industry,PSE,1.1460000999296852e-05,CAN,2012
+1906,COD,Growing cereals n.e.c industry,PSE,1.250989910301541e-08,CAN,2012
+1907,COD,Growing leguminous crops and oil seeds industry,PSE,2.7282359437145145e-05,CAN,2012
+1908,COD,Growing rice industry,PSE,1.7021443292041379e-06,CAN,2012
+1909,COD,"Growing vegetables, roots, tubers industry",PSE,1.2607668051570292e-05,CAN,2012
+1910,COD,Growing sugar beet and cane industry,PSE,0.0,CAN,2012
+1911,COD,Growing tobacco industry,PSE,8.865971182827435e-09,CAN,2012
+1912,COD,Growing fibre crops industry,PSE,1.8464705911184529e-06,CAN,2012
+1913,COD,Growing crops n.e.c. industry,PSE,4.440021709832332e-09,CAN,2012
+1914,COD,Growing grapes industry,PSE,0.0,CAN,2012
+1915,COD,Growing fruits and nuts industry,PSE,1.9535960959870507e-05,CAN,2012
+1916,COD,"Growing beverage crops (coffee, tea etc) industry",PSE,9.334641476534226e-08,CAN,2012
+1917,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.1144696102294098e-08,CAN,2012
+1918,COD,Seeds and plant propagation industry,PSE,0.0,CAN,2012
+1919,COD,Raising of cattle industry,PSE,1.95204599764188e-05,CAN,2012
+1920,COD,Growing wheat industry,PAN,4.65500713136383e-07,CAN,2012
+1921,COD,Growing maize industry,PAN,0.00010165105417436979,CAN,2012
+1922,COD,Growing cereals n.e.c industry,PAN,1.041985136362999e-07,CAN,2012
+1923,COD,Growing leguminous crops and oil seeds industry,PAN,0.00019255774283726934,CAN,2012
+1924,COD,Growing rice industry,PAN,1.399738717611436e-05,CAN,2012
+1925,COD,"Growing vegetables, roots, tubers industry",PAN,9.563618725711134e-05,CAN,2012
+1926,COD,Growing sugar beet and cane industry,PAN,0.0,CAN,2012
+1927,COD,Growing tobacco industry,PAN,7.412872096857317e-08,CAN,2012
+1928,COD,Growing fibre crops industry,PAN,1.3991128493588893e-05,CAN,2012
+1929,COD,Growing crops n.e.c. industry,PAN,3.685674358117861e-08,CAN,2012
+1930,COD,Growing grapes industry,PAN,0.0,CAN,2012
+1931,COD,Growing fruits and nuts industry,PAN,0.0001730599775228799,CAN,2012
+1932,COD,"Growing beverage crops (coffee, tea etc) industry",PAN,8.010843783703084e-07,CAN,2012
+1933,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,1.0166238111425252e-07,CAN,2012
+1934,COD,Seeds and plant propagation industry,PAN,0.0,CAN,2012
+1935,COD,Raising of cattle industry,PAN,0.00015819705148221406,CAN,2012
+1936,COD,Growing wheat industry,PER,2.838232324177279e-06,CAN,2012
+1937,COD,Growing maize industry,PER,0.0005087160384795654,CAN,2012
+1938,COD,Growing cereals n.e.c industry,PER,5.846953263314297e-07,CAN,2012
+1939,COD,Growing leguminous crops and oil seeds industry,PER,0.0015540632903685639,CAN,2012
+1940,COD,Growing rice industry,PER,8.838872921845557e-05,CAN,2012
+1941,COD,"Growing vegetables, roots, tubers industry",PER,0.0007131167495362841,CAN,2012
+1942,COD,Growing sugar beet and cane industry,PER,0.0,CAN,2012
+1943,COD,Growing tobacco industry,PER,4.228790387274243e-07,CAN,2012
+1944,COD,Growing fibre crops industry,PER,8.92242554968546e-05,CAN,2012
+1945,COD,Growing crops n.e.c. industry,PER,2.033890476713493e-07,CAN,2012
+1946,COD,Growing grapes industry,PER,0.0,CAN,2012
+1947,COD,Growing fruits and nuts industry,PER,0.0012483886000853356,CAN,2012
+1948,COD,"Growing beverage crops (coffee, tea etc) industry",PER,5.317680452279475e-06,CAN,2012
+1949,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,6.878381832693426e-07,CAN,2012
+1950,COD,Seeds and plant propagation industry,PER,0.0,CAN,2012
+1951,COD,Raising of cattle industry,PER,0.0009275671594880851,CAN,2012
+1952,COD,Growing wheat industry,PHL,1.470898362306141e-06,CAN,2012
+1953,COD,Growing maize industry,PHL,0.0004252969036369523,CAN,2012
+1954,COD,Growing cereals n.e.c industry,PHL,3.37293846532649e-07,CAN,2012
+1955,COD,Growing leguminous crops and oil seeds industry,PHL,0.001633973997909869,CAN,2012
+1956,COD,Growing rice industry,PHL,4.478200117921054e-05,CAN,2012
+1957,COD,"Growing vegetables, roots, tubers industry",PHL,0.0006937018500049709,CAN,2012
+1958,COD,Growing sugar beet and cane industry,PHL,0.0,CAN,2012
+1959,COD,Growing tobacco industry,PHL,2.3974071632589217e-07,CAN,2012
+1960,COD,Growing fibre crops industry,PHL,7.813118603891945e-05,CAN,2012
+1961,COD,Growing crops n.e.c. industry,PHL,1.1238179041374652e-07,CAN,2012
+1962,COD,Growing grapes industry,PHL,0.0,CAN,2012
+1963,COD,Growing fruits and nuts industry,PHL,0.0009618568246027912,CAN,2012
+1964,COD,"Growing beverage crops (coffee, tea etc) industry",PHL,4.017033355965505e-06,CAN,2012
+1965,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,4.139561525062267e-07,CAN,2012
+1966,COD,Seeds and plant propagation industry,PHL,0.0,CAN,2012
+1967,COD,Raising of cattle industry,PHL,0.00047714767941008866,CAN,2012
+1968,COD,Growing wheat industry,PNG,2.3871610431627026e-07,CAN,2012
+1969,COD,Growing maize industry,PNG,4.9527290807435636e-05,CAN,2012
+1970,COD,Growing cereals n.e.c industry,PNG,5.88216918430763e-08,CAN,2012
+1971,COD,Growing leguminous crops and oil seeds industry,PNG,0.00010199157834225231,CAN,2012
+1972,COD,Growing rice industry,PNG,6.910212947727325e-06,CAN,2012
+1973,COD,"Growing vegetables, roots, tubers industry",PNG,4.657952621662234e-05,CAN,2012
+1974,COD,Growing sugar beet and cane industry,PNG,0.0,CAN,2012
+1975,COD,Growing tobacco industry,PNG,3.927191099353197e-08,CAN,2012
+1976,COD,Growing fibre crops industry,PNG,8.031495700419214e-06,CAN,2012
+1977,COD,Growing crops n.e.c. industry,PNG,2.1470597545562948e-08,CAN,2012
+1978,COD,Growing grapes industry,PNG,0.0,CAN,2012
+1979,COD,Growing fruits and nuts industry,PNG,8.580086157392346e-05,CAN,2012
+1980,COD,"Growing beverage crops (coffee, tea etc) industry",PNG,3.6067659251767683e-07,CAN,2012
+1981,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,4.43132818423776e-08,CAN,2012
+1982,COD,Seeds and plant propagation industry,PNG,0.0,CAN,2012
+1983,COD,Raising of cattle industry,PNG,7.969695239690174e-05,CAN,2012
+1984,COD,Growing wheat industry,POL,1.6847795144162019e-06,CAN,2012
+1985,COD,Growing maize industry,POL,0.0003617373232473198,CAN,2012
+1986,COD,Growing cereals n.e.c industry,POL,3.749183160425001e-07,CAN,2012
+1987,COD,Growing leguminous crops and oil seeds industry,POL,0.0011880654740785265,CAN,2012
+1988,COD,Growing rice industry,POL,5.1446167387709543e-05,CAN,2012
+1989,COD,"Growing vegetables, roots, tubers industry",POL,0.0005220966531318673,CAN,2012
+1990,COD,Growing sugar beet and cane industry,POL,0.0,CAN,2012
+1991,COD,Growing tobacco industry,POL,2.6671636698630824e-07,CAN,2012
+1992,COD,Growing fibre crops industry,POL,6.57769078021858e-05,CAN,2012
+1993,COD,Growing crops n.e.c. industry,POL,1.3027786207295778e-07,CAN,2012
+1994,COD,Growing grapes industry,POL,0.0,CAN,2012
+1995,COD,Growing fruits and nuts industry,POL,0.0008058399555847842,CAN,2012
+1996,COD,"Growing beverage crops (coffee, tea etc) industry",POL,3.431428658110556e-06,CAN,2012
+1997,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,3.9214999252573683e-07,CAN,2012
+1998,COD,Seeds and plant propagation industry,POL,0.0,CAN,2012
+1999,COD,Raising of cattle industry,POL,0.0005553676918692564,CAN,2012
+2000,COD,Growing wheat industry,PRK,1.0350865263675175e-07,CAN,2012
+2001,COD,Growing maize industry,PRK,1.6979983968213597e-05,CAN,2012
+2002,COD,Growing cereals n.e.c industry,PRK,2.0943730330222215e-08,CAN,2012
+2003,COD,Growing leguminous crops and oil seeds industry,PRK,2.2579457107813486e-05,CAN,2012
+2004,COD,Growing rice industry,PRK,3.1466198956739277e-06,CAN,2012
+2005,COD,"Growing vegetables, roots, tubers industry",PRK,1.0782016716389042e-05,CAN,2012
+2006,COD,Growing sugar beet and cane industry,PRK,0.0,CAN,2012
+2007,COD,Growing tobacco industry,PRK,3.379472074645451e-08,CAN,2012
+2008,COD,Growing fibre crops industry,PRK,2.1722850820954308e-06,CAN,2012
+2009,COD,Growing crops n.e.c. industry,PRK,6.720287671757862e-09,CAN,2012
+2010,COD,Growing grapes industry,PRK,0.0,CAN,2012
+2011,COD,Growing fruits and nuts industry,PRK,2.639092413715442e-05,CAN,2012
+2012,COD,"Growing beverage crops (coffee, tea etc) industry",PRK,1.247052421898664e-07,CAN,2012
+2013,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,1.535143067036882e-08,CAN,2012
+2014,COD,Seeds and plant propagation industry,PRK,0.0,CAN,2012
+2015,COD,Raising of cattle industry,PRK,3.50196547987394e-05,CAN,2012
+2016,COD,Growing wheat industry,PRT,5.672939697929841e-07,CAN,2012
+2017,COD,Growing maize industry,PRT,0.00013311684490523358,CAN,2012
+2018,COD,Growing cereals n.e.c industry,PRT,1.2558794980150598e-07,CAN,2012
+2019,COD,Growing leguminous crops and oil seeds industry,PRT,0.0005740035027120781,CAN,2012
+2020,COD,Growing rice industry,PRT,1.7614595652904226e-05,CAN,2012
+2021,COD,"Growing vegetables, roots, tubers industry",PRT,0.00024714845596453966,CAN,2012
+2022,COD,Growing sugar beet and cane industry,PRT,0.0,CAN,2012
+2023,COD,Growing tobacco industry,PRT,8.719733687668303e-08,CAN,2012
+2024,COD,Growing fibre crops industry,PRT,2.835016116375753e-05,CAN,2012
+2025,COD,Growing crops n.e.c. industry,PRT,4.103500970775465e-08,CAN,2012
+2026,COD,Growing grapes industry,PRT,0.0,CAN,2012
+2027,COD,Growing fruits and nuts industry,PRT,0.0003157365679358446,CAN,2012
+2028,COD,"Growing beverage crops (coffee, tea etc) industry",PRT,1.4406483763626705e-06,CAN,2012
+2029,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,1.5811254929766814e-07,CAN,2012
+2030,COD,Seeds and plant propagation industry,PRT,0.0,CAN,2012
+2031,COD,Raising of cattle industry,PRT,0.00018237427798249768,CAN,2012
+2032,COD,Growing wheat industry,PRY,2.929245584593754e-07,CAN,2012
+2033,COD,Growing maize industry,PRY,6.727822034265322e-05,CAN,2012
+2034,COD,Growing cereals n.e.c industry,PRY,6.50072055064751e-08,CAN,2012
+2035,COD,Growing leguminous crops and oil seeds industry,PRY,0.00014770922025450413,CAN,2012
+2036,COD,Growing rice industry,PRY,8.653010850111784e-06,CAN,2012
+2037,COD,"Growing vegetables, roots, tubers industry",PRY,6.97176815941589e-05,CAN,2012
+2038,COD,Growing sugar beet and cane industry,PRY,0.0,CAN,2012
+2039,COD,Growing tobacco industry,PRY,4.789567183535084e-08,CAN,2012
+2040,COD,Growing fibre crops industry,PRY,8.11210444918276e-06,CAN,2012
+2041,COD,Growing crops n.e.c. industry,PRY,2.3115690582939205e-08,CAN,2012
+2042,COD,Growing grapes industry,PRY,0.0,CAN,2012
+2043,COD,Growing fruits and nuts industry,PRY,0.00010260281840250071,CAN,2012
+2044,COD,"Growing beverage crops (coffee, tea etc) industry",PRY,5.058051556461052e-07,CAN,2012
+2045,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,6.296675217916925e-08,CAN,2012
+2046,COD,Seeds and plant propagation industry,PRY,0.0,CAN,2012
+2047,COD,Raising of cattle industry,PRY,0.00010165822041991357,CAN,2012
+2048,COD,Growing wheat industry,QAT,1.625390117109945e-06,CAN,2012
+2049,COD,Growing maize industry,QAT,0.00027873848086541807,CAN,2012
+2050,COD,Growing cereals n.e.c industry,QAT,3.731893161558898e-07,CAN,2012
+2051,COD,Growing leguminous crops and oil seeds industry,QAT,0.0005558807976036132,CAN,2012
+2052,COD,Growing rice industry,QAT,4.769481799357528e-05,CAN,2012
+2053,COD,"Growing vegetables, roots, tubers industry",QAT,0.00026711160446061405,CAN,2012
+2054,COD,Growing sugar beet and cane industry,QAT,0.0,CAN,2012
+2055,COD,Growing tobacco industry,QAT,2.8551157939777867e-07,CAN,2012
+2056,COD,Growing fibre crops industry,QAT,5.002206970820816e-05,CAN,2012
+2057,COD,Growing crops n.e.c. industry,QAT,1.4541740165869605e-07,CAN,2012
+2058,COD,Growing grapes industry,QAT,0.0,CAN,2012
+2059,COD,Growing fruits and nuts industry,QAT,0.00046577531508818615,CAN,2012
+2060,COD,"Growing beverage crops (coffee, tea etc) industry",QAT,2.314038018364372e-06,CAN,2012
+2061,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,2.9806689593898275e-07,CAN,2012
+2062,COD,Seeds and plant propagation industry,QAT,0.0,CAN,2012
+2063,COD,Raising of cattle industry,QAT,0.0005586527834931528,CAN,2012
+2064,COD,Growing wheat industry,ROU,6.25447605015176e-07,CAN,2012
+2065,COD,Growing maize industry,ROU,0.00013500487481020316,CAN,2012
+2066,COD,Growing cereals n.e.c industry,ROU,1.3882976667202393e-07,CAN,2012
+2067,COD,Growing leguminous crops and oil seeds industry,ROU,0.0005230864760638977,CAN,2012
+2068,COD,Growing rice industry,ROU,1.9352469171387532e-05,CAN,2012
+2069,COD,"Growing vegetables, roots, tubers industry",ROU,0.00022743738128945632,CAN,2012
+2070,COD,Growing sugar beet and cane industry,ROU,0.0,CAN,2012
+2071,COD,Growing tobacco industry,ROU,9.878813876464141e-08,CAN,2012
+2072,COD,Growing fibre crops industry,ROU,2.9398990915699388e-05,CAN,2012
+2073,COD,Growing crops n.e.c. industry,ROU,4.6397313765308e-08,CAN,2012
+2074,COD,Growing grapes industry,ROU,0.0,CAN,2012
+2075,COD,Growing fruits and nuts industry,ROU,0.0003132499877980365,CAN,2012
+2076,COD,"Growing beverage crops (coffee, tea etc) industry",ROU,1.4369693197041507e-06,CAN,2012
+2077,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,1.6507547733311879e-07,CAN,2012
+2078,COD,Seeds and plant propagation industry,ROU,0.0,CAN,2012
+2079,COD,Raising of cattle industry,ROU,0.00019833824222925792,CAN,2012
+2080,COD,Growing wheat industry,RUS,6.608760748559328e-06,CAN,2012
+2081,COD,Growing maize industry,RUS,0.0014336190300729174,CAN,2012
+2082,COD,Growing cereals n.e.c industry,RUS,1.4792265674121384e-06,CAN,2012
+2083,COD,Growing leguminous crops and oil seeds industry,RUS,0.004669296924248647,CAN,2012
+2084,COD,Growing rice industry,RUS,0.00020642420497968798,CAN,2012
+2085,COD,"Growing vegetables, roots, tubers industry",RUS,0.002044154854093901,CAN,2012
+2086,COD,Growing sugar beet and cane industry,RUS,0.0,CAN,2012
+2087,COD,Growing tobacco industry,RUS,1.052242519784358e-06,CAN,2012
+2088,COD,Growing fibre crops industry,RUS,0.00027659834203412246,CAN,2012
+2089,COD,Growing crops n.e.c. industry,RUS,5.109905422042395e-07,CAN,2012
+2090,COD,Growing grapes industry,RUS,0.0,CAN,2012
+2091,COD,Growing fruits and nuts industry,RUS,0.0030796981269968176,CAN,2012
+2092,COD,"Growing beverage crops (coffee, tea etc) industry",RUS,1.336725607945668e-05,CAN,2012
+2093,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,1.583864377792368e-06,CAN,2012
+2094,COD,Seeds and plant propagation industry,RUS,0.0,CAN,2012
+2095,COD,Raising of cattle industry,RUS,0.0021350641724236425,CAN,2012
+2096,COD,Growing wheat industry,RWA,5.2860787185987386e-08,CAN,2012
+2097,COD,Growing maize industry,RWA,1.0662821745353364e-05,CAN,2012
+2098,COD,Growing cereals n.e.c industry,RWA,1.3623082558054224e-08,CAN,2012
+2099,COD,Growing leguminous crops and oil seeds industry,RWA,2.1347906254418285e-05,CAN,2012
+2100,COD,Growing rice industry,RWA,1.4787248906523795e-06,CAN,2012
+2101,COD,"Growing vegetables, roots, tubers industry",RWA,1.0142256469102675e-05,CAN,2012
+2102,COD,Growing sugar beet and cane industry,RWA,0.0,CAN,2012
+2103,COD,Growing tobacco industry,RWA,8.496413954133374e-09,CAN,2012
+2104,COD,Growing fibre crops industry,RWA,1.6868317894142805e-06,CAN,2012
+2105,COD,Growing crops n.e.c. industry,RWA,4.9311649818927584e-09,CAN,2012
+2106,COD,Growing grapes industry,RWA,0.0,CAN,2012
+2107,COD,Growing fruits and nuts industry,RWA,1.5857939950976652e-05,CAN,2012
+2108,COD,"Growing beverage crops (coffee, tea etc) industry",RWA,7.933774453874115e-08,CAN,2012
+2109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,1.0751857764861644e-08,CAN,2012
+2110,COD,Seeds and plant propagation industry,RWA,0.0,CAN,2012
+2111,COD,Raising of cattle industry,RWA,1.7005062630198967e-05,CAN,2012
+2112,COD,Growing wheat industry,SAU,7.319973478288455e-06,CAN,2012
+2113,COD,Growing maize industry,SAU,0.0014097124807066577,CAN,2012
+2114,COD,Growing cereals n.e.c industry,SAU,1.6414093450215362e-06,CAN,2012
+2115,COD,Growing leguminous crops and oil seeds industry,SAU,0.004570295227126084,CAN,2012
+2116,COD,Growing rice industry,SAU,0.00022373813418165642,CAN,2012
+2117,COD,"Growing vegetables, roots, tubers industry",SAU,0.001995989775425001,CAN,2012
+2118,COD,Growing sugar beet and cane industry,SAU,0.0,CAN,2012
+2119,COD,Growing tobacco industry,SAU,1.1849701333797014e-06,CAN,2012
+2120,COD,Growing fibre crops industry,SAU,0.00029013847811673436,CAN,2012
+2121,COD,Growing crops n.e.c. industry,SAU,5.944981601407561e-07,CAN,2012
+2122,COD,Growing grapes industry,SAU,0.0,CAN,2012
+2123,COD,Growing fruits and nuts industry,SAU,0.0029079658369328527,CAN,2012
+2124,COD,"Growing beverage crops (coffee, tea etc) industry",SAU,1.3549554013856331e-05,CAN,2012
+2125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,1.5553760893166926e-06,CAN,2012
+2126,COD,Seeds and plant propagation industry,SAU,0.0,CAN,2012
+2127,COD,Raising of cattle industry,SAU,0.0024285363379880367,CAN,2012
+2128,COD,Growing wheat industry,SDS,2.581785706839094e-08,CAN,2012
+2129,COD,Growing maize industry,SDS,5.3898991220552814e-06,CAN,2012
+2130,COD,Growing cereals n.e.c industry,SDS,5.686517713044675e-09,CAN,2012
+2131,COD,Growing leguminous crops and oil seeds industry,SDS,1.3165030678731211e-05,CAN,2012
+2132,COD,Growing rice industry,SDS,7.983824149347106e-07,CAN,2012
+2133,COD,"Growing vegetables, roots, tubers industry",SDS,6.164442715307824e-06,CAN,2012
+2134,COD,Growing sugar beet and cane industry,SDS,0.0,CAN,2012
+2135,COD,Growing tobacco industry,SDS,3.97261010685853e-09,CAN,2012
+2136,COD,Growing fibre crops industry,SDS,9.818043175683538e-07,CAN,2012
+2137,COD,Growing crops n.e.c. industry,SDS,1.8527822066545137e-09,CAN,2012
+2138,COD,Growing grapes industry,SDS,0.0,CAN,2012
+2139,COD,Growing fruits and nuts industry,SDS,1.0053321230720762e-05,CAN,2012
+2140,COD,"Growing beverage crops (coffee, tea etc) industry",SDS,4.4221966025762745e-08,CAN,2012
+2141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,5.779336764865036e-09,CAN,2012
+2142,COD,Seeds and plant propagation industry,SDS,0.0,CAN,2012
+2143,COD,Raising of cattle industry,SDS,8.860913791375184e-06,CAN,2012
+2144,COD,Growing wheat industry,SEN,3.2264135085950144e-07,CAN,2012
+2145,COD,Growing maize industry,SEN,7.771533881068134e-05,CAN,2012
+2146,COD,Growing cereals n.e.c industry,SEN,7.154458054173912e-08,CAN,2012
+2147,COD,Growing leguminous crops and oil seeds industry,SEN,0.00047718055151022725,CAN,2012
+2148,COD,Growing rice industry,SEN,1.1272251136465475e-05,CAN,2012
+2149,COD,"Growing vegetables, roots, tubers industry",SEN,0.00019378135655917855,CAN,2012
+2150,COD,Growing sugar beet and cane industry,SEN,0.0,CAN,2012
+2151,COD,Growing tobacco industry,SEN,4.71532391451351e-08,CAN,2012
+2152,COD,Growing fibre crops industry,SEN,2.1233949696961187e-05,CAN,2012
+2153,COD,Growing crops n.e.c. industry,SEN,2.101182348780666e-08,CAN,2012
+2154,COD,Growing grapes industry,SEN,0.0,CAN,2012
+2155,COD,Growing fruits and nuts industry,SEN,0.00022012785373167547,CAN,2012
+2156,COD,"Growing beverage crops (coffee, tea etc) industry",SEN,1.0305731851809944e-06,CAN,2012
+2157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,1.0683891325150175e-07,CAN,2012
+2158,COD,Seeds and plant propagation industry,SEN,0.0,CAN,2012
+2159,COD,Raising of cattle industry,SEN,9.288848075693088e-05,CAN,2012
+2160,COD,Growing wheat industry,SGP,3.2780522354388233e-06,CAN,2012
+2161,COD,Growing maize industry,SGP,0.0007190811111434532,CAN,2012
+2162,COD,Growing cereals n.e.c industry,SGP,7.407527584955717e-07,CAN,2012
+2163,COD,Growing leguminous crops and oil seeds industry,SGP,0.0032359262969678744,CAN,2012
+2164,COD,Growing rice industry,SGP,0.00010431156847436332,CAN,2012
+2165,COD,"Growing vegetables, roots, tubers industry",SGP,0.0013682486209817078,CAN,2012
+2166,COD,Growing sugar beet and cane industry,SGP,0.0,CAN,2012
+2167,COD,Growing tobacco industry,SGP,5.286860956945697e-07,CAN,2012
+2168,COD,Growing fibre crops industry,SGP,0.00015890567238282413,CAN,2012
+2169,COD,Growing crops n.e.c. industry,SGP,2.5038470901295154e-07,CAN,2012
+2170,COD,Growing grapes industry,SGP,0.0,CAN,2012
+2171,COD,Growing fruits and nuts industry,SGP,0.002023070479118054,CAN,2012
+2172,COD,"Growing beverage crops (coffee, tea etc) industry",SGP,8.410125227784357e-06,CAN,2012
+2173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,9.095997227094762e-07,CAN,2012
+2174,COD,Seeds and plant propagation industry,SGP,0.0,CAN,2012
+2175,COD,Raising of cattle industry,SGP,0.0010621042361620555,CAN,2012
+2176,COD,Growing wheat industry,SLE,7.227071429965436e-08,CAN,2012
+2177,COD,Growing maize industry,SLE,1.3249636521212548e-05,CAN,2012
+2178,COD,Growing cereals n.e.c industry,SLE,1.6149658322439422e-08,CAN,2012
+2179,COD,Growing leguminous crops and oil seeds industry,SLE,3.405891885074125e-05,CAN,2012
+2180,COD,Growing rice industry,SLE,2.140079584638416e-06,CAN,2012
+2181,COD,"Growing vegetables, roots, tubers industry",SLE,1.5646690799215288e-05,CAN,2012
+2182,COD,Growing sugar beet and cane industry,SLE,0.0,CAN,2012
+2183,COD,Growing tobacco industry,SLE,1.1386303431684053e-08,CAN,2012
+2184,COD,Growing fibre crops industry,SLE,2.3572583828562265e-06,CAN,2012
+2185,COD,Growing crops n.e.c. industry,SLE,6.024723356884053e-09,CAN,2012
+2186,COD,Growing grapes industry,SLE,0.0,CAN,2012
+2187,COD,Growing fruits and nuts industry,SLE,2.6741682585217722e-05,CAN,2012
+2188,COD,"Growing beverage crops (coffee, tea etc) industry",SLE,1.2606750038078978e-07,CAN,2012
+2189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,1.3656866637956819e-08,CAN,2012
+2190,COD,Seeds and plant propagation industry,SLE,0.0,CAN,2012
+2191,COD,Raising of cattle industry,SLE,2.4820843937064996e-05,CAN,2012
+2192,COD,Growing wheat industry,SLV,4.541435341637908e-07,CAN,2012
+2193,COD,Growing maize industry,SLV,0.00010799287787758484,CAN,2012
+2194,COD,Growing cereals n.e.c industry,SLV,1.0108698322959469e-07,CAN,2012
+2195,COD,Growing leguminous crops and oil seeds industry,SLV,0.00038300029537015535,CAN,2012
+2196,COD,Growing rice industry,SLV,1.3804504905774198e-05,CAN,2012
+2197,COD,"Growing vegetables, roots, tubers industry",SLV,0.0001710273860554066,CAN,2012
+2198,COD,Growing sugar beet and cane industry,SLV,0.0,CAN,2012
+2199,COD,Growing tobacco industry,SLV,7.045467876035867e-08,CAN,2012
+2200,COD,Growing fibre crops industry,SLV,1.9320649330056613e-05,CAN,2012
+2201,COD,Growing crops n.e.c. industry,SLV,3.287576286434058e-08,CAN,2012
+2202,COD,Growing grapes industry,SLV,0.0,CAN,2012
+2203,COD,Growing fruits and nuts industry,SLV,0.0002241113341548511,CAN,2012
+2204,COD,"Growing beverage crops (coffee, tea etc) industry",SLV,1.0805513625853267e-06,CAN,2012
+2205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,1.2434692259462068e-07,CAN,2012
+2206,COD,Seeds and plant propagation industry,SLV,0.0,CAN,2012
+2207,COD,Raising of cattle industry,SLV,0.0001512274291364123,CAN,2012
+2208,COD,Growing wheat industry,SOM,3.7978436424902144e-08,CAN,2012
+2209,COD,Growing maize industry,SOM,7.568017374056774e-06,CAN,2012
+2210,COD,Growing cereals n.e.c industry,SOM,8.284958278053409e-09,CAN,2012
+2211,COD,Growing leguminous crops and oil seeds industry,SOM,1.66846788745589e-05,CAN,2012
+2212,COD,Growing rice industry,SOM,1.1160500862620402e-06,CAN,2012
+2213,COD,"Growing vegetables, roots, tubers industry",SOM,8.220376074847722e-06,CAN,2012
+2214,COD,Growing sugar beet and cane industry,SOM,0.0,CAN,2012
+2215,COD,Growing tobacco industry,SOM,6.05829210531485e-09,CAN,2012
+2216,COD,Growing fibre crops industry,SOM,1.1526844022534466e-06,CAN,2012
+2217,COD,Growing crops n.e.c. industry,SOM,2.883716567959055e-09,CAN,2012
+2218,COD,Growing grapes industry,SOM,0.0,CAN,2012
+2219,COD,Growing fruits and nuts industry,SOM,1.2375804918313025e-05,CAN,2012
+2220,COD,"Growing beverage crops (coffee, tea etc) industry",SOM,6.143295926464205e-08,CAN,2012
+2221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,8.134333256757493e-09,CAN,2012
+2222,COD,Seeds and plant propagation industry,SOM,0.0,CAN,2012
+2223,COD,Raising of cattle industry,SOM,1.2748103340531211e-05,CAN,2012
+2224,COD,Growing wheat industry,SRB,4.626263851600985e-07,CAN,2012
+2225,COD,Growing maize industry,SRB,0.00011210169412063147,CAN,2012
+2226,COD,Growing cereals n.e.c industry,SRB,1.0089743968370732e-07,CAN,2012
+2227,COD,Growing leguminous crops and oil seeds industry,SRB,0.00028422964078858175,CAN,2012
+2228,COD,Growing rice industry,SRB,1.536672527971882e-05,CAN,2012
+2229,COD,"Growing vegetables, roots, tubers industry",SRB,0.00013696439937474004,CAN,2012
+2230,COD,Growing sugar beet and cane industry,SRB,0.0,CAN,2012
+2231,COD,Growing tobacco industry,SRB,6.753664217211997e-08,CAN,2012
+2232,COD,Growing fibre crops industry,SRB,1.8402027958359692e-05,CAN,2012
+2233,COD,Growing crops n.e.c. industry,SRB,3.012388110811756e-08,CAN,2012
+2234,COD,Growing grapes industry,SRB,0.0,CAN,2012
+2235,COD,Growing fruits and nuts industry,SRB,0.00021431945651896603,CAN,2012
+2236,COD,"Growing beverage crops (coffee, tea etc) industry",SRB,8.893412192723126e-07,CAN,2012
+2237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,1.3431700774851348e-07,CAN,2012
+2238,COD,Seeds and plant propagation industry,SRB,0.0,CAN,2012
+2239,COD,Raising of cattle industry,SRB,0.00015550332623848293,CAN,2012
+2240,COD,Growing wheat industry,SDN,2.739659590423057e-07,CAN,2012
+2241,COD,Growing maize industry,SDN,5.997363707317444e-05,CAN,2012
+2242,COD,Growing cereals n.e.c industry,SDN,5.990098307106345e-08,CAN,2012
+2243,COD,Growing leguminous crops and oil seeds industry,SDN,0.00010310135417839622,CAN,2012
+2244,COD,Growing rice industry,SDN,8.058608449976124e-06,CAN,2012
+2245,COD,"Growing vegetables, roots, tubers industry",SDN,4.999317331433583e-05,CAN,2012
+2246,COD,Growing sugar beet and cane industry,SDN,0.0,CAN,2012
+2247,COD,Growing tobacco industry,SDN,4.223191356450131e-08,CAN,2012
+2248,COD,Growing fibre crops industry,SDN,7.919969350338086e-06,CAN,2012
+2249,COD,Growing crops n.e.c. industry,SDN,2.0787004412219937e-08,CAN,2012
+2250,COD,Growing grapes industry,SDN,0.0,CAN,2012
+2251,COD,Growing fruits and nuts industry,SDN,7.810912192638783e-05,CAN,2012
+2252,COD,"Growing beverage crops (coffee, tea etc) industry",SDN,3.697571106301073e-07,CAN,2012
+2253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,5.139744287510371e-08,CAN,2012
+2254,COD,Seeds and plant propagation industry,SDN,0.0,CAN,2012
+2255,COD,Raising of cattle industry,SDN,9.537448129695871e-05,CAN,2012
+2256,COD,Growing wheat industry,SVK,3.08373329117954e-07,CAN,2012
+2257,COD,Growing maize industry,SVK,7.030429445290883e-05,CAN,2012
+2258,COD,Growing cereals n.e.c industry,SVK,6.880021844544477e-08,CAN,2012
+2259,COD,Growing leguminous crops and oil seeds industry,SVK,0.00029194306757033135,CAN,2012
+2260,COD,Growing rice industry,SVK,9.510235326318525e-06,CAN,2012
+2261,COD,"Growing vegetables, roots, tubers industry",SVK,0.00012500393643686094,CAN,2012
+2262,COD,Growing sugar beet and cane industry,SVK,0.0,CAN,2012
+2263,COD,Growing tobacco industry,SVK,4.8676787634440814e-08,CAN,2012
+2264,COD,Growing fibre crops industry,SVK,1.4567518966296059e-05,CAN,2012
+2265,COD,Growing crops n.e.c. industry,SVK,2.3245497074159088e-08,CAN,2012
+2266,COD,Growing grapes industry,SVK,0.0,CAN,2012
+2267,COD,Growing fruits and nuts industry,SVK,0.00017937783196617682,CAN,2012
+2268,COD,"Growing beverage crops (coffee, tea etc) industry",SVK,7.619068601792475e-07,CAN,2012
+2269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,8.024179980535334e-08,CAN,2012
+2270,COD,Seeds and plant propagation industry,SVK,0.0,CAN,2012
+2271,COD,Raising of cattle industry,SVK,0.00010078272932261644,CAN,2012
+2272,COD,Growing wheat industry,SVN,1.9520608553570683e-07,CAN,2012
+2273,COD,Growing maize industry,SVN,4.296194495474644e-05,CAN,2012
+2274,COD,Growing cereals n.e.c industry,SVN,4.331511399008145e-08,CAN,2012
+2275,COD,Growing leguminous crops and oil seeds industry,SVN,0.00015788026454160187,CAN,2012
+2276,COD,Growing rice industry,SVN,5.9051645224629735e-06,CAN,2012
+2277,COD,"Growing vegetables, roots, tubers industry",SVN,6.944222635446992e-05,CAN,2012
+2278,COD,Growing sugar beet and cane industry,SVN,0.0,CAN,2012
+2279,COD,Growing tobacco industry,SVN,3.221907771060088e-08,CAN,2012
+2280,COD,Growing fibre crops industry,SVN,8.683952189207674e-06,CAN,2012
+2281,COD,Growing crops n.e.c. industry,SVN,1.5251970798469018e-08,CAN,2012
+2282,COD,Growing grapes industry,SVN,0.0,CAN,2012
+2283,COD,Growing fruits and nuts industry,SVN,0.00010032967723415541,CAN,2012
+2284,COD,"Growing beverage crops (coffee, tea etc) industry",SVN,4.4974039018146314e-07,CAN,2012
+2285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,5.0621118132484647e-08,CAN,2012
+2286,COD,Seeds and plant propagation industry,SVN,0.0,CAN,2012
+2287,COD,Raising of cattle industry,SVN,6.325268112745892e-05,CAN,2012
+2288,COD,Growing wheat industry,SWE,2.626944669073981e-06,CAN,2012
+2289,COD,Growing maize industry,SWE,0.0005714488141538832,CAN,2012
+2290,COD,Growing cereals n.e.c industry,SWE,5.888144534908014e-07,CAN,2012
+2291,COD,Growing leguminous crops and oil seeds industry,SWE,0.002754620562849656,CAN,2012
+2292,COD,Growing rice industry,SWE,8.055959683057605e-05,CAN,2012
+2293,COD,"Growing vegetables, roots, tubers industry",SWE,0.0011747395689442792,CAN,2012
+2294,COD,Growing sugar beet and cane industry,SWE,0.0,CAN,2012
+2295,COD,Growing tobacco industry,SWE,4.272559493406326e-07,CAN,2012
+2296,COD,Growing fibre crops industry,SWE,0.0001367138329822238,CAN,2012
+2297,COD,Growing crops n.e.c. industry,SWE,2.06672128511341e-07,CAN,2012
+2298,COD,Growing grapes industry,SWE,0.0,CAN,2012
+2299,COD,Growing fruits and nuts industry,SWE,0.001511203721699985,CAN,2012
+2300,COD,"Growing beverage crops (coffee, tea etc) industry",SWE,7.125463060320928e-06,CAN,2012
+2301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,7.521776758666119e-07,CAN,2012
+2302,COD,Seeds and plant propagation industry,SWE,0.0,CAN,2012
+2303,COD,Raising of cattle industry,SWE,0.0008375850562439481,CAN,2012
+2304,COD,Growing wheat industry,SYR,3.3259926898757243e-07,CAN,2012
+2305,COD,Growing maize industry,SYR,5.6791105506626783e-05,CAN,2012
+2306,COD,Growing cereals n.e.c industry,SYR,6.962376405972654e-08,CAN,2012
+2307,COD,Growing leguminous crops and oil seeds industry,SYR,0.0001191316305968214,CAN,2012
+2308,COD,Growing rice industry,SYR,9.868161617859606e-06,CAN,2012
+2309,COD,"Growing vegetables, roots, tubers industry",SYR,5.6031802840521744e-05,CAN,2012
+2310,COD,Growing sugar beet and cane industry,SYR,0.0,CAN,2012
+2311,COD,Growing tobacco industry,SYR,5.96753803236005e-08,CAN,2012
+2312,COD,Growing fibre crops industry,SYR,8.581302415550938e-06,CAN,2012
+2313,COD,Growing crops n.e.c. industry,SYR,2.5086710950164627e-08,CAN,2012
+2314,COD,Growing grapes industry,SYR,0.0,CAN,2012
+2315,COD,Growing fruits and nuts industry,SYR,8.397809309926959e-05,CAN,2012
+2316,COD,"Growing beverage crops (coffee, tea etc) industry",SYR,4.376583456339976e-07,CAN,2012
+2317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,5.44531806502029e-08,CAN,2012
+2318,COD,Seeds and plant propagation industry,SYR,0.0,CAN,2012
+2319,COD,Raising of cattle industry,SYR,0.00012476863710631967,CAN,2012
+2320,COD,Growing wheat industry,TCD,1.3323656200714876e-07,CAN,2012
+2321,COD,Growing maize industry,TCD,2.1427418307283563e-05,CAN,2012
+2322,COD,Growing cereals n.e.c industry,TCD,3.0591542295837956e-08,CAN,2012
+2323,COD,Growing leguminous crops and oil seeds industry,TCD,5.019787550511737e-05,CAN,2012
+2324,COD,Growing rice industry,TCD,3.853092187028343e-06,CAN,2012
+2325,COD,"Growing vegetables, roots, tubers industry",TCD,2.3174516718510795e-05,CAN,2012
+2326,COD,Growing sugar beet and cane industry,TCD,0.0,CAN,2012
+2327,COD,Growing tobacco industry,TCD,2.4982172844310127e-08,CAN,2012
+2328,COD,Growing fibre crops industry,TCD,4.603124812937858e-06,CAN,2012
+2329,COD,Growing crops n.e.c. industry,TCD,1.2168339701987011e-08,CAN,2012
+2330,COD,Growing grapes industry,TCD,0.0,CAN,2012
+2331,COD,Growing fruits and nuts industry,TCD,3.626225477872443e-05,CAN,2012
+2332,COD,"Growing beverage crops (coffee, tea etc) industry",TCD,1.915770787512367e-07,CAN,2012
+2333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,2.3267317829967425e-08,CAN,2012
+2334,COD,Seeds and plant propagation industry,TCD,0.0,CAN,2012
+2335,COD,Raising of cattle industry,TCD,4.63405637910058e-05,CAN,2012
+2336,COD,Growing wheat industry,TGO,3.154617382100842e-08,CAN,2012
+2337,COD,Growing maize industry,TGO,7.011735577648343e-06,CAN,2012
+2338,COD,Growing cereals n.e.c industry,TGO,6.96078939714376e-09,CAN,2012
+2339,COD,Growing leguminous crops and oil seeds industry,TGO,1.3293681071939756e-05,CAN,2012
+2340,COD,Growing rice industry,TGO,9.1720497696045e-07,CAN,2012
+2341,COD,"Growing vegetables, roots, tubers industry",TGO,6.6188474089849385e-06,CAN,2012
+2342,COD,Growing sugar beet and cane industry,TGO,0.0,CAN,2012
+2343,COD,Growing tobacco industry,TGO,4.676296546065299e-09,CAN,2012
+2344,COD,Growing fibre crops industry,TGO,9.379135794818087e-07,CAN,2012
+2345,COD,Growing crops n.e.c. industry,TGO,2.3451061133502947e-09,CAN,2012
+2346,COD,Growing grapes industry,TGO,0.0,CAN,2012
+2347,COD,Growing fruits and nuts industry,TGO,9.533669752593036e-06,CAN,2012
+2348,COD,"Growing beverage crops (coffee, tea etc) industry",TGO,4.8724739084693144e-08,CAN,2012
+2349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,6.675422466626554e-09,CAN,2012
+2350,COD,Seeds and plant propagation industry,TGO,0.0,CAN,2012
+2351,COD,Raising of cattle industry,TGO,1.0695761066613332e-05,CAN,2012
+2352,COD,Growing wheat industry,THA,3.4620517296481856e-06,CAN,2012
+2353,COD,Growing maize industry,THA,0.0007703820256730198,CAN,2012
+2354,COD,Growing cereals n.e.c industry,THA,7.660713773242536e-07,CAN,2012
+2355,COD,Growing leguminous crops and oil seeds industry,THA,0.0019848476839213268,CAN,2012
+2356,COD,Growing rice industry,THA,0.00010462129030157973,CAN,2012
+2357,COD,"Growing vegetables, roots, tubers industry",THA,0.0008971216976998711,CAN,2012
+2358,COD,Growing sugar beet and cane industry,THA,0.0,CAN,2012
+2359,COD,Growing tobacco industry,THA,5.501793493479878e-07,CAN,2012
+2360,COD,Growing fibre crops industry,THA,0.0001347837974849803,CAN,2012
+2361,COD,Growing crops n.e.c. industry,THA,2.660277820682203e-07,CAN,2012
+2362,COD,Growing grapes industry,THA,0.0,CAN,2012
+2363,COD,Growing fruits and nuts industry,THA,0.0015127286963734523,CAN,2012
+2364,COD,"Growing beverage crops (coffee, tea etc) industry",THA,6.407711638756695e-06,CAN,2012
+2365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,7.397702826535668e-07,CAN,2012
+2366,COD,Seeds and plant propagation industry,THA,0.0,CAN,2012
+2367,COD,Raising of cattle industry,THA,0.0011610924895984701,CAN,2012
+2368,COD,Growing wheat industry,TJK,5.249208676443738e-08,CAN,2012
+2369,COD,Growing maize industry,TJK,3.8644441182228104e-05,CAN,2012
+2370,COD,Growing cereals n.e.c industry,TJK,1.6441753276826338e-08,CAN,2012
+2371,COD,Growing leguminous crops and oil seeds industry,TJK,2.642649583026852e-05,CAN,2012
+2372,COD,Growing rice industry,TJK,1.5817297642285776e-06,CAN,2012
+2373,COD,"Growing vegetables, roots, tubers industry",TJK,1.2466339095682828e-05,CAN,2012
+2374,COD,Growing sugar beet and cane industry,TJK,0.0,CAN,2012
+2375,COD,Growing tobacco industry,TJK,8.2566134346776e-09,CAN,2012
+2376,COD,Growing fibre crops industry,TJK,2.295955721308319e-06,CAN,2012
+2377,COD,Growing crops n.e.c. industry,TJK,4.079277952476714e-09,CAN,2012
+2378,COD,Growing grapes industry,TJK,0.0,CAN,2012
+2379,COD,Growing fruits and nuts industry,TJK,2.3017987900055438e-05,CAN,2012
+2380,COD,"Growing beverage crops (coffee, tea etc) industry",TJK,9.072274902618062e-08,CAN,2012
+2381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,1.22508957871419e-08,CAN,2012
+2382,COD,Seeds and plant propagation industry,TJK,0.0,CAN,2012
+2383,COD,Raising of cattle industry,TJK,1.647787939545152e-05,CAN,2012
+2384,COD,Growing wheat industry,TKM,7.985389056329507e-08,CAN,2012
+2385,COD,Growing maize industry,TKM,1.4739637412114873e-05,CAN,2012
+2386,COD,Growing cereals n.e.c industry,TKM,1.7640219155207582e-08,CAN,2012
+2387,COD,Growing leguminous crops and oil seeds industry,TKM,3.990291575942618e-05,CAN,2012
+2388,COD,Growing rice industry,TKM,2.346803270758333e-06,CAN,2012
+2389,COD,"Growing vegetables, roots, tubers industry",TKM,1.7788031935366037e-05,CAN,2012
+2390,COD,Growing sugar beet and cane industry,TKM,0.0,CAN,2012
+2391,COD,Growing tobacco industry,TKM,1.3150925316084731e-08,CAN,2012
+2392,COD,Growing fibre crops industry,TKM,2.364367806438837e-06,CAN,2012
+2393,COD,Growing crops n.e.c. industry,TKM,6.456314524209852e-09,CAN,2012
+2394,COD,Growing grapes industry,TKM,0.0,CAN,2012
+2395,COD,Growing fruits and nuts industry,TKM,2.5648441380457664e-05,CAN,2012
+2396,COD,"Growing beverage crops (coffee, tea etc) industry",TKM,1.287125676557398e-07,CAN,2012
+2397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,1.488639853126423e-08,CAN,2012
+2398,COD,Seeds and plant propagation industry,TKM,0.0,CAN,2012
+2399,COD,Raising of cattle industry,TKM,2.7043504934261983e-05,CAN,2012
+2400,COD,Growing wheat industry,TUN,3.1008887760149307e-07,CAN,2012
+2401,COD,Growing maize industry,TUN,6.649324579214402e-05,CAN,2012
+2402,COD,Growing cereals n.e.c industry,TUN,6.720986683408232e-08,CAN,2012
+2403,COD,Growing leguminous crops and oil seeds industry,TUN,0.00023822754721150558,CAN,2012
+2404,COD,Growing rice industry,TUN,1.0017526586168187e-05,CAN,2012
+2405,COD,"Growing vegetables, roots, tubers industry",TUN,0.00010383804820397555,CAN,2012
+2406,COD,Growing sugar beet and cane industry,TUN,0.0,CAN,2012
+2407,COD,Growing tobacco industry,TUN,4.802667211816216e-08,CAN,2012
+2408,COD,Growing fibre crops industry,TUN,1.3756271936765109e-05,CAN,2012
+2409,COD,Growing crops n.e.c. industry,TUN,2.1852807721039356e-08,CAN,2012
+2410,COD,Growing grapes industry,TUN,0.0,CAN,2012
+2411,COD,Growing fruits and nuts industry,TUN,0.00014137420742043382,CAN,2012
+2412,COD,"Growing beverage crops (coffee, tea etc) industry",TUN,6.433422879420259e-07,CAN,2012
+2413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,8.171876601318971e-08,CAN,2012
+2414,COD,Seeds and plant propagation industry,TUN,0.0,CAN,2012
+2415,COD,Raising of cattle industry,TUN,9.800054317256244e-05,CAN,2012
+2416,COD,Growing wheat industry,TUR,3.288342186873915e-06,CAN,2012
+2417,COD,Growing maize industry,TUR,0.0006503068287161777,CAN,2012
+2418,COD,Growing cereals n.e.c industry,TUR,7.195359846340317e-07,CAN,2012
+2419,COD,Growing leguminous crops and oil seeds industry,TUR,0.0016751674076026103,CAN,2012
+2420,COD,Growing rice industry,TUR,9.843426552835939e-05,CAN,2012
+2421,COD,"Growing vegetables, roots, tubers industry",TUR,0.000778295429489598,CAN,2012
+2422,COD,Growing sugar beet and cane industry,TUR,0.0,CAN,2012
+2423,COD,Growing tobacco industry,TUR,5.260248259154442e-07,CAN,2012
+2424,COD,Growing fibre crops industry,TUR,0.00011113782344634941,CAN,2012
+2425,COD,Growing crops n.e.c. industry,TUR,2.555716053422022e-07,CAN,2012
+2426,COD,Growing grapes industry,TUR,0.0,CAN,2012
+2427,COD,Growing fruits and nuts industry,TUR,0.0011591768828077302,CAN,2012
+2428,COD,"Growing beverage crops (coffee, tea etc) industry",TUR,5.59749272697502e-06,CAN,2012
+2429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,7.161323917005634e-07,CAN,2012
+2430,COD,Seeds and plant propagation industry,TUR,0.0,CAN,2012
+2431,COD,Raising of cattle industry,TUR,0.001090684121834564,CAN,2012
+2432,COD,Growing wheat industry,TZA,3.239469301106729e-07,CAN,2012
+2433,COD,Growing maize industry,TZA,5.7821799460824954e-05,CAN,2012
+2434,COD,Growing cereals n.e.c industry,TZA,7.552947877449282e-08,CAN,2012
+2435,COD,Growing leguminous crops and oil seeds industry,TZA,0.0001341253200554511,CAN,2012
+2436,COD,Growing rice industry,TZA,9.406311969232839e-06,CAN,2012
+2437,COD,"Growing vegetables, roots, tubers industry",TZA,6.190011082034785e-05,CAN,2012
+2438,COD,Growing sugar beet and cane industry,TZA,0.0,CAN,2012
+2439,COD,Growing tobacco industry,TZA,5.174664425712653e-08,CAN,2012
+2440,COD,Growing fibre crops industry,TZA,1.0333459288716027e-05,CAN,2012
+2441,COD,Growing crops n.e.c. industry,TZA,2.8332864446502724e-08,CAN,2012
+2442,COD,Growing grapes industry,TZA,0.0,CAN,2012
+2443,COD,Growing fruits and nuts industry,TZA,9.875237638217114e-05,CAN,2012
+2444,COD,"Growing beverage crops (coffee, tea etc) industry",TZA,4.7653936508876093e-07,CAN,2012
+2445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,5.980576965648718e-08,CAN,2012
+2446,COD,Seeds and plant propagation industry,TZA,0.0,CAN,2012
+2447,COD,Raising of cattle industry,TZA,0.00010967243632419989,CAN,2012
+2448,COD,Growing wheat industry,UGA,1.8898370871644635e-07,CAN,2012
+2449,COD,Growing maize industry,UGA,3.2291664887988545e-05,CAN,2012
+2450,COD,Growing cereals n.e.c industry,UGA,4.028174876703528e-08,CAN,2012
+2451,COD,Growing leguminous crops and oil seeds industry,UGA,6.744879978722727e-05,CAN,2012
+2452,COD,Growing rice industry,UGA,5.534193640440295e-06,CAN,2012
+2453,COD,"Growing vegetables, roots, tubers industry",UGA,3.2181190588970315e-05,CAN,2012
+2454,COD,Growing sugar beet and cane industry,UGA,0.0,CAN,2012
+2455,COD,Growing tobacco industry,UGA,3.243959127784063e-08,CAN,2012
+2456,COD,Growing fibre crops industry,UGA,4.952224161885908e-06,CAN,2012
+2457,COD,Growing crops n.e.c. industry,UGA,1.4304336916931335e-08,CAN,2012
+2458,COD,Growing grapes industry,UGA,0.0,CAN,2012
+2459,COD,Growing fruits and nuts industry,UGA,5.021908490578779e-05,CAN,2012
+2460,COD,"Growing beverage crops (coffee, tea etc) industry",UGA,2.3926889327939933e-07,CAN,2012
+2461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,3.0176433501965926e-08,CAN,2012
+2462,COD,Seeds and plant propagation industry,UGA,0.0,CAN,2012
+2463,COD,Raising of cattle industry,UGA,6.908890223960167e-05,CAN,2012
+2464,COD,Growing wheat industry,UKR,9.92825220178664e-07,CAN,2012
+2465,COD,Growing maize industry,UKR,0.00026831474290025674,CAN,2012
+2466,COD,Growing cereals n.e.c industry,UKR,2.327687072532396e-07,CAN,2012
+2467,COD,Growing leguminous crops and oil seeds industry,UKR,0.0004970413030672634,CAN,2012
+2468,COD,Growing rice industry,UKR,2.954296805838219e-05,CAN,2012
+2469,COD,"Growing vegetables, roots, tubers industry",UKR,0.00023375046357060472,CAN,2012
+2470,COD,Growing sugar beet and cane industry,UKR,0.0,CAN,2012
+2471,COD,Growing tobacco industry,UKR,1.6179729160030803e-07,CAN,2012
+2472,COD,Growing fibre crops industry,UKR,3.910153924945238e-05,CAN,2012
+2473,COD,Growing crops n.e.c. industry,UKR,7.865767091939804e-08,CAN,2012
+2474,COD,Growing grapes industry,UKR,0.0,CAN,2012
+2475,COD,Growing fruits and nuts industry,UKR,0.00041231457106792596,CAN,2012
+2476,COD,"Growing beverage crops (coffee, tea etc) industry",UKR,1.8730118986144035e-06,CAN,2012
+2477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,2.1838735821313396e-07,CAN,2012
+2478,COD,Seeds and plant propagation industry,UKR,0.0,CAN,2012
+2479,COD,Raising of cattle industry,UKR,0.0003318215733814278,CAN,2012
+2480,COD,Growing wheat industry,URY,3.537864997127018e-07,CAN,2012
+2481,COD,Growing maize industry,URY,0.0003275335404693863,CAN,2012
+2482,COD,Growing cereals n.e.c industry,URY,1.3333039479717293e-07,CAN,2012
+2483,COD,Growing leguminous crops and oil seeds industry,URY,0.00014314823718801611,CAN,2012
+2484,COD,Growing rice industry,URY,1.0159099888696758e-05,CAN,2012
+2485,COD,"Growing vegetables, roots, tubers industry",URY,7.661004573034848e-05,CAN,2012
+2486,COD,Growing sugar beet and cane industry,URY,0.0,CAN,2012
+2487,COD,Growing tobacco industry,URY,5.968899377816406e-08,CAN,2012
+2488,COD,Growing fibre crops industry,URY,1.2518326306529073e-05,CAN,2012
+2489,COD,Growing crops n.e.c. industry,URY,3.338495387237708e-08,CAN,2012
+2490,COD,Growing grapes industry,URY,0.0,CAN,2012
+2491,COD,Growing fruits and nuts industry,URY,0.0010061217368708384,CAN,2012
+2492,COD,"Growing beverage crops (coffee, tea etc) industry",URY,5.250317802495437e-07,CAN,2012
+2493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,6.809060307208219e-08,CAN,2012
+2494,COD,Seeds and plant propagation industry,URY,0.0,CAN,2012
+2495,COD,Raising of cattle industry,URY,0.00011821935380867608,CAN,2012
+2496,COD,Growing wheat industry,USA,0.0005989191533206114,CAN,2012
+2497,COD,Growing maize industry,USA,0.14355239529297575,CAN,2012
+2498,COD,Growing cereals n.e.c industry,USA,0.00013747418031548648,CAN,2012
+2499,COD,Growing leguminous crops and oil seeds industry,USA,0.47095109277449176,CAN,2012
+2500,COD,Growing rice industry,USA,0.017641583205202586,CAN,2012
+2501,COD,"Growing vegetables, roots, tubers industry",USA,0.2105063179466942,CAN,2012
+2502,COD,Growing sugar beet and cane industry,USA,0.0,CAN,2012
+2503,COD,Growing tobacco industry,USA,9.67454232188931e-05,CAN,2012
+2504,COD,Growing fibre crops industry,USA,0.02459938609939425,CAN,2012
+2505,COD,Growing crops n.e.c. industry,USA,4.8182917068092784e-05,CAN,2012
+2506,COD,Growing grapes industry,USA,0.0,CAN,2012
+2507,COD,Growing fruits and nuts industry,USA,0.30932827172875366,CAN,2012
+2508,COD,"Growing beverage crops (coffee, tea etc) industry",USA,0.0013155042247305919,CAN,2012
+2509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,0.0001521779237624446,CAN,2012
+2510,COD,Seeds and plant propagation industry,USA,0.0,CAN,2012
+2511,COD,Raising of cattle industry,USA,0.19611433429866937,CAN,2012
+2512,COD,Growing wheat industry,UZB,3.1204607040595105e-07,CAN,2012
+2513,COD,Growing maize industry,UZB,9.000833829245226e-05,CAN,2012
+2514,COD,Growing cereals n.e.c industry,UZB,7.806248750400724e-08,CAN,2012
+2515,COD,Growing leguminous crops and oil seeds industry,UZB,0.0001167968441236099,CAN,2012
+2516,COD,Growing rice industry,UZB,9.214963724537136e-06,CAN,2012
+2517,COD,"Growing vegetables, roots, tubers industry",UZB,5.4916590726022854e-05,CAN,2012
+2518,COD,Growing sugar beet and cane industry,UZB,0.0,CAN,2012
+2519,COD,Growing tobacco industry,UZB,5.107038379679227e-08,CAN,2012
+2520,COD,Growing fibre crops industry,UZB,1.0281137862504043e-05,CAN,2012
+2521,COD,Growing crops n.e.c. industry,UZB,2.6627491220190458e-08,CAN,2012
+2522,COD,Growing grapes industry,UZB,0.0,CAN,2012
+2523,COD,Growing fruits and nuts industry,UZB,9.617999921703924e-05,CAN,2012
+2524,COD,"Growing beverage crops (coffee, tea etc) industry",UZB,4.479205595152901e-07,CAN,2012
+2525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,5.835957967810088e-08,CAN,2012
+2526,COD,Seeds and plant propagation industry,UZB,0.0,CAN,2012
+2527,COD,Raising of cattle industry,UZB,0.00010499525244598733,CAN,2012
+2528,COD,Growing wheat industry,VEN,3.9016637089405855e-06,CAN,2012
+2529,COD,Growing maize industry,VEN,0.0007585026053672387,CAN,2012
+2530,COD,Growing cereals n.e.c industry,VEN,8.519416704408692e-07,CAN,2012
+2531,COD,Growing leguminous crops and oil seeds industry,VEN,0.0027702825251602263,CAN,2012
+2532,COD,Growing rice industry,VEN,0.00012002027782382984,CAN,2012
+2533,COD,"Growing vegetables, roots, tubers industry",VEN,0.001204752012076395,CAN,2012
+2534,COD,Growing sugar beet and cane industry,VEN,0.0,CAN,2012
+2535,COD,Growing tobacco industry,VEN,6.598809288376475e-07,CAN,2012
+2536,COD,Growing fibre crops industry,VEN,0.00015914246143699005,CAN,2012
+2537,COD,Growing crops n.e.c. industry,VEN,3.0741626900229943e-07,CAN,2012
+2538,COD,Growing grapes industry,VEN,0.0,CAN,2012
+2539,COD,Growing fruits and nuts industry,VEN,0.0016043303554538176,CAN,2012
+2540,COD,"Growing beverage crops (coffee, tea etc) industry",VEN,7.724219869961609e-06,CAN,2012
+2541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,8.751142764582285e-07,CAN,2012
+2542,COD,Seeds and plant propagation industry,VEN,0.0,CAN,2012
+2543,COD,Raising of cattle industry,VEN,0.0013357381174303802,CAN,2012
+2544,COD,Growing wheat industry,VNM,1.2838915181042764e-06,CAN,2012
+2545,COD,Growing maize industry,VNM,0.00031396328586162235,CAN,2012
+2546,COD,Growing cereals n.e.c industry,VNM,2.8762964039477273e-07,CAN,2012
+2547,COD,Growing leguminous crops and oil seeds industry,VNM,0.0007677566895624325,CAN,2012
+2548,COD,Growing rice industry,VNM,3.8554640356386654e-05,CAN,2012
+2549,COD,"Growing vegetables, roots, tubers industry",VNM,0.00036078199886063604,CAN,2012
+2550,COD,Growing sugar beet and cane industry,VNM,0.0,CAN,2012
+2551,COD,Growing tobacco industry,VNM,2.0081068914858024e-07,CAN,2012
+2552,COD,Growing fibre crops industry,VNM,4.858234261817055e-05,CAN,2012
+2553,COD,Growing crops n.e.c. industry,VNM,9.871631876778661e-08,CAN,2012
+2554,COD,Growing grapes industry,VNM,0.0,CAN,2012
+2555,COD,Growing fruits and nuts industry,VNM,0.0005632397311411839,CAN,2012
+2556,COD,"Growing beverage crops (coffee, tea etc) industry",VNM,2.470739160427112e-06,CAN,2012
+2557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,3.320938672389623e-07,CAN,2012
+2558,COD,Seeds and plant propagation industry,VNM,0.0,CAN,2012
+2559,COD,Raising of cattle industry,VNM,0.00042693538450810106,CAN,2012
+2560,COD,Growing wheat industry,YEM,2.3389466975018628e-07,CAN,2012
+2561,COD,Growing maize industry,YEM,4.673908974657517e-05,CAN,2012
+2562,COD,Growing cereals n.e.c industry,YEM,5.262061515891552e-08,CAN,2012
+2563,COD,Growing leguminous crops and oil seeds industry,YEM,9.825359175171106e-05,CAN,2012
+2564,COD,Growing rice industry,YEM,6.849644248634126e-06,CAN,2012
+2565,COD,"Growing vegetables, roots, tubers industry",YEM,4.674429732012092e-05,CAN,2012
+2566,COD,Growing sugar beet and cane industry,YEM,0.0,CAN,2012
+2567,COD,Growing tobacco industry,YEM,4.0401066594020255e-08,CAN,2012
+2568,COD,Growing fibre crops industry,YEM,7.278870399819787e-06,CAN,2012
+2569,COD,Growing crops n.e.c. industry,YEM,1.9752855236539508e-08,CAN,2012
+2570,COD,Growing grapes industry,YEM,0.0,CAN,2012
+2571,COD,Growing fruits and nuts industry,YEM,7.545769317883949e-05,CAN,2012
+2572,COD,"Growing beverage crops (coffee, tea etc) industry",YEM,3.5245550655942495e-07,CAN,2012
+2573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,4.559005623921699e-08,CAN,2012
+2574,COD,Seeds and plant propagation industry,YEM,0.0,CAN,2012
+2575,COD,Raising of cattle industry,YEM,7.938787209893517e-05,CAN,2012
+2576,COD,Growing wheat industry,ZAF,2.3420343714528713e-06,CAN,2012
+2577,COD,Growing maize industry,ZAF,0.0005020101341893666,CAN,2012
+2578,COD,Growing cereals n.e.c industry,ZAF,5.312551503095012e-07,CAN,2012
+2579,COD,Growing leguminous crops and oil seeds industry,ZAF,0.0014177604759265383,CAN,2012
+2580,COD,Growing rice industry,ZAF,7.111368324456393e-05,CAN,2012
+2581,COD,"Growing vegetables, roots, tubers industry",ZAF,0.0006303862016138685,CAN,2012
+2582,COD,Growing sugar beet and cane industry,ZAF,0.0,CAN,2012
+2583,COD,Growing tobacco industry,ZAF,3.794442513285401e-07,CAN,2012
+2584,COD,Growing fibre crops industry,ZAF,9.287594211701084e-05,CAN,2012
+2585,COD,Growing crops n.e.c. industry,ZAF,1.9087289118598715e-07,CAN,2012
+2586,COD,Growing grapes industry,ZAF,0.0,CAN,2012
+2587,COD,Growing fruits and nuts industry,ZAF,0.0009744334481786589,CAN,2012
+2588,COD,"Growing beverage crops (coffee, tea etc) industry",ZAF,4.489547850685945e-06,CAN,2012
+2589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,5.111320842406401e-07,CAN,2012
+2590,COD,Seeds and plant propagation industry,ZAF,0.0,CAN,2012
+2591,COD,Raising of cattle industry,ZAF,0.0007819771333526627,CAN,2012
+2592,COD,Growing wheat industry,ZMB,2.6548584696345185e-07,CAN,2012
+2593,COD,Growing maize industry,ZMB,4.327561940116912e-05,CAN,2012
+2594,COD,Growing cereals n.e.c industry,ZMB,6.006379352767895e-08,CAN,2012
+2595,COD,Growing leguminous crops and oil seeds industry,ZMB,0.00010268245074517585,CAN,2012
+2596,COD,Growing rice industry,ZMB,7.732479067061457e-06,CAN,2012
+2597,COD,"Growing vegetables, roots, tubers industry",ZMB,4.654258523420472e-05,CAN,2012
+2598,COD,Growing sugar beet and cane industry,ZMB,0.0,CAN,2012
+2599,COD,Growing tobacco industry,ZMB,4.329131519839455e-08,CAN,2012
+2600,COD,Growing fibre crops industry,ZMB,8.39787806474117e-06,CAN,2012
+2601,COD,Growing crops n.e.c. industry,ZMB,2.2861809722479663e-08,CAN,2012
+2602,COD,Growing grapes industry,ZMB,0.0,CAN,2012
+2603,COD,Growing fruits and nuts industry,ZMB,7.895511943137124e-05,CAN,2012
+2604,COD,"Growing beverage crops (coffee, tea etc) industry",ZMB,3.6911081444238005e-07,CAN,2012
+2605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,4.278634319107427e-08,CAN,2012
+2606,COD,Seeds and plant propagation industry,ZMB,0.0,CAN,2012
+2607,COD,Raising of cattle industry,ZMB,9.239697309318425e-05,CAN,2012
+2608,COD,Growing wheat industry,ZWE,2.1316137370654612e-07,CAN,2012
+2609,COD,Growing maize industry,ZWE,3.71552367250909e-05,CAN,2012
+2610,COD,Growing cereals n.e.c industry,ZWE,4.751415750538815e-08,CAN,2012
+2611,COD,Growing leguminous crops and oil seeds industry,ZWE,7.285098468352365e-05,CAN,2012
+2612,COD,Growing rice industry,ZWE,6.181329927485277e-06,CAN,2012
+2613,COD,"Growing vegetables, roots, tubers industry",ZWE,3.796561243315394e-05,CAN,2012
+2614,COD,Growing sugar beet and cane industry,ZWE,0.0,CAN,2012
+2615,COD,Growing tobacco industry,ZWE,3.415407079429787e-08,CAN,2012
+2616,COD,Growing fibre crops industry,ZWE,6.515847434510194e-06,CAN,2012
+2617,COD,Growing crops n.e.c. industry,ZWE,1.8598664214885703e-08,CAN,2012
+2618,COD,Growing grapes industry,ZWE,0.0,CAN,2012
+2619,COD,Growing fruits and nuts industry,ZWE,5.794666995770122e-05,CAN,2012
+2620,COD,"Growing beverage crops (coffee, tea etc) industry",ZWE,3.1762756836613734e-07,CAN,2012
+2621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,4.8765306157764676e-08,CAN,2012
+2622,COD,Seeds and plant propagation industry,ZWE,0.0,CAN,2012
+2623,COD,Raising of cattle industry,ZWE,7.26370283097108e-05,CAN,2012

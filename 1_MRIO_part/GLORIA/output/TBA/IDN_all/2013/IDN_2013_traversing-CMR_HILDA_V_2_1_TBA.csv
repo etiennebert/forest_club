@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,IDN,Growing wheat industry,XAM,0.0,CMR,2013
+1,IDN,Growing maize industry,XAM,1.52892426672068e-05,CMR,2013
+2,IDN,Growing cereals n.e.c industry,XAM,0.0,CMR,2013
+3,IDN,Growing leguminous crops and oil seeds industry,XAM,0.0004944722136631209,CMR,2013
+4,IDN,Growing rice industry,XAM,1.8989101355515677e-08,CMR,2013
+5,IDN,"Growing vegetables, roots, tubers industry",XAM,0.0,CMR,2013
+6,IDN,Growing sugar beet and cane industry,XAM,8.117621111632499e-06,CMR,2013
+7,IDN,Growing tobacco industry,XAM,3.162583540317578e-06,CMR,2013
+8,IDN,Growing fibre crops industry,XAM,0.0,CMR,2013
+9,IDN,Growing crops n.e.c. industry,XAM,1.7837271287822907e-05,CMR,2013
+10,IDN,Growing grapes industry,XAM,0.0,CMR,2013
+11,IDN,Growing fruits and nuts industry,XAM,2.733258479073067e-06,CMR,2013
+12,IDN,"Growing beverage crops (coffee, tea etc) industry",XAM,6.309400729369618e-07,CMR,2013
+13,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,2.2929879251261924e-05,CMR,2013
+14,IDN,Seeds and plant propagation industry,XAM,0.0,CMR,2013
+15,IDN,Raising of cattle industry,XAM,2.3974069798195016e-05,CMR,2013
+16,IDN,Growing wheat industry,XEU,0.0,CMR,2013
+17,IDN,Growing maize industry,XEU,1.2749860705870639e-06,CMR,2013
+18,IDN,Growing cereals n.e.c industry,XEU,0.0,CMR,2013
+19,IDN,Growing leguminous crops and oil seeds industry,XEU,3.969978934668933e-05,CMR,2013
+20,IDN,Growing rice industry,XEU,1.5851715159222469e-09,CMR,2013
+21,IDN,"Growing vegetables, roots, tubers industry",XEU,0.0,CMR,2013
+22,IDN,Growing sugar beet and cane industry,XEU,6.852939173603228e-07,CMR,2013
+23,IDN,Growing tobacco industry,XEU,2.679151216173823e-07,CMR,2013
+24,IDN,Growing fibre crops industry,XEU,0.0,CMR,2013
+25,IDN,Growing crops n.e.c. industry,XEU,1.5563939964493218e-06,CMR,2013
+26,IDN,Growing grapes industry,XEU,0.0,CMR,2013
+27,IDN,Growing fruits and nuts industry,XEU,2.1511819029490427e-07,CMR,2013
+28,IDN,"Growing beverage crops (coffee, tea etc) industry",XEU,5.405550512322664e-08,CMR,2013
+29,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,1.755231219541811e-06,CMR,2013
+30,IDN,Seeds and plant propagation industry,XEU,0.0,CMR,2013
+31,IDN,Raising of cattle industry,XEU,1.778085376920737e-06,CMR,2013
+32,IDN,Growing wheat industry,XAF,0.0,CMR,2013
+33,IDN,Growing maize industry,XAF,7.72462661226664e-06,CMR,2013
+34,IDN,Growing cereals n.e.c industry,XAF,0.0,CMR,2013
+35,IDN,Growing leguminous crops and oil seeds industry,XAF,0.0002418575401620618,CMR,2013
+36,IDN,Growing rice industry,XAF,8.582694554753024e-09,CMR,2013
+37,IDN,"Growing vegetables, roots, tubers industry",XAF,0.0,CMR,2013
+38,IDN,Growing sugar beet and cane industry,XAF,4.298010544432476e-06,CMR,2013
+39,IDN,Growing tobacco industry,XAF,1.1033915607528255e-06,CMR,2013
+40,IDN,Growing fibre crops industry,XAF,0.0,CMR,2013
+41,IDN,Growing crops n.e.c. industry,XAF,8.134821007665134e-06,CMR,2013
+42,IDN,Growing grapes industry,XAF,0.0,CMR,2013
+43,IDN,Growing fruits and nuts industry,XAF,2.3174906116956895e-06,CMR,2013
+44,IDN,"Growing beverage crops (coffee, tea etc) industry",XAF,2.3648855712692715e-07,CMR,2013
+45,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,1.1515422387253724e-05,CMR,2013
+46,IDN,Seeds and plant propagation industry,XAF,0.0,CMR,2013
+47,IDN,Raising of cattle industry,XAF,7.873643017005928e-06,CMR,2013
+48,IDN,Growing wheat industry,XAS,0.0,CMR,2013
+49,IDN,Growing maize industry,XAS,9.359423406617286e-06,CMR,2013
+50,IDN,Growing cereals n.e.c industry,XAS,0.0,CMR,2013
+51,IDN,Growing leguminous crops and oil seeds industry,XAS,0.0002906114359248805,CMR,2013
+52,IDN,Growing rice industry,XAS,1.1448575157040185e-08,CMR,2013
+53,IDN,"Growing vegetables, roots, tubers industry",XAS,0.0,CMR,2013
+54,IDN,Growing sugar beet and cane industry,XAS,5.1361002622692355e-06,CMR,2013
+55,IDN,Growing tobacco industry,XAS,1.8575569881431467e-06,CMR,2013
+56,IDN,Growing fibre crops industry,XAS,0.0,CMR,2013
+57,IDN,Growing crops n.e.c. industry,XAS,1.3394105313991764e-05,CMR,2013
+58,IDN,Growing grapes industry,XAS,0.0,CMR,2013
+59,IDN,Growing fruits and nuts industry,XAS,1.618179560420947e-06,CMR,2013
+60,IDN,"Growing beverage crops (coffee, tea etc) industry",XAS,3.7453027695233365e-07,CMR,2013
+61,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,1.389536441864359e-05,CMR,2013
+62,IDN,Seeds and plant propagation industry,XAS,0.0,CMR,2013
+63,IDN,Raising of cattle industry,XAS,1.269505420822043e-05,CMR,2013
+64,IDN,Growing wheat industry,AFG,0.0,CMR,2013
+65,IDN,Growing maize industry,AFG,7.865838996012041e-07,CMR,2013
+66,IDN,Growing cereals n.e.c industry,AFG,0.0,CMR,2013
+67,IDN,Growing leguminous crops and oil seeds industry,AFG,2.338944423175611e-05,CMR,2013
+68,IDN,Growing rice industry,AFG,1.0071677820631404e-09,CMR,2013
+69,IDN,"Growing vegetables, roots, tubers industry",AFG,0.0,CMR,2013
+70,IDN,Growing sugar beet and cane industry,AFG,4.198974958854981e-07,CMR,2013
+71,IDN,Growing tobacco industry,AFG,1.6811896991923027e-07,CMR,2013
+72,IDN,Growing fibre crops industry,AFG,0.0,CMR,2013
+73,IDN,Growing crops n.e.c. industry,AFG,9.820353753555418e-07,CMR,2013
+74,IDN,Growing grapes industry,AFG,0.0,CMR,2013
+75,IDN,Growing fruits and nuts industry,AFG,1.1610117655030928e-07,CMR,2013
+76,IDN,"Growing beverage crops (coffee, tea etc) industry",AFG,3.4302535412725856e-08,CMR,2013
+77,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,1.0787585705001084e-06,CMR,2013
+78,IDN,Seeds and plant propagation industry,AFG,0.0,CMR,2013
+79,IDN,Raising of cattle industry,AFG,1.0670106678834604e-06,CMR,2013
+80,IDN,Growing wheat industry,AGO,0.0,CMR,2013
+81,IDN,Growing maize industry,AGO,0.00012814592533730784,CMR,2013
+82,IDN,Growing cereals n.e.c industry,AGO,0.0,CMR,2013
+83,IDN,Growing leguminous crops and oil seeds industry,AGO,0.003502981450121765,CMR,2013
+84,IDN,Growing rice industry,AGO,1.3503850831772715e-07,CMR,2013
+85,IDN,"Growing vegetables, roots, tubers industry",AGO,0.0,CMR,2013
+86,IDN,Growing sugar beet and cane industry,AGO,7.195693488752776e-05,CMR,2013
+87,IDN,Growing tobacco industry,AGO,1.8768529560191356e-05,CMR,2013
+88,IDN,Growing fibre crops industry,AGO,0.0,CMR,2013
+89,IDN,Growing crops n.e.c. industry,AGO,0.00012222085031815866,CMR,2013
+90,IDN,Growing grapes industry,AGO,0.0,CMR,2013
+91,IDN,Growing fruits and nuts industry,AGO,9.831964892245095e-05,CMR,2013
+92,IDN,"Growing beverage crops (coffee, tea etc) industry",AGO,4.4365459148876695e-06,CMR,2013
+93,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,0.00015194095892597504,CMR,2013
+94,IDN,Seeds and plant propagation industry,AGO,0.0,CMR,2013
+95,IDN,Raising of cattle industry,AGO,0.00012421906230201103,CMR,2013
+96,IDN,Growing wheat industry,ALB,0.0,CMR,2013
+97,IDN,Growing maize industry,ALB,1.4653142029039451e-06,CMR,2013
+98,IDN,Growing cereals n.e.c industry,ALB,0.0,CMR,2013
+99,IDN,Growing leguminous crops and oil seeds industry,ALB,4.262836442828124e-05,CMR,2013
+100,IDN,Growing rice industry,ALB,1.6364784745552984e-09,CMR,2013
+101,IDN,"Growing vegetables, roots, tubers industry",ALB,0.0,CMR,2013
+102,IDN,Growing sugar beet and cane industry,ALB,8.013007229355097e-07,CMR,2013
+103,IDN,Growing tobacco industry,ALB,2.255445986570792e-07,CMR,2013
+104,IDN,Growing fibre crops industry,ALB,0.0,CMR,2013
+105,IDN,Growing crops n.e.c. industry,ALB,1.5190899838795355e-06,CMR,2013
+106,IDN,Growing grapes industry,ALB,0.0,CMR,2013
+107,IDN,Growing fruits and nuts industry,ALB,3.520619184673253e-07,CMR,2013
+108,IDN,"Growing beverage crops (coffee, tea etc) industry",ALB,4.7791978932595426e-08,CMR,2013
+109,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,1.8221765007369176e-06,CMR,2013
+110,IDN,Seeds and plant propagation industry,ALB,0.0,CMR,2013
+111,IDN,Raising of cattle industry,ALB,2.0326147855435313e-06,CMR,2013
+112,IDN,Growing wheat industry,ARE,0.0,CMR,2013
+113,IDN,Growing maize industry,ARE,5.439763353622568e-05,CMR,2013
+114,IDN,Growing cereals n.e.c industry,ARE,0.0,CMR,2013
+115,IDN,Growing leguminous crops and oil seeds industry,ARE,0.0014844098586687898,CMR,2013
+116,IDN,Growing rice industry,ARE,8.835837965029962e-08,CMR,2013
+117,IDN,"Growing vegetables, roots, tubers industry",ARE,0.0,CMR,2013
+118,IDN,Growing sugar beet and cane industry,ARE,2.639885489047453e-05,CMR,2013
+119,IDN,Growing tobacco industry,ARE,1.4995502076816918e-05,CMR,2013
+120,IDN,Growing fibre crops industry,ARE,0.0,CMR,2013
+121,IDN,Growing crops n.e.c. industry,ARE,7.167399111781103e-05,CMR,2013
+122,IDN,Growing grapes industry,ARE,0.0,CMR,2013
+123,IDN,Growing fruits and nuts industry,ARE,7.638326910494382e-06,CMR,2013
+124,IDN,"Growing beverage crops (coffee, tea etc) industry",ARE,3.750449904891952e-06,CMR,2013
+125,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,6.767153363900772e-05,CMR,2013
+126,IDN,Seeds and plant propagation industry,ARE,0.0,CMR,2013
+127,IDN,Raising of cattle industry,ARE,7.353234551853299e-05,CMR,2013
+128,IDN,Growing wheat industry,ARG,0.0,CMR,2013
+129,IDN,Growing maize industry,ARG,1.0623519539963483e-05,CMR,2013
+130,IDN,Growing cereals n.e.c industry,ARG,0.0,CMR,2013
+131,IDN,Growing leguminous crops and oil seeds industry,ARG,0.0003158937897257364,CMR,2013
+132,IDN,Growing rice industry,ARG,1.3645715399313639e-08,CMR,2013
+133,IDN,"Growing vegetables, roots, tubers industry",ARG,0.0,CMR,2013
+134,IDN,Growing sugar beet and cane industry,ARG,5.7587112128809516e-06,CMR,2013
+135,IDN,Growing tobacco industry,ARG,2.6894740780535804e-06,CMR,2013
+136,IDN,Growing fibre crops industry,ARG,0.0,CMR,2013
+137,IDN,Growing crops n.e.c. industry,ARG,1.3512100106526613e-05,CMR,2013
+138,IDN,Growing grapes industry,ARG,0.0,CMR,2013
+139,IDN,Growing fruits and nuts industry,ARG,1.647383697487459e-06,CMR,2013
+140,IDN,"Growing beverage crops (coffee, tea etc) industry",ARG,4.793833581455833e-07,CMR,2013
+141,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,1.3736533489025866e-05,CMR,2013
+142,IDN,Seeds and plant propagation industry,ARG,0.0,CMR,2013
+143,IDN,Raising of cattle industry,ARG,1.4296114086657029e-05,CMR,2013
+144,IDN,Growing wheat industry,ARM,0.0,CMR,2013
+145,IDN,Growing maize industry,ARM,1.2926225619124426e-06,CMR,2013
+146,IDN,Growing cereals n.e.c industry,ARM,0.0,CMR,2013
+147,IDN,Growing leguminous crops and oil seeds industry,ARM,3.0114942765483844e-05,CMR,2013
+148,IDN,Growing rice industry,ARM,1.1571187671590839e-09,CMR,2013
+149,IDN,"Growing vegetables, roots, tubers industry",ARM,0.0,CMR,2013
+150,IDN,Growing sugar beet and cane industry,ARM,7.196930164424739e-07,CMR,2013
+151,IDN,Growing tobacco industry,ARM,1.5354576598304922e-07,CMR,2013
+152,IDN,Growing fibre crops industry,ARM,0.0,CMR,2013
+153,IDN,Growing crops n.e.c. industry,ARM,9.514679377809412e-07,CMR,2013
+154,IDN,Growing grapes industry,ARM,0.0,CMR,2013
+155,IDN,Growing fruits and nuts industry,ARM,2.6619611516594024e-07,CMR,2013
+156,IDN,"Growing beverage crops (coffee, tea etc) industry",ARM,3.263878980467281e-08,CMR,2013
+157,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,1.1463018480449032e-06,CMR,2013
+158,IDN,Seeds and plant propagation industry,ARM,0.0,CMR,2013
+159,IDN,Raising of cattle industry,ARM,1.1140358650147907e-06,CMR,2013
+160,IDN,Growing wheat industry,AUS,0.0,CMR,2013
+161,IDN,Growing maize industry,AUS,0.0001000045945464498,CMR,2013
+162,IDN,Growing cereals n.e.c industry,AUS,0.0,CMR,2013
+163,IDN,Growing leguminous crops and oil seeds industry,AUS,0.0030278119146375693,CMR,2013
+164,IDN,Growing rice industry,AUS,1.2551547092106782e-07,CMR,2013
+165,IDN,"Growing vegetables, roots, tubers industry",AUS,0.0,CMR,2013
+166,IDN,Growing sugar beet and cane industry,AUS,5.46142200199211e-05,CMR,2013
+167,IDN,Growing tobacco industry,AUS,2.3823765469097175e-05,CMR,2013
+168,IDN,Growing fibre crops industry,AUS,0.0,CMR,2013
+169,IDN,Growing crops n.e.c. industry,AUS,0.00011497140602160755,CMR,2013
+170,IDN,Growing grapes industry,AUS,0.0,CMR,2013
+171,IDN,Growing fruits and nuts industry,AUS,1.925815488773937e-05,CMR,2013
+172,IDN,"Growing beverage crops (coffee, tea etc) industry",AUS,4.1834349675857546e-06,CMR,2013
+173,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,0.00013218522100271756,CMR,2013
+174,IDN,Seeds and plant propagation industry,AUS,0.0,CMR,2013
+175,IDN,Raising of cattle industry,AUS,0.00012506685659532786,CMR,2013
+176,IDN,Growing wheat industry,AUT,0.0,CMR,2013
+177,IDN,Growing maize industry,AUT,9.22583899119044e-05,CMR,2013
+178,IDN,Growing cereals n.e.c industry,AUT,0.0,CMR,2013
+179,IDN,Growing leguminous crops and oil seeds industry,AUT,0.0020085896703767882,CMR,2013
+180,IDN,Growing rice industry,AUT,9.19611334344533e-08,CMR,2013
+181,IDN,"Growing vegetables, roots, tubers industry",AUT,0.0,CMR,2013
+182,IDN,Growing sugar beet and cane industry,AUT,5.1319076066765145e-05,CMR,2013
+183,IDN,Growing tobacco industry,AUT,1.166653830847877e-05,CMR,2013
+184,IDN,Growing fibre crops industry,AUT,0.0,CMR,2013
+185,IDN,Growing crops n.e.c. industry,AUT,9.740947747364053e-05,CMR,2013
+186,IDN,Growing grapes industry,AUT,0.0,CMR,2013
+187,IDN,Growing fruits and nuts industry,AUT,1.445497850871347e-05,CMR,2013
+188,IDN,"Growing beverage crops (coffee, tea etc) industry",AUT,2.58974643752043e-06,CMR,2013
+189,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,9.423691231703737e-05,CMR,2013
+190,IDN,Seeds and plant propagation industry,AUT,0.0,CMR,2013
+191,IDN,Raising of cattle industry,AUT,0.00016596069203704775,CMR,2013
+192,IDN,Growing wheat industry,AZE,0.0,CMR,2013
+193,IDN,Growing maize industry,AZE,4.479360614895302e-06,CMR,2013
+194,IDN,Growing cereals n.e.c industry,AZE,0.0,CMR,2013
+195,IDN,Growing leguminous crops and oil seeds industry,AZE,9.569708910795238e-05,CMR,2013
+196,IDN,Growing rice industry,AZE,4.317262193851606e-09,CMR,2013
+197,IDN,"Growing vegetables, roots, tubers industry",AZE,0.0,CMR,2013
+198,IDN,Growing sugar beet and cane industry,AZE,2.4758972668105325e-06,CMR,2013
+199,IDN,Growing tobacco industry,AZE,5.962532357505276e-07,CMR,2013
+200,IDN,Growing fibre crops industry,AZE,0.0,CMR,2013
+201,IDN,Growing crops n.e.c. industry,AZE,4.24636139633831e-06,CMR,2013
+202,IDN,Growing grapes industry,AZE,0.0,CMR,2013
+203,IDN,Growing fruits and nuts industry,AZE,6.972687729684096e-07,CMR,2013
+204,IDN,"Growing beverage crops (coffee, tea etc) industry",AZE,1.2451328729894205e-07,CMR,2013
+205,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,4.506583880508192e-06,CMR,2013
+206,IDN,Seeds and plant propagation industry,AZE,0.0,CMR,2013
+207,IDN,Raising of cattle industry,AZE,7.029275788955141e-06,CMR,2013
+208,IDN,Growing wheat industry,BDI,0.0,CMR,2013
+209,IDN,Growing maize industry,BDI,4.1055845151874805e-07,CMR,2013
+210,IDN,Growing cereals n.e.c industry,BDI,0.0,CMR,2013
+211,IDN,Growing leguminous crops and oil seeds industry,BDI,1.2364900520893942e-05,CMR,2013
+212,IDN,Growing rice industry,BDI,5.197944948635147e-10,CMR,2013
+213,IDN,"Growing vegetables, roots, tubers industry",BDI,0.0,CMR,2013
+214,IDN,Growing sugar beet and cane industry,BDI,2.2560009830929566e-07,CMR,2013
+215,IDN,Growing tobacco industry,BDI,8.959383894336413e-08,CMR,2013
+216,IDN,Growing fibre crops industry,BDI,0.0,CMR,2013
+217,IDN,Growing crops n.e.c. industry,BDI,5.2261516326917e-07,CMR,2013
+218,IDN,Growing grapes industry,BDI,0.0,CMR,2013
+219,IDN,Growing fruits and nuts industry,BDI,6.910876752216379e-08,CMR,2013
+220,IDN,"Growing beverage crops (coffee, tea etc) industry",BDI,1.6416649363958402e-08,CMR,2013
+221,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,5.458292631412851e-07,CMR,2013
+222,IDN,Seeds and plant propagation industry,BDI,0.0,CMR,2013
+223,IDN,Raising of cattle industry,BDI,4.710349049143057e-07,CMR,2013
+224,IDN,Growing wheat industry,BEL,0.0,CMR,2013
+225,IDN,Growing maize industry,BEL,0.000255796229062199,CMR,2013
+226,IDN,Growing cereals n.e.c industry,BEL,0.0,CMR,2013
+227,IDN,Growing leguminous crops and oil seeds industry,BEL,0.00553373008785984,CMR,2013
+228,IDN,Growing rice industry,BEL,2.5390580806776784e-07,CMR,2013
+229,IDN,"Growing vegetables, roots, tubers industry",BEL,0.0,CMR,2013
+230,IDN,Growing sugar beet and cane industry,BEL,0.0001434306367065072,CMR,2013
+231,IDN,Growing tobacco industry,BEL,2.6232719114968486e-05,CMR,2013
+232,IDN,Growing fibre crops industry,BEL,0.0,CMR,2013
+233,IDN,Growing crops n.e.c. industry,BEL,0.00021228898292130556,CMR,2013
+234,IDN,Growing grapes industry,BEL,0.0,CMR,2013
+235,IDN,Growing fruits and nuts industry,BEL,0.00010374294019374129,CMR,2013
+236,IDN,"Growing beverage crops (coffee, tea etc) industry",BEL,5.771629976700207e-06,CMR,2013
+237,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,0.0003320868679209553,CMR,2013
+238,IDN,Seeds and plant propagation industry,BEL,0.0,CMR,2013
+239,IDN,Raising of cattle industry,BEL,0.0003523892467326032,CMR,2013
+240,IDN,Growing wheat industry,BEN,0.0,CMR,2013
+241,IDN,Growing maize industry,BEN,1.4643133256413623e-05,CMR,2013
+242,IDN,Growing cereals n.e.c industry,BEN,0.0,CMR,2013
+243,IDN,Growing leguminous crops and oil seeds industry,BEN,0.0006470046440483503,CMR,2013
+244,IDN,Growing rice industry,BEN,2.7284400439708574e-08,CMR,2013
+245,IDN,"Growing vegetables, roots, tubers industry",BEN,0.0,CMR,2013
+246,IDN,Growing sugar beet and cane industry,BEN,7.023193584541328e-06,CMR,2013
+247,IDN,Growing tobacco industry,BEN,4.671915560143031e-06,CMR,2013
+248,IDN,Growing fibre crops industry,BEN,0.0,CMR,2013
+249,IDN,Growing crops n.e.c. industry,BEN,2.102885097133169e-05,CMR,2013
+250,IDN,Growing grapes industry,BEN,0.0,CMR,2013
+251,IDN,Growing fruits and nuts industry,BEN,2.8229994506026616e-06,CMR,2013
+252,IDN,"Growing beverage crops (coffee, tea etc) industry",BEN,1.05517362601925e-06,CMR,2013
+253,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,2.9385277428421365e-05,CMR,2013
+254,IDN,Seeds and plant propagation industry,BEN,0.0,CMR,2013
+255,IDN,Raising of cattle industry,BEN,1.8631214895594224e-05,CMR,2013
+256,IDN,Growing wheat industry,BFA,0.0,CMR,2013
+257,IDN,Growing maize industry,BFA,0.00024184697607074632,CMR,2013
+258,IDN,Growing cereals n.e.c industry,BFA,0.0,CMR,2013
+259,IDN,Growing leguminous crops and oil seeds industry,BFA,0.0034870824379878707,CMR,2013
+260,IDN,Growing rice industry,BFA,1.414984001608093e-07,CMR,2013
+261,IDN,"Growing vegetables, roots, tubers industry",BFA,0.0,CMR,2013
+262,IDN,Growing sugar beet and cane industry,BFA,0.00013911635294817644,CMR,2013
+263,IDN,Growing tobacco industry,BFA,1.3827485883042745e-05,CMR,2013
+264,IDN,Growing fibre crops industry,BFA,0.0,CMR,2013
+265,IDN,Growing crops n.e.c. industry,BFA,0.00011392318130815687,CMR,2013
+266,IDN,Growing grapes industry,BFA,0.0,CMR,2013
+267,IDN,Growing fruits and nuts industry,BFA,0.00032121789063815426,CMR,2013
+268,IDN,"Growing beverage crops (coffee, tea etc) industry",BFA,6.112464153906778e-06,CMR,2013
+269,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,0.0001298574395946773,CMR,2013
+270,IDN,Seeds and plant propagation industry,BFA,0.0,CMR,2013
+271,IDN,Raising of cattle industry,BFA,0.00016399770035115775,CMR,2013
+272,IDN,Growing wheat industry,BGD,0.0,CMR,2013
+273,IDN,Growing maize industry,BGD,2.7965623938664397e-05,CMR,2013
+274,IDN,Growing cereals n.e.c industry,BGD,0.0,CMR,2013
+275,IDN,Growing leguminous crops and oil seeds industry,BGD,0.0007961280824466239,CMR,2013
+276,IDN,Growing rice industry,BGD,3.678855299288956e-08,CMR,2013
+277,IDN,"Growing vegetables, roots, tubers industry",BGD,0.0,CMR,2013
+278,IDN,Growing sugar beet and cane industry,BGD,1.4470116192540266e-05,CMR,2013
+279,IDN,Growing tobacco industry,BGD,7.0728882476207836e-06,CMR,2013
+280,IDN,Growing fibre crops industry,BGD,0.0,CMR,2013
+281,IDN,Growing crops n.e.c. industry,BGD,4.1185213082883186e-05,CMR,2013
+282,IDN,Growing grapes industry,BGD,0.0,CMR,2013
+283,IDN,Growing fruits and nuts industry,BGD,3.5027571241715492e-06,CMR,2013
+284,IDN,"Growing beverage crops (coffee, tea etc) industry",BGD,1.4223280983320227e-06,CMR,2013
+285,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,3.346123658944883e-05,CMR,2013
+286,IDN,Seeds and plant propagation industry,BGD,0.0,CMR,2013
+287,IDN,Raising of cattle industry,BGD,3.809290011457054e-05,CMR,2013
+288,IDN,Growing wheat industry,BGR,0.0,CMR,2013
+289,IDN,Growing maize industry,BGR,8.771841648378517e-06,CMR,2013
+290,IDN,Growing cereals n.e.c industry,BGR,0.0,CMR,2013
+291,IDN,Growing leguminous crops and oil seeds industry,BGR,0.0001993780284550127,CMR,2013
+292,IDN,Growing rice industry,BGR,9.237743788962005e-09,CMR,2013
+293,IDN,"Growing vegetables, roots, tubers industry",BGR,0.0,CMR,2013
+294,IDN,Growing sugar beet and cane industry,BGR,4.854835203342835e-06,CMR,2013
+295,IDN,Growing tobacco industry,BGR,1.3347300825257571e-06,CMR,2013
+296,IDN,Growing fibre crops industry,BGR,0.0,CMR,2013
+297,IDN,Growing crops n.e.c. industry,BGR,9.123326238406575e-06,CMR,2013
+298,IDN,Growing grapes industry,BGR,0.0,CMR,2013
+299,IDN,Growing fruits and nuts industry,BGR,1.416611988633078e-06,CMR,2013
+300,IDN,"Growing beverage crops (coffee, tea etc) industry",BGR,2.687887948681031e-07,CMR,2013
+301,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,9.339078681121532e-06,CMR,2013
+302,IDN,Seeds and plant propagation industry,BGR,0.0,CMR,2013
+303,IDN,Raising of cattle industry,BGR,1.4098714039826147e-05,CMR,2013
+304,IDN,Growing wheat industry,BHR,0.0,CMR,2013
+305,IDN,Growing maize industry,BHR,4.1998426973711345e-06,CMR,2013
+306,IDN,Growing cereals n.e.c industry,BHR,0.0,CMR,2013
+307,IDN,Growing leguminous crops and oil seeds industry,BHR,0.00010194292833519712,CMR,2013
+308,IDN,Growing rice industry,BHR,4.5768853365481135e-09,CMR,2013
+309,IDN,"Growing vegetables, roots, tubers industry",BHR,0.0,CMR,2013
+310,IDN,Growing sugar beet and cane industry,BHR,2.324675687109691e-06,CMR,2013
+311,IDN,Growing tobacco industry,BHR,7.313878987564239e-07,CMR,2013
+312,IDN,Growing fibre crops industry,BHR,0.0,CMR,2013
+313,IDN,Growing crops n.e.c. industry,BHR,4.494611753912122e-06,CMR,2013
+314,IDN,Growing grapes industry,BHR,0.0,CMR,2013
+315,IDN,Growing fruits and nuts industry,BHR,6.728840094890306e-07,CMR,2013
+316,IDN,"Growing beverage crops (coffee, tea etc) industry",BHR,1.4104005111939924e-07,CMR,2013
+317,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,4.674592531681444e-06,CMR,2013
+318,IDN,Seeds and plant propagation industry,BHR,0.0,CMR,2013
+319,IDN,Raising of cattle industry,BHR,6.43459317236906e-06,CMR,2013
+320,IDN,Growing wheat industry,BHS,0.0,CMR,2013
+321,IDN,Growing maize industry,BHS,1.2904655909949961e-06,CMR,2013
+322,IDN,Growing cereals n.e.c industry,BHS,0.0,CMR,2013
+323,IDN,Growing leguminous crops and oil seeds industry,BHS,3.0300521477034573e-05,CMR,2013
+324,IDN,Growing rice industry,BHS,1.3025270912295514e-09,CMR,2013
+325,IDN,"Growing vegetables, roots, tubers industry",BHS,0.0,CMR,2013
+326,IDN,Growing sugar beet and cane industry,BHS,7.076238493315297e-07,CMR,2013
+327,IDN,Growing tobacco industry,BHS,2.3747679183630733e-07,CMR,2013
+328,IDN,Growing fibre crops industry,BHS,0.0,CMR,2013
+329,IDN,Growing crops n.e.c. industry,BHS,1.1756079790771527e-06,CMR,2013
+330,IDN,Growing grapes industry,BHS,0.0,CMR,2013
+331,IDN,Growing fruits and nuts industry,BHS,1.8067735564735937e-07,CMR,2013
+332,IDN,"Growing beverage crops (coffee, tea etc) industry",BHS,4.4061240670385547e-08,CMR,2013
+333,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,1.2082373963930187e-06,CMR,2013
+334,IDN,Seeds and plant propagation industry,BHS,0.0,CMR,2013
+335,IDN,Raising of cattle industry,BHS,1.1832795277742827e-06,CMR,2013
+336,IDN,Growing wheat industry,BIH,0.0,CMR,2013
+337,IDN,Growing maize industry,BIH,2.0253610094271422e-06,CMR,2013
+338,IDN,Growing cereals n.e.c industry,BIH,0.0,CMR,2013
+339,IDN,Growing leguminous crops and oil seeds industry,BIH,5.079937107167379e-05,CMR,2013
+340,IDN,Growing rice industry,BIH,2.156975289387528e-09,CMR,2013
+341,IDN,"Growing vegetables, roots, tubers industry",BIH,0.0,CMR,2013
+342,IDN,Growing sugar beet and cane industry,BIH,1.1328006517711487e-06,CMR,2013
+343,IDN,Growing tobacco industry,BIH,3.069926417083892e-07,CMR,2013
+344,IDN,Growing fibre crops industry,BIH,0.0,CMR,2013
+345,IDN,Growing crops n.e.c. industry,BIH,2.225799443754507e-06,CMR,2013
+346,IDN,Growing grapes industry,BIH,0.0,CMR,2013
+347,IDN,Growing fruits and nuts industry,BIH,3.285277501760504e-07,CMR,2013
+348,IDN,"Growing beverage crops (coffee, tea etc) industry",BIH,6.70085281273464e-08,CMR,2013
+349,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,2.2040040763326573e-06,CMR,2013
+350,IDN,Seeds and plant propagation industry,BIH,0.0,CMR,2013
+351,IDN,Raising of cattle industry,BIH,2.8999769285328307e-06,CMR,2013
+352,IDN,Growing wheat industry,BLR,0.0,CMR,2013
+353,IDN,Growing maize industry,BLR,5.931676682150954e-06,CMR,2013
+354,IDN,Growing cereals n.e.c industry,BLR,0.0,CMR,2013
+355,IDN,Growing leguminous crops and oil seeds industry,BLR,0.0001989504765941675,CMR,2013
+356,IDN,Growing rice industry,BLR,7.324950518971996e-09,CMR,2013
+357,IDN,"Growing vegetables, roots, tubers industry",BLR,0.0,CMR,2013
+358,IDN,Growing sugar beet and cane industry,BLR,3.2282683414191575e-06,CMR,2013
+359,IDN,Growing tobacco industry,BLR,1.1294858361592365e-06,CMR,2013
+360,IDN,Growing fibre crops industry,BLR,0.0,CMR,2013
+361,IDN,Growing crops n.e.c. industry,BLR,6.914622247508922e-06,CMR,2013
+362,IDN,Growing grapes industry,BLR,0.0,CMR,2013
+363,IDN,Growing fruits and nuts industry,BLR,1.4887995859262395e-06,CMR,2013
+364,IDN,"Growing beverage crops (coffee, tea etc) industry",BLR,2.247833829950414e-07,CMR,2013
+365,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,8.822062601189994e-06,CMR,2013
+366,IDN,Seeds and plant propagation industry,BLR,0.0,CMR,2013
+367,IDN,Raising of cattle industry,BLR,8.383811321380142e-06,CMR,2013
+368,IDN,Growing wheat industry,BLZ,0.0,CMR,2013
+369,IDN,Growing maize industry,BLZ,1.4577310863042572e-07,CMR,2013
+370,IDN,Growing cereals n.e.c industry,BLZ,0.0,CMR,2013
+371,IDN,Growing leguminous crops and oil seeds industry,BLZ,4.336152339290549e-06,CMR,2013
+372,IDN,Growing rice industry,BLZ,1.6994012119446e-10,CMR,2013
+373,IDN,"Growing vegetables, roots, tubers industry",BLZ,0.0,CMR,2013
+374,IDN,Growing sugar beet and cane industry,BLZ,7.870761071953936e-08,CMR,2013
+375,IDN,Growing tobacco industry,BLZ,2.825473236505725e-08,CMR,2013
+376,IDN,Growing fibre crops industry,BLZ,0.0,CMR,2013
+377,IDN,Growing crops n.e.c. industry,BLZ,1.9264171947185294e-07,CMR,2013
+378,IDN,Growing grapes industry,BLZ,0.0,CMR,2013
+379,IDN,Growing fruits and nuts industry,BLZ,2.3581028746540267e-08,CMR,2013
+380,IDN,"Growing beverage crops (coffee, tea etc) industry",BLZ,5.44139351900265e-09,CMR,2013
+381,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,1.876490584391212e-07,CMR,2013
+382,IDN,Seeds and plant propagation industry,BLZ,0.0,CMR,2013
+383,IDN,Raising of cattle industry,BLZ,2.2088360969393253e-07,CMR,2013
+384,IDN,Growing wheat industry,BOL,0.0,CMR,2013
+385,IDN,Growing maize industry,BOL,7.499622919278593e-06,CMR,2013
+386,IDN,Growing cereals n.e.c industry,BOL,0.0,CMR,2013
+387,IDN,Growing leguminous crops and oil seeds industry,BOL,0.0003601525678621202,CMR,2013
+388,IDN,Growing rice industry,BOL,1.0945071332020498e-08,CMR,2013
+389,IDN,"Growing vegetables, roots, tubers industry",BOL,0.0,CMR,2013
+390,IDN,Growing sugar beet and cane industry,BOL,3.869222526117644e-06,CMR,2013
+391,IDN,Growing tobacco industry,BOL,1.8411614015719771e-06,CMR,2013
+392,IDN,Growing fibre crops industry,BOL,0.0,CMR,2013
+393,IDN,Growing crops n.e.c. industry,BOL,9.122322084348794e-06,CMR,2013
+394,IDN,Growing grapes industry,BOL,0.0,CMR,2013
+395,IDN,Growing fruits and nuts industry,BOL,2.460912753810082e-06,CMR,2013
+396,IDN,"Growing beverage crops (coffee, tea etc) industry",BOL,3.643271041549475e-07,CMR,2013
+397,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,1.6081019678312095e-05,CMR,2013
+398,IDN,Seeds and plant propagation industry,BOL,0.0,CMR,2013
+399,IDN,Raising of cattle industry,BOL,7.94539639757588e-06,CMR,2013
+400,IDN,Growing wheat industry,BRA,0.0,CMR,2013
+401,IDN,Growing maize industry,BRA,7.606093283677682e-05,CMR,2013
+402,IDN,Growing cereals n.e.c industry,BRA,0.0,CMR,2013
+403,IDN,Growing leguminous crops and oil seeds industry,BRA,0.002355399425458573,CMR,2013
+404,IDN,Growing rice industry,BRA,1.005345423088898e-07,CMR,2013
+405,IDN,"Growing vegetables, roots, tubers industry",BRA,0.0,CMR,2013
+406,IDN,Growing sugar beet and cane industry,BRA,4.12651248753791e-05,CMR,2013
+407,IDN,Growing tobacco industry,BRA,1.8876923356862484e-05,CMR,2013
+408,IDN,Growing fibre crops industry,BRA,0.0,CMR,2013
+409,IDN,Growing crops n.e.c. industry,BRA,0.00010026636093498725,CMR,2013
+410,IDN,Growing grapes industry,BRA,0.0,CMR,2013
+411,IDN,Growing fruits and nuts industry,BRA,1.4370148957482597e-05,CMR,2013
+412,IDN,"Growing beverage crops (coffee, tea etc) industry",BRA,3.458303849780718e-06,CMR,2013
+413,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,0.00010697606284579998,CMR,2013
+414,IDN,Seeds and plant propagation industry,BRA,0.0,CMR,2013
+415,IDN,Raising of cattle industry,BRA,0.00010455394904262183,CMR,2013
+416,IDN,Growing wheat industry,BRN,0.0,CMR,2013
+417,IDN,Growing maize industry,BRN,4.737028339529613e-06,CMR,2013
+418,IDN,Growing cereals n.e.c industry,BRN,0.0,CMR,2013
+419,IDN,Growing leguminous crops and oil seeds industry,BRN,0.00010078926524763215,CMR,2013
+420,IDN,Growing rice industry,BRN,4.703367503967879e-09,CMR,2013
+421,IDN,"Growing vegetables, roots, tubers industry",BRN,0.0,CMR,2013
+422,IDN,Growing sugar beet and cane industry,BRN,2.642463761130984e-06,CMR,2013
+423,IDN,Growing tobacco industry,BRN,6.308692817627958e-07,CMR,2013
+424,IDN,Growing fibre crops industry,BRN,0.0,CMR,2013
+425,IDN,Growing crops n.e.c. industry,BRN,4.160595392081781e-06,CMR,2013
+426,IDN,Growing grapes industry,BRN,0.0,CMR,2013
+427,IDN,Growing fruits and nuts industry,BRN,1.3128086518105924e-06,CMR,2013
+428,IDN,"Growing beverage crops (coffee, tea etc) industry",BRN,1.2407532389511494e-07,CMR,2013
+429,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,5.398770188856575e-06,CMR,2013
+430,IDN,Seeds and plant propagation industry,BRN,0.0,CMR,2013
+431,IDN,Raising of cattle industry,BRN,7.054842703660874e-06,CMR,2013
+432,IDN,Growing wheat industry,BTN,0.0,CMR,2013
+433,IDN,Growing maize industry,BTN,1.39694585329195e-07,CMR,2013
+434,IDN,Growing cereals n.e.c industry,BTN,0.0,CMR,2013
+435,IDN,Growing leguminous crops and oil seeds industry,BTN,5.473563458802074e-06,CMR,2013
+436,IDN,Growing rice industry,BTN,1.9624767942295268e-10,CMR,2013
+437,IDN,"Growing vegetables, roots, tubers industry",BTN,0.0,CMR,2013
+438,IDN,Growing sugar beet and cane industry,BTN,7.218041123957004e-08,CMR,2013
+439,IDN,Growing tobacco industry,BTN,3.462072186204358e-08,CMR,2013
+440,IDN,Growing fibre crops industry,BTN,0.0,CMR,2013
+441,IDN,Growing crops n.e.c. industry,BTN,1.8359074297889103e-07,CMR,2013
+442,IDN,Growing grapes industry,BTN,0.0,CMR,2013
+443,IDN,Growing fruits and nuts industry,BTN,2.5279018960581112e-08,CMR,2013
+444,IDN,"Growing beverage crops (coffee, tea etc) industry",BTN,6.906762052996981e-09,CMR,2013
+445,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,2.4755629443960023e-07,CMR,2013
+446,IDN,Seeds and plant propagation industry,BTN,0.0,CMR,2013
+447,IDN,Raising of cattle industry,BTN,1.6635150183160146e-07,CMR,2013
+448,IDN,Growing wheat industry,BWA,0.0,CMR,2013
+449,IDN,Growing maize industry,BWA,1.5846286944393104e-06,CMR,2013
+450,IDN,Growing cereals n.e.c industry,BWA,0.0,CMR,2013
+451,IDN,Growing leguminous crops and oil seeds industry,BWA,5.921337186369857e-05,CMR,2013
+452,IDN,Growing rice industry,BWA,2.222163656693475e-09,CMR,2013
+453,IDN,"Growing vegetables, roots, tubers industry",BWA,0.0,CMR,2013
+454,IDN,Growing sugar beet and cane industry,BWA,8.388148770253513e-07,CMR,2013
+455,IDN,Growing tobacco industry,BWA,4.0432360512038997e-07,CMR,2013
+456,IDN,Growing fibre crops industry,BWA,0.0,CMR,2013
+457,IDN,Growing crops n.e.c. industry,BWA,2.1001559985005605e-06,CMR,2013
+458,IDN,Growing grapes industry,BWA,0.0,CMR,2013
+459,IDN,Growing fruits and nuts industry,BWA,2.6432169789992776e-07,CMR,2013
+460,IDN,"Growing beverage crops (coffee, tea etc) industry",BWA,7.949376376309498e-08,CMR,2013
+461,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,2.6060735683387502e-06,CMR,2013
+462,IDN,Seeds and plant propagation industry,BWA,0.0,CMR,2013
+463,IDN,Raising of cattle industry,BWA,1.8834069542547198e-06,CMR,2013
+464,IDN,Growing wheat industry,CAF,0.0,CMR,2013
+465,IDN,Growing maize industry,CAF,0.00010746514771113018,CMR,2013
+466,IDN,Growing cereals n.e.c industry,CAF,0.0,CMR,2013
+467,IDN,Growing leguminous crops and oil seeds industry,CAF,0.0033552770618237387,CMR,2013
+468,IDN,Growing rice industry,CAF,1.0828095895222399e-07,CMR,2013
+469,IDN,"Growing vegetables, roots, tubers industry",CAF,0.0,CMR,2013
+470,IDN,Growing sugar beet and cane industry,CAF,6.178507988061511e-05,CMR,2013
+471,IDN,Growing tobacco industry,CAF,8.488252689685552e-06,CMR,2013
+472,IDN,Growing fibre crops industry,CAF,0.0,CMR,2013
+473,IDN,Growing crops n.e.c. industry,CAF,5.980192084138555e-05,CMR,2013
+474,IDN,Growing grapes industry,CAF,0.0,CMR,2013
+475,IDN,Growing fruits and nuts industry,CAF,6.409617338309063e-05,CMR,2013
+476,IDN,"Growing beverage crops (coffee, tea etc) industry",CAF,1.8225301871948928e-06,CMR,2013
+477,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,0.00015377119611782101,CMR,2013
+478,IDN,Seeds and plant propagation industry,CAF,0.0,CMR,2013
+479,IDN,Raising of cattle industry,CAF,7.012611886745514e-05,CMR,2013
+480,IDN,Growing wheat industry,CAN,0.0,CMR,2013
+481,IDN,Growing maize industry,CAN,0.00014763974506489831,CMR,2013
+482,IDN,Growing cereals n.e.c industry,CAN,0.0,CMR,2013
+483,IDN,Growing leguminous crops and oil seeds industry,CAN,0.004041784288787459,CMR,2013
+484,IDN,Growing rice industry,CAN,1.8604200753849182e-07,CMR,2013
+485,IDN,"Growing vegetables, roots, tubers industry",CAN,0.0,CMR,2013
+486,IDN,Growing sugar beet and cane industry,CAN,8.207670815178927e-05,CMR,2013
+487,IDN,Growing tobacco industry,CAN,3.880256922920244e-05,CMR,2013
+488,IDN,Growing fibre crops industry,CAN,0.0,CMR,2013
+489,IDN,Growing crops n.e.c. industry,CAN,0.00017364309951264776,CMR,2013
+490,IDN,Growing grapes industry,CAN,0.0,CMR,2013
+491,IDN,Growing fruits and nuts industry,CAN,2.6991874164406222e-05,CMR,2013
+492,IDN,"Growing beverage crops (coffee, tea etc) industry",CAN,6.435156964423262e-06,CMR,2013
+493,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,0.000181234563671443,CMR,2013
+494,IDN,Seeds and plant propagation industry,CAN,0.0,CMR,2013
+495,IDN,Raising of cattle industry,CAN,0.00019243349249809167,CMR,2013
+496,IDN,Growing wheat industry,CHE,0.0,CMR,2013
+497,IDN,Growing maize industry,CHE,0.00011492860474785068,CMR,2013
+498,IDN,Growing cereals n.e.c industry,CHE,0.0,CMR,2013
+499,IDN,Growing leguminous crops and oil seeds industry,CHE,0.002659224284297769,CMR,2013
+500,IDN,Growing rice industry,CHE,1.1285139015752271e-07,CMR,2013
+501,IDN,"Growing vegetables, roots, tubers industry",CHE,0.0,CMR,2013
+502,IDN,Growing sugar beet and cane industry,CHE,6.427961595606034e-05,CMR,2013
+503,IDN,Growing tobacco industry,CHE,1.5754909381614928e-05,CMR,2013
+504,IDN,Growing fibre crops industry,CHE,0.0,CMR,2013
+505,IDN,Growing crops n.e.c. industry,CHE,0.00010875958905052685,CMR,2013
+506,IDN,Growing grapes industry,CHE,0.0,CMR,2013
+507,IDN,Growing fruits and nuts industry,CHE,2.1298497269022632e-05,CMR,2013
+508,IDN,"Growing beverage crops (coffee, tea etc) industry",CHE,3.2950963589361664e-06,CMR,2013
+509,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,0.00011286821181924857,CMR,2013
+510,IDN,Seeds and plant propagation industry,CHE,0.0,CMR,2013
+511,IDN,Raising of cattle industry,CHE,0.00015790988804756373,CMR,2013
+512,IDN,Growing wheat industry,CHL,0.0,CMR,2013
+513,IDN,Growing maize industry,CHL,1.564664787321458e-05,CMR,2013
+514,IDN,Growing cereals n.e.c industry,CHL,0.0,CMR,2013
+515,IDN,Growing leguminous crops and oil seeds industry,CHL,0.00046407498275562945,CMR,2013
+516,IDN,Growing rice industry,CHL,2.1471518568869134e-08,CMR,2013
+517,IDN,"Growing vegetables, roots, tubers industry",CHL,0.0,CMR,2013
+518,IDN,Growing sugar beet and cane industry,CHL,8.284695732298855e-06,CMR,2013
+519,IDN,Growing tobacco industry,CHL,3.845435459929629e-06,CMR,2013
+520,IDN,Growing fibre crops industry,CHL,0.0,CMR,2013
+521,IDN,Growing crops n.e.c. industry,CHL,1.9647107639094703e-05,CMR,2013
+522,IDN,Growing grapes industry,CHL,0.0,CMR,2013
+523,IDN,Growing fruits and nuts industry,CHL,2.287353069593744e-06,CMR,2013
+524,IDN,"Growing beverage crops (coffee, tea etc) industry",CHL,7.666315093084383e-07,CMR,2013
+525,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,2.079077727610489e-05,CMR,2013
+526,IDN,Seeds and plant propagation industry,CHL,0.0,CMR,2013
+527,IDN,Raising of cattle industry,CHL,2.1235947029969438e-05,CMR,2013
+528,IDN,Growing wheat industry,CHN,0.0,CMR,2013
+529,IDN,Growing maize industry,CHN,0.0012671605250886711,CMR,2013
+530,IDN,Growing cereals n.e.c industry,CHN,0.0,CMR,2013
+531,IDN,Growing leguminous crops and oil seeds industry,CHN,0.041973462001610534,CMR,2013
+532,IDN,Growing rice industry,CHN,1.684790315670901e-06,CMR,2013
+533,IDN,"Growing vegetables, roots, tubers industry",CHN,0.0,CMR,2013
+534,IDN,Growing sugar beet and cane industry,CHN,0.0006838099754205823,CMR,2013
+535,IDN,Growing tobacco industry,CHN,0.00030553767540680285,CMR,2013
+536,IDN,Growing fibre crops industry,CHN,0.0,CMR,2013
+537,IDN,Growing crops n.e.c. industry,CHN,0.0017749781121067652,CMR,2013
+538,IDN,Growing grapes industry,CHN,0.0,CMR,2013
+539,IDN,Growing fruits and nuts industry,CHN,0.00017794650000192708,CMR,2013
+540,IDN,"Growing beverage crops (coffee, tea etc) industry",CHN,5.7683122183687616e-05,CMR,2013
+541,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,0.0018489904744533436,CMR,2013
+542,IDN,Seeds and plant propagation industry,CHN,0.0,CMR,2013
+543,IDN,Raising of cattle industry,CHN,0.0017597784782879115,CMR,2013
+544,IDN,Growing wheat industry,CIV,0.0,CMR,2013
+545,IDN,Growing maize industry,CIV,4.163879788721532e-05,CMR,2013
+546,IDN,Growing cereals n.e.c industry,CIV,0.0,CMR,2013
+547,IDN,Growing leguminous crops and oil seeds industry,CIV,0.0014871136519752737,CMR,2013
+548,IDN,Growing rice industry,CIV,5.886322699451567e-08,CMR,2013
+549,IDN,"Growing vegetables, roots, tubers industry",CIV,0.0,CMR,2013
+550,IDN,Growing sugar beet and cane industry,CIV,2.5252703422063966e-05,CMR,2013
+551,IDN,Growing tobacco industry,CIV,7.93374603347368e-06,CMR,2013
+552,IDN,Growing fibre crops industry,CIV,0.0,CMR,2013
+553,IDN,Growing crops n.e.c. industry,CIV,4.935349624743181e-05,CMR,2013
+554,IDN,Growing grapes industry,CIV,0.0,CMR,2013
+555,IDN,Growing fruits and nuts industry,CIV,1.4845633399074871e-05,CMR,2013
+556,IDN,"Growing beverage crops (coffee, tea etc) industry",CIV,1.7178919326343564e-06,CMR,2013
+557,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,7.414621426295932e-05,CMR,2013
+558,IDN,Seeds and plant propagation industry,CIV,0.0,CMR,2013
+559,IDN,Raising of cattle industry,CIV,4.7308364307472415e-05,CMR,2013
+560,IDN,Growing wheat industry,CMR,0.0,CMR,2013
+561,IDN,Growing maize industry,CMR,0.0,CMR,2013
+562,IDN,Growing cereals n.e.c industry,CMR,0.0,CMR,2013
+563,IDN,Growing leguminous crops and oil seeds industry,CMR,0.0,CMR,2013
+564,IDN,Growing rice industry,CMR,0.0,CMR,2013
+565,IDN,"Growing vegetables, roots, tubers industry",CMR,0.0,CMR,2013
+566,IDN,Growing sugar beet and cane industry,CMR,0.0,CMR,2013
+567,IDN,Growing tobacco industry,CMR,0.0,CMR,2013
+568,IDN,Growing fibre crops industry,CMR,0.0,CMR,2013
+569,IDN,Growing crops n.e.c. industry,CMR,0.0,CMR,2013
+570,IDN,Growing grapes industry,CMR,0.0,CMR,2013
+571,IDN,Growing fruits and nuts industry,CMR,0.0,CMR,2013
+572,IDN,"Growing beverage crops (coffee, tea etc) industry",CMR,0.0,CMR,2013
+573,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,0.0,CMR,2013
+574,IDN,Seeds and plant propagation industry,CMR,0.0,CMR,2013
+575,IDN,Raising of cattle industry,CMR,0.0,CMR,2013
+576,IDN,Growing wheat industry,COD,0.0,CMR,2013
+577,IDN,Growing maize industry,COD,0.0002893863520715265,CMR,2013
+578,IDN,Growing cereals n.e.c industry,COD,0.0,CMR,2013
+579,IDN,Growing leguminous crops and oil seeds industry,COD,0.016283909117124937,CMR,2013
+580,IDN,Growing rice industry,COD,5.08652844539394e-07,CMR,2013
+581,IDN,"Growing vegetables, roots, tubers industry",COD,0.0,CMR,2013
+582,IDN,Growing sugar beet and cane industry,COD,0.00013936607047325067,CMR,2013
+583,IDN,Growing tobacco industry,COD,0.00010032141288683738,CMR,2013
+584,IDN,Growing fibre crops industry,COD,0.0,CMR,2013
+585,IDN,Growing crops n.e.c. industry,COD,0.00043569663702858045,CMR,2013
+586,IDN,Growing grapes industry,COD,0.0,CMR,2013
+587,IDN,Growing fruits and nuts industry,COD,6.258852522711848e-05,CMR,2013
+588,IDN,"Growing beverage crops (coffee, tea etc) industry",COD,1.941009339297831e-05,CMR,2013
+589,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,0.0007471263103776402,CMR,2013
+590,IDN,Seeds and plant propagation industry,COD,0.0,CMR,2013
+591,IDN,Raising of cattle industry,COD,0.0003659089582243352,CMR,2013
+592,IDN,Growing wheat industry,COG,0.0,CMR,2013
+593,IDN,Growing maize industry,COG,0.0008258453757064646,CMR,2013
+594,IDN,Growing cereals n.e.c industry,COG,0.0,CMR,2013
+595,IDN,Growing leguminous crops and oil seeds industry,COG,0.019109298559828868,CMR,2013
+596,IDN,Growing rice industry,COG,9.270221626354488e-07,CMR,2013
+597,IDN,"Growing vegetables, roots, tubers industry",COG,0.0,CMR,2013
+598,IDN,Growing sugar beet and cane industry,COG,0.0004866306292564101,CMR,2013
+599,IDN,Growing tobacco industry,COG,0.00019204010240872184,CMR,2013
+600,IDN,Growing fibre crops industry,COG,0.0,CMR,2013
+601,IDN,Growing crops n.e.c. industry,COG,0.0012294752388360855,CMR,2013
+602,IDN,Growing grapes industry,COG,0.0,CMR,2013
+603,IDN,Growing fruits and nuts industry,COG,0.00018333572704809235,CMR,2013
+604,IDN,"Growing beverage crops (coffee, tea etc) industry",COG,3.1980066053191605e-05,CMR,2013
+605,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,0.000988153750889428,CMR,2013
+606,IDN,Seeds and plant propagation industry,COG,0.0,CMR,2013
+607,IDN,Raising of cattle industry,COG,0.0009003320054226729,CMR,2013
+608,IDN,Growing wheat industry,COL,0.0,CMR,2013
+609,IDN,Growing maize industry,COL,1.4572779769645206e-05,CMR,2013
+610,IDN,Growing cereals n.e.c industry,COL,0.0,CMR,2013
+611,IDN,Growing leguminous crops and oil seeds industry,COL,0.00041268899841730264,CMR,2013
+612,IDN,Growing rice industry,COL,1.754574543090701e-08,CMR,2013
+613,IDN,"Growing vegetables, roots, tubers industry",COL,0.0,CMR,2013
+614,IDN,Growing sugar beet and cane industry,COL,8.171751332011743e-06,CMR,2013
+615,IDN,Growing tobacco industry,COL,3.4319063327293324e-06,CMR,2013
+616,IDN,Growing fibre crops industry,COL,0.0,CMR,2013
+617,IDN,Growing crops n.e.c. industry,COL,1.7217657501275513e-05,CMR,2013
+618,IDN,Growing grapes industry,COL,0.0,CMR,2013
+619,IDN,Growing fruits and nuts industry,COL,2.2595941125633995e-06,CMR,2013
+620,IDN,"Growing beverage crops (coffee, tea etc) industry",COL,6.309623821053531e-07,CMR,2013
+621,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,1.7341521114825623e-05,CMR,2013
+622,IDN,Seeds and plant propagation industry,COL,0.0,CMR,2013
+623,IDN,Raising of cattle industry,COL,1.7273852831945572e-05,CMR,2013
+624,IDN,Growing wheat industry,CRI,0.0,CMR,2013
+625,IDN,Growing maize industry,CRI,3.732067405350344e-05,CMR,2013
+626,IDN,Growing cereals n.e.c industry,CRI,0.0,CMR,2013
+627,IDN,Growing leguminous crops and oil seeds industry,CRI,0.0014753881448059652,CMR,2013
+628,IDN,Growing rice industry,CRI,4.708444032249624e-08,CMR,2013
+629,IDN,"Growing vegetables, roots, tubers industry",CRI,0.0,CMR,2013
+630,IDN,Growing sugar beet and cane industry,CRI,2.0011160726260116e-05,CMR,2013
+631,IDN,Growing tobacco industry,CRI,8.927254015728796e-06,CMR,2013
+632,IDN,Growing fibre crops industry,CRI,0.0,CMR,2013
+633,IDN,Growing crops n.e.c. industry,CRI,7.322581957141047e-05,CMR,2013
+634,IDN,Growing grapes industry,CRI,0.0,CMR,2013
+635,IDN,Growing fruits and nuts industry,CRI,7.489684815011289e-06,CMR,2013
+636,IDN,"Growing beverage crops (coffee, tea etc) industry",CRI,1.601247709309509e-06,CMR,2013
+637,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,6.699667237231208e-05,CMR,2013
+638,IDN,Seeds and plant propagation industry,CRI,0.0,CMR,2013
+639,IDN,Raising of cattle industry,CRI,5.20369353853491e-05,CMR,2013
+640,IDN,Growing wheat industry,CUB,0.0,CMR,2013
+641,IDN,Growing maize industry,CUB,2.3671620817923565e-06,CMR,2013
+642,IDN,Growing cereals n.e.c industry,CUB,0.0,CMR,2013
+643,IDN,Growing leguminous crops and oil seeds industry,CUB,6.679180412332717e-05,CMR,2013
+644,IDN,Growing rice industry,CUB,2.7724441615705177e-09,CMR,2013
+645,IDN,"Growing vegetables, roots, tubers industry",CUB,0.0,CMR,2013
+646,IDN,Growing sugar beet and cane industry,CUB,1.2945925912154477e-06,CMR,2013
+647,IDN,Growing tobacco industry,CUB,4.3859100782001674e-07,CMR,2013
+648,IDN,Growing fibre crops industry,CUB,0.0,CMR,2013
+649,IDN,Growing crops n.e.c. industry,CUB,3.044841605982657e-06,CMR,2013
+650,IDN,Growing grapes industry,CUB,0.0,CMR,2013
+651,IDN,Growing fruits and nuts industry,CUB,3.36244902003814e-07,CMR,2013
+652,IDN,"Growing beverage crops (coffee, tea etc) industry",CUB,9.024392734660702e-08,CMR,2013
+653,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,2.916094558336886e-06,CMR,2013
+654,IDN,Seeds and plant propagation industry,CUB,0.0,CMR,2013
+655,IDN,Raising of cattle industry,CUB,3.436476706313227e-06,CMR,2013
+656,IDN,Growing wheat industry,CYP,0.0,CMR,2013
+657,IDN,Growing maize industry,CYP,4.064315954746107e-06,CMR,2013
+658,IDN,Growing cereals n.e.c industry,CYP,0.0,CMR,2013
+659,IDN,Growing leguminous crops and oil seeds industry,CYP,9.909613153169847e-05,CMR,2013
+660,IDN,Growing rice industry,CYP,4.27261187227572e-09,CMR,2013
+661,IDN,"Growing vegetables, roots, tubers industry",CYP,0.0,CMR,2013
+662,IDN,Growing sugar beet and cane industry,CYP,2.277498907688588e-06,CMR,2013
+663,IDN,Growing tobacco industry,CYP,6.01826614562668e-07,CMR,2013
+664,IDN,Growing fibre crops industry,CYP,0.0,CMR,2013
+665,IDN,Growing crops n.e.c. industry,CYP,4.239824661637222e-06,CMR,2013
+666,IDN,Growing grapes industry,CYP,0.0,CMR,2013
+667,IDN,Growing fruits and nuts industry,CYP,6.653488271888393e-07,CMR,2013
+668,IDN,"Growing beverage crops (coffee, tea etc) industry",CYP,1.252971904247798e-07,CMR,2013
+669,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,4.652033328420902e-06,CMR,2013
+670,IDN,Seeds and plant propagation industry,CYP,0.0,CMR,2013
+671,IDN,Raising of cattle industry,CYP,6.75688887681343e-06,CMR,2013
+672,IDN,Growing wheat industry,CZE,0.0,CMR,2013
+673,IDN,Growing maize industry,CZE,5.75380353254727e-05,CMR,2013
+674,IDN,Growing cereals n.e.c industry,CZE,0.0,CMR,2013
+675,IDN,Growing leguminous crops and oil seeds industry,CZE,0.001229886171147892,CMR,2013
+676,IDN,Growing rice industry,CZE,5.651988817653309e-08,CMR,2013
+677,IDN,"Growing vegetables, roots, tubers industry",CZE,0.0,CMR,2013
+678,IDN,Growing sugar beet and cane industry,CZE,3.2029009252792164e-05,CMR,2013
+679,IDN,Growing tobacco industry,CZE,7.22155367644499e-06,CMR,2013
+680,IDN,Growing fibre crops industry,CZE,0.0,CMR,2013
+681,IDN,Growing crops n.e.c. industry,CZE,5.557732243103618e-05,CMR,2013
+682,IDN,Growing grapes industry,CZE,0.0,CMR,2013
+683,IDN,Growing fruits and nuts industry,CZE,1.0167364153535855e-05,CMR,2013
+684,IDN,"Growing beverage crops (coffee, tea etc) industry",CZE,1.5289268601120941e-06,CMR,2013
+685,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,5.77008432821188e-05,CMR,2013
+686,IDN,Seeds and plant propagation industry,CZE,0.0,CMR,2013
+687,IDN,Raising of cattle industry,CZE,0.00010201575856030183,CMR,2013
+688,IDN,Growing wheat industry,DEU,0.0,CMR,2013
+689,IDN,Growing maize industry,DEU,0.0005456147696251427,CMR,2013
+690,IDN,Growing cereals n.e.c industry,DEU,0.0,CMR,2013
+691,IDN,Growing leguminous crops and oil seeds industry,DEU,0.012417543846097615,CMR,2013
+692,IDN,Growing rice industry,DEU,5.754231311815841e-07,CMR,2013
+693,IDN,"Growing vegetables, roots, tubers industry",DEU,0.0,CMR,2013
+694,IDN,Growing sugar beet and cane industry,DEU,0.0003030041715501848,CMR,2013
+695,IDN,Growing tobacco industry,DEU,7.986949557678636e-05,CMR,2013
+696,IDN,Growing fibre crops industry,DEU,0.0,CMR,2013
+697,IDN,Growing crops n.e.c. industry,DEU,0.000563670541315325,CMR,2013
+698,IDN,Growing grapes industry,DEU,0.0,CMR,2013
+699,IDN,Growing fruits and nuts industry,DEU,0.00012505666132729663,CMR,2013
+700,IDN,"Growing beverage crops (coffee, tea etc) industry",DEU,1.6372658113860458e-05,CMR,2013
+701,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,0.0006201794745433456,CMR,2013
+702,IDN,Seeds and plant propagation industry,DEU,0.0,CMR,2013
+703,IDN,Raising of cattle industry,DEU,0.0008575141511584114,CMR,2013
+704,IDN,Growing wheat industry,DJI,0.0,CMR,2013
+705,IDN,Growing maize industry,DJI,1.201020353659129e-06,CMR,2013
+706,IDN,Growing cereals n.e.c industry,DJI,0.0,CMR,2013
+707,IDN,Growing leguminous crops and oil seeds industry,DJI,4.3954533952888665e-05,CMR,2013
+708,IDN,Growing rice industry,DJI,1.3528757265086785e-09,CMR,2013
+709,IDN,"Growing vegetables, roots, tubers industry",DJI,0.0,CMR,2013
+710,IDN,Growing sugar beet and cane industry,DJI,6.776019758603254e-07,CMR,2013
+711,IDN,Growing tobacco industry,DJI,1.1389739520541837e-07,CMR,2013
+712,IDN,Growing fibre crops industry,DJI,0.0,CMR,2013
+713,IDN,Growing crops n.e.c. industry,DJI,8.625749000874314e-07,CMR,2013
+714,IDN,Growing grapes industry,DJI,0.0,CMR,2013
+715,IDN,Growing fruits and nuts industry,DJI,6.950590322344551e-07,CMR,2013
+716,IDN,"Growing beverage crops (coffee, tea etc) industry",DJI,2.572049744661203e-08,CMR,2013
+717,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,2.0007103528430252e-06,CMR,2013
+718,IDN,Seeds and plant propagation industry,DJI,0.0,CMR,2013
+719,IDN,Raising of cattle industry,DJI,1.0935610422046782e-06,CMR,2013
+720,IDN,Growing wheat industry,DYE,0.0,CMR,2013
+721,IDN,Growing maize industry,DYE,0.0,CMR,2013
+722,IDN,Growing cereals n.e.c industry,DYE,0.0,CMR,2013
+723,IDN,Growing leguminous crops and oil seeds industry,DYE,0.0,CMR,2013
+724,IDN,Growing rice industry,DYE,0.0,CMR,2013
+725,IDN,"Growing vegetables, roots, tubers industry",DYE,0.0,CMR,2013
+726,IDN,Growing sugar beet and cane industry,DYE,0.0,CMR,2013
+727,IDN,Growing tobacco industry,DYE,0.0,CMR,2013
+728,IDN,Growing fibre crops industry,DYE,0.0,CMR,2013
+729,IDN,Growing crops n.e.c. industry,DYE,0.0,CMR,2013
+730,IDN,Growing grapes industry,DYE,0.0,CMR,2013
+731,IDN,Growing fruits and nuts industry,DYE,0.0,CMR,2013
+732,IDN,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,CMR,2013
+733,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,CMR,2013
+734,IDN,Seeds and plant propagation industry,DYE,0.0,CMR,2013
+735,IDN,Raising of cattle industry,DYE,0.0,CMR,2013
+736,IDN,Growing wheat industry,DNK,0.0,CMR,2013
+737,IDN,Growing maize industry,DNK,2.980664859493865e-05,CMR,2013
+738,IDN,Growing cereals n.e.c industry,DNK,0.0,CMR,2013
+739,IDN,Growing leguminous crops and oil seeds industry,DNK,0.0007719971143323367,CMR,2013
+740,IDN,Growing rice industry,DNK,3.2889779662992717e-08,CMR,2013
+741,IDN,"Growing vegetables, roots, tubers industry",DNK,0.0,CMR,2013
+742,IDN,Growing sugar beet and cane industry,DNK,1.6503537661671835e-05,CMR,2013
+743,IDN,Growing tobacco industry,DNK,4.70446611004525e-06,CMR,2013
+744,IDN,Growing fibre crops industry,DNK,0.0,CMR,2013
+745,IDN,Growing crops n.e.c. industry,DNK,3.0987396700021614e-05,CMR,2013
+746,IDN,Growing grapes industry,DNK,0.0,CMR,2013
+747,IDN,Growing fruits and nuts industry,DNK,6.864659503623961e-06,CMR,2013
+748,IDN,"Growing beverage crops (coffee, tea etc) industry",DNK,9.438090569444474e-07,CMR,2013
+749,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,3.575275118936403e-05,CMR,2013
+750,IDN,Seeds and plant propagation industry,DNK,0.0,CMR,2013
+751,IDN,Raising of cattle industry,DNK,4.660470098192964e-05,CMR,2013
+752,IDN,Growing wheat industry,DOM,0.0,CMR,2013
+753,IDN,Growing maize industry,DOM,3.190984764731145e-06,CMR,2013
+754,IDN,Growing cereals n.e.c industry,DOM,0.0,CMR,2013
+755,IDN,Growing leguminous crops and oil seeds industry,DOM,9.618778902943111e-05,CMR,2013
+756,IDN,Growing rice industry,DOM,3.750384888279341e-09,CMR,2013
+757,IDN,"Growing vegetables, roots, tubers industry",DOM,0.0,CMR,2013
+758,IDN,Growing sugar beet and cane industry,DOM,1.741916256630549e-06,CMR,2013
+759,IDN,Growing tobacco industry,DOM,6.114441235245727e-07,CMR,2013
+760,IDN,Growing fibre crops industry,DOM,0.0,CMR,2013
+761,IDN,Growing crops n.e.c. industry,DOM,4.307666841248522e-06,CMR,2013
+762,IDN,Growing grapes industry,DOM,0.0,CMR,2013
+763,IDN,Growing fruits and nuts industry,DOM,4.4544101837405736e-07,CMR,2013
+764,IDN,"Growing beverage crops (coffee, tea etc) industry",DOM,1.2101898144004809e-07,CMR,2013
+765,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,4.106329354041719e-06,CMR,2013
+766,IDN,Seeds and plant propagation industry,DOM,0.0,CMR,2013
+767,IDN,Raising of cattle industry,DOM,4.530152455114658e-06,CMR,2013
+768,IDN,Growing wheat industry,DZA,0.0,CMR,2013
+769,IDN,Growing maize industry,DZA,3.705196232424139e-05,CMR,2013
+770,IDN,Growing cereals n.e.c industry,DZA,0.0,CMR,2013
+771,IDN,Growing leguminous crops and oil seeds industry,DZA,0.001193473962356125,CMR,2013
+772,IDN,Growing rice industry,DZA,4.152288810709149e-08,CMR,2013
+773,IDN,"Growing vegetables, roots, tubers industry",DZA,0.0,CMR,2013
+774,IDN,Growing sugar beet and cane industry,DZA,2.056921661826817e-05,CMR,2013
+775,IDN,Growing tobacco industry,DZA,5.358400598942711e-06,CMR,2013
+776,IDN,Growing fibre crops industry,DZA,0.0,CMR,2013
+777,IDN,Growing crops n.e.c. industry,DZA,3.3348562162688734e-05,CMR,2013
+778,IDN,Growing grapes industry,DZA,0.0,CMR,2013
+779,IDN,Growing fruits and nuts industry,DZA,1.327864943905271e-05,CMR,2013
+780,IDN,"Growing beverage crops (coffee, tea etc) industry",DZA,1.0607428617085467e-06,CMR,2013
+781,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,4.671863857479973e-05,CMR,2013
+782,IDN,Seeds and plant propagation industry,DZA,0.0,CMR,2013
+783,IDN,Raising of cattle industry,DZA,4.6238736956487704e-05,CMR,2013
+784,IDN,Growing wheat industry,ECU,0.0,CMR,2013
+785,IDN,Growing maize industry,ECU,4.600742356507777e-06,CMR,2013
+786,IDN,Growing cereals n.e.c industry,ECU,0.0,CMR,2013
+787,IDN,Growing leguminous crops and oil seeds industry,ECU,0.00015702548620899248,CMR,2013
+788,IDN,Growing rice industry,ECU,6.483776367296938e-09,CMR,2013
+789,IDN,"Growing vegetables, roots, tubers industry",ECU,0.0,CMR,2013
+790,IDN,Growing sugar beet and cane industry,ECU,2.444158170364822e-06,CMR,2013
+791,IDN,Growing tobacco industry,ECU,1.3698332739111706e-06,CMR,2013
+792,IDN,Growing fibre crops industry,ECU,0.0,CMR,2013
+793,IDN,Growing crops n.e.c. industry,ECU,6.026594531854789e-06,CMR,2013
+794,IDN,Growing grapes industry,ECU,0.0,CMR,2013
+795,IDN,Growing fruits and nuts industry,ECU,7.565378471233559e-07,CMR,2013
+796,IDN,"Growing beverage crops (coffee, tea etc) industry",ECU,2.3827589550816103e-07,CMR,2013
+797,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,6.442291597685641e-06,CMR,2013
+798,IDN,Seeds and plant propagation industry,ECU,0.0,CMR,2013
+799,IDN,Raising of cattle industry,ECU,5.389580038508537e-06,CMR,2013
+800,IDN,Growing wheat industry,EGY,0.0,CMR,2013
+801,IDN,Growing maize industry,EGY,2.322577599305737e-05,CMR,2013
+802,IDN,Growing cereals n.e.c industry,EGY,0.0,CMR,2013
+803,IDN,Growing leguminous crops and oil seeds industry,EGY,0.0006630706262973829,CMR,2013
+804,IDN,Growing rice industry,EGY,2.8962820718612987e-08,CMR,2013
+805,IDN,"Growing vegetables, roots, tubers industry",EGY,0.0,CMR,2013
+806,IDN,Growing sugar beet and cane industry,EGY,1.2068521977771555e-05,CMR,2013
+807,IDN,Growing tobacco industry,EGY,4.8296999034337265e-06,CMR,2013
+808,IDN,Growing fibre crops industry,EGY,0.0,CMR,2013
+809,IDN,Growing crops n.e.c. industry,EGY,3.107097949121029e-05,CMR,2013
+810,IDN,Growing grapes industry,EGY,0.0,CMR,2013
+811,IDN,Growing fruits and nuts industry,EGY,5.2375117093671365e-06,CMR,2013
+812,IDN,"Growing beverage crops (coffee, tea etc) industry",EGY,1.1718552958954283e-06,CMR,2013
+813,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,3.1623874706893057e-05,CMR,2013
+814,IDN,Seeds and plant propagation industry,EGY,0.0,CMR,2013
+815,IDN,Raising of cattle industry,EGY,2.9499978658541017e-05,CMR,2013
+816,IDN,Growing wheat industry,ERI,0.0,CMR,2013
+817,IDN,Growing maize industry,ERI,9.398867106433327e-08,CMR,2013
+818,IDN,Growing cereals n.e.c industry,ERI,0.0,CMR,2013
+819,IDN,Growing leguminous crops and oil seeds industry,ERI,2.5172021535964614e-06,CMR,2013
+820,IDN,Growing rice industry,ERI,1.1223943151131435e-10,CMR,2013
+821,IDN,"Growing vegetables, roots, tubers industry",ERI,0.0,CMR,2013
+822,IDN,Growing sugar beet and cane industry,ERI,4.984938312294504e-08,CMR,2013
+823,IDN,Growing tobacco industry,ERI,1.8442904125342716e-08,CMR,2013
+824,IDN,Growing fibre crops industry,ERI,0.0,CMR,2013
+825,IDN,Growing crops n.e.c. industry,ERI,1.1433909911061926e-07,CMR,2013
+826,IDN,Growing grapes industry,ERI,0.0,CMR,2013
+827,IDN,Growing fruits and nuts industry,ERI,1.3769679514969702e-08,CMR,2013
+828,IDN,"Growing beverage crops (coffee, tea etc) industry",ERI,3.995064483258728e-09,CMR,2013
+829,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,1.0919534217277695e-07,CMR,2013
+830,IDN,Seeds and plant propagation industry,ERI,0.0,CMR,2013
+831,IDN,Raising of cattle industry,ERI,1.27015394220312e-07,CMR,2013
+832,IDN,Growing wheat industry,ESP,0.0,CMR,2013
+833,IDN,Growing maize industry,ESP,0.00030657347278963083,CMR,2013
+834,IDN,Growing cereals n.e.c industry,ESP,0.0,CMR,2013
+835,IDN,Growing leguminous crops and oil seeds industry,ESP,0.0070491534002245036,CMR,2013
+836,IDN,Growing rice industry,ESP,3.1347841201747194e-07,CMR,2013
+837,IDN,"Growing vegetables, roots, tubers industry",ESP,0.0,CMR,2013
+838,IDN,Growing sugar beet and cane industry,ESP,0.00016991187549656472,CMR,2013
+839,IDN,Growing tobacco industry,ESP,3.819589300701397e-05,CMR,2013
+840,IDN,Growing fibre crops industry,ESP,0.0,CMR,2013
+841,IDN,Growing crops n.e.c. industry,ESP,0.00030858202181886665,CMR,2013
+842,IDN,Growing grapes industry,ESP,0.0,CMR,2013
+843,IDN,Growing fruits and nuts industry,ESP,6.128463772600759e-05,CMR,2013
+844,IDN,"Growing beverage crops (coffee, tea etc) industry",ESP,8.624966883278051e-06,CMR,2013
+845,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,0.00033592464098400234,CMR,2013
+846,IDN,Seeds and plant propagation industry,ESP,0.0,CMR,2013
+847,IDN,Raising of cattle industry,ESP,0.0005225354271750153,CMR,2013
+848,IDN,Growing wheat industry,EST,0.0,CMR,2013
+849,IDN,Growing maize industry,EST,6.926448768282403e-06,CMR,2013
+850,IDN,Growing cereals n.e.c industry,EST,0.0,CMR,2013
+851,IDN,Growing leguminous crops and oil seeds industry,EST,0.0001557169459524357,CMR,2013
+852,IDN,Growing rice industry,EST,7.054852962379484e-09,CMR,2013
+853,IDN,"Growing vegetables, roots, tubers industry",EST,0.0,CMR,2013
+854,IDN,Growing sugar beet and cane industry,EST,3.885828309374088e-06,CMR,2013
+855,IDN,Growing tobacco industry,EST,6.919394320361233e-07,CMR,2013
+856,IDN,Growing fibre crops industry,EST,0.0,CMR,2013
+857,IDN,Growing crops n.e.c. industry,EST,5.4120736724169685e-06,CMR,2013
+858,IDN,Growing grapes industry,EST,0.0,CMR,2013
+859,IDN,Growing fruits and nuts industry,EST,1.630748670531961e-06,CMR,2013
+860,IDN,"Growing beverage crops (coffee, tea etc) industry",EST,1.5248846816471325e-07,CMR,2013
+861,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,9.57469246349578e-06,CMR,2013
+862,IDN,Seeds and plant propagation industry,EST,0.0,CMR,2013
+863,IDN,Raising of cattle industry,EST,8.99165832698673e-06,CMR,2013
+864,IDN,Growing wheat industry,ETH,0.0,CMR,2013
+865,IDN,Growing maize industry,ETH,7.2736838254268195e-06,CMR,2013
+866,IDN,Growing cereals n.e.c industry,ETH,0.0,CMR,2013
+867,IDN,Growing leguminous crops and oil seeds industry,ETH,0.0002412311025590222,CMR,2013
+868,IDN,Growing rice industry,ETH,9.121852943002235e-09,CMR,2013
+869,IDN,"Growing vegetables, roots, tubers industry",ETH,0.0,CMR,2013
+870,IDN,Growing sugar beet and cane industry,ETH,4.3705774032151705e-06,CMR,2013
+871,IDN,Growing tobacco industry,ETH,1.3518289621596189e-06,CMR,2013
+872,IDN,Growing fibre crops industry,ETH,0.0,CMR,2013
+873,IDN,Growing crops n.e.c. industry,ETH,8.770791407178094e-06,CMR,2013
+874,IDN,Growing grapes industry,ETH,0.0,CMR,2013
+875,IDN,Growing fruits and nuts industry,ETH,1.015971249793551e-06,CMR,2013
+876,IDN,"Growing beverage crops (coffee, tea etc) industry",ETH,2.9220276256419043e-07,CMR,2013
+877,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,1.159446184252085e-05,CMR,2013
+878,IDN,Seeds and plant propagation industry,ETH,0.0,CMR,2013
+879,IDN,Raising of cattle industry,ETH,8.610747357904684e-06,CMR,2013
+880,IDN,Growing wheat industry,FIN,0.0,CMR,2013
+881,IDN,Growing maize industry,FIN,2.5301817871390693e-05,CMR,2013
+882,IDN,Growing cereals n.e.c industry,FIN,0.0,CMR,2013
+883,IDN,Growing leguminous crops and oil seeds industry,FIN,0.0006292738359803964,CMR,2013
+884,IDN,Growing rice industry,FIN,2.951438588652035e-08,CMR,2013
+885,IDN,"Growing vegetables, roots, tubers industry",FIN,0.0,CMR,2013
+886,IDN,Growing sugar beet and cane industry,FIN,1.4000108044571845e-05,CMR,2013
+887,IDN,Growing tobacco industry,FIN,5.584545196570607e-06,CMR,2013
+888,IDN,Growing fibre crops industry,FIN,0.0,CMR,2013
+889,IDN,Growing crops n.e.c. industry,FIN,3.010438928077334e-05,CMR,2013
+890,IDN,Growing grapes industry,FIN,0.0,CMR,2013
+891,IDN,Growing fruits and nuts industry,FIN,3.817727031184147e-06,CMR,2013
+892,IDN,"Growing beverage crops (coffee, tea etc) industry",FIN,9.814896333687728e-07,CMR,2013
+893,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,2.7877380798349353e-05,CMR,2013
+894,IDN,Seeds and plant propagation industry,FIN,0.0,CMR,2013
+895,IDN,Raising of cattle industry,FIN,3.998090645070795e-05,CMR,2013
+896,IDN,Growing wheat industry,FRA,0.0,CMR,2013
+897,IDN,Growing maize industry,FRA,0.001469103601243222,CMR,2013
+898,IDN,Growing cereals n.e.c industry,FRA,0.0,CMR,2013
+899,IDN,Growing leguminous crops and oil seeds industry,FRA,0.03906282906862054,CMR,2013
+900,IDN,Growing rice industry,FRA,1.5058532980185713e-06,CMR,2013
+901,IDN,"Growing vegetables, roots, tubers industry",FRA,0.0,CMR,2013
+902,IDN,Growing sugar beet and cane industry,FRA,0.000820372998784433,CMR,2013
+903,IDN,Growing tobacco industry,FRA,0.00015846402075910042,CMR,2013
+904,IDN,Growing fibre crops industry,FRA,0.0,CMR,2013
+905,IDN,Growing crops n.e.c. industry,FRA,0.0011708140927971808,CMR,2013
+906,IDN,Growing grapes industry,FRA,0.0,CMR,2013
+907,IDN,Growing fruits and nuts industry,FRA,0.0007456040811870395,CMR,2013
+908,IDN,"Growing beverage crops (coffee, tea etc) industry",FRA,3.363408277083961e-05,CMR,2013
+909,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,0.0020723790905312358,CMR,2013
+910,IDN,Seeds and plant propagation industry,FRA,0.0,CMR,2013
+911,IDN,Raising of cattle industry,FRA,0.0016854387217110282,CMR,2013
+912,IDN,Growing wheat industry,GAB,0.0,CMR,2013
+913,IDN,Growing maize industry,GAB,0.0007801813291896456,CMR,2013
+914,IDN,Growing cereals n.e.c industry,GAB,0.0,CMR,2013
+915,IDN,Growing leguminous crops and oil seeds industry,GAB,0.029934199523715222,CMR,2013
+916,IDN,Growing rice industry,GAB,9.639946630667731e-07,CMR,2013
+917,IDN,"Growing vegetables, roots, tubers industry",GAB,0.0,CMR,2013
+918,IDN,Growing sugar beet and cane industry,GAB,0.00044290233953219745,CMR,2013
+919,IDN,Growing tobacco industry,GAB,8.6958448085243e-05,CMR,2013
+920,IDN,Growing fibre crops industry,GAB,0.0,CMR,2013
+921,IDN,Growing crops n.e.c. industry,GAB,0.000632415896959697,CMR,2013
+922,IDN,Growing grapes industry,GAB,0.0,CMR,2013
+923,IDN,Growing fruits and nuts industry,GAB,0.00046221152171731667,CMR,2013
+924,IDN,"Growing beverage crops (coffee, tea etc) industry",GAB,1.7359748791579313e-05,CMR,2013
+925,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,0.0014940719840061158,CMR,2013
+926,IDN,Seeds and plant propagation industry,GAB,0.0,CMR,2013
+927,IDN,Raising of cattle industry,GAB,0.0006170414987728305,CMR,2013
+928,IDN,Growing wheat industry,GBR,0.0,CMR,2013
+929,IDN,Growing maize industry,GBR,0.0005352361132259316,CMR,2013
+930,IDN,Growing cereals n.e.c industry,GBR,0.0,CMR,2013
+931,IDN,Growing leguminous crops and oil seeds industry,GBR,0.012153735897444251,CMR,2013
+932,IDN,Growing rice industry,GBR,5.919497510394284e-07,CMR,2013
+933,IDN,"Growing vegetables, roots, tubers industry",GBR,0.0,CMR,2013
+934,IDN,Growing sugar beet and cane industry,GBR,0.00030175028800962596,CMR,2013
+935,IDN,Growing tobacco industry,GBR,0.00010258911686509656,CMR,2013
+936,IDN,Growing fibre crops industry,GBR,0.0,CMR,2013
+937,IDN,Growing crops n.e.c. industry,GBR,0.0005747482212348653,CMR,2013
+938,IDN,Growing grapes industry,GBR,0.0,CMR,2013
+939,IDN,Growing fruits and nuts industry,GBR,9.249625820918346e-05,CMR,2013
+940,IDN,"Growing beverage crops (coffee, tea etc) industry",GBR,1.853982600829817e-05,CMR,2013
+941,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,0.0005699301779467914,CMR,2013
+942,IDN,Seeds and plant propagation industry,GBR,0.0,CMR,2013
+943,IDN,Raising of cattle industry,GBR,0.0008031638357429101,CMR,2013
+944,IDN,Growing wheat industry,GEO,0.0,CMR,2013
+945,IDN,Growing maize industry,GEO,1.5902587805284586e-06,CMR,2013
+946,IDN,Growing cereals n.e.c industry,GEO,0.0,CMR,2013
+947,IDN,Growing leguminous crops and oil seeds industry,GEO,3.716250388165868e-05,CMR,2013
+948,IDN,Growing rice industry,GEO,1.6204206711174585e-09,CMR,2013
+949,IDN,"Growing vegetables, roots, tubers industry",GEO,0.0,CMR,2013
+950,IDN,Growing sugar beet and cane industry,GEO,8.802301298912752e-07,CMR,2013
+951,IDN,Growing tobacco industry,GEO,2.543940687063552e-07,CMR,2013
+952,IDN,Growing fibre crops industry,GEO,0.0,CMR,2013
+953,IDN,Growing crops n.e.c. industry,GEO,1.5692725249135363e-06,CMR,2013
+954,IDN,Growing grapes industry,GEO,0.0,CMR,2013
+955,IDN,Growing fruits and nuts industry,GEO,2.354307446258229e-07,CMR,2013
+956,IDN,"Growing beverage crops (coffee, tea etc) industry",GEO,5.034384110875412e-08,CMR,2013
+957,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,1.6059322194859903e-06,CMR,2013
+958,IDN,Seeds and plant propagation industry,GEO,0.0,CMR,2013
+959,IDN,Raising of cattle industry,GEO,1.9681279064053396e-06,CMR,2013
+960,IDN,Growing wheat industry,GHA,0.0,CMR,2013
+961,IDN,Growing maize industry,GHA,0.00014203010137074182,CMR,2013
+962,IDN,Growing cereals n.e.c industry,GHA,0.0,CMR,2013
+963,IDN,Growing leguminous crops and oil seeds industry,GHA,0.005121060034498989,CMR,2013
+964,IDN,Growing rice industry,GHA,2.626273409874463e-07,CMR,2013
+965,IDN,"Growing vegetables, roots, tubers industry",GHA,0.0,CMR,2013
+966,IDN,Growing sugar beet and cane industry,GHA,6.774486057267927e-05,CMR,2013
+967,IDN,Growing tobacco industry,GHA,5.359971701239309e-05,CMR,2013
+968,IDN,Growing fibre crops industry,GHA,0.0,CMR,2013
+969,IDN,Growing crops n.e.c. industry,GHA,0.00019948719549549296,CMR,2013
+970,IDN,Growing grapes industry,GHA,0.0,CMR,2013
+971,IDN,Growing fruits and nuts industry,GHA,2.190406090796815e-05,CMR,2013
+972,IDN,"Growing beverage crops (coffee, tea etc) industry",GHA,1.092315542341039e-05,CMR,2013
+973,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,0.00023096469361275882,CMR,2013
+974,IDN,Seeds and plant propagation industry,GHA,0.0,CMR,2013
+975,IDN,Raising of cattle industry,GHA,0.00016812539950219346,CMR,2013
+976,IDN,Growing wheat industry,GIN,0.0,CMR,2013
+977,IDN,Growing maize industry,GIN,3.7316951464434394e-05,CMR,2013
+978,IDN,Growing cereals n.e.c industry,GIN,0.0,CMR,2013
+979,IDN,Growing leguminous crops and oil seeds industry,GIN,0.0014436404704323276,CMR,2013
+980,IDN,Growing rice industry,GIN,7.316507075804057e-08,CMR,2013
+981,IDN,"Growing vegetables, roots, tubers industry",GIN,0.0,CMR,2013
+982,IDN,Growing sugar beet and cane industry,GIN,1.6924742332029372e-05,CMR,2013
+983,IDN,Growing tobacco industry,GIN,1.3021351793396657e-05,CMR,2013
+984,IDN,Growing fibre crops industry,GIN,0.0,CMR,2013
+985,IDN,Growing crops n.e.c. industry,GIN,5.260747566723702e-05,CMR,2013
+986,IDN,Growing grapes industry,GIN,0.0,CMR,2013
+987,IDN,Growing fruits and nuts industry,GIN,6.260848549566588e-06,CMR,2013
+988,IDN,"Growing beverage crops (coffee, tea etc) industry",GIN,3.0954307698176678e-06,CMR,2013
+989,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,6.680999868971359e-05,CMR,2013
+990,IDN,Seeds and plant propagation industry,GIN,0.0,CMR,2013
+991,IDN,Raising of cattle industry,GIN,4.661978409862741e-05,CMR,2013
+992,IDN,Growing wheat industry,GMB,0.0,CMR,2013
+993,IDN,Growing maize industry,GMB,6.071422207543864e-07,CMR,2013
+994,IDN,Growing cereals n.e.c industry,GMB,0.0,CMR,2013
+995,IDN,Growing leguminous crops and oil seeds industry,GMB,2.2643351345028883e-05,CMR,2013
+996,IDN,Growing rice industry,GMB,7.430237582334663e-10,CMR,2013
+997,IDN,"Growing vegetables, roots, tubers industry",GMB,0.0,CMR,2013
+998,IDN,Growing sugar beet and cane industry,GMB,3.2648290470521295e-07,CMR,2013
+999,IDN,Growing tobacco industry,GMB,1.1024974317561298e-07,CMR,2013
+1000,IDN,Growing fibre crops industry,GMB,0.0,CMR,2013
+1001,IDN,Growing crops n.e.c. industry,GMB,6.977143373753224e-07,CMR,2013
+1002,IDN,Growing grapes industry,GMB,0.0,CMR,2013
+1003,IDN,Growing fruits and nuts industry,GMB,1.6907219794607886e-07,CMR,2013
+1004,IDN,"Growing beverage crops (coffee, tea etc) industry",GMB,2.2623960284594006e-08,CMR,2013
+1005,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,1.017469041138054e-06,CMR,2013
+1006,IDN,Seeds and plant propagation industry,GMB,0.0,CMR,2013
+1007,IDN,Raising of cattle industry,GMB,7.25641778364358e-07,CMR,2013
+1008,IDN,Growing wheat industry,GNQ,0.0,CMR,2013
+1009,IDN,Growing maize industry,GNQ,0.001856328442891995,CMR,2013
+1010,IDN,Growing cereals n.e.c industry,GNQ,0.0,CMR,2013
+1011,IDN,Growing leguminous crops and oil seeds industry,GNQ,0.03787635501259059,CMR,2013
+1012,IDN,Growing rice industry,GNQ,1.5341706685555875e-06,CMR,2013
+1013,IDN,"Growing vegetables, roots, tubers industry",GNQ,0.0,CMR,2013
+1014,IDN,Growing sugar beet and cane industry,GNQ,0.0010534443155984703,CMR,2013
+1015,IDN,Growing tobacco industry,GNQ,0.00023127821851446243,CMR,2013
+1016,IDN,Growing fibre crops industry,GNQ,0.0,CMR,2013
+1017,IDN,Growing crops n.e.c. industry,GNQ,0.001068377930500256,CMR,2013
+1018,IDN,Growing grapes industry,GNQ,0.0,CMR,2013
+1019,IDN,Growing fruits and nuts industry,GNQ,0.0005287459000930144,CMR,2013
+1020,IDN,"Growing beverage crops (coffee, tea etc) industry",GNQ,3.855252692687733e-05,CMR,2013
+1021,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,0.0017690266130820159,CMR,2013
+1022,IDN,Seeds and plant propagation industry,GNQ,0.0,CMR,2013
+1023,IDN,Raising of cattle industry,GNQ,0.0009257910289788602,CMR,2013
+1024,IDN,Growing wheat industry,GRC,0.0,CMR,2013
+1025,IDN,Growing maize industry,GRC,9.837586523557648e-05,CMR,2013
+1026,IDN,Growing cereals n.e.c industry,GRC,0.0,CMR,2013
+1027,IDN,Growing leguminous crops and oil seeds industry,GRC,0.0022228038126048595,CMR,2013
+1028,IDN,Growing rice industry,GRC,1.0366734281405464e-07,CMR,2013
+1029,IDN,"Growing vegetables, roots, tubers industry",GRC,0.0,CMR,2013
+1030,IDN,Growing sugar beet and cane industry,GRC,5.497602032216114e-05,CMR,2013
+1031,IDN,Growing tobacco industry,GRC,1.326677472287572e-05,CMR,2013
+1032,IDN,Growing fibre crops industry,GRC,0.0,CMR,2013
+1033,IDN,Growing crops n.e.c. industry,GRC,8.549006871273618e-05,CMR,2013
+1034,IDN,Growing grapes industry,GRC,0.0,CMR,2013
+1035,IDN,Growing fruits and nuts industry,GRC,3.639323820338776e-05,CMR,2013
+1036,IDN,"Growing beverage crops (coffee, tea etc) industry",GRC,2.5436623176917467e-06,CMR,2013
+1037,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,0.00012704829892859246,CMR,2013
+1038,IDN,Seeds and plant propagation industry,GRC,0.0,CMR,2013
+1039,IDN,Raising of cattle industry,GRC,0.00014038770039775825,CMR,2013
+1040,IDN,Growing wheat industry,GTM,0.0,CMR,2013
+1041,IDN,Growing maize industry,GTM,3.228355948920141e-06,CMR,2013
+1042,IDN,Growing cereals n.e.c industry,GTM,0.0,CMR,2013
+1043,IDN,Growing leguminous crops and oil seeds industry,GTM,0.00010794576210786886,CMR,2013
+1044,IDN,Growing rice industry,GTM,3.95519295049121e-09,CMR,2013
+1045,IDN,"Growing vegetables, roots, tubers industry",GTM,0.0,CMR,2013
+1046,IDN,Growing sugar beet and cane industry,GTM,1.7654683264476785e-06,CMR,2013
+1047,IDN,Growing tobacco industry,GTM,6.887209172625208e-07,CMR,2013
+1048,IDN,Growing fibre crops industry,GTM,0.0,CMR,2013
+1049,IDN,Growing crops n.e.c. industry,GTM,4.664803917990542e-06,CMR,2013
+1050,IDN,Growing grapes industry,GTM,0.0,CMR,2013
+1051,IDN,Growing fruits and nuts industry,GTM,5.23886627351362e-07,CMR,2013
+1052,IDN,"Growing beverage crops (coffee, tea etc) industry",GTM,1.321830835825369e-07,CMR,2013
+1053,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,4.366392221003974e-06,CMR,2013
+1054,IDN,Seeds and plant propagation industry,GTM,0.0,CMR,2013
+1055,IDN,Raising of cattle industry,GTM,4.644889339331717e-06,CMR,2013
+1056,IDN,Growing wheat industry,HND,0.0,CMR,2013
+1057,IDN,Growing maize industry,HND,2.4882576858948557e-06,CMR,2013
+1058,IDN,Growing cereals n.e.c industry,HND,0.0,CMR,2013
+1059,IDN,Growing leguminous crops and oil seeds industry,HND,6.846133373471854e-05,CMR,2013
+1060,IDN,Growing rice industry,HND,2.780453347230212e-09,CMR,2013
+1061,IDN,"Growing vegetables, roots, tubers industry",HND,0.0,CMR,2013
+1062,IDN,Growing sugar beet and cane industry,HND,1.373636780294513e-06,CMR,2013
+1063,IDN,Growing tobacco industry,HND,4.778442349805403e-07,CMR,2013
+1064,IDN,Growing fibre crops industry,HND,0.0,CMR,2013
+1065,IDN,Growing crops n.e.c. industry,HND,3.4970554439063174e-06,CMR,2013
+1066,IDN,Growing grapes industry,HND,0.0,CMR,2013
+1067,IDN,Growing fruits and nuts industry,HND,3.25174395309208e-07,CMR,2013
+1068,IDN,"Growing beverage crops (coffee, tea etc) industry",HND,9.278758397265689e-08,CMR,2013
+1069,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,2.9301829079818195e-06,CMR,2013
+1070,IDN,Seeds and plant propagation industry,HND,0.0,CMR,2013
+1071,IDN,Raising of cattle industry,HND,3.4351078029391928e-06,CMR,2013
+1072,IDN,Growing wheat industry,HKG,0.0,CMR,2013
+1073,IDN,Growing maize industry,HKG,8.42331313322534e-05,CMR,2013
+1074,IDN,Growing cereals n.e.c industry,HKG,0.0,CMR,2013
+1075,IDN,Growing leguminous crops and oil seeds industry,HKG,0.002535192084894486,CMR,2013
+1076,IDN,Growing rice industry,HKG,1.0495906958382243e-07,CMR,2013
+1077,IDN,"Growing vegetables, roots, tubers industry",HKG,0.0,CMR,2013
+1078,IDN,Growing sugar beet and cane industry,HKG,4.6547321258060505e-05,CMR,2013
+1079,IDN,Growing tobacco industry,HKG,1.9077436094940406e-05,CMR,2013
+1080,IDN,Growing fibre crops industry,HKG,0.0,CMR,2013
+1081,IDN,Growing crops n.e.c. industry,HKG,0.00011006351252137977,CMR,2013
+1082,IDN,Growing grapes industry,HKG,0.0,CMR,2013
+1083,IDN,Growing fruits and nuts industry,HKG,1.3827493134776664e-05,CMR,2013
+1084,IDN,"Growing beverage crops (coffee, tea etc) industry",HKG,3.403553078511688e-06,CMR,2013
+1085,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,0.0001145757516239379,CMR,2013
+1086,IDN,Seeds and plant propagation industry,HKG,0.0,CMR,2013
+1087,IDN,Raising of cattle industry,HKG,0.00012840925338114342,CMR,2013
+1088,IDN,Growing wheat industry,HRV,0.0,CMR,2013
+1089,IDN,Growing maize industry,HRV,5.5252552923613395e-06,CMR,2013
+1090,IDN,Growing cereals n.e.c industry,HRV,0.0,CMR,2013
+1091,IDN,Growing leguminous crops and oil seeds industry,HRV,0.0001375227137284006,CMR,2013
+1092,IDN,Growing rice industry,HRV,6.004943551965403e-09,CMR,2013
+1093,IDN,"Growing vegetables, roots, tubers industry",HRV,0.0,CMR,2013
+1094,IDN,Growing sugar beet and cane industry,HRV,3.071856870516436e-06,CMR,2013
+1095,IDN,Growing tobacco industry,HRV,8.326540227389115e-07,CMR,2013
+1096,IDN,Growing fibre crops industry,HRV,0.0,CMR,2013
+1097,IDN,Growing crops n.e.c. industry,HRV,6.434709541399667e-06,CMR,2013
+1098,IDN,Growing grapes industry,HRV,0.0,CMR,2013
+1099,IDN,Growing fruits and nuts industry,HRV,8.912459726717812e-07,CMR,2013
+1100,IDN,"Growing beverage crops (coffee, tea etc) industry",HRV,1.8310381473600473e-07,CMR,2013
+1101,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,6.212870876565069e-06,CMR,2013
+1102,IDN,Seeds and plant propagation industry,HRV,0.0,CMR,2013
+1103,IDN,Raising of cattle industry,HRV,9.259539519666778e-06,CMR,2013
+1104,IDN,Growing wheat industry,HTI,0.0,CMR,2013
+1105,IDN,Growing maize industry,HTI,7.517768109873754e-07,CMR,2013
+1106,IDN,Growing cereals n.e.c industry,HTI,0.0,CMR,2013
+1107,IDN,Growing leguminous crops and oil seeds industry,HTI,2.053246242932621e-05,CMR,2013
+1108,IDN,Growing rice industry,HTI,8.587998387544892e-10,CMR,2013
+1109,IDN,"Growing vegetables, roots, tubers industry",HTI,0.0,CMR,2013
+1110,IDN,Growing sugar beet and cane industry,HTI,4.1107265770032006e-07,CMR,2013
+1111,IDN,Growing tobacco industry,HTI,1.3544712916058336e-07,CMR,2013
+1112,IDN,Growing fibre crops industry,HTI,0.0,CMR,2013
+1113,IDN,Growing crops n.e.c. industry,HTI,9.382514077432945e-07,CMR,2013
+1114,IDN,Growing grapes industry,HTI,0.0,CMR,2013
+1115,IDN,Growing fruits and nuts industry,HTI,1.1497985535154124e-07,CMR,2013
+1116,IDN,"Growing beverage crops (coffee, tea etc) industry",HTI,2.7499328472300538e-08,CMR,2013
+1117,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,9.149762373203328e-07,CMR,2013
+1118,IDN,Seeds and plant propagation industry,HTI,0.0,CMR,2013
+1119,IDN,Raising of cattle industry,HTI,1.1619717489993962e-06,CMR,2013
+1120,IDN,Growing wheat industry,HUN,0.0,CMR,2013
+1121,IDN,Growing maize industry,HUN,2.352913776364646e-05,CMR,2013
+1122,IDN,Growing cereals n.e.c industry,HUN,0.0,CMR,2013
+1123,IDN,Growing leguminous crops and oil seeds industry,HUN,0.000537867187422242,CMR,2013
+1124,IDN,Growing rice industry,HUN,2.498552958760792e-08,CMR,2013
+1125,IDN,"Growing vegetables, roots, tubers industry",HUN,0.0,CMR,2013
+1126,IDN,Growing sugar beet and cane industry,HUN,1.29874903527999e-05,CMR,2013
+1127,IDN,Growing tobacco industry,HUN,3.7317033389237684e-06,CMR,2013
+1128,IDN,Growing fibre crops industry,HUN,0.0,CMR,2013
+1129,IDN,Growing crops n.e.c. industry,HUN,2.393362613020203e-05,CMR,2013
+1130,IDN,Growing grapes industry,HUN,0.0,CMR,2013
+1131,IDN,Growing fruits and nuts industry,HUN,4.102331744377478e-06,CMR,2013
+1132,IDN,"Growing beverage crops (coffee, tea etc) industry",HUN,7.318222434964117e-07,CMR,2013
+1133,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,2.4875319993333553e-05,CMR,2013
+1134,IDN,Seeds and plant propagation industry,HUN,0.0,CMR,2013
+1135,IDN,Raising of cattle industry,HUN,3.989745934659773e-05,CMR,2013
+1136,IDN,Growing wheat industry,IDN,0.0,CMR,2013
+1137,IDN,Growing maize industry,IDN,0.0001315113147423112,CMR,2013
+1138,IDN,Growing cereals n.e.c industry,IDN,0.0,CMR,2013
+1139,IDN,Growing leguminous crops and oil seeds industry,IDN,0.0030484337524581263,CMR,2013
+1140,IDN,Growing rice industry,IDN,1.4325456639852107e-07,CMR,2013
+1141,IDN,"Growing vegetables, roots, tubers industry",IDN,0.0,CMR,2013
+1142,IDN,Growing sugar beet and cane industry,IDN,7.229075867349259e-05,CMR,2013
+1143,IDN,Growing tobacco industry,IDN,2.2107662587154933e-05,CMR,2013
+1144,IDN,Growing fibre crops industry,IDN,0.0,CMR,2013
+1145,IDN,Growing crops n.e.c. industry,IDN,0.00013762504766223936,CMR,2013
+1146,IDN,Growing grapes industry,IDN,0.0,CMR,2013
+1147,IDN,Growing fruits and nuts industry,IDN,2.200475171093546e-05,CMR,2013
+1148,IDN,"Growing beverage crops (coffee, tea etc) industry",IDN,4.381718147420418e-06,CMR,2013
+1149,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,0.00014612887644190436,CMR,2013
+1150,IDN,Seeds and plant propagation industry,IDN,0.0,CMR,2013
+1151,IDN,Raising of cattle industry,IDN,0.00021917498082815504,CMR,2013
+1152,IDN,Growing wheat industry,IND,0.0,CMR,2013
+1153,IDN,Growing maize industry,IND,0.00014907991903165757,CMR,2013
+1154,IDN,Growing cereals n.e.c industry,IND,0.0,CMR,2013
+1155,IDN,Growing leguminous crops and oil seeds industry,IND,0.005289981957225268,CMR,2013
+1156,IDN,Growing rice industry,IND,2.141841086792902e-07,CMR,2013
+1157,IDN,"Growing vegetables, roots, tubers industry",IND,0.0,CMR,2013
+1158,IDN,Growing sugar beet and cane industry,IND,7.694499912339806e-05,CMR,2013
+1159,IDN,Growing tobacco industry,IND,4.0203069414086595e-05,CMR,2013
+1160,IDN,Growing fibre crops industry,IND,0.0,CMR,2013
+1161,IDN,Growing crops n.e.c. industry,IND,0.000207303433997757,CMR,2013
+1162,IDN,Growing grapes industry,IND,0.0,CMR,2013
+1163,IDN,Growing fruits and nuts industry,IND,2.3655735351437528e-05,CMR,2013
+1164,IDN,"Growing beverage crops (coffee, tea etc) industry",IND,8.008762597257625e-06,CMR,2013
+1165,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,0.00023269216142339776,CMR,2013
+1166,IDN,Seeds and plant propagation industry,IND,0.0,CMR,2013
+1167,IDN,Raising of cattle industry,IND,0.00019610055822012816,CMR,2013
+1168,IDN,Growing wheat industry,IRL,0.0,CMR,2013
+1169,IDN,Growing maize industry,IRL,4.122537914642325e-05,CMR,2013
+1170,IDN,Growing cereals n.e.c industry,IRL,0.0,CMR,2013
+1171,IDN,Growing leguminous crops and oil seeds industry,IRL,0.001071419389902933,CMR,2013
+1172,IDN,Growing rice industry,IRL,4.452586023742656e-08,CMR,2013
+1173,IDN,"Growing vegetables, roots, tubers industry",IRL,0.0,CMR,2013
+1174,IDN,Growing sugar beet and cane industry,IRL,2.2891391103487637e-05,CMR,2013
+1175,IDN,Growing tobacco industry,IRL,6.433219522225152e-06,CMR,2013
+1176,IDN,Growing fibre crops industry,IRL,0.0,CMR,2013
+1177,IDN,Growing crops n.e.c. industry,IRL,4.026697398593954e-05,CMR,2013
+1178,IDN,Growing grapes industry,IRL,0.0,CMR,2013
+1179,IDN,Growing fruits and nuts industry,IRL,1.0396346506658016e-05,CMR,2013
+1180,IDN,"Growing beverage crops (coffee, tea etc) industry",IRL,1.2751284272439037e-06,CMR,2013
+1181,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,5.0030663308963806e-05,CMR,2013
+1182,IDN,Seeds and plant propagation industry,IRL,0.0,CMR,2013
+1183,IDN,Raising of cattle industry,IRL,5.783914655480773e-05,CMR,2013
+1184,IDN,Growing wheat industry,IRN,0.0,CMR,2013
+1185,IDN,Growing maize industry,IRN,3.8702897800393765e-05,CMR,2013
+1186,IDN,Growing cereals n.e.c industry,IRN,0.0,CMR,2013
+1187,IDN,Growing leguminous crops and oil seeds industry,IRN,0.0011175216133719142,CMR,2013
+1188,IDN,Growing rice industry,IRN,5.3298017252917474e-08,CMR,2013
+1189,IDN,"Growing vegetables, roots, tubers industry",IRN,0.0,CMR,2013
+1190,IDN,Growing sugar beet and cane industry,IRN,2.0975165142417975e-05,CMR,2013
+1191,IDN,Growing tobacco industry,IRN,1.2285367339480769e-05,CMR,2013
+1192,IDN,Growing fibre crops industry,IRN,0.0,CMR,2013
+1193,IDN,Growing crops n.e.c. industry,IRN,4.966748058547827e-05,CMR,2013
+1194,IDN,Growing grapes industry,IRN,0.0,CMR,2013
+1195,IDN,Growing fruits and nuts industry,IRN,5.419942072502222e-06,CMR,2013
+1196,IDN,"Growing beverage crops (coffee, tea etc) industry",IRN,1.9998109211368704e-06,CMR,2013
+1197,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,4.8890910695791634e-05,CMR,2013
+1198,IDN,Seeds and plant propagation industry,IRN,0.0,CMR,2013
+1199,IDN,Raising of cattle industry,IRN,4.625106354488703e-05,CMR,2013
+1200,IDN,Growing wheat industry,IRQ,0.0,CMR,2013
+1201,IDN,Growing maize industry,IRQ,1.7436866523582516e-05,CMR,2013
+1202,IDN,Growing cereals n.e.c industry,IRQ,0.0,CMR,2013
+1203,IDN,Growing leguminous crops and oil seeds industry,IRQ,0.0004670161436316817,CMR,2013
+1204,IDN,Growing rice industry,IRQ,2.1422692393989994e-08,CMR,2013
+1205,IDN,"Growing vegetables, roots, tubers industry",IRQ,0.0,CMR,2013
+1206,IDN,Growing sugar beet and cane industry,IRQ,9.509414297677313e-06,CMR,2013
+1207,IDN,Growing tobacco industry,IRQ,4.3698002698220185e-06,CMR,2013
+1208,IDN,Growing fibre crops industry,IRQ,0.0,CMR,2013
+1209,IDN,Growing crops n.e.c. industry,IRQ,2.0701248217439137e-05,CMR,2013
+1210,IDN,Growing grapes industry,IRQ,0.0,CMR,2013
+1211,IDN,Growing fruits and nuts industry,IRQ,2.4648195897781657e-06,CMR,2013
+1212,IDN,"Growing beverage crops (coffee, tea etc) industry",IRQ,7.667110092639189e-07,CMR,2013
+1213,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,2.0344826446845438e-05,CMR,2013
+1214,IDN,Seeds and plant propagation industry,IRQ,0.0,CMR,2013
+1215,IDN,Raising of cattle industry,IRQ,2.140469044843836e-05,CMR,2013
+1216,IDN,Growing wheat industry,ISL,0.0,CMR,2013
+1217,IDN,Growing maize industry,ISL,1.2986261835319375e-06,CMR,2013
+1218,IDN,Growing cereals n.e.c industry,ISL,0.0,CMR,2013
+1219,IDN,Growing leguminous crops and oil seeds industry,ISL,3.174343448167095e-05,CMR,2013
+1220,IDN,Growing rice industry,ISL,1.4237786331489617e-09,CMR,2013
+1221,IDN,"Growing vegetables, roots, tubers industry",ISL,0.0,CMR,2013
+1222,IDN,Growing sugar beet and cane industry,ISL,7.150330009627912e-07,CMR,2013
+1223,IDN,Growing tobacco industry,ISL,2.1912884120556405e-07,CMR,2013
+1224,IDN,Growing fibre crops industry,ISL,0.0,CMR,2013
+1225,IDN,Growing crops n.e.c. industry,ISL,1.4533178677220596e-06,CMR,2013
+1226,IDN,Growing grapes industry,ISL,0.0,CMR,2013
+1227,IDN,Growing fruits and nuts industry,ISL,2.0579428274678857e-07,CMR,2013
+1228,IDN,"Growing beverage crops (coffee, tea etc) industry",ISL,4.380159126827663e-08,CMR,2013
+1229,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,1.4598725535918141e-06,CMR,2013
+1230,IDN,Seeds and plant propagation industry,ISL,0.0,CMR,2013
+1231,IDN,Raising of cattle industry,ISL,2.105233175597572e-06,CMR,2013
+1232,IDN,Growing wheat industry,ISR,0.0,CMR,2013
+1233,IDN,Growing maize industry,ISR,1.8034168585806516e-05,CMR,2013
+1234,IDN,Growing cereals n.e.c industry,ISR,0.0,CMR,2013
+1235,IDN,Growing leguminous crops and oil seeds industry,ISR,0.0004759959331117573,CMR,2013
+1236,IDN,Growing rice industry,ISR,2.1169483534962717e-08,CMR,2013
+1237,IDN,"Growing vegetables, roots, tubers industry",ISR,0.0,CMR,2013
+1238,IDN,Growing sugar beet and cane industry,ISR,9.824281583580344e-06,CMR,2013
+1239,IDN,Growing tobacco industry,ISR,3.2921528206943366e-06,CMR,2013
+1240,IDN,Growing fibre crops industry,ISR,0.0,CMR,2013
+1241,IDN,Growing crops n.e.c. industry,ISR,1.938456376534868e-05,CMR,2013
+1242,IDN,Growing grapes industry,ISR,0.0,CMR,2013
+1243,IDN,Growing fruits and nuts industry,ISR,3.4150971231361847e-06,CMR,2013
+1244,IDN,"Growing beverage crops (coffee, tea etc) industry",ISR,6.383956799430637e-07,CMR,2013
+1245,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,2.3694423831927952e-05,CMR,2013
+1246,IDN,Seeds and plant propagation industry,ISR,0.0,CMR,2013
+1247,IDN,Raising of cattle industry,ISR,2.4583042329367216e-05,CMR,2013
+1248,IDN,Growing wheat industry,ITA,0.0,CMR,2013
+1249,IDN,Growing maize industry,ITA,0.0002715867124788774,CMR,2013
+1250,IDN,Growing cereals n.e.c industry,ITA,0.0,CMR,2013
+1251,IDN,Growing leguminous crops and oil seeds industry,ITA,0.007250699591307748,CMR,2013
+1252,IDN,Growing rice industry,ITA,3.217984087034529e-07,CMR,2013
+1253,IDN,"Growing vegetables, roots, tubers industry",ITA,0.0,CMR,2013
+1254,IDN,Growing sugar beet and cane industry,ITA,0.00015172995778843724,CMR,2013
+1255,IDN,Growing tobacco industry,ITA,4.494868198432118e-05,CMR,2013
+1256,IDN,Growing fibre crops industry,ITA,0.0,CMR,2013
+1257,IDN,Growing crops n.e.c. industry,ITA,0.0003012711305038875,CMR,2013
+1258,IDN,Growing grapes industry,ITA,0.0,CMR,2013
+1259,IDN,Growing fruits and nuts industry,ITA,7.038428368346792e-05,CMR,2013
+1260,IDN,"Growing beverage crops (coffee, tea etc) industry",ITA,1.0221740547265494e-05,CMR,2013
+1261,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,0.00035530885323990997,CMR,2013
+1262,IDN,Seeds and plant propagation industry,ITA,0.0,CMR,2013
+1263,IDN,Raising of cattle industry,ITA,0.00036962975771695104,CMR,2013
+1264,IDN,Growing wheat industry,JAM,0.0,CMR,2013
+1265,IDN,Growing maize industry,JAM,7.563860705466735e-07,CMR,2013
+1266,IDN,Growing cereals n.e.c industry,JAM,0.0,CMR,2013
+1267,IDN,Growing leguminous crops and oil seeds industry,JAM,2.4883549816525708e-05,CMR,2013
+1268,IDN,Growing rice industry,JAM,9.352421319581495e-10,CMR,2013
+1269,IDN,"Growing vegetables, roots, tubers industry",JAM,0.0,CMR,2013
+1270,IDN,Growing sugar beet and cane industry,JAM,4.0741242515830953e-07,CMR,2013
+1271,IDN,Growing tobacco industry,JAM,1.590718162294973e-07,CMR,2013
+1272,IDN,Growing fibre crops industry,JAM,0.0,CMR,2013
+1273,IDN,Growing crops n.e.c. industry,JAM,9.451558376787714e-07,CMR,2013
+1274,IDN,Growing grapes industry,JAM,0.0,CMR,2013
+1275,IDN,Growing fruits and nuts industry,JAM,1.2087952049505858e-07,CMR,2013
+1276,IDN,"Growing beverage crops (coffee, tea etc) industry",JAM,3.137766679755845e-08,CMR,2013
+1277,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,1.0743130270723152e-06,CMR,2013
+1278,IDN,Seeds and plant propagation industry,JAM,0.0,CMR,2013
+1279,IDN,Raising of cattle industry,JAM,9.600080171680654e-07,CMR,2013
+1280,IDN,Growing wheat industry,JOR,0.0,CMR,2013
+1281,IDN,Growing maize industry,JOR,4.154794214236183e-06,CMR,2013
+1282,IDN,Growing cereals n.e.c industry,JOR,0.0,CMR,2013
+1283,IDN,Growing leguminous crops and oil seeds industry,JOR,0.00010088851318023359,CMR,2013
+1284,IDN,Growing rice industry,JOR,4.6194605380195026e-09,CMR,2013
+1285,IDN,"Growing vegetables, roots, tubers industry",JOR,0.0,CMR,2013
+1286,IDN,Growing sugar beet and cane industry,JOR,2.295795585401846e-06,CMR,2013
+1287,IDN,Growing tobacco industry,JOR,6.791393029828554e-07,CMR,2013
+1288,IDN,Growing fibre crops industry,JOR,0.0,CMR,2013
+1289,IDN,Growing crops n.e.c. industry,JOR,3.760834694225473e-06,CMR,2013
+1290,IDN,Growing grapes industry,JOR,0.0,CMR,2013
+1291,IDN,Growing fruits and nuts industry,JOR,1.5084963187531608e-06,CMR,2013
+1292,IDN,"Growing beverage crops (coffee, tea etc) industry",JOR,1.3198768995608702e-07,CMR,2013
+1293,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,5.518331457401247e-06,CMR,2013
+1294,IDN,Seeds and plant propagation industry,JOR,0.0,CMR,2013
+1295,IDN,Raising of cattle industry,JOR,4.414180910246479e-06,CMR,2013
+1296,IDN,Growing wheat industry,JPN,0.0,CMR,2013
+1297,IDN,Growing maize industry,JPN,0.0002985973833721793,CMR,2013
+1298,IDN,Growing cereals n.e.c industry,JPN,0.0,CMR,2013
+1299,IDN,Growing leguminous crops and oil seeds industry,JPN,0.008207273399456786,CMR,2013
+1300,IDN,Growing rice industry,JPN,3.852742194009282e-07,CMR,2013
+1301,IDN,"Growing vegetables, roots, tubers industry",JPN,0.0,CMR,2013
+1302,IDN,Growing sugar beet and cane industry,JPN,0.00016541141334223006,CMR,2013
+1303,IDN,Growing tobacco industry,JPN,8.279317054772112e-05,CMR,2013
+1304,IDN,Growing fibre crops industry,JPN,0.0,CMR,2013
+1305,IDN,Growing crops n.e.c. industry,JPN,0.00037936069605341074,CMR,2013
+1306,IDN,Growing grapes industry,JPN,0.0,CMR,2013
+1307,IDN,Growing fruits and nuts industry,JPN,3.982365850370593e-05,CMR,2013
+1308,IDN,"Growing beverage crops (coffee, tea etc) industry",JPN,1.4019554805215391e-05,CMR,2013
+1309,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,0.0003577040460769788,CMR,2013
+1310,IDN,Seeds and plant propagation industry,JPN,0.0,CMR,2013
+1311,IDN,Raising of cattle industry,JPN,0.000406125224475992,CMR,2013
+1312,IDN,Growing wheat industry,KAZ,0.0,CMR,2013
+1313,IDN,Growing maize industry,KAZ,6.236329708721833e-06,CMR,2013
+1314,IDN,Growing cereals n.e.c industry,KAZ,0.0,CMR,2013
+1315,IDN,Growing leguminous crops and oil seeds industry,KAZ,0.00016754326060058124,CMR,2013
+1316,IDN,Growing rice industry,KAZ,7.59533664472592e-09,CMR,2013
+1317,IDN,"Growing vegetables, roots, tubers industry",KAZ,0.0,CMR,2013
+1318,IDN,Growing sugar beet and cane industry,KAZ,3.40956564342541e-06,CMR,2013
+1319,IDN,Growing tobacco industry,KAZ,1.470748592061938e-06,CMR,2013
+1320,IDN,Growing fibre crops industry,KAZ,0.0,CMR,2013
+1321,IDN,Growing crops n.e.c. industry,KAZ,8.703575636650613e-06,CMR,2013
+1322,IDN,Growing grapes industry,KAZ,0.0,CMR,2013
+1323,IDN,Growing fruits and nuts industry,KAZ,9.04672074413051e-07,CMR,2013
+1324,IDN,"Growing beverage crops (coffee, tea etc) industry",KAZ,2.770815430779992e-07,CMR,2013
+1325,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,7.491691205576995e-06,CMR,2013
+1326,IDN,Seeds and plant propagation industry,KAZ,0.0,CMR,2013
+1327,IDN,Raising of cattle industry,KAZ,8.764294467431443e-06,CMR,2013
+1328,IDN,Growing wheat industry,KEN,0.0,CMR,2013
+1329,IDN,Growing maize industry,KEN,1.0239253603493348e-05,CMR,2013
+1330,IDN,Growing cereals n.e.c industry,KEN,0.0,CMR,2013
+1331,IDN,Growing leguminous crops and oil seeds industry,KEN,0.0003747628078045167,CMR,2013
+1332,IDN,Growing rice industry,KEN,1.4887507475193372e-08,CMR,2013
+1333,IDN,"Growing vegetables, roots, tubers industry",KEN,0.0,CMR,2013
+1334,IDN,Growing sugar beet and cane industry,KEN,5.564918187299292e-06,CMR,2013
+1335,IDN,Growing tobacco industry,KEN,2.735907693798507e-06,CMR,2013
+1336,IDN,Growing fibre crops industry,KEN,0.0,CMR,2013
+1337,IDN,Growing crops n.e.c. industry,KEN,1.3431277129522051e-05,CMR,2013
+1338,IDN,Growing grapes industry,KEN,0.0,CMR,2013
+1339,IDN,Growing fruits and nuts industry,KEN,2.016508526200188e-06,CMR,2013
+1340,IDN,"Growing beverage crops (coffee, tea etc) industry",KEN,4.7132963351872363e-07,CMR,2013
+1341,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,1.6855774403478267e-05,CMR,2013
+1342,IDN,Seeds and plant propagation industry,KEN,0.0,CMR,2013
+1343,IDN,Raising of cattle industry,KEN,1.1754077721211275e-05,CMR,2013
+1344,IDN,Growing wheat industry,KGZ,0.0,CMR,2013
+1345,IDN,Growing maize industry,KGZ,2.1403563176887396e-06,CMR,2013
+1346,IDN,Growing cereals n.e.c industry,KGZ,0.0,CMR,2013
+1347,IDN,Growing leguminous crops and oil seeds industry,KGZ,0.00011292863494573035,CMR,2013
+1348,IDN,Growing rice industry,KGZ,3.6123446821072456e-09,CMR,2013
+1349,IDN,"Growing vegetables, roots, tubers industry",KGZ,0.0,CMR,2013
+1350,IDN,Growing sugar beet and cane industry,KGZ,1.0341200151836002e-06,CMR,2013
+1351,IDN,Growing tobacco industry,KGZ,7.282969967051357e-07,CMR,2013
+1352,IDN,Growing fibre crops industry,KGZ,0.0,CMR,2013
+1353,IDN,Growing crops n.e.c. industry,KGZ,3.008656125736813e-06,CMR,2013
+1354,IDN,Growing grapes industry,KGZ,0.0,CMR,2013
+1355,IDN,Growing fruits and nuts industry,KGZ,5.400717339865186e-07,CMR,2013
+1356,IDN,"Growing beverage crops (coffee, tea etc) industry",KGZ,1.419752812573166e-07,CMR,2013
+1357,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,5.1498955821397095e-06,CMR,2013
+1358,IDN,Seeds and plant propagation industry,KGZ,0.0,CMR,2013
+1359,IDN,Raising of cattle industry,KGZ,2.678724047540747e-06,CMR,2013
+1360,IDN,Growing wheat industry,KHM,0.0,CMR,2013
+1361,IDN,Growing maize industry,KHM,3.247586112852136e-06,CMR,2013
+1362,IDN,Growing cereals n.e.c industry,KHM,0.0,CMR,2013
+1363,IDN,Growing leguminous crops and oil seeds industry,KHM,9.1933512768446e-05,CMR,2013
+1364,IDN,Growing rice industry,KHM,3.736544071919429e-09,CMR,2013
+1365,IDN,"Growing vegetables, roots, tubers industry",KHM,0.0,CMR,2013
+1366,IDN,Growing sugar beet and cane industry,KHM,1.7929477432337587e-06,CMR,2013
+1367,IDN,Growing tobacco industry,KHM,6.383821206312619e-07,CMR,2013
+1368,IDN,Growing fibre crops industry,KHM,0.0,CMR,2013
+1369,IDN,Growing crops n.e.c. industry,KHM,4.299628403210629e-06,CMR,2013
+1370,IDN,Growing grapes industry,KHM,0.0,CMR,2013
+1371,IDN,Growing fruits and nuts industry,KHM,4.854844866347278e-07,CMR,2013
+1372,IDN,"Growing beverage crops (coffee, tea etc) industry",KHM,1.279305922675539e-07,CMR,2013
+1373,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,3.873691950681136e-06,CMR,2013
+1374,IDN,Seeds and plant propagation industry,KHM,0.0,CMR,2013
+1375,IDN,Raising of cattle industry,KHM,4.229742733657369e-06,CMR,2013
+1376,IDN,Growing wheat industry,KOR,0.0,CMR,2013
+1377,IDN,Growing maize industry,KOR,0.0006636376561509285,CMR,2013
+1378,IDN,Growing cereals n.e.c industry,KOR,0.0,CMR,2013
+1379,IDN,Growing leguminous crops and oil seeds industry,KOR,0.015746832837690388,CMR,2013
+1380,IDN,Growing rice industry,KOR,8.618207414494057e-07,CMR,2013
+1381,IDN,"Growing vegetables, roots, tubers industry",KOR,0.0,CMR,2013
+1382,IDN,Growing sugar beet and cane industry,KOR,0.0003653980687341557,CMR,2013
+1383,IDN,Growing tobacco industry,KOR,0.0002453525069711874,CMR,2013
+1384,IDN,Growing fibre crops industry,KOR,0.0,CMR,2013
+1385,IDN,Growing crops n.e.c. industry,KOR,0.0006335243338996089,CMR,2013
+1386,IDN,Growing grapes industry,KOR,0.0,CMR,2013
+1387,IDN,Growing fruits and nuts industry,KOR,9.064940686422584e-05,CMR,2013
+1388,IDN,"Growing beverage crops (coffee, tea etc) industry",KOR,3.420653991839139e-05,CMR,2013
+1389,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,0.0005982000675806138,CMR,2013
+1390,IDN,Seeds and plant propagation industry,KOR,0.0,CMR,2013
+1391,IDN,Raising of cattle industry,KOR,0.00048296270863613293,CMR,2013
+1392,IDN,Growing wheat industry,KWT,0.0,CMR,2013
+1393,IDN,Growing maize industry,KWT,1.6987690894498735e-05,CMR,2013
+1394,IDN,Growing cereals n.e.c industry,KWT,0.0,CMR,2013
+1395,IDN,Growing leguminous crops and oil seeds industry,KWT,0.0004706372754332718,CMR,2013
+1396,IDN,Growing rice industry,KWT,2.22512573852464e-08,CMR,2013
+1397,IDN,"Growing vegetables, roots, tubers industry",KWT,0.0,CMR,2013
+1398,IDN,Growing sugar beet and cane industry,KWT,9.346779836587387e-06,CMR,2013
+1399,IDN,Growing tobacco industry,KWT,4.670257254672371e-06,CMR,2013
+1400,IDN,Growing fibre crops industry,KWT,0.0,CMR,2013
+1401,IDN,Growing crops n.e.c. industry,KWT,2.028349158993481e-05,CMR,2013
+1402,IDN,Growing grapes industry,KWT,0.0,CMR,2013
+1403,IDN,Growing fruits and nuts industry,KWT,2.7333351009508457e-06,CMR,2013
+1404,IDN,"Growing beverage crops (coffee, tea etc) industry",KWT,7.692600446596663e-07,CMR,2013
+1405,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,2.076808767804812e-05,CMR,2013
+1406,IDN,Seeds and plant propagation industry,KWT,0.0,CMR,2013
+1407,IDN,Raising of cattle industry,KWT,2.2186035243194113e-05,CMR,2013
+1408,IDN,Growing wheat industry,LAO,0.0,CMR,2013
+1409,IDN,Growing maize industry,LAO,1.4641702785659497e-05,CMR,2013
+1410,IDN,Growing cereals n.e.c industry,LAO,0.0,CMR,2013
+1411,IDN,Growing leguminous crops and oil seeds industry,LAO,0.0002233564807154654,CMR,2013
+1412,IDN,Growing rice industry,LAO,9.012166177566273e-09,CMR,2013
+1413,IDN,"Growing vegetables, roots, tubers industry",LAO,0.0,CMR,2013
+1414,IDN,Growing sugar beet and cane industry,LAO,8.035559551511501e-06,CMR,2013
+1415,IDN,Growing tobacco industry,LAO,8.544232396032413e-07,CMR,2013
+1416,IDN,Growing fibre crops industry,LAO,0.0,CMR,2013
+1417,IDN,Growing crops n.e.c. industry,LAO,6.008154872040479e-06,CMR,2013
+1418,IDN,Growing grapes industry,LAO,0.0,CMR,2013
+1419,IDN,Growing fruits and nuts industry,LAO,2.1277608038762886e-06,CMR,2013
+1420,IDN,"Growing beverage crops (coffee, tea etc) industry",LAO,2.58938548235261e-07,CMR,2013
+1421,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,7.1124863111766115e-06,CMR,2013
+1422,IDN,Seeds and plant propagation industry,LAO,0.0,CMR,2013
+1423,IDN,Raising of cattle industry,LAO,5.836639610682867e-06,CMR,2013
+1424,IDN,Growing wheat industry,LBN,0.0,CMR,2013
+1425,IDN,Growing maize industry,LBN,1.3114019355654983e-05,CMR,2013
+1426,IDN,Growing cereals n.e.c industry,LBN,0.0,CMR,2013
+1427,IDN,Growing leguminous crops and oil seeds industry,LBN,0.00033424727390339343,CMR,2013
+1428,IDN,Growing rice industry,LBN,1.4993553556500638e-08,CMR,2013
+1429,IDN,"Growing vegetables, roots, tubers industry",LBN,0.0,CMR,2013
+1430,IDN,Growing sugar beet and cane industry,LBN,7.321990676465585e-06,CMR,2013
+1431,IDN,Growing tobacco industry,LBN,1.8384692947116028e-06,CMR,2013
+1432,IDN,Growing fibre crops industry,LBN,0.0,CMR,2013
+1433,IDN,Growing crops n.e.c. industry,LBN,1.1450472897809069e-05,CMR,2013
+1434,IDN,Growing grapes industry,LBN,0.0,CMR,2013
+1435,IDN,Growing fruits and nuts industry,LBN,6.473497570820808e-06,CMR,2013
+1436,IDN,"Growing beverage crops (coffee, tea etc) industry",LBN,3.898507806861811e-07,CMR,2013
+1437,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,2.0434091213378716e-05,CMR,2013
+1438,IDN,Seeds and plant propagation industry,LBN,0.0,CMR,2013
+1439,IDN,Raising of cattle industry,LBN,1.335526545197489e-05,CMR,2013
+1440,IDN,Growing wheat industry,LBR,0.0,CMR,2013
+1441,IDN,Growing maize industry,LBR,6.977852362897339e-07,CMR,2013
+1442,IDN,Growing cereals n.e.c industry,LBR,0.0,CMR,2013
+1443,IDN,Growing leguminous crops and oil seeds industry,LBR,3.3973203443521105e-05,CMR,2013
+1444,IDN,Growing rice industry,LBR,1.176604595461123e-09,CMR,2013
+1445,IDN,"Growing vegetables, roots, tubers industry",LBR,0.0,CMR,2013
+1446,IDN,Growing sugar beet and cane industry,LBR,3.4057106920387225e-07,CMR,2013
+1447,IDN,Growing tobacco industry,LBR,2.57272235774004e-07,CMR,2013
+1448,IDN,Growing fibre crops industry,LBR,0.0,CMR,2013
+1449,IDN,Growing crops n.e.c. industry,LBR,1.0143488845379234e-06,CMR,2013
+1450,IDN,Growing grapes industry,LBR,0.0,CMR,2013
+1451,IDN,Growing fruits and nuts industry,LBR,1.24176498536098e-07,CMR,2013
+1452,IDN,"Growing beverage crops (coffee, tea etc) industry",LBR,4.749500873722572e-08,CMR,2013
+1453,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,1.5258091812942273e-06,CMR,2013
+1454,IDN,Seeds and plant propagation industry,LBR,0.0,CMR,2013
+1455,IDN,Raising of cattle industry,LBR,8.826324386521957e-07,CMR,2013
+1456,IDN,Growing wheat industry,LBY,0.0,CMR,2013
+1457,IDN,Growing maize industry,LBY,1.3211839485377e-05,CMR,2013
+1458,IDN,Growing cereals n.e.c industry,LBY,0.0,CMR,2013
+1459,IDN,Growing leguminous crops and oil seeds industry,LBY,0.00037050797303828033,CMR,2013
+1460,IDN,Growing rice industry,LBY,1.586759737669173e-08,CMR,2013
+1461,IDN,"Growing vegetables, roots, tubers industry",LBY,0.0,CMR,2013
+1462,IDN,Growing sugar beet and cane industry,LBY,7.2950503634756745e-06,CMR,2013
+1463,IDN,Growing tobacco industry,LBY,2.532656959140963e-06,CMR,2013
+1464,IDN,Growing fibre crops industry,LBY,0.0,CMR,2013
+1465,IDN,Growing crops n.e.c. industry,LBY,1.6149242292635883e-05,CMR,2013
+1466,IDN,Growing grapes industry,LBY,0.0,CMR,2013
+1467,IDN,Growing fruits and nuts industry,LBY,3.445139370677914e-06,CMR,2013
+1468,IDN,"Growing beverage crops (coffee, tea etc) industry",LBY,4.918597972441004e-07,CMR,2013
+1469,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,1.7698181968931076e-05,CMR,2013
+1470,IDN,Seeds and plant propagation industry,LBY,0.0,CMR,2013
+1471,IDN,Raising of cattle industry,LBY,1.7818331915540535e-05,CMR,2013
+1472,IDN,Growing wheat industry,LKA,0.0,CMR,2013
+1473,IDN,Growing maize industry,LKA,5.363418066247784e-06,CMR,2013
+1474,IDN,Growing cereals n.e.c industry,LKA,0.0,CMR,2013
+1475,IDN,Growing leguminous crops and oil seeds industry,LKA,0.00019697509543715344,CMR,2013
+1476,IDN,Growing rice industry,LKA,7.418719000725884e-09,CMR,2013
+1477,IDN,"Growing vegetables, roots, tubers industry",LKA,0.0,CMR,2013
+1478,IDN,Growing sugar beet and cane industry,LKA,2.8677717181163467e-06,CMR,2013
+1479,IDN,Growing tobacco industry,LKA,1.298516684082775e-06,CMR,2013
+1480,IDN,Growing fibre crops industry,LKA,0.0,CMR,2013
+1481,IDN,Growing crops n.e.c. industry,LKA,7.158182054195022e-06,CMR,2013
+1482,IDN,Growing grapes industry,LKA,0.0,CMR,2013
+1483,IDN,Growing fruits and nuts industry,LKA,9.709473554120807e-07,CMR,2013
+1484,IDN,"Growing beverage crops (coffee, tea etc) industry",LKA,2.458258744384007e-07,CMR,2013
+1485,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,9.130579463781162e-06,CMR,2013
+1486,IDN,Seeds and plant propagation industry,LKA,0.0,CMR,2013
+1487,IDN,Raising of cattle industry,LKA,6.803203738385985e-06,CMR,2013
+1488,IDN,Growing wheat industry,LTU,0.0,CMR,2013
+1489,IDN,Growing maize industry,LTU,7.07996357413756e-06,CMR,2013
+1490,IDN,Growing cereals n.e.c industry,LTU,0.0,CMR,2013
+1491,IDN,Growing leguminous crops and oil seeds industry,LTU,0.00015994601945427985,CMR,2013
+1492,IDN,Growing rice industry,LTU,7.130337582830792e-09,CMR,2013
+1493,IDN,"Growing vegetables, roots, tubers industry",LTU,0.0,CMR,2013
+1494,IDN,Growing sugar beet and cane industry,LTU,3.910109335439976e-06,CMR,2013
+1495,IDN,Growing tobacco industry,LTU,9.122148852810643e-07,CMR,2013
+1496,IDN,Growing fibre crops industry,LTU,0.0,CMR,2013
+1497,IDN,Growing crops n.e.c. industry,LTU,7.165367050212367e-06,CMR,2013
+1498,IDN,Growing grapes industry,LTU,0.0,CMR,2013
+1499,IDN,Growing fruits and nuts industry,LTU,1.2043335818883874e-06,CMR,2013
+1500,IDN,"Growing beverage crops (coffee, tea etc) industry",LTU,1.9890637302148134e-07,CMR,2013
+1501,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,7.5802895406710574e-06,CMR,2013
+1502,IDN,Seeds and plant propagation industry,LTU,0.0,CMR,2013
+1503,IDN,Raising of cattle industry,LTU,1.241296234983079e-05,CMR,2013
+1504,IDN,Growing wheat industry,LUX,0.0,CMR,2013
+1505,IDN,Growing maize industry,LUX,1.4877173242361293e-05,CMR,2013
+1506,IDN,Growing cereals n.e.c industry,LUX,0.0,CMR,2013
+1507,IDN,Growing leguminous crops and oil seeds industry,LUX,0.00036878945657464117,CMR,2013
+1508,IDN,Growing rice industry,LUX,1.4633635911517033e-08,CMR,2013
+1509,IDN,"Growing vegetables, roots, tubers industry",LUX,0.0,CMR,2013
+1510,IDN,Growing sugar beet and cane industry,LUX,8.453434440766394e-06,CMR,2013
+1511,IDN,Growing tobacco industry,LUX,1.8532321349823594e-06,CMR,2013
+1512,IDN,Growing fibre crops industry,LUX,0.0,CMR,2013
+1513,IDN,Growing crops n.e.c. industry,LUX,1.5336796550962865e-05,CMR,2013
+1514,IDN,Growing grapes industry,LUX,0.0,CMR,2013
+1515,IDN,Growing fruits and nuts industry,LUX,2.143292275375918e-06,CMR,2013
+1516,IDN,"Growing beverage crops (coffee, tea etc) industry",LUX,4.0199094985954597e-07,CMR,2013
+1517,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,1.69759110575888e-05,CMR,2013
+1518,IDN,Seeds and plant propagation industry,LUX,0.0,CMR,2013
+1519,IDN,Raising of cattle industry,LUX,2.0029406830088126e-05,CMR,2013
+1520,IDN,Growing wheat industry,LVA,0.0,CMR,2013
+1521,IDN,Growing maize industry,LVA,4.95474429175231e-06,CMR,2013
+1522,IDN,Growing cereals n.e.c industry,LVA,0.0,CMR,2013
+1523,IDN,Growing leguminous crops and oil seeds industry,LVA,0.00010453283281188569,CMR,2013
+1524,IDN,Growing rice industry,LVA,4.894704118432602e-09,CMR,2013
+1525,IDN,"Growing vegetables, roots, tubers industry",LVA,0.0,CMR,2013
+1526,IDN,Growing sugar beet and cane industry,LVA,2.7485058256098937e-06,CMR,2013
+1527,IDN,Growing tobacco industry,LVA,5.89356481518191e-07,CMR,2013
+1528,IDN,Growing fibre crops industry,LVA,0.0,CMR,2013
+1529,IDN,Growing crops n.e.c. industry,LVA,4.795747308631157e-06,CMR,2013
+1530,IDN,Growing grapes industry,LVA,0.0,CMR,2013
+1531,IDN,Growing fruits and nuts industry,LVA,8.558614574631254e-07,CMR,2013
+1532,IDN,"Growing beverage crops (coffee, tea etc) industry",LVA,1.2962739085511903e-07,CMR,2013
+1533,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,5.23899469599068e-06,CMR,2013
+1534,IDN,Seeds and plant propagation industry,LVA,0.0,CMR,2013
+1535,IDN,Raising of cattle industry,LVA,8.778169024874527e-06,CMR,2013
+1536,IDN,Growing wheat industry,MAR,0.0,CMR,2013
+1537,IDN,Growing maize industry,MAR,4.629513652765961e-05,CMR,2013
+1538,IDN,Growing cereals n.e.c industry,MAR,0.0,CMR,2013
+1539,IDN,Growing leguminous crops and oil seeds industry,MAR,0.0014288076911171952,CMR,2013
+1540,IDN,Growing rice industry,MAR,5.169649442989795e-08,CMR,2013
+1541,IDN,"Growing vegetables, roots, tubers industry",MAR,0.0,CMR,2013
+1542,IDN,Growing sugar beet and cane industry,MAR,2.57285797830611e-05,CMR,2013
+1543,IDN,Growing tobacco industry,MAR,6.621045690615082e-06,CMR,2013
+1544,IDN,Growing fibre crops industry,MAR,0.0,CMR,2013
+1545,IDN,Growing crops n.e.c. industry,MAR,5.8998314298412945e-05,CMR,2013
+1546,IDN,Growing grapes industry,MAR,0.0,CMR,2013
+1547,IDN,Growing fruits and nuts industry,MAR,1.1378756295196242e-05,CMR,2013
+1548,IDN,"Growing beverage crops (coffee, tea etc) industry",MAR,1.4980846747155575e-06,CMR,2013
+1549,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,5.96073500640758e-05,CMR,2013
+1550,IDN,Seeds and plant propagation industry,MAR,0.0,CMR,2013
+1551,IDN,Raising of cattle industry,MAR,6.717864427306167e-05,CMR,2013
+1552,IDN,Growing wheat industry,MDA,0.0,CMR,2013
+1553,IDN,Growing maize industry,MDA,1.1061514409691456e-06,CMR,2013
+1554,IDN,Growing cereals n.e.c industry,MDA,0.0,CMR,2013
+1555,IDN,Growing leguminous crops and oil seeds industry,MDA,3.2729597433930524e-05,CMR,2013
+1556,IDN,Growing rice industry,MDA,1.180349868566566e-09,CMR,2013
+1557,IDN,"Growing vegetables, roots, tubers industry",MDA,0.0,CMR,2013
+1558,IDN,Growing sugar beet and cane industry,MDA,6.146367399847616e-07,CMR,2013
+1559,IDN,Growing tobacco industry,MDA,1.504287735139794e-07,CMR,2013
+1560,IDN,Growing fibre crops industry,MDA,0.0,CMR,2013
+1561,IDN,Growing crops n.e.c. industry,MDA,1.0464639794087592e-06,CMR,2013
+1562,IDN,Growing grapes industry,MDA,0.0,CMR,2013
+1563,IDN,Growing fruits and nuts industry,MDA,3.4113488474561713e-07,CMR,2013
+1564,IDN,"Growing beverage crops (coffee, tea etc) industry",MDA,3.1830214228639124e-08,CMR,2013
+1565,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.2880988710493173e-06,CMR,2013
+1566,IDN,Seeds and plant propagation industry,MDA,0.0,CMR,2013
+1567,IDN,Raising of cattle industry,MDA,1.4191122478830085e-06,CMR,2013
+1568,IDN,Growing wheat industry,MDG,0.0,CMR,2013
+1569,IDN,Growing maize industry,MDG,1.3508995330769446e-06,CMR,2013
+1570,IDN,Growing cereals n.e.c industry,MDG,0.0,CMR,2013
+1571,IDN,Growing leguminous crops and oil seeds industry,MDG,4.1603658129065325e-05,CMR,2013
+1572,IDN,Growing rice industry,MDG,1.7269587435778603e-09,CMR,2013
+1573,IDN,"Growing vegetables, roots, tubers industry",MDG,0.0,CMR,2013
+1574,IDN,Growing sugar beet and cane industry,MDG,7.441496119005368e-07,CMR,2013
+1575,IDN,Growing tobacco industry,MDG,2.975566021526286e-07,CMR,2013
+1576,IDN,Growing fibre crops industry,MDG,0.0,CMR,2013
+1577,IDN,Growing crops n.e.c. industry,MDG,1.8667285805433509e-06,CMR,2013
+1578,IDN,Growing grapes industry,MDG,0.0,CMR,2013
+1579,IDN,Growing fruits and nuts industry,MDG,2.1493066779307779e-07,CMR,2013
+1580,IDN,"Growing beverage crops (coffee, tea etc) industry",MDG,5.762644330763235e-08,CMR,2013
+1581,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,1.8660483994640554e-06,CMR,2013
+1582,IDN,Seeds and plant propagation industry,MDG,0.0,CMR,2013
+1583,IDN,Raising of cattle industry,MDG,1.9247045175416244e-06,CMR,2013
+1584,IDN,Growing wheat industry,MEX,0.0,CMR,2013
+1585,IDN,Growing maize industry,MEX,7.87920796790471e-05,CMR,2013
+1586,IDN,Growing cereals n.e.c industry,MEX,0.0,CMR,2013
+1587,IDN,Growing leguminous crops and oil seeds industry,MEX,0.0021832365033310997,CMR,2013
+1588,IDN,Growing rice industry,MEX,1.0122107421799091e-07,CMR,2013
+1589,IDN,"Growing vegetables, roots, tubers industry",MEX,0.0,CMR,2013
+1590,IDN,Growing sugar beet and cane industry,MEX,4.3430574312492205e-05,CMR,2013
+1591,IDN,Growing tobacco industry,MEX,2.1228167145490225e-05,CMR,2013
+1592,IDN,Growing fibre crops industry,MEX,0.0,CMR,2013
+1593,IDN,Growing crops n.e.c. industry,MEX,0.00010058788817963153,CMR,2013
+1594,IDN,Growing grapes industry,MEX,0.0,CMR,2013
+1595,IDN,Growing fruits and nuts industry,MEX,1.0289517286783084e-05,CMR,2013
+1596,IDN,"Growing beverage crops (coffee, tea etc) industry",MEX,3.581645115728645e-06,CMR,2013
+1597,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,9.49857034192826e-05,CMR,2013
+1598,IDN,Seeds and plant propagation industry,MEX,0.0,CMR,2013
+1599,IDN,Raising of cattle industry,MEX,0.00010154888803853994,CMR,2013
+1600,IDN,Growing wheat industry,MKD,0.0,CMR,2013
+1601,IDN,Growing maize industry,MKD,1.4693396785766634e-06,CMR,2013
+1602,IDN,Growing cereals n.e.c industry,MKD,0.0,CMR,2013
+1603,IDN,Growing leguminous crops and oil seeds industry,MKD,3.779584477286273e-05,CMR,2013
+1604,IDN,Growing rice industry,MKD,1.627727187563882e-09,CMR,2013
+1605,IDN,"Growing vegetables, roots, tubers industry",MKD,0.0,CMR,2013
+1606,IDN,Growing sugar beet and cane industry,MKD,7.967277346574812e-07,CMR,2013
+1607,IDN,Growing tobacco industry,MKD,2.205930251347406e-07,CMR,2013
+1608,IDN,Growing fibre crops industry,MKD,0.0,CMR,2013
+1609,IDN,Growing crops n.e.c. industry,MKD,1.6220813083535645e-06,CMR,2013
+1610,IDN,Growing grapes industry,MKD,0.0,CMR,2013
+1611,IDN,Growing fruits and nuts industry,MKD,2.3757429699556417e-07,CMR,2013
+1612,IDN,"Growing beverage crops (coffee, tea etc) industry",MKD,5.524204855510772e-08,CMR,2013
+1613,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.7420136223264978e-06,CMR,2013
+1614,IDN,Seeds and plant propagation industry,MKD,0.0,CMR,2013
+1615,IDN,Raising of cattle industry,MKD,2.1137418854935665e-06,CMR,2013
+1616,IDN,Growing wheat industry,MLI,0.0,CMR,2013
+1617,IDN,Growing maize industry,MLI,3.882624651539387e-05,CMR,2013
+1618,IDN,Growing cereals n.e.c industry,MLI,0.0,CMR,2013
+1619,IDN,Growing leguminous crops and oil seeds industry,MLI,0.001393576316571638,CMR,2013
+1620,IDN,Growing rice industry,MLI,7.997900761142863e-08,CMR,2013
+1621,IDN,"Growing vegetables, roots, tubers industry",MLI,0.0,CMR,2013
+1622,IDN,Growing sugar beet and cane industry,MLI,1.7961650557194174e-05,CMR,2013
+1623,IDN,Growing tobacco industry,MLI,1.2936006539310544e-05,CMR,2013
+1624,IDN,Growing fibre crops industry,MLI,0.0,CMR,2013
+1625,IDN,Growing crops n.e.c. industry,MLI,5.814470115672412e-05,CMR,2013
+1626,IDN,Growing grapes industry,MLI,0.0,CMR,2013
+1627,IDN,Growing fruits and nuts industry,MLI,5.191438527366344e-06,CMR,2013
+1628,IDN,"Growing beverage crops (coffee, tea etc) industry",MLI,3.189534028780541e-06,CMR,2013
+1629,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,6.385124380703834e-05,CMR,2013
+1630,IDN,Seeds and plant propagation industry,MLI,0.0,CMR,2013
+1631,IDN,Raising of cattle industry,MLI,5.108885181340865e-05,CMR,2013
+1632,IDN,Growing wheat industry,MLT,0.0,CMR,2013
+1633,IDN,Growing maize industry,MLT,2.237401480194798e-06,CMR,2013
+1634,IDN,Growing cereals n.e.c industry,MLT,0.0,CMR,2013
+1635,IDN,Growing leguminous crops and oil seeds industry,MLT,6.221639214594273e-05,CMR,2013
+1636,IDN,Growing rice industry,MLT,2.5860084311279833e-09,CMR,2013
+1637,IDN,"Growing vegetables, roots, tubers industry",MLT,0.0,CMR,2013
+1638,IDN,Growing sugar beet and cane industry,MLT,1.207460509830183e-06,CMR,2013
+1639,IDN,Growing tobacco industry,MLT,4.145008035405408e-07,CMR,2013
+1640,IDN,Growing fibre crops industry,MLT,0.0,CMR,2013
+1641,IDN,Growing crops n.e.c. industry,MLT,2.4812339401308437e-06,CMR,2013
+1642,IDN,Growing grapes industry,MLT,0.0,CMR,2013
+1643,IDN,Growing fruits and nuts industry,MLT,3.8231182079286945e-07,CMR,2013
+1644,IDN,"Growing beverage crops (coffee, tea etc) industry",MLT,8.322715610158374e-08,CMR,2013
+1645,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,2.8899747598145428e-06,CMR,2013
+1646,IDN,Seeds and plant propagation industry,MLT,0.0,CMR,2013
+1647,IDN,Raising of cattle industry,MLT,3.486626940843104e-06,CMR,2013
+1648,IDN,Growing wheat industry,MMR,0.0,CMR,2013
+1649,IDN,Growing maize industry,MMR,1.546919222826399e-05,CMR,2013
+1650,IDN,Growing cereals n.e.c industry,MMR,0.0,CMR,2013
+1651,IDN,Growing leguminous crops and oil seeds industry,MMR,0.00043998370566588203,CMR,2013
+1652,IDN,Growing rice industry,MMR,2.0391797125517038e-08,CMR,2013
+1653,IDN,"Growing vegetables, roots, tubers industry",MMR,0.0,CMR,2013
+1654,IDN,Growing sugar beet and cane industry,MMR,9.042342696060381e-06,CMR,2013
+1655,IDN,Growing tobacco industry,MMR,3.5959457787958544e-06,CMR,2013
+1656,IDN,Growing fibre crops industry,MMR,0.0,CMR,2013
+1657,IDN,Growing crops n.e.c. industry,MMR,2.111690108168597e-05,CMR,2013
+1658,IDN,Growing grapes industry,MMR,0.0,CMR,2013
+1659,IDN,Growing fruits and nuts industry,MMR,1.9366033445825944e-06,CMR,2013
+1660,IDN,"Growing beverage crops (coffee, tea etc) industry",MMR,7.197541827523513e-07,CMR,2013
+1661,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,1.9075184582922324e-05,CMR,2013
+1662,IDN,Seeds and plant propagation industry,MMR,0.0,CMR,2013
+1663,IDN,Raising of cattle industry,MMR,1.997418927983824e-05,CMR,2013
+1664,IDN,Growing wheat industry,MNG,0.0,CMR,2013
+1665,IDN,Growing maize industry,MNG,1.8279904527452624e-06,CMR,2013
+1666,IDN,Growing cereals n.e.c industry,MNG,0.0,CMR,2013
+1667,IDN,Growing leguminous crops and oil seeds industry,MNG,4.740532609738248e-05,CMR,2013
+1668,IDN,Growing rice industry,MNG,2.1583180717520917e-09,CMR,2013
+1669,IDN,"Growing vegetables, roots, tubers industry",MNG,0.0,CMR,2013
+1670,IDN,Growing sugar beet and cane industry,MNG,1.0021544199883e-06,CMR,2013
+1671,IDN,Growing tobacco industry,MNG,4.600003145012857e-07,CMR,2013
+1672,IDN,Growing fibre crops industry,MNG,0.0,CMR,2013
+1673,IDN,Growing crops n.e.c. industry,MNG,1.8997938569805124e-06,CMR,2013
+1674,IDN,Growing grapes industry,MNG,0.0,CMR,2013
+1675,IDN,Growing fruits and nuts industry,MNG,2.548725767125218e-07,CMR,2013
+1676,IDN,"Growing beverage crops (coffee, tea etc) industry",MNG,7.577542316149229e-08,CMR,2013
+1677,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,1.9566919975918206e-06,CMR,2013
+1678,IDN,Seeds and plant propagation industry,MNG,0.0,CMR,2013
+1679,IDN,Raising of cattle industry,MNG,1.929540911291984e-06,CMR,2013
+1680,IDN,Growing wheat industry,MOZ,0.0,CMR,2013
+1681,IDN,Growing maize industry,MOZ,0.0005984620465461268,CMR,2013
+1682,IDN,Growing cereals n.e.c industry,MOZ,0.0,CMR,2013
+1683,IDN,Growing leguminous crops and oil seeds industry,MOZ,0.011650005417410042,CMR,2013
+1684,IDN,Growing rice industry,MOZ,5.904302976988054e-07,CMR,2013
+1685,IDN,"Growing vegetables, roots, tubers industry",MOZ,0.0,CMR,2013
+1686,IDN,Growing sugar beet and cane industry,MOZ,0.00034606723386552474,CMR,2013
+1687,IDN,Growing tobacco industry,MOZ,2.0319904459865228e-05,CMR,2013
+1688,IDN,Growing fibre crops industry,MOZ,0.0,CMR,2013
+1689,IDN,Growing crops n.e.c. industry,MOZ,0.00014370759565852643,CMR,2013
+1690,IDN,Growing grapes industry,MOZ,0.0,CMR,2013
+1691,IDN,Growing fruits and nuts industry,MOZ,0.0006615073839420862,CMR,2013
+1692,IDN,"Growing beverage crops (coffee, tea etc) industry",MOZ,5.061937442386162e-06,CMR,2013
+1693,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,0.0012102047007064357,CMR,2013
+1694,IDN,Seeds and plant propagation industry,MOZ,0.0,CMR,2013
+1695,IDN,Raising of cattle industry,MOZ,0.0002510149799498205,CMR,2013
+1696,IDN,Growing wheat industry,MRT,0.0,CMR,2013
+1697,IDN,Growing maize industry,MRT,1.5457265144542628e-06,CMR,2013
+1698,IDN,Growing cereals n.e.c industry,MRT,0.0,CMR,2013
+1699,IDN,Growing leguminous crops and oil seeds industry,MRT,5.111074180747412e-05,CMR,2013
+1700,IDN,Growing rice industry,MRT,1.889728190402422e-09,CMR,2013
+1701,IDN,"Growing vegetables, roots, tubers industry",MRT,0.0,CMR,2013
+1702,IDN,Growing sugar beet and cane industry,MRT,8.436805224479768e-07,CMR,2013
+1703,IDN,Growing tobacco industry,MRT,2.8062863276166066e-07,CMR,2013
+1704,IDN,Growing fibre crops industry,MRT,0.0,CMR,2013
+1705,IDN,Growing crops n.e.c. industry,MRT,1.8674270485597697e-06,CMR,2013
+1706,IDN,Growing grapes industry,MRT,0.0,CMR,2013
+1707,IDN,Growing fruits and nuts industry,MRT,3.1781501185944037e-07,CMR,2013
+1708,IDN,"Growing beverage crops (coffee, tea etc) industry",MRT,5.7160622682304405e-08,CMR,2013
+1709,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,2.283745113102628e-06,CMR,2013
+1710,IDN,Seeds and plant propagation industry,MRT,0.0,CMR,2013
+1711,IDN,Raising of cattle industry,MRT,1.9513429895595773e-06,CMR,2013
+1712,IDN,Growing wheat industry,MWI,0.0,CMR,2013
+1713,IDN,Growing maize industry,MWI,7.082996243500866e-07,CMR,2013
+1714,IDN,Growing cereals n.e.c industry,MWI,0.0,CMR,2013
+1715,IDN,Growing leguminous crops and oil seeds industry,MWI,2.550123975686157e-05,CMR,2013
+1716,IDN,Growing rice industry,MWI,9.497966144001661e-10,CMR,2013
+1717,IDN,"Growing vegetables, roots, tubers industry",MWI,0.0,CMR,2013
+1718,IDN,Growing sugar beet and cane industry,MWI,8.379313443742901e-07,CMR,2013
+1719,IDN,Growing tobacco industry,MWI,1.3320150241182803e-07,CMR,2013
+1720,IDN,Growing fibre crops industry,MWI,0.0,CMR,2013
+1721,IDN,Growing crops n.e.c. industry,MWI,8.81214591486479e-07,CMR,2013
+1722,IDN,Growing grapes industry,MWI,0.0,CMR,2013
+1723,IDN,Growing fruits and nuts industry,MWI,1.0966867947350712e-07,CMR,2013
+1724,IDN,"Growing beverage crops (coffee, tea etc) industry",MWI,3.185217450067952e-08,CMR,2013
+1725,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,9.38280675719311e-07,CMR,2013
+1726,IDN,Seeds and plant propagation industry,MWI,0.0,CMR,2013
+1727,IDN,Raising of cattle industry,MWI,1.3018466690290678e-06,CMR,2013
+1728,IDN,Growing wheat industry,MYS,0.0,CMR,2013
+1729,IDN,Growing maize industry,MYS,0.0002197423561659461,CMR,2013
+1730,IDN,Growing cereals n.e.c industry,MYS,0.0,CMR,2013
+1731,IDN,Growing leguminous crops and oil seeds industry,MYS,0.0050321293811960875,CMR,2013
+1732,IDN,Growing rice industry,MYS,2.5109144356639134e-07,CMR,2013
+1733,IDN,"Growing vegetables, roots, tubers industry",MYS,0.0,CMR,2013
+1734,IDN,Growing sugar beet and cane industry,MYS,0.00012191414078578655,CMR,2013
+1735,IDN,Growing tobacco industry,MYS,4.9080652323239104e-05,CMR,2013
+1736,IDN,Growing fibre crops industry,MYS,0.0,CMR,2013
+1737,IDN,Growing crops n.e.c. industry,MYS,0.00020365472974356955,CMR,2013
+1738,IDN,Growing grapes industry,MYS,0.0,CMR,2013
+1739,IDN,Growing fruits and nuts industry,MYS,5.5070569675677975e-05,CMR,2013
+1740,IDN,"Growing beverage crops (coffee, tea etc) industry",MYS,7.8553481071915e-06,CMR,2013
+1741,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,0.0002562853329739566,CMR,2013
+1742,IDN,Seeds and plant propagation industry,MYS,0.0,CMR,2013
+1743,IDN,Raising of cattle industry,MYS,0.0002671939320931975,CMR,2013
+1744,IDN,Growing wheat industry,NAM,0.0,CMR,2013
+1745,IDN,Growing maize industry,NAM,7.2394370020457074e-06,CMR,2013
+1746,IDN,Growing cereals n.e.c industry,NAM,0.0,CMR,2013
+1747,IDN,Growing leguminous crops and oil seeds industry,NAM,0.000343528286191183,CMR,2013
+1748,IDN,Growing rice industry,NAM,1.2052526906963625e-08,CMR,2013
+1749,IDN,"Growing vegetables, roots, tubers industry",NAM,0.0,CMR,2013
+1750,IDN,Growing sugar beet and cane industry,NAM,3.553806276639167e-06,CMR,2013
+1751,IDN,Growing tobacco industry,NAM,2.5240738560338704e-06,CMR,2013
+1752,IDN,Growing fibre crops industry,NAM,0.0,CMR,2013
+1753,IDN,Growing crops n.e.c. industry,NAM,1.0591746961831338e-05,CMR,2013
+1754,IDN,Growing grapes industry,NAM,0.0,CMR,2013
+1755,IDN,Growing fruits and nuts industry,NAM,1.2454476979771775e-06,CMR,2013
+1756,IDN,"Growing beverage crops (coffee, tea etc) industry",NAM,4.861844034304374e-07,CMR,2013
+1757,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,1.5662405150910542e-05,CMR,2013
+1758,IDN,Seeds and plant propagation industry,NAM,0.0,CMR,2013
+1759,IDN,Raising of cattle industry,NAM,9.033668777792748e-06,CMR,2013
+1760,IDN,Growing wheat industry,NER,0.0,CMR,2013
+1761,IDN,Growing maize industry,NER,2.7871478170398067e-05,CMR,2013
+1762,IDN,Growing cereals n.e.c industry,NER,0.0,CMR,2013
+1763,IDN,Growing leguminous crops and oil seeds industry,NER,0.0008636088654220958,CMR,2013
+1764,IDN,Growing rice industry,NER,5.675644372196374e-08,CMR,2013
+1765,IDN,"Growing vegetables, roots, tubers industry",NER,0.0,CMR,2013
+1766,IDN,Growing sugar beet and cane industry,NER,1.2311642546055747e-05,CMR,2013
+1767,IDN,Growing tobacco industry,NER,9.472670828530862e-06,CMR,2013
+1768,IDN,Growing fibre crops industry,NER,0.0,CMR,2013
+1769,IDN,Growing crops n.e.c. industry,NER,3.808886588426155e-05,CMR,2013
+1770,IDN,Growing grapes industry,NER,0.0,CMR,2013
+1771,IDN,Growing fruits and nuts industry,NER,4.160770827673388e-06,CMR,2013
+1772,IDN,"Growing beverage crops (coffee, tea etc) industry",NER,2.4445640386775595e-06,CMR,2013
+1773,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,3.995585549305425e-05,CMR,2013
+1774,IDN,Seeds and plant propagation industry,NER,0.0,CMR,2013
+1775,IDN,Raising of cattle industry,NER,3.4317776363687135e-05,CMR,2013
+1776,IDN,Growing wheat industry,NGA,0.0,CMR,2013
+1777,IDN,Growing maize industry,NGA,0.00022520538461669545,CMR,2013
+1778,IDN,Growing cereals n.e.c industry,NGA,0.0,CMR,2013
+1779,IDN,Growing leguminous crops and oil seeds industry,NGA,0.009894975311623734,CMR,2013
+1780,IDN,Growing rice industry,NGA,3.218704284949233e-07,CMR,2013
+1781,IDN,"Growing vegetables, roots, tubers industry",NGA,0.0,CMR,2013
+1782,IDN,Growing sugar beet and cane industry,NGA,0.00012314750297091518,CMR,2013
+1783,IDN,Growing tobacco industry,NGA,4.2734246989128187e-05,CMR,2013
+1784,IDN,Growing fibre crops industry,NGA,0.0,CMR,2013
+1785,IDN,Growing crops n.e.c. industry,NGA,0.0002762554060474389,CMR,2013
+1786,IDN,Growing grapes industry,NGA,0.0,CMR,2013
+1787,IDN,Growing fruits and nuts industry,NGA,4.863413169365414e-05,CMR,2013
+1788,IDN,"Growing beverage crops (coffee, tea etc) industry",NGA,7.618096175498554e-06,CMR,2013
+1789,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,0.0004288149017479714,CMR,2013
+1790,IDN,Seeds and plant propagation industry,NGA,0.0,CMR,2013
+1791,IDN,Raising of cattle industry,NGA,0.00024146685738730343,CMR,2013
+1792,IDN,Growing wheat industry,NIC,0.0,CMR,2013
+1793,IDN,Growing maize industry,NIC,2.5130319482859843e-06,CMR,2013
+1794,IDN,Growing cereals n.e.c industry,NIC,0.0,CMR,2013
+1795,IDN,Growing leguminous crops and oil seeds industry,NIC,7.458809982001944e-05,CMR,2013
+1796,IDN,Growing rice industry,NIC,2.890142208092671e-09,CMR,2013
+1797,IDN,"Growing vegetables, roots, tubers industry",NIC,0.0,CMR,2013
+1798,IDN,Growing sugar beet and cane industry,NIC,1.3684934031345755e-06,CMR,2013
+1799,IDN,Growing tobacco industry,NIC,5.259877193886915e-07,CMR,2013
+1800,IDN,Growing fibre crops industry,NIC,0.0,CMR,2013
+1801,IDN,Growing crops n.e.c. industry,NIC,3.0044547536454e-06,CMR,2013
+1802,IDN,Growing grapes industry,NIC,0.0,CMR,2013
+1803,IDN,Growing fruits and nuts industry,NIC,3.465931078345209e-07,CMR,2013
+1804,IDN,"Growing beverage crops (coffee, tea etc) industry",NIC,8.417464470921162e-08,CMR,2013
+1805,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,2.852554499170663e-06,CMR,2013
+1806,IDN,Seeds and plant propagation industry,NIC,0.0,CMR,2013
+1807,IDN,Raising of cattle industry,NIC,3.2312599022555197e-06,CMR,2013
+1808,IDN,Growing wheat industry,NLD,0.0,CMR,2013
+1809,IDN,Growing maize industry,NLD,0.000515972271392497,CMR,2013
+1810,IDN,Growing cereals n.e.c industry,NLD,0.0,CMR,2013
+1811,IDN,Growing leguminous crops and oil seeds industry,NLD,0.010344765469137823,CMR,2013
+1812,IDN,Growing rice industry,NLD,4.866229484414569e-07,CMR,2013
+1813,IDN,"Growing vegetables, roots, tubers industry",NLD,0.0,CMR,2013
+1814,IDN,Growing sugar beet and cane industry,NLD,0.0002880704769572322,CMR,2013
+1815,IDN,Growing tobacco industry,NLD,5.6908991384988416e-05,CMR,2013
+1816,IDN,Growing fibre crops industry,NLD,0.0,CMR,2013
+1817,IDN,Growing crops n.e.c. industry,NLD,0.00047958868921645754,CMR,2013
+1818,IDN,Growing grapes industry,NLD,0.0,CMR,2013
+1819,IDN,Growing fruits and nuts industry,NLD,9.636494011053658e-05,CMR,2013
+1820,IDN,"Growing beverage crops (coffee, tea etc) industry",NLD,1.2416402858738301e-05,CMR,2013
+1821,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,0.0005203730686897071,CMR,2013
+1822,IDN,Seeds and plant propagation industry,NLD,0.0,CMR,2013
+1823,IDN,Raising of cattle industry,NLD,0.0009241222825836092,CMR,2013
+1824,IDN,Growing wheat industry,NOR,0.0,CMR,2013
+1825,IDN,Growing maize industry,NOR,3.6822021681627835e-05,CMR,2013
+1826,IDN,Growing cereals n.e.c industry,NOR,0.0,CMR,2013
+1827,IDN,Growing leguminous crops and oil seeds industry,NOR,0.0008905054763462784,CMR,2013
+1828,IDN,Growing rice industry,NOR,4.1780055581410676e-08,CMR,2013
+1829,IDN,"Growing vegetables, roots, tubers industry",NOR,0.0,CMR,2013
+1830,IDN,Growing sugar beet and cane industry,NOR,2.0293641252169644e-05,CMR,2013
+1831,IDN,Growing tobacco industry,NOR,7.324168685682079e-06,CMR,2013
+1832,IDN,Growing fibre crops industry,NOR,0.0,CMR,2013
+1833,IDN,Growing crops n.e.c. industry,NOR,4.018523714954426e-05,CMR,2013
+1834,IDN,Growing grapes industry,NOR,0.0,CMR,2013
+1835,IDN,Growing fruits and nuts industry,NOR,5.738716142124334e-06,CMR,2013
+1836,IDN,"Growing beverage crops (coffee, tea etc) industry",NOR,1.3325712343215104e-06,CMR,2013
+1837,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,4.045468521625599e-05,CMR,2013
+1838,IDN,Seeds and plant propagation industry,NOR,0.0,CMR,2013
+1839,IDN,Raising of cattle industry,NOR,5.7025142971219584e-05,CMR,2013
+1840,IDN,Growing wheat industry,NPL,0.0,CMR,2013
+1841,IDN,Growing maize industry,NPL,2.7447562507390226e-06,CMR,2013
+1842,IDN,Growing cereals n.e.c industry,NPL,0.0,CMR,2013
+1843,IDN,Growing leguminous crops and oil seeds industry,NPL,8.91808047120475e-05,CMR,2013
+1844,IDN,Growing rice industry,NPL,3.614547405719826e-09,CMR,2013
+1845,IDN,"Growing vegetables, roots, tubers industry",NPL,0.0,CMR,2013
+1846,IDN,Growing sugar beet and cane industry,NPL,1.5016771733874713e-06,CMR,2013
+1847,IDN,Growing tobacco industry,NPL,4.979325562404235e-07,CMR,2013
+1848,IDN,Growing fibre crops industry,NPL,0.0,CMR,2013
+1849,IDN,Growing crops n.e.c. industry,NPL,3.113103552517467e-06,CMR,2013
+1850,IDN,Growing grapes industry,NPL,0.0,CMR,2013
+1851,IDN,Growing fruits and nuts industry,NPL,6.081870979478062e-07,CMR,2013
+1852,IDN,"Growing beverage crops (coffee, tea etc) industry",NPL,1.0080876712635285e-07,CMR,2013
+1853,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,4.903251141197225e-06,CMR,2013
+1854,IDN,Seeds and plant propagation industry,NPL,0.0,CMR,2013
+1855,IDN,Raising of cattle industry,NPL,3.0192495283590805e-06,CMR,2013
+1856,IDN,Growing wheat industry,NZL,0.0,CMR,2013
+1857,IDN,Growing maize industry,NZL,1.204191895130763e-05,CMR,2013
+1858,IDN,Growing cereals n.e.c industry,NZL,0.0,CMR,2013
+1859,IDN,Growing leguminous crops and oil seeds industry,NZL,0.00032321064834850107,CMR,2013
+1860,IDN,Growing rice industry,NZL,1.5193568650606786e-08,CMR,2013
+1861,IDN,"Growing vegetables, roots, tubers industry",NZL,0.0,CMR,2013
+1862,IDN,Growing sugar beet and cane industry,NZL,6.638021832641437e-06,CMR,2013
+1863,IDN,Growing tobacco industry,NZL,3.181994173186121e-06,CMR,2013
+1864,IDN,Growing fibre crops industry,NZL,0.0,CMR,2013
+1865,IDN,Growing crops n.e.c. industry,NZL,1.3928905008978422e-05,CMR,2013
+1866,IDN,Growing grapes industry,NZL,0.0,CMR,2013
+1867,IDN,Growing fruits and nuts industry,NZL,1.8529562849673704e-06,CMR,2013
+1868,IDN,"Growing beverage crops (coffee, tea etc) industry",NZL,5.236620513113497e-07,CMR,2013
+1869,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,1.4455823036787618e-05,CMR,2013
+1870,IDN,Seeds and plant propagation industry,NZL,0.0,CMR,2013
+1871,IDN,Raising of cattle industry,NZL,1.6190831917787163e-05,CMR,2013
+1872,IDN,Growing wheat industry,OMN,0.0,CMR,2013
+1873,IDN,Growing maize industry,OMN,7.0007081202579355e-06,CMR,2013
+1874,IDN,Growing cereals n.e.c industry,OMN,0.0,CMR,2013
+1875,IDN,Growing leguminous crops and oil seeds industry,OMN,0.000189287191846249,CMR,2013
+1876,IDN,Growing rice industry,OMN,8.433944135596419e-09,CMR,2013
+1877,IDN,"Growing vegetables, roots, tubers industry",OMN,0.0,CMR,2013
+1878,IDN,Growing sugar beet and cane industry,OMN,3.782959368062794e-06,CMR,2013
+1879,IDN,Growing tobacco industry,OMN,1.546423044070201e-06,CMR,2013
+1880,IDN,Growing fibre crops industry,OMN,0.0,CMR,2013
+1881,IDN,Growing crops n.e.c. industry,OMN,8.330020265841742e-06,CMR,2013
+1882,IDN,Growing grapes industry,OMN,0.0,CMR,2013
+1883,IDN,Growing fruits and nuts industry,OMN,1.027842704770778e-06,CMR,2013
+1884,IDN,"Growing beverage crops (coffee, tea etc) industry",OMN,2.9619083366609317e-07,CMR,2013
+1885,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,8.506808220542356e-06,CMR,2013
+1886,IDN,Seeds and plant propagation industry,OMN,0.0,CMR,2013
+1887,IDN,Raising of cattle industry,OMN,9.4183758992428e-06,CMR,2013
+1888,IDN,Growing wheat industry,PAK,0.0,CMR,2013
+1889,IDN,Growing maize industry,PAK,5.317024682068349e-05,CMR,2013
+1890,IDN,Growing cereals n.e.c industry,PAK,0.0,CMR,2013
+1891,IDN,Growing leguminous crops and oil seeds industry,PAK,0.0015599841863857132,CMR,2013
+1892,IDN,Growing rice industry,PAK,6.8491207494683e-08,CMR,2013
+1893,IDN,"Growing vegetables, roots, tubers industry",PAK,0.0,CMR,2013
+1894,IDN,Growing sugar beet and cane industry,PAK,3.0075730838336737e-05,CMR,2013
+1895,IDN,Growing tobacco industry,PAK,4.7111628461073885e-06,CMR,2013
+1896,IDN,Growing fibre crops industry,PAK,0.0,CMR,2013
+1897,IDN,Growing crops n.e.c. industry,PAK,2.821590137039043e-05,CMR,2013
+1898,IDN,Growing grapes industry,PAK,0.0,CMR,2013
+1899,IDN,Growing fruits and nuts industry,PAK,2.2345734927660494e-05,CMR,2013
+1900,IDN,"Growing beverage crops (coffee, tea etc) industry",PAK,9.705321818976824e-07,CMR,2013
+1901,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,0.0001237227266197857,CMR,2013
+1902,IDN,Seeds and plant propagation industry,PAK,0.0,CMR,2013
+1903,IDN,Raising of cattle industry,PAK,3.13432596100072e-05,CMR,2013
+1904,IDN,Growing wheat industry,PSE,0.0,CMR,2013
+1905,IDN,Growing maize industry,PSE,1.5381210211898631e-06,CMR,2013
+1906,IDN,Growing cereals n.e.c industry,PSE,0.0,CMR,2013
+1907,IDN,Growing leguminous crops and oil seeds industry,PSE,3.35060259343782e-05,CMR,2013
+1908,IDN,Growing rice industry,PSE,1.4269161257047429e-09,CMR,2013
+1909,IDN,"Growing vegetables, roots, tubers industry",PSE,0.0,CMR,2013
+1910,IDN,Growing sugar beet and cane industry,PSE,8.487777653406136e-07,CMR,2013
+1911,IDN,Growing tobacco industry,PSE,2.216200737851747e-07,CMR,2013
+1912,IDN,Growing fibre crops industry,PSE,0.0,CMR,2013
+1913,IDN,Growing crops n.e.c. industry,PSE,1.2788597736758394e-06,CMR,2013
+1914,IDN,Growing grapes industry,PSE,0.0,CMR,2013
+1915,IDN,Growing fruits and nuts industry,PSE,2.1505829725665277e-07,CMR,2013
+1916,IDN,"Growing beverage crops (coffee, tea etc) industry",PSE,4.4061644958570676e-08,CMR,2013
+1917,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.3715990985398628e-06,CMR,2013
+1918,IDN,Seeds and plant propagation industry,PSE,0.0,CMR,2013
+1919,IDN,Raising of cattle industry,PSE,1.5272275505689876e-06,CMR,2013
+1920,IDN,Growing wheat industry,PAN,0.0,CMR,2013
+1921,IDN,Growing maize industry,PAN,4.804447127427556e-06,CMR,2013
+1922,IDN,Growing cereals n.e.c industry,PAN,0.0,CMR,2013
+1923,IDN,Growing leguminous crops and oil seeds industry,PAN,0.00013968991379470228,CMR,2013
+1924,IDN,Growing rice industry,PAN,5.884781633877988e-09,CMR,2013
+1925,IDN,"Growing vegetables, roots, tubers industry",PAN,0.0,CMR,2013
+1926,IDN,Growing sugar beet and cane industry,PAN,2.5951455281225796e-06,CMR,2013
+1927,IDN,Growing tobacco industry,PAN,1.2138548775183205e-06,CMR,2013
+1928,IDN,Growing fibre crops industry,PAN,0.0,CMR,2013
+1929,IDN,Growing crops n.e.c. industry,PAN,5.407121305812972e-06,CMR,2013
+1930,IDN,Growing grapes industry,PAN,0.0,CMR,2013
+1931,IDN,Growing fruits and nuts industry,PAN,7.050557996915123e-07,CMR,2013
+1932,IDN,"Growing beverage crops (coffee, tea etc) industry",PAN,2.1129568505223036e-07,CMR,2013
+1933,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,5.8888234069504945e-06,CMR,2013
+1934,IDN,Seeds and plant propagation industry,PAN,0.0,CMR,2013
+1935,IDN,Raising of cattle industry,PAN,5.271684259582761e-06,CMR,2013
+1936,IDN,Growing wheat industry,PER,0.0,CMR,2013
+1937,IDN,Growing maize industry,PER,2.0515827474257144e-05,CMR,2013
+1938,IDN,Growing cereals n.e.c industry,PER,0.0,CMR,2013
+1939,IDN,Growing leguminous crops and oil seeds industry,PER,0.0006018856260576328,CMR,2013
+1940,IDN,Growing rice industry,PER,2.1971997645694244e-08,CMR,2013
+1941,IDN,"Growing vegetables, roots, tubers industry",PER,0.0,CMR,2013
+1942,IDN,Growing sugar beet and cane industry,PER,1.0977279318265027e-05,CMR,2013
+1943,IDN,Growing tobacco industry,PER,3.3439176639898716e-06,CMR,2013
+1944,IDN,Growing fibre crops industry,PER,0.0,CMR,2013
+1945,IDN,Growing crops n.e.c. industry,PER,2.132993321386381e-05,CMR,2013
+1946,IDN,Growing grapes industry,PER,0.0,CMR,2013
+1947,IDN,Growing fruits and nuts industry,PER,4.396897468890211e-06,CMR,2013
+1948,IDN,"Growing beverage crops (coffee, tea etc) industry",PER,7.44620679766141e-07,CMR,2013
+1949,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,2.361987476568146e-05,CMR,2013
+1950,IDN,Seeds and plant propagation industry,PER,0.0,CMR,2013
+1951,IDN,Raising of cattle industry,PER,1.971239920709458e-05,CMR,2013
+1952,IDN,Growing wheat industry,PHL,0.0,CMR,2013
+1953,IDN,Growing maize industry,PHL,3.1694795765523346e-05,CMR,2013
+1954,IDN,Growing cereals n.e.c industry,PHL,0.0,CMR,2013
+1955,IDN,Growing leguminous crops and oil seeds industry,PHL,0.0009083518236862938,CMR,2013
+1956,IDN,Growing rice industry,PHL,5.303800812520527e-08,CMR,2013
+1957,IDN,"Growing vegetables, roots, tubers industry",PHL,0.0,CMR,2013
+1958,IDN,Growing sugar beet and cane industry,PHL,1.572143064678582e-05,CMR,2013
+1959,IDN,Growing tobacco industry,PHL,1.0011667271882849e-05,CMR,2013
+1960,IDN,Growing fibre crops industry,PHL,0.0,CMR,2013
+1961,IDN,Growing crops n.e.c. industry,PHL,4.193810082860374e-05,CMR,2013
+1962,IDN,Growing grapes industry,PHL,0.0,CMR,2013
+1963,IDN,Growing fruits and nuts industry,PHL,4.377804948989749e-06,CMR,2013
+1964,IDN,"Growing beverage crops (coffee, tea etc) industry",PHL,2.142308882565582e-06,CMR,2013
+1965,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,4.117017722014937e-05,CMR,2013
+1966,IDN,Seeds and plant propagation industry,PHL,0.0,CMR,2013
+1967,IDN,Raising of cattle industry,PHL,4.083193003689086e-05,CMR,2013
+1968,IDN,Growing wheat industry,PNG,0.0,CMR,2013
+1969,IDN,Growing maize industry,PNG,2.712171920299202e-06,CMR,2013
+1970,IDN,Growing cereals n.e.c industry,PNG,0.0,CMR,2013
+1971,IDN,Growing leguminous crops and oil seeds industry,PNG,6.908420174679859e-05,CMR,2013
+1972,IDN,Growing rice industry,PNG,3.1234520534057307e-09,CMR,2013
+1973,IDN,"Growing vegetables, roots, tubers industry",PNG,0.0,CMR,2013
+1974,IDN,Growing sugar beet and cane industry,PNG,1.498643397070528e-06,CMR,2013
+1975,IDN,Growing tobacco industry,PNG,5.548343513392837e-07,CMR,2013
+1976,IDN,Growing fibre crops industry,PNG,0.0,CMR,2013
+1977,IDN,Growing crops n.e.c. industry,PNG,2.838385902791143e-06,CMR,2013
+1978,IDN,Growing grapes industry,PNG,0.0,CMR,2013
+1979,IDN,Growing fruits and nuts industry,PNG,5.806826599732328e-07,CMR,2013
+1980,IDN,"Growing beverage crops (coffee, tea etc) industry",PNG,9.772431910666554e-08,CMR,2013
+1981,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,3.250108516057571e-06,CMR,2013
+1982,IDN,Seeds and plant propagation industry,PNG,0.0,CMR,2013
+1983,IDN,Raising of cattle industry,PNG,3.631048157516809e-06,CMR,2013
+1984,IDN,Growing wheat industry,POL,0.0,CMR,2013
+1985,IDN,Growing maize industry,POL,7.17197069989033e-05,CMR,2013
+1986,IDN,Growing cereals n.e.c industry,POL,0.0,CMR,2013
+1987,IDN,Growing leguminous crops and oil seeds industry,POL,0.001786211051880239,CMR,2013
+1988,IDN,Growing rice industry,POL,8.332928630876397e-08,CMR,2013
+1989,IDN,"Growing vegetables, roots, tubers industry",POL,0.0,CMR,2013
+1990,IDN,Growing sugar beet and cane industry,POL,3.924824013441303e-05,CMR,2013
+1991,IDN,Growing tobacco industry,POL,1.2944155583188887e-05,CMR,2013
+1992,IDN,Growing fibre crops industry,POL,0.0,CMR,2013
+1993,IDN,Growing crops n.e.c. industry,POL,8.738669527673837e-05,CMR,2013
+1994,IDN,Growing grapes industry,POL,0.0,CMR,2013
+1995,IDN,Growing fruits and nuts industry,POL,1.1100499089008642e-05,CMR,2013
+1996,IDN,"Growing beverage crops (coffee, tea etc) industry",POL,2.717158561488996e-06,CMR,2013
+1997,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,7.960283118664953e-05,CMR,2013
+1998,IDN,Seeds and plant propagation industry,POL,0.0,CMR,2013
+1999,IDN,Raising of cattle industry,POL,0.0001156608321956839,CMR,2013
+2000,IDN,Growing wheat industry,PRK,0.0,CMR,2013
+2001,IDN,Growing maize industry,PRK,3.7479090263855534e-06,CMR,2013
+2002,IDN,Growing cereals n.e.c industry,PRK,0.0,CMR,2013
+2003,IDN,Growing leguminous crops and oil seeds industry,PRK,0.00011240909568403219,CMR,2013
+2004,IDN,Growing rice industry,PRK,4.956418334965866e-09,CMR,2013
+2005,IDN,"Growing vegetables, roots, tubers industry",PRK,0.0,CMR,2013
+2006,IDN,Growing sugar beet and cane industry,PRK,1.6160064359728118e-06,CMR,2013
+2007,IDN,Growing tobacco industry,PRK,7.78352052605846e-07,CMR,2013
+2008,IDN,Growing fibre crops industry,PRK,0.0,CMR,2013
+2009,IDN,Growing crops n.e.c. industry,PRK,6.866597039816001e-06,CMR,2013
+2010,IDN,Growing grapes industry,PRK,0.0,CMR,2013
+2011,IDN,Growing fruits and nuts industry,PRK,4.6790208699289e-07,CMR,2013
+2012,IDN,"Growing beverage crops (coffee, tea etc) industry",PRK,2.8713230113817197e-07,CMR,2013
+2013,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,5.349944985200598e-06,CMR,2013
+2014,IDN,Seeds and plant propagation industry,PRK,0.0,CMR,2013
+2015,IDN,Raising of cattle industry,PRK,4.662212836011709e-06,CMR,2013
+2016,IDN,Growing wheat industry,PRT,0.0,CMR,2013
+2017,IDN,Growing maize industry,PRT,4.916820042771132e-05,CMR,2013
+2018,IDN,Growing cereals n.e.c industry,PRT,0.0,CMR,2013
+2019,IDN,Growing leguminous crops and oil seeds industry,PRT,0.001446830764458382,CMR,2013
+2020,IDN,Growing rice industry,PRT,6.40999864504524e-08,CMR,2013
+2021,IDN,"Growing vegetables, roots, tubers industry",PRT,0.0,CMR,2013
+2022,IDN,Growing sugar beet and cane industry,PRT,2.462623212829094e-05,CMR,2013
+2023,IDN,Growing tobacco industry,PRT,9.444782359794943e-06,CMR,2013
+2024,IDN,Growing fibre crops industry,PRT,0.0,CMR,2013
+2025,IDN,Growing crops n.e.c. industry,PRT,5.957507531642614e-05,CMR,2013
+2026,IDN,Growing grapes industry,PRT,0.0,CMR,2013
+2027,IDN,Growing fruits and nuts industry,PRT,1.0221431856363713e-05,CMR,2013
+2028,IDN,"Growing beverage crops (coffee, tea etc) industry",PRT,2.35143204011975e-06,CMR,2013
+2029,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,5.6977979730075476e-05,CMR,2013
+2030,IDN,Seeds and plant propagation industry,PRT,0.0,CMR,2013
+2031,IDN,Raising of cattle industry,PRT,5.977367363519397e-05,CMR,2013
+2032,IDN,Growing wheat industry,PRY,0.0,CMR,2013
+2033,IDN,Growing maize industry,PRY,1.4105381404291227e-06,CMR,2013
+2034,IDN,Growing cereals n.e.c industry,PRY,0.0,CMR,2013
+2035,IDN,Growing leguminous crops and oil seeds industry,PRY,3.873594942508986e-05,CMR,2013
+2036,IDN,Growing rice industry,PRY,1.7112325513122723e-09,CMR,2013
+2037,IDN,"Growing vegetables, roots, tubers industry",PRY,0.0,CMR,2013
+2038,IDN,Growing sugar beet and cane industry,PRY,7.674677973319769e-07,CMR,2013
+2039,IDN,Growing tobacco industry,PRY,3.405959900572025e-07,CMR,2013
+2040,IDN,Growing fibre crops industry,PRY,0.0,CMR,2013
+2041,IDN,Growing crops n.e.c. industry,PRY,1.5994596320766001e-06,CMR,2013
+2042,IDN,Growing grapes industry,PRY,0.0,CMR,2013
+2043,IDN,Growing fruits and nuts industry,PRY,2.0469524730497632e-07,CMR,2013
+2044,IDN,"Growing beverage crops (coffee, tea etc) industry",PRY,5.965259234733174e-08,CMR,2013
+2045,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,1.6491763383896544e-06,CMR,2013
+2046,IDN,Seeds and plant propagation industry,PRY,0.0,CMR,2013
+2047,IDN,Raising of cattle industry,PRY,1.639570560441452e-06,CMR,2013
+2048,IDN,Growing wheat industry,QAT,0.0,CMR,2013
+2049,IDN,Growing maize industry,QAT,1.109701459638856e-05,CMR,2013
+2050,IDN,Growing cereals n.e.c industry,QAT,0.0,CMR,2013
+2051,IDN,Growing leguminous crops and oil seeds industry,QAT,0.0002972590739349797,CMR,2013
+2052,IDN,Growing rice industry,QAT,1.402417327610488e-08,CMR,2013
+2053,IDN,"Growing vegetables, roots, tubers industry",QAT,0.0,CMR,2013
+2054,IDN,Growing sugar beet and cane industry,QAT,6.048820394540698e-06,CMR,2013
+2055,IDN,Growing tobacco industry,QAT,2.785413958252482e-06,CMR,2013
+2056,IDN,Growing fibre crops industry,QAT,0.0,CMR,2013
+2057,IDN,Growing crops n.e.c. industry,QAT,1.3320920368126773e-05,CMR,2013
+2058,IDN,Growing grapes industry,QAT,0.0,CMR,2013
+2059,IDN,Growing fruits and nuts industry,QAT,1.7211886972910074e-06,CMR,2013
+2060,IDN,"Growing beverage crops (coffee, tea etc) industry",QAT,4.885212483487792e-07,CMR,2013
+2061,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,1.3411256567308056e-05,CMR,2013
+2062,IDN,Seeds and plant propagation industry,QAT,0.0,CMR,2013
+2063,IDN,Raising of cattle industry,QAT,1.5470818154256165e-05,CMR,2013
+2064,IDN,Growing wheat industry,ROU,0.0,CMR,2013
+2065,IDN,Growing maize industry,ROU,1.5579370764915844e-05,CMR,2013
+2066,IDN,Growing cereals n.e.c industry,ROU,0.0,CMR,2013
+2067,IDN,Growing leguminous crops and oil seeds industry,ROU,0.0004066524003309702,CMR,2013
+2068,IDN,Growing rice industry,ROU,1.784899809577182e-08,CMR,2013
+2069,IDN,"Growing vegetables, roots, tubers industry",ROU,0.0,CMR,2013
+2070,IDN,Growing sugar beet and cane industry,ROU,8.562670106796687e-06,CMR,2013
+2071,IDN,Growing tobacco industry,ROU,2.8145021171903417e-06,CMR,2013
+2072,IDN,Growing fibre crops industry,ROU,0.0,CMR,2013
+2073,IDN,Growing crops n.e.c. industry,ROU,1.8523722007029097e-05,CMR,2013
+2074,IDN,Growing grapes industry,ROU,0.0,CMR,2013
+2075,IDN,Growing fruits and nuts industry,ROU,2.6126146930109755e-06,CMR,2013
+2076,IDN,"Growing beverage crops (coffee, tea etc) industry",ROU,5.64644333408092e-07,CMR,2013
+2077,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,1.8079973777557512e-05,CMR,2013
+2078,IDN,Seeds and plant propagation industry,ROU,0.0,CMR,2013
+2079,IDN,Raising of cattle industry,ROU,2.3872171103644695e-05,CMR,2013
+2080,IDN,Growing wheat industry,RUS,0.0,CMR,2013
+2081,IDN,Growing maize industry,RUS,9.958359378531437e-05,CMR,2013
+2082,IDN,Growing cereals n.e.c industry,RUS,0.0,CMR,2013
+2083,IDN,Growing leguminous crops and oil seeds industry,RUS,0.002668748710357502,CMR,2013
+2084,IDN,Growing rice industry,RUS,1.1878258444883979e-07,CMR,2013
+2085,IDN,"Growing vegetables, roots, tubers industry",RUS,0.0,CMR,2013
+2086,IDN,Growing sugar beet and cane industry,RUS,5.416365575751636e-05,CMR,2013
+2087,IDN,Growing tobacco industry,RUS,2.0919042156091746e-05,CMR,2013
+2088,IDN,Growing fibre crops industry,RUS,0.0,CMR,2013
+2089,IDN,Growing crops n.e.c. industry,RUS,0.00011731493558456061,CMR,2013
+2090,IDN,Growing grapes industry,RUS,0.0,CMR,2013
+2091,IDN,Growing fruits and nuts industry,RUS,1.5037253717665353e-05,CMR,2013
+2092,IDN,"Growing beverage crops (coffee, tea etc) industry",RUS,3.969069436343436e-06,CMR,2013
+2093,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,0.00012163963371449081,CMR,2013
+2094,IDN,Seeds and plant propagation industry,RUS,0.0,CMR,2013
+2095,IDN,Raising of cattle industry,RUS,0.00014954025683641022,CMR,2013
+2096,IDN,Growing wheat industry,RWA,0.0,CMR,2013
+2097,IDN,Growing maize industry,RWA,1.0918637660726074e-06,CMR,2013
+2098,IDN,Growing cereals n.e.c industry,RWA,0.0,CMR,2013
+2099,IDN,Growing leguminous crops and oil seeds industry,RWA,4.275811524540738e-05,CMR,2013
+2100,IDN,Growing rice industry,RWA,1.5071209471726309e-09,CMR,2013
+2101,IDN,"Growing vegetables, roots, tubers industry",RWA,0.0,CMR,2013
+2102,IDN,Growing sugar beet and cane industry,RWA,7.496504927747687e-07,CMR,2013
+2103,IDN,Growing tobacco industry,RWA,2.2945914696981195e-07,CMR,2013
+2104,IDN,Growing fibre crops industry,RWA,0.0,CMR,2013
+2105,IDN,Growing crops n.e.c. industry,RWA,1.363906419957677e-06,CMR,2013
+2106,IDN,Growing grapes industry,RWA,0.0,CMR,2013
+2107,IDN,Growing fruits and nuts industry,RWA,2.022973093979917e-07,CMR,2013
+2108,IDN,"Growing beverage crops (coffee, tea etc) industry",RWA,5.2484978282494424e-08,CMR,2013
+2109,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,1.8794887519173116e-06,CMR,2013
+2110,IDN,Seeds and plant propagation industry,RWA,0.0,CMR,2013
+2111,IDN,Raising of cattle industry,RWA,1.4328051037160557e-06,CMR,2013
+2112,IDN,Growing wheat industry,SAU,0.0,CMR,2013
+2113,IDN,Growing maize industry,SAU,7.287099959208314e-05,CMR,2013
+2114,IDN,Growing cereals n.e.c industry,SAU,0.0,CMR,2013
+2115,IDN,Growing leguminous crops and oil seeds industry,SAU,0.0020686567021887367,CMR,2013
+2116,IDN,Growing rice industry,SAU,8.484631165251897e-08,CMR,2013
+2117,IDN,"Growing vegetables, roots, tubers industry",SAU,0.0,CMR,2013
+2118,IDN,Growing sugar beet and cane industry,SAU,3.943806280543046e-05,CMR,2013
+2119,IDN,Growing tobacco industry,SAU,1.5304311448010615e-05,CMR,2013
+2120,IDN,Growing fibre crops industry,SAU,0.0,CMR,2013
+2121,IDN,Growing crops n.e.c. industry,SAU,8.664376673648462e-05,CMR,2013
+2122,IDN,Growing grapes industry,SAU,0.0,CMR,2013
+2123,IDN,Growing fruits and nuts industry,SAU,1.0842486150705205e-05,CMR,2013
+2124,IDN,"Growing beverage crops (coffee, tea etc) industry",SAU,2.9388484305909485e-06,CMR,2013
+2125,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,8.876983864742133e-05,CMR,2013
+2126,IDN,Seeds and plant propagation industry,SAU,0.0,CMR,2013
+2127,IDN,Raising of cattle industry,SAU,8.775897226518302e-05,CMR,2013
+2128,IDN,Growing wheat industry,SDS,0.0,CMR,2013
+2129,IDN,Growing maize industry,SDS,1.1064065924013758e-06,CMR,2013
+2130,IDN,Growing cereals n.e.c industry,SDS,0.0,CMR,2013
+2131,IDN,Growing leguminous crops and oil seeds industry,SDS,3.092579281755022e-05,CMR,2013
+2132,IDN,Growing rice industry,SDS,1.4111853641470694e-09,CMR,2013
+2133,IDN,"Growing vegetables, roots, tubers industry",SDS,0.0,CMR,2013
+2134,IDN,Growing sugar beet and cane industry,SDS,5.419822577404133e-07,CMR,2013
+2135,IDN,Growing tobacco industry,SDS,3.078849548149016e-07,CMR,2013
+2136,IDN,Growing fibre crops industry,SDS,0.0,CMR,2013
+2137,IDN,Growing crops n.e.c. industry,SDS,1.3876856664387442e-06,CMR,2013
+2138,IDN,Growing grapes industry,SDS,0.0,CMR,2013
+2139,IDN,Growing fruits and nuts industry,SDS,1.600882606065676e-07,CMR,2013
+2140,IDN,"Growing beverage crops (coffee, tea etc) industry",SDS,6.019960429524375e-08,CMR,2013
+2141,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,1.1811760908722787e-06,CMR,2013
+2142,IDN,Seeds and plant propagation industry,SDS,0.0,CMR,2013
+2143,IDN,Raising of cattle industry,SDS,1.1667743859531684e-06,CMR,2013
+2144,IDN,Growing wheat industry,SEN,0.0,CMR,2013
+2145,IDN,Growing maize industry,SEN,0.0009993113473543867,CMR,2013
+2146,IDN,Growing cereals n.e.c industry,SEN,0.0,CMR,2013
+2147,IDN,Growing leguminous crops and oil seeds industry,SEN,0.020452707045445863,CMR,2013
+2148,IDN,Growing rice industry,SEN,1.033929084937975e-06,CMR,2013
+2149,IDN,"Growing vegetables, roots, tubers industry",SEN,0.0,CMR,2013
+2150,IDN,Growing sugar beet and cane industry,SEN,0.0005748864685591089,CMR,2013
+2151,IDN,Growing tobacco industry,SEN,3.989111134098748e-05,CMR,2013
+2152,IDN,Growing fibre crops industry,SEN,0.0,CMR,2013
+2153,IDN,Growing crops n.e.c. industry,SEN,0.00028491079638021046,CMR,2013
+2154,IDN,Growing grapes industry,SEN,0.0,CMR,2013
+2155,IDN,Growing fruits and nuts industry,SEN,0.0010739209808868484,CMR,2013
+2156,IDN,"Growing beverage crops (coffee, tea etc) industry",SEN,9.838423870549992e-06,CMR,2013
+2157,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,0.002025921537249946,CMR,2013
+2158,IDN,Seeds and plant propagation industry,SEN,0.0,CMR,2013
+2159,IDN,Raising of cattle industry,SEN,0.00044463529664317734,CMR,2013
+2160,IDN,Growing wheat industry,SGP,0.0,CMR,2013
+2161,IDN,Growing maize industry,SGP,7.050396821871714e-05,CMR,2013
+2162,IDN,Growing cereals n.e.c industry,SGP,0.0,CMR,2013
+2163,IDN,Growing leguminous crops and oil seeds industry,SGP,0.0018855902078985152,CMR,2013
+2164,IDN,Growing rice industry,SGP,9.134714053047248e-08,CMR,2013
+2165,IDN,"Growing vegetables, roots, tubers industry",SGP,0.0,CMR,2013
+2166,IDN,Growing sugar beet and cane industry,SGP,3.92764158067957e-05,CMR,2013
+2167,IDN,Growing tobacco industry,SGP,1.9384244617181216e-05,CMR,2013
+2168,IDN,Growing fibre crops industry,SGP,0.0,CMR,2013
+2169,IDN,Growing crops n.e.c. industry,SGP,7.97790269593051e-05,CMR,2013
+2170,IDN,Growing grapes industry,SGP,0.0,CMR,2013
+2171,IDN,Growing fruits and nuts industry,SGP,1.7080911375916726e-05,CMR,2013
+2172,IDN,"Growing beverage crops (coffee, tea etc) industry",SGP,3.129470212180998e-06,CMR,2013
+2173,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,9.116572855613758e-05,CMR,2013
+2174,IDN,Seeds and plant propagation industry,SGP,0.0,CMR,2013
+2175,IDN,Raising of cattle industry,SGP,8.439126711838763e-05,CMR,2013
+2176,IDN,Growing wheat industry,SLE,0.0,CMR,2013
+2177,IDN,Growing maize industry,SLE,1.6431283409834896e-06,CMR,2013
+2178,IDN,Growing cereals n.e.c industry,SLE,0.0,CMR,2013
+2179,IDN,Growing leguminous crops and oil seeds industry,SLE,4.87548883247657e-05,CMR,2013
+2180,IDN,Growing rice industry,SLE,1.9451467226916196e-09,CMR,2013
+2181,IDN,"Growing vegetables, roots, tubers industry",SLE,0.0,CMR,2013
+2182,IDN,Growing sugar beet and cane industry,SLE,8.819361598236313e-07,CMR,2013
+2183,IDN,Growing tobacco industry,SLE,3.258984605316229e-07,CMR,2013
+2184,IDN,Growing fibre crops industry,SLE,0.0,CMR,2013
+2185,IDN,Growing crops n.e.c. industry,SLE,1.7297753100454956e-06,CMR,2013
+2186,IDN,Growing grapes industry,SLE,0.0,CMR,2013
+2187,IDN,Growing fruits and nuts industry,SLE,2.6685993696380134e-07,CMR,2013
+2188,IDN,"Growing beverage crops (coffee, tea etc) industry",SLE,6.386190119961287e-08,CMR,2013
+2189,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,2.2087120044316654e-06,CMR,2013
+2190,IDN,Seeds and plant propagation industry,SLE,0.0,CMR,2013
+2191,IDN,Raising of cattle industry,SLE,2.0296901589250395e-06,CMR,2013
+2192,IDN,Growing wheat industry,SLV,0.0,CMR,2013
+2193,IDN,Growing maize industry,SLV,3.213619610022904e-06,CMR,2013
+2194,IDN,Growing cereals n.e.c industry,SLV,0.0,CMR,2013
+2195,IDN,Growing leguminous crops and oil seeds industry,SLV,0.00010080071408266966,CMR,2013
+2196,IDN,Growing rice industry,SLV,4.175966318087432e-09,CMR,2013
+2197,IDN,"Growing vegetables, roots, tubers industry",SLV,0.0,CMR,2013
+2198,IDN,Growing sugar beet and cane industry,SLV,1.7794336965610883e-06,CMR,2013
+2199,IDN,Growing tobacco industry,SLV,4.2831159084758055e-07,CMR,2013
+2200,IDN,Growing fibre crops industry,SLV,0.0,CMR,2013
+2201,IDN,Growing crops n.e.c. industry,SLV,3.029207073381149e-06,CMR,2013
+2202,IDN,Growing grapes industry,SLV,0.0,CMR,2013
+2203,IDN,Growing fruits and nuts industry,SLV,1.0994699505470309e-06,CMR,2013
+2204,IDN,"Growing beverage crops (coffee, tea etc) industry",SLV,9.346516111888986e-08,CMR,2013
+2205,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,6.016778445490843e-06,CMR,2013
+2206,IDN,Seeds and plant propagation industry,SLV,0.0,CMR,2013
+2207,IDN,Raising of cattle industry,SLV,2.886414396791092e-06,CMR,2013
+2208,IDN,Growing wheat industry,SOM,0.0,CMR,2013
+2209,IDN,Growing maize industry,SOM,1.1014524751926924e-06,CMR,2013
+2210,IDN,Growing cereals n.e.c industry,SOM,0.0,CMR,2013
+2211,IDN,Growing leguminous crops and oil seeds industry,SOM,3.040141237701673e-05,CMR,2013
+2212,IDN,Growing rice industry,SOM,1.302165380177154e-09,CMR,2013
+2213,IDN,"Growing vegetables, roots, tubers industry",SOM,0.0,CMR,2013
+2214,IDN,Growing sugar beet and cane industry,SOM,5.978890951244762e-07,CMR,2013
+2215,IDN,Growing tobacco industry,SOM,2.016698609663721e-07,CMR,2013
+2216,IDN,Growing fibre crops industry,SOM,0.0,CMR,2013
+2217,IDN,Growing crops n.e.c. industry,SOM,1.4511344909017095e-06,CMR,2013
+2218,IDN,Growing grapes industry,SOM,0.0,CMR,2013
+2219,IDN,Growing fruits and nuts industry,SOM,1.4954872198995086e-07,CMR,2013
+2220,IDN,"Growing beverage crops (coffee, tea etc) industry",SOM,4.465818531389765e-08,CMR,2013
+2221,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,1.3521912682164375e-06,CMR,2013
+2222,IDN,Seeds and plant propagation industry,SOM,0.0,CMR,2013
+2223,IDN,Raising of cattle industry,SOM,1.5536177759218264e-06,CMR,2013
+2224,IDN,Growing wheat industry,SRB,0.0,CMR,2013
+2225,IDN,Growing maize industry,SRB,1.1321881605382544e-05,CMR,2013
+2226,IDN,Growing cereals n.e.c industry,SRB,0.0,CMR,2013
+2227,IDN,Growing leguminous crops and oil seeds industry,SRB,0.0006223808985201767,CMR,2013
+2228,IDN,Growing rice industry,SRB,2.000678417137028e-08,CMR,2013
+2229,IDN,"Growing vegetables, roots, tubers industry",SRB,0.0,CMR,2013
+2230,IDN,Growing sugar beet and cane industry,SRB,5.305941028924513e-06,CMR,2013
+2231,IDN,Growing tobacco industry,SRB,4.318974995841329e-06,CMR,2013
+2232,IDN,Growing fibre crops industry,SRB,0.0,CMR,2013
+2233,IDN,Growing crops n.e.c. industry,SRB,1.6873499549657543e-05,CMR,2013
+2234,IDN,Growing grapes industry,SRB,0.0,CMR,2013
+2235,IDN,Growing fruits and nuts industry,SRB,2.2131505796122615e-06,CMR,2013
+2236,IDN,"Growing beverage crops (coffee, tea etc) industry",SRB,8.375018568279043e-07,CMR,2013
+2237,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,2.8459326807030303e-05,CMR,2013
+2238,IDN,Seeds and plant propagation industry,SRB,0.0,CMR,2013
+2239,IDN,Raising of cattle industry,SRB,1.453914116677953e-05,CMR,2013
+2240,IDN,Growing wheat industry,SDN,0.0,CMR,2013
+2241,IDN,Growing maize industry,SDN,1.2575567685315025e-05,CMR,2013
+2242,IDN,Growing cereals n.e.c industry,SDN,0.0,CMR,2013
+2243,IDN,Growing leguminous crops and oil seeds industry,SDN,0.00036356262681228746,CMR,2013
+2244,IDN,Growing rice industry,SDN,1.5448164876413635e-08,CMR,2013
+2245,IDN,"Growing vegetables, roots, tubers industry",SDN,0.0,CMR,2013
+2246,IDN,Growing sugar beet and cane industry,SDN,6.959436743858673e-06,CMR,2013
+2247,IDN,Growing tobacco industry,SDN,9.068706525052619e-07,CMR,2013
+2248,IDN,Growing fibre crops industry,SDN,0.0,CMR,2013
+2249,IDN,Growing crops n.e.c. industry,SDN,8.062912441016577e-06,CMR,2013
+2250,IDN,Growing grapes industry,SDN,0.0,CMR,2013
+2251,IDN,Growing fruits and nuts industry,SDN,7.342768809555425e-06,CMR,2013
+2252,IDN,"Growing beverage crops (coffee, tea etc) industry",SDN,2.2958242638671094e-07,CMR,2013
+2253,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,2.6168827832829648e-05,CMR,2013
+2254,IDN,Seeds and plant propagation industry,SDN,0.0,CMR,2013
+2255,IDN,Raising of cattle industry,SDN,8.820718105409011e-06,CMR,2013
+2256,IDN,Growing wheat industry,SVK,0.0,CMR,2013
+2257,IDN,Growing maize industry,SVK,7.440330481672607e-05,CMR,2013
+2258,IDN,Growing cereals n.e.c industry,SVK,0.0,CMR,2013
+2259,IDN,Growing leguminous crops and oil seeds industry,SVK,0.0015879376602083914,CMR,2013
+2260,IDN,Growing rice industry,SVK,7.04729925839591e-08,CMR,2013
+2261,IDN,"Growing vegetables, roots, tubers industry",SVK,0.0,CMR,2013
+2262,IDN,Growing sugar beet and cane industry,SVK,4.1882707474218535e-05,CMR,2013
+2263,IDN,Growing tobacco industry,SVK,8.055710799553288e-06,CMR,2013
+2264,IDN,Growing fibre crops industry,SVK,0.0,CMR,2013
+2265,IDN,Growing crops n.e.c. industry,SVK,6.866682370176729e-05,CMR,2013
+2266,IDN,Growing grapes industry,SVK,0.0,CMR,2013
+2267,IDN,Growing fruits and nuts industry,SVK,1.4115283672733479e-05,CMR,2013
+2268,IDN,"Growing beverage crops (coffee, tea etc) industry",SVK,1.7575337232242932e-06,CMR,2013
+2269,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,7.443174605081046e-05,CMR,2013
+2270,IDN,Seeds and plant propagation industry,SVK,0.0,CMR,2013
+2271,IDN,Raising of cattle industry,SVK,0.00013517502744432006,CMR,2013
+2272,IDN,Growing wheat industry,SVN,0.0,CMR,2013
+2273,IDN,Growing maize industry,SVN,9.788949827266801e-06,CMR,2013
+2274,IDN,Growing cereals n.e.c industry,SVN,0.0,CMR,2013
+2275,IDN,Growing leguminous crops and oil seeds industry,SVN,0.00026626317408363415,CMR,2013
+2276,IDN,Growing rice industry,SVN,1.1153828828541364e-08,CMR,2013
+2277,IDN,"Growing vegetables, roots, tubers industry",SVN,0.0,CMR,2013
+2278,IDN,Growing sugar beet and cane industry,SVN,5.4258418996837e-06,CMR,2013
+2279,IDN,Growing tobacco industry,SVN,1.6408946515893327e-06,CMR,2013
+2280,IDN,Growing fibre crops industry,SVN,0.0,CMR,2013
+2281,IDN,Growing crops n.e.c. industry,SVN,1.420506108913171e-05,CMR,2013
+2282,IDN,Growing grapes industry,SVN,0.0,CMR,2013
+2283,IDN,Growing fruits and nuts industry,SVN,1.3897821293369924e-06,CMR,2013
+2284,IDN,"Growing beverage crops (coffee, tea etc) industry",SVN,3.7117379822360237e-07,CMR,2013
+2285,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,1.1182008788751269e-05,CMR,2013
+2286,IDN,Seeds and plant propagation industry,SVN,0.0,CMR,2013
+2287,IDN,Raising of cattle industry,SVN,1.5730610946583783e-05,CMR,2013
+2288,IDN,Growing wheat industry,SWE,0.0,CMR,2013
+2289,IDN,Growing maize industry,SWE,5.742801842351458e-05,CMR,2013
+2290,IDN,Growing cereals n.e.c industry,SWE,0.0,CMR,2013
+2291,IDN,Growing leguminous crops and oil seeds industry,SWE,0.001301448306180028,CMR,2013
+2292,IDN,Growing rice industry,SWE,5.934971326564968e-08,CMR,2013
+2293,IDN,"Growing vegetables, roots, tubers industry",SWE,0.0,CMR,2013
+2294,IDN,Growing sugar beet and cane industry,SWE,3.173718963095879e-05,CMR,2013
+2295,IDN,Growing tobacco industry,SWE,8.324321028807923e-06,CMR,2013
+2296,IDN,Growing fibre crops industry,SWE,0.0,CMR,2013
+2297,IDN,Growing crops n.e.c. industry,SWE,5.9937613594713165e-05,CMR,2013
+2298,IDN,Growing grapes industry,SWE,0.0,CMR,2013
+2299,IDN,Growing fruits and nuts industry,SWE,9.31645780774958e-06,CMR,2013
+2300,IDN,"Growing beverage crops (coffee, tea etc) industry",SWE,1.7326746154896497e-06,CMR,2013
+2301,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,6.097845960940255e-05,CMR,2013
+2302,IDN,Seeds and plant propagation industry,SWE,0.0,CMR,2013
+2303,IDN,Raising of cattle industry,SWE,9.783151571238891e-05,CMR,2013
+2304,IDN,Growing wheat industry,SYR,0.0,CMR,2013
+2305,IDN,Growing maize industry,SYR,3.880674594699228e-06,CMR,2013
+2306,IDN,Growing cereals n.e.c industry,SYR,0.0,CMR,2013
+2307,IDN,Growing leguminous crops and oil seeds industry,SYR,9.53242729339258e-05,CMR,2013
+2308,IDN,Growing rice industry,SYR,4.198313838763284e-09,CMR,2013
+2309,IDN,"Growing vegetables, roots, tubers industry",SYR,0.0,CMR,2013
+2310,IDN,Growing sugar beet and cane industry,SYR,2.133594248051907e-06,CMR,2013
+2311,IDN,Growing tobacco industry,SYR,6.939410678922263e-07,CMR,2013
+2312,IDN,Growing fibre crops industry,SYR,0.0,CMR,2013
+2313,IDN,Growing crops n.e.c. industry,SYR,4.11241172084881e-06,CMR,2013
+2314,IDN,Growing grapes industry,SYR,0.0,CMR,2013
+2315,IDN,Growing fruits and nuts industry,SYR,5.628045791763204e-07,CMR,2013
+2316,IDN,"Growing beverage crops (coffee, tea etc) industry",SYR,1.3797305278127118e-07,CMR,2013
+2317,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,4.220425570369632e-06,CMR,2013
+2318,IDN,Seeds and plant propagation industry,SYR,0.0,CMR,2013
+2319,IDN,Raising of cattle industry,SYR,4.6915186191226264e-06,CMR,2013
+2320,IDN,Growing wheat industry,TCD,0.0,CMR,2013
+2321,IDN,Growing maize industry,TCD,0.0019193364874051629,CMR,2013
+2322,IDN,Growing cereals n.e.c industry,TCD,0.0,CMR,2013
+2323,IDN,Growing leguminous crops and oil seeds industry,TCD,0.10515481106656238,CMR,2013
+2324,IDN,Growing rice industry,TCD,2.9430775733370222e-06,CMR,2013
+2325,IDN,"Growing vegetables, roots, tubers industry",TCD,0.0,CMR,2013
+2326,IDN,Growing sugar beet and cane industry,TCD,0.0010706934105115967,CMR,2013
+2327,IDN,Growing tobacco industry,TCD,0.00024076781898550666,CMR,2013
+2328,IDN,Growing fibre crops industry,TCD,0.0,CMR,2013
+2329,IDN,Growing crops n.e.c. industry,TCD,0.00252159634191626,CMR,2013
+2330,IDN,Growing grapes industry,TCD,0.0,CMR,2013
+2331,IDN,Growing fruits and nuts industry,TCD,0.000821042345723116,CMR,2013
+2332,IDN,"Growing beverage crops (coffee, tea etc) industry",TCD,4.9197815821204046e-05,CMR,2013
+2333,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,0.0048792721938578755,CMR,2013
+2334,IDN,Seeds and plant propagation industry,TCD,0.0,CMR,2013
+2335,IDN,Raising of cattle industry,TCD,0.0022135345182430466,CMR,2013
+2336,IDN,Growing wheat industry,TGO,0.0,CMR,2013
+2337,IDN,Growing maize industry,TGO,1.2654433784735713e-05,CMR,2013
+2338,IDN,Growing cereals n.e.c industry,TGO,0.0,CMR,2013
+2339,IDN,Growing leguminous crops and oil seeds industry,TGO,0.0005437658898160858,CMR,2013
+2340,IDN,Growing rice industry,TGO,1.8184176896727403e-08,CMR,2013
+2341,IDN,"Growing vegetables, roots, tubers industry",TGO,0.0,CMR,2013
+2342,IDN,Growing sugar beet and cane industry,TGO,6.536191044464264e-06,CMR,2013
+2343,IDN,Growing tobacco industry,TGO,2.8589273676254133e-06,CMR,2013
+2344,IDN,Growing fibre crops industry,TGO,0.0,CMR,2013
+2345,IDN,Growing crops n.e.c. industry,TGO,1.5341691319947825e-05,CMR,2013
+2346,IDN,Growing grapes industry,TGO,0.0,CMR,2013
+2347,IDN,Growing fruits and nuts industry,TGO,5.252904965632018e-06,CMR,2013
+2348,IDN,"Growing beverage crops (coffee, tea etc) industry",TGO,6.087436176981049e-07,CMR,2013
+2349,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,2.590036707982219e-05,CMR,2013
+2350,IDN,Seeds and plant propagation industry,TGO,0.0,CMR,2013
+2351,IDN,Raising of cattle industry,TGO,1.3817804843765156e-05,CMR,2013
+2352,IDN,Growing wheat industry,THA,0.0,CMR,2013
+2353,IDN,Growing maize industry,THA,0.00013704903406730015,CMR,2013
+2354,IDN,Growing cereals n.e.c industry,THA,0.0,CMR,2013
+2355,IDN,Growing leguminous crops and oil seeds industry,THA,0.004495895589733206,CMR,2013
+2356,IDN,Growing rice industry,THA,1.9635047085725912e-07,CMR,2013
+2357,IDN,"Growing vegetables, roots, tubers industry",THA,0.0,CMR,2013
+2358,IDN,Growing sugar beet and cane industry,THA,7.514297850867835e-05,CMR,2013
+2359,IDN,Growing tobacco industry,THA,4.03330442401487e-05,CMR,2013
+2360,IDN,Growing fibre crops industry,THA,0.0,CMR,2013
+2361,IDN,Growing crops n.e.c. industry,THA,0.00015901302340877438,CMR,2013
+2362,IDN,Growing grapes industry,THA,0.0,CMR,2013
+2363,IDN,Growing fruits and nuts industry,THA,3.72469909346174e-05,CMR,2013
+2364,IDN,"Growing beverage crops (coffee, tea etc) industry",THA,6.351943773999631e-06,CMR,2013
+2365,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,0.00020363471457254549,CMR,2013
+2366,IDN,Seeds and plant propagation industry,THA,0.0,CMR,2013
+2367,IDN,Raising of cattle industry,THA,0.00017342654755878755,CMR,2013
+2368,IDN,Growing wheat industry,TJK,0.0,CMR,2013
+2369,IDN,Growing maize industry,TJK,1.2334102645687452e-06,CMR,2013
+2370,IDN,Growing cereals n.e.c industry,TJK,0.0,CMR,2013
+2371,IDN,Growing leguminous crops and oil seeds industry,TJK,4.225387233009146e-05,CMR,2013
+2372,IDN,Growing rice industry,TJK,1.3386766794335538e-09,CMR,2013
+2373,IDN,"Growing vegetables, roots, tubers industry",TJK,0.0,CMR,2013
+2374,IDN,Growing sugar beet and cane industry,TJK,6.871883818939034e-07,CMR,2013
+2375,IDN,Growing tobacco industry,TJK,1.5781161975038096e-07,CMR,2013
+2376,IDN,Growing fibre crops industry,TJK,0.0,CMR,2013
+2377,IDN,Growing crops n.e.c. industry,TJK,1.0417001023978436e-06,CMR,2013
+2378,IDN,Growing grapes industry,TJK,0.0,CMR,2013
+2379,IDN,Growing fruits and nuts industry,TJK,4.814333853638913e-07,CMR,2013
+2380,IDN,"Growing beverage crops (coffee, tea etc) industry",TJK,3.283305945748731e-08,CMR,2013
+2381,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,1.5820062452530644e-06,CMR,2013
+2382,IDN,Seeds and plant propagation industry,TJK,0.0,CMR,2013
+2383,IDN,Raising of cattle industry,TJK,1.2292453243435465e-06,CMR,2013
+2384,IDN,Growing wheat industry,TKM,0.0,CMR,2013
+2385,IDN,Growing maize industry,TKM,9.416637848254337e-07,CMR,2013
+2386,IDN,Growing cereals n.e.c industry,TKM,0.0,CMR,2013
+2387,IDN,Growing leguminous crops and oil seeds industry,TKM,2.6538721741646376e-05,CMR,2013
+2388,IDN,Growing rice industry,TKM,1.1500426404031648e-09,CMR,2013
+2389,IDN,"Growing vegetables, roots, tubers industry",TKM,0.0,CMR,2013
+2390,IDN,Growing sugar beet and cane industry,TKM,5.126312679682786e-07,CMR,2013
+2391,IDN,Growing tobacco industry,TKM,2.0609894492856337e-07,CMR,2013
+2392,IDN,Growing fibre crops industry,TKM,0.0,CMR,2013
+2393,IDN,Growing crops n.e.c. industry,TKM,1.2266133240239339e-06,CMR,2013
+2394,IDN,Growing grapes industry,TKM,0.0,CMR,2013
+2395,IDN,Growing fruits and nuts industry,TKM,1.3626826900687614e-07,CMR,2013
+2396,IDN,"Growing beverage crops (coffee, tea etc) industry",TKM,3.9965340004821176e-08,CMR,2013
+2397,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,1.1607450235353048e-06,CMR,2013
+2398,IDN,Seeds and plant propagation industry,TKM,0.0,CMR,2013
+2399,IDN,Raising of cattle industry,TKM,1.303818769952014e-06,CMR,2013
+2400,IDN,Growing wheat industry,TUN,0.0,CMR,2013
+2401,IDN,Growing maize industry,TUN,1.1185912057087703e-05,CMR,2013
+2402,IDN,Growing cereals n.e.c industry,TUN,0.0,CMR,2013
+2403,IDN,Growing leguminous crops and oil seeds industry,TUN,0.000333763304939732,CMR,2013
+2404,IDN,Growing rice industry,TUN,1.3557381892470507e-08,CMR,2013
+2405,IDN,"Growing vegetables, roots, tubers industry",TUN,0.0,CMR,2013
+2406,IDN,Growing sugar beet and cane industry,TUN,6.111817642115681e-06,CMR,2013
+2407,IDN,Growing tobacco industry,TUN,2.449066489406351e-06,CMR,2013
+2408,IDN,Growing fibre crops industry,TUN,0.0,CMR,2013
+2409,IDN,Growing crops n.e.c. industry,TUN,1.2773424000432347e-05,CMR,2013
+2410,IDN,Growing grapes industry,TUN,0.0,CMR,2013
+2411,IDN,Growing fruits and nuts industry,TUN,1.8046340673175527e-06,CMR,2013
+2412,IDN,"Growing beverage crops (coffee, tea etc) industry",TUN,4.526341556334232e-07,CMR,2013
+2413,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,1.4760816382651184e-05,CMR,2013
+2414,IDN,Seeds and plant propagation industry,TUN,0.0,CMR,2013
+2415,IDN,Raising of cattle industry,TUN,1.2862021604382139e-05,CMR,2013
+2416,IDN,Growing wheat industry,TUR,0.0,CMR,2013
+2417,IDN,Growing maize industry,TUR,0.00015563070184739422,CMR,2013
+2418,IDN,Growing cereals n.e.c industry,TUR,0.0,CMR,2013
+2419,IDN,Growing leguminous crops and oil seeds industry,TUR,0.0032400262137301248,CMR,2013
+2420,IDN,Growing rice industry,TUR,1.4217271331605206e-07,CMR,2013
+2421,IDN,"Growing vegetables, roots, tubers industry",TUR,0.0,CMR,2013
+2422,IDN,Growing sugar beet and cane industry,TUR,8.739238370578568e-05,CMR,2013
+2423,IDN,Growing tobacco industry,TUR,1.914535664348078e-05,CMR,2013
+2424,IDN,Growing fibre crops industry,TUR,0.0,CMR,2013
+2425,IDN,Growing crops n.e.c. industry,TUR,0.00014449818990836688,CMR,2013
+2426,IDN,Growing grapes industry,TUR,0.0,CMR,2013
+2427,IDN,Growing fruits and nuts industry,TUR,2.470616072019042e-05,CMR,2013
+2428,IDN,"Growing beverage crops (coffee, tea etc) industry",TUR,4.133589430692238e-06,CMR,2013
+2429,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,0.000155164453082882,CMR,2013
+2430,IDN,Seeds and plant propagation industry,TUR,0.0,CMR,2013
+2431,IDN,Raising of cattle industry,TUR,0.00018748615410074852,CMR,2013
+2432,IDN,Growing wheat industry,TZA,0.0,CMR,2013
+2433,IDN,Growing maize industry,TZA,8.432383886128155e-06,CMR,2013
+2434,IDN,Growing cereals n.e.c industry,TZA,0.0,CMR,2013
+2435,IDN,Growing leguminous crops and oil seeds industry,TZA,0.0003092238995908831,CMR,2013
+2436,IDN,Growing rice industry,TZA,1.0436777513060593e-08,CMR,2013
+2437,IDN,"Growing vegetables, roots, tubers industry",TZA,0.0,CMR,2013
+2438,IDN,Growing sugar beet and cane industry,TZA,4.761866930529643e-06,CMR,2013
+2439,IDN,Growing tobacco industry,TZA,1.654009670278756e-06,CMR,2013
+2440,IDN,Growing fibre crops industry,TZA,0.0,CMR,2013
+2441,IDN,Growing crops n.e.c. industry,TZA,7.475571361041626e-06,CMR,2013
+2442,IDN,Growing grapes industry,TZA,0.0,CMR,2013
+2443,IDN,Growing fruits and nuts industry,TZA,3.2843426952238297e-06,CMR,2013
+2444,IDN,"Growing beverage crops (coffee, tea etc) industry",TZA,2.965678412635766e-07,CMR,2013
+2445,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,1.1776246239746338e-05,CMR,2013
+2446,IDN,Seeds and plant propagation industry,TZA,0.0,CMR,2013
+2447,IDN,Raising of cattle industry,TZA,7.336616693818624e-06,CMR,2013
+2448,IDN,Growing wheat industry,UGA,0.0,CMR,2013
+2449,IDN,Growing maize industry,UGA,1.6237979412127887e-05,CMR,2013
+2450,IDN,Growing cereals n.e.c industry,UGA,0.0,CMR,2013
+2451,IDN,Growing leguminous crops and oil seeds industry,UGA,0.0013917780019719827,CMR,2013
+2452,IDN,Growing rice industry,UGA,3.53972573301097e-08,CMR,2013
+2453,IDN,"Growing vegetables, roots, tubers industry",UGA,0.0,CMR,2013
+2454,IDN,Growing sugar beet and cane industry,UGA,8.66561847239094e-06,CMR,2013
+2455,IDN,Growing tobacco industry,UGA,2.9526742828723014e-06,CMR,2013
+2456,IDN,Growing fibre crops industry,UGA,0.0,CMR,2013
+2457,IDN,Growing crops n.e.c. industry,UGA,3.368650994494068e-05,CMR,2013
+2458,IDN,Growing grapes industry,UGA,0.0,CMR,2013
+2459,IDN,Growing fruits and nuts industry,UGA,3.528966536511714e-06,CMR,2013
+2460,IDN,"Growing beverage crops (coffee, tea etc) industry",UGA,5.582960368126425e-07,CMR,2013
+2461,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,6.20370621424193e-05,CMR,2013
+2462,IDN,Seeds and plant propagation industry,UGA,0.0,CMR,2013
+2463,IDN,Raising of cattle industry,UGA,2.7986694642980496e-05,CMR,2013
+2464,IDN,Growing wheat industry,UKR,0.0,CMR,2013
+2465,IDN,Growing maize industry,UKR,2.3525366600723542e-05,CMR,2013
+2466,IDN,Growing cereals n.e.c industry,UKR,0.0,CMR,2013
+2467,IDN,Growing leguminous crops and oil seeds industry,UKR,0.0008370985656258188,CMR,2013
+2468,IDN,Growing rice industry,UKR,2.573148508882769e-08,CMR,2013
+2469,IDN,"Growing vegetables, roots, tubers industry",UKR,0.0,CMR,2013
+2470,IDN,Growing sugar beet and cane industry,UKR,1.3150539701559401e-05,CMR,2013
+2471,IDN,Growing tobacco industry,UKR,2.8337370094316153e-06,CMR,2013
+2472,IDN,Growing fibre crops industry,UKR,0.0,CMR,2013
+2473,IDN,Growing crops n.e.c. industry,UKR,1.780799739577165e-05,CMR,2013
+2474,IDN,Growing grapes industry,UKR,0.0,CMR,2013
+2475,IDN,Growing fruits and nuts industry,UKR,1.1301676185072554e-05,CMR,2013
+2476,IDN,"Growing beverage crops (coffee, tea etc) industry",UKR,5.847064284643378e-07,CMR,2013
+2477,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,3.0358499030303232e-05,CMR,2013
+2478,IDN,Seeds and plant propagation industry,UKR,0.0,CMR,2013
+2479,IDN,Raising of cattle industry,UKR,2.4696416817999792e-05,CMR,2013
+2480,IDN,Growing wheat industry,URY,0.0,CMR,2013
+2481,IDN,Growing maize industry,URY,4.175641483866991e-06,CMR,2013
+2482,IDN,Growing cereals n.e.c industry,URY,0.0,CMR,2013
+2483,IDN,Growing leguminous crops and oil seeds industry,URY,0.0001222160267134891,CMR,2013
+2484,IDN,Growing rice industry,URY,5.4289804484385665e-09,CMR,2013
+2485,IDN,"Growing vegetables, roots, tubers industry",URY,0.0,CMR,2013
+2486,IDN,Growing sugar beet and cane industry,URY,2.119839747021546e-06,CMR,2013
+2487,IDN,Growing tobacco industry,URY,9.681942900658305e-07,CMR,2013
+2488,IDN,Growing fibre crops industry,URY,0.0,CMR,2013
+2489,IDN,Growing crops n.e.c. industry,URY,4.936593317675507e-06,CMR,2013
+2490,IDN,Growing grapes industry,URY,0.0,CMR,2013
+2491,IDN,Growing fruits and nuts industry,URY,6.682067699342605e-07,CMR,2013
+2492,IDN,"Growing beverage crops (coffee, tea etc) industry",URY,2.0619613489725534e-07,CMR,2013
+2493,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,4.919263933159621e-06,CMR,2013
+2494,IDN,Seeds and plant propagation industry,URY,0.0,CMR,2013
+2495,IDN,Raising of cattle industry,URY,5.1343343722831825e-06,CMR,2013
+2496,IDN,Growing wheat industry,USA,0.0,CMR,2013
+2497,IDN,Growing maize industry,USA,0.001473784643283991,CMR,2013
+2498,IDN,Growing cereals n.e.c industry,USA,0.0,CMR,2013
+2499,IDN,Growing leguminous crops and oil seeds industry,USA,0.03953859750185977,CMR,2013
+2500,IDN,Growing rice industry,USA,1.7276677546015246e-06,CMR,2013
+2501,IDN,"Growing vegetables, roots, tubers industry",USA,0.0,CMR,2013
+2502,IDN,Growing sugar beet and cane industry,USA,0.000820407533368867,CMR,2013
+2503,IDN,Growing tobacco industry,USA,0.00026062571168413296,CMR,2013
+2504,IDN,Growing fibre crops industry,USA,0.0,CMR,2013
+2505,IDN,Growing crops n.e.c. industry,USA,0.0014126132906852101,CMR,2013
+2506,IDN,Growing grapes industry,USA,0.0,CMR,2013
+2507,IDN,Growing fruits and nuts industry,USA,0.0006790283755443479,CMR,2013
+2508,IDN,"Growing beverage crops (coffee, tea etc) industry",USA,4.812264555996656e-05,CMR,2013
+2509,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,0.002286078863256941,CMR,2013
+2510,IDN,Seeds and plant propagation industry,USA,0.0,CMR,2013
+2511,IDN,Raising of cattle industry,USA,0.0014633507950847107,CMR,2013
+2512,IDN,Growing wheat industry,UZB,0.0,CMR,2013
+2513,IDN,Growing maize industry,UZB,4.244752962462506e-06,CMR,2013
+2514,IDN,Growing cereals n.e.c industry,UZB,0.0,CMR,2013
+2515,IDN,Growing leguminous crops and oil seeds industry,UZB,0.00010758363291850868,CMR,2013
+2516,IDN,Growing rice industry,UZB,5.372004778830118e-09,CMR,2013
+2517,IDN,"Growing vegetables, roots, tubers industry",UZB,0.0,CMR,2013
+2518,IDN,Growing sugar beet and cane industry,UZB,2.315268759967638e-06,CMR,2013
+2519,IDN,Growing tobacco industry,UZB,1.2789894521447416e-06,CMR,2013
+2520,IDN,Growing fibre crops industry,UZB,0.0,CMR,2013
+2521,IDN,Growing crops n.e.c. industry,UZB,4.597990506807279e-06,CMR,2013
+2522,IDN,Growing grapes industry,UZB,0.0,CMR,2013
+2523,IDN,Growing fruits and nuts industry,UZB,6.017185620675944e-07,CMR,2013
+2524,IDN,"Growing beverage crops (coffee, tea etc) industry",UZB,2.0009721316584336e-07,CMR,2013
+2525,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,4.4346811854842105e-06,CMR,2013
+2526,IDN,Seeds and plant propagation industry,UZB,0.0,CMR,2013
+2527,IDN,Raising of cattle industry,UZB,4.549481081195493e-06,CMR,2013
+2528,IDN,Growing wheat industry,VEN,0.0,CMR,2013
+2529,IDN,Growing maize industry,VEN,9.894174311997096e-06,CMR,2013
+2530,IDN,Growing cereals n.e.c industry,VEN,0.0,CMR,2013
+2531,IDN,Growing leguminous crops and oil seeds industry,VEN,0.0002867431752741225,CMR,2013
+2532,IDN,Growing rice industry,VEN,1.2542383157477163e-08,CMR,2013
+2533,IDN,"Growing vegetables, roots, tubers industry",VEN,0.0,CMR,2013
+2534,IDN,Growing sugar beet and cane industry,VEN,5.351998981310307e-06,CMR,2013
+2535,IDN,Growing tobacco industry,VEN,2.3384112946545706e-06,CMR,2013
+2536,IDN,Growing fibre crops industry,VEN,0.0,CMR,2013
+2537,IDN,Growing crops n.e.c. industry,VEN,1.2526075007954671e-05,CMR,2013
+2538,IDN,Growing grapes industry,VEN,0.0,CMR,2013
+2539,IDN,Growing fruits and nuts industry,VEN,1.5291793849816554e-06,CMR,2013
+2540,IDN,"Growing beverage crops (coffee, tea etc) industry",VEN,4.355188958791764e-07,CMR,2013
+2541,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,1.2520106466215537e-05,CMR,2013
+2542,IDN,Seeds and plant propagation industry,VEN,0.0,CMR,2013
+2543,IDN,Raising of cattle industry,VEN,1.3281988394240113e-05,CMR,2013
+2544,IDN,Growing wheat industry,VNM,0.0,CMR,2013
+2545,IDN,Growing maize industry,VNM,0.00013823656490735234,CMR,2013
+2546,IDN,Growing cereals n.e.c industry,VNM,0.0,CMR,2013
+2547,IDN,Growing leguminous crops and oil seeds industry,VNM,0.004185335571021115,CMR,2013
+2548,IDN,Growing rice industry,VNM,1.6042704408094748e-07,CMR,2013
+2549,IDN,"Growing vegetables, roots, tubers industry",VNM,0.0,CMR,2013
+2550,IDN,Growing sugar beet and cane industry,VNM,7.771690243347555e-05,CMR,2013
+2551,IDN,Growing tobacco industry,VNM,2.3648238296157554e-05,CMR,2013
+2552,IDN,Growing fibre crops industry,VNM,0.0,CMR,2013
+2553,IDN,Growing crops n.e.c. industry,VNM,0.00023489272945465017,CMR,2013
+2554,IDN,Growing grapes industry,VNM,0.0,CMR,2013
+2555,IDN,Growing fruits and nuts industry,VNM,2.1712534535425456e-05,CMR,2013
+2556,IDN,"Growing beverage crops (coffee, tea etc) industry",VNM,5.43215036140287e-06,CMR,2013
+2557,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,0.00016634602667222573,CMR,2013
+2558,IDN,Seeds and plant propagation industry,VNM,0.0,CMR,2013
+2559,IDN,Raising of cattle industry,VNM,0.00021601154061449341,CMR,2013
+2560,IDN,Growing wheat industry,YEM,0.0,CMR,2013
+2561,IDN,Growing maize industry,YEM,3.6408704301354324e-06,CMR,2013
+2562,IDN,Growing cereals n.e.c industry,YEM,0.0,CMR,2013
+2563,IDN,Growing leguminous crops and oil seeds industry,YEM,0.00010796598452859157,CMR,2013
+2564,IDN,Growing rice industry,YEM,4.450338712002748e-09,CMR,2013
+2565,IDN,"Growing vegetables, roots, tubers industry",YEM,0.0,CMR,2013
+2566,IDN,Growing sugar beet and cane industry,YEM,1.978738983858248e-06,CMR,2013
+2567,IDN,Growing tobacco industry,YEM,7.635013120125712e-07,CMR,2013
+2568,IDN,Growing fibre crops industry,YEM,0.0,CMR,2013
+2569,IDN,Growing crops n.e.c. industry,YEM,4.824960759738936e-06,CMR,2013
+2570,IDN,Growing grapes industry,YEM,0.0,CMR,2013
+2571,IDN,Growing fruits and nuts industry,YEM,5.481148250693873e-07,CMR,2013
+2572,IDN,"Growing beverage crops (coffee, tea etc) industry",YEM,1.543303999524163e-07,CMR,2013
+2573,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,4.755371563889699e-06,CMR,2013
+2574,IDN,Seeds and plant propagation industry,YEM,0.0,CMR,2013
+2575,IDN,Raising of cattle industry,YEM,5.266721383741944e-06,CMR,2013
+2576,IDN,Growing wheat industry,ZAF,0.0,CMR,2013
+2577,IDN,Growing maize industry,ZAF,7.022643953001787e-05,CMR,2013
+2578,IDN,Growing cereals n.e.c industry,ZAF,0.0,CMR,2013
+2579,IDN,Growing leguminous crops and oil seeds industry,ZAF,0.0021792256889816607,CMR,2013
+2580,IDN,Growing rice industry,ZAF,9.504965817982943e-08,CMR,2013
+2581,IDN,"Growing vegetables, roots, tubers industry",ZAF,0.0,CMR,2013
+2582,IDN,Growing sugar beet and cane industry,ZAF,3.775887359849481e-05,CMR,2013
+2583,IDN,Growing tobacco industry,ZAF,1.641977213616938e-05,CMR,2013
+2584,IDN,Growing fibre crops industry,ZAF,0.0,CMR,2013
+2585,IDN,Growing crops n.e.c. industry,ZAF,7.451460885953913e-05,CMR,2013
+2586,IDN,Growing grapes industry,ZAF,0.0,CMR,2013
+2587,IDN,Growing fruits and nuts industry,ZAF,1.5564161603801262e-05,CMR,2013
+2588,IDN,"Growing beverage crops (coffee, tea etc) industry",ZAF,3.0507464778219284e-06,CMR,2013
+2589,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,0.00010770355739060868,CMR,2013
+2590,IDN,Seeds and plant propagation industry,ZAF,0.0,CMR,2013
+2591,IDN,Raising of cattle industry,ZAF,7.939870274278611e-05,CMR,2013
+2592,IDN,Growing wheat industry,ZMB,0.0,CMR,2013
+2593,IDN,Growing maize industry,ZMB,4.21576888913325e-06,CMR,2013
+2594,IDN,Growing cereals n.e.c industry,ZMB,0.0,CMR,2013
+2595,IDN,Growing leguminous crops and oil seeds industry,ZMB,0.00022155592845533666,CMR,2013
+2596,IDN,Growing rice industry,ZMB,6.981723155994538e-09,CMR,2013
+2597,IDN,"Growing vegetables, roots, tubers industry",ZMB,0.0,CMR,2013
+2598,IDN,Growing sugar beet and cane industry,ZMB,4.129030930177689e-06,CMR,2013
+2599,IDN,Growing tobacco industry,ZMB,8.706421438681358e-07,CMR,2013
+2600,IDN,Growing fibre crops industry,ZMB,0.0,CMR,2013
+2601,IDN,Growing crops n.e.c. industry,ZMB,6.288655339986179e-06,CMR,2013
+2602,IDN,Growing grapes industry,ZMB,0.0,CMR,2013
+2603,IDN,Growing fruits and nuts industry,ZMB,7.011318143888819e-07,CMR,2013
+2604,IDN,"Growing beverage crops (coffee, tea etc) industry",ZMB,1.93494770433232e-07,CMR,2013
+2605,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,9.457842705101631e-06,CMR,2013
+2606,IDN,Seeds and plant propagation industry,ZMB,0.0,CMR,2013
+2607,IDN,Raising of cattle industry,ZMB,7.621947279579544e-06,CMR,2013
+2608,IDN,Growing wheat industry,ZWE,0.0,CMR,2013
+2609,IDN,Growing maize industry,ZWE,3.6009480822779156e-06,CMR,2013
+2610,IDN,Growing cereals n.e.c industry,ZWE,0.0,CMR,2013
+2611,IDN,Growing leguminous crops and oil seeds industry,ZWE,0.00012247451977998118,CMR,2013
+2612,IDN,Growing rice industry,ZWE,4.432348510336758e-09,CMR,2013
+2613,IDN,"Growing vegetables, roots, tubers industry",ZWE,0.0,CMR,2013
+2614,IDN,Growing sugar beet and cane industry,ZWE,2.017981099268369e-06,CMR,2013
+2615,IDN,Growing tobacco industry,ZWE,7.12793746098109e-07,CMR,2013
+2616,IDN,Growing fibre crops industry,ZWE,0.0,CMR,2013
+2617,IDN,Growing crops n.e.c. industry,ZWE,4.082042628694713e-06,CMR,2013
+2618,IDN,Growing grapes industry,ZWE,0.0,CMR,2013
+2619,IDN,Growing fruits and nuts industry,ZWE,6.921187505328345e-07,CMR,2013
+2620,IDN,"Growing beverage crops (coffee, tea etc) industry",ZWE,1.4188784951186835e-07,CMR,2013
+2621,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,5.370839673366676e-06,CMR,2013
+2622,IDN,Seeds and plant propagation industry,ZWE,0.0,CMR,2013
+2623,IDN,Raising of cattle industry,ZWE,3.870839029193384e-06,CMR,2013

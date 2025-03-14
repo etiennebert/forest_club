@@ -1,0 +1,808 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">GLORIA_UN_mapping_TOT.xlsx|||`Sheet2$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>GLORIA_UN_mapping_TOT.xlsx
+Query=`Sheet2$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\GLORIA_UN_mapping_TOT.xlsx|||`Sheet2$`" type="V_String" />
+            <Field name="unregsub" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\GLORIA_UN_mapping_TOT.xlsx|||`Sheet2$`" type="V_String" />
+            <Field name="Zone" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\GLORIA_UN_mapping_TOT.xlsx|||`Sheet2$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="342" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Area_dest" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="id" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Field_1" selected="False" input="Left_" />
+                <SelectField field="Left_Country_orig" selected="True" rename="Origin" input="Left_" />
+                <SelectField field="Left_Area_orig" selected="False" input="Left_" />
+                <SelectField field="Left_Country_dest" selected="False" input="Left_" />
+                <SelectField field="Left_Area_dest" selected="True" rename="Destination" input="Left_" />
+                <SelectField field="Right_id" selected="False" input="Right_" />
+                <SelectField field="Right_unregsub" selected="True" rename="subZone" input="Right_" />
+                <SelectField field="Right_Zone" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="654" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Year" action="GroupBy" rename="Year" />
+            <SummarizeField field="Origin" action="GroupBy" rename="Origin" />
+            <SummarizeField field="subZone" action="GroupBy" rename="subZone" />
+            <SummarizeField field="Sector" action="GroupBy" rename="Sector" />
+            <SummarizeField field="value" action="Sum" rename="Sum_value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="582" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Year" selected="True" />
+            <SelectField field="Origin" selected="True" />
+            <SelectField field="Sector" selected="True" />
+            <SelectField field="value" selected="True" type="Double" size="8" />
+            <SelectField field="Destination" selected="True" />
+            <SelectField field="subZone" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="762" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Origin" action="GroupBy" rename="Origin" />
+            <SummarizeField field="subZone" action="GroupBy" rename="subZone" />
+            <SummarizeField field="Sector" action="GroupBy" rename="Sector" />
+            <SummarizeField field="Sum_value" action="Avg" rename="Avg_Sum_value" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="858" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Origin" />
+            <Field field="Sector" />
+          </GroupFields>
+          <HeaderField field="subZone" />
+          <DataField field="Avg_Sum_value" />
+          <Methods>
+            <Method method="Sum" />
+          </Methods>
+          <RetainSpecChars value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Origin" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="AGO" source="CrossTab:Header:subZone:AGO:Sum:" type="Double" />
+            <Field name="ARG" source="CrossTab:Header:subZone:ARG:Sum:" type="Double" />
+            <Field name="Australia_and_New_Zealand" source="CrossTab:Header:subZone:Australia_and_New_Zealand:Sum:" type="Double" />
+            <Field name="BRA" source="CrossTab:Header:subZone:BRA:Sum:" type="Double" />
+            <Field name="Caribbean" source="CrossTab:Header:subZone:Caribbean:Sum:" type="Double" />
+            <Field name="Central_America" source="CrossTab:Header:subZone:Central_America:Sum:" type="Double" />
+            <Field name="Central_Asia" source="CrossTab:Header:subZone:Central_Asia:Sum:" type="Double" />
+            <Field name="CIV" source="CrossTab:Header:subZone:CIV:Sum:" type="Double" />
+            <Field name="COD" source="CrossTab:Header:subZone:COD:Sum:" type="Double" />
+            <Field name="COL" source="CrossTab:Header:subZone:COL:Sum:" type="Double" />
+            <Field name="Eastern_Africa" source="CrossTab:Header:subZone:Eastern_Africa:Sum:" type="Double" />
+            <Field name="Eastern_Asia" source="CrossTab:Header:subZone:Eastern_Asia:Sum:" type="Double" />
+            <Field name="Eastern_Europe" source="CrossTab:Header:subZone:Eastern_Europe:Sum:" type="Double" />
+            <Field name="EU27" source="CrossTab:Header:subZone:EU27:Sum:" type="Double" />
+            <Field name="GHA" source="CrossTab:Header:subZone:GHA:Sum:" type="Double" />
+            <Field name="IDN" source="CrossTab:Header:subZone:IDN:Sum:" type="Double" />
+            <Field name="Melanesia" source="CrossTab:Header:subZone:Melanesia:Sum:" type="Double" />
+            <Field name="Middle_Africa" source="CrossTab:Header:subZone:Middle_Africa:Sum:" type="Double" />
+            <Field name="MYS" source="CrossTab:Header:subZone:MYS:Sum:" type="Double" />
+            <Field name="Northern_Africa" source="CrossTab:Header:subZone:Northern_Africa:Sum:" type="Double" />
+            <Field name="Northern_America" source="CrossTab:Header:subZone:Northern_America:Sum:" type="Double" />
+            <Field name="Northern_Europe" source="CrossTab:Header:subZone:Northern_Europe:Sum:" type="Double" />
+            <Field name="PER" source="CrossTab:Header:subZone:PER:Sum:" type="Double" />
+            <Field name="PRY" source="CrossTab:Header:subZone:PRY:Sum:" type="Double" />
+            <Field name="Rest_of_Africa" source="CrossTab:Header:subZone:Rest_of_Africa:Sum:" type="Double" />
+            <Field name="Rest_of_Americas" source="CrossTab:Header:subZone:Rest_of_Americas:Sum:" type="Double" />
+            <Field name="Rest_of_Asia_Pacific" source="CrossTab:Header:subZone:Rest_of_Asia-Pacific:Sum:" type="Double" />
+            <Field name="Rest_of_Europe" source="CrossTab:Header:subZone:Rest_of_Europe:Sum:" type="Double" />
+            <Field name="South_Eastern_Asia" source="CrossTab:Header:subZone:South-Eastern_Asia:Sum:" type="Double" />
+            <Field name="South_America" source="CrossTab:Header:subZone:South_America:Sum:" type="Double" />
+            <Field name="Southern_Africa" source="CrossTab:Header:subZone:Southern_Africa:Sum:" type="Double" />
+            <Field name="Southern_Asia" source="CrossTab:Header:subZone:Southern_Asia:Sum:" type="Double" />
+            <Field name="Southern_Europe" source="CrossTab:Header:subZone:Southern_Europe:Sum:" type="Double" />
+            <Field name="Western_Africa" source="CrossTab:Header:subZone:Western_Africa:Sum:" type="Double" />
+            <Field name="Western_Asia" source="CrossTab:Header:subZone:Western_Asia:Sum:" type="Double" />
+            <Field name="Western_Europe" source="CrossTab:Header:subZone:Western_Europe:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="954" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>Sector</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-10-06 00:26:32</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Seeds and plant propagation industry</Operand>
+              <StartDate>2024-10-06 00:26:32</StartDate>
+              <EndDate>2024-10-06 00:26:32</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Sector] != "Seeds and plant propagation industry"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="522" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">1_Sectors_CSRD.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>1_Sectors_CSRD.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Sector" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\1_Sectors_CSRD.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Bool" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\1_Sectors_CSRD.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1446" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Sector" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Sector" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Sector" selected="False" rename="Right_Sector" input="Right_" />
+                <SelectField field="Right_Bool" selected="True" rename="CSRD" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="90" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CBA_2012-2019_EU27_HILDA_V_2_1.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Country_orig" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Sector" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Area_orig" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Country_dest" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Area_dest" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Value" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+            <Field name="Year" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2874" y="990" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\Table 1\CBA_Table_2.xlsx|||Sheet1</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>RemoveFile</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CBA_Table_2.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="if [Origin]=[Destination] then [Origin] else [subZone] endif" field="subZone" size="255" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[subZone = if [Origin]=[Destination] then [Origin] else [subZone] endif
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="60">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1134" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[AGO]+[ARG]+[BRA]+[CIV]+[COD]+[COL]+[GHA]+[IDN]+[MYS]+[PER]+[PRY]" field="Local" size="8" type="Double" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Local = [AGO]+[ARG]+[BRA]+[CIV]+[COD]+[COL]+[GHA]+[IDN]+[MYS]+[PER]+[PRY]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="61">
+      <GuiSettings>
+        <Position x="1026" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"AGO","America","ARG","Asia___Oceania","BRA","CIV","COD","COL","EU27","Europe","GHA","IDN","MYS","PER","PRY"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="62">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1230" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Origin" selected="True" />
+            <SelectField field="AGO" selected="False" />
+            <SelectField field="ARG" selected="False" />
+            <SelectField field="BRA" selected="False" />
+            <SelectField field="CIV" selected="False" />
+            <SelectField field="COD" selected="False" />
+            <SelectField field="IDN" selected="False" />
+            <SelectField field="MYS" selected="False" />
+            <SelectField field="PRY" selected="False" />
+            <SelectField field="Sector" selected="True" />
+            <SelectField field="Local" selected="True" rename="Local consumption" />
+            <SelectField field="EU27" selected="True" />
+            <SelectField field="COL" selected="False" />
+            <SelectField field="GHA" selected="False" />
+            <SelectField field="PER" selected="False" />
+            <SelectField field="Australia_and_New_Zealand" selected="True" />
+            <SelectField field="Caribbean" selected="True" />
+            <SelectField field="Central_America" selected="True" />
+            <SelectField field="Central_Asia" selected="True" />
+            <SelectField field="Eastern_Africa" selected="True" />
+            <SelectField field="Eastern_Asia" selected="True" />
+            <SelectField field="Eastern_Europe" selected="True" />
+            <SelectField field="Melanesia" selected="True" />
+            <SelectField field="Middle_Africa" selected="True" />
+            <SelectField field="Northern_Africa" selected="True" />
+            <SelectField field="Northern_America" selected="True" />
+            <SelectField field="Northern_Europe" selected="True" />
+            <SelectField field="Rest_of_Africa" selected="True" />
+            <SelectField field="Rest_of_Americas" selected="True" />
+            <SelectField field="Rest_of_Asia_Pacific" selected="True" />
+            <SelectField field="Rest_of_Europe" selected="True" />
+            <SelectField field="South_Eastern_Asia" selected="True" />
+            <SelectField field="South_America" selected="True" />
+            <SelectField field="Southern_Africa" selected="True" />
+            <SelectField field="Southern_Asia" selected="True" />
+            <SelectField field="Southern_Europe" selected="True" />
+            <SelectField field="Western_Africa" selected="True" />
+            <SelectField field="Western_Asia" selected="True" />
+            <SelectField field="Western_Europe" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="64">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="1338" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Origin" />
+            <Field field="Sector" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Origin" selected="False" />
+            <Field field="Sector" selected="False" />
+            <Field field="Local consumption" selected="True" />
+            <Field field="EU27" selected="True" />
+            <Field field="Australia_and_New_Zealand" selected="True" />
+            <Field field="Caribbean" selected="True" />
+            <Field field="Central_America" selected="True" />
+            <Field field="Central_Asia" selected="True" />
+            <Field field="Eastern_Africa" selected="True" />
+            <Field field="Eastern_Asia" selected="True" />
+            <Field field="Eastern_Europe" selected="True" />
+            <Field field="Melanesia" selected="True" />
+            <Field field="Middle_Africa" selected="True" />
+            <Field field="Northern_Africa" selected="True" />
+            <Field field="Northern_America" selected="True" />
+            <Field field="Northern_Europe" selected="True" />
+            <Field field="Rest_of_Africa" selected="True" />
+            <Field field="Rest_of_Americas" selected="True" />
+            <Field field="Rest_of_Asia_Pacific" selected="True" />
+            <Field field="Rest_of_Europe" selected="True" />
+            <Field field="South_Eastern_Asia" selected="True" />
+            <Field field="South_America" selected="True" />
+            <Field field="Southern_Africa" selected="True" />
+            <Field field="Southern_Asia" selected="True" />
+            <Field field="Southern_Europe" selected="True" />
+            <Field field="Western_Africa" selected="True" />
+            <Field field="Western_Asia" selected="True" />
+            <Field field="Western_Europe" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="66">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\1_subzone_mapping.xlsx|||`Region$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>1_subzone_mapping.xlsx
+Query=`Region$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="subzone" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\1_subzone_mapping.xlsx|||`Region$`" type="V_String" />
+            <Field name="zone" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\full_database\1_subzone_mapping.xlsx|||`Region$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="67">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1626" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="subzone" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Origin" selected="True" input="Left_" />
+                <SelectField field="Left_Sector" selected="True" input="Left_" />
+                <SelectField field="Left_Name" selected="False" input="Left_" />
+                <SelectField field="Right_zone" selected="True" rename="Zone_consumption" input="Right_" />
+                <SelectField field="Right_subzone" selected="True" rename="SubZone_Consumption" input="Right_" />
+                <SelectField field="Left_CSRD" selected="True" input="Left_" />
+                <SelectField field="Left_Value" selected="True" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="68">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1914" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\Visualisation\1. CBA_TBA\CBA_Results_Full.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CBA_Results_Full.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="69">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1722" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="if [CSRD] == 1 then &quot;Within EU law&quot; else &quot;Outside EU law&quot; endif" field="CSRD_sector" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CSRD_sector = if [CSRD] == 1 then "Within EU law" else "Outside EU law" endif
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="70">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1806" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="CSRD" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="5" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Join" />
+      <Destination ToolID="58" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="61" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="Output" />
+      <Destination ToolID="15" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Join" />
+      <Destination ToolID="67" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="66" Connection="Output" />
+      <Destination ToolID="67" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output26" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="62" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="67" Connection="Join" />
+      <Destination ToolID="69" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="69" Connection="Output" />
+      <Destination ToolID="70" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="70" Connection="Output" />
+      <Destination ToolID="68" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>1_HILDA_v2-1_CBA results</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="f430b88c-6dbd-48b0-a1cc-7f87012377c7" />
+      <Telemetry>
+        <PreviousWorkflowId value="796d6e72-cb3b-4cbf-a1f8-eaab15087630" />
+        <OriginWorkflowId value="796d6e72-cb3b-4cbf-a1f8-eaab15087630" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

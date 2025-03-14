@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,IDN,Growing wheat industry,XAM,0.0,NER,2019
+1,IDN,Growing maize industry,XAM,0.0004099839957059579,NER,2019
+2,IDN,Growing cereals n.e.c industry,XAM,0.0,NER,2019
+3,IDN,Growing leguminous crops and oil seeds industry,XAM,9.343792878398197e-05,NER,2019
+4,IDN,Growing rice industry,XAM,4.1650809462682543e-07,NER,2019
+5,IDN,"Growing vegetables, roots, tubers industry",XAM,0.0,NER,2019
+6,IDN,Growing sugar beet and cane industry,XAM,0.0,NER,2019
+7,IDN,Growing tobacco industry,XAM,9.58106100598779e-07,NER,2019
+8,IDN,Growing fibre crops industry,XAM,2.757235870136015e-08,NER,2019
+9,IDN,Growing crops n.e.c. industry,XAM,0.0,NER,2019
+10,IDN,Growing grapes industry,XAM,0.0,NER,2019
+11,IDN,Growing fruits and nuts industry,XAM,3.947694211883506e-05,NER,2019
+12,IDN,"Growing beverage crops (coffee, tea etc) industry",XAM,2.8126166400902787e-06,NER,2019
+13,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,7.818422059351807e-07,NER,2019
+14,IDN,Seeds and plant propagation industry,XAM,0.0,NER,2019
+15,IDN,Raising of cattle industry,XAM,6.4943751120817e-06,NER,2019
+16,IDN,Growing wheat industry,XEU,0.0,NER,2019
+17,IDN,Growing maize industry,XEU,4.1964442044269976e-05,NER,2019
+18,IDN,Growing cereals n.e.c industry,XEU,0.0,NER,2019
+19,IDN,Growing leguminous crops and oil seeds industry,XEU,3.274846620641396e-05,NER,2019
+20,IDN,Growing rice industry,XEU,6.951533855036649e-08,NER,2019
+21,IDN,"Growing vegetables, roots, tubers industry",XEU,0.0,NER,2019
+22,IDN,Growing sugar beet and cane industry,XEU,0.0,NER,2019
+23,IDN,Growing tobacco industry,XEU,2.2828887362165117e-07,NER,2019
+24,IDN,Growing fibre crops industry,XEU,9.270360830548939e-09,NER,2019
+25,IDN,Growing crops n.e.c. industry,XEU,0.0,NER,2019
+26,IDN,Growing grapes industry,XEU,0.0,NER,2019
+27,IDN,Growing fruits and nuts industry,XEU,6.036925435268423e-06,NER,2019
+28,IDN,"Growing beverage crops (coffee, tea etc) industry",XEU,6.237576087847243e-07,NER,2019
+29,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,2.5025721674815623e-07,NER,2019
+30,IDN,Seeds and plant propagation industry,XEU,0.0,NER,2019
+31,IDN,Raising of cattle industry,XEU,1.5856612394635786e-06,NER,2019
+32,IDN,Growing wheat industry,XAF,0.0,NER,2019
+33,IDN,Growing maize industry,XAF,4.1894981156230476e-05,NER,2019
+34,IDN,Growing cereals n.e.c industry,XAF,0.0,NER,2019
+35,IDN,Growing leguminous crops and oil seeds industry,XAF,6.275786758834197e-05,NER,2019
+36,IDN,Growing rice industry,XAF,1.190439004679206e-07,NER,2019
+37,IDN,"Growing vegetables, roots, tubers industry",XAF,0.0,NER,2019
+38,IDN,Growing sugar beet and cane industry,XAF,0.0,NER,2019
+39,IDN,Growing tobacco industry,XAF,5.348721106080214e-07,NER,2019
+40,IDN,Growing fibre crops industry,XAF,1.6518706297944345e-08,NER,2019
+41,IDN,Growing crops n.e.c. industry,XAF,0.0,NER,2019
+42,IDN,Growing grapes industry,XAF,0.0,NER,2019
+43,IDN,Growing fruits and nuts industry,XAF,9.144834186679323e-06,NER,2019
+44,IDN,"Growing beverage crops (coffee, tea etc) industry",XAF,1.7470242081830981e-06,NER,2019
+45,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,4.7635817483045403e-07,NER,2019
+46,IDN,Seeds and plant propagation industry,XAF,0.0,NER,2019
+47,IDN,Raising of cattle industry,XAF,2.8251216552886707e-06,NER,2019
+48,IDN,Growing wheat industry,XAS,0.0,NER,2019
+49,IDN,Growing maize industry,XAS,8.969300412237331e-05,NER,2019
+50,IDN,Growing cereals n.e.c industry,XAS,0.0,NER,2019
+51,IDN,Growing leguminous crops and oil seeds industry,XAS,7.918013879474638e-05,NER,2019
+52,IDN,Growing rice industry,XAS,1.7252081485591954e-07,NER,2019
+53,IDN,"Growing vegetables, roots, tubers industry",XAS,0.0,NER,2019
+54,IDN,Growing sugar beet and cane industry,XAS,0.0,NER,2019
+55,IDN,Growing tobacco industry,XAS,7.479731933961317e-07,NER,2019
+56,IDN,Growing fibre crops industry,XAS,2.090625783484113e-08,NER,2019
+57,IDN,Growing crops n.e.c. industry,XAS,0.0,NER,2019
+58,IDN,Growing grapes industry,XAS,0.0,NER,2019
+59,IDN,Growing fruits and nuts industry,XAS,1.507554663243026e-05,NER,2019
+60,IDN,"Growing beverage crops (coffee, tea etc) industry",XAS,9.368443206307257e-07,NER,2019
+61,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,6.143539033320979e-07,NER,2019
+62,IDN,Seeds and plant propagation industry,XAS,0.0,NER,2019
+63,IDN,Raising of cattle industry,XAS,3.493684101614319e-06,NER,2019
+64,IDN,Growing wheat industry,AFG,0.0,NER,2019
+65,IDN,Growing maize industry,AFG,1.1610350340227151e-05,NER,2019
+66,IDN,Growing cereals n.e.c industry,AFG,0.0,NER,2019
+67,IDN,Growing leguminous crops and oil seeds industry,AFG,1.784327682785124e-05,NER,2019
+68,IDN,Growing rice industry,AFG,3.164305927956514e-08,NER,2019
+69,IDN,"Growing vegetables, roots, tubers industry",AFG,0.0,NER,2019
+70,IDN,Growing sugar beet and cane industry,AFG,0.0,NER,2019
+71,IDN,Growing tobacco industry,AFG,1.5734857124970086e-07,NER,2019
+72,IDN,Growing fibre crops industry,AFG,6.1658851244550515e-09,NER,2019
+73,IDN,Growing crops n.e.c. industry,AFG,0.0,NER,2019
+74,IDN,Growing grapes industry,AFG,0.0,NER,2019
+75,IDN,Growing fruits and nuts industry,AFG,2.6126055403112977e-06,NER,2019
+76,IDN,"Growing beverage crops (coffee, tea etc) industry",AFG,3.222847314868472e-07,NER,2019
+77,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,1.517522406045872e-07,NER,2019
+78,IDN,Seeds and plant propagation industry,AFG,0.0,NER,2019
+79,IDN,Raising of cattle industry,AFG,9.49510380955119e-07,NER,2019
+80,IDN,Growing wheat industry,AGO,0.0,NER,2019
+81,IDN,Growing maize industry,AGO,0.0005386948242227586,NER,2019
+82,IDN,Growing cereals n.e.c industry,AGO,0.0,NER,2019
+83,IDN,Growing leguminous crops and oil seeds industry,AGO,0.00020368604839953786,NER,2019
+84,IDN,Growing rice industry,AGO,6.474373764992891e-07,NER,2019
+85,IDN,"Growing vegetables, roots, tubers industry",AGO,0.0,NER,2019
+86,IDN,Growing sugar beet and cane industry,AGO,0.0,NER,2019
+87,IDN,Growing tobacco industry,AGO,1.8907411040364368e-06,NER,2019
+88,IDN,Growing fibre crops industry,AGO,5.8930284030550775e-08,NER,2019
+89,IDN,Growing crops n.e.c. industry,AGO,0.0,NER,2019
+90,IDN,Growing grapes industry,AGO,0.0,NER,2019
+91,IDN,Growing fruits and nuts industry,AGO,6.017629723617577e-05,NER,2019
+92,IDN,"Growing beverage crops (coffee, tea etc) industry",AGO,2.5215871722484426e-06,NER,2019
+93,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,1.583699528169516e-06,NER,2019
+94,IDN,Seeds and plant propagation industry,AGO,0.0,NER,2019
+95,IDN,Raising of cattle industry,AGO,1.1101020547022718e-05,NER,2019
+96,IDN,Growing wheat industry,ALB,0.0,NER,2019
+97,IDN,Growing maize industry,ALB,9.096439566928644e-05,NER,2019
+98,IDN,Growing cereals n.e.c industry,ALB,0.0,NER,2019
+99,IDN,Growing leguminous crops and oil seeds industry,ALB,1.9771784423938004e-05,NER,2019
+100,IDN,Growing rice industry,ALB,8.737892407017955e-08,NER,2019
+101,IDN,"Growing vegetables, roots, tubers industry",ALB,0.0,NER,2019
+102,IDN,Growing sugar beet and cane industry,ALB,0.0,NER,2019
+103,IDN,Growing tobacco industry,ALB,1.1460545130988665e-07,NER,2019
+104,IDN,Growing fibre crops industry,ALB,3.6102153546423057e-09,NER,2019
+105,IDN,Growing crops n.e.c. industry,ALB,0.0,NER,2019
+106,IDN,Growing grapes industry,ALB,0.0,NER,2019
+107,IDN,Growing fruits and nuts industry,ALB,8.555101413630854e-06,NER,2019
+108,IDN,"Growing beverage crops (coffee, tea etc) industry",ALB,1.5362763344200638e-07,NER,2019
+109,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,1.3503475708796451e-07,NER,2019
+110,IDN,Seeds and plant propagation industry,ALB,0.0,NER,2019
+111,IDN,Raising of cattle industry,ALB,1.0886620849365916e-06,NER,2019
+112,IDN,Growing wheat industry,ARE,0.0,NER,2019
+113,IDN,Growing maize industry,ARE,0.00018191007633983414,NER,2019
+114,IDN,Growing cereals n.e.c industry,ARE,0.0,NER,2019
+115,IDN,Growing leguminous crops and oil seeds industry,ARE,0.0003755229880679813,NER,2019
+116,IDN,Growing rice industry,ARE,5.951641616218114e-07,NER,2019
+117,IDN,"Growing vegetables, roots, tubers industry",ARE,0.0,NER,2019
+118,IDN,Growing sugar beet and cane industry,ARE,0.0,NER,2019
+119,IDN,Growing tobacco industry,ARE,2.8842842720674816e-06,NER,2019
+120,IDN,Growing fibre crops industry,ARE,1.0509919844455633e-07,NER,2019
+121,IDN,Growing crops n.e.c. industry,ARE,0.0,NER,2019
+122,IDN,Growing grapes industry,ARE,0.0,NER,2019
+123,IDN,Growing fruits and nuts industry,ARE,5.281862895029451e-05,NER,2019
+124,IDN,"Growing beverage crops (coffee, tea etc) industry",ARE,6.509563993612631e-06,NER,2019
+125,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,2.782651752599872e-06,NER,2019
+126,IDN,Seeds and plant propagation industry,ARE,0.0,NER,2019
+127,IDN,Raising of cattle industry,ARE,1.5785785229309826e-05,NER,2019
+128,IDN,Growing wheat industry,ARG,0.0,NER,2019
+129,IDN,Growing maize industry,ARG,0.0008482916597856357,NER,2019
+130,IDN,Growing cereals n.e.c industry,ARG,0.0,NER,2019
+131,IDN,Growing leguminous crops and oil seeds industry,ARG,0.0003228935466654062,NER,2019
+132,IDN,Growing rice industry,ARG,9.69268836453739e-07,NER,2019
+133,IDN,"Growing vegetables, roots, tubers industry",ARG,0.0,NER,2019
+134,IDN,Growing sugar beet and cane industry,ARG,0.0,NER,2019
+135,IDN,Growing tobacco industry,ARG,2.4385421344398424e-06,NER,2019
+136,IDN,Growing fibre crops industry,ARG,7.148876478874754e-08,NER,2019
+137,IDN,Growing crops n.e.c. industry,ARG,0.0,NER,2019
+138,IDN,Growing grapes industry,ARG,0.0,NER,2019
+139,IDN,Growing fruits and nuts industry,ARG,9.07868968345366e-05,NER,2019
+140,IDN,"Growing beverage crops (coffee, tea etc) industry",ARG,2.779581417321644e-06,NER,2019
+141,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,2.179179800040308e-06,NER,2019
+142,IDN,Seeds and plant propagation industry,ARG,0.0,NER,2019
+143,IDN,Raising of cattle industry,ARG,1.4277152375549265e-05,NER,2019
+144,IDN,Growing wheat industry,ARM,0.0,NER,2019
+145,IDN,Growing maize industry,ARM,1.0058766286630941e-05,NER,2019
+146,IDN,Growing cereals n.e.c industry,ARM,0.0,NER,2019
+147,IDN,Growing leguminous crops and oil seeds industry,ARM,1.648166870782559e-05,NER,2019
+148,IDN,Growing rice industry,ARM,2.882993856036939e-08,NER,2019
+149,IDN,"Growing vegetables, roots, tubers industry",ARM,0.0,NER,2019
+150,IDN,Growing sugar beet and cane industry,ARM,0.0,NER,2019
+151,IDN,Growing tobacco industry,ARM,1.2603706124546288e-07,NER,2019
+152,IDN,Growing fibre crops industry,ARM,4.983046440369769e-09,NER,2019
+153,IDN,Growing crops n.e.c. industry,ARM,0.0,NER,2019
+154,IDN,Growing grapes industry,ARM,0.0,NER,2019
+155,IDN,Growing fruits and nuts industry,ARM,2.3553132476933833e-06,NER,2019
+156,IDN,"Growing beverage crops (coffee, tea etc) industry",ARM,2.6562075507013666e-07,NER,2019
+157,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,1.2572249429004246e-07,NER,2019
+158,IDN,Seeds and plant propagation industry,ARM,0.0,NER,2019
+159,IDN,Raising of cattle industry,ARM,7.835346418425173e-07,NER,2019
+160,IDN,Growing wheat industry,AUS,0.0,NER,2019
+161,IDN,Growing maize industry,AUS,0.0011878214048676797,NER,2019
+162,IDN,Growing cereals n.e.c industry,AUS,0.0,NER,2019
+163,IDN,Growing leguminous crops and oil seeds industry,AUS,0.0026093946179724845,NER,2019
+164,IDN,Growing rice industry,AUS,4.890076634998939e-06,NER,2019
+165,IDN,"Growing vegetables, roots, tubers industry",AUS,0.0,NER,2019
+166,IDN,Growing sugar beet and cane industry,AUS,0.0,NER,2019
+167,IDN,Growing tobacco industry,AUS,3.174462878720001e-05,NER,2019
+168,IDN,Growing fibre crops industry,AUS,8.898532277972787e-07,NER,2019
+169,IDN,Growing crops n.e.c. industry,AUS,0.0,NER,2019
+170,IDN,Growing grapes industry,AUS,0.0,NER,2019
+171,IDN,Growing fruits and nuts industry,AUS,0.0003673591699224465,NER,2019
+172,IDN,"Growing beverage crops (coffee, tea etc) industry",AUS,5.871302809473356e-05,NER,2019
+173,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,2.118623201174251e-05,NER,2019
+174,IDN,Seeds and plant propagation industry,AUS,0.0,NER,2019
+175,IDN,Raising of cattle industry,AUS,0.00014051926448164346,NER,2019
+176,IDN,Growing wheat industry,AUT,0.0,NER,2019
+177,IDN,Growing maize industry,AUT,0.00020283526869214506,NER,2019
+178,IDN,Growing cereals n.e.c industry,AUT,0.0,NER,2019
+179,IDN,Growing leguminous crops and oil seeds industry,AUT,0.0003399767516098792,NER,2019
+180,IDN,Growing rice industry,AUT,6.550864386250888e-07,NER,2019
+181,IDN,"Growing vegetables, roots, tubers industry",AUT,0.0,NER,2019
+182,IDN,Growing sugar beet and cane industry,AUT,0.0,NER,2019
+183,IDN,Growing tobacco industry,AUT,3.820933041773699e-06,NER,2019
+184,IDN,Growing fibre crops industry,AUT,1.1821180074836199e-07,NER,2019
+185,IDN,Growing crops n.e.c. industry,AUT,0.0,NER,2019
+186,IDN,Growing grapes industry,AUT,0.0,NER,2019
+187,IDN,Growing fruits and nuts industry,AUT,5.00459435127697e-05,NER,2019
+188,IDN,"Growing beverage crops (coffee, tea etc) industry",AUT,5.197691257741105e-06,NER,2019
+189,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,3.180933066601728e-06,NER,2019
+190,IDN,Seeds and plant propagation industry,AUT,0.0,NER,2019
+191,IDN,Raising of cattle industry,AUT,2.0338776492849485e-05,NER,2019
+192,IDN,Growing wheat industry,AZE,0.0,NER,2019
+193,IDN,Growing maize industry,AZE,2.0770188838060585e-05,NER,2019
+194,IDN,Growing cereals n.e.c industry,AZE,0.0,NER,2019
+195,IDN,Growing leguminous crops and oil seeds industry,AZE,2.9299786650216096e-05,NER,2019
+196,IDN,Growing rice industry,AZE,5.590099263050992e-08,NER,2019
+197,IDN,"Growing vegetables, roots, tubers industry",AZE,0.0,NER,2019
+198,IDN,Growing sugar beet and cane industry,AZE,0.0,NER,2019
+199,IDN,Growing tobacco industry,AZE,2.6783695601010724e-07,NER,2019
+200,IDN,Growing fibre crops industry,AZE,9.187145542365708e-09,NER,2019
+201,IDN,Growing crops n.e.c. industry,AZE,0.0,NER,2019
+202,IDN,Growing grapes industry,AZE,0.0,NER,2019
+203,IDN,Growing fruits and nuts industry,AZE,4.4956885640373055e-06,NER,2019
+204,IDN,"Growing beverage crops (coffee, tea etc) industry",AZE,5.555322616200754e-07,NER,2019
+205,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,2.2854500512063767e-07,NER,2019
+206,IDN,Seeds and plant propagation industry,AZE,0.0,NER,2019
+207,IDN,Raising of cattle industry,AZE,1.433946507007646e-06,NER,2019
+208,IDN,Growing wheat industry,BDI,0.0,NER,2019
+209,IDN,Growing maize industry,BDI,4.916262937694657e-06,NER,2019
+210,IDN,Growing cereals n.e.c industry,BDI,0.0,NER,2019
+211,IDN,Growing leguminous crops and oil seeds industry,BDI,2.347444202934872e-06,NER,2019
+212,IDN,Growing rice industry,BDI,6.738287850849199e-09,NER,2019
+213,IDN,"Growing vegetables, roots, tubers industry",BDI,0.0,NER,2019
+214,IDN,Growing sugar beet and cane industry,BDI,0.0,NER,2019
+215,IDN,Growing tobacco industry,BDI,1.994370658267522e-08,NER,2019
+216,IDN,Growing fibre crops industry,BDI,6.341608750777862e-10,NER,2019
+217,IDN,Growing crops n.e.c. industry,BDI,0.0,NER,2019
+218,IDN,Growing grapes industry,BDI,0.0,NER,2019
+219,IDN,Growing fruits and nuts industry,BDI,6.070303097961537e-07,NER,2019
+220,IDN,"Growing beverage crops (coffee, tea etc) industry",BDI,3.015283636247291e-08,NER,2019
+221,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,2.0811878724433483e-08,NER,2019
+222,IDN,Seeds and plant propagation industry,BDI,0.0,NER,2019
+223,IDN,Raising of cattle industry,BDI,1.1751581209315439e-07,NER,2019
+224,IDN,Growing wheat industry,BEL,0.0,NER,2019
+225,IDN,Growing maize industry,BEL,0.0005008960860210667,NER,2019
+226,IDN,Growing cereals n.e.c industry,BEL,0.0,NER,2019
+227,IDN,Growing leguminous crops and oil seeds industry,BEL,0.00062093670377661,NER,2019
+228,IDN,Growing rice industry,BEL,1.2990985873158434e-06,NER,2019
+229,IDN,"Growing vegetables, roots, tubers industry",BEL,0.0,NER,2019
+230,IDN,Growing sugar beet and cane industry,BEL,0.0,NER,2019
+231,IDN,Growing tobacco industry,BEL,6.169198112491936e-06,NER,2019
+232,IDN,Growing fibre crops industry,BEL,1.8345506200085048e-07,NER,2019
+233,IDN,Growing crops n.e.c. industry,BEL,0.0,NER,2019
+234,IDN,Growing grapes industry,BEL,0.0,NER,2019
+235,IDN,Growing fruits and nuts industry,BEL,0.00010103632417789175,NER,2019
+236,IDN,"Growing beverage crops (coffee, tea etc) industry",BEL,1.4684998125117087e-05,NER,2019
+237,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,4.953337219600999e-06,NER,2019
+238,IDN,Seeds and plant propagation industry,BEL,0.0,NER,2019
+239,IDN,Raising of cattle industry,BEL,3.160824749232725e-05,NER,2019
+240,IDN,Growing wheat industry,BEN,0.0,NER,2019
+241,IDN,Growing maize industry,BEN,0.0003906841078694089,NER,2019
+242,IDN,Growing cereals n.e.c industry,BEN,0.0,NER,2019
+243,IDN,Growing leguminous crops and oil seeds industry,BEN,0.0003207564005584553,NER,2019
+244,IDN,Growing rice industry,BEN,7.564138649893137e-07,NER,2019
+245,IDN,"Growing vegetables, roots, tubers industry",BEN,0.0,NER,2019
+246,IDN,Growing sugar beet and cane industry,BEN,0.0,NER,2019
+247,IDN,Growing tobacco industry,BEN,4.098190636057286e-06,NER,2019
+248,IDN,Growing fibre crops industry,BEN,1.9062746592400468e-07,NER,2019
+249,IDN,Growing crops n.e.c. industry,BEN,0.0,NER,2019
+250,IDN,Growing grapes industry,BEN,0.0,NER,2019
+251,IDN,Growing fruits and nuts industry,BEN,6.344740975162447e-05,NER,2019
+252,IDN,"Growing beverage crops (coffee, tea etc) industry",BEN,3.491707742246803e-06,NER,2019
+253,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,3.1060710055612567e-06,NER,2019
+254,IDN,Seeds and plant propagation industry,BEN,0.0,NER,2019
+255,IDN,Raising of cattle industry,BEN,4.604914320596753e-05,NER,2019
+256,IDN,Growing wheat industry,BFA,0.0,NER,2019
+257,IDN,Growing maize industry,BFA,0.0005254894316223448,NER,2019
+258,IDN,Growing cereals n.e.c industry,BFA,0.0,NER,2019
+259,IDN,Growing leguminous crops and oil seeds industry,BFA,0.002132453224923911,NER,2019
+260,IDN,Growing rice industry,BFA,3.440637697938143e-06,NER,2019
+261,IDN,"Growing vegetables, roots, tubers industry",BFA,0.0,NER,2019
+262,IDN,Growing sugar beet and cane industry,BFA,0.0,NER,2019
+263,IDN,Growing tobacco industry,BFA,1.474237979136028e-05,NER,2019
+264,IDN,Growing fibre crops industry,BFA,5.022256911981185e-07,NER,2019
+265,IDN,Growing crops n.e.c. industry,BFA,0.0,NER,2019
+266,IDN,Growing grapes industry,BFA,0.0,NER,2019
+267,IDN,Growing fruits and nuts industry,BFA,0.00024064484389851512,NER,2019
+268,IDN,"Growing beverage crops (coffee, tea etc) industry",BFA,7.30353104284966e-05,NER,2019
+269,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,1.7211839103269952e-05,NER,2019
+270,IDN,Seeds and plant propagation industry,BFA,0.0,NER,2019
+271,IDN,Raising of cattle industry,BFA,9.839726786748278e-05,NER,2019
+272,IDN,Growing wheat industry,BGD,0.0,NER,2019
+273,IDN,Growing maize industry,BGD,0.00020722255885282807,NER,2019
+274,IDN,Growing cereals n.e.c industry,BGD,0.0,NER,2019
+275,IDN,Growing leguminous crops and oil seeds industry,BGD,0.00034219257036913225,NER,2019
+276,IDN,Growing rice industry,BGD,6.128879826786897e-07,NER,2019
+277,IDN,"Growing vegetables, roots, tubers industry",BGD,0.0,NER,2019
+278,IDN,Growing sugar beet and cane industry,BGD,0.0,NER,2019
+279,IDN,Growing tobacco industry,BGD,2.521748420719178e-06,NER,2019
+280,IDN,Growing fibre crops industry,BGD,9.749165739484086e-08,NER,2019
+281,IDN,Growing crops n.e.c. industry,BGD,0.0,NER,2019
+282,IDN,Growing grapes industry,BGD,0.0,NER,2019
+283,IDN,Growing fruits and nuts industry,BGD,4.774220807725388e-05,NER,2019
+284,IDN,"Growing beverage crops (coffee, tea etc) industry",BGD,5.050636882203544e-06,NER,2019
+285,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,2.5971618392663788e-06,NER,2019
+286,IDN,Seeds and plant propagation industry,BGD,0.0,NER,2019
+287,IDN,Raising of cattle industry,BGD,1.4793919143397134e-05,NER,2019
+288,IDN,Growing wheat industry,BGR,0.0,NER,2019
+289,IDN,Growing maize industry,BGR,6.60762642768207e-05,NER,2019
+290,IDN,Growing cereals n.e.c industry,BGR,0.0,NER,2019
+291,IDN,Growing leguminous crops and oil seeds industry,BGR,8.315525937507236e-05,NER,2019
+292,IDN,Growing rice industry,BGR,1.7025597071746836e-07,NER,2019
+293,IDN,"Growing vegetables, roots, tubers industry",BGR,0.0,NER,2019
+294,IDN,Growing sugar beet and cane industry,BGR,0.0,NER,2019
+295,IDN,Growing tobacco industry,BGR,6.544249615385625e-07,NER,2019
+296,IDN,Growing fibre crops industry,BGR,2.3706185307779563e-08,NER,2019
+297,IDN,Growing crops n.e.c. industry,BGR,0.0,NER,2019
+298,IDN,Growing grapes industry,BGR,0.0,NER,2019
+299,IDN,Growing fruits and nuts industry,BGR,1.4219219625985256e-05,NER,2019
+300,IDN,"Growing beverage crops (coffee, tea etc) industry",BGR,1.382178821664683e-06,NER,2019
+301,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,9.172201284805464e-07,NER,2019
+302,IDN,Seeds and plant propagation industry,BGR,0.0,NER,2019
+303,IDN,Raising of cattle industry,BGR,4.409041921254746e-06,NER,2019
+304,IDN,Growing wheat industry,BHR,0.0,NER,2019
+305,IDN,Growing maize industry,BHR,4.5908010190227644e-05,NER,2019
+306,IDN,Growing cereals n.e.c industry,BHR,0.0,NER,2019
+307,IDN,Growing leguminous crops and oil seeds industry,BHR,6.0741632744974966e-05,NER,2019
+308,IDN,Growing rice industry,BHR,1.164151437450217e-07,NER,2019
+309,IDN,"Growing vegetables, roots, tubers industry",BHR,0.0,NER,2019
+310,IDN,Growing sugar beet and cane industry,BHR,0.0,NER,2019
+311,IDN,Growing tobacco industry,BHR,6.609335395904149e-07,NER,2019
+312,IDN,Growing fibre crops industry,BHR,2.326601271295873e-08,NER,2019
+313,IDN,Growing crops n.e.c. industry,BHR,0.0,NER,2019
+314,IDN,Growing grapes industry,BHR,0.0,NER,2019
+315,IDN,Growing fruits and nuts industry,BHR,9.698249517288007e-06,NER,2019
+316,IDN,"Growing beverage crops (coffee, tea etc) industry",BHR,1.1300980758638301e-06,NER,2019
+317,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,5.349437216557647e-07,NER,2019
+318,IDN,Seeds and plant propagation industry,BHR,0.0,NER,2019
+319,IDN,Raising of cattle industry,BHR,3.615509899203689e-06,NER,2019
+320,IDN,Growing wheat industry,BHS,0.0,NER,2019
+321,IDN,Growing maize industry,BHS,4.61913144772113e-05,NER,2019
+322,IDN,Growing cereals n.e.c industry,BHS,0.0,NER,2019
+323,IDN,Growing leguminous crops and oil seeds industry,BHS,1.933793660734734e-05,NER,2019
+324,IDN,Growing rice industry,BHS,5.82059899964806e-08,NER,2019
+325,IDN,"Growing vegetables, roots, tubers industry",BHS,0.0,NER,2019
+326,IDN,Growing sugar beet and cane industry,BHS,0.0,NER,2019
+327,IDN,Growing tobacco industry,BHS,1.8163252821896967e-07,NER,2019
+328,IDN,Growing fibre crops industry,BHS,5.9920086932775605e-09,NER,2019
+329,IDN,Growing crops n.e.c. industry,BHS,0.0,NER,2019
+330,IDN,Growing grapes industry,BHS,0.0,NER,2019
+331,IDN,Growing fruits and nuts industry,BHS,5.241967756149236e-06,NER,2019
+332,IDN,"Growing beverage crops (coffee, tea etc) industry",BHS,3.007062605592356e-07,NER,2019
+333,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,1.614732277282034e-07,NER,2019
+334,IDN,Seeds and plant propagation industry,BHS,0.0,NER,2019
+335,IDN,Raising of cattle industry,BHS,1.0895835694559093e-06,NER,2019
+336,IDN,Growing wheat industry,BIH,0.0,NER,2019
+337,IDN,Growing maize industry,BIH,8.814129752204272e-06,NER,2019
+338,IDN,Growing cereals n.e.c industry,BIH,0.0,NER,2019
+339,IDN,Growing leguminous crops and oil seeds industry,BIH,1.5523144998009785e-05,NER,2019
+340,IDN,Growing rice industry,BIH,2.8779664193049068e-08,NER,2019
+341,IDN,"Growing vegetables, roots, tubers industry",BIH,0.0,NER,2019
+342,IDN,Growing sugar beet and cane industry,BIH,0.0,NER,2019
+343,IDN,Growing tobacco industry,BIH,1.5579285702190878e-07,NER,2019
+344,IDN,Growing fibre crops industry,BIH,4.922526295025836e-09,NER,2019
+345,IDN,Growing crops n.e.c. industry,BIH,0.0,NER,2019
+346,IDN,Growing grapes industry,BIH,0.0,NER,2019
+347,IDN,Growing fruits and nuts industry,BIH,2.271602175411906e-06,NER,2019
+348,IDN,"Growing beverage crops (coffee, tea etc) industry",BIH,1.8839991944808751e-07,NER,2019
+349,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,1.3993032042391165e-07,NER,2019
+350,IDN,Seeds and plant propagation industry,BIH,0.0,NER,2019
+351,IDN,Raising of cattle industry,BIH,8.559632218373135e-07,NER,2019
+352,IDN,Growing wheat industry,BLR,0.0,NER,2019
+353,IDN,Growing maize industry,BLR,7.353773087707851e-05,NER,2019
+354,IDN,Growing cereals n.e.c industry,BLR,0.0,NER,2019
+355,IDN,Growing leguminous crops and oil seeds industry,BLR,5.823270278163074e-05,NER,2019
+356,IDN,Growing rice industry,BLR,1.3082432496209604e-07,NER,2019
+357,IDN,"Growing vegetables, roots, tubers industry",BLR,0.0,NER,2019
+358,IDN,Growing sugar beet and cane industry,BLR,0.0,NER,2019
+359,IDN,Growing tobacco industry,BLR,5.352272879988995e-07,NER,2019
+360,IDN,Growing fibre crops industry,BLR,1.658451607271771e-08,NER,2019
+361,IDN,Growing crops n.e.c. industry,BLR,0.0,NER,2019
+362,IDN,Growing grapes industry,BLR,0.0,NER,2019
+363,IDN,Growing fruits and nuts industry,BLR,1.1623250526685555e-05,NER,2019
+364,IDN,"Growing beverage crops (coffee, tea etc) industry",BLR,1.19515461909834e-06,NER,2019
+365,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,4.457980292056646e-07,NER,2019
+366,IDN,Seeds and plant propagation industry,BLR,0.0,NER,2019
+367,IDN,Raising of cattle industry,BLR,2.7333475572480805e-06,NER,2019
+368,IDN,Growing wheat industry,BLZ,0.0,NER,2019
+369,IDN,Growing maize industry,BLZ,1.1237788713223451e-05,NER,2019
+370,IDN,Growing cereals n.e.c industry,BLZ,0.0,NER,2019
+371,IDN,Growing leguminous crops and oil seeds industry,BLZ,5.736398653734885e-06,NER,2019
+372,IDN,Growing rice industry,BLZ,1.3284933379408683e-08,NER,2019
+373,IDN,"Growing vegetables, roots, tubers industry",BLZ,0.0,NER,2019
+374,IDN,Growing sugar beet and cane industry,BLZ,0.0,NER,2019
+375,IDN,Growing tobacco industry,BLZ,2.2406324706568752e-08,NER,2019
+376,IDN,Growing fibre crops industry,BLZ,9.57579737093494e-10,NER,2019
+377,IDN,Growing crops n.e.c. industry,BLZ,0.0,NER,2019
+378,IDN,Growing grapes industry,BLZ,0.0,NER,2019
+379,IDN,Growing fruits and nuts industry,BLZ,1.2442950361142898e-06,NER,2019
+380,IDN,"Growing beverage crops (coffee, tea etc) industry",BLZ,1.5003743119239714e-07,NER,2019
+381,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,3.2228756791093117e-08,NER,2019
+382,IDN,Seeds and plant propagation industry,BLZ,0.0,NER,2019
+383,IDN,Raising of cattle industry,BLZ,2.011463318883773e-07,NER,2019
+384,IDN,Growing wheat industry,BOL,0.0,NER,2019
+385,IDN,Growing maize industry,BOL,3.764355730884891e-05,NER,2019
+386,IDN,Growing cereals n.e.c industry,BOL,0.0,NER,2019
+387,IDN,Growing leguminous crops and oil seeds industry,BOL,2.451064978877006e-05,NER,2019
+388,IDN,Growing rice industry,BOL,6.065689331942545e-08,NER,2019
+389,IDN,"Growing vegetables, roots, tubers industry",BOL,0.0,NER,2019
+390,IDN,Growing sugar beet and cane industry,BOL,0.0,NER,2019
+391,IDN,Growing tobacco industry,BOL,2.7251241808819305e-07,NER,2019
+392,IDN,Growing fibre crops industry,BOL,8.159969544393367e-09,NER,2019
+393,IDN,Growing crops n.e.c. industry,BOL,0.0,NER,2019
+394,IDN,Growing grapes industry,BOL,0.0,NER,2019
+395,IDN,Growing fruits and nuts industry,BOL,5.311317007110429e-06,NER,2019
+396,IDN,"Growing beverage crops (coffee, tea etc) industry",BOL,2.7145614776446346e-07,NER,2019
+397,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,2.337770965016045e-07,NER,2019
+398,IDN,Seeds and plant propagation industry,BOL,0.0,NER,2019
+399,IDN,Raising of cattle industry,BOL,1.4173778884149267e-06,NER,2019
+400,IDN,Growing wheat industry,BRA,0.0,NER,2019
+401,IDN,Growing maize industry,BRA,0.009012939685274664,NER,2019
+402,IDN,Growing cereals n.e.c industry,BRA,0.0,NER,2019
+403,IDN,Growing leguminous crops and oil seeds industry,BRA,0.005600651243208322,NER,2019
+404,IDN,Growing rice industry,BRA,1.2195688811036488e-05,NER,2019
+405,IDN,"Growing vegetables, roots, tubers industry",BRA,0.0,NER,2019
+406,IDN,Growing sugar beet and cane industry,BRA,0.0,NER,2019
+407,IDN,Growing tobacco industry,BRA,2.046091098559764e-05,NER,2019
+408,IDN,Growing fibre crops industry,BRA,7.686643870062935e-07,NER,2019
+409,IDN,Growing crops n.e.c. industry,BRA,0.0,NER,2019
+410,IDN,Growing grapes industry,BRA,0.0,NER,2019
+411,IDN,Growing fruits and nuts industry,BRA,0.0013604593400826858,NER,2019
+412,IDN,"Growing beverage crops (coffee, tea etc) industry",BRA,2.1127123698508213e-05,NER,2019
+413,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,3.684868563015121e-05,NER,2019
+414,IDN,Seeds and plant propagation industry,BRA,0.0,NER,2019
+415,IDN,Raising of cattle industry,BRA,0.00015852532081980076,NER,2019
+416,IDN,Growing wheat industry,BRN,0.0,NER,2019
+417,IDN,Growing maize industry,BRN,1.9240975826105073e-05,NER,2019
+418,IDN,Growing cereals n.e.c industry,BRN,0.0,NER,2019
+419,IDN,Growing leguminous crops and oil seeds industry,BRN,0.00012243012263936484,NER,2019
+420,IDN,Growing rice industry,BRN,1.493325803655889e-07,NER,2019
+421,IDN,"Growing vegetables, roots, tubers industry",BRN,0.0,NER,2019
+422,IDN,Growing sugar beet and cane industry,BRN,0.0,NER,2019
+423,IDN,Growing tobacco industry,BRN,5.213030862294296e-07,NER,2019
+424,IDN,Growing fibre crops industry,BRN,1.782338888971634e-08,NER,2019
+425,IDN,Growing crops n.e.c. industry,BRN,0.0,NER,2019
+426,IDN,Growing grapes industry,BRN,0.0,NER,2019
+427,IDN,Growing fruits and nuts industry,BRN,1.3914271162258022e-05,NER,2019
+428,IDN,"Growing beverage crops (coffee, tea etc) industry",BRN,6.949951062415045e-07,NER,2019
+429,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,8.005733319429939e-07,NER,2019
+430,IDN,Seeds and plant propagation industry,BRN,0.0,NER,2019
+431,IDN,Raising of cattle industry,BRN,2.644181177846392e-06,NER,2019
+432,IDN,Growing wheat industry,BTN,0.0,NER,2019
+433,IDN,Growing maize industry,BTN,1.2274874608283927e-06,NER,2019
+434,IDN,Growing cereals n.e.c industry,BTN,0.0,NER,2019
+435,IDN,Growing leguminous crops and oil seeds industry,BTN,4.206621942590742e-06,NER,2019
+436,IDN,Growing rice industry,BTN,6.357012906647338e-09,NER,2019
+437,IDN,"Growing vegetables, roots, tubers industry",BTN,0.0,NER,2019
+438,IDN,Growing sugar beet and cane industry,BTN,0.0,NER,2019
+439,IDN,Growing tobacco industry,BTN,3.248024482880263e-08,NER,2019
+440,IDN,Growing fibre crops industry,BTN,1.1997262254473682e-09,NER,2019
+441,IDN,Growing crops n.e.c. industry,BTN,0.0,NER,2019
+442,IDN,Growing grapes industry,BTN,0.0,NER,2019
+443,IDN,Growing fruits and nuts industry,BTN,4.973870681571905e-07,NER,2019
+444,IDN,"Growing beverage crops (coffee, tea etc) industry",BTN,5.949015941502664e-08,NER,2019
+445,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,3.3427718963662836e-08,NER,2019
+446,IDN,Seeds and plant propagation industry,BTN,0.0,NER,2019
+447,IDN,Raising of cattle industry,BTN,1.758385325047343e-07,NER,2019
+448,IDN,Growing wheat industry,BWA,0.0,NER,2019
+449,IDN,Growing maize industry,BWA,0.0001739409098276047,NER,2019
+450,IDN,Growing cereals n.e.c industry,BWA,0.0,NER,2019
+451,IDN,Growing leguminous crops and oil seeds industry,BWA,3.66609678604773e-05,NER,2019
+452,IDN,Growing rice industry,BWA,1.6715262667167517e-07,NER,2019
+453,IDN,"Growing vegetables, roots, tubers industry",BWA,0.0,NER,2019
+454,IDN,Growing sugar beet and cane industry,BWA,0.0,NER,2019
+455,IDN,Growing tobacco industry,BWA,2.75579653376145e-07,NER,2019
+456,IDN,Growing fibre crops industry,BWA,9.167298696799995e-09,NER,2019
+457,IDN,Growing crops n.e.c. industry,BWA,0.0,NER,2019
+458,IDN,Growing grapes industry,BWA,0.0,NER,2019
+459,IDN,Growing fruits and nuts industry,BWA,1.60356294975458e-05,NER,2019
+460,IDN,"Growing beverage crops (coffee, tea etc) industry",BWA,5.17162070841716e-07,NER,2019
+461,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,2.8985078145190186e-07,NER,2019
+462,IDN,Seeds and plant propagation industry,BWA,0.0,NER,2019
+463,IDN,Raising of cattle industry,BWA,2.4353320271203e-06,NER,2019
+464,IDN,Growing wheat industry,CAF,0.0,NER,2019
+465,IDN,Growing maize industry,CAF,5.1703380592636714e-05,NER,2019
+466,IDN,Growing cereals n.e.c industry,CAF,0.0,NER,2019
+467,IDN,Growing leguminous crops and oil seeds industry,CAF,6.809862171309567e-06,NER,2019
+468,IDN,Growing rice industry,CAF,4.428665420299635e-08,NER,2019
+469,IDN,"Growing vegetables, roots, tubers industry",CAF,0.0,NER,2019
+470,IDN,Growing sugar beet and cane industry,CAF,0.0,NER,2019
+471,IDN,Growing tobacco industry,CAF,5.0393054750116666e-08,NER,2019
+472,IDN,Growing fibre crops industry,CAF,1.266844969889608e-09,NER,2019
+473,IDN,Growing crops n.e.c. industry,CAF,0.0,NER,2019
+474,IDN,Growing grapes industry,CAF,0.0,NER,2019
+475,IDN,Growing fruits and nuts industry,CAF,4.5698026914352474e-06,NER,2019
+476,IDN,"Growing beverage crops (coffee, tea etc) industry",CAF,5.5168770826406056e-08,NER,2019
+477,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,4.964538791530576e-08,NER,2019
+478,IDN,Seeds and plant propagation industry,CAF,0.0,NER,2019
+479,IDN,Raising of cattle industry,CAF,4.513645955461157e-07,NER,2019
+480,IDN,Growing wheat industry,CAN,0.0,NER,2019
+481,IDN,Growing maize industry,CAN,0.0015140501578365972,NER,2019
+482,IDN,Growing cereals n.e.c industry,CAN,0.0,NER,2019
+483,IDN,Growing leguminous crops and oil seeds industry,CAN,0.0017921861790566012,NER,2019
+484,IDN,Growing rice industry,CAN,4.340719621036315e-06,NER,2019
+485,IDN,"Growing vegetables, roots, tubers industry",CAN,0.0,NER,2019
+486,IDN,Growing sugar beet and cane industry,CAN,0.0,NER,2019
+487,IDN,Growing tobacco industry,CAN,2.3710079775758558e-05,NER,2019
+488,IDN,Growing fibre crops industry,CAN,6.52132677948659e-07,NER,2019
+489,IDN,Growing crops n.e.c. industry,CAN,0.0,NER,2019
+490,IDN,Growing grapes industry,CAN,0.0,NER,2019
+491,IDN,Growing fruits and nuts industry,CAN,0.00030317327736897214,NER,2019
+492,IDN,"Growing beverage crops (coffee, tea etc) industry",CAN,0.00043145788408256,NER,2019
+493,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,1.5665630834357052e-05,NER,2019
+494,IDN,Seeds and plant propagation industry,CAN,0.0,NER,2019
+495,IDN,Raising of cattle industry,CAN,9.547826540189698e-05,NER,2019
+496,IDN,Growing wheat industry,CHE,0.0,NER,2019
+497,IDN,Growing maize industry,CHE,0.00044321227296076706,NER,2019
+498,IDN,Growing cereals n.e.c industry,CHE,0.0,NER,2019
+499,IDN,Growing leguminous crops and oil seeds industry,CHE,0.000738748724929681,NER,2019
+500,IDN,Growing rice industry,CHE,1.4352199416266094e-06,NER,2019
+501,IDN,"Growing vegetables, roots, tubers industry",CHE,0.0,NER,2019
+502,IDN,Growing sugar beet and cane industry,CHE,0.0,NER,2019
+503,IDN,Growing tobacco industry,CHE,7.729500142335767e-06,NER,2019
+504,IDN,Growing fibre crops industry,CHE,2.450987611245409e-07,NER,2019
+505,IDN,Growing crops n.e.c. industry,CHE,0.0,NER,2019
+506,IDN,Growing grapes industry,CHE,0.0,NER,2019
+507,IDN,Growing fruits and nuts industry,CHE,0.00010839382866231367,NER,2019
+508,IDN,"Growing beverage crops (coffee, tea etc) industry",CHE,1.820146309333357e-05,NER,2019
+509,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,6.1732200642953786e-06,NER,2019
+510,IDN,Seeds and plant propagation industry,CHE,0.0,NER,2019
+511,IDN,Raising of cattle industry,CHE,4.089052541149513e-05,NER,2019
+512,IDN,Growing wheat industry,CHL,0.0,NER,2019
+513,IDN,Growing maize industry,CHL,0.00021674174617200526,NER,2019
+514,IDN,Growing cereals n.e.c industry,CHL,0.0,NER,2019
+515,IDN,Growing leguminous crops and oil seeds industry,CHL,0.00022058560361411586,NER,2019
+516,IDN,Growing rice industry,CHL,4.937953645250299e-07,NER,2019
+517,IDN,"Growing vegetables, roots, tubers industry",CHL,0.0,NER,2019
+518,IDN,Growing sugar beet and cane industry,CHL,0.0,NER,2019
+519,IDN,Growing tobacco industry,CHL,2.515549017967482e-06,NER,2019
+520,IDN,Growing fibre crops industry,CHL,7.337545258921118e-08,NER,2019
+521,IDN,Growing crops n.e.c. industry,CHL,0.0,NER,2019
+522,IDN,Growing grapes industry,CHL,0.0,NER,2019
+523,IDN,Growing fruits and nuts industry,CHL,3.9779398510899525e-05,NER,2019
+524,IDN,"Growing beverage crops (coffee, tea etc) industry",CHL,2.7181238728730894e-06,NER,2019
+525,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,1.7519773802039431e-06,NER,2019
+526,IDN,Seeds and plant propagation industry,CHL,0.0,NER,2019
+527,IDN,Raising of cattle industry,CHL,1.1575962635505042e-05,NER,2019
+528,IDN,Growing wheat industry,CHN,0.0,NER,2019
+529,IDN,Growing maize industry,CHN,0.00970081840762741,NER,2019
+530,IDN,Growing cereals n.e.c industry,CHN,0.0,NER,2019
+531,IDN,Growing leguminous crops and oil seeds industry,CHN,0.025257040019993588,NER,2019
+532,IDN,Growing rice industry,CHN,4.9528949315151605e-05,NER,2019
+533,IDN,"Growing vegetables, roots, tubers industry",CHN,0.0,NER,2019
+534,IDN,Growing sugar beet and cane industry,CHN,0.0,NER,2019
+535,IDN,Growing tobacco industry,CHN,0.0004242724985617417,NER,2019
+536,IDN,Growing fibre crops industry,CHN,1.0382126994422153e-05,NER,2019
+537,IDN,Growing crops n.e.c. industry,CHN,0.0,NER,2019
+538,IDN,Growing grapes industry,CHN,0.0,NER,2019
+539,IDN,Growing fruits and nuts industry,CHN,0.0034302183157590223,NER,2019
+540,IDN,"Growing beverage crops (coffee, tea etc) industry",CHN,0.00030320914800622715,NER,2019
+541,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,0.00023197716534447297,NER,2019
+542,IDN,Seeds and plant propagation industry,CHN,0.0,NER,2019
+543,IDN,Raising of cattle industry,CHN,0.0010897489253267072,NER,2019
+544,IDN,Growing wheat industry,CIV,0.0,NER,2019
+545,IDN,Growing maize industry,CIV,0.0010847621751927025,NER,2019
+546,IDN,Growing cereals n.e.c industry,CIV,0.0,NER,2019
+547,IDN,Growing leguminous crops and oil seeds industry,CIV,0.0019615568984938424,NER,2019
+548,IDN,Growing rice industry,CIV,3.925054467067433e-06,NER,2019
+549,IDN,"Growing vegetables, roots, tubers industry",CIV,0.0,NER,2019
+550,IDN,Growing sugar beet and cane industry,CIV,0.0,NER,2019
+551,IDN,Growing tobacco industry,CIV,7.375535652131108e-06,NER,2019
+552,IDN,Growing fibre crops industry,CIV,2.7527825972189447e-07,NER,2019
+553,IDN,Growing crops n.e.c. industry,CIV,0.0,NER,2019
+554,IDN,Growing grapes industry,CIV,0.0,NER,2019
+555,IDN,Growing fruits and nuts industry,CIV,0.00028414723763145065,NER,2019
+556,IDN,"Growing beverage crops (coffee, tea etc) industry",CIV,5.9562792428260464e-05,NER,2019
+557,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,9.383463945142368e-06,NER,2019
+558,IDN,Seeds and plant propagation industry,CIV,0.0,NER,2019
+559,IDN,Raising of cattle industry,CIV,4.642377523691908e-05,NER,2019
+560,IDN,Growing wheat industry,CMR,0.0,NER,2019
+561,IDN,Growing maize industry,CMR,0.00030150596980298546,NER,2019
+562,IDN,Growing cereals n.e.c industry,CMR,0.0,NER,2019
+563,IDN,Growing leguminous crops and oil seeds industry,CMR,0.0003804177407129746,NER,2019
+564,IDN,Growing rice industry,CMR,7.214016311269288e-07,NER,2019
+565,IDN,"Growing vegetables, roots, tubers industry",CMR,0.0,NER,2019
+566,IDN,Growing sugar beet and cane industry,CMR,0.0,NER,2019
+567,IDN,Growing tobacco industry,CMR,2.208472683307146e-06,NER,2019
+568,IDN,Growing fibre crops industry,CMR,5.32896536847974e-08,NER,2019
+569,IDN,Growing crops n.e.c. industry,CMR,0.0,NER,2019
+570,IDN,Growing grapes industry,CMR,0.0,NER,2019
+571,IDN,Growing fruits and nuts industry,CMR,5.654050031020161e-05,NER,2019
+572,IDN,"Growing beverage crops (coffee, tea etc) industry",CMR,3.29297363819259e-06,NER,2019
+573,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,2.5109994548611196e-06,NER,2019
+574,IDN,Seeds and plant propagation industry,CMR,0.0,NER,2019
+575,IDN,Raising of cattle industry,CMR,9.473213314917322e-06,NER,2019
+576,IDN,Growing wheat industry,COD,0.0,NER,2019
+577,IDN,Growing maize industry,COD,5.6186380268322216e-05,NER,2019
+578,IDN,Growing cereals n.e.c industry,COD,0.0,NER,2019
+579,IDN,Growing leguminous crops and oil seeds industry,COD,7.85198610705787e-05,NER,2019
+580,IDN,Growing rice industry,COD,1.4714693194811484e-07,NER,2019
+581,IDN,"Growing vegetables, roots, tubers industry",COD,0.0,NER,2019
+582,IDN,Growing sugar beet and cane industry,COD,0.0,NER,2019
+583,IDN,Growing tobacco industry,COD,5.529548089446175e-07,NER,2019
+584,IDN,Growing fibre crops industry,COD,1.580579121423207e-08,NER,2019
+585,IDN,Growing crops n.e.c. industry,COD,0.0,NER,2019
+586,IDN,Growing grapes industry,COD,0.0,NER,2019
+587,IDN,Growing fruits and nuts industry,COD,1.1511611322452795e-05,NER,2019
+588,IDN,"Growing beverage crops (coffee, tea etc) industry",COD,7.740339614770699e-07,NER,2019
+589,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,5.449356591984769e-07,NER,2019
+590,IDN,Seeds and plant propagation industry,COD,0.0,NER,2019
+591,IDN,Raising of cattle industry,COD,2.5427087217560222e-06,NER,2019
+592,IDN,Growing wheat industry,COG,0.0,NER,2019
+593,IDN,Growing maize industry,COG,0.0001978391453468584,NER,2019
+594,IDN,Growing cereals n.e.c industry,COG,0.0,NER,2019
+595,IDN,Growing leguminous crops and oil seeds industry,COG,4.2084908315831436e-05,NER,2019
+596,IDN,Growing rice industry,COG,1.9205032702058028e-07,NER,2019
+597,IDN,"Growing vegetables, roots, tubers industry",COG,0.0,NER,2019
+598,IDN,Growing sugar beet and cane industry,COG,0.0,NER,2019
+599,IDN,Growing tobacco industry,COG,3.274306529401964e-07,NER,2019
+600,IDN,Growing fibre crops industry,COG,9.828362781807498e-09,NER,2019
+601,IDN,Growing crops n.e.c. industry,COG,0.0,NER,2019
+602,IDN,Growing grapes industry,COG,0.0,NER,2019
+603,IDN,Growing fruits and nuts industry,COG,1.8396350420876437e-05,NER,2019
+604,IDN,"Growing beverage crops (coffee, tea etc) industry",COG,4.781642898987034e-07,NER,2019
+605,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,3.1414203513157196e-07,NER,2019
+606,IDN,Seeds and plant propagation industry,COG,0.0,NER,2019
+607,IDN,Raising of cattle industry,COG,2.656293972469376e-06,NER,2019
+608,IDN,Growing wheat industry,COL,0.0,NER,2019
+609,IDN,Growing maize industry,COL,0.00019091853240267546,NER,2019
+610,IDN,Growing cereals n.e.c industry,COL,0.0,NER,2019
+611,IDN,Growing leguminous crops and oil seeds industry,COL,0.00018174592711821762,NER,2019
+612,IDN,Growing rice industry,COL,4.2047243809852074e-07,NER,2019
+613,IDN,"Growing vegetables, roots, tubers industry",COL,0.0,NER,2019
+614,IDN,Growing sugar beet and cane industry,COL,0.0,NER,2019
+615,IDN,Growing tobacco industry,COL,2.4659664250636476e-06,NER,2019
+616,IDN,Growing fibre crops industry,COL,6.989770047287394e-08,NER,2019
+617,IDN,Growing crops n.e.c. industry,COL,0.0,NER,2019
+618,IDN,Growing grapes industry,COL,0.0,NER,2019
+619,IDN,Growing fruits and nuts industry,COL,3.9025974568245996e-05,NER,2019
+620,IDN,"Growing beverage crops (coffee, tea etc) industry",COL,3.189935749891157e-06,NER,2019
+621,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,1.6805702708866038e-06,NER,2019
+622,IDN,Seeds and plant propagation industry,COL,0.0,NER,2019
+623,IDN,Raising of cattle industry,COL,1.0737526353888413e-05,NER,2019
+624,IDN,Growing wheat industry,CRI,0.0,NER,2019
+625,IDN,Growing maize industry,CRI,3.0745490584457265e-05,NER,2019
+626,IDN,Growing cereals n.e.c industry,CRI,0.0,NER,2019
+627,IDN,Growing leguminous crops and oil seeds industry,CRI,3.5084683973632606e-05,NER,2019
+628,IDN,Growing rice industry,CRI,7.359703904414842e-08,NER,2019
+629,IDN,"Growing vegetables, roots, tubers industry",CRI,0.0,NER,2019
+630,IDN,Growing sugar beet and cane industry,CRI,0.0,NER,2019
+631,IDN,Growing tobacco industry,CRI,3.3090446527134227e-07,NER,2019
+632,IDN,Growing fibre crops industry,CRI,9.858003524610034e-09,NER,2019
+633,IDN,Growing crops n.e.c. industry,CRI,0.0,NER,2019
+634,IDN,Growing grapes industry,CRI,0.0,NER,2019
+635,IDN,Growing fruits and nuts industry,CRI,6.343880177993127e-06,NER,2019
+636,IDN,"Growing beverage crops (coffee, tea etc) industry",CRI,3.585848103500018e-07,NER,2019
+637,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,5.975947959994005e-07,NER,2019
+638,IDN,Seeds and plant propagation industry,CRI,0.0,NER,2019
+639,IDN,Raising of cattle industry,CRI,2.705276979710553e-06,NER,2019
+640,IDN,Growing wheat industry,CUB,0.0,NER,2019
+641,IDN,Growing maize industry,CUB,4.450906584084662e-05,NER,2019
+642,IDN,Growing cereals n.e.c industry,CUB,0.0,NER,2019
+643,IDN,Growing leguminous crops and oil seeds industry,CUB,3.506708652358624e-05,NER,2019
+644,IDN,Growing rice industry,CUB,8.430313986326744e-08,NER,2019
+645,IDN,"Growing vegetables, roots, tubers industry",CUB,0.0,NER,2019
+646,IDN,Growing sugar beet and cane industry,CUB,0.0,NER,2019
+647,IDN,Growing tobacco industry,CUB,3.732976376408067e-07,NER,2019
+648,IDN,Growing fibre crops industry,CUB,1.0773919759401016e-08,NER,2019
+649,IDN,Growing crops n.e.c. industry,CUB,0.0,NER,2019
+650,IDN,Growing grapes industry,CUB,0.0,NER,2019
+651,IDN,Growing fruits and nuts industry,CUB,6.869395148191801e-06,NER,2019
+652,IDN,"Growing beverage crops (coffee, tea etc) industry",CUB,3.449626692020431e-07,NER,2019
+653,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,2.8095299430178285e-07,NER,2019
+654,IDN,Seeds and plant propagation industry,CUB,0.0,NER,2019
+655,IDN,Raising of cattle industry,CUB,1.8872191920906258e-06,NER,2019
+656,IDN,Growing wheat industry,CYP,0.0,NER,2019
+657,IDN,Growing maize industry,CYP,1.2451555628440869e-05,NER,2019
+658,IDN,Growing cereals n.e.c industry,CYP,0.0,NER,2019
+659,IDN,Growing leguminous crops and oil seeds industry,CYP,2.2125651464010354e-05,NER,2019
+660,IDN,Growing rice industry,CYP,4.048734076805678e-08,NER,2019
+661,IDN,"Growing vegetables, roots, tubers industry",CYP,0.0,NER,2019
+662,IDN,Growing sugar beet and cane industry,CYP,0.0,NER,2019
+663,IDN,Growing tobacco industry,CYP,1.912976943023166e-07,NER,2019
+664,IDN,Growing fibre crops industry,CYP,5.691807528597517e-09,NER,2019
+665,IDN,Growing crops n.e.c. industry,CYP,0.0,NER,2019
+666,IDN,Growing grapes industry,CYP,0.0,NER,2019
+667,IDN,Growing fruits and nuts industry,CYP,3.0894521831273884e-06,NER,2019
+668,IDN,"Growing beverage crops (coffee, tea etc) industry",CYP,6.264214526988367e-07,NER,2019
+669,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,1.7737642038863484e-07,NER,2019
+670,IDN,Seeds and plant propagation industry,CYP,0.0,NER,2019
+671,IDN,Raising of cattle industry,CYP,9.471219876362019e-07,NER,2019
+672,IDN,Growing wheat industry,CZE,0.0,NER,2019
+673,IDN,Growing maize industry,CZE,0.00011522349076090844,NER,2019
+674,IDN,Growing cereals n.e.c industry,CZE,0.0,NER,2019
+675,IDN,Growing leguminous crops and oil seeds industry,CZE,0.00033415116365717617,NER,2019
+676,IDN,Growing rice industry,CZE,5.22141113405505e-07,NER,2019
+677,IDN,"Growing vegetables, roots, tubers industry",CZE,0.0,NER,2019
+678,IDN,Growing sugar beet and cane industry,CZE,0.0,NER,2019
+679,IDN,Growing tobacco industry,CZE,2.8108141014377835e-06,NER,2019
+680,IDN,Growing fibre crops industry,CZE,9.286232440739046e-08,NER,2019
+681,IDN,Growing crops n.e.c. industry,CZE,0.0,NER,2019
+682,IDN,Growing grapes industry,CZE,0.0,NER,2019
+683,IDN,Growing fruits and nuts industry,CZE,4.142823958407393e-05,NER,2019
+684,IDN,"Growing beverage crops (coffee, tea etc) industry",CZE,3.6548858564513693e-06,NER,2019
+685,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,2.5928116198458207e-06,NER,2019
+686,IDN,Seeds and plant propagation industry,CZE,0.0,NER,2019
+687,IDN,Raising of cattle industry,CZE,1.363064275409549e-05,NER,2019
+688,IDN,Growing wheat industry,DEU,0.0,NER,2019
+689,IDN,Growing maize industry,DEU,0.0030644195037271404,NER,2019
+690,IDN,Growing cereals n.e.c industry,DEU,0.0,NER,2019
+691,IDN,Growing leguminous crops and oil seeds industry,DEU,0.0031484451753473618,NER,2019
+692,IDN,Growing rice industry,DEU,6.946693135251427e-06,NER,2019
+693,IDN,"Growing vegetables, roots, tubers industry",DEU,0.0,NER,2019
+694,IDN,Growing sugar beet and cane industry,DEU,0.0,NER,2019
+695,IDN,Growing tobacco industry,DEU,4.059231317402948e-05,NER,2019
+696,IDN,Growing fibre crops industry,DEU,1.2046293462612038e-06,NER,2019
+697,IDN,Growing crops n.e.c. industry,DEU,0.0,NER,2019
+698,IDN,Growing grapes industry,DEU,0.0,NER,2019
+699,IDN,Growing fruits and nuts industry,DEU,0.0005513957633638953,NER,2019
+700,IDN,"Growing beverage crops (coffee, tea etc) industry",DEU,6.205180267505708e-05,NER,2019
+701,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,2.8199498752423637e-05,NER,2019
+702,IDN,Seeds and plant propagation industry,DEU,0.0,NER,2019
+703,IDN,Raising of cattle industry,DEU,0.0002285441176827502,NER,2019
+704,IDN,Growing wheat industry,DJI,0.0,NER,2019
+705,IDN,Growing maize industry,DJI,1.0477421975603043e-05,NER,2019
+706,IDN,Growing cereals n.e.c industry,DJI,0.0,NER,2019
+707,IDN,Growing leguminous crops and oil seeds industry,DJI,4.8502455269676766e-05,NER,2019
+708,IDN,Growing rice industry,DJI,4.746941223464105e-08,NER,2019
+709,IDN,"Growing vegetables, roots, tubers industry",DJI,0.0,NER,2019
+710,IDN,Growing sugar beet and cane industry,DJI,0.0,NER,2019
+711,IDN,Growing tobacco industry,DJI,9.447935351486301e-08,NER,2019
+712,IDN,Growing fibre crops industry,DJI,3.997692934018158e-09,NER,2019
+713,IDN,Growing crops n.e.c. industry,DJI,0.0,NER,2019
+714,IDN,Growing grapes industry,DJI,0.0,NER,2019
+715,IDN,Growing fruits and nuts industry,DJI,4.413564345689172e-06,NER,2019
+716,IDN,"Growing beverage crops (coffee, tea etc) industry",DJI,1.5108175085573488e-07,NER,2019
+717,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,1.7762740410175427e-07,NER,2019
+718,IDN,Seeds and plant propagation industry,DJI,0.0,NER,2019
+719,IDN,Raising of cattle industry,DJI,5.954821520123135e-07,NER,2019
+720,IDN,Growing wheat industry,DYE,0.0,NER,2019
+721,IDN,Growing maize industry,DYE,0.0,NER,2019
+722,IDN,Growing cereals n.e.c industry,DYE,0.0,NER,2019
+723,IDN,Growing leguminous crops and oil seeds industry,DYE,0.0,NER,2019
+724,IDN,Growing rice industry,DYE,0.0,NER,2019
+725,IDN,"Growing vegetables, roots, tubers industry",DYE,0.0,NER,2019
+726,IDN,Growing sugar beet and cane industry,DYE,0.0,NER,2019
+727,IDN,Growing tobacco industry,DYE,0.0,NER,2019
+728,IDN,Growing fibre crops industry,DYE,0.0,NER,2019
+729,IDN,Growing crops n.e.c. industry,DYE,0.0,NER,2019
+730,IDN,Growing grapes industry,DYE,0.0,NER,2019
+731,IDN,Growing fruits and nuts industry,DYE,0.0,NER,2019
+732,IDN,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,NER,2019
+733,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,NER,2019
+734,IDN,Seeds and plant propagation industry,DYE,0.0,NER,2019
+735,IDN,Raising of cattle industry,DYE,0.0,NER,2019
+736,IDN,Growing wheat industry,DNK,0.0,NER,2019
+737,IDN,Growing maize industry,DNK,0.0001402823771572739,NER,2019
+738,IDN,Growing cereals n.e.c industry,DNK,0.0,NER,2019
+739,IDN,Growing leguminous crops and oil seeds industry,DNK,0.00021707358777725428,NER,2019
+740,IDN,Growing rice industry,DNK,4.1236822235297233e-07,NER,2019
+741,IDN,"Growing vegetables, roots, tubers industry",DNK,0.0,NER,2019
+742,IDN,Growing sugar beet and cane industry,DNK,0.0,NER,2019
+743,IDN,Growing tobacco industry,DNK,2.0599031107574283e-06,NER,2019
+744,IDN,Growing fibre crops industry,DNK,6.294403367632472e-08,NER,2019
+745,IDN,Growing crops n.e.c. industry,DNK,0.0,NER,2019
+746,IDN,Growing grapes industry,DNK,0.0,NER,2019
+747,IDN,Growing fruits and nuts industry,DNK,3.362969523015431e-05,NER,2019
+748,IDN,"Growing beverage crops (coffee, tea etc) industry",DNK,4.1096052652891545e-06,NER,2019
+749,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,1.7115148253191467e-06,NER,2019
+750,IDN,Seeds and plant propagation industry,DNK,0.0,NER,2019
+751,IDN,Raising of cattle industry,DNK,1.0008029104418916e-05,NER,2019
+752,IDN,Growing wheat industry,DOM,0.0,NER,2019
+753,IDN,Growing maize industry,DOM,2.3224399800191956e-05,NER,2019
+754,IDN,Growing cereals n.e.c industry,DOM,0.0,NER,2019
+755,IDN,Growing leguminous crops and oil seeds industry,DOM,4.4920349942434646e-05,NER,2019
+756,IDN,Growing rice industry,DOM,7.931304048226511e-08,NER,2019
+757,IDN,"Growing vegetables, roots, tubers industry",DOM,0.0,NER,2019
+758,IDN,Growing sugar beet and cane industry,DOM,0.0,NER,2019
+759,IDN,Growing tobacco industry,DOM,3.5869449945335703e-07,NER,2019
+760,IDN,Growing fibre crops industry,DOM,9.162007923641289e-09,NER,2019
+761,IDN,Growing crops n.e.c. industry,DOM,0.0,NER,2019
+762,IDN,Growing grapes industry,DOM,0.0,NER,2019
+763,IDN,Growing fruits and nuts industry,DOM,5.909929101301632e-06,NER,2019
+764,IDN,"Growing beverage crops (coffee, tea etc) industry",DOM,3.396928326808771e-07,NER,2019
+765,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,3.2397771392173525e-07,NER,2019
+766,IDN,Seeds and plant propagation industry,DOM,0.0,NER,2019
+767,IDN,Raising of cattle industry,DOM,1.4243278340244534e-06,NER,2019
+768,IDN,Growing wheat industry,DZA,0.0,NER,2019
+769,IDN,Growing maize industry,DZA,0.0015291560033041628,NER,2019
+770,IDN,Growing cereals n.e.c industry,DZA,0.0,NER,2019
+771,IDN,Growing leguminous crops and oil seeds industry,DZA,0.002048659476209501,NER,2019
+772,IDN,Growing rice industry,DZA,3.3118712625563814e-06,NER,2019
+773,IDN,"Growing vegetables, roots, tubers industry",DZA,0.0,NER,2019
+774,IDN,Growing sugar beet and cane industry,DZA,0.0,NER,2019
+775,IDN,Growing tobacco industry,DZA,9.25526804849423e-06,NER,2019
+776,IDN,Growing fibre crops industry,DZA,3.1703576533392974e-07,NER,2019
+777,IDN,Growing crops n.e.c. industry,DZA,0.0,NER,2019
+778,IDN,Growing grapes industry,DZA,0.0,NER,2019
+779,IDN,Growing fruits and nuts industry,DZA,0.0003646758739752596,NER,2019
+780,IDN,"Growing beverage crops (coffee, tea etc) industry",DZA,1.0710759569637918e-05,NER,2019
+781,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,1.0981814469490363e-05,NER,2019
+782,IDN,Seeds and plant propagation industry,DZA,0.0,NER,2019
+783,IDN,Raising of cattle industry,DZA,6.461722350184951e-05,NER,2019
+784,IDN,Growing wheat industry,ECU,0.0,NER,2019
+785,IDN,Growing maize industry,ECU,7.556285465236864e-05,NER,2019
+786,IDN,Growing cereals n.e.c industry,ECU,0.0,NER,2019
+787,IDN,Growing leguminous crops and oil seeds industry,ECU,7.086757329220849e-05,NER,2019
+788,IDN,Growing rice industry,ECU,1.5946995305493948e-07,NER,2019
+789,IDN,"Growing vegetables, roots, tubers industry",ECU,0.0,NER,2019
+790,IDN,Growing sugar beet and cane industry,ECU,0.0,NER,2019
+791,IDN,Growing tobacco industry,ECU,9.086764405514441e-07,NER,2019
+792,IDN,Growing fibre crops industry,ECU,2.5053924325082258e-08,NER,2019
+793,IDN,Growing crops n.e.c. industry,ECU,0.0,NER,2019
+794,IDN,Growing grapes industry,ECU,0.0,NER,2019
+795,IDN,Growing fruits and nuts industry,ECU,1.270273344001648e-05,NER,2019
+796,IDN,"Growing beverage crops (coffee, tea etc) industry",ECU,8.180231169703725e-07,NER,2019
+797,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,6.016857264483913e-07,NER,2019
+798,IDN,Seeds and plant propagation industry,ECU,0.0,NER,2019
+799,IDN,Raising of cattle industry,ECU,3.665218920599729e-06,NER,2019
+800,IDN,Growing wheat industry,EGY,0.0,NER,2019
+801,IDN,Growing maize industry,EGY,0.00023695560713807008,NER,2019
+802,IDN,Growing cereals n.e.c industry,EGY,0.0,NER,2019
+803,IDN,Growing leguminous crops and oil seeds industry,EGY,0.00019651129389568992,NER,2019
+804,IDN,Growing rice industry,EGY,4.4721977129725644e-07,NER,2019
+805,IDN,"Growing vegetables, roots, tubers industry",EGY,0.0,NER,2019
+806,IDN,Growing sugar beet and cane industry,EGY,0.0,NER,2019
+807,IDN,Growing tobacco industry,EGY,1.7701888185324111e-06,NER,2019
+808,IDN,Growing fibre crops industry,EGY,5.8738714562366074e-08,NER,2019
+809,IDN,Growing crops n.e.c. industry,EGY,0.0,NER,2019
+810,IDN,Growing grapes industry,EGY,0.0,NER,2019
+811,IDN,Growing fruits and nuts industry,EGY,3.74028924691272e-05,NER,2019
+812,IDN,"Growing beverage crops (coffee, tea etc) industry",EGY,7.281063804199047e-06,NER,2019
+813,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,1.5579736347088395e-06,NER,2019
+814,IDN,Seeds and plant propagation industry,EGY,0.0,NER,2019
+815,IDN,Raising of cattle industry,EGY,9.739978846782401e-06,NER,2019
+816,IDN,Growing wheat industry,ERI,0.0,NER,2019
+817,IDN,Growing maize industry,ERI,6.8706268367536e-07,NER,2019
+818,IDN,Growing cereals n.e.c industry,ERI,0.0,NER,2019
+819,IDN,Growing leguminous crops and oil seeds industry,ERI,1.1307561475739263e-06,NER,2019
+820,IDN,Growing rice industry,ERI,2.0645829411014454e-09,NER,2019
+821,IDN,"Growing vegetables, roots, tubers industry",ERI,0.0,NER,2019
+822,IDN,Growing sugar beet and cane industry,ERI,0.0,NER,2019
+823,IDN,Growing tobacco industry,ERI,1.093972741489184e-08,NER,2019
+824,IDN,Growing fibre crops industry,ERI,3.4040447458908693e-10,NER,2019
+825,IDN,Growing crops n.e.c. industry,ERI,0.0,NER,2019
+826,IDN,Growing grapes industry,ERI,0.0,NER,2019
+827,IDN,Growing fruits and nuts industry,ERI,1.669683602488517e-07,NER,2019
+828,IDN,"Growing beverage crops (coffee, tea etc) industry",ERI,1.5191821971841664e-08,NER,2019
+829,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,8.837016327232703e-09,NER,2019
+830,IDN,Seeds and plant propagation industry,ERI,0.0,NER,2019
+831,IDN,Raising of cattle industry,ERI,5.101575013654793e-08,NER,2019
+832,IDN,Growing wheat industry,ESP,0.0,NER,2019
+833,IDN,Growing maize industry,ESP,0.0009534634324067086,NER,2019
+834,IDN,Growing cereals n.e.c industry,ESP,0.0,NER,2019
+835,IDN,Growing leguminous crops and oil seeds industry,ESP,0.0013878508707655009,NER,2019
+836,IDN,Growing rice industry,ESP,2.7922586358043873e-06,NER,2019
+837,IDN,"Growing vegetables, roots, tubers industry",ESP,0.0,NER,2019
+838,IDN,Growing sugar beet and cane industry,ESP,0.0,NER,2019
+839,IDN,Growing tobacco industry,ESP,1.3234014136736126e-05,NER,2019
+840,IDN,Growing fibre crops industry,ESP,4.1599298091101895e-07,NER,2019
+841,IDN,Growing crops n.e.c. industry,ESP,0.0,NER,2019
+842,IDN,Growing grapes industry,ESP,0.0,NER,2019
+843,IDN,Growing fruits and nuts industry,ESP,0.00021406850359138342,NER,2019
+844,IDN,"Growing beverage crops (coffee, tea etc) industry",ESP,2.0519890420985874e-05,NER,2019
+845,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,1.0684119225509446e-05,NER,2019
+846,IDN,Seeds and plant propagation industry,ESP,0.0,NER,2019
+847,IDN,Raising of cattle industry,ESP,7.371475457190385e-05,NER,2019
+848,IDN,Growing wheat industry,EST,0.0,NER,2019
+849,IDN,Growing maize industry,EST,3.4011924821375605e-05,NER,2019
+850,IDN,Growing cereals n.e.c industry,EST,0.0,NER,2019
+851,IDN,Growing leguminous crops and oil seeds industry,EST,0.00010762004346425297,NER,2019
+852,IDN,Growing rice industry,EST,1.2184398577816746e-07,NER,2019
+853,IDN,"Growing vegetables, roots, tubers industry",EST,0.0,NER,2019
+854,IDN,Growing sugar beet and cane industry,EST,0.0,NER,2019
+855,IDN,Growing tobacco industry,EST,3.2346796121250615e-07,NER,2019
+856,IDN,Growing fibre crops industry,EST,1.23788980212918e-08,NER,2019
+857,IDN,Growing crops n.e.c. industry,EST,0.0,NER,2019
+858,IDN,Growing grapes industry,EST,0.0,NER,2019
+859,IDN,Growing fruits and nuts industry,EST,1.012372749362526e-05,NER,2019
+860,IDN,"Growing beverage crops (coffee, tea etc) industry",EST,2.5634512790836878e-06,NER,2019
+861,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,4.795831637504442e-07,NER,2019
+862,IDN,Seeds and plant propagation industry,EST,0.0,NER,2019
+863,IDN,Raising of cattle industry,EST,2.2918240033511987e-06,NER,2019
+864,IDN,Growing wheat industry,ETH,0.0,NER,2019
+865,IDN,Growing maize industry,ETH,5.7464940810921556e-05,NER,2019
+866,IDN,Growing cereals n.e.c industry,ETH,0.0,NER,2019
+867,IDN,Growing leguminous crops and oil seeds industry,ETH,0.00013231627638657175,NER,2019
+868,IDN,Growing rice industry,ETH,2.031228538653247e-07,NER,2019
+869,IDN,"Growing vegetables, roots, tubers industry",ETH,0.0,NER,2019
+870,IDN,Growing sugar beet and cane industry,ETH,0.0,NER,2019
+871,IDN,Growing tobacco industry,ETH,1.1369227549385286e-06,NER,2019
+872,IDN,Growing fibre crops industry,ETH,3.853603796950578e-08,NER,2019
+873,IDN,Growing crops n.e.c. industry,ETH,0.0,NER,2019
+874,IDN,Growing grapes industry,ETH,0.0,NER,2019
+875,IDN,Growing fruits and nuts industry,ETH,1.6755677799910878e-05,NER,2019
+876,IDN,"Growing beverage crops (coffee, tea etc) industry",ETH,1.3928106907280422e-06,NER,2019
+877,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,1.189700984134151e-06,NER,2019
+878,IDN,Seeds and plant propagation industry,ETH,0.0,NER,2019
+879,IDN,Raising of cattle industry,ETH,6.53225764689348e-06,NER,2019
+880,IDN,Growing wheat industry,FIN,0.0,NER,2019
+881,IDN,Growing maize industry,FIN,7.695865646268833e-05,NER,2019
+882,IDN,Growing cereals n.e.c industry,FIN,0.0,NER,2019
+883,IDN,Growing leguminous crops and oil seeds industry,FIN,0.00012527936860090027,NER,2019
+884,IDN,Growing rice industry,FIN,2.5104452076247406e-07,NER,2019
+885,IDN,"Growing vegetables, roots, tubers industry",FIN,0.0,NER,2019
+886,IDN,Growing sugar beet and cane industry,FIN,0.0,NER,2019
+887,IDN,Growing tobacco industry,FIN,1.4525439915887212e-06,NER,2019
+888,IDN,Growing fibre crops industry,FIN,4.2418047166649446e-08,NER,2019
+889,IDN,Growing crops n.e.c. industry,FIN,0.0,NER,2019
+890,IDN,Growing grapes industry,FIN,0.0,NER,2019
+891,IDN,Growing fruits and nuts industry,FIN,1.8900898756739088e-05,NER,2019
+892,IDN,"Growing beverage crops (coffee, tea etc) industry",FIN,2.392458103896172e-06,NER,2019
+893,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,1.0349434712051368e-06,NER,2019
+894,IDN,Seeds and plant propagation industry,FIN,0.0,NER,2019
+895,IDN,Raising of cattle industry,FIN,6.442226497955941e-06,NER,2019
+896,IDN,Growing wheat industry,FRA,0.0,NER,2019
+897,IDN,Growing maize industry,FRA,0.0021245396365980715,NER,2019
+898,IDN,Growing cereals n.e.c industry,FRA,0.0,NER,2019
+899,IDN,Growing leguminous crops and oil seeds industry,FRA,0.007256450393713416,NER,2019
+900,IDN,Growing rice industry,FRA,1.3263254419484735e-05,NER,2019
+901,IDN,"Growing vegetables, roots, tubers industry",FRA,0.0,NER,2019
+902,IDN,Growing sugar beet and cane industry,FRA,0.0,NER,2019
+903,IDN,Growing tobacco industry,FRA,7.800537469362557e-05,NER,2019
+904,IDN,Growing fibre crops industry,FRA,2.2273633185469095e-06,NER,2019
+905,IDN,Growing crops n.e.c. industry,FRA,0.0,NER,2019
+906,IDN,Growing grapes industry,FRA,0.0,NER,2019
+907,IDN,Growing fruits and nuts industry,FRA,0.0008866488292459645,NER,2019
+908,IDN,"Growing beverage crops (coffee, tea etc) industry",FRA,0.00028103870768283616,NER,2019
+909,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,5.812248169931057e-05,NER,2019
+910,IDN,Seeds and plant propagation industry,FRA,0.0,NER,2019
+911,IDN,Raising of cattle industry,FRA,0.00037811840387104434,NER,2019
+912,IDN,Growing wheat industry,GAB,0.0,NER,2019
+913,IDN,Growing maize industry,GAB,0.00020621570038647458,NER,2019
+914,IDN,Growing cereals n.e.c industry,GAB,0.0,NER,2019
+915,IDN,Growing leguminous crops and oil seeds industry,GAB,6.788176610893945e-05,NER,2019
+916,IDN,Growing rice industry,GAB,2.3236242648546286e-07,NER,2019
+917,IDN,"Growing vegetables, roots, tubers industry",GAB,0.0,NER,2019
+918,IDN,Growing sugar beet and cane industry,GAB,0.0,NER,2019
+919,IDN,Growing tobacco industry,GAB,4.4439184397545276e-07,NER,2019
+920,IDN,Growing fibre crops industry,GAB,1.2870186750400049e-08,NER,2019
+921,IDN,Growing crops n.e.c. industry,GAB,0.0,NER,2019
+922,IDN,Growing grapes industry,GAB,0.0,NER,2019
+923,IDN,Growing fruits and nuts industry,GAB,2.1537513229152442e-05,NER,2019
+924,IDN,"Growing beverage crops (coffee, tea etc) industry",GAB,6.54726425751564e-07,NER,2019
+925,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,4.487113075291767e-07,NER,2019
+926,IDN,Seeds and plant propagation industry,GAB,0.0,NER,2019
+927,IDN,Raising of cattle industry,GAB,3.0831451809445287e-06,NER,2019
+928,IDN,Growing wheat industry,GBR,0.0,NER,2019
+929,IDN,Growing maize industry,GBR,0.0019873523475489145,NER,2019
+930,IDN,Growing cereals n.e.c industry,GBR,0.0,NER,2019
+931,IDN,Growing leguminous crops and oil seeds industry,GBR,0.00224756629750821,NER,2019
+932,IDN,Growing rice industry,GBR,5.05037152614504e-06,NER,2019
+933,IDN,"Growing vegetables, roots, tubers industry",GBR,0.0,NER,2019
+934,IDN,Growing sugar beet and cane industry,GBR,0.0,NER,2019
+935,IDN,Growing tobacco industry,GBR,2.1672364339452493e-05,NER,2019
+936,IDN,Growing fibre crops industry,GBR,6.570885259529894e-07,NER,2019
+937,IDN,Growing crops n.e.c. industry,GBR,0.0,NER,2019
+938,IDN,Growing grapes industry,GBR,0.0,NER,2019
+939,IDN,Growing fruits and nuts industry,GBR,0.00038079096842756475,NER,2019
+940,IDN,"Growing beverage crops (coffee, tea etc) industry",GBR,0.0003724963056428771,NER,2019
+941,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,1.7515774554733303e-05,NER,2019
+942,IDN,Seeds and plant propagation industry,GBR,0.0,NER,2019
+943,IDN,Raising of cattle industry,GBR,0.00010919062183283019,NER,2019
+944,IDN,Growing wheat industry,GEO,0.0,NER,2019
+945,IDN,Growing maize industry,GEO,1.613832426766195e-05,NER,2019
+946,IDN,Growing cereals n.e.c industry,GEO,0.0,NER,2019
+947,IDN,Growing leguminous crops and oil seeds industry,GEO,2.1083745590635348e-05,NER,2019
+948,IDN,Growing rice industry,GEO,4.137484451124714e-08,NER,2019
+949,IDN,"Growing vegetables, roots, tubers industry",GEO,0.0,NER,2019
+950,IDN,Growing sugar beet and cane industry,GEO,0.0,NER,2019
+951,IDN,Growing tobacco industry,GEO,2.2308596339486788e-07,NER,2019
+952,IDN,Growing fibre crops industry,GEO,7.572335127509025e-09,NER,2019
+953,IDN,Growing crops n.e.c. industry,GEO,0.0,NER,2019
+954,IDN,Growing grapes industry,GEO,0.0,NER,2019
+955,IDN,Growing fruits and nuts industry,GEO,3.3079531089225274e-06,NER,2019
+956,IDN,"Growing beverage crops (coffee, tea etc) industry",GEO,8.054940761084695e-07,NER,2019
+957,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,1.7847611706036406e-07,NER,2019
+958,IDN,Seeds and plant propagation industry,GEO,0.0,NER,2019
+959,IDN,Raising of cattle industry,GEO,1.187932539004031e-06,NER,2019
+960,IDN,Growing wheat industry,GHA,0.0,NER,2019
+961,IDN,Growing maize industry,GHA,0.0038584438835796175,NER,2019
+962,IDN,Growing cereals n.e.c industry,GHA,0.0,NER,2019
+963,IDN,Growing leguminous crops and oil seeds industry,GHA,0.002856867688100572,NER,2019
+964,IDN,Growing rice industry,GHA,6.581024644457068e-06,NER,2019
+965,IDN,"Growing vegetables, roots, tubers industry",GHA,0.0,NER,2019
+966,IDN,Growing sugar beet and cane industry,GHA,0.0,NER,2019
+967,IDN,Growing tobacco industry,GHA,2.1454917414054302e-05,NER,2019
+968,IDN,Growing fibre crops industry,GHA,1.128077560128393e-06,NER,2019
+969,IDN,Growing crops n.e.c. industry,GHA,0.0,NER,2019
+970,IDN,Growing grapes industry,GHA,0.0,NER,2019
+971,IDN,Growing fruits and nuts industry,GHA,0.0006043937771973564,NER,2019
+972,IDN,"Growing beverage crops (coffee, tea etc) industry",GHA,2.210886579540854e-05,NER,2019
+973,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,3.4312430875161335e-05,NER,2019
+974,IDN,Seeds and plant propagation industry,GHA,0.0,NER,2019
+975,IDN,Raising of cattle industry,GHA,0.00027910145936471377,NER,2019
+976,IDN,Growing wheat industry,GIN,0.0,NER,2019
+977,IDN,Growing maize industry,GIN,8.668337564673366e-05,NER,2019
+978,IDN,Growing cereals n.e.c industry,GIN,0.0,NER,2019
+979,IDN,Growing leguminous crops and oil seeds industry,GIN,8.393855361129915e-05,NER,2019
+980,IDN,Growing rice industry,GIN,1.8371459603162524e-07,NER,2019
+981,IDN,"Growing vegetables, roots, tubers industry",GIN,0.0,NER,2019
+982,IDN,Growing sugar beet and cane industry,GIN,0.0,NER,2019
+983,IDN,Growing tobacco industry,GIN,4.0660692753939025e-07,NER,2019
+984,IDN,Growing fibre crops industry,GIN,1.4024877416578131e-08,NER,2019
+985,IDN,Growing crops n.e.c. industry,GIN,0.0,NER,2019
+986,IDN,Growing grapes industry,GIN,0.0,NER,2019
+987,IDN,Growing fruits and nuts industry,GIN,1.4730231441344615e-05,NER,2019
+988,IDN,"Growing beverage crops (coffee, tea etc) industry",GIN,1.5168592717306534e-06,NER,2019
+989,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,4.4286803213033296e-07,NER,2019
+990,IDN,Seeds and plant propagation industry,GIN,0.0,NER,2019
+991,IDN,Raising of cattle industry,GIN,2.4954433312680936e-06,NER,2019
+992,IDN,Growing wheat industry,GMB,0.0,NER,2019
+993,IDN,Growing maize industry,GMB,5.374750994461097e-06,NER,2019
+994,IDN,Growing cereals n.e.c industry,GMB,0.0,NER,2019
+995,IDN,Growing leguminous crops and oil seeds industry,GMB,2.5946870204227332e-06,NER,2019
+996,IDN,Growing rice industry,GMB,7.010965259217505e-09,NER,2019
+997,IDN,"Growing vegetables, roots, tubers industry",GMB,0.0,NER,2019
+998,IDN,Growing sugar beet and cane industry,GMB,0.0,NER,2019
+999,IDN,Growing tobacco industry,GMB,1.5703414563809923e-08,NER,2019
+1000,IDN,Growing fibre crops industry,GMB,5.242622349051639e-10,NER,2019
+1001,IDN,Growing crops n.e.c. industry,GMB,0.0,NER,2019
+1002,IDN,Growing grapes industry,GMB,0.0,NER,2019
+1003,IDN,Growing fruits and nuts industry,GMB,6.741455346398174e-07,NER,2019
+1004,IDN,"Growing beverage crops (coffee, tea etc) industry",GMB,2.1695506731432146e-08,NER,2019
+1005,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,1.8167261166490444e-08,NER,2019
+1006,IDN,Seeds and plant propagation industry,GMB,0.0,NER,2019
+1007,IDN,Raising of cattle industry,GMB,1.1308114659980231e-07,NER,2019
+1008,IDN,Growing wheat industry,GNQ,0.0,NER,2019
+1009,IDN,Growing maize industry,GNQ,6.551045709860766e-05,NER,2019
+1010,IDN,Growing cereals n.e.c industry,GNQ,0.0,NER,2019
+1011,IDN,Growing leguminous crops and oil seeds industry,GNQ,0.00012142979349106531,NER,2019
+1012,IDN,Growing rice industry,GNQ,2.0273666753050317e-07,NER,2019
+1013,IDN,"Growing vegetables, roots, tubers industry",GNQ,0.0,NER,2019
+1014,IDN,Growing sugar beet and cane industry,GNQ,0.0,NER,2019
+1015,IDN,Growing tobacco industry,GNQ,9.324425334007497e-07,NER,2019
+1016,IDN,Growing fibre crops industry,GNQ,3.751842441893369e-08,NER,2019
+1017,IDN,Growing crops n.e.c. industry,GNQ,0.0,NER,2019
+1018,IDN,Growing grapes industry,GNQ,0.0,NER,2019
+1019,IDN,Growing fruits and nuts industry,GNQ,1.612531584673698e-05,NER,2019
+1020,IDN,"Growing beverage crops (coffee, tea etc) industry",GNQ,2.135764888150557e-06,NER,2019
+1021,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,9.783115643837473e-07,NER,2019
+1022,IDN,Seeds and plant propagation industry,GNQ,0.0,NER,2019
+1023,IDN,Raising of cattle industry,GNQ,5.674782309884159e-06,NER,2019
+1024,IDN,Growing wheat industry,GRC,0.0,NER,2019
+1025,IDN,Growing maize industry,GRC,0.00010333612108593359,NER,2019
+1026,IDN,Growing cereals n.e.c industry,GRC,0.0,NER,2019
+1027,IDN,Growing leguminous crops and oil seeds industry,GRC,0.00016553974054253723,NER,2019
+1028,IDN,Growing rice industry,GRC,3.2202448491805436e-07,NER,2019
+1029,IDN,"Growing vegetables, roots, tubers industry",GRC,0.0,NER,2019
+1030,IDN,Growing sugar beet and cane industry,GRC,0.0,NER,2019
+1031,IDN,Growing tobacco industry,GRC,1.826031666890847e-06,NER,2019
+1032,IDN,Growing fibre crops industry,GRC,5.8718954368234355e-08,NER,2019
+1033,IDN,Growing crops n.e.c. industry,GRC,0.0,NER,2019
+1034,IDN,Growing grapes industry,GRC,0.0,NER,2019
+1035,IDN,Growing fruits and nuts industry,GRC,2.4897596383239036e-05,NER,2019
+1036,IDN,"Growing beverage crops (coffee, tea etc) industry",GRC,3.197017499537385e-06,NER,2019
+1037,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,1.4494117087127225e-06,NER,2019
+1038,IDN,Seeds and plant propagation industry,GRC,0.0,NER,2019
+1039,IDN,Raising of cattle industry,GRC,1.0183852850436517e-05,NER,2019
+1040,IDN,Growing wheat industry,GTM,0.0,NER,2019
+1041,IDN,Growing maize industry,GTM,3.742865137166582e-05,NER,2019
+1042,IDN,Growing cereals n.e.c industry,GTM,0.0,NER,2019
+1043,IDN,Growing leguminous crops and oil seeds industry,GTM,3.4336242218560596e-05,NER,2019
+1044,IDN,Growing rice industry,GTM,7.70578066643484e-08,NER,2019
+1045,IDN,"Growing vegetables, roots, tubers industry",GTM,0.0,NER,2019
+1046,IDN,Growing sugar beet and cane industry,GTM,0.0,NER,2019
+1047,IDN,Growing tobacco industry,GTM,3.8076675924819387e-07,NER,2019
+1048,IDN,Growing fibre crops industry,GTM,1.0374236252593879e-08,NER,2019
+1049,IDN,Growing crops n.e.c. industry,GTM,0.0,NER,2019
+1050,IDN,Growing grapes industry,GTM,0.0,NER,2019
+1051,IDN,Growing fruits and nuts industry,GTM,6.3872775373932376e-06,NER,2019
+1052,IDN,"Growing beverage crops (coffee, tea etc) industry",GTM,4.351867729333633e-07,NER,2019
+1053,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,2.747928033832896e-07,NER,2019
+1054,IDN,Seeds and plant propagation industry,GTM,0.0,NER,2019
+1055,IDN,Raising of cattle industry,GTM,1.533484516390044e-06,NER,2019
+1056,IDN,Growing wheat industry,HND,0.0,NER,2019
+1057,IDN,Growing maize industry,HND,3.473579264606696e-05,NER,2019
+1058,IDN,Growing cereals n.e.c industry,HND,0.0,NER,2019
+1059,IDN,Growing leguminous crops and oil seeds industry,HND,2.201837878074991e-05,NER,2019
+1060,IDN,Growing rice industry,HND,5.58855050248297e-08,NER,2019
+1061,IDN,"Growing vegetables, roots, tubers industry",HND,0.0,NER,2019
+1062,IDN,Growing sugar beet and cane industry,HND,0.0,NER,2019
+1063,IDN,Growing tobacco industry,HND,2.2824163592993342e-07,NER,2019
+1064,IDN,Growing fibre crops industry,HND,6.34165029618382e-09,NER,2019
+1065,IDN,Growing crops n.e.c. industry,HND,0.0,NER,2019
+1066,IDN,Growing grapes industry,HND,0.0,NER,2019
+1067,IDN,Growing fruits and nuts industry,HND,4.760455712606987e-06,NER,2019
+1068,IDN,"Growing beverage crops (coffee, tea etc) industry",HND,2.756652255953255e-07,NER,2019
+1069,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,1.7925380370028126e-07,NER,2019
+1070,IDN,Seeds and plant propagation industry,HND,0.0,NER,2019
+1071,IDN,Raising of cattle industry,HND,1.0686131840324488e-06,NER,2019
+1072,IDN,Growing wheat industry,HKG,0.0,NER,2019
+1073,IDN,Growing maize industry,HKG,0.0006661377703787696,NER,2019
+1074,IDN,Growing cereals n.e.c industry,HKG,0.0,NER,2019
+1075,IDN,Growing leguminous crops and oil seeds industry,HKG,0.0011601865155482678,NER,2019
+1076,IDN,Growing rice industry,HKG,2.1089066050813075e-06,NER,2019
+1077,IDN,"Growing vegetables, roots, tubers industry",HKG,0.0,NER,2019
+1078,IDN,Growing sugar beet and cane industry,HKG,0.0,NER,2019
+1079,IDN,Growing tobacco industry,HKG,1.1691763559552202e-05,NER,2019
+1080,IDN,Growing fibre crops industry,HKG,3.704016800103233e-07,NER,2019
+1081,IDN,Growing crops n.e.c. industry,HKG,0.0,NER,2019
+1082,IDN,Growing grapes industry,HKG,0.0,NER,2019
+1083,IDN,Growing fruits and nuts industry,HKG,0.00018066957260584517,NER,2019
+1084,IDN,"Growing beverage crops (coffee, tea etc) industry",HKG,1.548449988358872e-05,NER,2019
+1085,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,8.939849834222127e-06,NER,2019
+1086,IDN,Seeds and plant propagation industry,HKG,0.0,NER,2019
+1087,IDN,Raising of cattle industry,HKG,5.09243532746677e-05,NER,2019
+1088,IDN,Growing wheat industry,HRV,0.0,NER,2019
+1089,IDN,Growing maize industry,HRV,2.0100613502673482e-05,NER,2019
+1090,IDN,Growing cereals n.e.c industry,HRV,0.0,NER,2019
+1091,IDN,Growing leguminous crops and oil seeds industry,HRV,3.9632695386938295e-05,NER,2019
+1092,IDN,Growing rice industry,HRV,7.291345143553638e-08,NER,2019
+1093,IDN,"Growing vegetables, roots, tubers industry",HRV,0.0,NER,2019
+1094,IDN,Growing sugar beet and cane industry,HRV,0.0,NER,2019
+1095,IDN,Growing tobacco industry,HRV,4.2934266880868977e-07,NER,2019
+1096,IDN,Growing fibre crops industry,HRV,1.3257982739787951e-08,NER,2019
+1097,IDN,Growing crops n.e.c. industry,HRV,0.0,NER,2019
+1098,IDN,Growing grapes industry,HRV,0.0,NER,2019
+1099,IDN,Growing fruits and nuts industry,HRV,5.5899530593943785e-06,NER,2019
+1100,IDN,"Growing beverage crops (coffee, tea etc) industry",HRV,6.015247291782765e-07,NER,2019
+1101,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,3.4753035641592336e-07,NER,2019
+1102,IDN,Seeds and plant propagation industry,HRV,0.0,NER,2019
+1103,IDN,Raising of cattle industry,HRV,2.264057421887761e-06,NER,2019
+1104,IDN,Growing wheat industry,HTI,0.0,NER,2019
+1105,IDN,Growing maize industry,HTI,8.937615534864147e-06,NER,2019
+1106,IDN,Growing cereals n.e.c industry,HTI,0.0,NER,2019
+1107,IDN,Growing leguminous crops and oil seeds industry,HTI,8.056739675219141e-06,NER,2019
+1108,IDN,Growing rice industry,HTI,1.8187271529105245e-08,NER,2019
+1109,IDN,"Growing vegetables, roots, tubers industry",HTI,0.0,NER,2019
+1110,IDN,Growing sugar beet and cane industry,HTI,0.0,NER,2019
+1111,IDN,Growing tobacco industry,HTI,8.607067131905242e-08,NER,2019
+1112,IDN,Growing fibre crops industry,HTI,2.511830361998461e-09,NER,2019
+1113,IDN,Growing crops n.e.c. industry,HTI,0.0,NER,2019
+1114,IDN,Growing grapes industry,HTI,0.0,NER,2019
+1115,IDN,Growing fruits and nuts industry,HTI,1.5114555498411188e-06,NER,2019
+1116,IDN,"Growing beverage crops (coffee, tea etc) industry",HTI,9.205011331273995e-08,NER,2019
+1117,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,6.486747265737203e-08,NER,2019
+1118,IDN,Seeds and plant propagation industry,HTI,0.0,NER,2019
+1119,IDN,Raising of cattle industry,HTI,3.986626240681099e-07,NER,2019
+1120,IDN,Growing wheat industry,HUN,0.0,NER,2019
+1121,IDN,Growing maize industry,HUN,5.6800265910023586e-05,NER,2019
+1122,IDN,Growing cereals n.e.c industry,HUN,0.0,NER,2019
+1123,IDN,Growing leguminous crops and oil seeds industry,HUN,0.00011628433447461486,NER,2019
+1124,IDN,Growing rice industry,HUN,2.0790382525592792e-07,NER,2019
+1125,IDN,"Growing vegetables, roots, tubers industry",HUN,0.0,NER,2019
+1126,IDN,Growing sugar beet and cane industry,HUN,0.0,NER,2019
+1127,IDN,Growing tobacco industry,HUN,1.1786037996690596e-06,NER,2019
+1128,IDN,Growing fibre crops industry,HUN,3.689208402585574e-08,NER,2019
+1129,IDN,Growing crops n.e.c. industry,HUN,0.0,NER,2019
+1130,IDN,Growing grapes industry,HUN,0.0,NER,2019
+1131,IDN,Growing fruits and nuts industry,HUN,1.707996104820692e-05,NER,2019
+1132,IDN,"Growing beverage crops (coffee, tea etc) industry",HUN,1.6439508364041722e-06,NER,2019
+1133,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,1.0665573195823177e-06,NER,2019
+1134,IDN,Seeds and plant propagation industry,HUN,0.0,NER,2019
+1135,IDN,Raising of cattle industry,HUN,5.884885173067849e-06,NER,2019
+1136,IDN,Growing wheat industry,IDN,0.0,NER,2019
+1137,IDN,Growing maize industry,IDN,0.0007511200531975363,NER,2019
+1138,IDN,Growing cereals n.e.c industry,IDN,0.0,NER,2019
+1139,IDN,Growing leguminous crops and oil seeds industry,IDN,0.0017146482020737653,NER,2019
+1140,IDN,Growing rice industry,IDN,2.874605969480301e-06,NER,2019
+1141,IDN,"Growing vegetables, roots, tubers industry",IDN,0.0,NER,2019
+1142,IDN,Growing sugar beet and cane industry,IDN,0.0,NER,2019
+1143,IDN,Growing tobacco industry,IDN,1.553537599119949e-05,NER,2019
+1144,IDN,Growing fibre crops industry,IDN,4.435762111651577e-07,NER,2019
+1145,IDN,Growing crops n.e.c. industry,IDN,0.0,NER,2019
+1146,IDN,Growing grapes industry,IDN,0.0,NER,2019
+1147,IDN,Growing fruits and nuts industry,IDN,0.0002272084058022272,NER,2019
+1148,IDN,"Growing beverage crops (coffee, tea etc) industry",IDN,1.6129760799821916e-05,NER,2019
+1149,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,1.2505299319257417e-05,NER,2019
+1150,IDN,Seeds and plant propagation industry,IDN,0.0,NER,2019
+1151,IDN,Raising of cattle industry,IDN,5.98187897486482e-05,NER,2019
+1152,IDN,Growing wheat industry,IND,0.0,NER,2019
+1153,IDN,Growing maize industry,IND,0.002233530659681038,NER,2019
+1154,IDN,Growing cereals n.e.c industry,IND,0.0,NER,2019
+1155,IDN,Growing leguminous crops and oil seeds industry,IND,0.009041562789641674,NER,2019
+1156,IDN,Growing rice industry,IND,1.1974957728447029e-05,NER,2019
+1157,IDN,"Growing vegetables, roots, tubers industry",IND,0.0,NER,2019
+1158,IDN,Growing sugar beet and cane industry,IND,0.0,NER,2019
+1159,IDN,Growing tobacco industry,IND,4.827315318340445e-05,NER,2019
+1160,IDN,Growing fibre crops industry,IND,1.92332442104231e-06,NER,2019
+1161,IDN,Growing crops n.e.c. industry,IND,0.0,NER,2019
+1162,IDN,Growing grapes industry,IND,0.0,NER,2019
+1163,IDN,Growing fruits and nuts industry,IND,0.0011875754974145232,NER,2019
+1164,IDN,"Growing beverage crops (coffee, tea etc) industry",IND,9.422423444735947e-05,NER,2019
+1165,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,5.7126010262246844e-05,NER,2019
+1166,IDN,Seeds and plant propagation industry,IND,0.0,NER,2019
+1167,IDN,Raising of cattle industry,IND,0.00028285166237491694,NER,2019
+1168,IDN,Growing wheat industry,IRL,0.0,NER,2019
+1169,IDN,Growing maize industry,IRL,0.00012248407967640487,NER,2019
+1170,IDN,Growing cereals n.e.c industry,IRL,0.0,NER,2019
+1171,IDN,Growing leguminous crops and oil seeds industry,IRL,0.0003630072336473192,NER,2019
+1172,IDN,Growing rice industry,IRL,6.732547814242536e-07,NER,2019
+1173,IDN,"Growing vegetables, roots, tubers industry",IRL,0.0,NER,2019
+1174,IDN,Growing sugar beet and cane industry,IRL,0.0,NER,2019
+1175,IDN,Growing tobacco industry,IRL,2.7453821616280165e-06,NER,2019
+1176,IDN,Growing fibre crops industry,IRL,8.561116368781155e-08,NER,2019
+1177,IDN,Growing crops n.e.c. industry,IRL,0.0,NER,2019
+1178,IDN,Growing grapes industry,IRL,0.0,NER,2019
+1179,IDN,Growing fruits and nuts industry,IRL,4.615492120743584e-05,NER,2019
+1180,IDN,"Growing beverage crops (coffee, tea etc) industry",IRL,8.306634182475528e-06,NER,2019
+1181,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,2.1576226743541536e-06,NER,2019
+1182,IDN,Seeds and plant propagation industry,IRL,0.0,NER,2019
+1183,IDN,Raising of cattle industry,IRL,1.1865313965569266e-05,NER,2019
+1184,IDN,Growing wheat industry,IRN,0.0,NER,2019
+1185,IDN,Growing maize industry,IRN,0.00047910417690148245,NER,2019
+1186,IDN,Growing cereals n.e.c industry,IRN,0.0,NER,2019
+1187,IDN,Growing leguminous crops and oil seeds industry,IRN,0.0014688496200983133,NER,2019
+1188,IDN,Growing rice industry,IRN,2.244594987975011e-06,NER,2019
+1189,IDN,"Growing vegetables, roots, tubers industry",IRN,0.0,NER,2019
+1190,IDN,Growing sugar beet and cane industry,IRN,0.0,NER,2019
+1191,IDN,Growing tobacco industry,IRN,1.2994553938282757e-05,NER,2019
+1192,IDN,Growing fibre crops industry,IRN,5.706994468041313e-07,NER,2019
+1193,IDN,Growing crops n.e.c. industry,IRN,0.0,NER,2019
+1194,IDN,Growing grapes industry,IRN,0.0,NER,2019
+1195,IDN,Growing fruits and nuts industry,IRN,0.0001774791531098591,NER,2019
+1196,IDN,"Growing beverage crops (coffee, tea etc) industry",IRN,3.180998219304289e-05,NER,2019
+1197,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,1.2775249094731963e-05,NER,2019
+1198,IDN,Seeds and plant propagation industry,IRN,0.0,NER,2019
+1199,IDN,Raising of cattle industry,IRN,7.919119182606222e-05,NER,2019
+1200,IDN,Growing wheat industry,IRQ,0.0,NER,2019
+1201,IDN,Growing maize industry,IRQ,0.0001956308755762757,NER,2019
+1202,IDN,Growing cereals n.e.c industry,IRQ,0.0,NER,2019
+1203,IDN,Growing leguminous crops and oil seeds industry,IRQ,0.00046420941927291867,NER,2019
+1204,IDN,Growing rice industry,IRQ,7.089518725097328e-07,NER,2019
+1205,IDN,"Growing vegetables, roots, tubers industry",IRQ,0.0,NER,2019
+1206,IDN,Growing sugar beet and cane industry,IRQ,0.0,NER,2019
+1207,IDN,Growing tobacco industry,IRQ,3.34819862480547e-06,NER,2019
+1208,IDN,Growing fibre crops industry,IRQ,1.2828078954219742e-07,NER,2019
+1209,IDN,Growing crops n.e.c. industry,IRQ,0.0,NER,2019
+1210,IDN,Growing grapes industry,IRQ,0.0,NER,2019
+1211,IDN,Growing fruits and nuts industry,IRQ,6.598556753178993e-05,NER,2019
+1212,IDN,"Growing beverage crops (coffee, tea etc) industry",IRQ,7.370035392699073e-06,NER,2019
+1213,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,3.4002205659534487e-06,NER,2019
+1214,IDN,Seeds and plant propagation industry,IRQ,0.0,NER,2019
+1215,IDN,Raising of cattle industry,IRQ,1.9110467316226692e-05,NER,2019
+1216,IDN,Growing wheat industry,ISL,0.0,NER,2019
+1217,IDN,Growing maize industry,ISL,7.80743585957073e-06,NER,2019
+1218,IDN,Growing cereals n.e.c industry,ISL,0.0,NER,2019
+1219,IDN,Growing leguminous crops and oil seeds industry,ISL,8.482307401424592e-06,NER,2019
+1220,IDN,Growing rice industry,ISL,1.868865888941139e-08,NER,2019
+1221,IDN,"Growing vegetables, roots, tubers industry",ISL,0.0,NER,2019
+1222,IDN,Growing sugar beet and cane industry,ISL,0.0,NER,2019
+1223,IDN,Growing tobacco industry,ISL,1.0121634193029834e-07,NER,2019
+1224,IDN,Growing fibre crops industry,ISL,3.000873651756128e-09,NER,2019
+1225,IDN,Growing crops n.e.c. industry,ISL,0.0,NER,2019
+1226,IDN,Growing grapes industry,ISL,0.0,NER,2019
+1227,IDN,Growing fruits and nuts industry,ISL,1.4632951333548569e-06,NER,2019
+1228,IDN,"Growing beverage crops (coffee, tea etc) industry",ISL,2.7044023885035643e-07,NER,2019
+1229,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,7.167105471076332e-08,NER,2019
+1230,IDN,Seeds and plant propagation industry,ISL,0.0,NER,2019
+1231,IDN,Raising of cattle industry,ISL,4.776569754281009e-07,NER,2019
+1232,IDN,Growing wheat industry,ISR,0.0,NER,2019
+1233,IDN,Growing maize industry,ISR,0.00011701820268540538,NER,2019
+1234,IDN,Growing cereals n.e.c industry,ISR,0.0,NER,2019
+1235,IDN,Growing leguminous crops and oil seeds industry,ISR,0.0002229915338053589,NER,2019
+1236,IDN,Growing rice industry,ISR,4.028783871474525e-07,NER,2019
+1237,IDN,"Growing vegetables, roots, tubers industry",ISR,0.0,NER,2019
+1238,IDN,Growing sugar beet and cane industry,ISR,0.0,NER,2019
+1239,IDN,Growing tobacco industry,ISR,2.137866324787143e-06,NER,2019
+1240,IDN,Growing fibre crops industry,ISR,7.470137890308534e-08,NER,2019
+1241,IDN,Growing crops n.e.c. industry,ISR,0.0,NER,2019
+1242,IDN,Growing grapes industry,ISR,0.0,NER,2019
+1243,IDN,Growing fruits and nuts industry,ISR,3.2149826370291945e-05,NER,2019
+1244,IDN,"Growing beverage crops (coffee, tea etc) industry",ISR,7.5784667349386685e-06,NER,2019
+1245,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,2.4000921868620703e-06,NER,2019
+1246,IDN,Seeds and plant propagation industry,ISR,0.0,NER,2019
+1247,IDN,Raising of cattle industry,ISR,1.3562805903726498e-05,NER,2019
+1248,IDN,Growing wheat industry,ITA,0.0,NER,2019
+1249,IDN,Growing maize industry,ITA,0.0008589087807958092,NER,2019
+1250,IDN,Growing cereals n.e.c industry,ITA,0.0,NER,2019
+1251,IDN,Growing leguminous crops and oil seeds industry,ITA,0.0016813258360147754,NER,2019
+1252,IDN,Growing rice industry,ITA,3.0593037825618544e-06,NER,2019
+1253,IDN,"Growing vegetables, roots, tubers industry",ITA,0.0,NER,2019
+1254,IDN,Growing sugar beet and cane industry,ITA,0.0,NER,2019
+1255,IDN,Growing tobacco industry,ITA,1.528459337223709e-05,NER,2019
+1256,IDN,Growing fibre crops industry,ITA,4.5354835315773907e-07,NER,2019
+1257,IDN,Growing crops n.e.c. industry,ITA,0.0,NER,2019
+1258,IDN,Growing grapes industry,ITA,0.0,NER,2019
+1259,IDN,Growing fruits and nuts industry,ITA,0.00023496043561016698,NER,2019
+1260,IDN,"Growing beverage crops (coffee, tea etc) industry",ITA,2.6651603587180118e-05,NER,2019
+1261,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,1.2904735940131835e-05,NER,2019
+1262,IDN,Seeds and plant propagation industry,ITA,0.0,NER,2019
+1263,IDN,Raising of cattle industry,ITA,7.60141206002752e-05,NER,2019
+1264,IDN,Growing wheat industry,JAM,0.0,NER,2019
+1265,IDN,Growing maize industry,JAM,1.1774259549223923e-05,NER,2019
+1266,IDN,Growing cereals n.e.c industry,JAM,0.0,NER,2019
+1267,IDN,Growing leguminous crops and oil seeds industry,JAM,1.1973723470916168e-05,NER,2019
+1268,IDN,Growing rice industry,JAM,2.5543354462722376e-08,NER,2019
+1269,IDN,"Growing vegetables, roots, tubers industry",JAM,0.0,NER,2019
+1270,IDN,Growing sugar beet and cane industry,JAM,0.0,NER,2019
+1271,IDN,Growing tobacco industry,JAM,1.171334842391947e-07,NER,2019
+1272,IDN,Growing fibre crops industry,JAM,3.1727429730352645e-09,NER,2019
+1273,IDN,Growing crops n.e.c. industry,JAM,0.0,NER,2019
+1274,IDN,Growing grapes industry,JAM,0.0,NER,2019
+1275,IDN,Growing fruits and nuts industry,JAM,2.057470757164734e-06,NER,2019
+1276,IDN,"Growing beverage crops (coffee, tea etc) industry",JAM,2.42111464808642e-07,NER,2019
+1277,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,9.334871405034841e-08,NER,2019
+1278,IDN,Seeds and plant propagation industry,JAM,0.0,NER,2019
+1279,IDN,Raising of cattle industry,JAM,5.419258823538312e-07,NER,2019
+1280,IDN,Growing wheat industry,JOR,0.0,NER,2019
+1281,IDN,Growing maize industry,JOR,3.1987526319586754e-05,NER,2019
+1282,IDN,Growing cereals n.e.c industry,JOR,0.0,NER,2019
+1283,IDN,Growing leguminous crops and oil seeds industry,JOR,4.707982122040428e-05,NER,2019
+1284,IDN,Growing rice industry,JOR,8.687997614298716e-08,NER,2019
+1285,IDN,"Growing vegetables, roots, tubers industry",JOR,0.0,NER,2019
+1286,IDN,Growing sugar beet and cane industry,JOR,0.0,NER,2019
+1287,IDN,Growing tobacco industry,JOR,4.319018449418702e-07,NER,2019
+1288,IDN,Growing fibre crops industry,JOR,1.583215470157325e-08,NER,2019
+1289,IDN,Growing crops n.e.c. industry,JOR,0.0,NER,2019
+1290,IDN,Growing grapes industry,JOR,0.0,NER,2019
+1291,IDN,Growing fruits and nuts industry,JOR,7.133389271417667e-06,NER,2019
+1292,IDN,"Growing beverage crops (coffee, tea etc) industry",JOR,1.0474602442797287e-06,NER,2019
+1293,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,3.896819759907e-07,NER,2019
+1294,IDN,Seeds and plant propagation industry,JOR,0.0,NER,2019
+1295,IDN,Raising of cattle industry,JOR,2.370657054994302e-06,NER,2019
+1296,IDN,Growing wheat industry,JPN,0.0,NER,2019
+1297,IDN,Growing maize industry,JPN,0.019065797093857098,NER,2019
+1298,IDN,Growing cereals n.e.c industry,JPN,0.0,NER,2019
+1299,IDN,Growing leguminous crops and oil seeds industry,JPN,0.0047599814625190195,NER,2019
+1300,IDN,Growing rice industry,JPN,2.0003931030986185e-05,NER,2019
+1301,IDN,"Growing vegetables, roots, tubers industry",JPN,0.0,NER,2019
+1302,IDN,Growing sugar beet and cane industry,JPN,0.0,NER,2019
+1303,IDN,Growing tobacco industry,JPN,7.125465487904408e-05,NER,2019
+1304,IDN,Growing fibre crops industry,JPN,2.3361362653976224e-06,NER,2019
+1305,IDN,Growing crops n.e.c. industry,JPN,0.0,NER,2019
+1306,IDN,Growing grapes industry,JPN,0.0,NER,2019
+1307,IDN,Growing fruits and nuts industry,JPN,0.0019031974554906935,NER,2019
+1308,IDN,"Growing beverage crops (coffee, tea etc) industry",JPN,5.178431013287247e-05,NER,2019
+1309,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,4.6669075995939945e-05,NER,2019
+1310,IDN,Seeds and plant propagation industry,JPN,0.0,NER,2019
+1311,IDN,Raising of cattle industry,JPN,0.00054958058882709,NER,2019
+1312,IDN,Growing wheat industry,KAZ,0.0,NER,2019
+1313,IDN,Growing maize industry,KAZ,6.239630934307828e-05,NER,2019
+1314,IDN,Growing cereals n.e.c industry,KAZ,0.0,NER,2019
+1315,IDN,Growing leguminous crops and oil seeds industry,KAZ,0.0001192455359768691,NER,2019
+1316,IDN,Growing rice industry,KAZ,2.2306446265450514e-07,NER,2019
+1317,IDN,"Growing vegetables, roots, tubers industry",KAZ,0.0,NER,2019
+1318,IDN,Growing sugar beet and cane industry,KAZ,0.0,NER,2019
+1319,IDN,Growing tobacco industry,KAZ,1.5794418311568539e-06,NER,2019
+1320,IDN,Growing fibre crops industry,KAZ,5.116692979083479e-08,NER,2019
+1321,IDN,Growing crops n.e.c. industry,KAZ,0.0,NER,2019
+1322,IDN,Growing grapes industry,KAZ,0.0,NER,2019
+1323,IDN,Growing fruits and nuts industry,KAZ,1.6968057133984332e-05,NER,2019
+1324,IDN,"Growing beverage crops (coffee, tea etc) industry",KAZ,2.3561506943943528e-06,NER,2019
+1325,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,1.1091378469772672e-06,NER,2019
+1326,IDN,Seeds and plant propagation industry,KAZ,0.0,NER,2019
+1327,IDN,Raising of cattle industry,KAZ,8.8039295011012e-06,NER,2019
+1328,IDN,Growing wheat industry,KEN,0.0,NER,2019
+1329,IDN,Growing maize industry,KEN,7.7667414209109e-05,NER,2019
+1330,IDN,Growing cereals n.e.c industry,KEN,0.0,NER,2019
+1331,IDN,Growing leguminous crops and oil seeds industry,KEN,0.00016349033615690276,NER,2019
+1332,IDN,Growing rice industry,KEN,2.639162041948966e-07,NER,2019
+1333,IDN,"Growing vegetables, roots, tubers industry",KEN,0.0,NER,2019
+1334,IDN,Growing sugar beet and cane industry,KEN,0.0,NER,2019
+1335,IDN,Growing tobacco industry,KEN,1.3648817941542037e-06,NER,2019
+1336,IDN,Growing fibre crops industry,KEN,4.355141344730652e-08,NER,2019
+1337,IDN,Growing crops n.e.c. industry,KEN,0.0,NER,2019
+1338,IDN,Growing grapes industry,KEN,0.0,NER,2019
+1339,IDN,Growing fruits and nuts industry,KEN,2.1106002894546003e-05,NER,2019
+1340,IDN,"Growing beverage crops (coffee, tea etc) industry",KEN,1.7255093742765604e-06,NER,2019
+1341,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,1.2635235698678531e-06,NER,2019
+1342,IDN,Seeds and plant propagation industry,KEN,0.0,NER,2019
+1343,IDN,Raising of cattle industry,KEN,6.212639036097823e-06,NER,2019
+1344,IDN,Growing wheat industry,KGZ,0.0,NER,2019
+1345,IDN,Growing maize industry,KGZ,1.292603633916196e-05,NER,2019
+1346,IDN,Growing cereals n.e.c industry,KGZ,0.0,NER,2019
+1347,IDN,Growing leguminous crops and oil seeds industry,KGZ,1.283301397467424e-05,NER,2019
+1348,IDN,Growing rice industry,KGZ,2.632127556059417e-08,NER,2019
+1349,IDN,"Growing vegetables, roots, tubers industry",KGZ,0.0,NER,2019
+1350,IDN,Growing sugar beet and cane industry,KGZ,0.0,NER,2019
+1351,IDN,Growing tobacco industry,KGZ,1.047202436223628e-07,NER,2019
+1352,IDN,Growing fibre crops industry,KGZ,3.79642467529142e-09,NER,2019
+1353,IDN,Growing crops n.e.c. industry,KGZ,0.0,NER,2019
+1354,IDN,Growing grapes industry,KGZ,0.0,NER,2019
+1355,IDN,Growing fruits and nuts industry,KGZ,2.212550603652208e-06,NER,2019
+1356,IDN,"Growing beverage crops (coffee, tea etc) industry",KGZ,1.9514180908669714e-07,NER,2019
+1357,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,9.79455155255405e-08,NER,2019
+1358,IDN,Seeds and plant propagation industry,KGZ,0.0,NER,2019
+1359,IDN,Raising of cattle industry,KGZ,5.89806127259964e-07,NER,2019
+1360,IDN,Growing wheat industry,KHM,0.0,NER,2019
+1361,IDN,Growing maize industry,KHM,1.5208319892918516e-05,NER,2019
+1362,IDN,Growing cereals n.e.c industry,KHM,0.0,NER,2019
+1363,IDN,Growing leguminous crops and oil seeds industry,KHM,4.9217498423759046e-05,NER,2019
+1364,IDN,Growing rice industry,KHM,7.958746221392842e-08,NER,2019
+1365,IDN,"Growing vegetables, roots, tubers industry",KHM,0.0,NER,2019
+1366,IDN,Growing sugar beet and cane industry,KHM,0.0,NER,2019
+1367,IDN,Growing tobacco industry,KHM,4.1167646738757447e-07,NER,2019
+1368,IDN,Growing fibre crops industry,KHM,1.3145132476389971e-08,NER,2019
+1369,IDN,Growing crops n.e.c. industry,KHM,0.0,NER,2019
+1370,IDN,Growing grapes industry,KHM,0.0,NER,2019
+1371,IDN,Growing fruits and nuts industry,KHM,6.653497310695623e-06,NER,2019
+1372,IDN,"Growing beverage crops (coffee, tea etc) industry",KHM,5.420661286190826e-07,NER,2019
+1373,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,3.4627668952756596e-07,NER,2019
+1374,IDN,Seeds and plant propagation industry,KHM,0.0,NER,2019
+1375,IDN,Raising of cattle industry,KHM,1.8706919273860045e-06,NER,2019
+1376,IDN,Growing wheat industry,KOR,0.0,NER,2019
+1377,IDN,Growing maize industry,KOR,0.0008531472818035479,NER,2019
+1378,IDN,Growing cereals n.e.c industry,KOR,0.0,NER,2019
+1379,IDN,Growing leguminous crops and oil seeds industry,KOR,0.003431699102039168,NER,2019
+1380,IDN,Growing rice industry,KOR,6.229454508880969e-06,NER,2019
+1381,IDN,"Growing vegetables, roots, tubers industry",KOR,0.0,NER,2019
+1382,IDN,Growing sugar beet and cane industry,KOR,0.0,NER,2019
+1383,IDN,Growing tobacco industry,KOR,4.554347447551936e-05,NER,2019
+1384,IDN,Growing fibre crops industry,KOR,1.0863687339050184e-06,NER,2019
+1385,IDN,Growing crops n.e.c. industry,KOR,0.0,NER,2019
+1386,IDN,Growing grapes industry,KOR,0.0,NER,2019
+1387,IDN,Growing fruits and nuts industry,KOR,0.0005063232224363282,NER,2019
+1388,IDN,"Growing beverage crops (coffee, tea etc) industry",KOR,4.6214253522137266e-05,NER,2019
+1389,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,2.9350456974099374e-05,NER,2019
+1390,IDN,Seeds and plant propagation industry,KOR,0.0,NER,2019
+1391,IDN,Raising of cattle industry,KOR,0.00014881420334337031,NER,2019
+1392,IDN,Growing wheat industry,KWT,0.0,NER,2019
+1393,IDN,Growing maize industry,KWT,0.00021395473331306677,NER,2019
+1394,IDN,Growing cereals n.e.c industry,KWT,0.0,NER,2019
+1395,IDN,Growing leguminous crops and oil seeds industry,KWT,0.0002789689261498439,NER,2019
+1396,IDN,Growing rice industry,KWT,5.030073570471684e-07,NER,2019
+1397,IDN,"Growing vegetables, roots, tubers industry",KWT,0.0,NER,2019
+1398,IDN,Growing sugar beet and cane industry,KWT,0.0,NER,2019
+1399,IDN,Growing tobacco industry,KWT,2.196990330304714e-06,NER,2019
+1400,IDN,Growing fibre crops industry,KWT,8.923893489759344e-08,NER,2019
+1401,IDN,Growing crops n.e.c. industry,KWT,0.0,NER,2019
+1402,IDN,Growing grapes industry,KWT,0.0,NER,2019
+1403,IDN,Growing fruits and nuts industry,KWT,4.4435458505512824e-05,NER,2019
+1404,IDN,"Growing beverage crops (coffee, tea etc) industry",KWT,4.871872377552739e-06,NER,2019
+1405,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,2.2558742357495023e-06,NER,2019
+1406,IDN,Seeds and plant propagation industry,KWT,0.0,NER,2019
+1407,IDN,Raising of cattle industry,KWT,1.3719424215291277e-05,NER,2019
+1408,IDN,Growing wheat industry,LAO,0.0,NER,2019
+1409,IDN,Growing maize industry,LAO,1.8415196847383126e-05,NER,2019
+1410,IDN,Growing cereals n.e.c industry,LAO,0.0,NER,2019
+1411,IDN,Growing leguminous crops and oil seeds industry,LAO,0.00011976304366076676,NER,2019
+1412,IDN,Growing rice industry,LAO,1.8473705969190945e-07,NER,2019
+1413,IDN,"Growing vegetables, roots, tubers industry",LAO,0.0,NER,2019
+1414,IDN,Growing sugar beet and cane industry,LAO,0.0,NER,2019
+1415,IDN,Growing tobacco industry,LAO,8.781599799188105e-07,NER,2019
+1416,IDN,Growing fibre crops industry,LAO,2.857509257242767e-08,NER,2019
+1417,IDN,Growing crops n.e.c. industry,LAO,0.0,NER,2019
+1418,IDN,Growing grapes industry,LAO,0.0,NER,2019
+1419,IDN,Growing fruits and nuts industry,LAO,1.4945450909401323e-05,NER,2019
+1420,IDN,"Growing beverage crops (coffee, tea etc) industry",LAO,2.009079899642054e-06,NER,2019
+1421,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,1.0552559262358416e-06,NER,2019
+1422,IDN,Seeds and plant propagation industry,LAO,0.0,NER,2019
+1423,IDN,Raising of cattle industry,LAO,5.307980492986554e-06,NER,2019
+1424,IDN,Growing wheat industry,LBN,0.0,NER,2019
+1425,IDN,Growing maize industry,LBN,0.00010410092403199458,NER,2019
+1426,IDN,Growing cereals n.e.c industry,LBN,0.0,NER,2019
+1427,IDN,Growing leguminous crops and oil seeds industry,LBN,0.0001029648490207746,NER,2019
+1428,IDN,Growing rice industry,LBN,2.3583259848366838e-07,NER,2019
+1429,IDN,"Growing vegetables, roots, tubers industry",LBN,0.0,NER,2019
+1430,IDN,Growing sugar beet and cane industry,LBN,0.0,NER,2019
+1431,IDN,Growing tobacco industry,LBN,9.933256801772557e-07,NER,2019
+1432,IDN,Growing fibre crops industry,LBN,3.2387394962142075e-08,NER,2019
+1433,IDN,Growing crops n.e.c. industry,LBN,0.0,NER,2019
+1434,IDN,Growing grapes industry,LBN,0.0,NER,2019
+1435,IDN,Growing fruits and nuts industry,LBN,1.82859530636546e-05,NER,2019
+1436,IDN,"Growing beverage crops (coffee, tea etc) industry",LBN,2.6475861482554475e-05,NER,2019
+1437,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,8.609252141210936e-07,NER,2019
+1438,IDN,Seeds and plant propagation industry,LBN,0.0,NER,2019
+1439,IDN,Raising of cattle industry,LBN,5.613706820033938e-06,NER,2019
+1440,IDN,Growing wheat industry,LBR,0.0,NER,2019
+1441,IDN,Growing maize industry,LBR,3.1502719818354257e-06,NER,2019
+1442,IDN,Growing cereals n.e.c industry,LBR,0.0,NER,2019
+1443,IDN,Growing leguminous crops and oil seeds industry,LBR,4.665727765981475e-06,NER,2019
+1444,IDN,Growing rice industry,LBR,9.645557831931028e-09,NER,2019
+1445,IDN,"Growing vegetables, roots, tubers industry",LBR,0.0,NER,2019
+1446,IDN,Growing sugar beet and cane industry,LBR,0.0,NER,2019
+1447,IDN,Growing tobacco industry,LBR,6.610938445138164e-08,NER,2019
+1448,IDN,Growing fibre crops industry,LBR,1.700871214947054e-09,NER,2019
+1449,IDN,Growing crops n.e.c. industry,LBR,0.0,NER,2019
+1450,IDN,Growing grapes industry,LBR,0.0,NER,2019
+1451,IDN,Growing fruits and nuts industry,LBR,7.352518345863099e-07,NER,2019
+1452,IDN,"Growing beverage crops (coffee, tea etc) industry",LBR,5.636009596150241e-08,NER,2019
+1453,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,4.2256283509186066e-08,NER,2019
+1454,IDN,Seeds and plant propagation industry,LBR,0.0,NER,2019
+1455,IDN,Raising of cattle industry,LBR,2.2103480271964583e-07,NER,2019
+1456,IDN,Growing wheat industry,LBY,0.0,NER,2019
+1457,IDN,Growing maize industry,LBY,0.0006080954986200292,NER,2019
+1458,IDN,Growing cereals n.e.c industry,LBY,0.0,NER,2019
+1459,IDN,Growing leguminous crops and oil seeds industry,LBY,0.0002573198546641968,NER,2019
+1460,IDN,Growing rice industry,LBY,9.861910578524923e-07,NER,2019
+1461,IDN,"Growing vegetables, roots, tubers industry",LBY,0.0,NER,2019
+1462,IDN,Growing sugar beet and cane industry,LBY,0.0,NER,2019
+1463,IDN,Growing tobacco industry,LBY,1.6897335258748292e-06,NER,2019
+1464,IDN,Growing fibre crops industry,LBY,5.532318880307765e-08,NER,2019
+1465,IDN,Growing crops n.e.c. industry,LBY,0.0,NER,2019
+1466,IDN,Growing grapes industry,LBY,0.0,NER,2019
+1467,IDN,Growing fruits and nuts industry,LBY,7.459722269697184e-05,NER,2019
+1468,IDN,"Growing beverage crops (coffee, tea etc) industry",LBY,0.00027100383022108266,NER,2019
+1469,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,1.8298615260810922e-06,NER,2019
+1470,IDN,Seeds and plant propagation industry,LBY,0.0,NER,2019
+1471,IDN,Raising of cattle industry,LBY,1.3410692147355738e-05,NER,2019
+1472,IDN,Growing wheat industry,LKA,0.0,NER,2019
+1473,IDN,Growing maize industry,LKA,5.266349163209795e-05,NER,2019
+1474,IDN,Growing cereals n.e.c industry,LKA,0.0,NER,2019
+1475,IDN,Growing leguminous crops and oil seeds industry,LKA,0.00010540349505148221,NER,2019
+1476,IDN,Growing rice industry,LKA,1.7765255388292452e-07,NER,2019
+1477,IDN,"Growing vegetables, roots, tubers industry",LKA,0.0,NER,2019
+1478,IDN,Growing sugar beet and cane industry,LKA,0.0,NER,2019
+1479,IDN,Growing tobacco industry,LKA,1.0441929212221106e-06,NER,2019
+1480,IDN,Growing fibre crops industry,LKA,3.932079898460986e-08,NER,2019
+1481,IDN,Growing crops n.e.c. industry,LKA,0.0,NER,2019
+1482,IDN,Growing grapes industry,LKA,0.0,NER,2019
+1483,IDN,Growing fruits and nuts industry,LKA,1.4430146370928184e-05,NER,2019
+1484,IDN,"Growing beverage crops (coffee, tea etc) industry",LKA,1.842636392754541e-06,NER,2019
+1485,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,9.582353877282748e-07,NER,2019
+1486,IDN,Seeds and plant propagation industry,LKA,0.0,NER,2019
+1487,IDN,Raising of cattle industry,LKA,5.7920303384701985e-06,NER,2019
+1488,IDN,Growing wheat industry,LTU,0.0,NER,2019
+1489,IDN,Growing maize industry,LTU,1.9227233075614385e-05,NER,2019
+1490,IDN,Growing cereals n.e.c industry,LTU,0.0,NER,2019
+1491,IDN,Growing leguminous crops and oil seeds industry,LTU,2.783214036596097e-05,NER,2019
+1492,IDN,Growing rice industry,LTU,5.671012371261655e-08,NER,2019
+1493,IDN,"Growing vegetables, roots, tubers industry",LTU,0.0,NER,2019
+1494,IDN,Growing sugar beet and cane industry,LTU,0.0,NER,2019
+1495,IDN,Growing tobacco industry,LTU,3.1254555933903384e-07,NER,2019
+1496,IDN,Growing fibre crops industry,LTU,9.446090872956061e-09,NER,2019
+1497,IDN,Growing crops n.e.c. industry,LTU,0.0,NER,2019
+1498,IDN,Growing grapes industry,LTU,0.0,NER,2019
+1499,IDN,Growing fruits and nuts industry,LTU,4.296160630697926e-06,NER,2019
+1500,IDN,"Growing beverage crops (coffee, tea etc) industry",LTU,5.493864705115118e-07,NER,2019
+1501,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,2.3847293017765704e-07,NER,2019
+1502,IDN,Seeds and plant propagation industry,LTU,0.0,NER,2019
+1503,IDN,Raising of cattle industry,LTU,1.588176081144367e-06,NER,2019
+1504,IDN,Growing wheat industry,LUX,0.0,NER,2019
+1505,IDN,Growing maize industry,LUX,1.9231554456796162e-05,NER,2019
+1506,IDN,Growing cereals n.e.c industry,LUX,0.0,NER,2019
+1507,IDN,Growing leguminous crops and oil seeds industry,LUX,3.975525619633172e-05,NER,2019
+1508,IDN,Growing rice industry,LUX,7.497606602936315e-08,NER,2019
+1509,IDN,"Growing vegetables, roots, tubers industry",LUX,0.0,NER,2019
+1510,IDN,Growing sugar beet and cane industry,LUX,0.0,NER,2019
+1511,IDN,Growing tobacco industry,LUX,4.097136372312613e-07,NER,2019
+1512,IDN,Growing fibre crops industry,LUX,1.1789776380147748e-08,NER,2019
+1513,IDN,Growing crops n.e.c. industry,LUX,0.0,NER,2019
+1514,IDN,Growing grapes industry,LUX,0.0,NER,2019
+1515,IDN,Growing fruits and nuts industry,LUX,5.390965921203142e-06,NER,2019
+1516,IDN,"Growing beverage crops (coffee, tea etc) industry",LUX,1.6593909640587796e-06,NER,2019
+1517,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,3.113499840126914e-07,NER,2019
+1518,IDN,Seeds and plant propagation industry,LUX,0.0,NER,2019
+1519,IDN,Raising of cattle industry,LUX,1.998367198627185e-06,NER,2019
+1520,IDN,Growing wheat industry,LVA,0.0,NER,2019
+1521,IDN,Growing maize industry,LVA,1.7597659160645928e-05,NER,2019
+1522,IDN,Growing cereals n.e.c industry,LVA,0.0,NER,2019
+1523,IDN,Growing leguminous crops and oil seeds industry,LVA,2.2255996132412396e-05,NER,2019
+1524,IDN,Growing rice industry,LVA,4.544299742224322e-08,NER,2019
+1525,IDN,"Growing vegetables, roots, tubers industry",LVA,0.0,NER,2019
+1526,IDN,Growing sugar beet and cane industry,LVA,0.0,NER,2019
+1527,IDN,Growing tobacco industry,LVA,2.1104136192437455e-07,NER,2019
+1528,IDN,Growing fibre crops industry,LVA,6.477371756938518e-09,NER,2019
+1529,IDN,Growing crops n.e.c. industry,LVA,0.0,NER,2019
+1530,IDN,Growing grapes industry,LVA,0.0,NER,2019
+1531,IDN,Growing fruits and nuts industry,LVA,3.7425800675859517e-06,NER,2019
+1532,IDN,"Growing beverage crops (coffee, tea etc) industry",LVA,3.7117689327552205e-07,NER,2019
+1533,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,3.092254544893809e-07,NER,2019
+1534,IDN,Seeds and plant propagation industry,LVA,0.0,NER,2019
+1535,IDN,Raising of cattle industry,LVA,1.536479886272883e-06,NER,2019
+1536,IDN,Growing wheat industry,MAR,0.0,NER,2019
+1537,IDN,Growing maize industry,MAR,0.00038085425630669464,NER,2019
+1538,IDN,Growing cereals n.e.c industry,MAR,0.0,NER,2019
+1539,IDN,Growing leguminous crops and oil seeds industry,MAR,0.0008503546851069506,NER,2019
+1540,IDN,Growing rice industry,MAR,9.890884275049157e-07,NER,2019
+1541,IDN,"Growing vegetables, roots, tubers industry",MAR,0.0,NER,2019
+1542,IDN,Growing sugar beet and cane industry,MAR,0.0,NER,2019
+1543,IDN,Growing tobacco industry,MAR,2.340875454996463e-06,NER,2019
+1544,IDN,Growing fibre crops industry,MAR,8.389798211428275e-08,NER,2019
+1545,IDN,Growing crops n.e.c. industry,MAR,0.0,NER,2019
+1546,IDN,Growing grapes industry,MAR,0.0,NER,2019
+1547,IDN,Growing fruits and nuts industry,MAR,8.226649928507905e-05,NER,2019
+1548,IDN,"Growing beverage crops (coffee, tea etc) industry",MAR,3.7876395708245634e-06,NER,2019
+1549,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,2.7110346020264587e-06,NER,2019
+1550,IDN,Seeds and plant propagation industry,MAR,0.0,NER,2019
+1551,IDN,Raising of cattle industry,MAR,1.5401731071085824e-05,NER,2019
+1552,IDN,Growing wheat industry,MDA,0.0,NER,2019
+1553,IDN,Growing maize industry,MDA,7.0150590836846575e-06,NER,2019
+1554,IDN,Growing cereals n.e.c industry,MDA,0.0,NER,2019
+1555,IDN,Growing leguminous crops and oil seeds industry,MDA,2.094812152086181e-05,NER,2019
+1556,IDN,Growing rice industry,MDA,3.296017013813125e-08,NER,2019
+1557,IDN,"Growing vegetables, roots, tubers industry",MDA,0.0,NER,2019
+1558,IDN,Growing sugar beet and cane industry,MDA,0.0,NER,2019
+1559,IDN,Growing tobacco industry,MDA,1.7210978674876203e-07,NER,2019
+1560,IDN,Growing fibre crops industry,MDA,5.497300714580636e-09,NER,2019
+1561,IDN,Growing crops n.e.c. industry,MDA,0.0,NER,2019
+1562,IDN,Growing grapes industry,MDA,0.0,NER,2019
+1563,IDN,Growing fruits and nuts industry,MDA,2.518004848034641e-06,NER,2019
+1564,IDN,"Growing beverage crops (coffee, tea etc) industry",MDA,2.0548589284944585e-07,NER,2019
+1565,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.76082123134546e-07,NER,2019
+1566,IDN,Seeds and plant propagation industry,MDA,0.0,NER,2019
+1567,IDN,Raising of cattle industry,MDA,8.39816283484719e-07,NER,2019
+1568,IDN,Growing wheat industry,MDG,0.0,NER,2019
+1569,IDN,Growing maize industry,MDG,2.001320914916834e-05,NER,2019
+1570,IDN,Growing cereals n.e.c industry,MDG,0.0,NER,2019
+1571,IDN,Growing leguminous crops and oil seeds industry,MDG,1.7395663700367e-05,NER,2019
+1572,IDN,Growing rice industry,MDG,3.909583374654592e-08,NER,2019
+1573,IDN,"Growing vegetables, roots, tubers industry",MDG,0.0,NER,2019
+1574,IDN,Growing sugar beet and cane industry,MDG,0.0,NER,2019
+1575,IDN,Growing tobacco industry,MDG,1.5754604576252575e-07,NER,2019
+1576,IDN,Growing fibre crops industry,MDG,4.9433473749866595e-09,NER,2019
+1577,IDN,Growing crops n.e.c. industry,MDG,0.0,NER,2019
+1578,IDN,Growing grapes industry,MDG,0.0,NER,2019
+1579,IDN,Growing fruits and nuts industry,MDG,3.2444814319950847e-06,NER,2019
+1580,IDN,"Growing beverage crops (coffee, tea etc) industry",MDG,2.3920089144508e-07,NER,2019
+1581,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,1.3522534055003073e-07,NER,2019
+1582,IDN,Seeds and plant propagation industry,MDG,0.0,NER,2019
+1583,IDN,Raising of cattle industry,MDG,8.42354158992699e-07,NER,2019
+1584,IDN,Growing wheat industry,MEX,0.0,NER,2019
+1585,IDN,Growing maize industry,MEX,0.0006396499095048431,NER,2019
+1586,IDN,Growing cereals n.e.c industry,MEX,0.0,NER,2019
+1587,IDN,Growing leguminous crops and oil seeds industry,MEX,0.001224359043888067,NER,2019
+1588,IDN,Growing rice industry,MEX,2.6660701246338845e-06,NER,2019
+1589,IDN,"Growing vegetables, roots, tubers industry",MEX,0.0,NER,2019
+1590,IDN,Growing sugar beet and cane industry,MEX,0.0,NER,2019
+1591,IDN,Growing tobacco industry,MEX,2.367843055301989e-05,NER,2019
+1592,IDN,Growing fibre crops industry,MEX,6.118907418893848e-07,NER,2019
+1593,IDN,Growing crops n.e.c. industry,MEX,0.0,NER,2019
+1594,IDN,Growing grapes industry,MEX,0.0,NER,2019
+1595,IDN,Growing fruits and nuts industry,MEX,0.0001894245859543952,NER,2019
+1596,IDN,"Growing beverage crops (coffee, tea etc) industry",MEX,2.0138115100974483e-05,NER,2019
+1597,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,1.2255874473237092e-05,NER,2019
+1598,IDN,Seeds and plant propagation industry,MEX,0.0,NER,2019
+1599,IDN,Raising of cattle industry,MEX,5.580717402676495e-05,NER,2019
+1600,IDN,Growing wheat industry,MKD,0.0,NER,2019
+1601,IDN,Growing maize industry,MKD,8.90593492080821e-06,NER,2019
+1602,IDN,Growing cereals n.e.c industry,MKD,0.0,NER,2019
+1603,IDN,Growing leguminous crops and oil seeds industry,MKD,6.467549407733494e-05,NER,2019
+1604,IDN,Growing rice industry,MKD,5.72718043625218e-08,NER,2019
+1605,IDN,"Growing vegetables, roots, tubers industry",MKD,0.0,NER,2019
+1606,IDN,Growing sugar beet and cane industry,MKD,0.0,NER,2019
+1607,IDN,Growing tobacco industry,MKD,1.2807930379862243e-07,NER,2019
+1608,IDN,Growing fibre crops industry,MKD,5.026168344249897e-09,NER,2019
+1609,IDN,Growing crops n.e.c. industry,MKD,0.0,NER,2019
+1610,IDN,Growing grapes industry,MKD,0.0,NER,2019
+1611,IDN,Growing fruits and nuts industry,MKD,4.717039506670144e-06,NER,2019
+1612,IDN,"Growing beverage crops (coffee, tea etc) industry",MKD,1.8461912086085952e-07,NER,2019
+1613,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.796291457262292e-07,NER,2019
+1614,IDN,Seeds and plant propagation industry,MKD,0.0,NER,2019
+1615,IDN,Raising of cattle industry,MKD,8.328674426439908e-07,NER,2019
+1616,IDN,Growing wheat industry,MLI,0.0,NER,2019
+1617,IDN,Growing maize industry,MLI,0.00023379642001507798,NER,2019
+1618,IDN,Growing cereals n.e.c industry,MLI,0.0,NER,2019
+1619,IDN,Growing leguminous crops and oil seeds industry,MLI,0.0008408871539475411,NER,2019
+1620,IDN,Growing rice industry,MLI,1.3439912357613173e-06,NER,2019
+1621,IDN,"Growing vegetables, roots, tubers industry",MLI,0.0,NER,2019
+1622,IDN,Growing sugar beet and cane industry,MLI,0.0,NER,2019
+1623,IDN,Growing tobacco industry,MLI,4.650291720070104e-06,NER,2019
+1624,IDN,Growing fibre crops industry,MLI,1.4809890463716074e-07,NER,2019
+1625,IDN,Growing crops n.e.c. industry,MLI,0.0,NER,2019
+1626,IDN,Growing grapes industry,MLI,0.0,NER,2019
+1627,IDN,Growing fruits and nuts industry,MLI,9.997982030177777e-05,NER,2019
+1628,IDN,"Growing beverage crops (coffee, tea etc) industry",MLI,8.46161017344844e-05,NER,2019
+1629,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,5.4161086243821775e-06,NER,2019
+1630,IDN,Seeds and plant propagation industry,MLI,0.0,NER,2019
+1631,IDN,Raising of cattle industry,MLI,2.5299341417576552e-05,NER,2019
+1632,IDN,Growing wheat industry,MLT,0.0,NER,2019
+1633,IDN,Growing maize industry,MLT,6.3058496016975465e-06,NER,2019
+1634,IDN,Growing cereals n.e.c industry,MLT,0.0,NER,2019
+1635,IDN,Growing leguminous crops and oil seeds industry,MLT,1.049058825863742e-05,NER,2019
+1636,IDN,Growing rice industry,MLT,1.993336670430256e-08,NER,2019
+1637,IDN,"Growing vegetables, roots, tubers industry",MLT,0.0,NER,2019
+1638,IDN,Growing sugar beet and cane industry,MLT,0.0,NER,2019
+1639,IDN,Growing tobacco industry,MLT,1.0658538881710582e-07,NER,2019
+1640,IDN,Growing fibre crops industry,MLT,3.225972014241468e-09,NER,2019
+1641,IDN,Growing crops n.e.c. industry,MLT,0.0,NER,2019
+1642,IDN,Growing grapes industry,MLT,0.0,NER,2019
+1643,IDN,Growing fruits and nuts industry,MLT,1.535883111240614e-06,NER,2019
+1644,IDN,"Growing beverage crops (coffee, tea etc) industry",MLT,3.817077156135347e-07,NER,2019
+1645,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,8.482399847164163e-08,NER,2019
+1646,IDN,Seeds and plant propagation industry,MLT,0.0,NER,2019
+1647,IDN,Raising of cattle industry,MLT,5.136822350744742e-07,NER,2019
+1648,IDN,Growing wheat industry,MMR,0.0,NER,2019
+1649,IDN,Growing maize industry,MMR,3.2038352279014743e-05,NER,2019
+1650,IDN,Growing cereals n.e.c industry,MMR,0.0,NER,2019
+1651,IDN,Growing leguminous crops and oil seeds industry,MMR,7.392027966304084e-05,NER,2019
+1652,IDN,Growing rice industry,MMR,1.230281522693557e-07,NER,2019
+1653,IDN,"Growing vegetables, roots, tubers industry",MMR,0.0,NER,2019
+1654,IDN,Growing sugar beet and cane industry,MMR,0.0,NER,2019
+1655,IDN,Growing tobacco industry,MMR,5.93753488840364e-07,NER,2019
+1656,IDN,Growing fibre crops industry,MMR,1.7866882531248122e-08,NER,2019
+1657,IDN,Growing crops n.e.c. industry,MMR,0.0,NER,2019
+1658,IDN,Growing grapes industry,MMR,0.0,NER,2019
+1659,IDN,Growing fruits and nuts industry,MMR,1.0578569207274484e-05,NER,2019
+1660,IDN,"Growing beverage crops (coffee, tea etc) industry",MMR,6.754558979285391e-07,NER,2019
+1661,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,5.760764888633442e-07,NER,2019
+1662,IDN,Seeds and plant propagation industry,MMR,0.0,NER,2019
+1663,IDN,Raising of cattle industry,MMR,3.1444635320375286e-06,NER,2019
+1664,IDN,Growing wheat industry,MNG,0.0,NER,2019
+1665,IDN,Growing maize industry,MNG,2.8722360257630223e-05,NER,2019
+1666,IDN,Growing cereals n.e.c industry,MNG,0.0,NER,2019
+1667,IDN,Growing leguminous crops and oil seeds industry,MNG,2.234785684853657e-05,NER,2019
+1668,IDN,Growing rice industry,MNG,5.576770135528098e-08,NER,2019
+1669,IDN,"Growing vegetables, roots, tubers industry",MNG,0.0,NER,2019
+1670,IDN,Growing sugar beet and cane industry,MNG,0.0,NER,2019
+1671,IDN,Growing tobacco industry,MNG,3.332165322049142e-07,NER,2019
+1672,IDN,Growing fibre crops industry,MNG,9.147290657474902e-09,NER,2019
+1673,IDN,Growing crops n.e.c. industry,MNG,0.0,NER,2019
+1674,IDN,Growing grapes industry,MNG,0.0,NER,2019
+1675,IDN,Growing fruits and nuts industry,MNG,4.530235003657462e-06,NER,2019
+1676,IDN,"Growing beverage crops (coffee, tea etc) industry",MNG,2.80015703200527e-07,NER,2019
+1677,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,1.9975849065467125e-07,NER,2019
+1678,IDN,Seeds and plant propagation industry,MNG,0.0,NER,2019
+1679,IDN,Raising of cattle industry,MNG,1.3353932533789358e-06,NER,2019
+1680,IDN,Growing wheat industry,MOZ,0.0,NER,2019
+1681,IDN,Growing maize industry,MOZ,3.3481464663317535e-05,NER,2019
+1682,IDN,Growing cereals n.e.c industry,MOZ,0.0,NER,2019
+1683,IDN,Growing leguminous crops and oil seeds industry,MOZ,4.5144184156039864e-05,NER,2019
+1684,IDN,Growing rice industry,MOZ,8.486570484934516e-08,NER,2019
+1685,IDN,"Growing vegetables, roots, tubers industry",MOZ,0.0,NER,2019
+1686,IDN,Growing sugar beet and cane industry,MOZ,0.0,NER,2019
+1687,IDN,Growing tobacco industry,MOZ,4.1636959728656187e-07,NER,2019
+1688,IDN,Growing fibre crops industry,MOZ,1.3191399915253224e-08,NER,2019
+1689,IDN,Growing crops n.e.c. industry,MOZ,0.0,NER,2019
+1690,IDN,Growing grapes industry,MOZ,0.0,NER,2019
+1691,IDN,Growing fruits and nuts industry,MOZ,7.154287047039137e-06,NER,2019
+1692,IDN,"Growing beverage crops (coffee, tea etc) industry",MOZ,6.459620979475692e-07,NER,2019
+1693,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,3.53835324268757e-07,NER,2019
+1694,IDN,Seeds and plant propagation industry,MOZ,0.0,NER,2019
+1695,IDN,Raising of cattle industry,MOZ,2.045779835302352e-06,NER,2019
+1696,IDN,Growing wheat industry,MRT,0.0,NER,2019
+1697,IDN,Growing maize industry,MRT,1.956870189253173e-05,NER,2019
+1698,IDN,Growing cereals n.e.c industry,MRT,0.0,NER,2019
+1699,IDN,Growing leguminous crops and oil seeds industry,MRT,2.1400555376050753e-05,NER,2019
+1700,IDN,Growing rice industry,MRT,4.387726374308607e-08,NER,2019
+1701,IDN,"Growing vegetables, roots, tubers industry",MRT,0.0,NER,2019
+1702,IDN,Growing sugar beet and cane industry,MRT,0.0,NER,2019
+1703,IDN,Growing tobacco industry,MRT,1.7320210328229702e-07,NER,2019
+1704,IDN,Growing fibre crops industry,MRT,5.30720281597813e-09,NER,2019
+1705,IDN,Growing crops n.e.c. industry,MRT,0.0,NER,2019
+1706,IDN,Growing grapes industry,MRT,0.0,NER,2019
+1707,IDN,Growing fruits and nuts industry,MRT,3.6871477938724946e-06,NER,2019
+1708,IDN,"Growing beverage crops (coffee, tea etc) industry",MRT,3.8373050386921545e-07,NER,2019
+1709,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.5229711427961475e-07,NER,2019
+1710,IDN,Seeds and plant propagation industry,MRT,0.0,NER,2019
+1711,IDN,Raising of cattle industry,MRT,8.951185193873773e-07,NER,2019
+1712,IDN,Growing wheat industry,MWI,0.0,NER,2019
+1713,IDN,Growing maize industry,MWI,9.612394910307957e-06,NER,2019
+1714,IDN,Growing cereals n.e.c industry,MWI,0.0,NER,2019
+1715,IDN,Growing leguminous crops and oil seeds industry,MWI,2.674866818161167e-05,NER,2019
+1716,IDN,Growing rice industry,MWI,5.140425537118947e-08,NER,2019
+1717,IDN,"Growing vegetables, roots, tubers industry",MWI,0.0,NER,2019
+1718,IDN,Growing sugar beet and cane industry,MWI,0.0,NER,2019
+1719,IDN,Growing tobacco industry,MWI,3.2749614329986017e-07,NER,2019
+1720,IDN,Growing fibre crops industry,MWI,1.021351676587065e-08,NER,2019
+1721,IDN,Growing crops n.e.c. industry,MWI,0.0,NER,2019
+1722,IDN,Growing grapes industry,MWI,0.0,NER,2019
+1723,IDN,Growing fruits and nuts industry,MWI,3.487343884270861e-06,NER,2019
+1724,IDN,"Growing beverage crops (coffee, tea etc) industry",MWI,3.815213472354377e-07,NER,2019
+1725,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,2.8846410050128805e-07,NER,2019
+1726,IDN,Seeds and plant propagation industry,MWI,0.0,NER,2019
+1727,IDN,Raising of cattle industry,MWI,1.8010326411621394e-06,NER,2019
+1728,IDN,Growing wheat industry,MYS,0.0,NER,2019
+1729,IDN,Growing maize industry,MYS,0.0004107700032781223,NER,2019
+1730,IDN,Growing cereals n.e.c industry,MYS,0.0,NER,2019
+1731,IDN,Growing leguminous crops and oil seeds industry,MYS,0.002098671844423359,NER,2019
+1732,IDN,Growing rice industry,MYS,2.5536661109704324e-06,NER,2019
+1733,IDN,"Growing vegetables, roots, tubers industry",MYS,0.0,NER,2019
+1734,IDN,Growing sugar beet and cane industry,MYS,0.0,NER,2019
+1735,IDN,Growing tobacco industry,MYS,8.990639515365365e-06,NER,2019
+1736,IDN,Growing fibre crops industry,MYS,3.6422833746292333e-07,NER,2019
+1737,IDN,Growing crops n.e.c. industry,MYS,0.0,NER,2019
+1738,IDN,Growing grapes industry,MYS,0.0,NER,2019
+1739,IDN,Growing fruits and nuts industry,MYS,0.00027017458643801694,NER,2019
+1740,IDN,"Growing beverage crops (coffee, tea etc) industry",MYS,1.3057942932085286e-05,NER,2019
+1741,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,1.4814042435580829e-05,NER,2019
+1742,IDN,Seeds and plant propagation industry,MYS,0.0,NER,2019
+1743,IDN,Raising of cattle industry,MYS,4.9438572400156485e-05,NER,2019
+1744,IDN,Growing wheat industry,NAM,0.0,NER,2019
+1745,IDN,Growing maize industry,NAM,8.161157399299051e-05,NER,2019
+1746,IDN,Growing cereals n.e.c industry,NAM,0.0,NER,2019
+1747,IDN,Growing leguminous crops and oil seeds industry,NAM,3.563989934599605e-05,NER,2019
+1748,IDN,Growing rice industry,NAM,1.0316708700769089e-07,NER,2019
+1749,IDN,"Growing vegetables, roots, tubers industry",NAM,0.0,NER,2019
+1750,IDN,Growing sugar beet and cane industry,NAM,0.0,NER,2019
+1751,IDN,Growing tobacco industry,NAM,2.84486177346334e-07,NER,2019
+1752,IDN,Growing fibre crops industry,NAM,1.0696639734662576e-08,NER,2019
+1753,IDN,Growing crops n.e.c. industry,NAM,0.0,NER,2019
+1754,IDN,Growing grapes industry,NAM,0.0,NER,2019
+1755,IDN,Growing fruits and nuts industry,NAM,9.397314442851079e-06,NER,2019
+1756,IDN,"Growing beverage crops (coffee, tea etc) industry",NAM,6.963531999435475e-07,NER,2019
+1757,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,2.897417369193856e-07,NER,2019
+1758,IDN,Seeds and plant propagation industry,NAM,0.0,NER,2019
+1759,IDN,Raising of cattle industry,NAM,2.0329114195496224e-06,NER,2019
+1760,IDN,Growing wheat industry,NER,0.0,NER,2019
+1761,IDN,Growing maize industry,NER,0.0,NER,2019
+1762,IDN,Growing cereals n.e.c industry,NER,0.0,NER,2019
+1763,IDN,Growing leguminous crops and oil seeds industry,NER,0.0,NER,2019
+1764,IDN,Growing rice industry,NER,0.0,NER,2019
+1765,IDN,"Growing vegetables, roots, tubers industry",NER,0.0,NER,2019
+1766,IDN,Growing sugar beet and cane industry,NER,0.0,NER,2019
+1767,IDN,Growing tobacco industry,NER,0.0,NER,2019
+1768,IDN,Growing fibre crops industry,NER,0.0,NER,2019
+1769,IDN,Growing crops n.e.c. industry,NER,0.0,NER,2019
+1770,IDN,Growing grapes industry,NER,0.0,NER,2019
+1771,IDN,Growing fruits and nuts industry,NER,0.0,NER,2019
+1772,IDN,"Growing beverage crops (coffee, tea etc) industry",NER,0.0,NER,2019
+1773,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,0.0,NER,2019
+1774,IDN,Seeds and plant propagation industry,NER,0.0,NER,2019
+1775,IDN,Raising of cattle industry,NER,0.0,NER,2019
+1776,IDN,Growing wheat industry,NGA,0.0,NER,2019
+1777,IDN,Growing maize industry,NGA,0.06998111561634335,NER,2019
+1778,IDN,Growing cereals n.e.c industry,NGA,0.0,NER,2019
+1779,IDN,Growing leguminous crops and oil seeds industry,NGA,0.006426368580277749,NER,2019
+1780,IDN,Growing rice industry,NGA,5.5038283196272806e-05,NER,2019
+1781,IDN,"Growing vegetables, roots, tubers industry",NGA,0.0,NER,2019
+1782,IDN,Growing sugar beet and cane industry,NGA,0.0,NER,2019
+1783,IDN,Growing tobacco industry,NGA,2.53484436224035e-05,NER,2019
+1784,IDN,Growing fibre crops industry,NGA,7.988134936615792e-07,NER,2019
+1785,IDN,Growing crops n.e.c. industry,NGA,0.0,NER,2019
+1786,IDN,Growing grapes industry,NGA,0.0,NER,2019
+1787,IDN,Growing fruits and nuts industry,NGA,0.005718983623332619,NER,2019
+1788,IDN,"Growing beverage crops (coffee, tea etc) industry",NGA,3.000026845135104e-05,NER,2019
+1789,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,4.3459320341412805e-05,NER,2019
+1790,IDN,Seeds and plant propagation industry,NGA,0.0,NER,2019
+1791,IDN,Raising of cattle industry,NGA,0.000526787554258241,NER,2019
+1792,IDN,Growing wheat industry,NIC,0.0,NER,2019
+1793,IDN,Growing maize industry,NIC,8.677088136380086e-06,NER,2019
+1794,IDN,Growing cereals n.e.c industry,NIC,0.0,NER,2019
+1795,IDN,Growing leguminous crops and oil seeds industry,NIC,1.1787460824358201e-05,NER,2019
+1796,IDN,Growing rice industry,NIC,2.2919955452519985e-08,NER,2019
+1797,IDN,"Growing vegetables, roots, tubers industry",NIC,0.0,NER,2019
+1798,IDN,Growing sugar beet and cane industry,NIC,0.0,NER,2019
+1799,IDN,Growing tobacco industry,NIC,1.3311731755502427e-07,NER,2019
+1800,IDN,Growing fibre crops industry,NIC,3.799569142530377e-09,NER,2019
+1801,IDN,Growing crops n.e.c. industry,NIC,0.0,NER,2019
+1802,IDN,Growing grapes industry,NIC,0.0,NER,2019
+1803,IDN,Growing fruits and nuts industry,NIC,1.9126666711745805e-06,NER,2019
+1804,IDN,"Growing beverage crops (coffee, tea etc) industry",NIC,1.3909863807295665e-07,NER,2019
+1805,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,9.381849701705203e-08,NER,2019
+1806,IDN,Seeds and plant propagation industry,NIC,0.0,NER,2019
+1807,IDN,Raising of cattle industry,NIC,5.321122502663781e-07,NER,2019
+1808,IDN,Growing wheat industry,NLD,0.0,NER,2019
+1809,IDN,Growing maize industry,NLD,0.0013465296967566935,NER,2019
+1810,IDN,Growing cereals n.e.c industry,NLD,0.0,NER,2019
+1811,IDN,Growing leguminous crops and oil seeds industry,NLD,0.00100008053998036,NER,2019
+1812,IDN,Growing rice industry,NLD,2.434605216828681e-06,NER,2019
+1813,IDN,"Growing vegetables, roots, tubers industry",NLD,0.0,NER,2019
+1814,IDN,Growing sugar beet and cane industry,NLD,0.0,NER,2019
+1815,IDN,Growing tobacco industry,NLD,8.767460456010312e-06,NER,2019
+1816,IDN,Growing fibre crops industry,NLD,2.806866584556127e-07,NER,2019
+1817,IDN,Growing crops n.e.c. industry,NLD,0.0,NER,2019
+1818,IDN,Growing grapes industry,NLD,0.0,NER,2019
+1819,IDN,Growing fruits and nuts industry,NLD,0.00020523741659834305,NER,2019
+1820,IDN,"Growing beverage crops (coffee, tea etc) industry",NLD,2.0060792816343186e-05,NER,2019
+1821,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,7.467407033129965e-06,NER,2019
+1822,IDN,Seeds and plant propagation industry,NLD,0.0,NER,2019
+1823,IDN,Raising of cattle industry,NLD,4.869293013739922e-05,NER,2019
+1824,IDN,Growing wheat industry,NOR,0.0,NER,2019
+1825,IDN,Growing maize industry,NOR,0.0006438835835138114,NER,2019
+1826,IDN,Growing cereals n.e.c industry,NOR,0.0,NER,2019
+1827,IDN,Growing leguminous crops and oil seeds industry,NOR,0.00027461553160304167,NER,2019
+1828,IDN,Growing rice industry,NOR,8.370703831124033e-07,NER,2019
+1829,IDN,"Growing vegetables, roots, tubers industry",NOR,0.0,NER,2019
+1830,IDN,Growing sugar beet and cane industry,NOR,0.0,NER,2019
+1831,IDN,Growing tobacco industry,NOR,2.712901659679464e-06,NER,2019
+1832,IDN,Growing fibre crops industry,NOR,8.026939658177697e-08,NER,2019
+1833,IDN,Growing crops n.e.c. industry,NOR,0.0,NER,2019
+1834,IDN,Growing grapes industry,NOR,0.0,NER,2019
+1835,IDN,Growing fruits and nuts industry,NOR,7.514508795607335e-05,NER,2019
+1836,IDN,"Growing beverage crops (coffee, tea etc) industry",NOR,5.125956621455113e-06,NER,2019
+1837,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,2.1944858296869455e-06,NER,2019
+1838,IDN,Seeds and plant propagation industry,NOR,0.0,NER,2019
+1839,IDN,Raising of cattle industry,NOR,1.579174546812962e-05,NER,2019
+1840,IDN,Growing wheat industry,NPL,0.0,NER,2019
+1841,IDN,Growing maize industry,NPL,3.824537099777984e-05,NER,2019
+1842,IDN,Growing cereals n.e.c industry,NPL,0.0,NER,2019
+1843,IDN,Growing leguminous crops and oil seeds industry,NPL,0.00027146854945598426,NER,2019
+1844,IDN,Growing rice industry,NPL,3.639257018127341e-07,NER,2019
+1845,IDN,"Growing vegetables, roots, tubers industry",NPL,0.0,NER,2019
+1846,IDN,Growing sugar beet and cane industry,NPL,0.0,NER,2019
+1847,IDN,Growing tobacco industry,NPL,1.9694345159020017e-06,NER,2019
+1848,IDN,Growing fibre crops industry,NPL,1.0286959136020512e-07,NER,2019
+1849,IDN,Growing crops n.e.c. industry,NPL,0.0,NER,2019
+1850,IDN,Growing grapes industry,NPL,0.0,NER,2019
+1851,IDN,Growing fruits and nuts industry,NPL,2.784748018917721e-05,NER,2019
+1852,IDN,"Growing beverage crops (coffee, tea etc) industry",NPL,6.337473091825419e-06,NER,2019
+1853,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,2.3345092517340083e-06,NER,2019
+1854,IDN,Seeds and plant propagation industry,NPL,0.0,NER,2019
+1855,IDN,Raising of cattle industry,NPL,1.4153055495457916e-05,NER,2019
+1856,IDN,Growing wheat industry,NZL,0.0,NER,2019
+1857,IDN,Growing maize industry,NZL,0.0005627181677898576,NER,2019
+1858,IDN,Growing cereals n.e.c industry,NZL,0.0,NER,2019
+1859,IDN,Growing leguminous crops and oil seeds industry,NZL,0.0003295398343300523,NER,2019
+1860,IDN,Growing rice industry,NZL,7.390386816850245e-07,NER,2019
+1861,IDN,"Growing vegetables, roots, tubers industry",NZL,0.0,NER,2019
+1862,IDN,Growing sugar beet and cane industry,NZL,0.0,NER,2019
+1863,IDN,Growing tobacco industry,NZL,1.8727634502008318e-06,NER,2019
+1864,IDN,Growing fibre crops industry,NZL,6.293288070613465e-08,NER,2019
+1865,IDN,Growing crops n.e.c. industry,NZL,0.0,NER,2019
+1866,IDN,Growing grapes industry,NZL,0.0,NER,2019
+1867,IDN,Growing fruits and nuts industry,NZL,7.012423370358659e-05,NER,2019
+1868,IDN,"Growing beverage crops (coffee, tea etc) industry",NZL,4.411796025967596e-06,NER,2019
+1869,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,1.997652487160465e-06,NER,2019
+1870,IDN,Seeds and plant propagation industry,NZL,0.0,NER,2019
+1871,IDN,Raising of cattle industry,NZL,1.0775354851891794e-05,NER,2019
+1872,IDN,Growing wheat industry,OMN,0.0,NER,2019
+1873,IDN,Growing maize industry,OMN,0.00021139164410325726,NER,2019
+1874,IDN,Growing cereals n.e.c industry,OMN,0.0,NER,2019
+1875,IDN,Growing leguminous crops and oil seeds industry,OMN,0.00020105393506056392,NER,2019
+1876,IDN,Growing rice industry,OMN,4.058341174767028e-07,NER,2019
+1877,IDN,"Growing vegetables, roots, tubers industry",OMN,0.0,NER,2019
+1878,IDN,Growing sugar beet and cane industry,OMN,0.0,NER,2019
+1879,IDN,Growing tobacco industry,OMN,1.8636077530659747e-06,NER,2019
+1880,IDN,Growing fibre crops industry,OMN,7.484304923692101e-08,NER,2019
+1881,IDN,Growing crops n.e.c. industry,OMN,0.0,NER,2019
+1882,IDN,Growing grapes industry,OMN,0.0,NER,2019
+1883,IDN,Growing fruits and nuts industry,OMN,3.5280613828833826e-05,NER,2019
+1884,IDN,"Growing beverage crops (coffee, tea etc) industry",OMN,3.957266135728185e-06,NER,2019
+1885,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,1.7404900763554177e-06,NER,2019
+1886,IDN,Seeds and plant propagation industry,OMN,0.0,NER,2019
+1887,IDN,Raising of cattle industry,OMN,1.1909298653783608e-05,NER,2019
+1888,IDN,Growing wheat industry,PAK,0.0,NER,2019
+1889,IDN,Growing maize industry,PAK,0.00020187818281692746,NER,2019
+1890,IDN,Growing cereals n.e.c industry,PAK,0.0,NER,2019
+1891,IDN,Growing leguminous crops and oil seeds industry,PAK,0.00123859334027674,NER,2019
+1892,IDN,Growing rice industry,PAK,1.2262718742253574e-06,NER,2019
+1893,IDN,"Growing vegetables, roots, tubers industry",PAK,0.0,NER,2019
+1894,IDN,Growing sugar beet and cane industry,PAK,0.0,NER,2019
+1895,IDN,Growing tobacco industry,PAK,3.0090237151276564e-06,NER,2019
+1896,IDN,Growing fibre crops industry,PAK,1.277159888106725e-07,NER,2019
+1897,IDN,Growing crops n.e.c. industry,PAK,0.0,NER,2019
+1898,IDN,Growing grapes industry,PAK,0.0,NER,2019
+1899,IDN,Growing fruits and nuts industry,PAK,0.00011577443231369071,NER,2019
+1900,IDN,"Growing beverage crops (coffee, tea etc) industry",PAK,6.015264144107688e-06,NER,2019
+1901,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,4.941912007449494e-06,NER,2019
+1902,IDN,Seeds and plant propagation industry,PAK,0.0,NER,2019
+1903,IDN,Raising of cattle industry,PAK,1.7917310536938484e-05,NER,2019
+1904,IDN,Growing wheat industry,PSE,0.0,NER,2019
+1905,IDN,Growing maize industry,PSE,7.5359086804391615e-06,NER,2019
+1906,IDN,Growing cereals n.e.c industry,PSE,0.0,NER,2019
+1907,IDN,Growing leguminous crops and oil seeds industry,PSE,1.2775988217188668e-05,NER,2019
+1908,IDN,Growing rice industry,PSE,2.2731050100555493e-08,NER,2019
+1909,IDN,"Growing vegetables, roots, tubers industry",PSE,0.0,NER,2019
+1910,IDN,Growing sugar beet and cane industry,PSE,0.0,NER,2019
+1911,IDN,Growing tobacco industry,PSE,1.2538994751461127e-07,NER,2019
+1912,IDN,Growing fibre crops industry,PSE,4.122947807282027e-09,NER,2019
+1913,IDN,Growing crops n.e.c. industry,PSE,0.0,NER,2019
+1914,IDN,Growing grapes industry,PSE,0.0,NER,2019
+1915,IDN,Growing fruits and nuts industry,PSE,1.965837623170777e-06,NER,2019
+1916,IDN,"Growing beverage crops (coffee, tea etc) industry",PSE,1.6558197606210774e-07,NER,2019
+1917,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,1.0741359452556857e-07,NER,2019
+1918,IDN,Seeds and plant propagation industry,PSE,0.0,NER,2019
+1919,IDN,Raising of cattle industry,PSE,6.792894808154952e-07,NER,2019
+1920,IDN,Growing wheat industry,PAN,0.0,NER,2019
+1921,IDN,Growing maize industry,PAN,4.7576520362219365e-05,NER,2019
+1922,IDN,Growing cereals n.e.c industry,PAN,0.0,NER,2019
+1923,IDN,Growing leguminous crops and oil seeds industry,PAN,6.777872621698263e-05,NER,2019
+1924,IDN,Growing rice industry,PAN,1.396928458290606e-07,NER,2019
+1925,IDN,"Growing vegetables, roots, tubers industry",PAN,0.0,NER,2019
+1926,IDN,Growing sugar beet and cane industry,PAN,0.0,NER,2019
+1927,IDN,Growing tobacco industry,PAN,9.932768622899241e-07,NER,2019
+1928,IDN,Growing fibre crops industry,PAN,2.808113563274508e-08,NER,2019
+1929,IDN,Growing crops n.e.c. industry,PAN,0.0,NER,2019
+1930,IDN,Growing grapes industry,PAN,0.0,NER,2019
+1931,IDN,Growing fruits and nuts industry,PAN,1.0679700851748685e-05,NER,2019
+1932,IDN,"Growing beverage crops (coffee, tea etc) industry",PAN,9.651146169075744e-07,NER,2019
+1933,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,6.237615753404439e-07,NER,2019
+1934,IDN,Seeds and plant propagation industry,PAN,0.0,NER,2019
+1935,IDN,Raising of cattle industry,PAN,3.718950069017188e-06,NER,2019
+1936,IDN,Growing wheat industry,PER,0.0,NER,2019
+1937,IDN,Growing maize industry,PER,0.00023483409584005465,NER,2019
+1938,IDN,Growing cereals n.e.c industry,PER,0.0,NER,2019
+1939,IDN,Growing leguminous crops and oil seeds industry,PER,0.0011942547371617581,NER,2019
+1940,IDN,Growing rice industry,PER,1.675932569722738e-06,NER,2019
+1941,IDN,"Growing vegetables, roots, tubers industry",PER,0.0,NER,2019
+1942,IDN,Growing sugar beet and cane industry,PER,0.0,NER,2019
+1943,IDN,Growing tobacco industry,PER,9.194555117174113e-06,NER,2019
+1944,IDN,Growing fibre crops industry,PER,4.4163580294074067e-07,NER,2019
+1945,IDN,Growing crops n.e.c. industry,PER,0.0,NER,2019
+1946,IDN,Growing grapes industry,PER,0.0,NER,2019
+1947,IDN,Growing fruits and nuts industry,PER,0.00012772546110006842,NER,2019
+1948,IDN,"Growing beverage crops (coffee, tea etc) industry",PER,2.6404323108038802e-05,NER,2019
+1949,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,1.0352620590424087e-05,NER,2019
+1950,IDN,Seeds and plant propagation industry,PER,0.0,NER,2019
+1951,IDN,Raising of cattle industry,PER,6.291759387392354e-05,NER,2019
+1952,IDN,Growing wheat industry,PHL,0.0,NER,2019
+1953,IDN,Growing maize industry,PHL,0.00014813333217524212,NER,2019
+1954,IDN,Growing cereals n.e.c industry,PHL,0.0,NER,2019
+1955,IDN,Growing leguminous crops and oil seeds industry,PHL,0.00028375220777937434,NER,2019
+1956,IDN,Growing rice industry,PHL,5.260843790517472e-07,NER,2019
+1957,IDN,"Growing vegetables, roots, tubers industry",PHL,0.0,NER,2019
+1958,IDN,Growing sugar beet and cane industry,PHL,0.0,NER,2019
+1959,IDN,Growing tobacco industry,PHL,3.424614975456905e-06,NER,2019
+1960,IDN,Growing fibre crops industry,PHL,9.731146339122197e-08,NER,2019
+1961,IDN,Growing crops n.e.c. industry,PHL,0.0,NER,2019
+1962,IDN,Growing grapes industry,PHL,0.0,NER,2019
+1963,IDN,Growing fruits and nuts industry,PHL,4.373283642953854e-05,NER,2019
+1964,IDN,"Growing beverage crops (coffee, tea etc) industry",PHL,3.940450881542582e-06,NER,2019
+1965,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,2.324341174909552e-06,NER,2019
+1966,IDN,Seeds and plant propagation industry,PHL,0.0,NER,2019
+1967,IDN,Raising of cattle industry,PHL,1.224859783604404e-05,NER,2019
+1968,IDN,Growing wheat industry,PNG,0.0,NER,2019
+1969,IDN,Growing maize industry,PNG,0.00015478170427522876,NER,2019
+1970,IDN,Growing cereals n.e.c industry,PNG,0.0,NER,2019
+1971,IDN,Growing leguminous crops and oil seeds industry,PNG,7.164166621854177e-05,NER,2019
+1972,IDN,Growing rice industry,PNG,1.944772136071995e-07,NER,2019
+1973,IDN,"Growing vegetables, roots, tubers industry",PNG,0.0,NER,2019
+1974,IDN,Growing sugar beet and cane industry,PNG,0.0,NER,2019
+1975,IDN,Growing tobacco industry,PNG,5.003006654588002e-07,NER,2019
+1976,IDN,Growing fibre crops industry,PNG,1.5072669181299745e-08,NER,2019
+1977,IDN,Growing crops n.e.c. industry,PNG,0.0,NER,2019
+1978,IDN,Growing grapes industry,PNG,0.0,NER,2019
+1979,IDN,Growing fruits and nuts industry,PNG,1.8589114838190177e-05,NER,2019
+1980,IDN,"Growing beverage crops (coffee, tea etc) industry",PNG,9.309862700916607e-07,NER,2019
+1981,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,5.128329554075953e-07,NER,2019
+1982,IDN,Seeds and plant propagation industry,PNG,0.0,NER,2019
+1983,IDN,Raising of cattle industry,PNG,3.0828661107516793e-06,NER,2019
+1984,IDN,Growing wheat industry,POL,0.0,NER,2019
+1985,IDN,Growing maize industry,POL,0.00026050934632288077,NER,2019
+1986,IDN,Growing cereals n.e.c industry,POL,0.0,NER,2019
+1987,IDN,Growing leguminous crops and oil seeds industry,POL,0.0004545976855358955,NER,2019
+1988,IDN,Growing rice industry,POL,8.780333009886267e-07,NER,2019
+1989,IDN,"Growing vegetables, roots, tubers industry",POL,0.0,NER,2019
+1990,IDN,Growing sugar beet and cane industry,POL,0.0,NER,2019
+1991,IDN,Growing tobacco industry,POL,5.1186739840269825e-06,NER,2019
+1992,IDN,Growing fibre crops industry,POL,1.6170932065142573e-07,NER,2019
+1993,IDN,Growing crops n.e.c. industry,POL,0.0,NER,2019
+1994,IDN,Growing grapes industry,POL,0.0,NER,2019
+1995,IDN,Growing fruits and nuts industry,POL,6.888327732824001e-05,NER,2019
+1996,IDN,"Growing beverage crops (coffee, tea etc) industry",POL,6.962123910474917e-06,NER,2019
+1997,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,4.1715409683710675e-06,NER,2019
+1998,IDN,Seeds and plant propagation industry,POL,0.0,NER,2019
+1999,IDN,Raising of cattle industry,POL,2.7039243540635077e-05,NER,2019
+2000,IDN,Growing wheat industry,PRK,0.0,NER,2019
+2001,IDN,Growing maize industry,PRK,3.787520204166735e-06,NER,2019
+2002,IDN,Growing cereals n.e.c industry,PRK,0.0,NER,2019
+2003,IDN,Growing leguminous crops and oil seeds industry,PRK,3.2856343521772096e-05,NER,2019
+2004,IDN,Growing rice industry,PRK,2.9412321025715284e-08,NER,2019
+2005,IDN,"Growing vegetables, roots, tubers industry",PRK,0.0,NER,2019
+2006,IDN,Growing sugar beet and cane industry,PRK,0.0,NER,2019
+2007,IDN,Growing tobacco industry,PRK,9.353753095584697e-08,NER,2019
+2008,IDN,Growing fibre crops industry,PRK,3.5085993966570785e-09,NER,2019
+2009,IDN,Growing crops n.e.c. industry,PRK,0.0,NER,2019
+2010,IDN,Growing grapes industry,PRK,0.0,NER,2019
+2011,IDN,Growing fruits and nuts industry,PRK,2.4819371578776446e-06,NER,2019
+2012,IDN,"Growing beverage crops (coffee, tea etc) industry",PRK,9.970260887195522e-08,NER,2019
+2013,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,1.2590519550397807e-07,NER,2019
+2014,IDN,Seeds and plant propagation industry,PRK,0.0,NER,2019
+2015,IDN,Raising of cattle industry,PRK,6.201254249743283e-07,NER,2019
+2016,IDN,Growing wheat industry,PRT,0.0,NER,2019
+2017,IDN,Growing maize industry,PRT,0.00015685811155551345,NER,2019
+2018,IDN,Growing cereals n.e.c industry,PRT,0.0,NER,2019
+2019,IDN,Growing leguminous crops and oil seeds industry,PRT,0.00031668879740138535,NER,2019
+2020,IDN,Growing rice industry,PRT,5.052396894629591e-07,NER,2019
+2021,IDN,"Growing vegetables, roots, tubers industry",PRT,0.0,NER,2019
+2022,IDN,Growing sugar beet and cane industry,PRT,0.0,NER,2019
+2023,IDN,Growing tobacco industry,PRT,2.006812542391367e-06,NER,2019
+2024,IDN,Growing fibre crops industry,PRT,6.085057553556639e-08,NER,2019
+2025,IDN,Growing crops n.e.c. industry,PRT,0.0,NER,2019
+2026,IDN,Growing grapes industry,PRT,0.0,NER,2019
+2027,IDN,Growing fruits and nuts industry,PRT,4.0052360659452026e-05,NER,2019
+2028,IDN,"Growing beverage crops (coffee, tea etc) industry",PRT,3.006813398663873e-06,NER,2019
+2029,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,2.02146718100764e-06,NER,2019
+2030,IDN,Seeds and plant propagation industry,PRT,0.0,NER,2019
+2031,IDN,Raising of cattle industry,PRT,1.0653326794470958e-05,NER,2019
+2032,IDN,Growing wheat industry,PRY,0.0,NER,2019
+2033,IDN,Growing maize industry,PRY,3.7648297937188846e-05,NER,2019
+2034,IDN,Growing cereals n.e.c industry,PRY,0.0,NER,2019
+2035,IDN,Growing leguminous crops and oil seeds industry,PRY,3.328703174694741e-05,NER,2019
+2036,IDN,Growing rice industry,PRY,6.834304678571378e-08,NER,2019
+2037,IDN,"Growing vegetables, roots, tubers industry",PRY,0.0,NER,2019
+2038,IDN,Growing sugar beet and cane industry,PRY,0.0,NER,2019
+2039,IDN,Growing tobacco industry,PRY,2.8515275677730385e-07,NER,2019
+2040,IDN,Growing fibre crops industry,PRY,8.78986288302793e-09,NER,2019
+2041,IDN,Growing crops n.e.c. industry,PRY,0.0,NER,2019
+2042,IDN,Growing grapes industry,PRY,0.0,NER,2019
+2043,IDN,Growing fruits and nuts industry,PRY,5.784020826887166e-06,NER,2019
+2044,IDN,"Growing beverage crops (coffee, tea etc) industry",PRY,3.2599637008318297e-07,NER,2019
+2045,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,2.212681844968329e-07,NER,2019
+2046,IDN,Seeds and plant propagation industry,PRY,0.0,NER,2019
+2047,IDN,Raising of cattle industry,PRY,1.307098244178288e-06,NER,2019
+2048,IDN,Growing wheat industry,QAT,0.0,NER,2019
+2049,IDN,Growing maize industry,QAT,0.00016899531964006842,NER,2019
+2050,IDN,Growing cereals n.e.c industry,QAT,0.0,NER,2019
+2051,IDN,Growing leguminous crops and oil seeds industry,QAT,0.00029572620095318113,NER,2019
+2052,IDN,Growing rice industry,QAT,5.1705459335458e-07,NER,2019
+2053,IDN,"Growing vegetables, roots, tubers industry",QAT,0.0,NER,2019
+2054,IDN,Growing sugar beet and cane industry,QAT,0.0,NER,2019
+2055,IDN,Growing tobacco industry,QAT,2.930729146712573e-06,NER,2019
+2056,IDN,Growing fibre crops industry,QAT,1.2110815319357813e-07,NER,2019
+2057,IDN,Growing crops n.e.c. industry,QAT,0.0,NER,2019
+2058,IDN,Growing grapes industry,QAT,0.0,NER,2019
+2059,IDN,Growing fruits and nuts industry,QAT,4.121573912540014e-05,NER,2019
+2060,IDN,"Growing beverage crops (coffee, tea etc) industry",QAT,1.3492084437325708e-05,NER,2019
+2061,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,2.6466090213426793e-06,NER,2019
+2062,IDN,Seeds and plant propagation industry,QAT,0.0,NER,2019
+2063,IDN,Raising of cattle industry,QAT,1.8025583071616055e-05,NER,2019
+2064,IDN,Growing wheat industry,ROU,0.0,NER,2019
+2065,IDN,Growing maize industry,ROU,7.986893483418106e-05,NER,2019
+2066,IDN,Growing cereals n.e.c industry,ROU,0.0,NER,2019
+2067,IDN,Growing leguminous crops and oil seeds industry,ROU,0.00017476448467767099,NER,2019
+2068,IDN,Growing rice industry,ROU,3.109787027804624e-07,NER,2019
+2069,IDN,"Growing vegetables, roots, tubers industry",ROU,0.0,NER,2019
+2070,IDN,Growing sugar beet and cane industry,ROU,0.0,NER,2019
+2071,IDN,Growing tobacco industry,ROU,1.8707528953333319e-06,NER,2019
+2072,IDN,Growing fibre crops industry,ROU,5.909711530558354e-08,NER,2019
+2073,IDN,Growing crops n.e.c. industry,ROU,0.0,NER,2019
+2074,IDN,Growing grapes industry,ROU,0.0,NER,2019
+2075,IDN,Growing fruits and nuts industry,ROU,2.353736893507414e-05,NER,2019
+2076,IDN,"Growing beverage crops (coffee, tea etc) industry",ROU,2.8262649321546265e-06,NER,2019
+2077,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,1.573597959054446e-06,NER,2019
+2078,IDN,Seeds and plant propagation industry,ROU,0.0,NER,2019
+2079,IDN,Raising of cattle industry,ROU,9.961597856413935e-06,NER,2019
+2080,IDN,Growing wheat industry,RUS,0.0,NER,2019
+2081,IDN,Growing maize industry,RUS,0.000986803029698504,NER,2019
+2082,IDN,Growing cereals n.e.c industry,RUS,0.0,NER,2019
+2083,IDN,Growing leguminous crops and oil seeds industry,RUS,0.001319128107093357,NER,2019
+2084,IDN,Growing rice industry,RUS,2.8184009237810944e-06,NER,2019
+2085,IDN,"Growing vegetables, roots, tubers industry",RUS,0.0,NER,2019
+2086,IDN,Growing sugar beet and cane industry,RUS,0.0,NER,2019
+2087,IDN,Growing tobacco industry,RUS,1.3437056391869122e-05,NER,2019
+2088,IDN,Growing fibre crops industry,RUS,3.8159392403313626e-07,NER,2019
+2089,IDN,Growing crops n.e.c. industry,RUS,0.0,NER,2019
+2090,IDN,Growing grapes industry,RUS,0.0,NER,2019
+2091,IDN,Growing fruits and nuts industry,RUS,0.00020973533490326239,NER,2019
+2092,IDN,"Growing beverage crops (coffee, tea etc) industry",RUS,1.856648229902938e-05,NER,2019
+2093,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,1.0052287037285414e-05,NER,2019
+2094,IDN,Seeds and plant propagation industry,RUS,0.0,NER,2019
+2095,IDN,Raising of cattle industry,RUS,5.8504926531407486e-05,NER,2019
+2096,IDN,Growing wheat industry,RWA,0.0,NER,2019
+2097,IDN,Growing maize industry,RWA,1.093662212676452e-05,NER,2019
+2098,IDN,Growing cereals n.e.c industry,RWA,0.0,NER,2019
+2099,IDN,Growing leguminous crops and oil seeds industry,RWA,1.2770918524868834e-05,NER,2019
+2100,IDN,Growing rice industry,RWA,2.3769725880826037e-08,NER,2019
+2101,IDN,"Growing vegetables, roots, tubers industry",RWA,0.0,NER,2019
+2102,IDN,Growing sugar beet and cane industry,RWA,0.0,NER,2019
+2103,IDN,Growing tobacco industry,RWA,1.0951057227485533e-07,NER,2019
+2104,IDN,Growing fibre crops industry,RWA,3.6329360823477607e-09,NER,2019
+2105,IDN,Growing crops n.e.c. industry,RWA,0.0,NER,2019
+2106,IDN,Growing grapes industry,RWA,0.0,NER,2019
+2107,IDN,Growing fruits and nuts industry,RWA,2.0280247794630277e-06,NER,2019
+2108,IDN,"Growing beverage crops (coffee, tea etc) industry",RWA,1.3778115418444358e-07,NER,2019
+2109,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,1.0512158403337518e-07,NER,2019
+2110,IDN,Seeds and plant propagation industry,RWA,0.0,NER,2019
+2111,IDN,Raising of cattle industry,RWA,6.159693916864689e-07,NER,2019
+2112,IDN,Growing wheat industry,SAU,0.0,NER,2019
+2113,IDN,Growing maize industry,SAU,0.0006625043319466114,NER,2019
+2114,IDN,Growing cereals n.e.c industry,SAU,0.0,NER,2019
+2115,IDN,Growing leguminous crops and oil seeds industry,SAU,0.0013208650835069404,NER,2019
+2116,IDN,Growing rice industry,SAU,2.201331053008321e-06,NER,2019
+2117,IDN,"Growing vegetables, roots, tubers industry",SAU,0.0,NER,2019
+2118,IDN,Growing sugar beet and cane industry,SAU,0.0,NER,2019
+2119,IDN,Growing tobacco industry,SAU,1.2812661914519796e-05,NER,2019
+2120,IDN,Growing fibre crops industry,SAU,4.5251760757446297e-07,NER,2019
+2121,IDN,Growing crops n.e.c. industry,SAU,0.0,NER,2019
+2122,IDN,Growing grapes industry,SAU,0.0,NER,2019
+2123,IDN,Growing fruits and nuts industry,SAU,0.00018095651718893696,NER,2019
+2124,IDN,"Growing beverage crops (coffee, tea etc) industry",SAU,2.6202621371508166e-05,NER,2019
+2125,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,1.082464166985541e-05,NER,2019
+2126,IDN,Seeds and plant propagation industry,SAU,0.0,NER,2019
+2127,IDN,Raising of cattle industry,SAU,7.193492233956934e-05,NER,2019
+2128,IDN,Growing wheat industry,SDS,0.0,NER,2019
+2129,IDN,Growing maize industry,SDS,4.3488910979114305e-06,NER,2019
+2130,IDN,Growing cereals n.e.c industry,SDS,0.0,NER,2019
+2131,IDN,Growing leguminous crops and oil seeds industry,SDS,1.4833693959164562e-05,NER,2019
+2132,IDN,Growing rice industry,SDS,2.5931004297900538e-08,NER,2019
+2133,IDN,"Growing vegetables, roots, tubers industry",SDS,0.0,NER,2019
+2134,IDN,Growing sugar beet and cane industry,SDS,0.0,NER,2019
+2135,IDN,Growing tobacco industry,SDS,1.963646681478164e-07,NER,2019
+2136,IDN,Growing fibre crops industry,SDS,5.143579734467908e-09,NER,2019
+2137,IDN,Growing crops n.e.c. industry,SDS,0.0,NER,2019
+2138,IDN,Growing grapes industry,SDS,0.0,NER,2019
+2139,IDN,Growing fruits and nuts industry,SDS,1.9568821671444467e-06,NER,2019
+2140,IDN,"Growing beverage crops (coffee, tea etc) industry",SDS,1.9087433604716266e-07,NER,2019
+2141,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,1.513713563628347e-07,NER,2019
+2142,IDN,Seeds and plant propagation industry,SDS,0.0,NER,2019
+2143,IDN,Raising of cattle industry,SDS,7.898974186173914e-07,NER,2019
+2144,IDN,Growing wheat industry,SEN,0.0,NER,2019
+2145,IDN,Growing maize industry,SEN,0.0002964738001596657,NER,2019
+2146,IDN,Growing cereals n.e.c industry,SEN,0.0,NER,2019
+2147,IDN,Growing leguminous crops and oil seeds industry,SEN,0.00031077427307599155,NER,2019
+2148,IDN,Growing rice industry,SEN,5.299117402731575e-07,NER,2019
+2149,IDN,"Growing vegetables, roots, tubers industry",SEN,0.0,NER,2019
+2150,IDN,Growing sugar beet and cane industry,SEN,0.0,NER,2019
+2151,IDN,Growing tobacco industry,SEN,1.1069613479038356e-06,NER,2019
+2152,IDN,Growing fibre crops industry,SEN,3.6316515123084086e-08,NER,2019
+2153,IDN,Growing crops n.e.c. industry,SEN,0.0,NER,2019
+2154,IDN,Growing grapes industry,SEN,0.0,NER,2019
+2155,IDN,Growing fruits and nuts industry,SEN,4.6753357569716665e-05,NER,2019
+2156,IDN,"Growing beverage crops (coffee, tea etc) industry",SEN,1.6792049062459876e-06,NER,2019
+2157,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,1.5624867869600977e-06,NER,2019
+2158,IDN,Seeds and plant propagation industry,SEN,0.0,NER,2019
+2159,IDN,Raising of cattle industry,SEN,6.945551520314724e-06,NER,2019
+2160,IDN,Growing wheat industry,SGP,0.0,NER,2019
+2161,IDN,Growing maize industry,SGP,0.0002456620928964799,NER,2019
+2162,IDN,Growing cereals n.e.c industry,SGP,0.0,NER,2019
+2163,IDN,Growing leguminous crops and oil seeds industry,SGP,0.0006297637677070979,NER,2019
+2164,IDN,Growing rice industry,SGP,9.756981179499312e-07,NER,2019
+2165,IDN,"Growing vegetables, roots, tubers industry",SGP,0.0,NER,2019
+2166,IDN,Growing sugar beet and cane industry,SGP,0.0,NER,2019
+2167,IDN,Growing tobacco industry,SGP,4.943874693221299e-06,NER,2019
+2168,IDN,Growing fibre crops industry,SGP,1.7945816454048747e-07,NER,2019
+2169,IDN,Growing crops n.e.c. industry,SGP,0.0,NER,2019
+2170,IDN,Growing grapes industry,SGP,0.0,NER,2019
+2171,IDN,Growing fruits and nuts industry,SGP,8.626817747601898e-05,NER,2019
+2172,IDN,"Growing beverage crops (coffee, tea etc) industry",SGP,9.685170892757683e-06,NER,2019
+2173,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,4.844422828805641e-06,NER,2019
+2174,IDN,Seeds and plant propagation industry,SGP,0.0,NER,2019
+2175,IDN,Raising of cattle industry,SGP,2.543888391398232e-05,NER,2019
+2176,IDN,Growing wheat industry,SLE,0.0,NER,2019
+2177,IDN,Growing maize industry,SLE,4.511766912097967e-05,NER,2019
+2178,IDN,Growing cereals n.e.c industry,SLE,0.0,NER,2019
+2179,IDN,Growing leguminous crops and oil seeds industry,SLE,2.0241979543338404e-05,NER,2019
+2180,IDN,Growing rice industry,SLE,5.861457094687314e-08,NER,2019
+2181,IDN,"Growing vegetables, roots, tubers industry",SLE,0.0,NER,2019
+2182,IDN,Growing sugar beet and cane industry,SLE,0.0,NER,2019
+2183,IDN,Growing tobacco industry,SLE,1.584508878793824e-07,NER,2019
+2184,IDN,Growing fibre crops industry,SLE,5.208320632804609e-09,NER,2019
+2185,IDN,Growing crops n.e.c. industry,SLE,0.0,NER,2019
+2186,IDN,Growing grapes industry,SLE,0.0,NER,2019
+2187,IDN,Growing fruits and nuts industry,SLE,5.275587870433359e-06,NER,2019
+2188,IDN,"Growing beverage crops (coffee, tea etc) industry",SLE,2.4532678839933287e-07,NER,2019
+2189,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,1.7282749502587766e-07,NER,2019
+2190,IDN,Seeds and plant propagation industry,SLE,0.0,NER,2019
+2191,IDN,Raising of cattle industry,SLE,1.1430827362421025e-06,NER,2019
+2192,IDN,Growing wheat industry,SLV,0.0,NER,2019
+2193,IDN,Growing maize industry,SLV,1.9511737481650336e-05,NER,2019
+2194,IDN,Growing cereals n.e.c industry,SLV,0.0,NER,2019
+2195,IDN,Growing leguminous crops and oil seeds industry,SLV,0.0003335631604076908,NER,2019
+2196,IDN,Growing rice industry,SLV,2.5230875946934436e-07,NER,2019
+2197,IDN,"Growing vegetables, roots, tubers industry",SLV,0.0,NER,2019
+2198,IDN,Growing sugar beet and cane industry,SLV,0.0,NER,2019
+2199,IDN,Growing tobacco industry,SLV,3.413071485336432e-07,NER,2019
+2200,IDN,Growing fibre crops industry,SLV,1.4731028068978709e-08,NER,2019
+2201,IDN,Growing crops n.e.c. industry,SLV,0.0,NER,2019
+2202,IDN,Growing grapes industry,SLV,0.0,NER,2019
+2203,IDN,Growing fruits and nuts industry,SLV,2.047571947818691e-05,NER,2019
+2204,IDN,"Growing beverage crops (coffee, tea etc) industry",SLV,4.988644237220955e-07,NER,2019
+2205,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,6.820415741910656e-07,NER,2019
+2206,IDN,Seeds and plant propagation industry,SLV,0.0,NER,2019
+2207,IDN,Raising of cattle industry,SLV,2.1641054970087034e-06,NER,2019
+2208,IDN,Growing wheat industry,SOM,0.0,NER,2019
+2209,IDN,Growing maize industry,SOM,1.648934835709437e-05,NER,2019
+2210,IDN,Growing cereals n.e.c industry,SOM,0.0,NER,2019
+2211,IDN,Growing leguminous crops and oil seeds industry,SOM,3.168879649399308e-05,NER,2019
+2212,IDN,Growing rice industry,SOM,4.994217491619352e-08,NER,2019
+2213,IDN,"Growing vegetables, roots, tubers industry",SOM,0.0,NER,2019
+2214,IDN,Growing sugar beet and cane industry,SOM,0.0,NER,2019
+2215,IDN,Growing tobacco industry,SOM,2.786968023948695e-07,NER,2019
+2216,IDN,Growing fibre crops industry,SOM,1.0940026165789536e-08,NER,2019
+2217,IDN,Growing crops n.e.c. industry,SOM,0.0,NER,2019
+2218,IDN,Growing grapes industry,SOM,0.0,NER,2019
+2219,IDN,Growing fruits and nuts industry,SOM,4.228493213599964e-06,NER,2019
+2220,IDN,"Growing beverage crops (coffee, tea etc) industry",SOM,5.983612862363455e-07,NER,2019
+2221,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,2.841731309446078e-07,NER,2019
+2222,IDN,Seeds and plant propagation industry,SOM,0.0,NER,2019
+2223,IDN,Raising of cattle industry,SOM,1.7950246099993707e-06,NER,2019
+2224,IDN,Growing wheat industry,SRB,0.0,NER,2019
+2225,IDN,Growing maize industry,SRB,9.207895928306911e-05,NER,2019
+2226,IDN,Growing cereals n.e.c industry,SRB,0.0,NER,2019
+2227,IDN,Growing leguminous crops and oil seeds industry,SRB,2.710119768264018e-05,NER,2019
+2228,IDN,Growing rice industry,SRB,1.007668841164493e-07,NER,2019
+2229,IDN,"Growing vegetables, roots, tubers industry",SRB,0.0,NER,2019
+2230,IDN,Growing sugar beet and cane industry,SRB,0.0,NER,2019
+2231,IDN,Growing tobacco industry,SRB,2.443758200862226e-07,NER,2019
+2232,IDN,Growing fibre crops industry,SRB,7.060673959757839e-09,NER,2019
+2233,IDN,Growing crops n.e.c. industry,SRB,0.0,NER,2019
+2234,IDN,Growing grapes industry,SRB,0.0,NER,2019
+2235,IDN,Growing fruits and nuts industry,SRB,9.40521934968788e-06,NER,2019
+2236,IDN,"Growing beverage crops (coffee, tea etc) industry",SRB,2.9596464639708246e-07,NER,2019
+2237,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,2.1441740650708509e-07,NER,2019
+2238,IDN,Seeds and plant propagation industry,SRB,0.0,NER,2019
+2239,IDN,Raising of cattle industry,SRB,1.6032329023864644e-06,NER,2019
+2240,IDN,Growing wheat industry,SDN,0.0,NER,2019
+2241,IDN,Growing maize industry,SDN,9.379005163087562e-05,NER,2019
+2242,IDN,Growing cereals n.e.c industry,SDN,0.0,NER,2019
+2243,IDN,Growing leguminous crops and oil seeds industry,SDN,0.0001920635854026583,NER,2019
+2244,IDN,Growing rice industry,SDN,2.6670060311126867e-07,NER,2019
+2245,IDN,"Growing vegetables, roots, tubers industry",SDN,0.0,NER,2019
+2246,IDN,Growing sugar beet and cane industry,SDN,0.0,NER,2019
+2247,IDN,Growing tobacco industry,SDN,1.2157319730921378e-06,NER,2019
+2248,IDN,Growing fibre crops industry,SDN,4.200300380466613e-08,NER,2019
+2249,IDN,Growing crops n.e.c. industry,SDN,0.0,NER,2019
+2250,IDN,Growing grapes industry,SDN,0.0,NER,2019
+2251,IDN,Growing fruits and nuts industry,SDN,2.1509491401762147e-05,NER,2019
+2252,IDN,"Growing beverage crops (coffee, tea etc) industry",SDN,1.4938145917572425e-06,NER,2019
+2253,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,1.4844016371881424e-06,NER,2019
+2254,IDN,Seeds and plant propagation industry,SDN,0.0,NER,2019
+2255,IDN,Raising of cattle industry,SDN,8.205627120034832e-06,NER,2019
+2256,IDN,Growing wheat industry,SVK,0.0,NER,2019
+2257,IDN,Growing maize industry,SVK,8.773552266497751e-05,NER,2019
+2258,IDN,Growing cereals n.e.c industry,SVK,0.0,NER,2019
+2259,IDN,Growing leguminous crops and oil seeds industry,SVK,0.0002776406391656928,NER,2019
+2260,IDN,Growing rice industry,SVK,4.0303276408230243e-07,NER,2019
+2261,IDN,"Growing vegetables, roots, tubers industry",SVK,0.0,NER,2019
+2262,IDN,Growing sugar beet and cane industry,SVK,0.0,NER,2019
+2263,IDN,Growing tobacco industry,SVK,1.7623752758340814e-06,NER,2019
+2264,IDN,Growing fibre crops industry,SVK,6.463440232010729e-08,NER,2019
+2265,IDN,Growing crops n.e.c. industry,SVK,0.0,NER,2019
+2266,IDN,Growing grapes industry,SVK,0.0,NER,2019
+2267,IDN,Growing fruits and nuts industry,SVK,4.139057770166577e-05,NER,2019
+2268,IDN,"Growing beverage crops (coffee, tea etc) industry",SVK,2.072164720142125e-06,NER,2019
+2269,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,2.8255176909078087e-06,NER,2019
+2270,IDN,Seeds and plant propagation industry,SVK,0.0,NER,2019
+2271,IDN,Raising of cattle industry,SVK,1.004126231058513e-05,NER,2019
+2272,IDN,Growing wheat industry,SVN,0.0,NER,2019
+2273,IDN,Growing maize industry,SVN,2.46846441258288e-05,NER,2019
+2274,IDN,Growing cereals n.e.c industry,SVN,0.0,NER,2019
+2275,IDN,Growing leguminous crops and oil seeds industry,SVN,6.28588629719151e-05,NER,2019
+2276,IDN,Growing rice industry,SVN,1.1545048834595085e-07,NER,2019
+2277,IDN,"Growing vegetables, roots, tubers industry",SVN,0.0,NER,2019
+2278,IDN,Growing sugar beet and cane industry,SVN,0.0,NER,2019
+2279,IDN,Growing tobacco industry,SVN,8.905466837413913e-07,NER,2019
+2280,IDN,Growing fibre crops industry,SVN,2.6377207454312744e-08,NER,2019
+2281,IDN,Growing crops n.e.c. industry,SVN,0.0,NER,2019
+2282,IDN,Growing grapes industry,SVN,0.0,NER,2019
+2283,IDN,Growing fruits and nuts industry,SVN,8.363041255231517e-06,NER,2019
+2284,IDN,"Growing beverage crops (coffee, tea etc) industry",SVN,9.111512737459988e-07,NER,2019
+2285,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,6.181687975565776e-07,NER,2019
+2286,IDN,Seeds and plant propagation industry,SVN,0.0,NER,2019
+2287,IDN,Raising of cattle industry,SVN,4.7151881629323396e-06,NER,2019
+2288,IDN,Growing wheat industry,SWE,0.0,NER,2019
+2289,IDN,Growing maize industry,SWE,0.0002136589717164413,NER,2019
+2290,IDN,Growing cereals n.e.c industry,SWE,0.0,NER,2019
+2291,IDN,Growing leguminous crops and oil seeds industry,SWE,0.00040712574750289947,NER,2019
+2292,IDN,Growing rice industry,SWE,7.80939140317379e-07,NER,2019
+2293,IDN,"Growing vegetables, roots, tubers industry",SWE,0.0,NER,2019
+2294,IDN,Growing sugar beet and cane industry,SWE,0.0,NER,2019
+2295,IDN,Growing tobacco industry,SWE,5.0281466078825325e-06,NER,2019
+2296,IDN,Growing fibre crops industry,SWE,1.4735283050536146e-07,NER,2019
+2297,IDN,Growing crops n.e.c. industry,SWE,0.0,NER,2019
+2298,IDN,Growing grapes industry,SWE,0.0,NER,2019
+2299,IDN,Growing fruits and nuts industry,SWE,5.765002815823266e-05,NER,2019
+2300,IDN,"Growing beverage crops (coffee, tea etc) industry",SWE,1.0182867479126707e-05,NER,2019
+2301,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,3.5209902210176312e-06,NER,2019
+2302,IDN,Seeds and plant propagation industry,SWE,0.0,NER,2019
+2303,IDN,Raising of cattle industry,SWE,2.349155307283524e-05,NER,2019
+2304,IDN,Growing wheat industry,SYR,0.0,NER,2019
+2305,IDN,Growing maize industry,SYR,6.0418899114287285e-05,NER,2019
+2306,IDN,Growing cereals n.e.c industry,SYR,0.0,NER,2019
+2307,IDN,Growing leguminous crops and oil seeds industry,SYR,6.992958764161193e-05,NER,2019
+2308,IDN,Growing rice industry,SYR,1.3329369162917752e-07,NER,2019
+2309,IDN,"Growing vegetables, roots, tubers industry",SYR,0.0,NER,2019
+2310,IDN,Growing sugar beet and cane industry,SYR,0.0,NER,2019
+2311,IDN,Growing tobacco industry,SYR,5.937788711964207e-07,NER,2019
+2312,IDN,Growing fibre crops industry,SYR,2.444343388216963e-08,NER,2019
+2313,IDN,Growing crops n.e.c. industry,SYR,0.0,NER,2019
+2314,IDN,Growing grapes industry,SYR,0.0,NER,2019
+2315,IDN,Growing fruits and nuts industry,SYR,1.1338803502508017e-05,NER,2019
+2316,IDN,"Growing beverage crops (coffee, tea etc) industry",SYR,1.9517202982289247e-06,NER,2019
+2317,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,5.863076074381257e-07,NER,2019
+2318,IDN,Seeds and plant propagation industry,SYR,0.0,NER,2019
+2319,IDN,Raising of cattle industry,SYR,3.7470690979212035e-06,NER,2019
+2320,IDN,Growing wheat industry,TCD,0.0,NER,2019
+2321,IDN,Growing maize industry,TCD,0.000855216417164653,NER,2019
+2322,IDN,Growing cereals n.e.c industry,TCD,0.0,NER,2019
+2323,IDN,Growing leguminous crops and oil seeds industry,TCD,0.00458625420075553,NER,2019
+2324,IDN,Growing rice industry,TCD,5.59104772495132e-06,NER,2019
+2325,IDN,"Growing vegetables, roots, tubers industry",TCD,0.0,NER,2019
+2326,IDN,Growing sugar beet and cane industry,TCD,0.0,NER,2019
+2327,IDN,Growing tobacco industry,TCD,1.2197787705756969e-05,NER,2019
+2328,IDN,Growing fibre crops industry,TCD,5.349115196893297e-07,NER,2019
+2329,IDN,Growing crops n.e.c. industry,TCD,0.0,NER,2019
+2330,IDN,Growing grapes industry,TCD,0.0,NER,2019
+2331,IDN,Growing fruits and nuts industry,TCD,0.0006200407825740307,NER,2019
+2332,IDN,"Growing beverage crops (coffee, tea etc) industry",TCD,1.732906385141937e-05,NER,2019
+2333,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,2.908226046252507e-05,NER,2019
+2334,IDN,Seeds and plant propagation industry,TCD,0.0,NER,2019
+2335,IDN,Raising of cattle industry,TCD,7.718311034834127e-05,NER,2019
+2336,IDN,Growing wheat industry,TGO,0.0,NER,2019
+2337,IDN,Growing maize industry,TGO,0.00024674125700546257,NER,2019
+2338,IDN,Growing cereals n.e.c industry,TGO,0.0,NER,2019
+2339,IDN,Growing leguminous crops and oil seeds industry,TGO,0.00015752666164936573,NER,2019
+2340,IDN,Growing rice industry,TGO,4.177649945942351e-07,NER,2019
+2341,IDN,"Growing vegetables, roots, tubers industry",TGO,0.0,NER,2019
+2342,IDN,Growing sugar beet and cane industry,TGO,0.0,NER,2019
+2343,IDN,Growing tobacco industry,TGO,2.9342935583366746e-06,NER,2019
+2344,IDN,Growing fibre crops industry,TGO,8.312050842263955e-08,NER,2019
+2345,IDN,Growing crops n.e.c. industry,TGO,0.0,NER,2019
+2346,IDN,Growing grapes industry,TGO,0.0,NER,2019
+2347,IDN,Growing fruits and nuts industry,TGO,3.370914980431424e-05,NER,2019
+2348,IDN,"Growing beverage crops (coffee, tea etc) industry",TGO,1.8726892167503578e-06,NER,2019
+2349,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,1.8057927817283832e-06,NER,2019
+2350,IDN,Seeds and plant propagation industry,TGO,0.0,NER,2019
+2351,IDN,Raising of cattle industry,TGO,1.8277138484621904e-05,NER,2019
+2352,IDN,Growing wheat industry,THA,0.0,NER,2019
+2353,IDN,Growing maize industry,THA,0.0010731343835156616,NER,2019
+2354,IDN,Growing cereals n.e.c industry,THA,0.0,NER,2019
+2355,IDN,Growing leguminous crops and oil seeds industry,THA,0.005303546693481395,NER,2019
+2356,IDN,Growing rice industry,THA,6.123278928531738e-06,NER,2019
+2357,IDN,"Growing vegetables, roots, tubers industry",THA,0.0,NER,2019
+2358,IDN,Growing sugar beet and cane industry,THA,0.0,NER,2019
+2359,IDN,Growing tobacco industry,THA,1.4755317415475274e-05,NER,2019
+2360,IDN,Growing fibre crops industry,THA,6.19995306954426e-07,NER,2019
+2361,IDN,Growing crops n.e.c. industry,THA,0.0,NER,2019
+2362,IDN,Growing grapes industry,THA,0.0,NER,2019
+2363,IDN,Growing fruits and nuts industry,THA,0.0007640915977247245,NER,2019
+2364,IDN,"Growing beverage crops (coffee, tea etc) industry",THA,1.9616684743355275e-05,NER,2019
+2365,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,2.6383925233013948e-05,NER,2019
+2366,IDN,Seeds and plant propagation industry,THA,0.0,NER,2019
+2367,IDN,Raising of cattle industry,THA,9.735360537761405e-05,NER,2019
+2368,IDN,Growing wheat industry,TJK,0.0,NER,2019
+2369,IDN,Growing maize industry,TJK,7.1870936871668365e-06,NER,2019
+2370,IDN,Growing cereals n.e.c industry,TJK,0.0,NER,2019
+2371,IDN,Growing leguminous crops and oil seeds industry,TJK,2.757583616999791e-05,NER,2019
+2372,IDN,Growing rice industry,TJK,4.1736213856356374e-08,NER,2019
+2373,IDN,"Growing vegetables, roots, tubers industry",TJK,0.0,NER,2019
+2374,IDN,Growing sugar beet and cane industry,TJK,0.0,NER,2019
+2375,IDN,Growing tobacco industry,TJK,1.7320931070932756e-07,NER,2019
+2376,IDN,Growing fibre crops industry,TJK,7.041926995292795e-09,NER,2019
+2377,IDN,Growing crops n.e.c. industry,TJK,0.0,NER,2019
+2378,IDN,Growing grapes industry,TJK,0.0,NER,2019
+2379,IDN,Growing fruits and nuts industry,TJK,3.2585745732349174e-06,NER,2019
+2380,IDN,"Growing beverage crops (coffee, tea etc) industry",TJK,3.4146996637525755e-07,NER,2019
+2381,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,1.8355213011688758e-07,NER,2019
+2382,IDN,Seeds and plant propagation industry,TJK,0.0,NER,2019
+2383,IDN,Raising of cattle industry,TJK,9.581042640023361e-07,NER,2019
+2384,IDN,Growing wheat industry,TKM,0.0,NER,2019
+2385,IDN,Growing maize industry,TKM,1.8123082432990378e-05,NER,2019
+2386,IDN,Growing cereals n.e.c industry,TKM,0.0,NER,2019
+2387,IDN,Growing leguminous crops and oil seeds industry,TKM,1.8716704040124636e-05,NER,2019
+2388,IDN,Growing rice industry,TKM,3.83995515570724e-08,NER,2019
+2389,IDN,"Growing vegetables, roots, tubers industry",TKM,0.0,NER,2019
+2390,IDN,Growing sugar beet and cane industry,TKM,0.0,NER,2019
+2391,IDN,Growing tobacco industry,TKM,1.843657356504649e-07,NER,2019
+2392,IDN,Growing fibre crops industry,TKM,6.888401552918012e-09,NER,2019
+2393,IDN,Growing crops n.e.c. industry,TKM,0.0,NER,2019
+2394,IDN,Growing grapes industry,TKM,0.0,NER,2019
+2395,IDN,Growing fruits and nuts industry,TKM,3.1861172503995746e-06,NER,2019
+2396,IDN,"Growing beverage crops (coffee, tea etc) industry",TKM,3.374705144797113e-07,NER,2019
+2397,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,1.5946282380677003e-07,NER,2019
+2398,IDN,Seeds and plant propagation industry,TKM,0.0,NER,2019
+2399,IDN,Raising of cattle industry,TKM,1.0220696744652972e-06,NER,2019
+2400,IDN,Growing wheat industry,TUN,0.0,NER,2019
+2401,IDN,Growing maize industry,TUN,6.411080145382767e-05,NER,2019
+2402,IDN,Growing cereals n.e.c industry,TUN,0.0,NER,2019
+2403,IDN,Growing leguminous crops and oil seeds industry,TUN,0.00028189946062938745,NER,2019
+2404,IDN,Growing rice industry,TUN,3.541140448004096e-07,NER,2019
+2405,IDN,"Growing vegetables, roots, tubers industry",TUN,0.0,NER,2019
+2406,IDN,Growing sugar beet and cane industry,TUN,0.0,NER,2019
+2407,IDN,Growing tobacco industry,TUN,1.1603373884485633e-06,NER,2019
+2408,IDN,Growing fibre crops industry,TUN,4.281474607891798e-08,NER,2019
+2409,IDN,Growing crops n.e.c. industry,TUN,0.0,NER,2019
+2410,IDN,Growing grapes industry,TUN,0.0,NER,2019
+2411,IDN,Growing fruits and nuts industry,TUN,4.109124873416469e-05,NER,2019
+2412,IDN,"Growing beverage crops (coffee, tea etc) industry",TUN,1.954966618562584e-06,NER,2019
+2413,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,1.509256146605928e-06,NER,2019
+2414,IDN,Seeds and plant propagation industry,TUN,0.0,NER,2019
+2415,IDN,Raising of cattle industry,TUN,7.710163844086643e-06,NER,2019
+2416,IDN,Growing wheat industry,TUR,0.0,NER,2019
+2417,IDN,Growing maize industry,TUR,0.0008502938155648957,NER,2019
+2418,IDN,Growing cereals n.e.c industry,TUR,0.0,NER,2019
+2419,IDN,Growing leguminous crops and oil seeds industry,TUR,0.00385629825004723,NER,2019
+2420,IDN,Growing rice industry,TUR,5.125868130277193e-06,NER,2019
+2421,IDN,"Growing vegetables, roots, tubers industry",TUR,0.0,NER,2019
+2422,IDN,Growing sugar beet and cane industry,TUR,0.0,NER,2019
+2423,IDN,Growing tobacco industry,TUR,2.1273039963268417e-05,NER,2019
+2424,IDN,Growing fibre crops industry,TUR,1.0195641732434984e-06,NER,2019
+2425,IDN,Growing crops n.e.c. industry,TUR,0.0,NER,2019
+2426,IDN,Growing grapes industry,TUR,0.0,NER,2019
+2427,IDN,Growing fruits and nuts industry,TUR,0.0004904953570008423,NER,2019
+2428,IDN,"Growing beverage crops (coffee, tea etc) industry",TUR,5.953346834087948e-05,NER,2019
+2429,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,2.648898429838957e-05,NER,2019
+2430,IDN,Seeds and plant propagation industry,TUR,0.0,NER,2019
+2431,IDN,Raising of cattle industry,TUR,0.00014766397562954368,NER,2019
+2432,IDN,Growing wheat industry,TZA,0.0,NER,2019
+2433,IDN,Growing maize industry,TZA,6.334665621280564e-05,NER,2019
+2434,IDN,Growing cereals n.e.c industry,TZA,0.0,NER,2019
+2435,IDN,Growing leguminous crops and oil seeds industry,TZA,8.020403998524723e-05,NER,2019
+2436,IDN,Growing rice industry,TZA,1.5957607005197464e-07,NER,2019
+2437,IDN,"Growing vegetables, roots, tubers industry",TZA,0.0,NER,2019
+2438,IDN,Growing sugar beet and cane industry,TZA,0.0,NER,2019
+2439,IDN,Growing tobacco industry,TZA,9.311167249652438e-07,NER,2019
+2440,IDN,Growing fibre crops industry,TZA,2.9601315279337926e-08,NER,2019
+2441,IDN,Growing crops n.e.c. industry,TZA,0.0,NER,2019
+2442,IDN,Growing grapes industry,TZA,0.0,NER,2019
+2443,IDN,Growing fruits and nuts industry,TZA,1.2465083172447694e-05,NER,2019
+2444,IDN,"Growing beverage crops (coffee, tea etc) industry",TZA,1.1211675019632206e-06,NER,2019
+2445,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,6.935176474934483e-07,NER,2019
+2446,IDN,Seeds and plant propagation industry,TZA,0.0,NER,2019
+2447,IDN,Raising of cattle industry,TZA,4.867334232904306e-06,NER,2019
+2448,IDN,Growing wheat industry,UGA,0.0,NER,2019
+2449,IDN,Growing maize industry,UGA,4.521419944843862e-05,NER,2019
+2450,IDN,Growing cereals n.e.c industry,UGA,0.0,NER,2019
+2451,IDN,Growing leguminous crops and oil seeds industry,UGA,5.8064226519788283e-05,NER,2019
+2452,IDN,Growing rice industry,UGA,1.1647042695366039e-07,NER,2019
+2453,IDN,"Growing vegetables, roots, tubers industry",UGA,0.0,NER,2019
+2454,IDN,Growing sugar beet and cane industry,UGA,0.0,NER,2019
+2455,IDN,Growing tobacco industry,UGA,5.327040840569653e-07,NER,2019
+2456,IDN,Growing fibre crops industry,UGA,1.7531450380171185e-08,NER,2019
+2457,IDN,Growing crops n.e.c. industry,UGA,0.0,NER,2019
+2458,IDN,Growing grapes industry,UGA,0.0,NER,2019
+2459,IDN,Growing fruits and nuts industry,UGA,9.08050896904101e-06,NER,2019
+2460,IDN,"Growing beverage crops (coffee, tea etc) industry",UGA,9.22516645015002e-07,NER,2019
+2461,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,5.545757886378249e-07,NER,2019
+2462,IDN,Seeds and plant propagation industry,UGA,0.0,NER,2019
+2463,IDN,Raising of cattle industry,UGA,2.7819621638554743e-06,NER,2019
+2464,IDN,Growing wheat industry,UKR,0.0,NER,2019
+2465,IDN,Growing maize industry,UKR,0.00022496591730560762,NER,2019
+2466,IDN,Growing cereals n.e.c industry,UKR,0.0,NER,2019
+2467,IDN,Growing leguminous crops and oil seeds industry,UKR,0.0003888624756416783,NER,2019
+2468,IDN,Growing rice industry,UKR,6.487857782103926e-07,NER,2019
+2469,IDN,"Growing vegetables, roots, tubers industry",UKR,0.0,NER,2019
+2470,IDN,Growing sugar beet and cane industry,UKR,0.0,NER,2019
+2471,IDN,Growing tobacco industry,UKR,2.1727274207032367e-06,NER,2019
+2472,IDN,Growing fibre crops industry,UKR,7.553694517068246e-08,NER,2019
+2473,IDN,Growing crops n.e.c. industry,UKR,0.0,NER,2019
+2474,IDN,Growing grapes industry,UKR,0.0,NER,2019
+2475,IDN,Growing fruits and nuts industry,UKR,5.4883832247844014e-05,NER,2019
+2476,IDN,"Growing beverage crops (coffee, tea etc) industry",UKR,2.576601606719184e-06,NER,2019
+2477,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,2.346963563556583e-06,NER,2019
+2478,IDN,Seeds and plant propagation industry,UKR,0.0,NER,2019
+2479,IDN,Raising of cattle industry,UKR,1.2220516221817956e-05,NER,2019
+2480,IDN,Growing wheat industry,URY,0.0,NER,2019
+2481,IDN,Growing maize industry,URY,0.0002527696460159768,NER,2019
+2482,IDN,Growing cereals n.e.c industry,URY,0.0,NER,2019
+2483,IDN,Growing leguminous crops and oil seeds industry,URY,7.116412523600871e-05,NER,2019
+2484,IDN,Growing rice industry,URY,2.684866176402192e-07,NER,2019
+2485,IDN,"Growing vegetables, roots, tubers industry",URY,0.0,NER,2019
+2486,IDN,Growing sugar beet and cane industry,URY,0.0,NER,2019
+2487,IDN,Growing tobacco industry,URY,5.493999532560792e-07,NER,2019
+2488,IDN,Growing fibre crops industry,URY,1.5222851547455915e-08,NER,2019
+2489,IDN,Growing crops n.e.c. industry,URY,0.0,NER,2019
+2490,IDN,Growing grapes industry,URY,0.0,NER,2019
+2491,IDN,Growing fruits and nuts industry,URY,2.517445402865082e-05,NER,2019
+2492,IDN,"Growing beverage crops (coffee, tea etc) industry",URY,5.892636096728186e-07,NER,2019
+2493,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,5.220034300489116e-07,NER,2019
+2494,IDN,Seeds and plant propagation industry,URY,0.0,NER,2019
+2495,IDN,Raising of cattle industry,URY,3.651629275293796e-06,NER,2019
+2496,IDN,Growing wheat industry,USA,0.0,NER,2019
+2497,IDN,Growing maize industry,USA,0.00822547926293083,NER,2019
+2498,IDN,Growing cereals n.e.c industry,USA,0.0,NER,2019
+2499,IDN,Growing leguminous crops and oil seeds industry,USA,0.010610287516704713,NER,2019
+2500,IDN,Growing rice industry,USA,2.1920518941739065e-05,NER,2019
+2501,IDN,"Growing vegetables, roots, tubers industry",USA,0.0,NER,2019
+2502,IDN,Growing sugar beet and cane industry,USA,0.0,NER,2019
+2503,IDN,Growing tobacco industry,USA,0.0001302175287395711,NER,2019
+2504,IDN,Growing fibre crops industry,USA,3.7534703586097964e-06,NER,2019
+2505,IDN,Growing crops n.e.c. industry,USA,0.0,NER,2019
+2506,IDN,Growing grapes industry,USA,0.0,NER,2019
+2507,IDN,Growing fruits and nuts industry,USA,0.001689099339715508,NER,2019
+2508,IDN,"Growing beverage crops (coffee, tea etc) industry",USA,0.00018287772918453097,NER,2019
+2509,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,9.153289892258832e-05,NER,2019
+2510,IDN,Seeds and plant propagation industry,USA,0.0,NER,2019
+2511,IDN,Raising of cattle industry,USA,0.0005947286464515362,NER,2019
+2512,IDN,Growing wheat industry,UZB,0.0,NER,2019
+2513,IDN,Growing maize industry,UZB,3.931195614112517e-05,NER,2019
+2514,IDN,Growing cereals n.e.c industry,UZB,0.0,NER,2019
+2515,IDN,Growing leguminous crops and oil seeds industry,UZB,4.297696812388853e-05,NER,2019
+2516,IDN,Growing rice industry,UZB,9.361703121793413e-08,NER,2019
+2517,IDN,"Growing vegetables, roots, tubers industry",UZB,0.0,NER,2019
+2518,IDN,Growing sugar beet and cane industry,UZB,0.0,NER,2019
+2519,IDN,Growing tobacco industry,UZB,6.08704674277575e-07,NER,2019
+2520,IDN,Growing fibre crops industry,UZB,1.8064061494333926e-08,NER,2019
+2521,IDN,Growing crops n.e.c. industry,UZB,0.0,NER,2019
+2522,IDN,Growing grapes industry,UZB,0.0,NER,2019
+2523,IDN,Growing fruits and nuts industry,UZB,7.503327192845376e-06,NER,2019
+2524,IDN,"Growing beverage crops (coffee, tea etc) industry",UZB,6.014161666745393e-07,NER,2019
+2525,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,3.9322443093764684e-07,NER,2019
+2526,IDN,Seeds and plant propagation industry,UZB,0.0,NER,2019
+2527,IDN,Raising of cattle industry,UZB,2.7153365827317374e-06,NER,2019
+2528,IDN,Growing wheat industry,VEN,0.0,NER,2019
+2529,IDN,Growing maize industry,VEN,0.0001746725160390057,NER,2019
+2530,IDN,Growing cereals n.e.c industry,VEN,0.0,NER,2019
+2531,IDN,Growing leguminous crops and oil seeds industry,VEN,0.00014273332781370137,NER,2019
+2532,IDN,Growing rice industry,VEN,3.320498209337897e-07,NER,2019
+2533,IDN,"Growing vegetables, roots, tubers industry",VEN,0.0,NER,2019
+2534,IDN,Growing sugar beet and cane industry,VEN,0.0,NER,2019
+2535,IDN,Growing tobacco industry,VEN,1.608201635222445e-06,NER,2019
+2536,IDN,Growing fibre crops industry,VEN,4.688951212932122e-08,NER,2019
+2537,IDN,Growing crops n.e.c. industry,VEN,0.0,NER,2019
+2538,IDN,Growing grapes industry,VEN,0.0,NER,2019
+2539,IDN,Growing fruits and nuts industry,VEN,2.8197041839611807e-05,NER,2019
+2540,IDN,"Growing beverage crops (coffee, tea etc) industry",VEN,2.1106574194228623e-06,NER,2019
+2541,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,1.182051821445629e-06,NER,2019
+2542,IDN,Seeds and plant propagation industry,VEN,0.0,NER,2019
+2543,IDN,Raising of cattle industry,VEN,7.2247313467040255e-06,NER,2019
+2544,IDN,Growing wheat industry,VNM,0.0,NER,2019
+2545,IDN,Growing maize industry,VNM,0.0003140962331314357,NER,2019
+2546,IDN,Growing cereals n.e.c industry,VNM,0.0,NER,2019
+2547,IDN,Growing leguminous crops and oil seeds industry,VNM,0.00040119310162393354,NER,2019
+2548,IDN,Growing rice industry,VNM,7.49772694448097e-07,NER,2019
+2549,IDN,"Growing vegetables, roots, tubers industry",VNM,0.0,NER,2019
+2550,IDN,Growing sugar beet and cane industry,VNM,0.0,NER,2019
+2551,IDN,Growing tobacco industry,VNM,3.568795871834235e-06,NER,2019
+2552,IDN,Growing fibre crops industry,VNM,1.0705208909116158e-07,NER,2019
+2553,IDN,Growing crops n.e.c. industry,VNM,0.0,NER,2019
+2554,IDN,Growing grapes industry,VNM,0.0,NER,2019
+2555,IDN,Growing fruits and nuts industry,VNM,6.78900534075104e-05,NER,2019
+2556,IDN,"Growing beverage crops (coffee, tea etc) industry",VNM,4.607312749723461e-06,NER,2019
+2557,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,3.3174684205531043e-06,NER,2019
+2558,IDN,Seeds and plant propagation industry,VNM,0.0,NER,2019
+2559,IDN,Raising of cattle industry,VNM,1.7591776828933653e-05,NER,2019
+2560,IDN,Growing wheat industry,YEM,0.0,NER,2019
+2561,IDN,Growing maize industry,YEM,6.143661423773653e-05,NER,2019
+2562,IDN,Growing cereals n.e.c industry,YEM,0.0,NER,2019
+2563,IDN,Growing leguminous crops and oil seeds industry,YEM,5.7452462684997335e-05,NER,2019
+2564,IDN,Growing rice industry,YEM,1.2222832056588958e-07,NER,2019
+2565,IDN,"Growing vegetables, roots, tubers industry",YEM,0.0,NER,2019
+2566,IDN,Growing sugar beet and cane industry,YEM,0.0,NER,2019
+2567,IDN,Growing tobacco industry,YEM,4.818746738708891e-07,NER,2019
+2568,IDN,Growing fibre crops industry,YEM,1.5455025648792754e-08,NER,2019
+2569,IDN,Growing crops n.e.c. industry,YEM,0.0,NER,2019
+2570,IDN,Growing grapes industry,YEM,0.0,NER,2019
+2571,IDN,Growing fruits and nuts industry,YEM,1.0562643375188916e-05,NER,2019
+2572,IDN,"Growing beverage crops (coffee, tea etc) industry",YEM,6.986521529423624e-07,NER,2019
+2573,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,4.261744724282462e-07,NER,2019
+2574,IDN,Seeds and plant propagation industry,YEM,0.0,NER,2019
+2575,IDN,Raising of cattle industry,YEM,2.506801945494789e-06,NER,2019
+2576,IDN,Growing wheat industry,ZAF,0.0,NER,2019
+2577,IDN,Growing maize industry,ZAF,0.0008681881063818217,NER,2019
+2578,IDN,Growing cereals n.e.c industry,ZAF,0.0,NER,2019
+2579,IDN,Growing leguminous crops and oil seeds industry,ZAF,0.0007327962231877693,NER,2019
+2580,IDN,Growing rice industry,ZAF,1.5856790888943676e-06,NER,2019
+2581,IDN,"Growing vegetables, roots, tubers industry",ZAF,0.0,NER,2019
+2582,IDN,Growing sugar beet and cane industry,ZAF,0.0,NER,2019
+2583,IDN,Growing tobacco industry,ZAF,6.335833870868074e-06,NER,2019
+2584,IDN,Growing fibre crops industry,ZAF,2.0361874950011722e-07,NER,2019
+2585,IDN,Growing crops n.e.c. industry,ZAF,0.0,NER,2019
+2586,IDN,Growing grapes industry,ZAF,0.0,NER,2019
+2587,IDN,Growing fruits and nuts industry,ZAF,0.00013867418294510542,NER,2019
+2588,IDN,"Growing beverage crops (coffee, tea etc) industry",ZAF,1.1959566898151216e-05,NER,2019
+2589,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,5.738541326416467e-06,NER,2019
+2590,IDN,Seeds and plant propagation industry,ZAF,0.0,NER,2019
+2591,IDN,Raising of cattle industry,ZAF,3.565344423358835e-05,NER,2019
+2592,IDN,Growing wheat industry,ZMB,0.0,NER,2019
+2593,IDN,Growing maize industry,ZMB,2.8526962116315844e-05,NER,2019
+2594,IDN,Growing cereals n.e.c industry,ZMB,0.0,NER,2019
+2595,IDN,Growing leguminous crops and oil seeds industry,ZMB,5.3773488401584266e-05,NER,2019
+2596,IDN,Growing rice industry,ZMB,9.694023618767519e-08,NER,2019
+2597,IDN,"Growing vegetables, roots, tubers industry",ZMB,0.0,NER,2019
+2598,IDN,Growing sugar beet and cane industry,ZMB,0.0,NER,2019
+2599,IDN,Growing tobacco industry,ZMB,5.229209669114652e-07,NER,2019
+2600,IDN,Growing fibre crops industry,ZMB,1.840954391499893e-08,NER,2019
+2601,IDN,Growing crops n.e.c. industry,ZMB,0.0,NER,2019
+2602,IDN,Growing grapes industry,ZMB,0.0,NER,2019
+2603,IDN,Growing fruits and nuts industry,ZMB,7.521126018885686e-06,NER,2019
+2604,IDN,"Growing beverage crops (coffee, tea etc) industry",ZMB,8.018944468366867e-07,NER,2019
+2605,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,5.114554143605166e-07,NER,2019
+2606,IDN,Seeds and plant propagation industry,ZMB,0.0,NER,2019
+2607,IDN,Raising of cattle industry,ZMB,2.980306540053184e-06,NER,2019
+2608,IDN,Growing wheat industry,ZWE,0.0,NER,2019
+2609,IDN,Growing maize industry,ZWE,4.935166361737348e-05,NER,2019
+2610,IDN,Growing cereals n.e.c industry,ZWE,0.0,NER,2019
+2611,IDN,Growing leguminous crops and oil seeds industry,ZWE,3.537872743771096e-05,NER,2019
+2612,IDN,Growing rice industry,ZWE,8.19212429595742e-08,NER,2019
+2613,IDN,"Growing vegetables, roots, tubers industry",ZWE,0.0,NER,2019
+2614,IDN,Growing sugar beet and cane industry,ZWE,0.0,NER,2019
+2615,IDN,Growing tobacco industry,ZWE,2.891722916924635e-07,NER,2019
+2616,IDN,Growing fibre crops industry,ZWE,9.724503649656966e-09,NER,2019
+2617,IDN,Growing crops n.e.c. industry,ZWE,0.0,NER,2019
+2618,IDN,Growing grapes industry,ZWE,0.0,NER,2019
+2619,IDN,Growing fruits and nuts industry,ZWE,7.021947590239161e-06,NER,2019
+2620,IDN,"Growing beverage crops (coffee, tea etc) industry",ZWE,4.960797653489716e-07,NER,2019
+2621,IDN,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,2.678594449366237e-07,NER,2019
+2622,IDN,Seeds and plant propagation industry,ZWE,0.0,NER,2019
+2623,IDN,Raising of cattle industry,ZWE,1.6592158486121825e-06,NER,2019

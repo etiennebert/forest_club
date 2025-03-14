@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="534" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;0&quot;" field="Departure" size="1073741823" type="V_WString" />
+            <FormulaField expression="&quot;BR&quot;" field="Departure_ISO" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Departure = "0"
+Departure_ISO = "BR"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="678" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Departure_ISO" selected="False" />
+            <SelectField field="Departure" selected="True" />
+            <SelectField field="Arrival" selected="True" />
+            <SelectField field="Arrival_ISO" selected="False" />
+            <SelectField field="Sum_BR_direct_arrival" selected="True" rename="Value" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="774" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="870" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Direct&quot;" field="Nature" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Nature = "Direct"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1038" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Indirect&quot;" field="Nature" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Nature = "Indirect"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1158" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1434" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\Figure_1_Sankey_coordinates_102024_COD.xlsx|||Sheet1</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>RemoveFile</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Figure_1_Sankey_coordinates_102024_COD.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Rank_1" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Rank_2" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Final_destination_area" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Sum_BR_direct_arrival" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Australia_and_New_Zealand" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Caribbean" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Central_America" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Central_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Eastern_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Eastern_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Eastern_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Melanesia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Middle_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Northern_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Northern_America" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Northern_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Rest_of_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Rest_of_Americas" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Rest_of_Asia_Pacific" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Rest_of_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_EU27" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_South_America" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_South_Eastern_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Southern_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Southern_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Southern_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Western_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Western_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_Western_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Sum_Supply_Chain_looping" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Australia_and_New_Zealand" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Caribbean" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Central_America" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Central_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Eastern_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Eastern_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Eastern_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_EU27" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Melanesia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Middle_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Northern_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Northern_America" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Northern_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Rest_of_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Rest_of_Americas" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Rest_of_Asia_Pacific" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Rest_of_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_South_America" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_South_Eastern_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Southern_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Southern_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Southern_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Western_Africa" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Western_Asia" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_Western_Europe" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Sum_Staying_locally" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Arrival_DR_Congo" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Intermediate_Departure_DR_Congo" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\HILDA_V_2_1_Sankey_Prepared_05102024_COD.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="546" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\Sankey_coordinates_COD.xlsx|||`Sheet2$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Sankey_coordinates_COD.xlsx
+Query=`Sheet2$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\Sankey_coordinates_COD.xlsx|||`Sheet2$`" type="V_String" />
+            <Field name="Code" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\5. Graphic visualisation\3. Figure_1\Sankey_coordinates_COD.xlsx|||`Sheet2$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Rank_1" selected="True" rename="Arrival" />
+            <SelectField field="Final_destination_area" selected="True" rename="Arrival_ISO" />
+            <SelectField field="Sum_BR_direct_arrival" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="450" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Rank_2" selected="True" />
+            <SelectField field="Intermediate_Arrival_Australia_and_New_Zealand" selected="True" />
+            <SelectField field="Intermediate_Arrival_Caribbean" selected="True" />
+            <SelectField field="Intermediate_Arrival_Central_America" selected="True" />
+            <SelectField field="Intermediate_Arrival_Central_Asia" selected="True" />
+            <SelectField field="Intermediate_Arrival_Eastern_Africa" selected="True" />
+            <SelectField field="Intermediate_Arrival_Eastern_Asia" selected="True" />
+            <SelectField field="Intermediate_Arrival_Eastern_Europe" selected="True" />
+            <SelectField field="Intermediate_Arrival_Melanesia" selected="True" />
+            <SelectField field="Intermediate_Arrival_Middle_Africa" selected="True" />
+            <SelectField field="Intermediate_Arrival_Northern_Africa" selected="True" />
+            <SelectField field="Intermediate_Arrival_Northern_America" selected="True" />
+            <SelectField field="Intermediate_Arrival_Northern_Europe" selected="True" />
+            <SelectField field="Intermediate_Arrival_Rest_of_Africa" selected="True" />
+            <SelectField field="Intermediate_Arrival_Rest_of_Americas" selected="True" />
+            <SelectField field="Intermediate_Arrival_Rest_of_Asia_Pacific" selected="True" />
+            <SelectField field="Intermediate_Arrival_Rest_of_Europe" selected="True" />
+            <SelectField field="Intermediate_Arrival_EU27" selected="True" />
+            <SelectField field="Intermediate_Arrival_South_America" selected="True" />
+            <SelectField field="Intermediate_Arrival_South_Eastern_Asia" selected="True" />
+            <SelectField field="Intermediate_Arrival_Southern_Africa" selected="True" />
+            <SelectField field="Intermediate_Arrival_Southern_Asia" selected="True" />
+            <SelectField field="Intermediate_Arrival_Southern_Europe" selected="True" />
+            <SelectField field="Intermediate_Arrival_Western_Africa" selected="True" />
+            <SelectField field="Intermediate_Arrival_Western_Asia" selected="True" />
+            <SelectField field="Intermediate_Arrival_Western_Europe" selected="True" />
+            <SelectField field="Intermediate_Arrival_Brazil" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="534" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Rank_2" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Rank_2" selected="False" />
+            <Field field="Intermediate_Arrival_Australia_and_New_Zealand" selected="True" />
+            <Field field="Intermediate_Arrival_Brazil" selected="True" />
+            <Field field="Intermediate_Arrival_Caribbean" selected="True" />
+            <Field field="Intermediate_Arrival_Central_America" selected="True" />
+            <Field field="Intermediate_Arrival_Central_Asia" selected="True" />
+            <Field field="Intermediate_Arrival_Eastern_Africa" selected="True" />
+            <Field field="Intermediate_Arrival_Eastern_Asia" selected="True" />
+            <Field field="Intermediate_Arrival_Eastern_Europe" selected="True" />
+            <Field field="Intermediate_Arrival_Melanesia" selected="True" />
+            <Field field="Intermediate_Arrival_Middle_Africa" selected="True" />
+            <Field field="Intermediate_Arrival_Northern_Africa" selected="True" />
+            <Field field="Intermediate_Arrival_Northern_America" selected="True" />
+            <Field field="Intermediate_Arrival_Northern_Europe" selected="True" />
+            <Field field="Intermediate_Arrival_Rest_of_Africa" selected="True" />
+            <Field field="Intermediate_Arrival_Rest_of_Americas" selected="True" />
+            <Field field="Intermediate_Arrival_Rest_of_Asia_Pacific" selected="True" />
+            <Field field="Intermediate_Arrival_Rest_of_Europe" selected="True" />
+            <Field field="Intermediate_Arrival_EU27" selected="True" />
+            <Field field="Intermediate_Arrival_South_America" selected="True" />
+            <Field field="Intermediate_Arrival_South_Eastern_Asia" selected="True" />
+            <Field field="Intermediate_Arrival_Southern_Africa" selected="True" />
+            <Field field="Intermediate_Arrival_Southern_Asia" selected="True" />
+            <Field field="Intermediate_Arrival_Southern_Europe" selected="True" />
+            <Field field="Intermediate_Arrival_Western_Africa" selected="True" />
+            <Field field="Intermediate_Arrival_Western_Asia" selected="True" />
+            <Field field="Intermediate_Arrival_Western_Europe" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="714" y="618" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Name" selected="False" rename="Right_Name" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="810" y="618" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Code" selected="True" rename="Departure" />
+            <SelectField field="Rank_2" selected="True" rename="Arrival" />
+            <SelectField field="Name" selected="False" />
+            <SelectField field="Value" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1242" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&gt;</Operator>
+            <Field>Value</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-10-05 21:52:09</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>5</Operand>
+              <StartDate>2024-10-05 21:52:09</StartDate>
+              <EndDate>2024-10-05 21:52:09</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Value] &gt; 5</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="36" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="36" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Join" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="True" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Sankey_Figure_1_02052024_IDN</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d475cc61-d541-4305-8174-e34d93f523b7" />
+      <Telemetry>
+        <PreviousWorkflowId value="a8f35a1d-9cc7-4b89-8d8d-36180d477d73" />
+        <OriginWorkflowId value="5a456fb2-6cc7-406d-b6d0-c39ccf5fb47b" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

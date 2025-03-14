@@ -1,0 +1,2625 @@
+,Origin_country,Origin_Sector,Destination_country,value,Transition_country,Year
+0,COD,Growing wheat industry,XAM,6.346558390441631e-08,DJI,2019
+1,COD,Growing maize industry,XAM,0.0,DJI,2019
+2,COD,Growing cereals n.e.c industry,XAM,0.0,DJI,2019
+3,COD,Growing leguminous crops and oil seeds industry,XAM,1.429010858592706e-07,DJI,2019
+4,COD,Growing rice industry,XAM,2.500801108091865e-08,DJI,2019
+5,COD,"Growing vegetables, roots, tubers industry",XAM,2.3479260935693962e-07,DJI,2019
+6,COD,Growing sugar beet and cane industry,XAM,2.7770980595286455e-08,DJI,2019
+7,COD,Growing tobacco industry,XAM,4.655094697266511e-10,DJI,2019
+8,COD,Growing fibre crops industry,XAM,2.9522908661100107e-07,DJI,2019
+9,COD,Growing crops n.e.c. industry,XAM,2.3947259263212697e-07,DJI,2019
+10,COD,Growing grapes industry,XAM,0.0,DJI,2019
+11,COD,Growing fruits and nuts industry,XAM,3.064260527854777e-08,DJI,2019
+12,COD,"Growing beverage crops (coffee, tea etc) industry",XAM,7.978943531183631e-07,DJI,2019
+13,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAM,6.153514680201369e-10,DJI,2019
+14,COD,Seeds and plant propagation industry,XAM,0.0,DJI,2019
+15,COD,Raising of cattle industry,XAM,9.996320023287732e-06,DJI,2019
+16,COD,Growing wheat industry,XEU,2.5929557705288995e-07,DJI,2019
+17,COD,Growing maize industry,XEU,0.0,DJI,2019
+18,COD,Growing cereals n.e.c industry,XEU,0.0,DJI,2019
+19,COD,Growing leguminous crops and oil seeds industry,XEU,5.113509824758091e-07,DJI,2019
+20,COD,Growing rice industry,XEU,1.1370013680631475e-07,DJI,2019
+21,COD,"Growing vegetables, roots, tubers industry",XEU,5.284493527040945e-07,DJI,2019
+22,COD,Growing sugar beet and cane industry,XEU,1.0190349139767283e-07,DJI,2019
+23,COD,Growing tobacco industry,XEU,9.973516120146768e-10,DJI,2019
+24,COD,Growing fibre crops industry,XEU,2.2941676484310402e-07,DJI,2019
+25,COD,Growing crops n.e.c. industry,XEU,8.275466533867776e-07,DJI,2019
+26,COD,Growing grapes industry,XEU,0.0,DJI,2019
+27,COD,Growing fruits and nuts industry,XEU,2.3532053103692356e-08,DJI,2019
+28,COD,"Growing beverage crops (coffee, tea etc) industry",XEU,9.488482531272126e-07,DJI,2019
+29,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XEU,1.070760262322311e-09,DJI,2019
+30,COD,Seeds and plant propagation industry,XEU,0.0,DJI,2019
+31,COD,Raising of cattle industry,XEU,3.0080820661020487e-05,DJI,2019
+32,COD,Growing wheat industry,XAF,6.666748086305838e-08,DJI,2019
+33,COD,Growing maize industry,XAF,0.0,DJI,2019
+34,COD,Growing cereals n.e.c industry,XAF,0.0,DJI,2019
+35,COD,Growing leguminous crops and oil seeds industry,XAF,1.3891183885215778e-07,DJI,2019
+36,COD,Growing rice industry,XAF,2.6246976767889195e-08,DJI,2019
+37,COD,"Growing vegetables, roots, tubers industry",XAF,1.695746728614626e-07,DJI,2019
+38,COD,Growing sugar beet and cane industry,XAF,2.5590662476286314e-08,DJI,2019
+39,COD,Growing tobacco industry,XAF,4.175325165057678e-10,DJI,2019
+40,COD,Growing fibre crops industry,XAF,1.684976785510945e-07,DJI,2019
+41,COD,Growing crops n.e.c. industry,XAF,2.2754273037098337e-07,DJI,2019
+42,COD,Growing grapes industry,XAF,0.0,DJI,2019
+43,COD,Growing fruits and nuts industry,XAF,2.2882729893595847e-08,DJI,2019
+44,COD,"Growing beverage crops (coffee, tea etc) industry",XAF,4.815364139917334e-07,DJI,2019
+45,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAF,4.282223763455514e-10,DJI,2019
+46,COD,Seeds and plant propagation industry,XAF,0.0,DJI,2019
+47,COD,Raising of cattle industry,XAF,1.0559763264453002e-05,DJI,2019
+48,COD,Growing wheat industry,XAS,5.689391311342027e-08,DJI,2019
+49,COD,Growing maize industry,XAS,0.0,DJI,2019
+50,COD,Growing cereals n.e.c industry,XAS,0.0,DJI,2019
+51,COD,Growing leguminous crops and oil seeds industry,XAS,1.3374768512165385e-07,DJI,2019
+52,COD,Growing rice industry,XAS,2.2541631297575687e-08,DJI,2019
+53,COD,"Growing vegetables, roots, tubers industry",XAS,2.706944146109301e-07,DJI,2019
+54,COD,Growing sugar beet and cane industry,XAS,2.5879110577857912e-08,DJI,2019
+55,COD,Growing tobacco industry,XAS,4.232474411742946e-10,DJI,2019
+56,COD,Growing fibre crops industry,XAS,2.451269804284712e-07,DJI,2019
+57,COD,Growing crops n.e.c. industry,XAS,2.1912587424496295e-07,DJI,2019
+58,COD,Growing grapes industry,XAS,0.0,DJI,2019
+59,COD,Growing fruits and nuts industry,XAS,7.255305797767563e-08,DJI,2019
+60,COD,"Growing beverage crops (coffee, tea etc) industry",XAS,8.636221206877181e-07,DJI,2019
+61,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",XAS,7.246056150843608e-10,DJI,2019
+62,COD,Seeds and plant propagation industry,XAS,0.0,DJI,2019
+63,COD,Raising of cattle industry,XAS,8.288230495675868e-06,DJI,2019
+64,COD,Growing wheat industry,AFG,5.737257323903338e-08,DJI,2019
+65,COD,Growing maize industry,AFG,0.0,DJI,2019
+66,COD,Growing cereals n.e.c industry,AFG,0.0,DJI,2019
+67,COD,Growing leguminous crops and oil seeds industry,AFG,1.201499561889628e-07,DJI,2019
+68,COD,Growing rice industry,AFG,2.3645672045751373e-08,DJI,2019
+69,COD,"Growing vegetables, roots, tubers industry",AFG,1.5718577313748468e-07,DJI,2019
+70,COD,Growing sugar beet and cane industry,AFG,2.2409527563730974e-08,DJI,2019
+71,COD,Growing tobacco industry,AFG,3.0642313644709413e-10,DJI,2019
+72,COD,Growing fibre crops industry,AFG,1.3032885860658413e-07,DJI,2019
+73,COD,Growing crops n.e.c. industry,AFG,1.9465615008106246e-07,DJI,2019
+74,COD,Growing grapes industry,AFG,0.0,DJI,2019
+75,COD,Growing fruits and nuts industry,AFG,1.911956725084974e-08,DJI,2019
+76,COD,"Growing beverage crops (coffee, tea etc) industry",AFG,5.460789100683031e-07,DJI,2019
+77,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AFG,4.252208609331422e-10,DJI,2019
+78,COD,Seeds and plant propagation industry,AFG,0.0,DJI,2019
+79,COD,Raising of cattle industry,AFG,7.085972429896734e-06,DJI,2019
+80,COD,Growing wheat industry,AGO,3.9605197635340943e-07,DJI,2019
+81,COD,Growing maize industry,AGO,0.0,DJI,2019
+82,COD,Growing cereals n.e.c industry,AGO,0.0,DJI,2019
+83,COD,Growing leguminous crops and oil seeds industry,AGO,9.64030827834473e-07,DJI,2019
+84,COD,Growing rice industry,AGO,1.5068361671352728e-07,DJI,2019
+85,COD,"Growing vegetables, roots, tubers industry",AGO,2.0959758470530946e-06,DJI,2019
+86,COD,Growing sugar beet and cane industry,AGO,2.0400674812973082e-07,DJI,2019
+87,COD,Growing tobacco industry,AGO,2.590229185551334e-09,DJI,2019
+88,COD,Growing fibre crops industry,AGO,4.408781123399087e-06,DJI,2019
+89,COD,Growing crops n.e.c. industry,AGO,1.457994055919692e-06,DJI,2019
+90,COD,Growing grapes industry,AGO,0.0,DJI,2019
+91,COD,Growing fruits and nuts industry,AGO,3.191765652105297e-07,DJI,2019
+92,COD,"Growing beverage crops (coffee, tea etc) industry",AGO,4.224474418243576e-06,DJI,2019
+93,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AGO,5.671243285871032e-09,DJI,2019
+94,COD,Seeds and plant propagation industry,AGO,0.0,DJI,2019
+95,COD,Raising of cattle industry,AGO,4.805774367204641e-05,DJI,2019
+96,COD,Growing wheat industry,ALB,1.4481497287872184e-08,DJI,2019
+97,COD,Growing maize industry,ALB,0.0,DJI,2019
+98,COD,Growing cereals n.e.c industry,ALB,0.0,DJI,2019
+99,COD,Growing leguminous crops and oil seeds industry,ALB,3.1348561292478294e-08,DJI,2019
+100,COD,Growing rice industry,ALB,5.829946803959885e-09,DJI,2019
+101,COD,"Growing vegetables, roots, tubers industry",ALB,4.671222851193554e-08,DJI,2019
+102,COD,Growing sugar beet and cane industry,ALB,6.1392001002161536e-09,DJI,2019
+103,COD,Growing tobacco industry,ALB,8.885664532111932e-11,DJI,2019
+104,COD,Growing fibre crops industry,ALB,6.471997570892645e-08,DJI,2019
+105,COD,Growing crops n.e.c. industry,ALB,5.4779797777836506e-08,DJI,2019
+106,COD,Growing grapes industry,ALB,0.0,DJI,2019
+107,COD,Growing fruits and nuts industry,ALB,7.769343866907876e-09,DJI,2019
+108,COD,"Growing beverage crops (coffee, tea etc) industry",ALB,1.483766207196469e-07,DJI,2019
+109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ALB,1.2030466355642754e-10,DJI,2019
+110,COD,Seeds and plant propagation industry,ALB,0.0,DJI,2019
+111,COD,Raising of cattle industry,ALB,1.9508476796698958e-06,DJI,2019
+112,COD,Growing wheat industry,ARE,2.094724265625465e-06,DJI,2019
+113,COD,Growing maize industry,ARE,0.0,DJI,2019
+114,COD,Growing cereals n.e.c industry,ARE,0.0,DJI,2019
+115,COD,Growing leguminous crops and oil seeds industry,ARE,5.396773293462665e-06,DJI,2019
+116,COD,Growing rice industry,ARE,7.508648565564966e-07,DJI,2019
+117,COD,"Growing vegetables, roots, tubers industry",ARE,1.445805583086183e-05,DJI,2019
+118,COD,Growing sugar beet and cane industry,ARE,1.0548078662191513e-06,DJI,2019
+119,COD,Growing tobacco industry,ARE,2.0670102877834564e-08,DJI,2019
+120,COD,Growing fibre crops industry,ARE,1.3828259898436398e-05,DJI,2019
+121,COD,Growing crops n.e.c. industry,ARE,7.871170093733004e-06,DJI,2019
+122,COD,Growing grapes industry,ARE,0.0,DJI,2019
+123,COD,Growing fruits and nuts industry,ARE,2.6858949536338748e-06,DJI,2019
+124,COD,"Growing beverage crops (coffee, tea etc) industry",ARE,7.219129854172662e-05,DJI,2019
+125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARE,4.902939434598078e-08,DJI,2019
+126,COD,Seeds and plant propagation industry,ARE,0.0,DJI,2019
+127,COD,Raising of cattle industry,ARE,0.00024709062055943077,DJI,2019
+128,COD,Growing wheat industry,ARG,1.6726156797937072e-07,DJI,2019
+129,COD,Growing maize industry,ARG,0.0,DJI,2019
+130,COD,Growing cereals n.e.c industry,ARG,0.0,DJI,2019
+131,COD,Growing leguminous crops and oil seeds industry,ARG,3.990529165541901e-07,DJI,2019
+132,COD,Growing rice industry,ARG,6.390792464768318e-08,DJI,2019
+133,COD,"Growing vegetables, roots, tubers industry",ARG,7.839071695046775e-07,DJI,2019
+134,COD,Growing sugar beet and cane industry,ARG,8.316920706001929e-08,DJI,2019
+135,COD,Growing tobacco industry,ARG,1.4060163482905636e-09,DJI,2019
+136,COD,Growing fibre crops industry,ARG,3.5411660310103124e-06,DJI,2019
+137,COD,Growing crops n.e.c. industry,ARG,6.499903367212406e-07,DJI,2019
+138,COD,Growing grapes industry,ARG,0.0,DJI,2019
+139,COD,Growing fruits and nuts industry,ARG,1.5418869652916656e-07,DJI,2019
+140,COD,"Growing beverage crops (coffee, tea etc) industry",ARG,1.8002594191338753e-06,DJI,2019
+141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARG,1.9444326342641702e-09,DJI,2019
+142,COD,Seeds and plant propagation industry,ARG,0.0,DJI,2019
+143,COD,Raising of cattle industry,ARG,2.6763564668684313e-05,DJI,2019
+144,COD,Growing wheat industry,ARM,2.8347229470175964e-08,DJI,2019
+145,COD,Growing maize industry,ARM,0.0,DJI,2019
+146,COD,Growing cereals n.e.c industry,ARM,0.0,DJI,2019
+147,COD,Growing leguminous crops and oil seeds industry,ARM,6.369525265125733e-08,DJI,2019
+148,COD,Growing rice industry,ARM,1.1310137312988796e-08,DJI,2019
+149,COD,"Growing vegetables, roots, tubers industry",ARM,1.1086844532368464e-07,DJI,2019
+150,COD,Growing sugar beet and cane industry,ARM,1.217926216610063e-08,DJI,2019
+151,COD,Growing tobacco industry,ARM,2.021808455123909e-10,DJI,2019
+152,COD,Growing fibre crops industry,ARM,9.326533320589982e-08,DJI,2019
+153,COD,Growing crops n.e.c. industry,ARM,1.0810682642408352e-07,DJI,2019
+154,COD,Growing grapes industry,ARM,0.0,DJI,2019
+155,COD,Growing fruits and nuts industry,ARM,2.0610282603597403e-08,DJI,2019
+156,COD,"Growing beverage crops (coffee, tea etc) industry",ARM,3.1541710820696715e-07,DJI,2019
+157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ARM,2.767717172767122e-10,DJI,2019
+158,COD,Seeds and plant propagation industry,ARM,0.0,DJI,2019
+159,COD,Raising of cattle industry,ARM,4.509267053407252e-06,DJI,2019
+160,COD,Growing wheat industry,AUS,1.7588856484129657e-06,DJI,2019
+161,COD,Growing maize industry,AUS,0.0,DJI,2019
+162,COD,Growing cereals n.e.c industry,AUS,0.0,DJI,2019
+163,COD,Growing leguminous crops and oil seeds industry,AUS,3.836359545512952e-06,DJI,2019
+164,COD,Growing rice industry,AUS,6.935340243183648e-07,DJI,2019
+165,COD,"Growing vegetables, roots, tubers industry",AUS,5.72465459011626e-06,DJI,2019
+166,COD,Growing sugar beet and cane industry,AUS,7.061867857841974e-07,DJI,2019
+167,COD,Growing tobacco industry,AUS,1.2167594811117501e-08,DJI,2019
+168,COD,Growing fibre crops industry,AUS,6.891740613316217e-06,DJI,2019
+169,COD,Growing crops n.e.c. industry,AUS,6.113014603167208e-06,DJI,2019
+170,COD,Growing grapes industry,AUS,0.0,DJI,2019
+171,COD,Growing fruits and nuts industry,AUS,8.560109583014124e-07,DJI,2019
+172,COD,"Growing beverage crops (coffee, tea etc) industry",AUS,2.4109710912099817e-05,DJI,2019
+173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUS,1.6589496612286018e-08,DJI,2019
+174,COD,Seeds and plant propagation industry,AUS,0.0,DJI,2019
+175,COD,Raising of cattle industry,AUS,0.000258332824353772,DJI,2019
+176,COD,Growing wheat industry,AUT,4.0223546626504566e-07,DJI,2019
+177,COD,Growing maize industry,AUT,0.0,DJI,2019
+178,COD,Growing cereals n.e.c industry,AUT,0.0,DJI,2019
+179,COD,Growing leguminous crops and oil seeds industry,AUT,9.212507898780623e-07,DJI,2019
+180,COD,Growing rice industry,AUT,1.5313309687568148e-07,DJI,2019
+181,COD,"Growing vegetables, roots, tubers industry",AUT,1.6992987876726682e-06,DJI,2019
+182,COD,Growing sugar beet and cane industry,AUT,1.8584403194918638e-07,DJI,2019
+183,COD,Growing tobacco industry,AUT,3.072870587337749e-09,DJI,2019
+184,COD,Growing fibre crops industry,AUT,2.1270351599444272e-06,DJI,2019
+185,COD,Growing crops n.e.c. industry,AUT,1.607925681629864e-06,DJI,2019
+186,COD,Growing grapes industry,AUT,0.0,DJI,2019
+187,COD,Growing fruits and nuts industry,AUT,1.8907135275228156e-07,DJI,2019
+188,COD,"Growing beverage crops (coffee, tea etc) industry",AUT,6.085930039042999e-06,DJI,2019
+189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AUT,4.50762121980688e-09,DJI,2019
+190,COD,Seeds and plant propagation industry,AUT,0.0,DJI,2019
+191,COD,Raising of cattle industry,AUT,6.0760171393627434e-05,DJI,2019
+192,COD,Growing wheat industry,AZE,1.3481754812189192e-06,DJI,2019
+193,COD,Growing maize industry,AZE,0.0,DJI,2019
+194,COD,Growing cereals n.e.c industry,AZE,0.0,DJI,2019
+195,COD,Growing leguminous crops and oil seeds industry,AZE,2.5228132248210273e-06,DJI,2019
+196,COD,Growing rice industry,AZE,5.79401517169145e-07,DJI,2019
+197,COD,"Growing vegetables, roots, tubers industry",AZE,1.0506412807417558e-06,DJI,2019
+198,COD,Growing sugar beet and cane industry,AZE,4.2826464149092605e-07,DJI,2019
+199,COD,Growing tobacco industry,AZE,4.339432185795544e-09,DJI,2019
+200,COD,Growing fibre crops industry,AZE,3.2451793617005285e-07,DJI,2019
+201,COD,Growing crops n.e.c. industry,AZE,4.097481055359427e-06,DJI,2019
+202,COD,Growing grapes industry,AZE,0.0,DJI,2019
+203,COD,Growing fruits and nuts industry,AZE,4.877322788143252e-08,DJI,2019
+204,COD,"Growing beverage crops (coffee, tea etc) industry",AZE,1.0946729110656054e-06,DJI,2019
+205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",AZE,1.9868003356770103e-09,DJI,2019
+206,COD,Seeds and plant propagation industry,AZE,0.0,DJI,2019
+207,COD,Raising of cattle industry,AZE,0.00014829334759661154,DJI,2019
+208,COD,Growing wheat industry,BDI,2.0957129019861217e-08,DJI,2019
+209,COD,Growing maize industry,BDI,0.0,DJI,2019
+210,COD,Growing cereals n.e.c industry,BDI,0.0,DJI,2019
+211,COD,Growing leguminous crops and oil seeds industry,BDI,4.3864321431097784e-08,DJI,2019
+212,COD,Growing rice industry,BDI,8.535846041025028e-09,DJI,2019
+213,COD,"Growing vegetables, roots, tubers industry",BDI,6.229736481730849e-08,DJI,2019
+214,COD,Growing sugar beet and cane industry,BDI,8.030733548853084e-09,DJI,2019
+215,COD,Growing tobacco industry,BDI,1.2421009801716332e-10,DJI,2019
+216,COD,Growing fibre crops industry,BDI,3.2881615053007126e-08,DJI,2019
+217,COD,Growing crops n.e.c. industry,BDI,6.910280242373333e-08,DJI,2019
+218,COD,Growing grapes industry,BDI,0.0,DJI,2019
+219,COD,Growing fruits and nuts industry,BDI,6.775580502932937e-09,DJI,2019
+220,COD,"Growing beverage crops (coffee, tea etc) industry",BDI,3.3356764088300787e-07,DJI,2019
+221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BDI,2.0308181505714012e-10,DJI,2019
+222,COD,Seeds and plant propagation industry,BDI,0.0,DJI,2019
+223,COD,Raising of cattle industry,BDI,2.3666887482868663e-06,DJI,2019
+224,COD,Growing wheat industry,BEL,1.2094113678945963e-05,DJI,2019
+225,COD,Growing maize industry,BEL,0.0,DJI,2019
+226,COD,Growing cereals n.e.c industry,BEL,0.0,DJI,2019
+227,COD,Growing leguminous crops and oil seeds industry,BEL,2.329253900570882e-05,DJI,2019
+228,COD,Growing rice industry,BEL,4.4413410448533615e-06,DJI,2019
+229,COD,"Growing vegetables, roots, tubers industry",BEL,1.5353065196563165e-05,DJI,2019
+230,COD,Growing sugar beet and cane industry,BEL,4.0067109833523655e-06,DJI,2019
+231,COD,Growing tobacco industry,BEL,7.844589923638345e-08,DJI,2019
+232,COD,Growing fibre crops industry,BEL,2.3687649536063206e-05,DJI,2019
+233,COD,Growing crops n.e.c. industry,BEL,3.7081358556181246e-05,DJI,2019
+234,COD,Growing grapes industry,BEL,0.0,DJI,2019
+235,COD,Growing fruits and nuts industry,BEL,1.2642714509157046e-06,DJI,2019
+236,COD,"Growing beverage crops (coffee, tea etc) industry",BEL,3.126905922086096e-05,DJI,2019
+237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEL,3.338485442343325e-08,DJI,2019
+238,COD,Seeds and plant propagation industry,BEL,0.0,DJI,2019
+239,COD,Raising of cattle industry,BEL,0.0023106916266891504,DJI,2019
+240,COD,Growing wheat industry,BEN,2.0461129560221318e-07,DJI,2019
+241,COD,Growing maize industry,BEN,0.0,DJI,2019
+242,COD,Growing cereals n.e.c industry,BEN,0.0,DJI,2019
+243,COD,Growing leguminous crops and oil seeds industry,BEN,3.989653024061451e-07,DJI,2019
+244,COD,Growing rice industry,BEN,8.824481104463347e-08,DJI,2019
+245,COD,"Growing vegetables, roots, tubers industry",BEN,3.4435749448321785e-07,DJI,2019
+246,COD,Growing sugar beet and cane industry,BEN,7.110318520857475e-08,DJI,2019
+247,COD,Growing tobacco industry,BEN,8.575379084036025e-10,DJI,2019
+248,COD,Growing fibre crops industry,BEN,1.2274783740885256e-07,DJI,2019
+249,COD,Growing crops n.e.c. industry,BEN,6.412704271493789e-07,DJI,2019
+250,COD,Growing grapes industry,BEN,0.0,DJI,2019
+251,COD,Growing fruits and nuts industry,BEN,1.5604200801994938e-08,DJI,2019
+252,COD,"Growing beverage crops (coffee, tea etc) industry",BEN,8.563360597033568e-07,DJI,2019
+253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BEN,6.89000022117393e-10,DJI,2019
+254,COD,Seeds and plant propagation industry,BEN,0.0,DJI,2019
+255,COD,Raising of cattle industry,BEN,2.4966421743554675e-05,DJI,2019
+256,COD,Growing wheat industry,BFA,1.4819963249160718e-08,DJI,2019
+257,COD,Growing maize industry,BFA,0.0,DJI,2019
+258,COD,Growing cereals n.e.c industry,BFA,0.0,DJI,2019
+259,COD,Growing leguminous crops and oil seeds industry,BFA,3.1551342200777605e-08,DJI,2019
+260,COD,Growing rice industry,BFA,6.000153212347902e-09,DJI,2019
+261,COD,"Growing vegetables, roots, tubers industry",BFA,4.3451658141868074e-08,DJI,2019
+262,COD,Growing sugar beet and cane industry,BFA,5.998414889503663e-09,DJI,2019
+263,COD,Growing tobacco industry,BFA,8.956860477633032e-11,DJI,2019
+264,COD,Growing fibre crops industry,BFA,4.59691832179077e-08,DJI,2019
+265,COD,Growing crops n.e.c. industry,BFA,5.177325480268654e-08,DJI,2019
+266,COD,Growing grapes industry,BFA,0.0,DJI,2019
+267,COD,Growing fruits and nuts industry,BFA,5.477172393905363e-09,DJI,2019
+268,COD,"Growing beverage crops (coffee, tea etc) industry",BFA,1.4627599219050912e-07,DJI,2019
+269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BFA,1.17045897407002e-10,DJI,2019
+270,COD,Seeds and plant propagation industry,BFA,0.0,DJI,2019
+271,COD,Raising of cattle industry,BFA,1.980513603664456e-06,DJI,2019
+272,COD,Growing wheat industry,BGD,1.018386617269584e-06,DJI,2019
+273,COD,Growing maize industry,BGD,0.0,DJI,2019
+274,COD,Growing cereals n.e.c industry,BGD,0.0,DJI,2019
+275,COD,Growing leguminous crops and oil seeds industry,BGD,2.0663753008324915e-06,DJI,2019
+276,COD,Growing rice industry,BGD,4.242086121534385e-07,DJI,2019
+277,COD,"Growing vegetables, roots, tubers industry",BGD,2.5116029327193777e-06,DJI,2019
+278,COD,Growing sugar beet and cane industry,BGD,3.748560814053309e-07,DJI,2019
+279,COD,Growing tobacco industry,BGD,6.061978543271729e-09,DJI,2019
+280,COD,Growing fibre crops industry,BGD,1.0923653541274975e-06,DJI,2019
+281,COD,Growing crops n.e.c. industry,BGD,3.281970095791925e-06,DJI,2019
+282,COD,Growing grapes industry,BGD,0.0,DJI,2019
+283,COD,Growing fruits and nuts industry,BGD,1.5503738537722425e-07,DJI,2019
+284,COD,"Growing beverage crops (coffee, tea etc) industry",BGD,6.120700800831167e-06,DJI,2019
+285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGD,5.485628001663618e-09,DJI,2019
+286,COD,Seeds and plant propagation industry,BGD,0.0,DJI,2019
+287,COD,Raising of cattle industry,BGD,0.00016218092339680514,DJI,2019
+288,COD,Growing wheat industry,BGR,7.524253832169033e-08,DJI,2019
+289,COD,Growing maize industry,BGR,0.0,DJI,2019
+290,COD,Growing cereals n.e.c industry,BGR,0.0,DJI,2019
+291,COD,Growing leguminous crops and oil seeds industry,BGR,1.684707100891157e-07,DJI,2019
+292,COD,Growing rice industry,BGR,2.9365545274359848e-08,DJI,2019
+293,COD,"Growing vegetables, roots, tubers industry",BGR,2.86454957328873e-07,DJI,2019
+294,COD,Growing sugar beet and cane industry,BGR,3.386888516676333e-08,DJI,2019
+295,COD,Growing tobacco industry,BGR,5.133097527555815e-10,DJI,2019
+296,COD,Growing fibre crops industry,BGR,5.100642692904236e-07,DJI,2019
+297,COD,Growing crops n.e.c. industry,BGR,2.87508366000246e-07,DJI,2019
+298,COD,Growing grapes industry,BGR,0.0,DJI,2019
+299,COD,Growing fruits and nuts industry,BGR,3.3959215364782976e-08,DJI,2019
+300,COD,"Growing beverage crops (coffee, tea etc) industry",BGR,1.0016847262807056e-06,DJI,2019
+301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BGR,7.649577069311127e-10,DJI,2019
+302,COD,Seeds and plant propagation industry,BGR,0.0,DJI,2019
+303,COD,Raising of cattle industry,BGR,1.044835748646763e-05,DJI,2019
+304,COD,Growing wheat industry,BHR,1.7150222117638765e-07,DJI,2019
+305,COD,Growing maize industry,BHR,0.0,DJI,2019
+306,COD,Growing cereals n.e.c industry,BHR,0.0,DJI,2019
+307,COD,Growing leguminous crops and oil seeds industry,BHR,5.076019575863092e-07,DJI,2019
+308,COD,Growing rice industry,BHR,6.182455198269815e-08,DJI,2019
+309,COD,"Growing vegetables, roots, tubers industry",BHR,1.5249146012400285e-06,DJI,2019
+310,COD,Growing sugar beet and cane industry,BHR,9.857435494486828e-08,DJI,2019
+311,COD,Growing tobacco industry,BHR,1.5612518210497664e-09,DJI,2019
+312,COD,Growing fibre crops industry,BHR,1.1783394520407893e-06,DJI,2019
+313,COD,Growing crops n.e.c. industry,BHR,7.790544988717159e-07,DJI,2019
+314,COD,Growing grapes industry,BHR,0.0,DJI,2019
+315,COD,Growing fruits and nuts industry,BHR,4.481712698058624e-07,DJI,2019
+316,COD,"Growing beverage crops (coffee, tea etc) industry",BHR,2.708345355181385e-06,DJI,2019
+317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHR,3.643037311341716e-09,DJI,2019
+318,COD,Seeds and plant propagation industry,BHR,0.0,DJI,2019
+319,COD,Raising of cattle industry,BHR,2.7330596494558673e-05,DJI,2019
+320,COD,Growing wheat industry,BHS,8.333801740389593e-09,DJI,2019
+321,COD,Growing maize industry,BHS,0.0,DJI,2019
+322,COD,Growing cereals n.e.c industry,BHS,0.0,DJI,2019
+323,COD,Growing leguminous crops and oil seeds industry,BHS,1.9354144377301e-08,DJI,2019
+324,COD,Growing rice industry,BHS,3.236995548447308e-09,DJI,2019
+325,COD,"Growing vegetables, roots, tubers industry",BHS,3.15184552571198e-08,DJI,2019
+326,COD,Growing sugar beet and cane industry,BHS,3.928226000780677e-09,DJI,2019
+327,COD,Growing tobacco industry,BHS,5.858402035293328e-11,DJI,2019
+328,COD,Growing fibre crops industry,BHS,5.4730379250871266e-08,DJI,2019
+329,COD,Growing crops n.e.c. industry,BHS,3.4068635935568965e-08,DJI,2019
+330,COD,Growing grapes industry,BHS,0.0,DJI,2019
+331,COD,Growing fruits and nuts industry,BHS,4.560592624960587e-09,DJI,2019
+332,COD,"Growing beverage crops (coffee, tea etc) industry",BHS,1.121137218801322e-07,DJI,2019
+333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BHS,9.133326319135214e-11,DJI,2019
+334,COD,Seeds and plant propagation industry,BHS,0.0,DJI,2019
+335,COD,Raising of cattle industry,BHS,1.1860097337717302e-06,DJI,2019
+336,COD,Growing wheat industry,BIH,2.259337012664516e-08,DJI,2019
+337,COD,Growing maize industry,BIH,0.0,DJI,2019
+338,COD,Growing cereals n.e.c industry,BIH,0.0,DJI,2019
+339,COD,Growing leguminous crops and oil seeds industry,BIH,4.7082537438256495e-08,DJI,2019
+340,COD,Growing rice industry,BIH,9.120630334495442e-09,DJI,2019
+341,COD,"Growing vegetables, roots, tubers industry",BIH,6.016737716442759e-08,DJI,2019
+342,COD,Growing sugar beet and cane industry,BIH,9.234830645838813e-09,DJI,2019
+343,COD,Growing tobacco industry,BIH,1.2764623900149384e-10,DJI,2019
+344,COD,Growing fibre crops industry,BIH,7.146934736569163e-08,DJI,2019
+345,COD,Growing crops n.e.c. industry,BIH,8.350038090216427e-08,DJI,2019
+346,COD,Growing grapes industry,BIH,0.0,DJI,2019
+347,COD,Growing fruits and nuts industry,BIH,6.352521247621016e-09,DJI,2019
+348,COD,"Growing beverage crops (coffee, tea etc) industry",BIH,2.0499904422795766e-07,DJI,2019
+349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BIH,1.572650530280381e-10,DJI,2019
+350,COD,Seeds and plant propagation industry,BIH,0.0,DJI,2019
+351,COD,Raising of cattle industry,BIH,2.927546041770708e-06,DJI,2019
+352,COD,Growing wheat industry,BLR,1.1206936758233893e-07,DJI,2019
+353,COD,Growing maize industry,BLR,0.0,DJI,2019
+354,COD,Growing cereals n.e.c industry,BLR,0.0,DJI,2019
+355,COD,Growing leguminous crops and oil seeds industry,BLR,2.7478767434994083e-07,DJI,2019
+356,COD,Growing rice industry,BLR,4.38170626966606e-08,DJI,2019
+357,COD,"Growing vegetables, roots, tubers industry",BLR,6.304389615297845e-07,DJI,2019
+358,COD,Growing sugar beet and cane industry,BLR,5.380984642438999e-08,DJI,2019
+359,COD,Growing tobacco industry,BLR,9.077998739654035e-10,DJI,2019
+360,COD,Growing fibre crops industry,BLR,4.7172144445051553e-07,DJI,2019
+361,COD,Growing crops n.e.c. industry,BLR,4.77221695955252e-07,DJI,2019
+362,COD,Growing grapes industry,BLR,0.0,DJI,2019
+363,COD,Growing fruits and nuts industry,BLR,1.433147480605101e-07,DJI,2019
+364,COD,"Growing beverage crops (coffee, tea etc) industry",BLR,1.5403587815036606e-06,DJI,2019
+365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLR,1.5509215309341672e-09,DJI,2019
+366,COD,Seeds and plant propagation industry,BLR,0.0,DJI,2019
+367,COD,Raising of cattle industry,BLR,1.861060094733288e-05,DJI,2019
+368,COD,Growing wheat industry,BLZ,3.664525560853268e-09,DJI,2019
+369,COD,Growing maize industry,BLZ,0.0,DJI,2019
+370,COD,Growing cereals n.e.c industry,BLZ,0.0,DJI,2019
+371,COD,Growing leguminous crops and oil seeds industry,BLZ,7.628762411052262e-09,DJI,2019
+372,COD,Growing rice industry,BLZ,1.5276261929565652e-09,DJI,2019
+373,COD,"Growing vegetables, roots, tubers industry",BLZ,9.375673446097911e-09,DJI,2019
+374,COD,Growing sugar beet and cane industry,BLZ,1.4813961508348489e-09,DJI,2019
+375,COD,Growing tobacco industry,BLZ,1.7986292588794817e-11,DJI,2019
+376,COD,Growing fibre crops industry,BLZ,7.992910261859338e-09,DJI,2019
+377,COD,Growing crops n.e.c. industry,BLZ,1.2898282826226663e-08,DJI,2019
+378,COD,Growing grapes industry,BLZ,0.0,DJI,2019
+379,COD,Growing fruits and nuts industry,BLZ,1.926560075262454e-09,DJI,2019
+380,COD,"Growing beverage crops (coffee, tea etc) industry",BLZ,2.6082178165996278e-08,DJI,2019
+381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BLZ,2.33947826835531e-11,DJI,2019
+382,COD,Seeds and plant propagation industry,BLZ,0.0,DJI,2019
+383,COD,Raising of cattle industry,BLZ,4.459670018527005e-07,DJI,2019
+384,COD,Growing wheat industry,BOL,2.170162935513364e-07,DJI,2019
+385,COD,Growing maize industry,BOL,0.0,DJI,2019
+386,COD,Growing cereals n.e.c industry,BOL,0.0,DJI,2019
+387,COD,Growing leguminous crops and oil seeds industry,BOL,4.1743577533261897e-07,DJI,2019
+388,COD,Growing rice industry,BOL,9.390691732560774e-08,DJI,2019
+389,COD,"Growing vegetables, roots, tubers industry",BOL,3.253605252878592e-07,DJI,2019
+390,COD,Growing sugar beet and cane industry,BOL,7.448227624310685e-08,DJI,2019
+391,COD,Growing tobacco industry,BOL,8.631415028714382e-10,DJI,2019
+392,COD,Growing fibre crops industry,BOL,8.868675938316424e-08,DJI,2019
+393,COD,Growing crops n.e.c. industry,BOL,6.745595263320813e-07,DJI,2019
+394,COD,Growing grapes industry,BOL,0.0,DJI,2019
+395,COD,Growing fruits and nuts industry,BOL,1.2408224591020883e-08,DJI,2019
+396,COD,"Growing beverage crops (coffee, tea etc) industry",BOL,6.708734405410894e-07,DJI,2019
+397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BOL,6.085283751814622e-10,DJI,2019
+398,COD,Seeds and plant propagation industry,BOL,0.0,DJI,2019
+399,COD,Raising of cattle industry,BOL,2.6397551730583985e-05,DJI,2019
+400,COD,Growing wheat industry,BRA,6.644652156697454e-07,DJI,2019
+401,COD,Growing maize industry,BRA,0.0,DJI,2019
+402,COD,Growing cereals n.e.c industry,BRA,0.0,DJI,2019
+403,COD,Growing leguminous crops and oil seeds industry,BRA,1.663057365932499e-06,DJI,2019
+404,COD,Growing rice industry,BRA,2.490921553774024e-07,DJI,2019
+405,COD,"Growing vegetables, roots, tubers industry",BRA,3.4864295310855925e-06,DJI,2019
+406,COD,Growing sugar beet and cane industry,BRA,3.2443134893906696e-07,DJI,2019
+407,COD,Growing tobacco industry,BRA,5.165037206916287e-09,DJI,2019
+408,COD,Growing fibre crops industry,BRA,2.966858779513568e-06,DJI,2019
+409,COD,Growing crops n.e.c. industry,BRA,2.755915026350577e-06,DJI,2019
+410,COD,Growing grapes industry,BRA,0.0,DJI,2019
+411,COD,Growing fruits and nuts industry,BRA,7.323162702823465e-07,DJI,2019
+412,COD,"Growing beverage crops (coffee, tea etc) industry",BRA,8.045821405854184e-06,DJI,2019
+413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRA,8.613130341410947e-09,DJI,2019
+414,COD,Seeds and plant propagation industry,BRA,0.0,DJI,2019
+415,COD,Raising of cattle industry,BRA,0.00010900045877134914,DJI,2019
+416,COD,Growing wheat industry,BRN,3.163501508531708e-08,DJI,2019
+417,COD,Growing maize industry,BRN,0.0,DJI,2019
+418,COD,Growing cereals n.e.c industry,BRN,0.0,DJI,2019
+419,COD,Growing leguminous crops and oil seeds industry,BRN,7.570870527441892e-08,DJI,2019
+420,COD,Growing rice industry,BRN,1.2415703459602386e-08,DJI,2019
+421,COD,"Growing vegetables, roots, tubers industry",BRN,1.8263757857059787e-07,DJI,2019
+422,COD,Growing sugar beet and cane industry,BRN,1.425175683000452e-08,DJI,2019
+423,COD,Growing tobacco industry,BRN,2.5614504356938187e-10,DJI,2019
+424,COD,Growing fibre crops industry,BRN,2.5144861397823924e-07,DJI,2019
+425,COD,Growing crops n.e.c. industry,BRN,1.1268324491122202e-07,DJI,2019
+426,COD,Growing grapes industry,BRN,0.0,DJI,2019
+427,COD,Growing fruits and nuts industry,BRN,1.7504706147112655e-08,DJI,2019
+428,COD,"Growing beverage crops (coffee, tea etc) industry",BRN,7.339495246004432e-07,DJI,2019
+429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BRN,4.269881644446056e-10,DJI,2019
+430,COD,Seeds and plant propagation industry,BRN,0.0,DJI,2019
+431,COD,Raising of cattle industry,BRN,5.003851192338236e-06,DJI,2019
+432,COD,Growing wheat industry,BTN,1.1309410476723929e-08,DJI,2019
+433,COD,Growing maize industry,BTN,0.0,DJI,2019
+434,COD,Growing cereals n.e.c industry,BTN,0.0,DJI,2019
+435,COD,Growing leguminous crops and oil seeds industry,BTN,2.2859198381744213e-08,DJI,2019
+436,COD,Growing rice industry,BTN,4.710626871837907e-09,DJI,2019
+437,COD,"Growing vegetables, roots, tubers industry",BTN,2.3019238394692772e-08,DJI,2019
+438,COD,Growing sugar beet and cane industry,BTN,4.580229867469247e-09,DJI,2019
+439,COD,Growing tobacco industry,BTN,5.711152196465447e-11,DJI,2019
+440,COD,Growing fibre crops industry,BTN,1.4815390358572245e-08,DJI,2019
+441,COD,Growing crops n.e.c. industry,BTN,4.346298519649272e-08,DJI,2019
+442,COD,Growing grapes industry,BTN,0.0,DJI,2019
+443,COD,Growing fruits and nuts industry,BTN,1.7374336291974283e-09,DJI,2019
+444,COD,"Growing beverage crops (coffee, tea etc) industry",BTN,5.159923381652559e-08,DJI,2019
+445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BTN,5.073360366709088e-11,DJI,2019
+446,COD,Seeds and plant propagation industry,BTN,0.0,DJI,2019
+447,COD,Raising of cattle industry,BTN,1.5875932968444816e-06,DJI,2019
+448,COD,Growing wheat industry,BWA,2.3701435781859153e-08,DJI,2019
+449,COD,Growing maize industry,BWA,0.0,DJI,2019
+450,COD,Growing cereals n.e.c industry,BWA,0.0,DJI,2019
+451,COD,Growing leguminous crops and oil seeds industry,BWA,5.040055769094058e-08,DJI,2019
+452,COD,Growing rice industry,BWA,9.633401936537302e-09,DJI,2019
+453,COD,"Growing vegetables, roots, tubers industry",BWA,6.868511531072323e-08,DJI,2019
+454,COD,Growing sugar beet and cane industry,BWA,9.575947839106375e-09,DJI,2019
+455,COD,Growing tobacco industry,BWA,1.328203484425585e-10,DJI,2019
+456,COD,Growing fibre crops industry,BWA,9.138148188175821e-08,DJI,2019
+457,COD,Growing crops n.e.c. industry,BWA,8.362026988154214e-08,DJI,2019
+458,COD,Growing grapes industry,BWA,0.0,DJI,2019
+459,COD,Growing fruits and nuts industry,BWA,9.637327566636643e-09,DJI,2019
+460,COD,"Growing beverage crops (coffee, tea etc) industry",BWA,1.9394098260654895e-07,DJI,2019
+461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",BWA,1.7949791674797436e-10,DJI,2019
+462,COD,Seeds and plant propagation industry,BWA,0.0,DJI,2019
+463,COD,Raising of cattle industry,BWA,3.1778183828842353e-06,DJI,2019
+464,COD,Growing wheat industry,CAF,5.598209556375875e-09,DJI,2019
+465,COD,Growing maize industry,CAF,0.0,DJI,2019
+466,COD,Growing cereals n.e.c industry,CAF,0.0,DJI,2019
+467,COD,Growing leguminous crops and oil seeds industry,CAF,1.1129192482665319e-08,DJI,2019
+468,COD,Growing rice industry,CAF,2.352572371458158e-09,DJI,2019
+469,COD,"Growing vegetables, roots, tubers industry",CAF,9.239750350563682e-09,DJI,2019
+470,COD,Growing sugar beet and cane industry,CAF,1.9489310504903483e-09,DJI,2019
+471,COD,Growing tobacco industry,CAF,2.481999963763163e-11,DJI,2019
+472,COD,Growing fibre crops industry,CAF,1.1487248517326872e-08,DJI,2019
+473,COD,Growing crops n.e.c. industry,CAF,1.8117044106605403e-08,DJI,2019
+474,COD,Growing grapes industry,CAF,0.0,DJI,2019
+475,COD,Growing fruits and nuts industry,CAF,1.3552247709831848e-09,DJI,2019
+476,COD,"Growing beverage crops (coffee, tea etc) industry",CAF,3.8383144481330436e-08,DJI,2019
+477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAF,2.6750605125928776e-11,DJI,2019
+478,COD,Seeds and plant propagation industry,CAF,0.0,DJI,2019
+479,COD,Raising of cattle industry,CAF,6.434703606306622e-07,DJI,2019
+480,COD,Growing wheat industry,CAN,2.992660356702848e-06,DJI,2019
+481,COD,Growing maize industry,CAN,0.0,DJI,2019
+482,COD,Growing cereals n.e.c industry,CAN,0.0,DJI,2019
+483,COD,Growing leguminous crops and oil seeds industry,CAN,6.440772562613441e-06,DJI,2019
+484,COD,Growing rice industry,CAN,1.2056990540262833e-06,DJI,2019
+485,COD,"Growing vegetables, roots, tubers industry",CAN,1.019421112920948e-05,DJI,2019
+486,COD,Growing sugar beet and cane industry,CAN,1.180364908274944e-06,DJI,2019
+487,COD,Growing tobacco industry,CAN,1.8681869234255722e-08,DJI,2019
+488,COD,Growing fibre crops industry,CAN,1.0487304761871523e-05,DJI,2019
+489,COD,Growing crops n.e.c. industry,CAN,9.965755140348818e-06,DJI,2019
+490,COD,Growing grapes industry,CAN,0.0,DJI,2019
+491,COD,Growing fruits and nuts industry,CAN,8.235536153999143e-07,DJI,2019
+492,COD,"Growing beverage crops (coffee, tea etc) industry",CAN,3.159572944438816e-05,DJI,2019
+493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CAN,2.287532092558378e-08,DJI,2019
+494,COD,Seeds and plant propagation industry,CAN,0.0,DJI,2019
+495,COD,Raising of cattle industry,CAN,0.00043649780341894134,DJI,2019
+496,COD,Growing wheat industry,CHE,7.345236049937263e-07,DJI,2019
+497,COD,Growing maize industry,CHE,0.0,DJI,2019
+498,COD,Growing cereals n.e.c industry,CHE,0.0,DJI,2019
+499,COD,Growing leguminous crops and oil seeds industry,CHE,1.665731664241397e-06,DJI,2019
+500,COD,Growing rice industry,CHE,2.845201999441085e-07,DJI,2019
+501,COD,"Growing vegetables, roots, tubers industry",CHE,2.939669966824749e-06,DJI,2019
+502,COD,Growing sugar beet and cane industry,CHE,3.277466636494686e-07,DJI,2019
+503,COD,Growing tobacco industry,CHE,5.825732487575795e-09,DJI,2019
+504,COD,Growing fibre crops industry,CHE,4.041661596169729e-06,DJI,2019
+505,COD,Growing crops n.e.c. industry,CHE,2.739513627783432e-06,DJI,2019
+506,COD,Growing grapes industry,CHE,0.0,DJI,2019
+507,COD,Growing fruits and nuts industry,CHE,3.315922941901522e-07,DJI,2019
+508,COD,"Growing beverage crops (coffee, tea etc) industry",CHE,9.581577220526947e-06,DJI,2019
+509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHE,7.62055029188219e-09,DJI,2019
+510,COD,Seeds and plant propagation industry,CHE,0.0,DJI,2019
+511,COD,Raising of cattle industry,CHE,0.0001238369535122878,DJI,2019
+512,COD,Growing wheat industry,CHL,2.1553449598361243e-07,DJI,2019
+513,COD,Growing maize industry,CHL,0.0,DJI,2019
+514,COD,Growing cereals n.e.c industry,CHL,0.0,DJI,2019
+515,COD,Growing leguminous crops and oil seeds industry,CHL,4.626056894007856e-07,DJI,2019
+516,COD,Growing rice industry,CHL,8.613395683429664e-08,DJI,2019
+517,COD,"Growing vegetables, roots, tubers industry",CHL,6.052403665484205e-07,DJI,2019
+518,COD,Growing sugar beet and cane industry,CHL,8.65200667846948e-08,DJI,2019
+519,COD,Growing tobacco industry,CHL,1.445524967190726e-09,DJI,2019
+520,COD,Growing fibre crops industry,CHL,7.426944331430313e-07,DJI,2019
+521,COD,Growing crops n.e.c. industry,CHL,7.780358554216248e-07,DJI,2019
+522,COD,Growing grapes industry,CHL,0.0,DJI,2019
+523,COD,Growing fruits and nuts industry,CHL,6.611167488878561e-08,DJI,2019
+524,COD,"Growing beverage crops (coffee, tea etc) industry",CHL,1.5837061331275345e-06,DJI,2019
+525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHL,1.4739066612930131e-09,DJI,2019
+526,COD,Seeds and plant propagation industry,CHL,0.0,DJI,2019
+527,COD,Raising of cattle industry,CHL,3.634487914881498e-05,DJI,2019
+528,COD,Growing wheat industry,CHN,4.077460251140443e-05,DJI,2019
+529,COD,Growing maize industry,CHN,0.0,DJI,2019
+530,COD,Growing cereals n.e.c industry,CHN,0.0,DJI,2019
+531,COD,Growing leguminous crops and oil seeds industry,CHN,8.563871351500852e-05,DJI,2019
+532,COD,Growing rice industry,CHN,1.65476472619847e-05,DJI,2019
+533,COD,"Growing vegetables, roots, tubers industry",CHN,8.644917841295016e-05,DJI,2019
+534,COD,Growing sugar beet and cane industry,CHN,1.6534370898012994e-05,DJI,2019
+535,COD,Growing tobacco industry,CHN,2.270267310912701e-07,DJI,2019
+536,COD,Growing fibre crops industry,CHN,9.744212489542872e-05,DJI,2019
+537,COD,Growing crops n.e.c. industry,CHN,0.0001569348919237505,DJI,2019
+538,COD,Growing grapes industry,CHN,0.0,DJI,2019
+539,COD,Growing fruits and nuts industry,CHN,8.448002162568796e-06,DJI,2019
+540,COD,"Growing beverage crops (coffee, tea etc) industry",CHN,0.0001662626583473529,DJI,2019
+541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CHN,2.0020625425488948e-07,DJI,2019
+542,COD,Seeds and plant propagation industry,CHN,0.0,DJI,2019
+543,COD,Raising of cattle industry,CHN,0.00625710220406333,DJI,2019
+544,COD,Growing wheat industry,CIV,4.956547303056498e-07,DJI,2019
+545,COD,Growing maize industry,CIV,0.0,DJI,2019
+546,COD,Growing cereals n.e.c industry,CIV,0.0,DJI,2019
+547,COD,Growing leguminous crops and oil seeds industry,CIV,9.700537034041822e-07,DJI,2019
+548,COD,Growing rice industry,CIV,2.1374944768219004e-07,DJI,2019
+549,COD,"Growing vegetables, roots, tubers industry",CIV,9.148966716050965e-07,DJI,2019
+550,COD,Growing sugar beet and cane industry,CIV,1.7616714595524822e-07,DJI,2019
+551,COD,Growing tobacco industry,CIV,2.0678800525133566e-09,DJI,2019
+552,COD,Growing fibre crops industry,CIV,3.210562802951874e-07,DJI,2019
+553,COD,Growing crops n.e.c. industry,CIV,1.555031777331497e-06,DJI,2019
+554,COD,Growing grapes industry,CIV,0.0,DJI,2019
+555,COD,Growing fruits and nuts industry,CIV,4.7408428810992676e-08,DJI,2019
+556,COD,"Growing beverage crops (coffee, tea etc) industry",CIV,2.076598196757443e-06,DJI,2019
+557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CIV,1.8570125738106412e-09,DJI,2019
+558,COD,Seeds and plant propagation industry,CIV,0.0,DJI,2019
+559,COD,Raising of cattle industry,CIV,6.015930320880212e-05,DJI,2019
+560,COD,Growing wheat industry,CMR,2.6868019358694874e-08,DJI,2019
+561,COD,Growing maize industry,CMR,0.0,DJI,2019
+562,COD,Growing cereals n.e.c industry,CMR,0.0,DJI,2019
+563,COD,Growing leguminous crops and oil seeds industry,CMR,5.971725192367679e-08,DJI,2019
+564,COD,Growing rice industry,CMR,1.065208241436169e-08,DJI,2019
+565,COD,"Growing vegetables, roots, tubers industry",CMR,9.675688119002769e-08,DJI,2019
+566,COD,Growing sugar beet and cane industry,CMR,1.1714001710421985e-08,DJI,2019
+567,COD,Growing tobacco industry,CMR,1.8116299796319802e-10,DJI,2019
+568,COD,Growing fibre crops industry,CMR,9.698039225091211e-08,DJI,2019
+569,COD,Growing crops n.e.c. industry,CMR,1.0217488225473115e-07,DJI,2019
+570,COD,Growing grapes industry,CMR,0.0,DJI,2019
+571,COD,Growing fruits and nuts industry,CMR,1.5129551134803143e-08,DJI,2019
+572,COD,"Growing beverage crops (coffee, tea etc) industry",CMR,3.261617017050815e-07,DJI,2019
+573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CMR,2.6494610211589435e-10,DJI,2019
+574,COD,Seeds and plant propagation industry,CMR,0.0,DJI,2019
+575,COD,Raising of cattle industry,CMR,3.878559469774277e-06,DJI,2019
+576,COD,Growing wheat industry,COD,1.4773209984495505e-07,DJI,2019
+577,COD,Growing maize industry,COD,0.0,DJI,2019
+578,COD,Growing cereals n.e.c industry,COD,0.0,DJI,2019
+579,COD,Growing leguminous crops and oil seeds industry,COD,3.340986598857682e-07,DJI,2019
+580,COD,Growing rice industry,COD,5.800550607304627e-08,DJI,2019
+581,COD,"Growing vegetables, roots, tubers industry",COD,6.805439492614791e-07,DJI,2019
+582,COD,Growing sugar beet and cane industry,COD,7.223506412867261e-08,DJI,2019
+583,COD,Growing tobacco industry,COD,8.949859086521634e-10,DJI,2019
+584,COD,Growing fibre crops industry,COD,4.930355327002368e-07,DJI,2019
+585,COD,Growing crops n.e.c. industry,COD,4.865797257712876e-07,DJI,2019
+586,COD,Growing grapes industry,COD,0.0,DJI,2019
+587,COD,Growing fruits and nuts industry,COD,5.890581822167159e-08,DJI,2019
+588,COD,"Growing beverage crops (coffee, tea etc) industry",COD,1.3274394964562167e-06,DJI,2019
+589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COD,1.8300719383495148e-09,DJI,2019
+590,COD,Seeds and plant propagation industry,COD,0.0,DJI,2019
+591,COD,Raising of cattle industry,COD,1.7416719409748838e-05,DJI,2019
+592,COD,Growing wheat industry,COG,3.117925880892669e-08,DJI,2019
+593,COD,Growing maize industry,COG,0.0,DJI,2019
+594,COD,Growing cereals n.e.c industry,COG,0.0,DJI,2019
+595,COD,Growing leguminous crops and oil seeds industry,COG,7.056546146572222e-08,DJI,2019
+596,COD,Growing rice industry,COG,1.2152727031740995e-08,DJI,2019
+597,COD,"Growing vegetables, roots, tubers industry",COG,1.1708884192837581e-07,DJI,2019
+598,COD,Growing sugar beet and cane industry,COG,1.4147887934726807e-08,DJI,2019
+599,COD,Growing tobacco industry,COG,1.945179750855772e-10,DJI,2019
+600,COD,Growing fibre crops industry,COG,1.4992286943228892e-07,DJI,2019
+601,COD,Growing crops n.e.c. industry,COG,1.1473217552825743e-07,DJI,2019
+602,COD,Growing grapes industry,COG,0.0,DJI,2019
+603,COD,Growing fruits and nuts industry,COG,1.4792528589320512e-08,DJI,2019
+604,COD,"Growing beverage crops (coffee, tea etc) industry",COG,3.2571138013755783e-07,DJI,2019
+605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COG,3.2075317434776243e-10,DJI,2019
+606,COD,Seeds and plant propagation industry,COG,0.0,DJI,2019
+607,COD,Raising of cattle industry,COG,4.061690114299228e-06,DJI,2019
+608,COD,Growing wheat industry,COL,2.4361939401392123e-07,DJI,2019
+609,COD,Growing maize industry,COL,0.0,DJI,2019
+610,COD,Growing cereals n.e.c industry,COL,0.0,DJI,2019
+611,COD,Growing leguminous crops and oil seeds industry,COL,5.726052757702985e-07,DJI,2019
+612,COD,Growing rice industry,COL,9.497632059509246e-08,DJI,2019
+613,COD,"Growing vegetables, roots, tubers industry",COL,1.1028203432525573e-06,DJI,2019
+614,COD,Growing sugar beet and cane industry,COL,1.0979017346454697e-07,DJI,2019
+615,COD,Growing tobacco industry,COL,1.941354342474284e-09,DJI,2019
+616,COD,Growing fibre crops industry,COL,2.972105318911702e-06,DJI,2019
+617,COD,Growing crops n.e.c. industry,COL,8.987304710270291e-07,DJI,2019
+618,COD,Growing grapes industry,COL,0.0,DJI,2019
+619,COD,Growing fruits and nuts industry,COL,1.610691569721533e-07,DJI,2019
+620,COD,"Growing beverage crops (coffee, tea etc) industry",COL,3.447253927632417e-06,DJI,2019
+621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",COL,2.7854680301846768e-09,DJI,2019
+622,COD,Seeds and plant propagation industry,COL,0.0,DJI,2019
+623,COD,Raising of cattle industry,COL,3.8425854852079686e-05,DJI,2019
+624,COD,Growing wheat industry,CRI,5.571957473458611e-08,DJI,2019
+625,COD,Growing maize industry,CRI,0.0,DJI,2019
+626,COD,Growing cereals n.e.c industry,CRI,0.0,DJI,2019
+627,COD,Growing leguminous crops and oil seeds industry,CRI,1.1385308680946627e-07,DJI,2019
+628,COD,Growing rice industry,CRI,2.3282128221102808e-08,DJI,2019
+629,COD,"Growing vegetables, roots, tubers industry",CRI,1.1985308555766915e-07,DJI,2019
+630,COD,Growing sugar beet and cane industry,CRI,2.0611180684403355e-08,DJI,2019
+631,COD,Growing tobacco industry,CRI,2.9732702963322155e-10,DJI,2019
+632,COD,Growing fibre crops industry,CRI,1.1413308272509771e-07,DJI,2019
+633,COD,Growing crops n.e.c. industry,CRI,1.86210246395314e-07,DJI,2019
+634,COD,Growing grapes industry,CRI,0.0,DJI,2019
+635,COD,Growing fruits and nuts industry,CRI,1.112800952213406e-08,DJI,2019
+636,COD,"Growing beverage crops (coffee, tea etc) industry",CRI,2.989742052361309e-07,DJI,2019
+637,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CRI,2.853572077248682e-10,DJI,2019
+638,COD,Seeds and plant propagation industry,CRI,0.0,DJI,2019
+639,COD,Raising of cattle industry,CRI,7.958462062747175e-06,DJI,2019
+640,COD,Growing wheat industry,CUB,2.9744686311313068e-08,DJI,2019
+641,COD,Growing maize industry,CUB,0.0,DJI,2019
+642,COD,Growing cereals n.e.c industry,CUB,0.0,DJI,2019
+643,COD,Growing leguminous crops and oil seeds industry,CUB,6.256965651810932e-08,DJI,2019
+644,COD,Growing rice industry,CUB,1.197886886099707e-08,DJI,2019
+645,COD,"Growing vegetables, roots, tubers industry",CUB,7.575234138146826e-08,DJI,2019
+646,COD,Growing sugar beet and cane industry,CUB,1.1882494876542212e-08,DJI,2019
+647,COD,Growing tobacco industry,CUB,1.7960146543070337e-10,DJI,2019
+648,COD,Growing fibre crops industry,CUB,7.987727587902663e-08,DJI,2019
+649,COD,Growing crops n.e.c. industry,CUB,1.085183026930658e-07,DJI,2019
+650,COD,Growing grapes industry,CUB,0.0,DJI,2019
+651,COD,Growing fruits and nuts industry,CUB,8.371126845912241e-09,DJI,2019
+652,COD,"Growing beverage crops (coffee, tea etc) industry",CUB,2.246607953562567e-07,DJI,2019
+653,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CUB,1.9117484534378965e-10,DJI,2019
+654,COD,Seeds and plant propagation industry,CUB,0.0,DJI,2019
+655,COD,Raising of cattle industry,CUB,4.47765066176374e-06,DJI,2019
+656,COD,Growing wheat industry,CYP,1.451811064826144e-07,DJI,2019
+657,COD,Growing maize industry,CYP,0.0,DJI,2019
+658,COD,Growing cereals n.e.c industry,CYP,0.0,DJI,2019
+659,COD,Growing leguminous crops and oil seeds industry,CYP,3.269432474702022e-07,DJI,2019
+660,COD,Growing rice industry,CYP,5.719592049353013e-08,DJI,2019
+661,COD,"Growing vegetables, roots, tubers industry",CYP,5.54960396301821e-07,DJI,2019
+662,COD,Growing sugar beet and cane industry,CYP,7.430024181933356e-08,DJI,2019
+663,COD,Growing tobacco industry,CYP,9.757953461384676e-10,DJI,2019
+664,COD,Growing fibre crops industry,CYP,5.564253450042373e-07,DJI,2019
+665,COD,Growing crops n.e.c. industry,CYP,4.79855745414661e-07,DJI,2019
+666,COD,Growing grapes industry,CYP,0.0,DJI,2019
+667,COD,Growing fruits and nuts industry,CYP,5.396312508612662e-08,DJI,2019
+668,COD,"Growing beverage crops (coffee, tea etc) industry",CYP,1.6073365652943558e-06,DJI,2019
+669,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CYP,1.5832103534587553e-09,DJI,2019
+670,COD,Seeds and plant propagation industry,CYP,0.0,DJI,2019
+671,COD,Raising of cattle industry,CYP,1.8693172858557524e-05,DJI,2019
+672,COD,Growing wheat industry,CZE,4.2444855437898246e-07,DJI,2019
+673,COD,Growing maize industry,CZE,0.0,DJI,2019
+674,COD,Growing cereals n.e.c industry,CZE,0.0,DJI,2019
+675,COD,Growing leguminous crops and oil seeds industry,CZE,1.0713812911965695e-06,DJI,2019
+676,COD,Growing rice industry,CZE,1.5972617290617003e-07,DJI,2019
+677,COD,"Growing vegetables, roots, tubers industry",CZE,2.5702142937467667e-06,DJI,2019
+678,COD,Growing sugar beet and cane industry,CZE,2.2208903429203426e-07,DJI,2019
+679,COD,Growing tobacco industry,CZE,3.4266659521264023e-09,DJI,2019
+680,COD,Growing fibre crops industry,CZE,1.829090763879309e-05,DJI,2019
+681,COD,Growing crops n.e.c. industry,CZE,1.7905421320883311e-06,DJI,2019
+682,COD,Growing grapes industry,CZE,0.0,DJI,2019
+683,COD,Growing fruits and nuts industry,CZE,5.706574185693704e-07,DJI,2019
+684,COD,"Growing beverage crops (coffee, tea etc) industry",CZE,8.355442907085543e-06,DJI,2019
+685,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",CZE,6.252540182440633e-09,DJI,2019
+686,COD,Seeds and plant propagation industry,CZE,0.0,DJI,2019
+687,COD,Raising of cattle industry,CZE,5.65540877273556e-05,DJI,2019
+688,COD,Growing wheat industry,DEU,1.5301960479314817e-05,DJI,2019
+689,COD,Growing maize industry,DEU,0.0,DJI,2019
+690,COD,Growing cereals n.e.c industry,DEU,0.0,DJI,2019
+691,COD,Growing leguminous crops and oil seeds industry,DEU,3.0463937191342127e-05,DJI,2019
+692,COD,Growing rice industry,DEU,5.680316397996597e-06,DJI,2019
+693,COD,"Growing vegetables, roots, tubers industry",DEU,2.7686061769274238e-05,DJI,2019
+694,COD,Growing sugar beet and cane industry,DEU,5.440044967043116e-06,DJI,2019
+695,COD,Growing tobacco industry,DEU,1.0293567657901022e-07,DJI,2019
+696,COD,Growing fibre crops industry,DEU,3.683399903803842e-05,DJI,2019
+697,COD,Growing crops n.e.c. industry,DEU,4.931809114989775e-05,DJI,2019
+698,COD,Growing grapes industry,DEU,0.0,DJI,2019
+699,COD,Growing fruits and nuts industry,DEU,2.3705092871770806e-06,DJI,2019
+700,COD,"Growing beverage crops (coffee, tea etc) industry",DEU,7.453254232491708e-05,DJI,2019
+701,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DEU,6.452136007082567e-08,DJI,2019
+702,COD,Seeds and plant propagation industry,DEU,0.0,DJI,2019
+703,COD,Raising of cattle industry,DEU,0.0028378868093632344,DJI,2019
+704,COD,Growing wheat industry,DJI,0.0,DJI,2019
+705,COD,Growing maize industry,DJI,0.0,DJI,2019
+706,COD,Growing cereals n.e.c industry,DJI,0.0,DJI,2019
+707,COD,Growing leguminous crops and oil seeds industry,DJI,0.0,DJI,2019
+708,COD,Growing rice industry,DJI,0.0,DJI,2019
+709,COD,"Growing vegetables, roots, tubers industry",DJI,0.0,DJI,2019
+710,COD,Growing sugar beet and cane industry,DJI,0.0,DJI,2019
+711,COD,Growing tobacco industry,DJI,0.0,DJI,2019
+712,COD,Growing fibre crops industry,DJI,0.0,DJI,2019
+713,COD,Growing crops n.e.c. industry,DJI,0.0,DJI,2019
+714,COD,Growing grapes industry,DJI,0.0,DJI,2019
+715,COD,Growing fruits and nuts industry,DJI,0.0,DJI,2019
+716,COD,"Growing beverage crops (coffee, tea etc) industry",DJI,0.0,DJI,2019
+717,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DJI,0.0,DJI,2019
+718,COD,Seeds and plant propagation industry,DJI,0.0,DJI,2019
+719,COD,Raising of cattle industry,DJI,0.0,DJI,2019
+720,COD,Growing wheat industry,DYE,0.0,DJI,2019
+721,COD,Growing maize industry,DYE,0.0,DJI,2019
+722,COD,Growing cereals n.e.c industry,DYE,0.0,DJI,2019
+723,COD,Growing leguminous crops and oil seeds industry,DYE,0.0,DJI,2019
+724,COD,Growing rice industry,DYE,0.0,DJI,2019
+725,COD,"Growing vegetables, roots, tubers industry",DYE,0.0,DJI,2019
+726,COD,Growing sugar beet and cane industry,DYE,0.0,DJI,2019
+727,COD,Growing tobacco industry,DYE,0.0,DJI,2019
+728,COD,Growing fibre crops industry,DYE,0.0,DJI,2019
+729,COD,Growing crops n.e.c. industry,DYE,0.0,DJI,2019
+730,COD,Growing grapes industry,DYE,0.0,DJI,2019
+731,COD,Growing fruits and nuts industry,DYE,0.0,DJI,2019
+732,COD,"Growing beverage crops (coffee, tea etc) industry",DYE,0.0,DJI,2019
+733,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DYE,0.0,DJI,2019
+734,COD,Seeds and plant propagation industry,DYE,0.0,DJI,2019
+735,COD,Raising of cattle industry,DYE,0.0,DJI,2019
+736,COD,Growing wheat industry,DNK,4.6643314203671744e-07,DJI,2019
+737,COD,Growing maize industry,DNK,0.0,DJI,2019
+738,COD,Growing cereals n.e.c industry,DNK,0.0,DJI,2019
+739,COD,Growing leguminous crops and oil seeds industry,DNK,1.0241077394468962e-06,DJI,2019
+740,COD,Growing rice industry,DNK,1.841250905246285e-07,DJI,2019
+741,COD,"Growing vegetables, roots, tubers industry",DNK,1.6971896145458505e-06,DJI,2019
+742,COD,Growing sugar beet and cane industry,DNK,1.953032963812486e-07,DJI,2019
+743,COD,Growing tobacco industry,DNK,3.660404986847025e-09,DJI,2019
+744,COD,Growing fibre crops industry,DNK,1.5332118382445394e-06,DJI,2019
+745,COD,Growing crops n.e.c. industry,DNK,1.6738752265388772e-06,DJI,2019
+746,COD,Growing grapes industry,DNK,0.0,DJI,2019
+747,COD,Growing fruits and nuts industry,DNK,1.42793366345923e-07,DJI,2019
+748,COD,"Growing beverage crops (coffee, tea etc) industry",DNK,5.590501916965031e-06,DJI,2019
+749,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DNK,4.338725225935711e-09,DJI,2019
+750,COD,Seeds and plant propagation industry,DNK,0.0,DJI,2019
+751,COD,Raising of cattle industry,DNK,8.306453849417212e-05,DJI,2019
+752,COD,Growing wheat industry,DOM,2.8835296149743482e-08,DJI,2019
+753,COD,Growing maize industry,DOM,0.0,DJI,2019
+754,COD,Growing cereals n.e.c industry,DOM,0.0,DJI,2019
+755,COD,Growing leguminous crops and oil seeds industry,DOM,6.052051255731821e-08,DJI,2019
+756,COD,Growing rice industry,DOM,1.1759790957288296e-08,DJI,2019
+757,COD,"Growing vegetables, roots, tubers industry",DOM,7.594386744134456e-08,DJI,2019
+758,COD,Growing sugar beet and cane industry,DOM,1.1286925554096151e-08,DJI,2019
+759,COD,Growing tobacco industry,DOM,1.7559160004503898e-10,DJI,2019
+760,COD,Growing fibre crops industry,DOM,7.974102413997686e-08,DJI,2019
+761,COD,Growing crops n.e.c. industry,DOM,1.0146468016425061e-07,DJI,2019
+762,COD,Growing grapes industry,DOM,0.0,DJI,2019
+763,COD,Growing fruits and nuts industry,DOM,8.538871492250414e-09,DJI,2019
+764,COD,"Growing beverage crops (coffee, tea etc) industry",DOM,2.432574345988654e-07,DJI,2019
+765,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DOM,1.9335702378814e-10,DJI,2019
+766,COD,Seeds and plant propagation industry,DOM,0.0,DJI,2019
+767,COD,Raising of cattle industry,DOM,4.285803373366654e-06,DJI,2019
+768,COD,Growing wheat industry,DZA,1.748651680100125e-07,DJI,2019
+769,COD,Growing maize industry,DZA,0.0,DJI,2019
+770,COD,Growing cereals n.e.c industry,DZA,0.0,DJI,2019
+771,COD,Growing leguminous crops and oil seeds industry,DZA,4.239300471154019e-07,DJI,2019
+772,COD,Growing rice industry,DZA,6.684443519086986e-08,DJI,2019
+773,COD,"Growing vegetables, roots, tubers industry",DZA,9.116589439705325e-07,DJI,2019
+774,COD,Growing sugar beet and cane industry,DZA,8.762430355940072e-08,DJI,2019
+775,COD,Growing tobacco industry,DZA,1.4306645495416264e-09,DJI,2019
+776,COD,Growing fibre crops industry,DZA,2.3853613800741905e-06,DJI,2019
+777,COD,Growing crops n.e.c. industry,DZA,7.153766708472842e-07,DJI,2019
+778,COD,Growing grapes industry,DZA,0.0,DJI,2019
+779,COD,Growing fruits and nuts industry,DZA,1.9061654599085476e-07,DJI,2019
+780,COD,"Growing beverage crops (coffee, tea etc) industry",DZA,2.5596115189234837e-06,DJI,2019
+781,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",DZA,2.3510098638522896e-09,DJI,2019
+782,COD,Seeds and plant propagation industry,DZA,0.0,DJI,2019
+783,COD,Raising of cattle industry,DZA,2.6265571838475274e-05,DJI,2019
+784,COD,Growing wheat industry,ECU,5.462830748885388e-08,DJI,2019
+785,COD,Growing maize industry,ECU,0.0,DJI,2019
+786,COD,Growing cereals n.e.c industry,ECU,0.0,DJI,2019
+787,COD,Growing leguminous crops and oil seeds industry,ECU,1.209909000258149e-07,DJI,2019
+788,COD,Growing rice industry,ECU,2.1806332576293705e-08,DJI,2019
+789,COD,"Growing vegetables, roots, tubers industry",ECU,1.850310429711596e-07,DJI,2019
+790,COD,Growing sugar beet and cane industry,ECU,2.3419204822102092e-08,DJI,2019
+791,COD,Growing tobacco industry,ECU,3.832457171341187e-10,DJI,2019
+792,COD,Growing fibre crops industry,ECU,1.7796170522875507e-07,DJI,2019
+793,COD,Growing crops n.e.c. industry,ECU,2.124250148948901e-07,DJI,2019
+794,COD,Growing grapes industry,ECU,0.0,DJI,2019
+795,COD,Growing fruits and nuts industry,ECU,2.7672707564693998e-08,DJI,2019
+796,COD,"Growing beverage crops (coffee, tea etc) industry",ECU,5.809886141851202e-07,DJI,2019
+797,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ECU,4.785533616165668e-10,DJI,2019
+798,COD,Seeds and plant propagation industry,ECU,0.0,DJI,2019
+799,COD,Raising of cattle industry,ECU,8.860164277586778e-06,DJI,2019
+800,COD,Growing wheat industry,EGY,1.519366180786684e-06,DJI,2019
+801,COD,Growing maize industry,EGY,0.0,DJI,2019
+802,COD,Growing cereals n.e.c industry,EGY,0.0,DJI,2019
+803,COD,Growing leguminous crops and oil seeds industry,EGY,4.500072280589013e-06,DJI,2019
+804,COD,Growing rice industry,EGY,5.132636076772515e-07,DJI,2019
+805,COD,"Growing vegetables, roots, tubers industry",EGY,1.4325489394363797e-05,DJI,2019
+806,COD,Growing sugar beet and cane industry,EGY,1.1280901344879628e-06,DJI,2019
+807,COD,Growing tobacco industry,EGY,1.4768091840274724e-08,DJI,2019
+808,COD,Growing fibre crops industry,EGY,3.6673858320443155e-05,DJI,2019
+809,COD,Growing crops n.e.c. industry,EGY,6.7599134353525165e-06,DJI,2019
+810,COD,Growing grapes industry,EGY,0.0,DJI,2019
+811,COD,Growing fruits and nuts industry,EGY,2.420130708639684e-06,DJI,2019
+812,COD,"Growing beverage crops (coffee, tea etc) industry",EGY,2.5967393303986778e-05,DJI,2019
+813,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EGY,3.783252701893125e-08,DJI,2019
+814,COD,Seeds and plant propagation industry,EGY,0.0,DJI,2019
+815,COD,Raising of cattle industry,EGY,0.00016123031373851417,DJI,2019
+816,COD,Growing wheat industry,ERI,6.144688691696224e-09,DJI,2019
+817,COD,Growing maize industry,ERI,0.0,DJI,2019
+818,COD,Growing cereals n.e.c industry,ERI,0.0,DJI,2019
+819,COD,Growing leguminous crops and oil seeds industry,ERI,1.3507267683534014e-08,DJI,2019
+820,COD,Growing rice industry,ERI,2.484838938420648e-09,DJI,2019
+821,COD,"Growing vegetables, roots, tubers industry",ERI,1.8583379372438524e-08,DJI,2019
+822,COD,Growing sugar beet and cane industry,ERI,2.661664805199907e-09,DJI,2019
+823,COD,Growing tobacco industry,ERI,3.3986069440788615e-11,DJI,2019
+824,COD,Growing fibre crops industry,ERI,1.8536589105370118e-08,DJI,2019
+825,COD,Growing crops n.e.c. industry,ERI,2.302654519188185e-08,DJI,2019
+826,COD,Growing grapes industry,ERI,0.0,DJI,2019
+827,COD,Growing fruits and nuts industry,ERI,3.3623079376847666e-09,DJI,2019
+828,COD,"Growing beverage crops (coffee, tea etc) industry",ERI,6.366661637301767e-08,DJI,2019
+829,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ERI,5.613596905373482e-11,DJI,2019
+830,COD,Seeds and plant propagation industry,ERI,0.0,DJI,2019
+831,COD,Raising of cattle industry,ERI,7.05848250660119e-07,DJI,2019
+832,COD,Growing wheat industry,ESP,1.0446319805226063e-06,DJI,2019
+833,COD,Growing maize industry,ESP,0.0,DJI,2019
+834,COD,Growing cereals n.e.c industry,ESP,0.0,DJI,2019
+835,COD,Growing leguminous crops and oil seeds industry,ESP,2.55657847381882e-06,DJI,2019
+836,COD,Growing rice industry,ESP,3.9352969748177325e-07,DJI,2019
+837,COD,"Growing vegetables, roots, tubers industry",ESP,6.090069671179377e-06,DJI,2019
+838,COD,Growing sugar beet and cane industry,ESP,4.972190503435691e-07,DJI,2019
+839,COD,Growing tobacco industry,ESP,8.823887545117993e-09,DJI,2019
+840,COD,Growing fibre crops industry,ESP,7.736263879715313e-06,DJI,2019
+841,COD,Growing crops n.e.c. industry,ESP,3.8983806706169544e-06,DJI,2019
+842,COD,Growing grapes industry,ESP,0.0,DJI,2019
+843,COD,Growing fruits and nuts industry,ESP,5.94493814943877e-07,DJI,2019
+844,COD,"Growing beverage crops (coffee, tea etc) industry",ESP,2.2213593551573548e-05,DJI,2019
+845,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ESP,1.4180667712203706e-08,DJI,2019
+846,COD,Seeds and plant propagation industry,ESP,0.0,DJI,2019
+847,COD,Raising of cattle industry,ESP,0.00016375558061277264,DJI,2019
+848,COD,Growing wheat industry,EST,4.257967033300454e-08,DJI,2019
+849,COD,Growing maize industry,EST,0.0,DJI,2019
+850,COD,Growing cereals n.e.c industry,EST,0.0,DJI,2019
+851,COD,Growing leguminous crops and oil seeds industry,EST,8.959398621685488e-08,DJI,2019
+852,COD,Growing rice industry,EST,1.7405254265269084e-08,DJI,2019
+853,COD,"Growing vegetables, roots, tubers industry",EST,1.2086424947919594e-07,DJI,2019
+854,COD,Growing sugar beet and cane industry,EST,1.806461109525447e-08,DJI,2019
+855,COD,Growing tobacco industry,EST,2.4139667421013463e-10,DJI,2019
+856,COD,Growing fibre crops industry,EST,1.0049290558362976e-07,DJI,2019
+857,COD,Growing crops n.e.c. industry,EST,1.5784768010662864e-07,DJI,2019
+858,COD,Growing grapes industry,EST,0.0,DJI,2019
+859,COD,Growing fruits and nuts industry,EST,9.855436753821603e-09,DJI,2019
+860,COD,"Growing beverage crops (coffee, tea etc) industry",EST,3.5679013978866595e-07,DJI,2019
+861,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",EST,2.88647560277956e-10,DJI,2019
+862,COD,Seeds and plant propagation industry,EST,0.0,DJI,2019
+863,COD,Raising of cattle industry,EST,5.959175590888766e-06,DJI,2019
+864,COD,Growing wheat industry,ETH,2.569899668417962e-05,DJI,2019
+865,COD,Growing maize industry,ETH,0.0,DJI,2019
+866,COD,Growing cereals n.e.c industry,ETH,0.0,DJI,2019
+867,COD,Growing leguminous crops and oil seeds industry,ETH,6.478819527507953e-05,DJI,2019
+868,COD,Growing rice industry,ETH,9.518902496010478e-06,DJI,2019
+869,COD,"Growing vegetables, roots, tubers industry",ETH,0.00014940906428222617,DJI,2019
+870,COD,Growing sugar beet and cane industry,ETH,1.5325316413872713e-05,DJI,2019
+871,COD,Growing tobacco industry,ETH,1.8438126760406237e-07,DJI,2019
+872,COD,Growing fibre crops industry,ETH,0.00047394149405961724,DJI,2019
+873,COD,Growing crops n.e.c. industry,ETH,0.00013835960759213642,DJI,2019
+874,COD,Growing grapes industry,ETH,0.0,DJI,2019
+875,COD,Growing fruits and nuts industry,ETH,2.0670615801003374e-05,DJI,2019
+876,COD,"Growing beverage crops (coffee, tea etc) industry",ETH,0.0005481763168216457,DJI,2019
+877,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ETH,4.3199994325231937e-07,DJI,2019
+878,COD,Seeds and plant propagation industry,ETH,0.0,DJI,2019
+879,COD,Raising of cattle industry,ETH,0.0027202739107950046,DJI,2019
+880,COD,Growing wheat industry,FIN,1.7823837857570532e-07,DJI,2019
+881,COD,Growing maize industry,FIN,0.0,DJI,2019
+882,COD,Growing cereals n.e.c industry,FIN,0.0,DJI,2019
+883,COD,Growing leguminous crops and oil seeds industry,FIN,4.239901634469935e-07,DJI,2019
+884,COD,Growing rice industry,FIN,6.663476567412342e-08,DJI,2019
+885,COD,"Growing vegetables, roots, tubers industry",FIN,7.951092899003117e-07,DJI,2019
+886,COD,Growing sugar beet and cane industry,FIN,8.916652461251228e-08,DJI,2019
+887,COD,Growing tobacco industry,FIN,1.5037250083203765e-09,DJI,2019
+888,COD,Growing fibre crops industry,FIN,1.2164757126049146e-06,DJI,2019
+889,COD,Growing crops n.e.c. industry,FIN,7.030881591476656e-07,DJI,2019
+890,COD,Growing grapes industry,FIN,0.0,DJI,2019
+891,COD,Growing fruits and nuts industry,FIN,1.0007710097030114e-07,DJI,2019
+892,COD,"Growing beverage crops (coffee, tea etc) industry",FIN,2.4008615417225745e-06,DJI,2019
+893,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FIN,2.28996734773528e-09,DJI,2019
+894,COD,Seeds and plant propagation industry,FIN,0.0,DJI,2019
+895,COD,Raising of cattle industry,FIN,2.7649674732424246e-05,DJI,2019
+896,COD,Growing wheat industry,FRA,4.8504649624032336e-06,DJI,2019
+897,COD,Growing maize industry,FRA,0.0,DJI,2019
+898,COD,Growing cereals n.e.c industry,FRA,0.0,DJI,2019
+899,COD,Growing leguminous crops and oil seeds industry,FRA,1.0577845733569078e-05,DJI,2019
+900,COD,Growing rice industry,FRA,1.9024169172670928e-06,DJI,2019
+901,COD,"Growing vegetables, roots, tubers industry",FRA,1.696031138913818e-05,DJI,2019
+902,COD,Growing sugar beet and cane industry,FRA,1.9982908144092253e-06,DJI,2019
+903,COD,Growing tobacco industry,FRA,3.6602531390982705e-08,DJI,2019
+904,COD,Growing fibre crops industry,FRA,1.7847091776516695e-05,DJI,2019
+905,COD,Growing crops n.e.c. industry,FRA,1.6731348881526302e-05,DJI,2019
+906,COD,Growing grapes industry,FRA,0.0,DJI,2019
+907,COD,Growing fruits and nuts industry,FRA,1.5157467954962336e-06,DJI,2019
+908,COD,"Growing beverage crops (coffee, tea etc) industry",FRA,5.314056048988974e-05,DJI,2019
+909,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",FRA,4.2786592601756757e-08,DJI,2019
+910,COD,Seeds and plant propagation industry,FRA,0.0,DJI,2019
+911,COD,Raising of cattle industry,FRA,0.0008315643643630218,DJI,2019
+912,COD,Growing wheat industry,GAB,2.2451440278023085e-08,DJI,2019
+913,COD,Growing maize industry,GAB,0.0,DJI,2019
+914,COD,Growing cereals n.e.c industry,GAB,0.0,DJI,2019
+915,COD,Growing leguminous crops and oil seeds industry,GAB,4.820015857693439e-08,DJI,2019
+916,COD,Growing rice industry,GAB,8.997994058705673e-09,DJI,2019
+917,COD,"Growing vegetables, roots, tubers industry",GAB,6.900885890327615e-08,DJI,2019
+918,COD,Growing sugar beet and cane industry,GAB,9.270442831336912e-09,DJI,2019
+919,COD,Growing tobacco industry,GAB,1.478735394367201e-10,DJI,2019
+920,COD,Growing fibre crops industry,GAB,6.93927842989749e-08,DJI,2019
+921,COD,Growing crops n.e.c. industry,GAB,8.126563565604064e-08,DJI,2019
+922,COD,Growing grapes industry,GAB,0.0,DJI,2019
+923,COD,Growing fruits and nuts industry,GAB,8.573582913467818e-09,DJI,2019
+924,COD,"Growing beverage crops (coffee, tea etc) industry",GAB,2.5004216024420826e-07,DJI,2019
+925,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GAB,1.9267315534027895e-10,DJI,2019
+926,COD,Seeds and plant propagation industry,GAB,0.0,DJI,2019
+927,COD,Raising of cattle industry,GAB,3.3153292051084543e-06,DJI,2019
+928,COD,Growing wheat industry,GBR,3.0771042834726005e-06,DJI,2019
+929,COD,Growing maize industry,GBR,0.0,DJI,2019
+930,COD,Growing cereals n.e.c industry,GBR,0.0,DJI,2019
+931,COD,Growing leguminous crops and oil seeds industry,GBR,7.315326776691892e-06,DJI,2019
+932,COD,Growing rice industry,GBR,1.1795298031456044e-06,DJI,2019
+933,COD,"Growing vegetables, roots, tubers industry",GBR,1.5478203942108786e-05,DJI,2019
+934,COD,Growing sugar beet and cane industry,GBR,1.5681292888203497e-06,DJI,2019
+935,COD,Growing tobacco industry,GBR,2.3947303192689388e-08,DJI,2019
+936,COD,Growing fibre crops industry,GBR,1.9994782228626333e-05,DJI,2019
+937,COD,Growing crops n.e.c. industry,GBR,1.146230865251901e-05,DJI,2019
+938,COD,Growing grapes industry,GBR,0.0,DJI,2019
+939,COD,Growing fruits and nuts industry,GBR,1.6337631538715046e-06,DJI,2019
+940,COD,"Growing beverage crops (coffee, tea etc) industry",GBR,4.580750614328577e-05,DJI,2019
+941,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GBR,3.8836036483258464e-08,DJI,2019
+942,COD,Seeds and plant propagation industry,GBR,0.0,DJI,2019
+943,COD,Raising of cattle industry,GBR,0.0004613237627858682,DJI,2019
+944,COD,Growing wheat industry,GEO,6.536362001184218e-08,DJI,2019
+945,COD,Growing maize industry,GEO,0.0,DJI,2019
+946,COD,Growing cereals n.e.c industry,GEO,0.0,DJI,2019
+947,COD,Growing leguminous crops and oil seeds industry,GEO,2.680869240877276e-07,DJI,2019
+948,COD,Growing rice industry,GEO,2.1937764695728413e-08,DJI,2019
+949,COD,"Growing vegetables, roots, tubers industry",GEO,1.1641404291599173e-06,DJI,2019
+950,COD,Growing sugar beet and cane industry,GEO,4.359251821794371e-08,DJI,2019
+951,COD,Growing tobacco industry,GEO,1.1876505493385406e-09,DJI,2019
+952,COD,Growing fibre crops industry,GEO,7.996290953189274e-07,DJI,2019
+953,COD,Growing crops n.e.c. industry,GEO,3.282235813811791e-07,DJI,2019
+954,COD,Growing grapes industry,GEO,0.0,DJI,2019
+955,COD,Growing fruits and nuts industry,GEO,1.0458723080732156e-07,DJI,2019
+956,COD,"Growing beverage crops (coffee, tea etc) industry",GEO,5.483933481690461e-06,DJI,2019
+957,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GEO,2.8381924271378607e-09,DJI,2019
+958,COD,Seeds and plant propagation industry,GEO,0.0,DJI,2019
+959,COD,Raising of cattle industry,GEO,6.736683425021599e-06,DJI,2019
+960,COD,Growing wheat industry,GHA,7.963323782247546e-08,DJI,2019
+961,COD,Growing maize industry,GHA,0.0,DJI,2019
+962,COD,Growing cereals n.e.c industry,GHA,0.0,DJI,2019
+963,COD,Growing leguminous crops and oil seeds industry,GHA,1.9853372371836504e-07,DJI,2019
+964,COD,Growing rice industry,GHA,3.057050071045258e-08,DJI,2019
+965,COD,"Growing vegetables, roots, tubers industry",GHA,4.214592150072656e-07,DJI,2019
+966,COD,Growing sugar beet and cane industry,GHA,3.9417198552148874e-08,DJI,2019
+967,COD,Growing tobacco industry,GHA,5.788583902854601e-10,DJI,2019
+968,COD,Growing fibre crops industry,GHA,4.254043125108574e-07,DJI,2019
+969,COD,Growing crops n.e.c. industry,GHA,3.5219383213525847e-07,DJI,2019
+970,COD,Growing grapes industry,GHA,0.0,DJI,2019
+971,COD,Growing fruits and nuts industry,GHA,1.0311470970975819e-07,DJI,2019
+972,COD,"Growing beverage crops (coffee, tea etc) industry",GHA,1.0422724909573515e-06,DJI,2019
+973,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GHA,1.0831354503672246e-09,DJI,2019
+974,COD,Seeds and plant propagation industry,GHA,0.0,DJI,2019
+975,COD,Raising of cattle industry,GHA,1.1381508004826087e-05,DJI,2019
+976,COD,Growing wheat industry,GIN,1.193541587547602e-07,DJI,2019
+977,COD,Growing maize industry,GIN,0.0,DJI,2019
+978,COD,Growing cereals n.e.c industry,GIN,0.0,DJI,2019
+979,COD,Growing leguminous crops and oil seeds industry,GIN,2.348017850151759e-07,DJI,2019
+980,COD,Growing rice industry,GIN,5.112927477613576e-08,DJI,2019
+981,COD,"Growing vegetables, roots, tubers industry",GIN,2.1340669819370629e-07,DJI,2019
+982,COD,Growing sugar beet and cane industry,GIN,4.240636931987102e-08,DJI,2019
+983,COD,Growing tobacco industry,GIN,5.118475360210395e-10,DJI,2019
+984,COD,Growing fibre crops industry,GIN,1.1278540983356753e-07,DJI,2019
+985,COD,Growing crops n.e.c. industry,GIN,3.8141521600336616e-07,DJI,2019
+986,COD,Growing grapes industry,GIN,0.0,DJI,2019
+987,COD,Growing fruits and nuts industry,GIN,1.637408384856749e-08,DJI,2019
+988,COD,"Growing beverage crops (coffee, tea etc) industry",GIN,5.271719822252012e-07,DJI,2019
+989,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GIN,4.566556240883178e-10,DJI,2019
+990,COD,Seeds and plant propagation industry,GIN,0.0,DJI,2019
+991,COD,Raising of cattle industry,GIN,1.4594917292130333e-05,DJI,2019
+992,COD,Growing wheat industry,GMB,5.821741420338592e-09,DJI,2019
+993,COD,Growing maize industry,GMB,0.0,DJI,2019
+994,COD,Growing cereals n.e.c industry,GMB,0.0,DJI,2019
+995,COD,Growing leguminous crops and oil seeds industry,GMB,1.1757285934009646e-08,DJI,2019
+996,COD,Growing rice industry,GMB,2.4515847595726996e-09,DJI,2019
+997,COD,"Growing vegetables, roots, tubers industry",GMB,1.1198608129953766e-08,DJI,2019
+998,COD,Growing sugar beet and cane industry,GMB,2.2559672799193175e-09,DJI,2019
+999,COD,Growing tobacco industry,GMB,2.672620141635715e-11,DJI,2019
+1000,COD,Growing fibre crops industry,GMB,7.556394173429883e-09,DJI,2019
+1001,COD,Growing crops n.e.c. industry,GMB,2.1054328203881985e-08,DJI,2019
+1002,COD,Growing grapes industry,GMB,0.0,DJI,2019
+1003,COD,Growing fruits and nuts industry,GMB,1.3184427956080336e-09,DJI,2019
+1004,COD,"Growing beverage crops (coffee, tea etc) industry",GMB,3.059200076332187e-08,DJI,2019
+1005,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GMB,2.6570294531894237e-11,DJI,2019
+1006,COD,Seeds and plant propagation industry,GMB,0.0,DJI,2019
+1007,COD,Raising of cattle industry,GMB,7.251949333604762e-07,DJI,2019
+1008,COD,Growing wheat industry,GNQ,3.692221689949637e-08,DJI,2019
+1009,COD,Growing maize industry,GNQ,0.0,DJI,2019
+1010,COD,Growing cereals n.e.c industry,GNQ,0.0,DJI,2019
+1011,COD,Growing leguminous crops and oil seeds industry,GNQ,8.227789513778434e-08,DJI,2019
+1012,COD,Growing rice industry,GNQ,1.4689114788526067e-08,DJI,2019
+1013,COD,"Growing vegetables, roots, tubers industry",GNQ,1.2851196813708087e-07,DJI,2019
+1014,COD,Growing sugar beet and cane industry,GNQ,1.615239202260724e-08,DJI,2019
+1015,COD,Growing tobacco industry,GNQ,2.1863625034021882e-10,DJI,2019
+1016,COD,Growing fibre crops industry,GNQ,1.8319228757504733e-07,DJI,2019
+1017,COD,Growing crops n.e.c. industry,GNQ,1.36348316601451e-07,DJI,2019
+1018,COD,Growing grapes industry,GNQ,0.0,DJI,2019
+1019,COD,Growing fruits and nuts industry,GNQ,1.7547614704237415e-08,DJI,2019
+1020,COD,"Growing beverage crops (coffee, tea etc) industry",GNQ,3.405119769630995e-07,DJI,2019
+1021,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GNQ,3.5353990596656105e-10,DJI,2019
+1022,COD,Seeds and plant propagation industry,GNQ,0.0,DJI,2019
+1023,COD,Raising of cattle industry,GNQ,4.888331068187881e-06,DJI,2019
+1024,COD,Growing wheat industry,GRC,1.850823883737672e-07,DJI,2019
+1025,COD,Growing maize industry,GRC,0.0,DJI,2019
+1026,COD,Growing cereals n.e.c industry,GRC,0.0,DJI,2019
+1027,COD,Growing leguminous crops and oil seeds industry,GRC,4.3689642890876356e-07,DJI,2019
+1028,COD,Growing rice industry,GRC,7.101360484318418e-08,DJI,2019
+1029,COD,"Growing vegetables, roots, tubers industry",GRC,8.337579297471303e-07,DJI,2019
+1030,COD,Growing sugar beet and cane industry,GRC,8.959204043803312e-08,DJI,2019
+1031,COD,Growing tobacco industry,GRC,1.6049617442580079e-09,DJI,2019
+1032,COD,Growing fibre crops industry,GRC,1.2670851915702116e-06,DJI,2019
+1033,COD,Growing crops n.e.c. industry,GRC,7.028497120730499e-07,DJI,2019
+1034,COD,Growing grapes industry,GRC,0.0,DJI,2019
+1035,COD,Growing fruits and nuts industry,GRC,1.0741392178162317e-07,DJI,2019
+1036,COD,"Growing beverage crops (coffee, tea etc) industry",GRC,2.5876654710816125e-06,DJI,2019
+1037,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GRC,2.280138913942565e-09,DJI,2019
+1038,COD,Seeds and plant propagation industry,GRC,0.0,DJI,2019
+1039,COD,Raising of cattle industry,GRC,2.982202328427683e-05,DJI,2019
+1040,COD,Growing wheat industry,GTM,6.261251447841357e-08,DJI,2019
+1041,COD,Growing maize industry,GTM,0.0,DJI,2019
+1042,COD,Growing cereals n.e.c industry,GTM,0.0,DJI,2019
+1043,COD,Growing leguminous crops and oil seeds industry,GTM,1.6468733742775132e-07,DJI,2019
+1044,COD,Growing rice industry,GTM,2.3411078116324125e-08,DJI,2019
+1045,COD,"Growing vegetables, roots, tubers industry",GTM,3.588326831902834e-07,DJI,2019
+1046,COD,Growing sugar beet and cane industry,GTM,3.3276693449087166e-08,DJI,2019
+1047,COD,Growing tobacco industry,GTM,4.809596147382206e-10,DJI,2019
+1048,COD,Growing fibre crops industry,GTM,5.835559952438785e-07,DJI,2019
+1049,COD,Growing crops n.e.c. industry,GTM,2.2469162783624263e-07,DJI,2019
+1050,COD,Growing grapes industry,GTM,0.0,DJI,2019
+1051,COD,Growing fruits and nuts industry,GTM,5.314873150760465e-08,DJI,2019
+1052,COD,"Growing beverage crops (coffee, tea etc) industry",GTM,9.151085400405871e-07,DJI,2019
+1053,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",GTM,1.0686694943512283e-09,DJI,2019
+1054,COD,Seeds and plant propagation industry,GTM,0.0,DJI,2019
+1055,COD,Raising of cattle industry,GTM,8.35313329584761e-06,DJI,2019
+1056,COD,Growing wheat industry,HND,5.953735087776103e-08,DJI,2019
+1057,COD,Growing maize industry,HND,0.0,DJI,2019
+1058,COD,Growing cereals n.e.c industry,HND,0.0,DJI,2019
+1059,COD,Growing leguminous crops and oil seeds industry,HND,1.1959092704618712e-07,DJI,2019
+1060,COD,Growing rice industry,HND,2.5175675490189103e-08,DJI,2019
+1061,COD,"Growing vegetables, roots, tubers industry",HND,1.204903660358013e-07,DJI,2019
+1062,COD,Growing sugar beet and cane industry,HND,2.188360377477329e-08,DJI,2019
+1063,COD,Growing tobacco industry,HND,2.806328080627666e-10,DJI,2019
+1064,COD,Growing fibre crops industry,HND,8.381421708891922e-08,DJI,2019
+1065,COD,Growing crops n.e.c. industry,HND,1.9394423344196033e-07,DJI,2019
+1066,COD,Growing grapes industry,HND,0.0,DJI,2019
+1067,COD,Growing fruits and nuts industry,HND,9.587446008170093e-09,DJI,2019
+1068,COD,"Growing beverage crops (coffee, tea etc) industry",HND,3.0330764779966345e-07,DJI,2019
+1069,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HND,2.755330130780725e-10,DJI,2019
+1070,COD,Seeds and plant propagation industry,HND,0.0,DJI,2019
+1071,COD,Raising of cattle industry,HND,7.686449673503336e-06,DJI,2019
+1072,COD,Growing wheat industry,HKG,4.2174387362774486e-06,DJI,2019
+1073,COD,Growing maize industry,HKG,0.0,DJI,2019
+1074,COD,Growing cereals n.e.c industry,HKG,0.0,DJI,2019
+1075,COD,Growing leguminous crops and oil seeds industry,HKG,1.2688597028342894e-05,DJI,2019
+1076,COD,Growing rice industry,HKG,1.4942303683476563e-06,DJI,2019
+1077,COD,"Growing vegetables, roots, tubers industry",HKG,3.92561228570625e-05,DJI,2019
+1078,COD,Growing sugar beet and cane industry,HKG,2.6419523109142834e-06,DJI,2019
+1079,COD,Growing tobacco industry,HKG,4.137425966842966e-08,DJI,2019
+1080,COD,Growing fibre crops industry,HKG,9.105055786817032e-05,DJI,2019
+1081,COD,Growing crops n.e.c. industry,HKG,1.6909775142367075e-05,DJI,2019
+1082,COD,Growing grapes industry,HKG,0.0,DJI,2019
+1083,COD,Growing fruits and nuts industry,HKG,5.667480251439683e-06,DJI,2019
+1084,COD,"Growing beverage crops (coffee, tea etc) industry",HKG,0.00011288526119640107,DJI,2019
+1085,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HKG,9.321905346787403e-08,DJI,2019
+1086,COD,Seeds and plant propagation industry,HKG,0.0,DJI,2019
+1087,COD,Raising of cattle industry,HKG,0.0005798083870686511,DJI,2019
+1088,COD,Growing wheat industry,HRV,1.8580884746419546e-07,DJI,2019
+1089,COD,Growing maize industry,HRV,0.0,DJI,2019
+1090,COD,Growing cereals n.e.c industry,HRV,0.0,DJI,2019
+1091,COD,Growing leguminous crops and oil seeds industry,HRV,3.6483714648701763e-07,DJI,2019
+1092,COD,Growing rice industry,HRV,7.81482124530459e-08,DJI,2019
+1093,COD,"Growing vegetables, roots, tubers industry",HRV,2.945219128250961e-07,DJI,2019
+1094,COD,Growing sugar beet and cane industry,HRV,6.632888505765359e-08,DJI,2019
+1095,COD,Growing tobacco industry,HRV,7.733607417049542e-10,DJI,2019
+1096,COD,Growing fibre crops industry,HRV,2.8661069159634144e-07,DJI,2019
+1097,COD,Growing crops n.e.c. industry,HRV,6.123302408140244e-07,DJI,2019
+1098,COD,Growing grapes industry,HRV,0.0,DJI,2019
+1099,COD,Growing fruits and nuts industry,HRV,2.736054425773973e-08,DJI,2019
+1100,COD,"Growing beverage crops (coffee, tea etc) industry",HRV,7.347261435648069e-07,DJI,2019
+1101,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HRV,6.831153040079023e-10,DJI,2019
+1102,COD,Seeds and plant propagation industry,HRV,0.0,DJI,2019
+1103,COD,Raising of cattle industry,HRV,2.1935753310956866e-05,DJI,2019
+1104,COD,Growing wheat industry,HTI,2.1414395898061778e-08,DJI,2019
+1105,COD,Growing maize industry,HTI,0.0,DJI,2019
+1106,COD,Growing cereals n.e.c industry,HTI,0.0,DJI,2019
+1107,COD,Growing leguminous crops and oil seeds industry,HTI,4.297343558612076e-08,DJI,2019
+1108,COD,Growing rice industry,HTI,8.933166681740023e-09,DJI,2019
+1109,COD,"Growing vegetables, roots, tubers industry",HTI,4.0291711287711355e-08,DJI,2019
+1110,COD,Growing sugar beet and cane industry,HTI,7.714743795371934e-09,DJI,2019
+1111,COD,Growing tobacco industry,HTI,1.0731372466240607e-10,DJI,2019
+1112,COD,Growing fibre crops industry,HTI,3.5197338573526395e-08,DJI,2019
+1113,COD,Growing crops n.e.c. industry,HTI,7.135836324068764e-08,DJI,2019
+1114,COD,Growing grapes industry,HTI,0.0,DJI,2019
+1115,COD,Growing fruits and nuts industry,HTI,4.963528968783028e-09,DJI,2019
+1116,COD,"Growing beverage crops (coffee, tea etc) industry",HTI,1.3004027502708339e-07,DJI,2019
+1117,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HTI,1.0354109263043799e-10,DJI,2019
+1118,COD,Seeds and plant propagation industry,HTI,0.0,DJI,2019
+1119,COD,Raising of cattle industry,HTI,2.836931838081563e-06,DJI,2019
+1120,COD,Growing wheat industry,HUN,1.9040831843615202e-07,DJI,2019
+1121,COD,Growing maize industry,HUN,0.0,DJI,2019
+1122,COD,Growing cereals n.e.c industry,HUN,0.0,DJI,2019
+1123,COD,Growing leguminous crops and oil seeds industry,HUN,4.2254344384131523e-07,DJI,2019
+1124,COD,Growing rice industry,HUN,7.393445819662346e-08,DJI,2019
+1125,COD,"Growing vegetables, roots, tubers industry",HUN,8.199549095992851e-07,DJI,2019
+1126,COD,Growing sugar beet and cane industry,HUN,8.942863989852408e-08,DJI,2019
+1127,COD,Growing tobacco industry,HUN,1.3936974454614943e-09,DJI,2019
+1128,COD,Growing fibre crops industry,HUN,1.2328976856478098e-06,DJI,2019
+1129,COD,Growing crops n.e.c. industry,HUN,7.525978889617206e-07,DJI,2019
+1130,COD,Growing grapes industry,HUN,0.0,DJI,2019
+1131,COD,Growing fruits and nuts industry,HUN,7.278641663489425e-08,DJI,2019
+1132,COD,"Growing beverage crops (coffee, tea etc) industry",HUN,2.727257327783059e-06,DJI,2019
+1133,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",HUN,1.9866054547613705e-09,DJI,2019
+1134,COD,Seeds and plant propagation industry,HUN,0.0,DJI,2019
+1135,COD,Raising of cattle industry,HUN,2.7383907363261697e-05,DJI,2019
+1136,COD,Growing wheat industry,IDN,1.434030933653546e-06,DJI,2019
+1137,COD,Growing maize industry,IDN,0.0,DJI,2019
+1138,COD,Growing cereals n.e.c industry,IDN,0.0,DJI,2019
+1139,COD,Growing leguminous crops and oil seeds industry,IDN,3.501742898566877e-06,DJI,2019
+1140,COD,Growing rice industry,IDN,5.410732374596234e-07,DJI,2019
+1141,COD,"Growing vegetables, roots, tubers industry",IDN,6.972976588021563e-06,DJI,2019
+1142,COD,Growing sugar beet and cane industry,IDN,6.563633413795905e-07,DJI,2019
+1143,COD,Growing tobacco industry,IDN,1.1442037091806488e-08,DJI,2019
+1144,COD,Growing fibre crops industry,IDN,2.9451581144995733e-05,DJI,2019
+1145,COD,Growing crops n.e.c. industry,IDN,5.2994931131901756e-06,DJI,2019
+1146,COD,Growing grapes industry,IDN,0.0,DJI,2019
+1147,COD,Growing fruits and nuts industry,IDN,1.2867681012053137e-06,DJI,2019
+1148,COD,"Growing beverage crops (coffee, tea etc) industry",IDN,1.8611454271142565e-05,DJI,2019
+1149,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IDN,1.8423009163755178e-08,DJI,2019
+1150,COD,Seeds and plant propagation industry,IDN,0.0,DJI,2019
+1151,COD,Raising of cattle industry,IDN,0.00023544912701450678,DJI,2019
+1152,COD,Growing wheat industry,IND,1.1417219658739973e-05,DJI,2019
+1153,COD,Growing maize industry,IND,0.0,DJI,2019
+1154,COD,Growing cereals n.e.c industry,IND,0.0,DJI,2019
+1155,COD,Growing leguminous crops and oil seeds industry,IND,2.558327830522596e-05,DJI,2019
+1156,COD,Growing rice industry,IND,4.320120800224383e-06,DJI,2019
+1157,COD,"Growing vegetables, roots, tubers industry",IND,3.138080474165267e-05,DJI,2019
+1158,COD,Growing sugar beet and cane industry,IND,7.587480642692992e-06,DJI,2019
+1159,COD,Growing tobacco industry,IND,6.02222732980066e-08,DJI,2019
+1160,COD,Growing fibre crops industry,IND,3.12112694356356e-05,DJI,2019
+1161,COD,Growing crops n.e.c. industry,IND,8.078769773651829e-05,DJI,2019
+1162,COD,Growing grapes industry,IND,0.0,DJI,2019
+1163,COD,Growing fruits and nuts industry,IND,3.513266768290374e-06,DJI,2019
+1164,COD,"Growing beverage crops (coffee, tea etc) industry",IND,5.7783217740028555e-05,DJI,2019
+1165,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IND,7.963469373543167e-08,DJI,2019
+1166,COD,Seeds and plant propagation industry,IND,0.0,DJI,2019
+1167,COD,Raising of cattle industry,IND,0.0014839836964588996,DJI,2019
+1168,COD,Growing wheat industry,IRL,2.519772796923244e-07,DJI,2019
+1169,COD,Growing maize industry,IRL,0.0,DJI,2019
+1170,COD,Growing cereals n.e.c industry,IRL,0.0,DJI,2019
+1171,COD,Growing leguminous crops and oil seeds industry,IRL,6.735483441230448e-07,DJI,2019
+1172,COD,Growing rice industry,IRL,9.306440108772203e-08,DJI,2019
+1173,COD,"Growing vegetables, roots, tubers industry",IRL,1.791989257035858e-06,DJI,2019
+1174,COD,Growing sugar beet and cane industry,IRL,1.371769328614564e-07,DJI,2019
+1175,COD,Growing tobacco industry,IRL,3.458008480411188e-09,DJI,2019
+1176,COD,Growing fibre crops industry,IRL,1.9896021817012105e-06,DJI,2019
+1177,COD,Growing crops n.e.c. industry,IRL,1.0516169766226442e-06,DJI,2019
+1178,COD,Growing grapes industry,IRL,0.0,DJI,2019
+1179,COD,Growing fruits and nuts industry,IRL,1.8602177702988997e-07,DJI,2019
+1180,COD,"Growing beverage crops (coffee, tea etc) industry",IRL,1.2742364114481958e-05,DJI,2019
+1181,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRL,6.4546215718788104e-09,DJI,2019
+1182,COD,Seeds and plant propagation industry,IRL,0.0,DJI,2019
+1183,COD,Raising of cattle industry,IRL,3.606443871609046e-05,DJI,2019
+1184,COD,Growing wheat industry,IRN,8.08339929788718e-07,DJI,2019
+1185,COD,Growing maize industry,IRN,0.0,DJI,2019
+1186,COD,Growing cereals n.e.c industry,IRN,0.0,DJI,2019
+1187,COD,Growing leguminous crops and oil seeds industry,IRN,2.2939350867662084e-06,DJI,2019
+1188,COD,Growing rice industry,IRN,2.8773651865585605e-07,DJI,2019
+1189,COD,"Growing vegetables, roots, tubers industry",IRN,6.619362727242808e-06,DJI,2019
+1190,COD,Growing sugar beet and cane industry,IRN,4.693789818556829e-07,DJI,2019
+1191,COD,Growing tobacco industry,IRN,7.7711241481945e-09,DJI,2019
+1192,COD,Growing fibre crops industry,IRN,6.723100016733248e-06,DJI,2019
+1193,COD,Growing crops n.e.c. industry,IRN,3.5858408365727217e-06,DJI,2019
+1194,COD,Growing grapes industry,IRN,0.0,DJI,2019
+1195,COD,Growing fruits and nuts industry,IRN,1.9259066098651224e-06,DJI,2019
+1196,COD,"Growing beverage crops (coffee, tea etc) industry",IRN,2.2377630862291486e-05,DJI,2019
+1197,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRN,2.0160041674267792e-08,DJI,2019
+1198,COD,Seeds and plant propagation industry,IRN,0.0,DJI,2019
+1199,COD,Raising of cattle industry,IRN,9.992672537640951e-05,DJI,2019
+1200,COD,Growing wheat industry,IRQ,3.25888724597175e-07,DJI,2019
+1201,COD,Growing maize industry,IRQ,0.0,DJI,2019
+1202,COD,Growing cereals n.e.c industry,IRQ,0.0,DJI,2019
+1203,COD,Growing leguminous crops and oil seeds industry,IRQ,8.61801644074886e-07,DJI,2019
+1204,COD,Growing rice industry,IRQ,1.1995941140602726e-07,DJI,2019
+1205,COD,"Growing vegetables, roots, tubers industry",IRQ,2.1707205172284478e-06,DJI,2019
+1206,COD,Growing sugar beet and cane industry,IRQ,1.7593555148041748e-07,DJI,2019
+1207,COD,Growing tobacco industry,IRQ,2.7658293188996687e-09,DJI,2019
+1208,COD,Growing fibre crops industry,IRQ,2.1614811923442523e-06,DJI,2019
+1209,COD,Growing crops n.e.c. industry,IRQ,1.377846013756813e-06,DJI,2019
+1210,COD,Growing grapes industry,IRQ,0.0,DJI,2019
+1211,COD,Growing fruits and nuts industry,IRQ,5.84623821553191e-07,DJI,2019
+1212,COD,"Growing beverage crops (coffee, tea etc) industry",IRQ,7.194996408806818e-06,DJI,2019
+1213,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",IRQ,6.5224320950247585e-09,DJI,2019
+1214,COD,Seeds and plant propagation industry,IRQ,0.0,DJI,2019
+1215,COD,Raising of cattle industry,IRQ,4.0745500013749735e-05,DJI,2019
+1216,COD,Growing wheat industry,ISL,2.6350055673096206e-08,DJI,2019
+1217,COD,Growing maize industry,ISL,0.0,DJI,2019
+1218,COD,Growing cereals n.e.c industry,ISL,0.0,DJI,2019
+1219,COD,Growing leguminous crops and oil seeds industry,ISL,5.482020053839952e-08,DJI,2019
+1220,COD,Growing rice industry,ISL,1.0792809433116998e-08,DJI,2019
+1221,COD,"Growing vegetables, roots, tubers industry",ISL,6.720900928862839e-08,DJI,2019
+1222,COD,Growing sugar beet and cane industry,ISL,1.0036832938351437e-08,DJI,2019
+1223,COD,Growing tobacco industry,ISL,1.5917000276143014e-10,DJI,2019
+1224,COD,Growing fibre crops industry,ISL,5.448101344611251e-08,DJI,2019
+1225,COD,Growing crops n.e.c. industry,ISL,9.024383383231526e-08,DJI,2019
+1226,COD,Growing grapes industry,ISL,0.0,DJI,2019
+1227,COD,Growing fruits and nuts industry,ISL,6.140548495464379e-09,DJI,2019
+1228,COD,"Growing beverage crops (coffee, tea etc) industry",ISL,2.0477717560204853e-07,DJI,2019
+1229,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISL,1.6675551873839318e-10,DJI,2019
+1230,COD,Seeds and plant propagation industry,ISL,0.0,DJI,2019
+1231,COD,Raising of cattle industry,ISL,3.957187753092887e-06,DJI,2019
+1232,COD,Growing wheat industry,ISR,2.9601053877451103e-06,DJI,2019
+1233,COD,Growing maize industry,ISR,0.0,DJI,2019
+1234,COD,Growing cereals n.e.c industry,ISR,0.0,DJI,2019
+1235,COD,Growing leguminous crops and oil seeds industry,ISR,5.893872701116087e-06,DJI,2019
+1236,COD,Growing rice industry,ISR,1.243834429988137e-06,DJI,2019
+1237,COD,"Growing vegetables, roots, tubers industry",ISR,5.849434510412913e-06,DJI,2019
+1238,COD,Growing sugar beet and cane industry,ISR,1.0703294902734216e-06,DJI,2019
+1239,COD,Growing tobacco industry,ISR,1.3677336524172599e-08,DJI,2019
+1240,COD,Growing fibre crops industry,ISR,2.554006215004217e-05,DJI,2019
+1241,COD,Growing crops n.e.c. industry,ISR,9.373795346628936e-06,DJI,2019
+1242,COD,Growing grapes industry,ISR,0.0,DJI,2019
+1243,COD,Growing fruits and nuts industry,ISR,8.381251586471294e-07,DJI,2019
+1244,COD,"Growing beverage crops (coffee, tea etc) industry",ISR,1.1861407866566312e-05,DJI,2019
+1245,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ISR,1.2820124023007852e-08,DJI,2019
+1246,COD,Seeds and plant propagation industry,ISR,0.0,DJI,2019
+1247,COD,Raising of cattle industry,ISR,0.0003697281559549964,DJI,2019
+1248,COD,Growing wheat industry,ITA,2.028935908925803e-06,DJI,2019
+1249,COD,Growing maize industry,ITA,0.0,DJI,2019
+1250,COD,Growing cereals n.e.c industry,ITA,0.0,DJI,2019
+1251,COD,Growing leguminous crops and oil seeds industry,ITA,5.0778984919968915e-06,DJI,2019
+1252,COD,Growing rice industry,ITA,7.385211650791652e-07,DJI,2019
+1253,COD,"Growing vegetables, roots, tubers industry",ITA,1.1070209834055678e-05,DJI,2019
+1254,COD,Growing sugar beet and cane industry,ITA,9.934540574342926e-07,DJI,2019
+1255,COD,Growing tobacco industry,ITA,1.8730787282174566e-08,DJI,2019
+1256,COD,Growing fibre crops industry,ITA,1.3904500428597303e-05,DJI,2019
+1257,COD,Growing crops n.e.c. industry,ITA,7.855478643647551e-06,DJI,2019
+1258,COD,Growing grapes industry,ITA,0.0,DJI,2019
+1259,COD,Growing fruits and nuts industry,ITA,1.2255584801072752e-06,DJI,2019
+1260,COD,"Growing beverage crops (coffee, tea etc) industry",ITA,4.0513249550931883e-05,DJI,2019
+1261,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ITA,3.0143733588040685e-08,DJI,2019
+1262,COD,Seeds and plant propagation industry,ITA,0.0,DJI,2019
+1263,COD,Raising of cattle industry,ITA,0.00031777445797555483,DJI,2019
+1264,COD,Growing wheat industry,JAM,1.1837990135310851e-08,DJI,2019
+1265,COD,Growing maize industry,JAM,0.0,DJI,2019
+1266,COD,Growing cereals n.e.c industry,JAM,0.0,DJI,2019
+1267,COD,Growing leguminous crops and oil seeds industry,JAM,2.4607459243971387e-08,DJI,2019
+1268,COD,Growing rice industry,JAM,4.85974192399285e-09,DJI,2019
+1269,COD,"Growing vegetables, roots, tubers industry",JAM,3.0208700507252066e-08,DJI,2019
+1270,COD,Growing sugar beet and cane industry,JAM,4.52056714930197e-09,DJI,2019
+1271,COD,Growing tobacco industry,JAM,6.952326085460109e-11,DJI,2019
+1272,COD,Growing fibre crops industry,JAM,2.8874324898483828e-08,DJI,2019
+1273,COD,Growing crops n.e.c. industry,JAM,4.0668762737333534e-08,DJI,2019
+1274,COD,Growing grapes industry,JAM,0.0,DJI,2019
+1275,COD,Growing fruits and nuts industry,JAM,2.9848789281822492e-09,DJI,2019
+1276,COD,"Growing beverage crops (coffee, tea etc) industry",JAM,9.32856557797038e-08,DJI,2019
+1277,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JAM,7.253771075073449e-11,DJI,2019
+1278,COD,Seeds and plant propagation industry,JAM,0.0,DJI,2019
+1279,COD,Raising of cattle industry,JAM,1.7301056096841679e-06,DJI,2019
+1280,COD,Growing wheat industry,JOR,5.9584227641843275e-08,DJI,2019
+1281,COD,Growing maize industry,JOR,0.0,DJI,2019
+1282,COD,Growing cereals n.e.c industry,JOR,0.0,DJI,2019
+1283,COD,Growing leguminous crops and oil seeds industry,JOR,1.6192931983789755e-07,DJI,2019
+1284,COD,Growing rice industry,JOR,2.24854635221001e-08,DJI,2019
+1285,COD,"Growing vegetables, roots, tubers industry",JOR,4.34836178332173e-07,DJI,2019
+1286,COD,Growing sugar beet and cane industry,JOR,3.347128510556763e-08,DJI,2019
+1287,COD,Growing tobacco industry,JOR,4.924734346731257e-10,DJI,2019
+1288,COD,Growing fibre crops industry,JOR,4.305469072502633e-07,DJI,2019
+1289,COD,Growing crops n.e.c. industry,JOR,2.665212087943572e-07,DJI,2019
+1290,COD,Growing grapes industry,JOR,0.0,DJI,2019
+1291,COD,Growing fruits and nuts industry,JOR,1.5358154510208412e-07,DJI,2019
+1292,COD,"Growing beverage crops (coffee, tea etc) industry",JOR,9.320349657846936e-07,DJI,2019
+1293,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JOR,1.1407566832710777e-09,DJI,2019
+1294,COD,Seeds and plant propagation industry,JOR,0.0,DJI,2019
+1295,COD,Raising of cattle industry,JOR,8.140781071330296e-06,DJI,2019
+1296,COD,Growing wheat industry,JPN,2.8104745235052264e-06,DJI,2019
+1297,COD,Growing maize industry,JPN,0.0,DJI,2019
+1298,COD,Growing cereals n.e.c industry,JPN,0.0,DJI,2019
+1299,COD,Growing leguminous crops and oil seeds industry,JPN,6.284737106797691e-06,DJI,2019
+1300,COD,Growing rice industry,JPN,1.106710756902588e-06,DJI,2019
+1301,COD,"Growing vegetables, roots, tubers industry",JPN,1.0255151853792173e-05,DJI,2019
+1302,COD,Growing sugar beet and cane industry,JPN,1.180593507577211e-06,DJI,2019
+1303,COD,Growing tobacco industry,JPN,2.1427543383555082e-08,DJI,2019
+1304,COD,Growing fibre crops industry,JPN,1.0033520202237269e-05,DJI,2019
+1305,COD,Growing crops n.e.c. industry,JPN,1.036270844104365e-05,DJI,2019
+1306,COD,Growing grapes industry,JPN,0.0,DJI,2019
+1307,COD,Growing fruits and nuts industry,JPN,1.2638560977473875e-06,DJI,2019
+1308,COD,"Growing beverage crops (coffee, tea etc) industry",JPN,2.8951019090036136e-05,DJI,2019
+1309,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",JPN,2.5324739775247613e-08,DJI,2019
+1310,COD,Seeds and plant propagation industry,JPN,0.0,DJI,2019
+1311,COD,Raising of cattle industry,JPN,0.0005020738170429557,DJI,2019
+1312,COD,Growing wheat industry,KAZ,9.392358358775478e-08,DJI,2019
+1313,COD,Growing maize industry,KAZ,0.0,DJI,2019
+1314,COD,Growing cereals n.e.c industry,KAZ,0.0,DJI,2019
+1315,COD,Growing leguminous crops and oil seeds industry,KAZ,2.18308935693145e-07,DJI,2019
+1316,COD,Growing rice industry,KAZ,3.6219223443488614e-08,DJI,2019
+1317,COD,"Growing vegetables, roots, tubers industry",KAZ,3.5477888279346094e-07,DJI,2019
+1318,COD,Growing sugar beet and cane industry,KAZ,4.3589050575494364e-08,DJI,2019
+1319,COD,Growing tobacco industry,KAZ,6.600547824058849e-10,DJI,2019
+1320,COD,Growing fibre crops industry,KAZ,6.014159501313964e-07,DJI,2019
+1321,COD,Growing crops n.e.c. industry,KAZ,3.8769094578176095e-07,DJI,2019
+1322,COD,Growing grapes industry,KAZ,0.0,DJI,2019
+1323,COD,Growing fruits and nuts industry,KAZ,4.761314736694163e-08,DJI,2019
+1324,COD,"Growing beverage crops (coffee, tea etc) industry",KAZ,9.810687286377934e-07,DJI,2019
+1325,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KAZ,9.250796663108593e-10,DJI,2019
+1326,COD,Seeds and plant propagation industry,KAZ,0.0,DJI,2019
+1327,COD,Raising of cattle industry,KAZ,1.4527761716513468e-05,DJI,2019
+1328,COD,Growing wheat industry,KEN,1.3526119539362937e-06,DJI,2019
+1329,COD,Growing maize industry,KEN,0.0,DJI,2019
+1330,COD,Growing cereals n.e.c industry,KEN,0.0,DJI,2019
+1331,COD,Growing leguminous crops and oil seeds industry,KEN,2.798319295322179e-06,DJI,2019
+1332,COD,Growing rice industry,KEN,5.640134824584618e-07,DJI,2019
+1333,COD,"Growing vegetables, roots, tubers industry",KEN,3.8214896755485314e-06,DJI,2019
+1334,COD,Growing sugar beet and cane industry,KEN,5.451207182543637e-07,DJI,2019
+1335,COD,Growing tobacco industry,KEN,6.387654478232377e-09,DJI,2019
+1336,COD,Growing fibre crops industry,KEN,2.2690469669323217e-06,DJI,2019
+1337,COD,Growing crops n.e.c. industry,KEN,4.290169447088067e-06,DJI,2019
+1338,COD,Growing grapes industry,KEN,0.0,DJI,2019
+1339,COD,Growing fruits and nuts industry,KEN,2.858453263109028e-07,DJI,2019
+1340,COD,"Growing beverage crops (coffee, tea etc) industry",KEN,7.290681250474573e-06,DJI,2019
+1341,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KEN,9.232312027013975e-09,DJI,2019
+1342,COD,Seeds and plant propagation industry,KEN,0.0,DJI,2019
+1343,COD,Raising of cattle industry,KEN,0.00016054085233706579,DJI,2019
+1344,COD,Growing wheat industry,KGZ,2.4222908164980907e-08,DJI,2019
+1345,COD,Growing maize industry,KGZ,0.0,DJI,2019
+1346,COD,Growing cereals n.e.c industry,KGZ,0.0,DJI,2019
+1347,COD,Growing leguminous crops and oil seeds industry,KGZ,5.0170067409900786e-08,DJI,2019
+1348,COD,Growing rice industry,KGZ,9.939252544498376e-09,DJI,2019
+1349,COD,"Growing vegetables, roots, tubers industry",KGZ,6.399317521892867e-08,DJI,2019
+1350,COD,Growing sugar beet and cane industry,KGZ,8.959411651434122e-09,DJI,2019
+1351,COD,Growing tobacco industry,KGZ,1.6244805289378435e-10,DJI,2019
+1352,COD,Growing fibre crops industry,KGZ,4.770289886446622e-08,DJI,2019
+1353,COD,Growing crops n.e.c. industry,KGZ,7.982845621137574e-08,DJI,2019
+1354,COD,Growing grapes industry,KGZ,0.0,DJI,2019
+1355,COD,Growing fruits and nuts industry,KGZ,4.805879724835834e-09,DJI,2019
+1356,COD,"Growing beverage crops (coffee, tea etc) industry",KGZ,1.7876777832484496e-07,DJI,2019
+1357,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KGZ,1.512684853500744e-10,DJI,2019
+1358,COD,Seeds and plant propagation industry,KGZ,0.0,DJI,2019
+1359,COD,Raising of cattle industry,KGZ,4.156184988072463e-06,DJI,2019
+1360,COD,Growing wheat industry,KHM,1.5719505455842697e-07,DJI,2019
+1361,COD,Growing maize industry,KHM,0.0,DJI,2019
+1362,COD,Growing cereals n.e.c industry,KHM,0.0,DJI,2019
+1363,COD,Growing leguminous crops and oil seeds industry,KHM,3.2152217018126856e-07,DJI,2019
+1364,COD,Growing rice industry,KHM,6.750777479059321e-08,DJI,2019
+1365,COD,"Growing vegetables, roots, tubers industry",KHM,3.9756528707348216e-07,DJI,2019
+1366,COD,Growing sugar beet and cane industry,KHM,5.71230989244183e-08,DJI,2019
+1367,COD,Growing tobacco industry,KHM,1.0074430155726843e-09,DJI,2019
+1368,COD,Growing fibre crops industry,KHM,2.482757873091339e-07,DJI,2019
+1369,COD,Growing crops n.e.c. industry,KHM,5.215654552463431e-07,DJI,2019
+1370,COD,Growing grapes industry,KHM,0.0,DJI,2019
+1371,COD,Growing fruits and nuts industry,KHM,2.6081564587618286e-08,DJI,2019
+1372,COD,"Growing beverage crops (coffee, tea etc) industry",KHM,1.2489820830438208e-06,DJI,2019
+1373,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KHM,9.548386139516672e-10,DJI,2019
+1374,COD,Seeds and plant propagation industry,KHM,0.0,DJI,2019
+1375,COD,Raising of cattle industry,KHM,2.5762330936183115e-05,DJI,2019
+1376,COD,Growing wheat industry,KOR,2.8027545073315955e-06,DJI,2019
+1377,COD,Growing maize industry,KOR,0.0,DJI,2019
+1378,COD,Growing cereals n.e.c industry,KOR,0.0,DJI,2019
+1379,COD,Growing leguminous crops and oil seeds industry,KOR,7.62402460771913e-06,DJI,2019
+1380,COD,Growing rice industry,KOR,9.864106934568615e-07,DJI,2019
+1381,COD,"Growing vegetables, roots, tubers industry",KOR,1.6384975265228155e-05,DJI,2019
+1382,COD,Growing sugar beet and cane industry,KOR,1.4666395949732357e-06,DJI,2019
+1383,COD,Growing tobacco industry,KOR,2.7103468393300696e-08,DJI,2019
+1384,COD,Growing fibre crops industry,KOR,7.442256110113501e-05,DJI,2019
+1385,COD,Growing crops n.e.c. industry,KOR,1.1411316233952925e-05,DJI,2019
+1386,COD,Growing grapes industry,KOR,0.0,DJI,2019
+1387,COD,Growing fruits and nuts industry,KOR,3.74152281962288e-06,DJI,2019
+1388,COD,"Growing beverage crops (coffee, tea etc) industry",KOR,7.69322320247159e-05,DJI,2019
+1389,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KOR,5.340575127876435e-08,DJI,2019
+1390,COD,Seeds and plant propagation industry,KOR,0.0,DJI,2019
+1391,COD,Raising of cattle industry,KOR,0.00041922524231340297,DJI,2019
+1392,COD,Growing wheat industry,KWT,1.0008203079867738e-06,DJI,2019
+1393,COD,Growing maize industry,KWT,0.0,DJI,2019
+1394,COD,Growing cereals n.e.c industry,KWT,0.0,DJI,2019
+1395,COD,Growing leguminous crops and oil seeds industry,KWT,2.746596866478819e-06,DJI,2019
+1396,COD,Growing rice industry,KWT,3.636632306862789e-07,DJI,2019
+1397,COD,"Growing vegetables, roots, tubers industry",KWT,6.790378388576142e-06,DJI,2019
+1398,COD,Growing sugar beet and cane industry,KWT,5.568055744507272e-07,DJI,2019
+1399,COD,Growing tobacco industry,KWT,6.976642320022588e-09,DJI,2019
+1400,COD,Growing fibre crops industry,KWT,8.690793171572353e-06,DJI,2019
+1401,COD,Growing crops n.e.c. industry,KWT,3.686443824760908e-06,DJI,2019
+1402,COD,Growing grapes industry,KWT,0.0,DJI,2019
+1403,COD,Growing fruits and nuts industry,KWT,1.4335665129662575e-06,DJI,2019
+1404,COD,"Growing beverage crops (coffee, tea etc) industry",KWT,1.5734494740326756e-05,DJI,2019
+1405,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",KWT,1.9154588505416317e-08,DJI,2019
+1406,COD,Seeds and plant propagation industry,KWT,0.0,DJI,2019
+1407,COD,Raising of cattle industry,KWT,0.00010942544122865622,DJI,2019
+1408,COD,Growing wheat industry,LAO,1.276621603456349e-06,DJI,2019
+1409,COD,Growing maize industry,LAO,0.0,DJI,2019
+1410,COD,Growing cereals n.e.c industry,LAO,0.0,DJI,2019
+1411,COD,Growing leguminous crops and oil seeds industry,LAO,2.4570947428262497e-06,DJI,2019
+1412,COD,Growing rice industry,LAO,6.257907920934668e-07,DJI,2019
+1413,COD,"Growing vegetables, roots, tubers industry",LAO,1.5949297404371885e-06,DJI,2019
+1414,COD,Growing sugar beet and cane industry,LAO,4.3996818827835316e-07,DJI,2019
+1415,COD,Growing tobacco industry,LAO,4.676532213399245e-09,DJI,2019
+1416,COD,Growing fibre crops industry,LAO,3.133361874141052e-06,DJI,2019
+1417,COD,Growing crops n.e.c. industry,LAO,4.5658297165319115e-06,DJI,2019
+1418,COD,Growing grapes industry,LAO,0.0,DJI,2019
+1419,COD,Growing fruits and nuts industry,LAO,1.243293176168968e-07,DJI,2019
+1420,COD,"Growing beverage crops (coffee, tea etc) industry",LAO,4.007926633475504e-06,DJI,2019
+1421,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LAO,3.6183092939921255e-09,DJI,2019
+1422,COD,Seeds and plant propagation industry,LAO,0.0,DJI,2019
+1423,COD,Raising of cattle industry,LAO,0.0001442335140223814,DJI,2019
+1424,COD,Growing wheat industry,LBN,7.736890036158107e-08,DJI,2019
+1425,COD,Growing maize industry,LBN,0.0,DJI,2019
+1426,COD,Growing cereals n.e.c industry,LBN,0.0,DJI,2019
+1427,COD,Growing leguminous crops and oil seeds industry,LBN,1.826402911327686e-07,DJI,2019
+1428,COD,Growing rice industry,LBN,3.012722001067435e-08,DJI,2019
+1429,COD,"Growing vegetables, roots, tubers industry",LBN,3.6662984492068904e-07,DJI,2019
+1430,COD,Growing sugar beet and cane industry,LBN,3.6295724220688016e-08,DJI,2019
+1431,COD,Growing tobacco industry,LBN,5.668399471725171e-10,DJI,2019
+1432,COD,Growing fibre crops industry,LBN,3.897721875295746e-07,DJI,2019
+1433,COD,Growing crops n.e.c. industry,LBN,2.9536394642818054e-07,DJI,2019
+1434,COD,Growing grapes industry,LBN,0.0,DJI,2019
+1435,COD,Growing fruits and nuts industry,LBN,7.129075887080404e-08,DJI,2019
+1436,COD,"Growing beverage crops (coffee, tea etc) industry",LBN,1.0656229218508148e-06,DJI,2019
+1437,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBN,9.773604630733079e-10,DJI,2019
+1438,COD,Seeds and plant propagation industry,LBN,0.0,DJI,2019
+1439,COD,Raising of cattle industry,LBN,1.1265637067240513e-05,DJI,2019
+1440,COD,Growing wheat industry,LBR,1.2792705328495784e-08,DJI,2019
+1441,COD,Growing maize industry,LBR,0.0,DJI,2019
+1442,COD,Growing cereals n.e.c industry,LBR,0.0,DJI,2019
+1443,COD,Growing leguminous crops and oil seeds industry,LBR,2.6332273610391594e-08,DJI,2019
+1444,COD,Growing rice industry,LBR,5.280603224954296e-09,DJI,2019
+1445,COD,"Growing vegetables, roots, tubers industry",LBR,2.9898973729069676e-08,DJI,2019
+1446,COD,Growing sugar beet and cane industry,LBR,4.745432902954476e-09,DJI,2019
+1447,COD,Growing tobacco industry,LBR,7.772533352789881e-11,DJI,2019
+1448,COD,Growing fibre crops industry,LBR,2.385347666431902e-08,DJI,2019
+1449,COD,Growing crops n.e.c. industry,LBR,4.338852415637854e-08,DJI,2019
+1450,COD,Growing grapes industry,LBR,0.0,DJI,2019
+1451,COD,Growing fruits and nuts industry,LBR,3.1499443790635104e-09,DJI,2019
+1452,COD,"Growing beverage crops (coffee, tea etc) industry",LBR,1.0413654143471445e-07,DJI,2019
+1453,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBR,7.709049894588213e-11,DJI,2019
+1454,COD,Seeds and plant propagation industry,LBR,0.0,DJI,2019
+1455,COD,Raising of cattle industry,LBR,1.9546903902837804e-06,DJI,2019
+1456,COD,Growing wheat industry,LBY,1.3023592213618359e-07,DJI,2019
+1457,COD,Growing maize industry,LBY,0.0,DJI,2019
+1458,COD,Growing cereals n.e.c industry,LBY,0.0,DJI,2019
+1459,COD,Growing leguminous crops and oil seeds industry,LBY,3.3878711833400654e-07,DJI,2019
+1460,COD,Growing rice industry,LBY,4.823752944241666e-08,DJI,2019
+1461,COD,"Growing vegetables, roots, tubers industry",LBY,7.989554957450664e-07,DJI,2019
+1462,COD,Growing sugar beet and cane industry,LBY,6.796956802509453e-08,DJI,2019
+1463,COD,Growing tobacco industry,LBY,1.083891935628479e-09,DJI,2019
+1464,COD,Growing fibre crops industry,LBY,1.0315665296699199e-06,DJI,2019
+1465,COD,Growing crops n.e.c. industry,LBY,5.120080286633222e-07,DJI,2019
+1466,COD,Growing grapes industry,LBY,0.0,DJI,2019
+1467,COD,Growing fruits and nuts industry,LBY,1.6022182127610574e-07,DJI,2019
+1468,COD,"Growing beverage crops (coffee, tea etc) industry",LBY,2.7700358817513883e-06,DJI,2019
+1469,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LBY,2.455630402733467e-09,DJI,2019
+1470,COD,Seeds and plant propagation industry,LBY,0.0,DJI,2019
+1471,COD,Raising of cattle industry,LBY,1.658185287392716e-05,DJI,2019
+1472,COD,Growing wheat industry,LKA,7.347221422776753e-07,DJI,2019
+1473,COD,Growing maize industry,LKA,0.0,DJI,2019
+1474,COD,Growing cereals n.e.c industry,LKA,0.0,DJI,2019
+1475,COD,Growing leguminous crops and oil seeds industry,LKA,1.5445547276079899e-06,DJI,2019
+1476,COD,Growing rice industry,LKA,3.039210622667914e-07,DJI,2019
+1477,COD,"Growing vegetables, roots, tubers industry",LKA,2.0374702221396602e-06,DJI,2019
+1478,COD,Growing sugar beet and cane industry,LKA,2.8166022917404206e-07,DJI,2019
+1479,COD,Growing tobacco industry,LKA,4.336798666525036e-09,DJI,2019
+1480,COD,Growing fibre crops industry,LKA,1.3170186061265018e-06,DJI,2019
+1481,COD,Growing crops n.e.c. industry,LKA,2.374047516467244e-06,DJI,2019
+1482,COD,Growing grapes industry,LKA,0.0,DJI,2019
+1483,COD,Growing fruits and nuts industry,LKA,1.562404100470877e-07,DJI,2019
+1484,COD,"Growing beverage crops (coffee, tea etc) industry",LKA,4.6521461041335045e-06,DJI,2019
+1485,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LKA,4.698520339269928e-09,DJI,2019
+1486,COD,Seeds and plant propagation industry,LKA,0.0,DJI,2019
+1487,COD,Raising of cattle industry,LKA,0.00011294818151135154,DJI,2019
+1488,COD,Growing wheat industry,LTU,6.993898497468393e-08,DJI,2019
+1489,COD,Growing maize industry,LTU,0.0,DJI,2019
+1490,COD,Growing cereals n.e.c industry,LTU,0.0,DJI,2019
+1491,COD,Growing leguminous crops and oil seeds industry,LTU,1.5346286472396246e-07,DJI,2019
+1492,COD,Growing rice industry,LTU,2.8882137448106264e-08,DJI,2019
+1493,COD,"Growing vegetables, roots, tubers industry",LTU,2.619701551286966e-07,DJI,2019
+1494,COD,Growing sugar beet and cane industry,LTU,3.395003369773478e-08,DJI,2019
+1495,COD,Growing tobacco industry,LTU,4.2848453243676797e-10,DJI,2019
+1496,COD,Growing fibre crops industry,LTU,2.285414480861631e-07,DJI,2019
+1497,COD,Growing crops n.e.c. industry,LTU,3.016176025509091e-07,DJI,2019
+1498,COD,Growing grapes industry,LTU,0.0,DJI,2019
+1499,COD,Growing fruits and nuts industry,LTU,2.0703469691969958e-08,DJI,2019
+1500,COD,"Growing beverage crops (coffee, tea etc) industry",LTU,9.10858947881256e-07,DJI,2019
+1501,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LTU,6.148809477455776e-10,DJI,2019
+1502,COD,Seeds and plant propagation industry,LTU,0.0,DJI,2019
+1503,COD,Raising of cattle industry,LTU,9.51541518196189e-06,DJI,2019
+1504,COD,Growing wheat industry,LUX,8.366078016397488e-08,DJI,2019
+1505,COD,Growing maize industry,LUX,0.0,DJI,2019
+1506,COD,Growing cereals n.e.c industry,LUX,0.0,DJI,2019
+1507,COD,Growing leguminous crops and oil seeds industry,LUX,1.7510348549985247e-07,DJI,2019
+1508,COD,Growing rice industry,LUX,3.2845521501308924e-08,DJI,2019
+1509,COD,"Growing vegetables, roots, tubers industry",LUX,2.189706776964134e-07,DJI,2019
+1510,COD,Growing sugar beet and cane industry,LUX,3.208628278531384e-08,DJI,2019
+1511,COD,Growing tobacco industry,LUX,5.512280442368536e-10,DJI,2019
+1512,COD,Growing fibre crops industry,LUX,3.035253999525547e-07,DJI,2019
+1513,COD,Growing crops n.e.c. industry,LUX,2.8065235218692077e-07,DJI,2019
+1514,COD,Growing grapes industry,LUX,0.0,DJI,2019
+1515,COD,Growing fruits and nuts industry,LUX,2.1874174258035872e-08,DJI,2019
+1516,COD,"Growing beverage crops (coffee, tea etc) industry",LUX,8.385772084008156e-07,DJI,2019
+1517,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LUX,6.017505363566341e-10,DJI,2019
+1518,COD,Seeds and plant propagation industry,LUX,0.0,DJI,2019
+1519,COD,Raising of cattle industry,LUX,1.288737800932454e-05,DJI,2019
+1520,COD,Growing wheat industry,LVA,5.8706297391737725e-08,DJI,2019
+1521,COD,Growing maize industry,LVA,0.0,DJI,2019
+1522,COD,Growing cereals n.e.c industry,LVA,0.0,DJI,2019
+1523,COD,Growing leguminous crops and oil seeds industry,LVA,1.2069979727478825e-07,DJI,2019
+1524,COD,Growing rice industry,LVA,2.430841484648413e-08,DJI,2019
+1525,COD,"Growing vegetables, roots, tubers industry",LVA,1.3914599580342335e-07,DJI,2019
+1526,COD,Growing sugar beet and cane industry,LVA,2.4308565095939418e-08,DJI,2019
+1527,COD,Growing tobacco industry,LVA,2.9982948446125656e-10,DJI,2019
+1528,COD,Growing fibre crops industry,LVA,1.0591717086260696e-07,DJI,2019
+1529,COD,Growing crops n.e.c. industry,LVA,2.2288827142016866e-07,DJI,2019
+1530,COD,Growing grapes industry,LVA,0.0,DJI,2019
+1531,COD,Growing fruits and nuts industry,LVA,9.870169235146659e-09,DJI,2019
+1532,COD,"Growing beverage crops (coffee, tea etc) industry",LVA,4.3387969948578354e-07,DJI,2019
+1533,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",LVA,3.282718774736428e-10,DJI,2019
+1534,COD,Seeds and plant propagation industry,LVA,0.0,DJI,2019
+1535,COD,Raising of cattle industry,LVA,7.651848043820731e-06,DJI,2019
+1536,COD,Growing wheat industry,MAR,1.345089560223461e-07,DJI,2019
+1537,COD,Growing maize industry,MAR,0.0,DJI,2019
+1538,COD,Growing cereals n.e.c industry,MAR,0.0,DJI,2019
+1539,COD,Growing leguminous crops and oil seeds industry,MAR,2.98673899784795e-07,DJI,2019
+1540,COD,Growing rice industry,MAR,5.344891815368564e-08,DJI,2019
+1541,COD,"Growing vegetables, roots, tubers industry",MAR,4.894508523903489e-07,DJI,2019
+1542,COD,Growing sugar beet and cane industry,MAR,5.656578147172886e-08,DJI,2019
+1543,COD,Growing tobacco industry,MAR,9.133673503898072e-10,DJI,2019
+1544,COD,Growing fibre crops industry,MAR,4.88585368405718e-07,DJI,2019
+1545,COD,Growing crops n.e.c. industry,MAR,5.019321587056284e-07,DJI,2019
+1546,COD,Growing grapes industry,MAR,0.0,DJI,2019
+1547,COD,Growing fruits and nuts industry,MAR,8.518734532329358e-08,DJI,2019
+1548,COD,"Growing beverage crops (coffee, tea etc) industry",MAR,1.2672110950634273e-06,DJI,2019
+1549,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MAR,1.2132435928951564e-09,DJI,2019
+1550,COD,Seeds and plant propagation industry,MAR,0.0,DJI,2019
+1551,COD,Raising of cattle industry,MAR,2.11810477512302e-05,DJI,2019
+1552,COD,Growing wheat industry,MDA,1.685799108567753e-08,DJI,2019
+1553,COD,Growing maize industry,MDA,0.0,DJI,2019
+1554,COD,Growing cereals n.e.c industry,MDA,0.0,DJI,2019
+1555,COD,Growing leguminous crops and oil seeds industry,MDA,3.4967528708381205e-08,DJI,2019
+1556,COD,Growing rice industry,MDA,6.856110489592126e-09,DJI,2019
+1557,COD,"Growing vegetables, roots, tubers industry",MDA,4.1928869763495354e-08,DJI,2019
+1558,COD,Growing sugar beet and cane industry,MDA,7.050058753248756e-09,DJI,2019
+1559,COD,Growing tobacco industry,MDA,9.037007915361885e-11,DJI,2019
+1560,COD,Growing fibre crops industry,MDA,7.326519537629103e-08,DJI,2019
+1561,COD,Growing crops n.e.c. industry,MDA,6.527479196365091e-08,DJI,2019
+1562,COD,Growing grapes industry,MDA,0.0,DJI,2019
+1563,COD,Growing fruits and nuts industry,MDA,4.713852047495785e-09,DJI,2019
+1564,COD,"Growing beverage crops (coffee, tea etc) industry",MDA,1.3099208541376752e-07,DJI,2019
+1565,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDA,1.0565138143033553e-10,DJI,2019
+1566,COD,Seeds and plant propagation industry,MDA,0.0,DJI,2019
+1567,COD,Raising of cattle industry,MDA,2.153257815973925e-06,DJI,2019
+1568,COD,Growing wheat industry,MDG,3.911428828409015e-06,DJI,2019
+1569,COD,Growing maize industry,MDG,0.0,DJI,2019
+1570,COD,Growing cereals n.e.c industry,MDG,0.0,DJI,2019
+1571,COD,Growing leguminous crops and oil seeds industry,MDG,7.385017092052712e-06,DJI,2019
+1572,COD,Growing rice industry,MDG,1.4353290879325873e-06,DJI,2019
+1573,COD,"Growing vegetables, roots, tubers industry",MDG,3.954176987202491e-06,DJI,2019
+1574,COD,Growing sugar beet and cane industry,MDG,1.2524596238707779e-06,DJI,2019
+1575,COD,Growing tobacco industry,MDG,2.4867263480497735e-08,DJI,2019
+1576,COD,Growing fibre crops industry,MDG,1.943766281558624e-06,DJI,2019
+1577,COD,Growing crops n.e.c. industry,MDG,1.1767737632628026e-05,DJI,2019
+1578,COD,Growing grapes industry,MDG,0.0,DJI,2019
+1579,COD,Growing fruits and nuts industry,MDG,1.8166371584700325e-07,DJI,2019
+1580,COD,"Growing beverage crops (coffee, tea etc) industry",MDG,6.421057879664883e-06,DJI,2019
+1581,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MDG,7.678012072474159e-09,DJI,2019
+1582,COD,Seeds and plant propagation industry,MDG,0.0,DJI,2019
+1583,COD,Raising of cattle industry,MDG,0.000758316447719266,DJI,2019
+1584,COD,Growing wheat industry,MEX,5.490394881320619e-07,DJI,2019
+1585,COD,Growing maize industry,MEX,0.0,DJI,2019
+1586,COD,Growing cereals n.e.c industry,MEX,0.0,DJI,2019
+1587,COD,Growing leguminous crops and oil seeds industry,MEX,1.3273305835738115e-06,DJI,2019
+1588,COD,Growing rice industry,MEX,2.0040516911069562e-07,DJI,2019
+1589,COD,"Growing vegetables, roots, tubers industry",MEX,2.8161656854359384e-06,DJI,2019
+1590,COD,Growing sugar beet and cane industry,MEX,2.714086166112879e-07,DJI,2019
+1591,COD,Growing tobacco industry,MEX,5.001532449186417e-09,DJI,2019
+1592,COD,Growing fibre crops industry,MEX,4.144539397797375e-06,DJI,2019
+1593,COD,Growing crops n.e.c. industry,MEX,2.1796717672022107e-06,DJI,2019
+1594,COD,Growing grapes industry,MEX,0.0,DJI,2019
+1595,COD,Growing fruits and nuts industry,MEX,3.928812982065508e-07,DJI,2019
+1596,COD,"Growing beverage crops (coffee, tea etc) industry",MEX,1.3360930272979491e-05,DJI,2019
+1597,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MEX,8.737357407674144e-09,DJI,2019
+1598,COD,Seeds and plant propagation industry,MEX,0.0,DJI,2019
+1599,COD,Raising of cattle industry,MEX,8.380306505621357e-05,DJI,2019
+1600,COD,Growing wheat industry,MKD,1.918800991830519e-08,DJI,2019
+1601,COD,Growing maize industry,MKD,0.0,DJI,2019
+1602,COD,Growing cereals n.e.c industry,MKD,0.0,DJI,2019
+1603,COD,Growing leguminous crops and oil seeds industry,MKD,4.320592583916626e-08,DJI,2019
+1604,COD,Growing rice industry,MKD,7.614550713604889e-09,DJI,2019
+1605,COD,"Growing vegetables, roots, tubers industry",MKD,9.466061734851061e-08,DJI,2019
+1606,COD,Growing sugar beet and cane industry,MKD,8.23400671508954e-09,DJI,2019
+1607,COD,Growing tobacco industry,MKD,1.2478526626846055e-10,DJI,2019
+1608,COD,Growing fibre crops industry,MKD,9.293431550604331e-08,DJI,2019
+1609,COD,Growing crops n.e.c. industry,MKD,6.893353749293638e-08,DJI,2019
+1610,COD,Growing grapes industry,MKD,0.0,DJI,2019
+1611,COD,Growing fruits and nuts industry,MKD,8.310603645549905e-09,DJI,2019
+1612,COD,"Growing beverage crops (coffee, tea etc) industry",MKD,3.758196340195394e-07,DJI,2019
+1613,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MKD,1.9773782153006084e-10,DJI,2019
+1614,COD,Seeds and plant propagation industry,MKD,0.0,DJI,2019
+1615,COD,Raising of cattle industry,MKD,2.6526548635619783e-06,DJI,2019
+1616,COD,Growing wheat industry,MLI,2.3920453707649716e-08,DJI,2019
+1617,COD,Growing maize industry,MLI,0.0,DJI,2019
+1618,COD,Growing cereals n.e.c industry,MLI,0.0,DJI,2019
+1619,COD,Growing leguminous crops and oil seeds industry,MLI,4.9651240842041405e-08,DJI,2019
+1620,COD,Growing rice industry,MLI,9.888234884044336e-09,DJI,2019
+1621,COD,"Growing vegetables, roots, tubers industry",MLI,6.020216998534443e-08,DJI,2019
+1622,COD,Growing sugar beet and cane industry,MLI,9.113351315062725e-09,DJI,2019
+1623,COD,Growing tobacco industry,MLI,1.3120964535725132e-10,DJI,2019
+1624,COD,Growing fibre crops industry,MLI,4.63833034042301e-08,DJI,2019
+1625,COD,Growing crops n.e.c. industry,MLI,8.299774253928077e-08,DJI,2019
+1626,COD,Growing grapes industry,MLI,0.0,DJI,2019
+1627,COD,Growing fruits and nuts industry,MLI,9.306793147278001e-09,DJI,2019
+1628,COD,"Growing beverage crops (coffee, tea etc) industry",MLI,1.929468654645092e-07,DJI,2019
+1629,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLI,1.5371742521617232e-10,DJI,2019
+1630,COD,Seeds and plant propagation industry,MLI,0.0,DJI,2019
+1631,COD,Raising of cattle industry,MLI,3.128553060698628e-06,DJI,2019
+1632,COD,Growing wheat industry,MLT,2.8176919262076006e-08,DJI,2019
+1633,COD,Growing maize industry,MLT,0.0,DJI,2019
+1634,COD,Growing cereals n.e.c industry,MLT,0.0,DJI,2019
+1635,COD,Growing leguminous crops and oil seeds industry,MLT,6.188821408717319e-08,DJI,2019
+1636,COD,Growing rice industry,MLT,1.107584437444693e-08,DJI,2019
+1637,COD,"Growing vegetables, roots, tubers industry",MLT,1.015405070539778e-07,DJI,2019
+1638,COD,Growing sugar beet and cane industry,MLT,1.1852740056596998e-08,DJI,2019
+1639,COD,Growing tobacco industry,MLT,2.091452231128923e-10,DJI,2019
+1640,COD,Growing fibre crops industry,MLT,9.860501168025674e-08,DJI,2019
+1641,COD,Growing crops n.e.c. industry,MLT,9.743304670502863e-08,DJI,2019
+1642,COD,Growing grapes industry,MLT,0.0,DJI,2019
+1643,COD,Growing fruits and nuts industry,MLT,9.498489801760597e-09,DJI,2019
+1644,COD,"Growing beverage crops (coffee, tea etc) industry",MLT,3.741142007904535e-07,DJI,2019
+1645,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MLT,2.795066541599272e-10,DJI,2019
+1646,COD,Seeds and plant propagation industry,MLT,0.0,DJI,2019
+1647,COD,Raising of cattle industry,MLT,4.440512888569293e-06,DJI,2019
+1648,COD,Growing wheat industry,MMR,8.942992236793071e-07,DJI,2019
+1649,COD,Growing maize industry,MMR,0.0,DJI,2019
+1650,COD,Growing cereals n.e.c industry,MMR,0.0,DJI,2019
+1651,COD,Growing leguminous crops and oil seeds industry,MMR,1.7033984626630438e-06,DJI,2019
+1652,COD,Growing rice industry,MMR,3.8637072184075723e-07,DJI,2019
+1653,COD,"Growing vegetables, roots, tubers industry",MMR,1.0048659082737993e-06,DJI,2019
+1654,COD,Growing sugar beet and cane industry,MMR,2.929128759176847e-07,DJI,2019
+1655,COD,Growing tobacco industry,MMR,3.301272627432462e-09,DJI,2019
+1656,COD,Growing fibre crops industry,MMR,5.198528234768826e-07,DJI,2019
+1657,COD,Growing crops n.e.c. industry,MMR,2.7696263132212825e-06,DJI,2019
+1658,COD,Growing grapes industry,MMR,0.0,DJI,2019
+1659,COD,Growing fruits and nuts industry,MMR,5.757967094657562e-08,DJI,2019
+1660,COD,"Growing beverage crops (coffee, tea etc) industry",MMR,2.165261303592643e-06,DJI,2019
+1661,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MMR,2.070426764514283e-09,DJI,2019
+1662,COD,Seeds and plant propagation industry,MMR,0.0,DJI,2019
+1663,COD,Raising of cattle industry,MMR,0.00010456391127911516,DJI,2019
+1664,COD,Growing wheat industry,MNG,1.9963972756735007e-08,DJI,2019
+1665,COD,Growing maize industry,MNG,0.0,DJI,2019
+1666,COD,Growing cereals n.e.c industry,MNG,0.0,DJI,2019
+1667,COD,Growing leguminous crops and oil seeds industry,MNG,4.4739404260517395e-08,DJI,2019
+1668,COD,Growing rice industry,MNG,7.859685144107364e-09,DJI,2019
+1669,COD,"Growing vegetables, roots, tubers industry",MNG,6.799630226972394e-08,DJI,2019
+1670,COD,Growing sugar beet and cane industry,MNG,8.940070992201443e-09,DJI,2019
+1671,COD,Growing tobacco industry,MNG,1.3737110881328597e-10,DJI,2019
+1672,COD,Growing fibre crops industry,MNG,8.583903545642423e-08,DJI,2019
+1673,COD,Growing crops n.e.c. industry,MNG,8.099481734403429e-08,DJI,2019
+1674,COD,Growing grapes industry,MNG,0.0,DJI,2019
+1675,COD,Growing fruits and nuts industry,MNG,8.330458654889303e-09,DJI,2019
+1676,COD,"Growing beverage crops (coffee, tea etc) industry",MNG,2.1125835253562206e-07,DJI,2019
+1677,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MNG,1.695334021444205e-10,DJI,2019
+1678,COD,Seeds and plant propagation industry,MNG,0.0,DJI,2019
+1679,COD,Raising of cattle industry,MNG,3.1753639310541595e-06,DJI,2019
+1680,COD,Growing wheat industry,MOZ,4.6895217598828276e-08,DJI,2019
+1681,COD,Growing maize industry,MOZ,0.0,DJI,2019
+1682,COD,Growing cereals n.e.c industry,MOZ,0.0,DJI,2019
+1683,COD,Growing leguminous crops and oil seeds industry,MOZ,1.1302052420119236e-07,DJI,2019
+1684,COD,Growing rice industry,MOZ,1.8357734311260904e-08,DJI,2019
+1685,COD,"Growing vegetables, roots, tubers industry",MOZ,2.8400926816272075e-07,DJI,2019
+1686,COD,Growing sugar beet and cane industry,MOZ,2.5816927156965375e-08,DJI,2019
+1687,COD,Growing tobacco industry,MOZ,3.327900983721108e-10,DJI,2019
+1688,COD,Growing fibre crops industry,MOZ,1.683858396084553e-07,DJI,2019
+1689,COD,Growing crops n.e.c. industry,MOZ,1.843542544984793e-07,DJI,2019
+1690,COD,Growing grapes industry,MOZ,0.0,DJI,2019
+1691,COD,Growing fruits and nuts industry,MOZ,4.8684880628666864e-08,DJI,2019
+1692,COD,"Growing beverage crops (coffee, tea etc) industry",MOZ,8.261522923245439e-07,DJI,2019
+1693,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MOZ,6.803060860957772e-10,DJI,2019
+1694,COD,Seeds and plant propagation industry,MOZ,0.0,DJI,2019
+1695,COD,Raising of cattle industry,MOZ,6.47106172385621e-06,DJI,2019
+1696,COD,Growing wheat industry,MRT,3.16548445244808e-08,DJI,2019
+1697,COD,Growing maize industry,MRT,0.0,DJI,2019
+1698,COD,Growing cereals n.e.c industry,MRT,0.0,DJI,2019
+1699,COD,Growing leguminous crops and oil seeds industry,MRT,6.509643653528726e-08,DJI,2019
+1700,COD,Growing rice industry,MRT,1.3074789629587493e-08,DJI,2019
+1701,COD,"Growing vegetables, roots, tubers industry",MRT,7.603097560614385e-08,DJI,2019
+1702,COD,Growing sugar beet and cane industry,MRT,1.2141479379965727e-08,DJI,2019
+1703,COD,Growing tobacco industry,MRT,1.7367574681434228e-10,DJI,2019
+1704,COD,Growing fibre crops industry,MRT,6.512111332336841e-08,DJI,2019
+1705,COD,Growing crops n.e.c. industry,MRT,1.0833973166176211e-07,DJI,2019
+1706,COD,Growing grapes industry,MRT,0.0,DJI,2019
+1707,COD,Growing fruits and nuts industry,MRT,9.110999839361718e-09,DJI,2019
+1708,COD,"Growing beverage crops (coffee, tea etc) industry",MRT,2.0951084013920428e-07,DJI,2019
+1709,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MRT,1.8187261874299026e-10,DJI,2019
+1710,COD,Seeds and plant propagation industry,MRT,0.0,DJI,2019
+1711,COD,Raising of cattle industry,MRT,4.479299152933744e-06,DJI,2019
+1712,COD,Growing wheat industry,MWI,2.8193567845915934e-08,DJI,2019
+1713,COD,Growing maize industry,MWI,0.0,DJI,2019
+1714,COD,Growing cereals n.e.c industry,MWI,0.0,DJI,2019
+1715,COD,Growing leguminous crops and oil seeds industry,MWI,7.016427536047313e-08,DJI,2019
+1716,COD,Growing rice industry,MWI,1.1403939054051495e-08,DJI,2019
+1717,COD,"Growing vegetables, roots, tubers industry",MWI,2.486074858393469e-07,DJI,2019
+1718,COD,Growing sugar beet and cane industry,MWI,1.9409707145335848e-08,DJI,2019
+1719,COD,Growing tobacco industry,MWI,1.8695070554922673e-10,DJI,2019
+1720,COD,Growing fibre crops industry,MWI,7.151330723106327e-08,DJI,2019
+1721,COD,Growing crops n.e.c. industry,MWI,9.926862407825741e-08,DJI,2019
+1722,COD,Growing grapes industry,MWI,0.0,DJI,2019
+1723,COD,Growing fruits and nuts industry,MWI,2.285777608311297e-08,DJI,2019
+1724,COD,"Growing beverage crops (coffee, tea etc) industry",MWI,7.43284105727595e-07,DJI,2019
+1725,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MWI,5.136754535727053e-10,DJI,2019
+1726,COD,Seeds and plant propagation industry,MWI,0.0,DJI,2019
+1727,COD,Raising of cattle industry,MWI,3.3585100354376816e-06,DJI,2019
+1728,COD,Growing wheat industry,MYS,1.444831269779637e-05,DJI,2019
+1729,COD,Growing maize industry,MYS,0.0,DJI,2019
+1730,COD,Growing cereals n.e.c industry,MYS,0.0,DJI,2019
+1731,COD,Growing leguminous crops and oil seeds industry,MYS,2.7236038778090383e-05,DJI,2019
+1732,COD,Growing rice industry,MYS,6.180376433954279e-06,DJI,2019
+1733,COD,"Growing vegetables, roots, tubers industry",MYS,1.2704043867530465e-05,DJI,2019
+1734,COD,Growing sugar beet and cane industry,MYS,4.630865152926178e-06,DJI,2019
+1735,COD,Growing tobacco industry,MYS,4.874176415338591e-08,DJI,2019
+1736,COD,Growing fibre crops industry,MYS,4.891711226523294e-06,DJI,2019
+1737,COD,Growing crops n.e.c. industry,MYS,4.4024531234483395e-05,DJI,2019
+1738,COD,Growing grapes industry,MYS,0.0,DJI,2019
+1739,COD,Growing fruits and nuts industry,MYS,6.08095298122488e-07,DJI,2019
+1740,COD,"Growing beverage crops (coffee, tea etc) industry",MYS,1.5774775854126708e-05,DJI,2019
+1741,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",MYS,2.474713618642924e-08,DJI,2019
+1742,COD,Seeds and plant propagation industry,MYS,0.0,DJI,2019
+1743,COD,Raising of cattle industry,MYS,0.0016203076018921228,DJI,2019
+1744,COD,Growing wheat industry,NAM,2.2920612404878373e-08,DJI,2019
+1745,COD,Growing maize industry,NAM,0.0,DJI,2019
+1746,COD,Growing cereals n.e.c industry,NAM,0.0,DJI,2019
+1747,COD,Growing leguminous crops and oil seeds industry,NAM,5.0631901982621936e-08,DJI,2019
+1748,COD,Growing rice industry,NAM,9.20403962177808e-09,DJI,2019
+1749,COD,"Growing vegetables, roots, tubers industry",NAM,7.450297742279685e-08,DJI,2019
+1750,COD,Growing sugar beet and cane industry,NAM,9.68346861290023e-09,DJI,2019
+1751,COD,Growing tobacco industry,NAM,1.3750744483684472e-10,DJI,2019
+1752,COD,Growing fibre crops industry,NAM,1.0649660981922629e-07,DJI,2019
+1753,COD,Growing crops n.e.c. industry,NAM,8.573646540472938e-08,DJI,2019
+1754,COD,Growing grapes industry,NAM,0.0,DJI,2019
+1755,COD,Growing fruits and nuts industry,NAM,1.0953341417208525e-08,DJI,2019
+1756,COD,"Growing beverage crops (coffee, tea etc) industry",NAM,2.1167914991337745e-07,DJI,2019
+1757,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NAM,2.02903042376021e-10,DJI,2019
+1758,COD,Seeds and plant propagation industry,NAM,0.0,DJI,2019
+1759,COD,Raising of cattle industry,NAM,3.1091785241530307e-06,DJI,2019
+1760,COD,Growing wheat industry,NER,5.153757914235351e-08,DJI,2019
+1761,COD,Growing maize industry,NER,0.0,DJI,2019
+1762,COD,Growing cereals n.e.c industry,NER,0.0,DJI,2019
+1763,COD,Growing leguminous crops and oil seeds industry,NER,1.0140184281216198e-07,DJI,2019
+1764,COD,Growing rice industry,NER,2.2054639875484207e-08,DJI,2019
+1765,COD,"Growing vegetables, roots, tubers industry",NER,9.519487390325342e-08,DJI,2019
+1766,COD,Growing sugar beet and cane industry,NER,1.8383273665570737e-08,DJI,2019
+1767,COD,Growing tobacco industry,NER,2.231211360185465e-10,DJI,2019
+1768,COD,Growing fibre crops industry,NER,7.108198370342209e-08,DJI,2019
+1769,COD,Growing crops n.e.c. industry,NER,1.6363537951071705e-07,DJI,2019
+1770,COD,Growing grapes industry,NER,0.0,DJI,2019
+1771,COD,Growing fruits and nuts industry,NER,6.740052344942972e-09,DJI,2019
+1772,COD,"Growing beverage crops (coffee, tea etc) industry",NER,2.504311709095474e-07,DJI,2019
+1773,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NER,2.0355470708202025e-10,DJI,2019
+1774,COD,Seeds and plant propagation industry,NER,0.0,DJI,2019
+1775,COD,Raising of cattle industry,NER,6.275598980845967e-06,DJI,2019
+1776,COD,Growing wheat industry,NGA,4.0764301502476444e-06,DJI,2019
+1777,COD,Growing maize industry,NGA,0.0,DJI,2019
+1778,COD,Growing cereals n.e.c industry,NGA,0.0,DJI,2019
+1779,COD,Growing leguminous crops and oil seeds industry,NGA,8.023751355093171e-06,DJI,2019
+1780,COD,Growing rice industry,NGA,1.7515672390149092e-06,DJI,2019
+1781,COD,"Growing vegetables, roots, tubers industry",NGA,7.180629581334878e-06,DJI,2019
+1782,COD,Growing sugar beet and cane industry,NGA,1.457546057599811e-06,DJI,2019
+1783,COD,Growing tobacco industry,NGA,1.7142793167383197e-08,DJI,2019
+1784,COD,Growing fibre crops industry,NGA,4.1460742818374456e-06,DJI,2019
+1785,COD,Growing crops n.e.c. industry,NGA,1.306711878582603e-05,DJI,2019
+1786,COD,Growing grapes industry,NGA,0.0,DJI,2019
+1787,COD,Growing fruits and nuts industry,NGA,4.088738464359958e-07,DJI,2019
+1788,COD,"Growing beverage crops (coffee, tea etc) industry",NGA,1.5802729189688515e-05,DJI,2019
+1789,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NGA,1.427483512956711e-08,DJI,2019
+1790,COD,Seeds and plant propagation industry,NGA,0.0,DJI,2019
+1791,COD,Raising of cattle industry,NGA,0.0005012833016845534,DJI,2019
+1792,COD,Growing wheat industry,NIC,2.2236896458369483e-08,DJI,2019
+1793,COD,Growing maize industry,NIC,0.0,DJI,2019
+1794,COD,Growing cereals n.e.c industry,NIC,0.0,DJI,2019
+1795,COD,Growing leguminous crops and oil seeds industry,NIC,4.6409922466788454e-08,DJI,2019
+1796,COD,Growing rice industry,NIC,9.162265285500927e-09,DJI,2019
+1797,COD,"Growing vegetables, roots, tubers industry",NIC,6.208792578952224e-08,DJI,2019
+1798,COD,Growing sugar beet and cane industry,NIC,8.717692378693806e-09,DJI,2019
+1799,COD,Growing tobacco industry,NIC,1.3661079257359348e-10,DJI,2019
+1800,COD,Growing fibre crops industry,NIC,5.126713813224892e-08,DJI,2019
+1801,COD,Growing crops n.e.c. industry,NIC,7.456468441630101e-08,DJI,2019
+1802,COD,Growing grapes industry,NIC,0.0,DJI,2019
+1803,COD,Growing fruits and nuts industry,NIC,5.292441158334136e-09,DJI,2019
+1804,COD,"Growing beverage crops (coffee, tea etc) industry",NIC,1.9027757096648765e-07,DJI,2019
+1805,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NIC,1.4872570100282708e-10,DJI,2019
+1806,COD,Seeds and plant propagation industry,NIC,0.0,DJI,2019
+1807,COD,Raising of cattle industry,NIC,3.104943902528247e-06,DJI,2019
+1808,COD,Growing wheat industry,NLD,1.971621389732371e-06,DJI,2019
+1809,COD,Growing maize industry,NLD,0.0,DJI,2019
+1810,COD,Growing cereals n.e.c industry,NLD,0.0,DJI,2019
+1811,COD,Growing leguminous crops and oil seeds industry,NLD,5.356857392895626e-06,DJI,2019
+1812,COD,Growing rice industry,NLD,7.134487840223004e-07,DJI,2019
+1813,COD,"Growing vegetables, roots, tubers industry",NLD,1.1872651598578036e-05,DJI,2019
+1814,COD,Growing sugar beet and cane industry,NLD,1.3592992257531723e-06,DJI,2019
+1815,COD,Growing tobacco industry,NLD,2.05013626913909e-08,DJI,2019
+1816,COD,Growing fibre crops industry,NLD,2.606273475803911e-05,DJI,2019
+1817,COD,Growing crops n.e.c. industry,NLD,1.1781522223430045e-05,DJI,2019
+1818,COD,Growing grapes industry,NLD,0.0,DJI,2019
+1819,COD,Growing fruits and nuts industry,NLD,1.612565755040865e-06,DJI,2019
+1820,COD,"Growing beverage crops (coffee, tea etc) industry",NLD,6.122328256417455e-05,DJI,2019
+1821,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NLD,3.837205652895568e-08,DJI,2019
+1822,COD,Seeds and plant propagation industry,NLD,0.0,DJI,2019
+1823,COD,Raising of cattle industry,NLD,0.0002740811544674256,DJI,2019
+1824,COD,Growing wheat industry,NOR,4.2770790958386415e-07,DJI,2019
+1825,COD,Growing maize industry,NOR,0.0,DJI,2019
+1826,COD,Growing cereals n.e.c industry,NOR,0.0,DJI,2019
+1827,COD,Growing leguminous crops and oil seeds industry,NOR,9.13527786762765e-07,DJI,2019
+1828,COD,Growing rice industry,NOR,1.726411979322005e-07,DJI,2019
+1829,COD,"Growing vegetables, roots, tubers industry",NOR,1.278624577431874e-06,DJI,2019
+1830,COD,Growing sugar beet and cane industry,NOR,1.7486142636578703e-07,DJI,2019
+1831,COD,Growing tobacco industry,NOR,2.817383085921784e-09,DJI,2019
+1832,COD,Growing fibre crops industry,NOR,1.1665942282709593e-06,DJI,2019
+1833,COD,Growing crops n.e.c. industry,NOR,1.5570873095082716e-06,DJI,2019
+1834,COD,Growing grapes industry,NOR,0.0,DJI,2019
+1835,COD,Growing fruits and nuts industry,NOR,1.7461768591529523e-07,DJI,2019
+1836,COD,"Growing beverage crops (coffee, tea etc) industry",NOR,3.931985621748399e-06,DJI,2019
+1837,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NOR,3.2357396116487223e-09,DJI,2019
+1838,COD,Seeds and plant propagation industry,NOR,0.0,DJI,2019
+1839,COD,Raising of cattle industry,NOR,6.70667588803829e-05,DJI,2019
+1840,COD,Growing wheat industry,NPL,2.2950123621214622e-07,DJI,2019
+1841,COD,Growing maize industry,NPL,0.0,DJI,2019
+1842,COD,Growing cereals n.e.c industry,NPL,0.0,DJI,2019
+1843,COD,Growing leguminous crops and oil seeds industry,NPL,4.7248458153258647e-07,DJI,2019
+1844,COD,Growing rice industry,NPL,9.625634287054723e-08,DJI,2019
+1845,COD,"Growing vegetables, roots, tubers industry",NPL,5.741019111303338e-07,DJI,2019
+1846,COD,Growing sugar beet and cane industry,NPL,8.659216509553875e-08,DJI,2019
+1847,COD,Growing tobacco industry,NPL,1.0785878823097564e-09,DJI,2019
+1848,COD,Growing fibre crops industry,NPL,5.445292134570194e-07,DJI,2019
+1849,COD,Growing crops n.e.c. industry,NPL,7.50668790042361e-07,DJI,2019
+1850,COD,Growing grapes industry,NPL,0.0,DJI,2019
+1851,COD,Growing fruits and nuts industry,NPL,5.207990340752376e-08,DJI,2019
+1852,COD,"Growing beverage crops (coffee, tea etc) industry",NPL,1.460758944702827e-06,DJI,2019
+1853,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NPL,1.3837616715416552e-09,DJI,2019
+1854,COD,Seeds and plant propagation industry,NPL,0.0,DJI,2019
+1855,COD,Raising of cattle industry,NPL,2.797606698599253e-05,DJI,2019
+1856,COD,Growing wheat industry,NZL,1.876199788618613e-07,DJI,2019
+1857,COD,Growing maize industry,NZL,0.0,DJI,2019
+1858,COD,Growing cereals n.e.c industry,NZL,0.0,DJI,2019
+1859,COD,Growing leguminous crops and oil seeds industry,NZL,4.7671420402376535e-07,DJI,2019
+1860,COD,Growing rice industry,NZL,7.055406009379208e-08,DJI,2019
+1861,COD,"Growing vegetables, roots, tubers industry",NZL,1.0567394948360966e-06,DJI,2019
+1862,COD,Growing sugar beet and cane industry,NZL,9.929559353121629e-08,DJI,2019
+1863,COD,Growing tobacco industry,NZL,1.763978833819799e-09,DJI,2019
+1864,COD,Growing fibre crops industry,NZL,1.318037506938695e-06,DJI,2019
+1865,COD,Growing crops n.e.c. industry,NZL,6.938548479460826e-07,DJI,2019
+1866,COD,Growing grapes industry,NZL,0.0,DJI,2019
+1867,COD,Growing fruits and nuts industry,NZL,1.6622816804321284e-07,DJI,2019
+1868,COD,"Growing beverage crops (coffee, tea etc) industry",NZL,3.0358906704823046e-06,DJI,2019
+1869,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",NZL,3.2355598392685433e-09,DJI,2019
+1870,COD,Seeds and plant propagation industry,NZL,0.0,DJI,2019
+1871,COD,Raising of cattle industry,NZL,2.8017920993090538e-05,DJI,2019
+1872,COD,Growing wheat industry,OMN,3.926340329114992e-07,DJI,2019
+1873,COD,Growing maize industry,OMN,0.0,DJI,2019
+1874,COD,Growing cereals n.e.c industry,OMN,0.0,DJI,2019
+1875,COD,Growing leguminous crops and oil seeds industry,OMN,1.438093403379431e-06,DJI,2019
+1876,COD,Growing rice industry,OMN,1.3093435564084842e-07,DJI,2019
+1877,COD,"Growing vegetables, roots, tubers industry",OMN,5.8199241913209824e-06,DJI,2019
+1878,COD,Growing sugar beet and cane industry,OMN,3.057671686002344e-07,DJI,2019
+1879,COD,Growing tobacco industry,OMN,4.411181239183418e-09,DJI,2019
+1880,COD,Growing fibre crops industry,OMN,4.969013099837117e-06,DJI,2019
+1881,COD,Growing crops n.e.c. industry,OMN,2.3048965532443138e-06,DJI,2019
+1882,COD,Growing grapes industry,OMN,0.0,DJI,2019
+1883,COD,Growing fruits and nuts industry,OMN,1.9308280793788953e-06,DJI,2019
+1884,COD,"Growing beverage crops (coffee, tea etc) industry",OMN,1.4016781267329249e-05,DJI,2019
+1885,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",OMN,1.563028136879159e-08,DJI,2019
+1886,COD,Seeds and plant propagation industry,OMN,0.0,DJI,2019
+1887,COD,Raising of cattle industry,OMN,4.033315015992512e-05,DJI,2019
+1888,COD,Growing wheat industry,PAK,1.2170493575462593e-06,DJI,2019
+1889,COD,Growing maize industry,PAK,0.0,DJI,2019
+1890,COD,Growing cereals n.e.c industry,PAK,0.0,DJI,2019
+1891,COD,Growing leguminous crops and oil seeds industry,PAK,3.25719511543888e-06,DJI,2019
+1892,COD,Growing rice industry,PAK,4.3982926923201226e-07,DJI,2019
+1893,COD,"Growing vegetables, roots, tubers industry",PAK,8.165036065572152e-06,DJI,2019
+1894,COD,Growing sugar beet and cane industry,PAK,6.224635358589809e-07,DJI,2019
+1895,COD,Growing tobacco industry,PAK,1.2134192664576101e-08,DJI,2019
+1896,COD,Growing fibre crops industry,PAK,9.198812500477291e-06,DJI,2019
+1897,COD,Growing crops n.e.c. industry,PAK,4.6315401289080485e-06,DJI,2019
+1898,COD,Growing grapes industry,PAK,0.0,DJI,2019
+1899,COD,Growing fruits and nuts industry,PAK,9.275096763419002e-07,DJI,2019
+1900,COD,"Growing beverage crops (coffee, tea etc) industry",PAK,3.795628918300718e-05,DJI,2019
+1901,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAK,2.6059055672639878e-08,DJI,2019
+1902,COD,Seeds and plant propagation industry,PAK,0.0,DJI,2019
+1903,COD,Raising of cattle industry,PAK,0.00014380022568149647,DJI,2019
+1904,COD,Growing wheat industry,PSE,5.229252463705744e-08,DJI,2019
+1905,COD,Growing maize industry,PSE,0.0,DJI,2019
+1906,COD,Growing cereals n.e.c industry,PSE,0.0,DJI,2019
+1907,COD,Growing leguminous crops and oil seeds industry,PSE,1.0567900096274013e-07,DJI,2019
+1908,COD,Growing rice industry,PSE,2.1967736342815877e-08,DJI,2019
+1909,COD,"Growing vegetables, roots, tubers industry",PSE,1.0809565843072015e-07,DJI,2019
+1910,COD,Growing sugar beet and cane industry,PSE,1.927093043853388e-08,DJI,2019
+1911,COD,Growing tobacco industry,PSE,2.4121452662480465e-10,DJI,2019
+1912,COD,Growing fibre crops industry,PSE,1.4400412314573384e-07,DJI,2019
+1913,COD,Growing crops n.e.c. industry,PSE,1.7201968116080043e-07,DJI,2019
+1914,COD,Growing grapes industry,PSE,0.0,DJI,2019
+1915,COD,Growing fruits and nuts industry,PSE,1.5616179273956243e-08,DJI,2019
+1916,COD,"Growing beverage crops (coffee, tea etc) industry",PSE,3.0231751220056634e-07,DJI,2019
+1917,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PSE,2.769626835226174e-10,DJI,2019
+1918,COD,Seeds and plant propagation industry,PSE,0.0,DJI,2019
+1919,COD,Raising of cattle industry,PSE,6.216841278844587e-06,DJI,2019
+1920,COD,Growing wheat industry,PAN,2.0515274716191934e-07,DJI,2019
+1921,COD,Growing maize industry,PAN,0.0,DJI,2019
+1922,COD,Growing cereals n.e.c industry,PAN,0.0,DJI,2019
+1923,COD,Growing leguminous crops and oil seeds industry,PAN,4.3012999515972133e-07,DJI,2019
+1924,COD,Growing rice industry,PAN,8.368591506345936e-08,DJI,2019
+1925,COD,"Growing vegetables, roots, tubers industry",PAN,6.083661239330453e-07,DJI,2019
+1926,COD,Growing sugar beet and cane industry,PAN,7.81411360806621e-08,DJI,2019
+1927,COD,Growing tobacco industry,PAN,1.569127048960689e-09,DJI,2019
+1928,COD,Growing fibre crops industry,PAN,3.366037194396577e-07,DJI,2019
+1929,COD,Growing crops n.e.c. industry,PAN,6.921572141028972e-07,DJI,2019
+1930,COD,Growing grapes industry,PAN,0.0,DJI,2019
+1931,COD,Growing fruits and nuts industry,PAN,3.666539809610575e-08,DJI,2019
+1932,COD,"Growing beverage crops (coffee, tea etc) industry",PAN,1.6312234256256324e-06,DJI,2019
+1933,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PAN,1.3665895702130595e-09,DJI,2019
+1934,COD,Seeds and plant propagation industry,PAN,0.0,DJI,2019
+1935,COD,Raising of cattle industry,PAN,4.0233968737739236e-05,DJI,2019
+1936,COD,Growing wheat industry,PER,3.0168915418869146e-05,DJI,2019
+1937,COD,Growing maize industry,PER,0.0,DJI,2019
+1938,COD,Growing cereals n.e.c industry,PER,0.0,DJI,2019
+1939,COD,Growing leguminous crops and oil seeds industry,PER,5.740381400964239e-05,DJI,2019
+1940,COD,Growing rice industry,PER,1.5182289204579365e-05,DJI,2019
+1941,COD,"Growing vegetables, roots, tubers industry",PER,3.344483771498583e-05,DJI,2019
+1942,COD,Growing sugar beet and cane industry,PER,9.97609277203773e-06,DJI,2019
+1943,COD,Growing tobacco industry,PER,1.01235970701021e-07,DJI,2019
+1944,COD,Growing fibre crops industry,PER,8.78299903386608e-06,DJI,2019
+1945,COD,Growing crops n.e.c. industry,PER,0.00010537161774805867,DJI,2019
+1946,COD,Growing grapes industry,PER,0.0,DJI,2019
+1947,COD,Growing fruits and nuts industry,PER,9.836998664090868e-07,DJI,2019
+1948,COD,"Growing beverage crops (coffee, tea etc) industry",PER,2.9996692091455396e-05,DJI,2019
+1949,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PER,5.908599955526717e-08,DJI,2019
+1950,COD,Seeds and plant propagation industry,PER,0.0,DJI,2019
+1951,COD,Raising of cattle industry,PER,0.0034232406029942914,DJI,2019
+1952,COD,Growing wheat industry,PHL,4.367812328126964e-07,DJI,2019
+1953,COD,Growing maize industry,PHL,0.0,DJI,2019
+1954,COD,Growing cereals n.e.c industry,PHL,0.0,DJI,2019
+1955,COD,Growing leguminous crops and oil seeds industry,PHL,9.464265962858766e-07,DJI,2019
+1956,COD,Growing rice industry,PHL,1.7636645045173212e-07,DJI,2019
+1957,COD,"Growing vegetables, roots, tubers industry",PHL,1.512048725319868e-06,DJI,2019
+1958,COD,Growing sugar beet and cane industry,PHL,1.723202520450938e-07,DJI,2019
+1959,COD,Growing tobacco industry,PHL,3.331363237407402e-09,DJI,2019
+1960,COD,Growing fibre crops industry,PHL,1.2247503172139889e-06,DJI,2019
+1961,COD,Growing crops n.e.c. industry,PHL,1.4975932449811965e-06,DJI,2019
+1962,COD,Growing grapes industry,PHL,0.0,DJI,2019
+1963,COD,Growing fruits and nuts industry,PHL,1.4808047948775779e-07,DJI,2019
+1964,COD,"Growing beverage crops (coffee, tea etc) industry",PHL,4.306294063622296e-06,DJI,2019
+1965,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PHL,3.5814774103669354e-09,DJI,2019
+1966,COD,Seeds and plant propagation industry,PHL,0.0,DJI,2019
+1967,COD,Raising of cattle industry,PHL,8.06302358444155e-05,DJI,2019
+1968,COD,Growing wheat industry,PNG,2.644763842259181e-08,DJI,2019
+1969,COD,Growing maize industry,PNG,0.0,DJI,2019
+1970,COD,Growing cereals n.e.c industry,PNG,0.0,DJI,2019
+1971,COD,Growing leguminous crops and oil seeds industry,PNG,6.052455474577559e-08,DJI,2019
+1972,COD,Growing rice industry,PNG,1.0405402643215552e-08,DJI,2019
+1973,COD,"Growing vegetables, roots, tubers industry",PNG,1.1091668425727521e-07,DJI,2019
+1974,COD,Growing sugar beet and cane industry,PNG,1.1603783643842241e-08,DJI,2019
+1975,COD,Growing tobacco industry,PNG,2.0052541707216328e-10,DJI,2019
+1976,COD,Growing fibre crops industry,PNG,1.4271025096070267e-07,DJI,2019
+1977,COD,Growing crops n.e.c. industry,PNG,9.779159077267788e-08,DJI,2019
+1978,COD,Growing grapes industry,PNG,0.0,DJI,2019
+1979,COD,Growing fruits and nuts industry,PNG,1.445070764974598e-08,DJI,2019
+1980,COD,"Growing beverage crops (coffee, tea etc) industry",PNG,4.0434825336150403e-07,DJI,2019
+1981,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PNG,2.9423796563748265e-10,DJI,2019
+1982,COD,Seeds and plant propagation industry,PNG,0.0,DJI,2019
+1983,COD,Raising of cattle industry,PNG,4.136931127627849e-06,DJI,2019
+1984,COD,Growing wheat industry,POL,1.4521050588520437e-06,DJI,2019
+1985,COD,Growing maize industry,POL,0.0,DJI,2019
+1986,COD,Growing cereals n.e.c industry,POL,0.0,DJI,2019
+1987,COD,Growing leguminous crops and oil seeds industry,POL,4.185720696533008e-06,DJI,2019
+1988,COD,Growing rice industry,POL,5.183655816505595e-07,DJI,2019
+1989,COD,"Growing vegetables, roots, tubers industry",POL,9.240283414256198e-06,DJI,2019
+1990,COD,Growing sugar beet and cane industry,POL,1.6528512265738034e-06,DJI,2019
+1991,COD,Growing tobacco industry,POL,1.0884334872712528e-08,DJI,2019
+1992,COD,Growing fibre crops industry,POL,7.626021913540155e-06,DJI,2019
+1993,COD,Growing crops n.e.c. industry,POL,1.6902463049546547e-05,DJI,2019
+1994,COD,Growing grapes industry,POL,0.0,DJI,2019
+1995,COD,Growing fruits and nuts industry,POL,7.153473762804312e-07,DJI,2019
+1996,COD,"Growing beverage crops (coffee, tea etc) industry",POL,2.6497428986050517e-05,DJI,2019
+1997,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",POL,2.4301783543646635e-08,DJI,2019
+1998,COD,Seeds and plant propagation industry,POL,0.0,DJI,2019
+1999,COD,Raising of cattle industry,POL,0.00016692910172239045,DJI,2019
+2000,COD,Growing wheat industry,PRK,3.9597516974761935e-08,DJI,2019
+2001,COD,Growing maize industry,PRK,0.0,DJI,2019
+2002,COD,Growing cereals n.e.c industry,PRK,0.0,DJI,2019
+2003,COD,Growing leguminous crops and oil seeds industry,PRK,9.851053239673097e-08,DJI,2019
+2004,COD,Growing rice industry,PRK,1.6016164944630934e-08,DJI,2019
+2005,COD,"Growing vegetables, roots, tubers industry",PRK,3.9325413056860057e-07,DJI,2019
+2006,COD,Growing sugar beet and cane industry,PRK,2.2497803835059006e-08,DJI,2019
+2007,COD,Growing tobacco industry,PRK,2.892952416076398e-10,DJI,2019
+2008,COD,Growing fibre crops industry,PRK,6.011071657467115e-08,DJI,2019
+2009,COD,Growing crops n.e.c. industry,PRK,1.3808531997784427e-07,DJI,2019
+2010,COD,Growing grapes industry,PRK,0.0,DJI,2019
+2011,COD,Growing fruits and nuts industry,PRK,1.2319723609791749e-08,DJI,2019
+2012,COD,"Growing beverage crops (coffee, tea etc) industry",PRK,1.738480779536631e-06,DJI,2019
+2013,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRK,7.358992599194525e-10,DJI,2019
+2014,COD,Seeds and plant propagation industry,PRK,0.0,DJI,2019
+2015,COD,Raising of cattle industry,PRK,4.606124240852702e-06,DJI,2019
+2016,COD,Growing wheat industry,PRT,4.840494519969131e-07,DJI,2019
+2017,COD,Growing maize industry,PRT,0.0,DJI,2019
+2018,COD,Growing cereals n.e.c industry,PRT,0.0,DJI,2019
+2019,COD,Growing leguminous crops and oil seeds industry,PRT,1.0033666177095967e-06,DJI,2019
+2020,COD,Growing rice industry,PRT,1.8551513688444964e-07,DJI,2019
+2021,COD,"Growing vegetables, roots, tubers industry",PRT,1.6099918894061611e-06,DJI,2019
+2022,COD,Growing sugar beet and cane industry,PRT,1.9554856392828265e-07,DJI,2019
+2023,COD,Growing tobacco industry,PRT,2.6524030500185138e-09,DJI,2019
+2024,COD,Growing fibre crops industry,PRT,9.458112962240899e-07,DJI,2019
+2025,COD,Growing crops n.e.c. industry,PRT,1.5982718316142204e-06,DJI,2019
+2026,COD,Growing grapes industry,PRT,0.0,DJI,2019
+2027,COD,Growing fruits and nuts industry,PRT,1.0814591024097467e-07,DJI,2019
+2028,COD,"Growing beverage crops (coffee, tea etc) industry",PRT,6.633847759266387e-06,DJI,2019
+2029,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRT,4.117000326931295e-09,DJI,2019
+2030,COD,Seeds and plant propagation industry,PRT,0.0,DJI,2019
+2031,COD,Raising of cattle industry,PRT,5.517152471266364e-05,DJI,2019
+2032,COD,Growing wheat industry,PRY,2.6139598728620602e-08,DJI,2019
+2033,COD,Growing maize industry,PRY,0.0,DJI,2019
+2034,COD,Growing cereals n.e.c industry,PRY,0.0,DJI,2019
+2035,COD,Growing leguminous crops and oil seeds industry,PRY,5.836486976760724e-08,DJI,2019
+2036,COD,Growing rice industry,PRY,1.0445282673158093e-08,DJI,2019
+2037,COD,"Growing vegetables, roots, tubers industry",PRY,9.115740408349958e-08,DJI,2019
+2038,COD,Growing sugar beet and cane industry,PRY,1.1027829200422803e-08,DJI,2019
+2039,COD,Growing tobacco industry,PRY,1.965180236858591e-10,DJI,2019
+2040,COD,Growing fibre crops industry,PRY,8.197411564650452e-08,DJI,2019
+2041,COD,Growing crops n.e.c. industry,PRY,9.935072715804146e-08,DJI,2019
+2042,COD,Growing grapes industry,PRY,0.0,DJI,2019
+2043,COD,Growing fruits and nuts industry,PRY,1.2337533410839806e-08,DJI,2019
+2044,COD,"Growing beverage crops (coffee, tea etc) industry",PRY,3.6077071384282416e-07,DJI,2019
+2045,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",PRY,2.5905775772866273e-10,DJI,2019
+2046,COD,Seeds and plant propagation industry,PRY,0.0,DJI,2019
+2047,COD,Raising of cattle industry,PRY,4.181366447204223e-06,DJI,2019
+2048,COD,Growing wheat industry,QAT,3.1295996780622624e-07,DJI,2019
+2049,COD,Growing maize industry,QAT,0.0,DJI,2019
+2050,COD,Growing cereals n.e.c industry,QAT,0.0,DJI,2019
+2051,COD,Growing leguminous crops and oil seeds industry,QAT,1.0197644260876106e-06,DJI,2019
+2052,COD,Growing rice industry,QAT,1.0459444117934578e-07,DJI,2019
+2053,COD,"Growing vegetables, roots, tubers industry",QAT,3.079514213236925e-06,DJI,2019
+2054,COD,Growing sugar beet and cane industry,QAT,2.1511071174765246e-07,DJI,2019
+2055,COD,Growing tobacco industry,QAT,3.147064456803305e-09,DJI,2019
+2056,COD,Growing fibre crops industry,QAT,4.639177762810627e-06,DJI,2019
+2057,COD,Growing crops n.e.c. industry,QAT,1.309759066514893e-06,DJI,2019
+2058,COD,Growing grapes industry,QAT,0.0,DJI,2019
+2059,COD,Growing fruits and nuts industry,QAT,7.502201422622639e-07,DJI,2019
+2060,COD,"Growing beverage crops (coffee, tea etc) industry",QAT,7.934419132908575e-06,DJI,2019
+2061,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",QAT,9.605199015647463e-09,DJI,2019
+2062,COD,Seeds and plant propagation industry,QAT,0.0,DJI,2019
+2063,COD,Raising of cattle industry,QAT,3.681376567869206e-05,DJI,2019
+2064,COD,Growing wheat industry,ROU,2.458618713301937e-06,DJI,2019
+2065,COD,Growing maize industry,ROU,0.0,DJI,2019
+2066,COD,Growing cereals n.e.c industry,ROU,0.0,DJI,2019
+2067,COD,Growing leguminous crops and oil seeds industry,ROU,4.621107605943658e-06,DJI,2019
+2068,COD,Growing rice industry,ROU,1.0532518201536544e-06,DJI,2019
+2069,COD,"Growing vegetables, roots, tubers industry",ROU,2.122984032211974e-06,DJI,2019
+2070,COD,Growing sugar beet and cane industry,ROU,7.955915240491166e-07,DJI,2019
+2071,COD,Growing tobacco industry,ROU,8.187828410012975e-09,DJI,2019
+2072,COD,Growing fibre crops industry,ROU,9.569249761230625e-07,DJI,2019
+2073,COD,Growing crops n.e.c. industry,ROU,7.590136662764995e-06,DJI,2019
+2074,COD,Growing grapes industry,ROU,0.0,DJI,2019
+2075,COD,Growing fruits and nuts industry,ROU,9.006635170102638e-08,DJI,2019
+2076,COD,"Growing beverage crops (coffee, tea etc) industry",ROU,2.907427155270899e-06,DJI,2019
+2077,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ROU,4.1442821479712655e-09,DJI,2019
+2078,COD,Seeds and plant propagation industry,ROU,0.0,DJI,2019
+2079,COD,Raising of cattle industry,ROU,0.0002734063205527948,DJI,2019
+2080,COD,Growing wheat industry,RUS,1.0493715424161506e-06,DJI,2019
+2081,COD,Growing maize industry,RUS,0.0,DJI,2019
+2082,COD,Growing cereals n.e.c industry,RUS,0.0,DJI,2019
+2083,COD,Growing leguminous crops and oil seeds industry,RUS,2.360849371271632e-06,DJI,2019
+2084,COD,Growing rice industry,RUS,4.0897541833628336e-07,DJI,2019
+2085,COD,"Growing vegetables, roots, tubers industry",RUS,3.996538518757366e-06,DJI,2019
+2086,COD,Growing sugar beet and cane industry,RUS,4.7422337546591474e-07,DJI,2019
+2087,COD,Growing tobacco industry,RUS,7.623040013947194e-09,DJI,2019
+2088,COD,Growing fibre crops industry,RUS,4.306976134314889e-06,DJI,2019
+2089,COD,Growing crops n.e.c. industry,RUS,4.17147688243831e-06,DJI,2019
+2090,COD,Growing grapes industry,RUS,0.0,DJI,2019
+2091,COD,Growing fruits and nuts industry,RUS,4.2343621241985264e-07,DJI,2019
+2092,COD,"Growing beverage crops (coffee, tea etc) industry",RUS,1.4721753696479953e-05,DJI,2019
+2093,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RUS,1.0578700758850336e-08,DJI,2019
+2094,COD,Seeds and plant propagation industry,RUS,0.0,DJI,2019
+2095,COD,Raising of cattle industry,RUS,0.00016310284587323586,DJI,2019
+2096,COD,Growing wheat industry,RWA,1.0092411600028552e-07,DJI,2019
+2097,COD,Growing maize industry,RWA,0.0,DJI,2019
+2098,COD,Growing cereals n.e.c industry,RWA,0.0,DJI,2019
+2099,COD,Growing leguminous crops and oil seeds industry,RWA,2.0524396311164742e-07,DJI,2019
+2100,COD,Growing rice industry,RWA,4.2340006322252126e-08,DJI,2019
+2101,COD,"Growing vegetables, roots, tubers industry",RWA,2.2533072540109107e-07,DJI,2019
+2102,COD,Growing sugar beet and cane industry,RWA,3.788832001912064e-08,DJI,2019
+2103,COD,Growing tobacco industry,RWA,4.822680285104609e-10,DJI,2019
+2104,COD,Growing fibre crops industry,RWA,1.7239825050482072e-07,DJI,2019
+2105,COD,Growing crops n.e.c. industry,RWA,3.3556209791191255e-07,DJI,2019
+2106,COD,Growing grapes industry,RWA,0.0,DJI,2019
+2107,COD,Growing fruits and nuts industry,RWA,1.8343781255650166e-08,DJI,2019
+2108,COD,"Growing beverage crops (coffee, tea etc) industry",RWA,8.051083926798595e-07,DJI,2019
+2109,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",RWA,5.920169932690256e-10,DJI,2019
+2110,COD,Seeds and plant propagation industry,RWA,0.0,DJI,2019
+2111,COD,Raising of cattle industry,RWA,1.1834765010724723e-05,DJI,2019
+2112,COD,Growing wheat industry,SAU,3.918638301755592e-06,DJI,2019
+2113,COD,Growing maize industry,SAU,0.0,DJI,2019
+2114,COD,Growing cereals n.e.c industry,SAU,0.0,DJI,2019
+2115,COD,Growing leguminous crops and oil seeds industry,SAU,2.1868308248339175e-05,DJI,2019
+2116,COD,Growing rice industry,SAU,1.1895841125945942e-06,DJI,2019
+2117,COD,"Growing vegetables, roots, tubers industry",SAU,0.00011854876694113753,DJI,2019
+2118,COD,Growing sugar beet and cane industry,SAU,4.8069597443549114e-06,DJI,2019
+2119,COD,Growing tobacco industry,SAU,6.13746797494059e-08,DJI,2019
+2120,COD,Growing fibre crops industry,SAU,7.005169027547997e-05,DJI,2019
+2121,COD,Growing crops n.e.c. industry,SAU,4.090831470947154e-05,DJI,2019
+2122,COD,Growing grapes industry,SAU,0.0,DJI,2019
+2123,COD,Growing fruits and nuts industry,SAU,5.0024103898857326e-05,DJI,2019
+2124,COD,"Growing beverage crops (coffee, tea etc) industry",SAU,0.00016092563124361862,DJI,2019
+2125,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SAU,2.7539333235327446e-07,DJI,2019
+2126,COD,Seeds and plant propagation industry,SAU,0.0,DJI,2019
+2127,COD,Raising of cattle industry,SAU,0.0003969581528146919,DJI,2019
+2128,COD,Growing wheat industry,SDS,2.46834535932799e-07,DJI,2019
+2129,COD,Growing maize industry,SDS,0.0,DJI,2019
+2130,COD,Growing cereals n.e.c industry,SDS,0.0,DJI,2019
+2131,COD,Growing leguminous crops and oil seeds industry,SDS,4.780845431742527e-07,DJI,2019
+2132,COD,Growing rice industry,SDS,1.051680221610198e-07,DJI,2019
+2133,COD,"Growing vegetables, roots, tubers industry",SDS,3.64192856886625e-07,DJI,2019
+2134,COD,Growing sugar beet and cane industry,SDS,8.178032268504909e-08,DJI,2019
+2135,COD,Growing tobacco industry,SDS,1.0660456254416188e-09,DJI,2019
+2136,COD,Growing fibre crops industry,SDS,1.9472960937410958e-07,DJI,2019
+2137,COD,Growing crops n.e.c. industry,SDS,7.75329312423205e-07,DJI,2019
+2138,COD,Growing grapes industry,SDS,0.0,DJI,2019
+2139,COD,Growing fruits and nuts industry,SDS,3.738790837144056e-08,DJI,2019
+2140,COD,"Growing beverage crops (coffee, tea etc) industry",SDS,1.8047156628252974e-06,DJI,2019
+2141,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDS,1.102234842442775e-09,DJI,2019
+2142,COD,Seeds and plant propagation industry,SDS,0.0,DJI,2019
+2143,COD,Raising of cattle industry,SDS,2.7770401086912987e-05,DJI,2019
+2144,COD,Growing wheat industry,SEN,1.204801167945923e-07,DJI,2019
+2145,COD,Growing maize industry,SEN,0.0,DJI,2019
+2146,COD,Growing cereals n.e.c industry,SEN,0.0,DJI,2019
+2147,COD,Growing leguminous crops and oil seeds industry,SEN,2.5292308342720613e-07,DJI,2019
+2148,COD,Growing rice industry,SEN,5.0402231347414105e-08,DJI,2019
+2149,COD,"Growing vegetables, roots, tubers industry",SEN,3.460482912313011e-07,DJI,2019
+2150,COD,Growing sugar beet and cane industry,SEN,4.81820312521563e-08,DJI,2019
+2151,COD,Growing tobacco industry,SEN,5.914701584802309e-10,DJI,2019
+2152,COD,Growing fibre crops industry,SEN,4.616789772069694e-07,DJI,2019
+2153,COD,Growing crops n.e.c. industry,SEN,3.981900575151476e-07,DJI,2019
+2154,COD,Growing grapes industry,SEN,0.0,DJI,2019
+2155,COD,Growing fruits and nuts industry,SEN,3.9774968770587205e-08,DJI,2019
+2156,COD,"Growing beverage crops (coffee, tea etc) industry",SEN,9.343521446047526e-07,DJI,2019
+2157,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SEN,7.698180961875287e-10,DJI,2019
+2158,COD,Seeds and plant propagation industry,SEN,0.0,DJI,2019
+2159,COD,Raising of cattle industry,SEN,1.4697018337701336e-05,DJI,2019
+2160,COD,Growing wheat industry,SGP,1.438236279226972e-06,DJI,2019
+2161,COD,Growing maize industry,SGP,0.0,DJI,2019
+2162,COD,Growing cereals n.e.c industry,SGP,0.0,DJI,2019
+2163,COD,Growing leguminous crops and oil seeds industry,SGP,3.357486748246825e-06,DJI,2019
+2164,COD,Growing rice industry,SGP,5.464370289494164e-07,DJI,2019
+2165,COD,"Growing vegetables, roots, tubers industry",SGP,6.943821866614005e-06,DJI,2019
+2166,COD,Growing sugar beet and cane industry,SGP,6.286375903392094e-07,DJI,2019
+2167,COD,Growing tobacco industry,SGP,1.3241392145718817e-08,DJI,2019
+2168,COD,Growing fibre crops industry,SGP,5.474366705840403e-06,DJI,2019
+2169,COD,Growing crops n.e.c. industry,SGP,5.024688504133726e-06,DJI,2019
+2170,COD,Growing grapes industry,SGP,0.0,DJI,2019
+2171,COD,Growing fruits and nuts industry,SGP,6.743214932311839e-07,DJI,2019
+2172,COD,"Growing beverage crops (coffee, tea etc) industry",SGP,3.2065621075613165e-05,DJI,2019
+2173,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SGP,2.0997309236956817e-08,DJI,2019
+2174,COD,Seeds and plant propagation industry,SGP,0.0,DJI,2019
+2175,COD,Raising of cattle industry,SGP,0.0002441826361165519,DJI,2019
+2176,COD,Growing wheat industry,SLE,5.967696689959686e-08,DJI,2019
+2177,COD,Growing maize industry,SLE,0.0,DJI,2019
+2178,COD,Growing cereals n.e.c industry,SLE,0.0,DJI,2019
+2179,COD,Growing leguminous crops and oil seeds industry,SLE,1.1638241694090722e-07,DJI,2019
+2180,COD,Growing rice industry,SLE,2.565373345322039e-08,DJI,2019
+2181,COD,"Growing vegetables, roots, tubers industry",SLE,1.0035455013179745e-07,DJI,2019
+2182,COD,Growing sugar beet and cane industry,SLE,2.1063715452203313e-08,DJI,2019
+2183,COD,Growing tobacco industry,SLE,2.509849701573123e-10,DJI,2019
+2184,COD,Growing fibre crops industry,SLE,4.140147756633773e-08,DJI,2019
+2185,COD,Growing crops n.e.c. industry,SLE,1.9017614906852365e-07,DJI,2019
+2186,COD,Growing grapes industry,SLE,0.0,DJI,2019
+2187,COD,Growing fruits and nuts industry,SLE,5.389374793757057e-09,DJI,2019
+2188,COD,"Growing beverage crops (coffee, tea etc) industry",SLE,2.28064919167304e-07,DJI,2019
+2189,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLE,2.0166402297194338e-10,DJI,2019
+2190,COD,Seeds and plant propagation industry,SLE,0.0,DJI,2019
+2191,COD,Raising of cattle industry,SLE,7.38598179022263e-06,DJI,2019
+2192,COD,Growing wheat industry,SLV,4.5864900531181225e-08,DJI,2019
+2193,COD,Growing maize industry,SLV,0.0,DJI,2019
+2194,COD,Growing cereals n.e.c industry,SLV,0.0,DJI,2019
+2195,COD,Growing leguminous crops and oil seeds industry,SLV,1.2057376175587493e-07,DJI,2019
+2196,COD,Growing rice industry,SLV,1.8304349872543917e-08,DJI,2019
+2197,COD,"Growing vegetables, roots, tubers industry",SLV,4.5407228486445405e-07,DJI,2019
+2198,COD,Growing sugar beet and cane industry,SLV,2.403645412392204e-08,DJI,2019
+2199,COD,Growing tobacco industry,SLV,3.6358622146712077e-10,DJI,2019
+2200,COD,Growing fibre crops industry,SLV,3.996027149498896e-07,DJI,2019
+2201,COD,Growing crops n.e.c. industry,SLV,1.6103344963836167e-07,DJI,2019
+2202,COD,Growing grapes industry,SLV,0.0,DJI,2019
+2203,COD,Growing fruits and nuts industry,SLV,2.654247071126841e-08,DJI,2019
+2204,COD,"Growing beverage crops (coffee, tea etc) industry",SLV,1.947771472640442e-06,DJI,2019
+2205,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SLV,8.528028688301183e-10,DJI,2019
+2206,COD,Seeds and plant propagation industry,SLV,0.0,DJI,2019
+2207,COD,Raising of cattle industry,SLV,5.817645577423565e-06,DJI,2019
+2208,COD,Growing wheat industry,SOM,9.100091862867565e-08,DJI,2019
+2209,COD,Growing maize industry,SOM,0.0,DJI,2019
+2210,COD,Growing cereals n.e.c industry,SOM,0.0,DJI,2019
+2211,COD,Growing leguminous crops and oil seeds industry,SOM,2.561304845868847e-07,DJI,2019
+2212,COD,Growing rice industry,SOM,3.2228767127288014e-08,DJI,2019
+2213,COD,"Growing vegetables, roots, tubers industry",SOM,7.265064873560259e-07,DJI,2019
+2214,COD,Growing sugar beet and cane industry,SOM,5.295810143520982e-08,DJI,2019
+2215,COD,Growing tobacco industry,SOM,8.539426913306194e-10,DJI,2019
+2216,COD,Growing fibre crops industry,SOM,1.2285946422541717e-06,DJI,2019
+2217,COD,Growing crops n.e.c. industry,SOM,3.733535043324678e-07,DJI,2019
+2218,COD,Growing grapes industry,SOM,0.0,DJI,2019
+2219,COD,Growing fruits and nuts industry,SOM,1.952638544613368e-07,DJI,2019
+2220,COD,"Growing beverage crops (coffee, tea etc) industry",SOM,2.6813006280723915e-06,DJI,2019
+2221,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SOM,2.333429588625246e-09,DJI,2019
+2222,COD,Seeds and plant propagation industry,SOM,0.0,DJI,2019
+2223,COD,Raising of cattle industry,SOM,9.62225291037695e-06,DJI,2019
+2224,COD,Growing wheat industry,SRB,3.716506468453652e-08,DJI,2019
+2225,COD,Growing maize industry,SRB,0.0,DJI,2019
+2226,COD,Growing cereals n.e.c industry,SRB,0.0,DJI,2019
+2227,COD,Growing leguminous crops and oil seeds industry,SRB,7.896127161506336e-08,DJI,2019
+2228,COD,Growing rice industry,SRB,1.4977967824890295e-08,DJI,2019
+2229,COD,"Growing vegetables, roots, tubers industry",SRB,1.0736138261780953e-07,DJI,2019
+2230,COD,Growing sugar beet and cane industry,SRB,1.5002117925165664e-08,DJI,2019
+2231,COD,Growing tobacco industry,SRB,2.461717645118987e-10,DJI,2019
+2232,COD,Growing fibre crops industry,SRB,1.1394504045604867e-07,DJI,2019
+2233,COD,Growing crops n.e.c. industry,SRB,1.3635348454489768e-07,DJI,2019
+2234,COD,Growing grapes industry,SRB,0.0,DJI,2019
+2235,COD,Growing fruits and nuts industry,SRB,1.1451231204772492e-08,DJI,2019
+2236,COD,"Growing beverage crops (coffee, tea etc) industry",SRB,3.0212062408663013e-07,DJI,2019
+2237,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SRB,2.601310744316236e-10,DJI,2019
+2238,COD,Seeds and plant propagation industry,SRB,0.0,DJI,2019
+2239,COD,Raising of cattle industry,SRB,6.0795085824130505e-06,DJI,2019
+2240,COD,Growing wheat industry,SDN,2.7859356759121934e-07,DJI,2019
+2241,COD,Growing maize industry,SDN,0.0,DJI,2019
+2242,COD,Growing cereals n.e.c industry,SDN,0.0,DJI,2019
+2243,COD,Growing leguminous crops and oil seeds industry,SDN,6.405696640530785e-07,DJI,2019
+2244,COD,Growing rice industry,SDN,1.0810742412329203e-07,DJI,2019
+2245,COD,"Growing vegetables, roots, tubers industry",SDN,1.4680598140903652e-06,DJI,2019
+2246,COD,Growing sugar beet and cane industry,SDN,1.3569457705895902e-07,DJI,2019
+2247,COD,Growing tobacco industry,SDN,1.715807004818437e-09,DJI,2019
+2248,COD,Growing fibre crops industry,SDN,1.2766956163930468e-06,DJI,2019
+2249,COD,Growing crops n.e.c. industry,SDN,9.797285611435243e-07,DJI,2019
+2250,COD,Growing grapes industry,SDN,0.0,DJI,2019
+2251,COD,Growing fruits and nuts industry,SDN,1.583733913173343e-07,DJI,2019
+2252,COD,"Growing beverage crops (coffee, tea etc) industry",SDN,5.107397966068494e-06,DJI,2019
+2253,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SDN,3.45962136758796e-09,DJI,2019
+2254,COD,Seeds and plant propagation industry,SDN,0.0,DJI,2019
+2255,COD,Raising of cattle industry,SDN,3.07781968607973e-05,DJI,2019
+2256,COD,Growing wheat industry,SVK,1.835920094509795e-06,DJI,2019
+2257,COD,Growing maize industry,SVK,0.0,DJI,2019
+2258,COD,Growing cereals n.e.c industry,SVK,0.0,DJI,2019
+2259,COD,Growing leguminous crops and oil seeds industry,SVK,4.151860546141357e-06,DJI,2019
+2260,COD,Growing rice industry,SVK,6.988330875307127e-07,DJI,2019
+2261,COD,"Growing vegetables, roots, tubers industry",SVK,8.912024308096069e-06,DJI,2019
+2262,COD,Growing sugar beet and cane industry,SVK,8.338038632407925e-07,DJI,2019
+2263,COD,Growing tobacco industry,SVK,1.26860198367358e-08,DJI,2019
+2264,COD,Growing fibre crops industry,SVK,9.564630221774561e-06,DJI,2019
+2265,COD,Growing crops n.e.c. industry,SVK,7.022157305827038e-06,DJI,2019
+2266,COD,Growing grapes industry,SVK,0.0,DJI,2019
+2267,COD,Growing fruits and nuts industry,SVK,7.564940632327127e-07,DJI,2019
+2268,COD,"Growing beverage crops (coffee, tea etc) industry",SVK,3.463896397926421e-05,DJI,2019
+2269,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVK,2.3902588376310345e-08,DJI,2019
+2270,COD,Seeds and plant propagation industry,SVK,0.0,DJI,2019
+2271,COD,Raising of cattle industry,SVK,0.00019679050067142543,DJI,2019
+2272,COD,Growing wheat industry,SVN,6.25040611366778e-08,DJI,2019
+2273,COD,Growing maize industry,SVN,0.0,DJI,2019
+2274,COD,Growing cereals n.e.c industry,SVN,0.0,DJI,2019
+2275,COD,Growing leguminous crops and oil seeds industry,SVN,1.4637278192270484e-07,DJI,2019
+2276,COD,Growing rice industry,SVN,2.425089777225728e-08,DJI,2019
+2277,COD,"Growing vegetables, roots, tubers industry",SVN,2.567905430689579e-07,DJI,2019
+2278,COD,Growing sugar beet and cane industry,SVN,2.8687020230835262e-08,DJI,2019
+2279,COD,Growing tobacco industry,SVN,4.274071123583034e-10,DJI,2019
+2280,COD,Growing fibre crops industry,SVN,4.193360585018807e-07,DJI,2019
+2281,COD,Growing crops n.e.c. industry,SVN,2.510906837728444e-07,DJI,2019
+2282,COD,Growing grapes industry,SVN,0.0,DJI,2019
+2283,COD,Growing fruits and nuts industry,SVN,3.152099435386323e-08,DJI,2019
+2284,COD,"Growing beverage crops (coffee, tea etc) industry",SVN,8.409193421612661e-07,DJI,2019
+2285,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SVN,6.649544712593554e-10,DJI,2019
+2286,COD,Seeds and plant propagation industry,SVN,0.0,DJI,2019
+2287,COD,Raising of cattle industry,SVN,8.384733247832889e-06,DJI,2019
+2288,COD,Growing wheat industry,SWE,4.902231311788626e-07,DJI,2019
+2289,COD,Growing maize industry,SWE,0.0,DJI,2019
+2290,COD,Growing cereals n.e.c industry,SWE,0.0,DJI,2019
+2291,COD,Growing leguminous crops and oil seeds industry,SWE,1.3004338985112314e-06,DJI,2019
+2292,COD,Growing rice industry,SWE,1.8155435476385288e-07,DJI,2019
+2293,COD,"Growing vegetables, roots, tubers industry",SWE,3.2894426471131124e-06,DJI,2019
+2294,COD,Growing sugar beet and cane industry,SWE,2.599847235150861e-07,DJI,2019
+2295,COD,Growing tobacco industry,SWE,5.0151814148075674e-09,DJI,2019
+2296,COD,Growing fibre crops industry,SWE,3.8866404176729395e-06,DJI,2019
+2297,COD,Growing crops n.e.c. industry,SWE,2.0184117519047633e-06,DJI,2019
+2298,COD,Growing grapes industry,SWE,0.0,DJI,2019
+2299,COD,Growing fruits and nuts industry,SWE,3.3267572741512184e-07,DJI,2019
+2300,COD,"Growing beverage crops (coffee, tea etc) industry",SWE,1.2683129986913957e-05,DJI,2019
+2301,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SWE,8.78942809717857e-09,DJI,2019
+2302,COD,Seeds and plant propagation industry,SWE,0.0,DJI,2019
+2303,COD,Raising of cattle industry,SWE,7.409889322733867e-05,DJI,2019
+2304,COD,Growing wheat industry,SYR,5.832736753872546e-08,DJI,2019
+2305,COD,Growing maize industry,SYR,0.0,DJI,2019
+2306,COD,Growing cereals n.e.c industry,SYR,0.0,DJI,2019
+2307,COD,Growing leguminous crops and oil seeds industry,SYR,1.4919074312293246e-07,DJI,2019
+2308,COD,Growing rice industry,SYR,2.218747656796016e-08,DJI,2019
+2309,COD,"Growing vegetables, roots, tubers industry",SYR,3.581118482753615e-07,DJI,2019
+2310,COD,Growing sugar beet and cane industry,SYR,3.009206035197108e-08,DJI,2019
+2311,COD,Growing tobacco industry,SYR,4.436440492804501e-10,DJI,2019
+2312,COD,Growing fibre crops industry,SYR,3.723236263413239e-07,DJI,2019
+2313,COD,Growing crops n.e.c. industry,SYR,2.433714152512063e-07,DJI,2019
+2314,COD,Growing grapes industry,SYR,0.0,DJI,2019
+2315,COD,Growing fruits and nuts industry,SYR,8.647417960427611e-08,DJI,2019
+2316,COD,"Growing beverage crops (coffee, tea etc) industry",SYR,1.061636427563828e-06,DJI,2019
+2317,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",SYR,9.962643387872158e-10,DJI,2019
+2318,COD,Seeds and plant propagation industry,SYR,0.0,DJI,2019
+2319,COD,Raising of cattle industry,SYR,7.3838616607968776e-06,DJI,2019
+2320,COD,Growing wheat industry,TCD,2.0995861145507062e-08,DJI,2019
+2321,COD,Growing maize industry,TCD,0.0,DJI,2019
+2322,COD,Growing cereals n.e.c industry,TCD,0.0,DJI,2019
+2323,COD,Growing leguminous crops and oil seeds industry,TCD,4.619915043350861e-08,DJI,2019
+2324,COD,Growing rice industry,TCD,8.367827887905037e-09,DJI,2019
+2325,COD,"Growing vegetables, roots, tubers industry",TCD,7.103012118488402e-08,DJI,2019
+2326,COD,Growing sugar beet and cane industry,TCD,8.826471046196368e-09,DJI,2019
+2327,COD,Growing tobacco industry,TCD,1.336100611753005e-10,DJI,2019
+2328,COD,Growing fibre crops industry,TCD,7.253453451081067e-08,DJI,2019
+2329,COD,Growing crops n.e.c. industry,TCD,7.778085600120212e-08,DJI,2019
+2330,COD,Growing grapes industry,TCD,0.0,DJI,2019
+2331,COD,Growing fruits and nuts industry,TCD,1.116668713636237e-08,DJI,2019
+2332,COD,"Growing beverage crops (coffee, tea etc) industry",TCD,2.458005067730793e-07,DJI,2019
+2333,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TCD,2.004507469848008e-10,DJI,2019
+2334,COD,Seeds and plant propagation industry,TCD,0.0,DJI,2019
+2335,COD,Raising of cattle industry,TCD,2.8783983324669245e-06,DJI,2019
+2336,COD,Growing wheat industry,TGO,1.3801012239601066e-08,DJI,2019
+2337,COD,Growing maize industry,TGO,0.0,DJI,2019
+2338,COD,Growing cereals n.e.c industry,TGO,0.0,DJI,2019
+2339,COD,Growing leguminous crops and oil seeds industry,TGO,2.8243452520040817e-08,DJI,2019
+2340,COD,Growing rice industry,TGO,5.700360592899581e-09,DJI,2019
+2341,COD,"Growing vegetables, roots, tubers industry",TGO,3.0400853921449985e-08,DJI,2019
+2342,COD,Growing sugar beet and cane industry,TGO,5.1841784540514455e-09,DJI,2019
+2343,COD,Growing tobacco industry,TGO,7.168854750932978e-11,DJI,2019
+2344,COD,Growing fibre crops industry,TGO,2.62200497532349e-08,DJI,2019
+2345,COD,Growing crops n.e.c. industry,TGO,4.661547672160401e-08,DJI,2019
+2346,COD,Growing grapes industry,TGO,0.0,DJI,2019
+2347,COD,Growing fruits and nuts industry,TGO,3.829602257435199e-09,DJI,2019
+2348,COD,"Growing beverage crops (coffee, tea etc) industry",TGO,1.0406894218449019e-07,DJI,2019
+2349,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TGO,8.088814567243208e-11,DJI,2019
+2350,COD,Seeds and plant propagation industry,TGO,0.0,DJI,2019
+2351,COD,Raising of cattle industry,TGO,1.8069675207289252e-06,DJI,2019
+2352,COD,Growing wheat industry,THA,1.2104753146929847e-06,DJI,2019
+2353,COD,Growing maize industry,THA,0.0,DJI,2019
+2354,COD,Growing cereals n.e.c industry,THA,0.0,DJI,2019
+2355,COD,Growing leguminous crops and oil seeds industry,THA,2.812161611699678e-06,DJI,2019
+2356,COD,Growing rice industry,THA,4.809341173041136e-07,DJI,2019
+2357,COD,"Growing vegetables, roots, tubers industry",THA,5.3664212906426845e-06,DJI,2019
+2358,COD,Growing sugar beet and cane industry,THA,5.365185138650412e-07,DJI,2019
+2359,COD,Growing tobacco industry,THA,9.778837349289154e-09,DJI,2019
+2360,COD,Growing fibre crops industry,THA,1.592137427746791e-05,DJI,2019
+2361,COD,Growing crops n.e.c. industry,THA,4.417178023839695e-06,DJI,2019
+2362,COD,Growing grapes industry,THA,0.0,DJI,2019
+2363,COD,Growing fruits and nuts industry,THA,8.42722988775313e-07,DJI,2019
+2364,COD,"Growing beverage crops (coffee, tea etc) industry",THA,1.408637056209944e-05,DJI,2019
+2365,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",THA,1.3182159429139032e-08,DJI,2019
+2366,COD,Seeds and plant propagation industry,THA,0.0,DJI,2019
+2367,COD,Raising of cattle industry,THA,0.00020702002899339984,DJI,2019
+2368,COD,Growing wheat industry,TJK,2.3056221950404483e-08,DJI,2019
+2369,COD,Growing maize industry,TJK,0.0,DJI,2019
+2370,COD,Growing cereals n.e.c industry,TJK,0.0,DJI,2019
+2371,COD,Growing leguminous crops and oil seeds industry,TJK,4.9321933577608355e-08,DJI,2019
+2372,COD,Growing rice industry,TJK,9.291482502585985e-09,DJI,2019
+2373,COD,"Growing vegetables, roots, tubers industry",TJK,6.236195311564837e-08,DJI,2019
+2374,COD,Growing sugar beet and cane industry,TJK,9.26827139747201e-09,DJI,2019
+2375,COD,Growing tobacco industry,TJK,1.3309416657527872e-10,DJI,2019
+2376,COD,Growing fibre crops industry,TJK,1.273279128888028e-07,DJI,2019
+2377,COD,Growing crops n.e.c. industry,TJK,8.25114496984687e-08,DJI,2019
+2378,COD,Growing grapes industry,TJK,0.0,DJI,2019
+2379,COD,Growing fruits and nuts industry,TJK,9.409783600454805e-09,DJI,2019
+2380,COD,"Growing beverage crops (coffee, tea etc) industry",TJK,2.0576301214256518e-07,DJI,2019
+2381,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TJK,1.7428169967364206e-10,DJI,2019
+2382,COD,Seeds and plant propagation industry,TJK,0.0,DJI,2019
+2383,COD,Raising of cattle industry,TJK,3.0300017888024404e-06,DJI,2019
+2384,COD,Growing wheat industry,TKM,1.981570675174773e-08,DJI,2019
+2385,COD,Growing maize industry,TKM,0.0,DJI,2019
+2386,COD,Growing cereals n.e.c industry,TKM,0.0,DJI,2019
+2387,COD,Growing leguminous crops and oil seeds industry,TKM,4.570867405877845e-08,DJI,2019
+2388,COD,Growing rice industry,TKM,7.673919369675101e-09,DJI,2019
+2389,COD,"Growing vegetables, roots, tubers industry",TKM,8.413307884526722e-08,DJI,2019
+2390,COD,Growing sugar beet and cane industry,TKM,9.496444938652189e-09,DJI,2019
+2391,COD,Growing tobacco industry,TKM,1.366892791552209e-10,DJI,2019
+2392,COD,Growing fibre crops industry,TKM,8.120895832347928e-08,DJI,2019
+2393,COD,Growing crops n.e.c. industry,TKM,8.120437856645245e-08,DJI,2019
+2394,COD,Growing grapes industry,TKM,0.0,DJI,2019
+2395,COD,Growing fruits and nuts industry,TKM,1.1206176277496859e-08,DJI,2019
+2396,COD,"Growing beverage crops (coffee, tea etc) industry",TKM,3.4279337459202116e-07,DJI,2019
+2397,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TKM,2.502651241359937e-10,DJI,2019
+2398,COD,Seeds and plant propagation industry,TKM,0.0,DJI,2019
+2399,COD,Raising of cattle industry,TKM,2.534407155243178e-06,DJI,2019
+2400,COD,Growing wheat industry,TUN,8.327226986585227e-08,DJI,2019
+2401,COD,Growing maize industry,TUN,0.0,DJI,2019
+2402,COD,Growing cereals n.e.c industry,TUN,0.0,DJI,2019
+2403,COD,Growing leguminous crops and oil seeds industry,TUN,1.8560145182567556e-07,DJI,2019
+2404,COD,Growing rice industry,TUN,3.336285353002486e-08,DJI,2019
+2405,COD,"Growing vegetables, roots, tubers industry",TUN,2.9046097454763815e-07,DJI,2019
+2406,COD,Growing sugar beet and cane industry,TUN,3.479105982235863e-08,DJI,2019
+2407,COD,Growing tobacco industry,TUN,5.112338655868175e-10,DJI,2019
+2408,COD,Growing fibre crops industry,TUN,2.8847958542885773e-07,DJI,2019
+2409,COD,Growing crops n.e.c. industry,TUN,3.007059974628078e-07,DJI,2019
+2410,COD,Growing grapes industry,TUN,0.0,DJI,2019
+2411,COD,Growing fruits and nuts industry,TUN,5.4363842192334354e-08,DJI,2019
+2412,COD,"Growing beverage crops (coffee, tea etc) industry",TUN,7.04805350386815e-07,DJI,2019
+2413,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUN,7.48032070828238e-10,DJI,2019
+2414,COD,Seeds and plant propagation industry,TUN,0.0,DJI,2019
+2415,COD,Raising of cattle industry,TUN,1.1861016322429818e-05,DJI,2019
+2416,COD,Growing wheat industry,TUR,1.425775511574098e-06,DJI,2019
+2417,COD,Growing maize industry,TUR,0.0,DJI,2019
+2418,COD,Growing cereals n.e.c industry,TUR,0.0,DJI,2019
+2419,COD,Growing leguminous crops and oil seeds industry,TUR,3.0248580937798844e-06,DJI,2019
+2420,COD,Growing rice industry,TUR,5.704243385796474e-07,DJI,2019
+2421,COD,"Growing vegetables, roots, tubers industry",TUR,3.7393166697999287e-06,DJI,2019
+2422,COD,Growing sugar beet and cane industry,TUR,5.530962964860043e-07,DJI,2019
+2423,COD,Growing tobacco industry,TUR,7.294210222793818e-09,DJI,2019
+2424,COD,Growing fibre crops industry,TUR,4.8596197125122546e-06,DJI,2019
+2425,COD,Growing crops n.e.c. industry,TUR,4.98196374551327e-06,DJI,2019
+2426,COD,Growing grapes industry,TUR,0.0,DJI,2019
+2427,COD,Growing fruits and nuts industry,TUR,5.089727878503069e-07,DJI,2019
+2428,COD,"Growing beverage crops (coffee, tea etc) industry",TUR,9.290340727845506e-06,DJI,2019
+2429,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TUR,9.472692467605095e-09,DJI,2019
+2430,COD,Seeds and plant propagation industry,TUR,0.0,DJI,2019
+2431,COD,Raising of cattle industry,TUR,0.00017661999111035138,DJI,2019
+2432,COD,Growing wheat industry,TZA,9.0075450979403e-08,DJI,2019
+2433,COD,Growing maize industry,TZA,0.0,DJI,2019
+2434,COD,Growing cereals n.e.c industry,TZA,0.0,DJI,2019
+2435,COD,Growing leguminous crops and oil seeds industry,TZA,2.1720952364248965e-07,DJI,2019
+2436,COD,Growing rice industry,TZA,3.3352468998717784e-08,DJI,2019
+2437,COD,"Growing vegetables, roots, tubers industry",TZA,4.816809434594294e-07,DJI,2019
+2438,COD,Growing sugar beet and cane industry,TZA,4.314359280970189e-08,DJI,2019
+2439,COD,Growing tobacco industry,TZA,7.621029746923813e-10,DJI,2019
+2440,COD,Growing fibre crops industry,TZA,4.221860411404439e-07,DJI,2019
+2441,COD,Growing crops n.e.c. industry,TZA,3.490005192079594e-07,DJI,2019
+2442,COD,Growing grapes industry,TZA,0.0,DJI,2019
+2443,COD,Growing fruits and nuts industry,TZA,7.569862602043937e-08,DJI,2019
+2444,COD,"Growing beverage crops (coffee, tea etc) industry",TZA,2.3865474769605318e-06,DJI,2019
+2445,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",TZA,1.6075475181816666e-09,DJI,2019
+2446,COD,Seeds and plant propagation industry,TZA,0.0,DJI,2019
+2447,COD,Raising of cattle industry,TZA,1.0916371330268128e-05,DJI,2019
+2448,COD,Growing wheat industry,UGA,3.6444369037398796e-07,DJI,2019
+2449,COD,Growing maize industry,UGA,0.0,DJI,2019
+2450,COD,Growing cereals n.e.c industry,UGA,0.0,DJI,2019
+2451,COD,Growing leguminous crops and oil seeds industry,UGA,7.36119067129156e-07,DJI,2019
+2452,COD,Growing rice industry,UGA,1.535553537548433e-07,DJI,2019
+2453,COD,"Growing vegetables, roots, tubers industry",UGA,8.569297488086921e-07,DJI,2019
+2454,COD,Growing sugar beet and cane industry,UGA,1.3496245901674747e-07,DJI,2019
+2455,COD,Growing tobacco industry,UGA,1.7725013105462503e-09,DJI,2019
+2456,COD,Growing fibre crops industry,UGA,4.559038216174096e-07,DJI,2019
+2457,COD,Growing crops n.e.c. industry,UGA,1.171214663148162e-06,DJI,2019
+2458,COD,Growing grapes industry,UGA,0.0,DJI,2019
+2459,COD,Growing fruits and nuts industry,UGA,6.844581222046964e-08,DJI,2019
+2460,COD,"Growing beverage crops (coffee, tea etc) industry",UGA,3.0088264510132237e-06,DJI,2019
+2461,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UGA,2.2068142007660522e-09,DJI,2019
+2462,COD,Seeds and plant propagation industry,UGA,0.0,DJI,2019
+2463,COD,Raising of cattle industry,UGA,4.356942248360271e-05,DJI,2019
+2464,COD,Growing wheat industry,UKR,1.777530882231095e-07,DJI,2019
+2465,COD,Growing maize industry,UKR,0.0,DJI,2019
+2466,COD,Growing cereals n.e.c industry,UKR,0.0,DJI,2019
+2467,COD,Growing leguminous crops and oil seeds industry,UKR,4.083995647502778e-07,DJI,2019
+2468,COD,Growing rice industry,UKR,6.884286932956557e-08,DJI,2019
+2469,COD,"Growing vegetables, roots, tubers industry",UKR,7.337570457206862e-07,DJI,2019
+2470,COD,Growing sugar beet and cane industry,UKR,8.917123957531454e-08,DJI,2019
+2471,COD,Growing tobacco industry,UKR,1.3518713624065685e-09,DJI,2019
+2472,COD,Growing fibre crops industry,UKR,2.286774187726321e-06,DJI,2019
+2473,COD,Growing crops n.e.c. industry,UKR,7.71888027372021e-07,DJI,2019
+2474,COD,Growing grapes industry,UKR,0.0,DJI,2019
+2475,COD,Growing fruits and nuts industry,UKR,1.069710675950011e-07,DJI,2019
+2476,COD,"Growing beverage crops (coffee, tea etc) industry",UKR,2.340671534616492e-06,DJI,2019
+2477,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UKR,1.8817325755853216e-09,DJI,2019
+2478,COD,Seeds and plant propagation industry,UKR,0.0,DJI,2019
+2479,COD,Raising of cattle industry,UKR,2.6480610391452156e-05,DJI,2019
+2480,COD,Growing wheat industry,URY,2.9742567165240314e-08,DJI,2019
+2481,COD,Growing maize industry,URY,0.0,DJI,2019
+2482,COD,Growing cereals n.e.c industry,URY,0.0,DJI,2019
+2483,COD,Growing leguminous crops and oil seeds industry,URY,6.770529680039273e-08,DJI,2019
+2484,COD,Growing rice industry,URY,1.1694931258515494e-08,DJI,2019
+2485,COD,"Growing vegetables, roots, tubers industry",URY,1.1531297326723355e-07,DJI,2019
+2486,COD,Growing sugar beet and cane industry,URY,1.3180361835166008e-08,DJI,2019
+2487,COD,Growing tobacco industry,URY,2.1466020626802706e-10,DJI,2019
+2488,COD,Growing fibre crops industry,URY,1.480805136664546e-07,DJI,2019
+2489,COD,Growing crops n.e.c. industry,URY,1.1629882728344852e-07,DJI,2019
+2490,COD,Growing grapes industry,URY,0.0,DJI,2019
+2491,COD,Growing fruits and nuts industry,URY,2.3671264452616597e-08,DJI,2019
+2492,COD,"Growing beverage crops (coffee, tea etc) industry",URY,3.099997549149791e-07,DJI,2019
+2493,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",URY,2.925541961915714e-10,DJI,2019
+2494,COD,Seeds and plant propagation industry,URY,0.0,DJI,2019
+2495,COD,Raising of cattle industry,URY,4.813950264127995e-06,DJI,2019
+2496,COD,Growing wheat industry,USA,1.2548830386174187e-05,DJI,2019
+2497,COD,Growing maize industry,USA,0.0,DJI,2019
+2498,COD,Growing cereals n.e.c industry,USA,0.0,DJI,2019
+2499,COD,Growing leguminous crops and oil seeds industry,USA,2.812485464019606e-05,DJI,2019
+2500,COD,Growing rice industry,USA,5.064703750173594e-06,DJI,2019
+2501,COD,"Growing vegetables, roots, tubers industry",USA,4.533655253340464e-05,DJI,2019
+2502,COD,Growing sugar beet and cane industry,USA,5.244255867481729e-06,DJI,2019
+2503,COD,Growing tobacco industry,USA,8.541506226709354e-08,DJI,2019
+2504,COD,Growing fibre crops industry,USA,3.902266791821197e-05,DJI,2019
+2505,COD,Growing crops n.e.c. industry,USA,4.545676208093144e-05,DJI,2019
+2506,COD,Growing grapes industry,USA,0.0,DJI,2019
+2507,COD,Growing fruits and nuts industry,USA,5.07546503094362e-06,DJI,2019
+2508,COD,"Growing beverage crops (coffee, tea etc) industry",USA,0.00013195228438513422,DJI,2019
+2509,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",USA,1.1702260958488886e-07,DJI,2019
+2510,COD,Seeds and plant propagation industry,USA,0.0,DJI,2019
+2511,COD,Raising of cattle industry,USA,0.0019261044960398517,DJI,2019
+2512,COD,Growing wheat industry,UZB,4.674190471334077e-08,DJI,2019
+2513,COD,Growing maize industry,UZB,0.0,DJI,2019
+2514,COD,Growing cereals n.e.c industry,UZB,0.0,DJI,2019
+2515,COD,Growing leguminous crops and oil seeds industry,UZB,1.0738861677043075e-07,DJI,2019
+2516,COD,Growing rice industry,UZB,1.835625341356536e-08,DJI,2019
+2517,COD,"Growing vegetables, roots, tubers industry",UZB,2.0863178882231185e-07,DJI,2019
+2518,COD,Growing sugar beet and cane industry,UZB,2.2772287292319083e-08,DJI,2019
+2519,COD,Growing tobacco industry,UZB,3.377764225654005e-10,DJI,2019
+2520,COD,Growing fibre crops industry,UZB,2.042608388481855e-07,DJI,2019
+2521,COD,Growing crops n.e.c. industry,UZB,1.9065695047334754e-07,DJI,2019
+2522,COD,Growing grapes industry,UZB,0.0,DJI,2019
+2523,COD,Growing fruits and nuts industry,UZB,2.063039038278923e-08,DJI,2019
+2524,COD,"Growing beverage crops (coffee, tea etc) industry",UZB,8.663481310776712e-07,DJI,2019
+2525,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",UZB,5.368091331772949e-10,DJI,2019
+2526,COD,Seeds and plant propagation industry,UZB,0.0,DJI,2019
+2527,COD,Raising of cattle industry,UZB,6.5778066895560805e-06,DJI,2019
+2528,COD,Growing wheat industry,VEN,1.4689335984339483e-07,DJI,2019
+2529,COD,Growing maize industry,VEN,0.0,DJI,2019
+2530,COD,Growing cereals n.e.c industry,VEN,0.0,DJI,2019
+2531,COD,Growing leguminous crops and oil seeds industry,VEN,3.215375413425013e-07,DJI,2019
+2532,COD,Growing rice industry,VEN,5.8174761821825005e-08,DJI,2019
+2533,COD,"Growing vegetables, roots, tubers industry",VEN,4.882987009295387e-07,DJI,2019
+2534,COD,Growing sugar beet and cane industry,VEN,6.16112782724555e-08,DJI,2019
+2535,COD,Growing tobacco industry,VEN,1.0838140951679629e-09,DJI,2019
+2536,COD,Growing fibre crops industry,VEN,4.547025327060834e-07,DJI,2019
+2537,COD,Growing crops n.e.c. industry,VEN,5.456437306998202e-07,DJI,2019
+2538,COD,Growing grapes industry,VEN,0.0,DJI,2019
+2539,COD,Growing fruits and nuts industry,VEN,4.626514090689514e-08,DJI,2019
+2540,COD,"Growing beverage crops (coffee, tea etc) industry",VEN,1.451298965619732e-06,DJI,2019
+2541,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VEN,1.2011851697326476e-09,DJI,2019
+2542,COD,Seeds and plant propagation industry,VEN,0.0,DJI,2019
+2543,COD,Raising of cattle industry,VEN,2.5849596895389787e-05,DJI,2019
+2544,COD,Growing wheat industry,VNM,4.11636238899857e-07,DJI,2019
+2545,COD,Growing maize industry,VNM,0.0,DJI,2019
+2546,COD,Growing cereals n.e.c industry,VNM,0.0,DJI,2019
+2547,COD,Growing leguminous crops and oil seeds industry,VNM,9.467209970489762e-07,DJI,2019
+2548,COD,Growing rice industry,VNM,1.6315111605610267e-07,DJI,2019
+2549,COD,"Growing vegetables, roots, tubers industry",VNM,1.7619110967909209e-06,DJI,2019
+2550,COD,Growing sugar beet and cane industry,VNM,1.8020902907510146e-07,DJI,2019
+2551,COD,Growing tobacco industry,VNM,3.2374765861304592e-09,DJI,2019
+2552,COD,Growing fibre crops industry,VNM,5.059104818249114e-06,DJI,2019
+2553,COD,Growing crops n.e.c. industry,VNM,1.5235198164169185e-06,DJI,2019
+2554,COD,Growing grapes industry,VNM,0.0,DJI,2019
+2555,COD,Growing fruits and nuts industry,VNM,2.679506879947055e-07,DJI,2019
+2556,COD,"Growing beverage crops (coffee, tea etc) industry",VNM,4.898783753307238e-06,DJI,2019
+2557,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",VNM,4.3069365385323515e-09,DJI,2019
+2558,COD,Seeds and plant propagation industry,VNM,0.0,DJI,2019
+2559,COD,Raising of cattle industry,VNM,7.09452803588551e-05,DJI,2019
+2560,COD,Growing wheat industry,YEM,1.6580572499334526e-07,DJI,2019
+2561,COD,Growing maize industry,YEM,0.0,DJI,2019
+2562,COD,Growing cereals n.e.c industry,YEM,0.0,DJI,2019
+2563,COD,Growing leguminous crops and oil seeds industry,YEM,4.986932179417519e-07,DJI,2019
+2564,COD,Growing rice industry,YEM,5.8098963730311676e-08,DJI,2019
+2565,COD,"Growing vegetables, roots, tubers industry",YEM,1.5759035862087167e-06,DJI,2019
+2566,COD,Growing sugar beet and cane industry,YEM,1.067976045176748e-07,DJI,2019
+2567,COD,Growing tobacco industry,YEM,1.7077949625786226e-09,DJI,2019
+2568,COD,Growing fibre crops industry,YEM,2.8730421624767797e-06,DJI,2019
+2569,COD,Growing crops n.e.c. industry,YEM,7.379369025388917e-07,DJI,2019
+2570,COD,Growing grapes industry,YEM,0.0,DJI,2019
+2571,COD,Growing fruits and nuts industry,YEM,4.0947789452726284e-07,DJI,2019
+2572,COD,"Growing beverage crops (coffee, tea etc) industry",YEM,4.217997084514688e-06,DJI,2019
+2573,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",YEM,4.483260433013029e-09,DJI,2019
+2574,COD,Seeds and plant propagation industry,YEM,0.0,DJI,2019
+2575,COD,Raising of cattle industry,YEM,1.8605480704652013e-05,DJI,2019
+2576,COD,Growing wheat industry,ZAF,4.1529497542547445e-07,DJI,2019
+2577,COD,Growing maize industry,ZAF,0.0,DJI,2019
+2578,COD,Growing cereals n.e.c industry,ZAF,0.0,DJI,2019
+2579,COD,Growing leguminous crops and oil seeds industry,ZAF,1.0363735564240638e-06,DJI,2019
+2580,COD,Growing rice industry,ZAF,1.5459119698372075e-07,DJI,2019
+2581,COD,"Growing vegetables, roots, tubers industry",ZAF,2.158179593378385e-06,DJI,2019
+2582,COD,Growing sugar beet and cane industry,ZAF,2.1016485538177552e-07,DJI,2019
+2583,COD,Growing tobacco industry,ZAF,3.260880874912273e-09,DJI,2019
+2584,COD,Growing fibre crops industry,ZAF,6.279047201422511e-06,DJI,2019
+2585,COD,Growing crops n.e.c. industry,ZAF,1.6364479910341655e-06,DJI,2019
+2586,COD,Growing grapes industry,ZAF,0.0,DJI,2019
+2587,COD,Growing fruits and nuts industry,ZAF,4.298963356060822e-07,DJI,2019
+2588,COD,"Growing beverage crops (coffee, tea etc) industry",ZAF,5.093495747682204e-06,DJI,2019
+2589,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZAF,5.902249708382311e-09,DJI,2019
+2590,COD,Seeds and plant propagation industry,ZAF,0.0,DJI,2019
+2591,COD,Raising of cattle industry,ZAF,6.181788471057593e-05,DJI,2019
+2592,COD,Growing wheat industry,ZMB,2.643413948949661e-07,DJI,2019
+2593,COD,Growing maize industry,ZMB,0.0,DJI,2019
+2594,COD,Growing cereals n.e.c industry,ZMB,0.0,DJI,2019
+2595,COD,Growing leguminous crops and oil seeds industry,ZMB,5.258901852410536e-07,DJI,2019
+2596,COD,Growing rice industry,ZMB,1.131811812335359e-07,DJI,2019
+2597,COD,"Growing vegetables, roots, tubers industry",ZMB,5.672454326822073e-07,DJI,2019
+2598,COD,Growing sugar beet and cane industry,ZMB,9.744737930827261e-08,DJI,2019
+2599,COD,Growing tobacco industry,ZMB,1.1620637048732303e-09,DJI,2019
+2600,COD,Growing fibre crops industry,ZMB,2.0466758709421728e-07,DJI,2019
+2601,COD,Growing crops n.e.c. industry,ZMB,8.450079144038742e-07,DJI,2019
+2602,COD,Growing grapes industry,ZMB,0.0,DJI,2019
+2603,COD,Growing fruits and nuts industry,ZMB,6.01059698744078e-08,DJI,2019
+2604,COD,"Growing beverage crops (coffee, tea etc) industry",ZMB,1.4642229004360654e-06,DJI,2019
+2605,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZMB,1.2204968983864218e-09,DJI,2019
+2606,COD,Seeds and plant propagation industry,ZMB,0.0,DJI,2019
+2607,COD,Raising of cattle industry,ZMB,3.201412300917911e-05,DJI,2019
+2608,COD,Growing wheat industry,ZWE,3.2092097799148065e-08,DJI,2019
+2609,COD,Growing maize industry,ZWE,0.0,DJI,2019
+2610,COD,Growing cereals n.e.c industry,ZWE,0.0,DJI,2019
+2611,COD,Growing leguminous crops and oil seeds industry,ZWE,7.516693298794371e-08,DJI,2019
+2612,COD,Growing rice industry,ZWE,1.2810641312929997e-08,DJI,2019
+2613,COD,"Growing vegetables, roots, tubers industry",ZWE,1.6544339419234226e-07,DJI,2019
+2614,COD,Growing sugar beet and cane industry,ZWE,1.5829117028473876e-08,DJI,2019
+2615,COD,Growing tobacco industry,ZWE,2.157527493661429e-10,DJI,2019
+2616,COD,Growing fibre crops industry,ZWE,1.4119321175067692e-07,DJI,2019
+2617,COD,Growing crops n.e.c. industry,ZWE,1.2351962679442876e-07,DJI,2019
+2618,COD,Growing grapes industry,ZWE,0.0,DJI,2019
+2619,COD,Growing fruits and nuts industry,ZWE,2.971941113739315e-08,DJI,2019
+2620,COD,"Growing beverage crops (coffee, tea etc) industry",ZWE,4.610349365130352e-07,DJI,2019
+2621,COD,"Growing spices, aromatic, drug and pharmaceutical crops industry",ZWE,3.988567542821335e-10,DJI,2019
+2622,COD,Seeds and plant propagation industry,ZWE,0.0,DJI,2019
+2623,COD,Raising of cattle industry,ZWE,4.431208431589271e-06,DJI,2019
