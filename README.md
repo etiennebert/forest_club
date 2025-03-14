@@ -37,7 +37,7 @@ The aim of this README is to navigate the folder structure, replicate the analys
 │   │   └── 3. Split_AEZ  
 │   ├── 2. FAO data  
 │   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)
-│   ├── 3. GTAPAEZ_Deforestation_coefficient  
+        ├── 3. GTAPAEZ_Deforestation_coefficient  
 │   │   └── 1. GTAPAEZ_Data
 │   └── 4. Suitability  
 │
