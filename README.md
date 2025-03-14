@@ -29,7 +29,41 @@ Use this README to navigate the folder structure, replicate the analyses, and lo
 
 ## Repository Structure
 
-Suggested folder layout (modify as needed):
+.  
+├── 1. Data  
+│   ├── 1. HILDA data  
+│   │   ├── 1. Extracting_ntcdf_data  
+│   │   ├── 2. Aggregating_data  
+│   │   └── 3. Split_AEZ  
+│   ├── 2. FAO data  
+│   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)  
+│   └── (additional subfolders)  
+├── 2. MRIO  
+│   ├── GLORIA  
+│   │   ├── commodity  
+│   │   └── output  
+│   │       ├── CBA  
+│   │       └── TBA  
+│   └── (additional files)  
+├── 3. GTAP-AEZ  
+│   ├── AEZ shapefiles  
+│   ├── model code  
+│   └── results  
+├── 4. Scripts  
+│   ├── 1_HILDA_code_extraction.py  
+│   ├── A_FAO_annual_evolution_per_GLORIA_sector.yxmd  
+│   ├── B_GLORIA_Satellite_data.yxmd  
+│   ├── CBA_TBA_script.py  
+│   ├── DB_GTAPAEZ_all.yxmd  
+│   ├── DB_GTAPAEZ_aggregate.yxmd  
+│   └── ...  
+├── 5. Tariff_SIM  
+│   └── (experiment files, .prm parameter files, etc.)  
+├── output  
+│   ├── DB_GTAPAEZ_all_results_2024.csv  
+│   ├── Deforestation_Transiting_EU27_2012-2019.xlsx  
+│   └── (additional outputs)  
+└── README.md  <-- You are here!
 
 
 
@@ -61,4 +95,135 @@ Suggested folder layout (modify as needed):
 ## Getting Started
 
 ### 1. Clone or Download
+git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.git
 
+
+### 2. Software Requirements
+
+- **Python (3.8+)**  
+  For scripts like `1_HILDA_code_extraction.py`, `CBA_TBA_script.py`, etc.  
+  Install commonly used libraries: `xarray`, `numpy`, `pandas`, `scipy`.
+
+- **Alteryx Designer** (optional if you replicate the data pipelines differently)  
+  Required to run `.yxmd` workflows.
+
+- **GEMPACK** (with Fortran compiler)  
+  Necessary to run the **GTAP–AEZ** model for the counterfactual simulations.
+
+- **R** (4.0+)  
+  - Some analysis (game-theory logic) is in R scripts.  
+  - **HARr** package to parse `.har` outputs from GEMPACK.
+
+- **Tableau** (optional)  
+  We used `.twb` workbooks for certain visualizations.
+
+---
+
+## Data Preparation
+
+1. **Extract HILDA+**  
+   - Acquire **HILDA+ v2.1** data (`.nc` files).  
+   - Run `1_HILDA_code_extraction.py` to filter tropical regions and relevant LULC codes.  
+   - Convert to CSV or Alteryx format for further analysis.
+
+2. **Process FAO**  
+   - Raw files go in `1. Data/2. FAO data/1. Production_Crops_Livestock_E_All_Data_(Normalized)`.  
+   - `A_FAO_annual_evolution_per_GLORIA_sector.yxmd` (Alteryx) aggregates yearly data and smooths fluctuations.  
+   - Merge with HILDA+ expansions to get sector-level deforestation intensities.
+
+3. **MRIO (GLORIA)**  
+   - Place the GLORIA Z/Y matrices and supporting files in `2. MRIO/GLORIA`.  
+   - Run `CBA_TBA_script.py` to generate consumption-based (CBA) and throughflow-based (TBA) results.
+
+---
+
+## Running the MRIO and TBA
+
+1. **Consumption-Based Accounting (CBA)**  
+   - `CBA_TBA_script.py` builds the Leontief inverse and multiplies by deforestation intensities.  
+   - Outputs stored in `./2. MRIO/GLORIA/output/CBA`.
+
+2. **Throughflow-Based Accounting (TBA)**  
+   - Also handled by `CBA_TBA_script.py` using the Hypothetical Extraction Method.  
+   - Results in `./2. MRIO/GLORIA/output/TBA`.
+
+3. **Visualizations**  
+   - Alteryx workflow `1_HILDA_v2-1_CBA results.yxmd` merges final CBA results.  
+   - `CBA_Visualisation.twb` (Tableau) or other tools for charts and maps.
+
+---
+
+## GTAP–AEZ Counterfactual Analysis
+
+1. **Tariff Simulation**  
+   - **`5. Tariff_SIM`** folder contains `.prm` files to find tariffs needed to reduce exports (or output) by the share of deforestation.  
+   - Run with GEMPACK, then parse `.har` results with `HARr` in R.
+
+2. **Forest Club Iterations**  
+   - The game-theory logic is in `CGE_Game_Theory_GTAPAEZ.R`.  
+   - Adjust thresholds in `Thresholds_GTAPAEZ_Game_theory.xlsx`.  
+   - Each iteration re-runs the CGE with updated membership decisions and outputs new `.har` result files.
+
+3. **Aggregating Results**  
+   - Use Alteryx workflows `DB_GTAPAEZ_all.yxmd` and `DB_GTAPAEZ_aggregate.yxmd` to combine iteration-by-iteration data.  
+   - Key outputs include:
+     - `DB_GTAPAEZ_Forest_2024.csv` (forest area changes)
+     - `DB_GTAPAEZ_EV_2024.csv` (welfare changes)
+     - `DB_GTAPAEZ_all_results_2024_agg.csv` (aggregate iteration results).
+
+---
+
+## Key Outputs
+
+- **`Deforestation_Transiting_EU27_2012-2019.xlsx`**  
+  TBA-based re-export deforestation data.  
+
+- **`CBA_Results_Full.csv`**  
+  Final consumption-based deforestation footprints.  
+
+- **`DB_GTAPAEZ_Forest_2024.csv`**  
+  Net forest area changes at the AEZ level, post-tariff or membership scenario.  
+
+- **`DB_GTAPAEZ_EV_2024.csv`**  
+  Welfare (Equivalent Variation) changes.  
+
+- **`DB_Main_Figure_areas_Global_Results.xlsx`**  
+  Summaries of net vs. gross forest changes under varied scenarios.  
+
+---
+
+## References
+
+1. Winkler, K., Fuchs, R., Rounsevell, M. & Herold, M. (2021). Global land use changes are four times greater than previously estimated. *Nature Communications* **12**, 2501.  
+2. Pendrill, F. et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. *Global Environmental Change* **56**, 1–10.  
+(Additional references in the Supplementary Information file.)
+
+---
+
+## License
+
+Unless stated otherwise, this project is under the MIT License.  
+Check **HILDA+**, **FAO**, and **GTAP** license terms for their specific policies.
+
+---
+
+## Citation
+
+If you use this code or data, please cite the original paper:
+
+Berthet, E. et al. (20XX). *A trade-based Forest Club as a path to halting Tropical deforestation*.
+
+And reference the GitHub repository:
+
+
+---
+
+## Contact
+
+For questions, please contact the corresponding author:
+
+**etber@mit.edu**
+
+Or open an issue on GitHub if you encounter any problems or have suggestions.
+
+**Enjoy exploring the data and replicating our Forest Club analysis!**
