@@ -24,6 +24,7 @@ This repository accompanies the manuscript’s Supplementary Information (SI) an
 - Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
 The aim of this README is to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
+The current files provides an overview. The detailed execution of the worklow is mentionned in each specific folder. 
 
 ---
 
