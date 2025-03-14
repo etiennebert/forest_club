@@ -23,7 +23,7 @@ This repository accompanies the manuscript’s Supplementary Information (SI) an
 - Estimate consumption- and throughflow-based deforestation footprints in a Multi-Regional Input-Output (MRIO) framework (GLORIA dataset).
 - Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
-Use this README to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
+The aim of this README is to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
 
 ---
 
@@ -36,60 +36,55 @@ Use this README to navigate the folder structure, replicate the analyses, and lo
 │   │   ├── 2. Aggregating_data  
 │   │   └── 3. Split_AEZ  
 │   ├── 2. FAO data  
-│   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)  
-│   └── (additional subfolders)  
+│   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)
+│   ├── 3. GTAPAEZ_Deforestation_coefficient  
+│   │   └── 1. GTAPAEZ_Data
+│   └── 4. Suitability  
+│
 ├── 2. MRIO  
 │   ├── GLORIA  
 │   │   ├── commodity  
-│   │   └── output  
-│   │       ├── CBA  
-│   │       └── TBA  
-│   └── (additional files)  
-├── 3. GTAP-AEZ  
-│   ├── AEZ shapefiles  
-│   ├── model code  
-│   └── results  
-├── 4. Scripts  
-│   ├── 1_HILDA_code_extraction.py  
-│   ├── A_FAO_annual_evolution_per_GLORIA_sector.yxmd  
-│   ├── B_GLORIA_Satellite_data.yxmd  
-│   ├── CBA_TBA_script.py  
-│   ├── DB_GTAPAEZ_all.yxmd  
-│   ├── DB_GTAPAEZ_aggregate.yxmd  
-│   └── ...  
+│   │   ├── output  
+│   │   │    ├── CBA  
+│   │   │    └── TBA 
+│	│	├── output 
+│	│	└── (additional files)  
+│   └── visualizations
+│		└── (additional files)  
+├── 3. CGE  
+│   └── Game_Theory_2024 
+│	    ├── 0_External_data 
+│	    ├── 1_Code
+│	    ├── B_GLORIA_Satellite_data.yxmd  
+│	    ├── 3_Output
+│	    ├── DB_GTAPAEZ_all.yxmd  
+│	    ├── DB_GTAPAEZ_aggregate.yxmd  
+│       └── (experiment files, .prm parameter files, etc.)
+└── README.md  <-- You are here!
+
+
 ├── 5. Tariff_SIM  
 │   └── (experiment files, .prm parameter files, etc.)  
 ├── output  
 │   ├── DB_GTAPAEZ_all_results_2024.csv  
 │   ├── Deforestation_Transiting_EU27_2012-2019.xlsx  
 │   └── (additional outputs)  
-└── README.md  <-- You are here!
 
 
 
-### Key Directories
+
+## Key Directories
 
 - **`1. Data`**  
   Raw and processed input data:  
   - **HILDA+**: netCDFs, CSV extractions, and shapefiles.  
   - **FAO**: area/production/livestock files.
 
-- **`2. MRIO/GLORIA`**  
-  - **commodity**: FAO-to-GLORIA sector mapping.  
+- **`2. MRIO/GLORIA`**   
   - **output**: final and intermediate CBA/TBA results.
 
-- **`3. GTAP-AEZ`**  
-  CGE model files, parameter sets, AEZ shapefiles, and results for the Forest Club simulations.
-
-- **`4. Scripts`**  
-  Python or Alteryx workflows to extract HILDA+, map deforestation to commodities, and run TBA or CBA.
-
-- **`5. Tariff_SIM`**  
-  GTAP experiment setup for deriving tariffs proportional to deforestation footprints.
-
-- **`output`**  
-  Aggregated results, figures, and summary tables.
-
+- **`3. CGE`**  
+  CGE model files, parameter sets, and results for the Forest Club simulations.
 ---
 
 ## Getting Started
@@ -99,7 +94,6 @@ git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.
 
 
 ### 2. Software Requirements
-
 - **Python (3.8+)**  
   For scripts like `1_HILDA_code_extraction.py`, `CBA_TBA_script.py`, etc.  
   Install commonly used libraries: `xarray`, `numpy`, `pandas`, `scipy`.
@@ -119,7 +113,7 @@ git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.
 
 ---
 
-## Data Preparation
+### Data Preparation
 
 1. **Extract HILDA+**  
    - Acquire **HILDA+ v2.1** data (`.nc` files).  
@@ -131,9 +125,88 @@ git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.
    - `A_FAO_annual_evolution_per_GLORIA_sector.yxmd` (Alteryx) aggregates yearly data and smooths fluctuations.  
    - Merge with HILDA+ expansions to get sector-level deforestation intensities.
 
-3. **MRIO (GLORIA)**  
-   - Place the GLORIA Z/Y matrices and supporting files in `2. MRIO/GLORIA`.  
-   - Run `CBA_TBA_script.py` to generate consumption-based (CBA) and throughflow-based (TBA) results.
+
+## Detailed Instructions to prepare the data
+
+
+### 1.1 Dataset Reference
+We utilize the **HILDA+ Global Land Use Change** dataset (1960–2019).  
+**Citation**  
+Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):  
+*HILDA+ Global Land Use Change between 1960 and 2019 [dataset]*.  
+PANGAEA. [DOI: 10.1594/PANGAEA.921846](https://doi.org/10.1594/PANGAEA.921846)
+
+### 1.2 Required Files
+- **hildaplus_GLOB-2-1-crop_states.nc**  
+- **hildaplus_GLOB-2-1-crop_transitions.nc**
+
+### 1.3 Usage Instructions
+1. **Place** the NetCDF files under: 1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data
+
+2. **Install** netCDF support (as above).
+3. **Load** or process data in Python, Alteryx, or R, etc.
+
+### 1.4 Contact & Support
+- HILDA+ dataset: official documentation / authors.  
+- Python code: **etber@mit.edu**.
+
+---
+
+## 2. Running HILDA+ Extraction & Spatial Processing
+
+1. **Set Working Directory** to:1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data
+
+1_Data/1. HILDA data/1. Extracting_ntcdf_data
+
+markdown
+Copier
+Modifier
+3. **Run in Alteryx**:
+1_Country_mapping_HILDA-csv.yxmd
+
+markdown
+Copier
+Modifier
+to attach country metadata to CSVs.
+
+### 2.1 Spatial Matching with AEZ
+Now run in Alteryx, in order:
+1. **A-1_Alteryx_AEZ_Marked_Country.yxmd**
+2. **A-4_aez_global_grid_polygons.yxdb**
+3. **B-1_Spatial-match_HILDA_AEZ.yxmd**
+
+These generate:
+C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
+
+yaml
+Copier
+Modifier
+Your HILDA+ data is fully prepared at this point.
+
+---
+
+## 3. Detailed FAO Steps (Recap)
+
+1. Place raw FAO files in:
+1_Data/2. FAO data/1. Production_Crops_Livestock_E_All_Data_(Normalized)
+
+yaml
+Copier
+Modifier
+2. Run in Alteryx:
+- `A_FAO_annual_evolution_per_GLORIA_sector.yxmd`
+- `B_GLORIA_Sattelite_data.yxmd`
+- For GTAP-AEZ deforestation coefficients:
+  - `A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd`
+  - `B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd`
+
+---
+
+## 4. MRIO Data Integration
+
+After both HILDA+ and FAO data are processed:
+
+1. **Load** MRIO (GLORIA) or a similar dataset:
 
 ---
 
