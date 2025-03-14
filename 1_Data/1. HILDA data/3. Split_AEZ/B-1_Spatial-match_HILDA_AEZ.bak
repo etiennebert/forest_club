@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="56">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="89" y="509" width="155" height="351" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 56</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="125">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="114" y="714" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\2. Tagging_data\V_2_1\HILDA_V_2_1_State_Tagged_data_Alteryx_DB_centroid.yxdb</File>
+              <FormatSpecificOptions />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>HILDA_V_2_1_State_Tagged_data_Alteryx_DB_centroid.yxdb</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: (Multiple Sources)" type="V_String" />
+                <Field name="latitude" size="254" source="File: (Multiple Sources)" type="V_String" />
+                <Field name="longitude" size="254" source="File: (Multiple Sources)" type="V_String" />
+                <Field description="TextToColumns: Parsed from LULC" name="lulc" size="254" source="TextToColumns: Parsed from LULC" type="V_String" />
+                <Field name="Centroid" size="2147483647" source="CreatePoints: x=longitude y=latitude" type="SpatialObj" />
+                <Field name="country" size="100" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\World_Countries\World_Countries.shp" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="126">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="114" y="558" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\2. Tagging_data\V_2_1\HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb</File>
+              <FormatSpecificOptions />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: (Multiple Sources)" type="V_String" />
+                <Field name="latitude" size="254" source="File: (Multiple Sources)" type="V_String" />
+                <Field name="longitude" size="254" source="File: (Multiple Sources)" type="V_String" />
+                <Field description="TextToColumns: Parsed from LULC" name="lulc" size="254" source="TextToColumns: Parsed from LULC" type="V_String" />
+                <Field name="Centroid" size="2147483647" source="CreatePoints: x=longitude y=latitude" type="SpatialObj" />
+                <Field name="country" size="100" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\World_Countries\World_Countries.shp" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="413" y="509" width="588" height="303" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 16</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="4">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialMatch.SpatialMatch">
+            <Position x="606" y="666" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Target SpatialObj="BR_Polygon" />
+              <Universe SpatialObj="Centroid" />
+              <Method method="Contains" />
+              <SelectConfiguration>
+                <Configuration outputConnection="Matched">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Target_COUNTRY" selected="False" input="Target_" />
+                    <SelectField field="Target_Latitude" selected="False" input="Target_" />
+                    <SelectField field="Target_Longitude" selected="False" input="Target_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>BR_Polygon Where Target Contains Universe Centroid</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialMatch" />
+        </Node>
+        <Node ToolID="5">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="702" y="594" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="year" action="GroupBy" rename="year" />
+                <SummarizeField field="country" action="GroupBy" rename="country" />
+                <SummarizeField field="AEZ" action="GroupBy" rename="AEZ" />
+                <SummarizeField field="lulc" action="GroupBy" rename="lulc" />
+                <SummarizeField field="lulc" action="Count" rename="Count" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="25">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="870" y="558" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File FileFormat="19" MaxRecords="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-2_HILDA_V_2_1_State_GTAP_AEZ_October_2024.yxdb</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <NoSpatialIndex>False</NoSpatialIndex>
+                <SaveSource>True</SaveSource>
+                <WriteCompatibleVersion>False</WriteCompatibleVersion>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>B-2_HILDA_V_2_1_State_GTAP_AEZ_October_2024.yxdb</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+        <Node ToolID="124">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="438" y="582" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\A-4_aez_global_grid_polygons.yxdb</File>
+              <FormatSpecificOptions />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>A-4_aez_global_grid_polygons.yxdb</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="COUNTRY" size="100" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\World_Countries\World_Countries.shp" type="V_WString" />
+                <Field name="Latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv" type="V_String" />
+                <Field name="Longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv" type="V_String" />
+                <Field name="AEZ" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx|||`aez_FAO_vs_GTAP$`" type="V_String" />
+                <Field name="BR_Polygon" size="2147483647" source="SpatialInfo: RectPolygon Source=SpatialObject_TradeArea" type="SpatialObj" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="125" Connection="Output" />
+      <Destination ToolID="4" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="124" Connection="Output" />
+      <Destination ToolID="4" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Matched" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>B-1_Spatial-match_HILDA_AEZ</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="44e91ca2-ccac-41b3-9e21-ca95a27bc6e9" />
+      <Telemetry>
+        <PreviousWorkflowId value="cc77d5d2-9292-47ed-9a57-df3d779a3b96" />
+        <OriginWorkflowId value="2fa3d1f0-d913-4e76-adce-5705495c019b" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

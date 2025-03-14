@@ -1,0 +1,598 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="186" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="12">..\1. Extracting_ntcdf_data\World_Countries\World_Countries.shp</File>
+          <FormatSpecificOptions>
+            <Projection />
+            <AllStrings>False</AllStrings>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>World_Countries.shp</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="COUNTRY" size="100" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\World_Countries\World_Countries.shp" type="V_WString" />
+            <Field name="SpatialObj" size="2147483647" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\World_Countries\World_Countries.shp" type="SpatialObj" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="72">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1110" y="858" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File>D:\GTAPAEZ\LR\LR\aez\thz_class_ENSEMBLE_rcp6p0_2020s.csv</File>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>thz_class_ENSEMBLE_rcp6p0_2020s.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Latitude" size="254" source="File: D:\GTAPAEZ\LR\LR\aez\thz_class_ENSEMBLE_rcp6p0_2020s.csv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: D:\GTAPAEZ\LR\LR\aez\thz_class_ENSEMBLE_rcp6p0_2020s.csv" type="V_String" />
+            <Field name="Category" size="254" source="File: D:\GTAPAEZ\LR\LR\aez\thz_class_ENSEMBLE_rcp6p0_2020s.csv" type="V_String" />
+            <Field name="CategoryLabel" size="254" source="File: D:\GTAPAEZ\LR\LR\aez\thz_class_ENSEMBLE_rcp6p0_2020s.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="73">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1926" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="COUNTRY" selected="True" />
+            <SelectField field="Latitude" selected="True" />
+            <SelectField field="Longitude" selected="True" />
+            <SelectField field="Mst_Polygon" selected="True" />
+            <SelectField field="Mst_Label" selected="True" />
+            <SelectField field="Universe_Latitude" selected="False" />
+            <SelectField field="Universe_Longitude" selected="False" />
+            <SelectField field="Category" selected="False" />
+            <SelectField field="CategoryLabel" selected="True" />
+            <SelectField field="Centroid" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="74">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1998" y="702" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File>C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx|||`aez_FAO_vs_GTAP$`</File>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx
+Query=`aez_FAO_vs_GTAP$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Climate Zone" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx|||`aez_FAO_vs_GTAP$`" type="V_String" />
+            <Field name="Mst_label" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx|||`aez_FAO_vs_GTAP$`" type="V_String" />
+            <Field name="ID" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx|||`aez_FAO_vs_GTAP$`" type="V_String" />
+            <Field name="AEZ" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\B-1_mapping_FAOaez_GTAPAEZ_V2.xlsx|||`aez_FAO_vs_GTAP$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="75">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="2130" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Mst_Label" />
+            <Field field="CategoryLabel" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Mst_label" />
+            <Field field="Climate Zone" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_COUNTRY" selected="True" input="Left_" />
+                <SelectField field="Left_Latitude" selected="True" input="Left_" />
+                <SelectField field="Left_Longitude" selected="True" input="Left_" />
+                <SelectField field="Right_AEZ" selected="True" input="Right_" />
+                <SelectField field="Left_Mst_Polygon" selected="True" rename="BR_Polygon" input="Left_" />
+                <SelectField field="Left_Mst_Label" selected="False" input="Left_" />
+                <SelectField field="Left_CategoryLabel" selected="False" input="Left_" />
+                <SelectField field="Right_Climate Zone" selected="False" input="Right_" />
+                <SelectField field="Right_Mst_label" selected="False" rename="Right_Mst_label" input="Right_" />
+                <SelectField field="Right_ID" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="76">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2250" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\A-4_aez_global_grid_polygons.yxdb</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>A-4_aez_global_grid_polygons.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1601" y="569" width="264" height="217" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 58</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="21">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialMatch.SpatialMatch">
+            <Position x="1734" y="618" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Target SpatialObj="Mst_Polygon" />
+              <Universe SpatialObj="Centroid" />
+              <Method method="Contains" />
+              <SelectConfiguration>
+                <Configuration outputConnection="Matched">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Universe_Latitude" selected="True" rename="Universe_Latitude" input="Universe_" />
+                    <SelectField field="Universe_Longitude" selected="True" rename="Universe_Longitude" input="Universe_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Mst_Polygon Where Target Contains Universe Centroid</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialMatch" />
+        </Node>
+        <Node ToolID="20">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+            <Position x="1626" y="702" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Fields fieldX="Longitude" fieldY="Latitude" />
+              <Mode>Double</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="557" y="197" width="1117" height="321" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 47</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="1">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="582" y="342" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>mst_class_ENSEMBLE_rcp2p6_2020s.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv" type="V_String" />
+                <Field name="Longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv" type="V_String" />
+                <Field name="Category" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv" type="V_String" />
+                <Field name="CategoryLabel" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\3. Split_AEZ\FAO GAEZ v4 Data\mst_class_ENSEMBLE_rcp2p6_2020s.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+            <Position x="918" y="342" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Fields fieldX="Longitude" fieldY="Latitude" />
+              <Mode>Double</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+        </Node>
+        <Node ToolID="7">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialMatch.SpatialMatch">
+            <Position x="1098" y="306" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Target SpatialObj="SpatialObj" />
+              <Universe SpatialObj="Centroid" />
+              <Method method="Intersects" />
+              <SelectConfiguration>
+                <Configuration outputConnection="Matched">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+              <IntersectPoly value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>SpatialObj Where Target Intersects Universe Centroid</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialMatch" />
+        </Node>
+        <Node ToolID="38">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.TradeArea.TradeArea">
+            <Position x="1410" y="246" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SpatialObj field="Centroid" includeOut="True" />
+              <Units units="Kilometers" noOverlap="True" />
+              <Radius_FromField value="False" />
+              <Radii>5</Radii>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>5 Kilometers</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxTradeArea" />
+        </Node>
+        <Node ToolID="39">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialInfo.SpatialInfo">
+            <Position x="1494" y="246" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SpatialObj field="SpatialObject_TradeArea" />
+              <SelectedItems>
+                <Item name="RectPolygon" />
+              </SelectedItems>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialInfo" />
+        </Node>
+        <Node ToolID="40">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1242" y="294" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="SpatialObj" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="42">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1590" y="246" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Category" selected="False" />
+                <SelectField field="CategoryLabel" selected="True" rename="Mst_Label" />
+                <SelectField field="Centroid" selected="False" />
+                <SelectField field="SpatialObject_TradeArea" selected="False" />
+                <SelectField field="RadiusSize" selected="False" />
+                <SelectField field="BR_Polygon" selected="True" rename="Mst_Polygon" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="738" y="342" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="IF [Category] = 1 THEN &quot;Arid&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+                <FormulaField expression="IF [Category] = 2 THEN &quot;Dry semi-arid&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+                <FormulaField expression="IF [Category] = 3 THEN &quot;Moist semi-arid&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+                <FormulaField expression="IF [Category] = 4 THEN &quot;Sub-humid&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+                <FormulaField expression="IF [Category] = 5 THEN &quot;Humid&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+                <FormulaField expression="IF [Category] = 6 THEN &quot;Humid; year-round growing season&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+                <FormulaField expression="IF [Category] = 7 THEN &quot;Humid; year-round growing season&quot; ELSE [CategoryLabel] ENDIF" field="CategoryLabel" size="254" type="V_String" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>CategoryLabel = IF [Category] = 1 THEN "Arid" ELSE [CategoryLabel] ENDIF
+Categor...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="666" y="341" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Category" selected="True" type="Int16" size="2" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="7" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="72" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="73" Connection="Output" />
+      <Destination ToolID="75" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="75" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="75" Connection="Join" />
+      <Destination ToolID="76" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Matched" />
+      <Destination ToolID="73" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="21" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="21" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Matched" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>A-1_Alteryx_AEZ_Marked_Country</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="9f1ad1c9-4b16-4054-bee4-2f03623ce967" />
+      <Telemetry>
+        <PreviousWorkflowId value="b6373b1d-4198-4d4e-8db5-d2979dc75148" />
+        <OriginWorkflowId value="b6373b1d-4198-4d4e-8db5-d2979dc75148" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,966 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1576" y="163" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\2. Tagging_data\HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1353" y="547" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="year" selected="True" />
+            <SelectField field="latitude" selected="True" />
+            <SelectField field="longitude" selected="True" />
+            <SelectField field="LULC" selected="False" />
+            <SelectField field="LULC1" selected="True" rename="lulc" />
+            <SelectField field="Centroid" selected="True" />
+            <SelectField field="COUNTRY" selected="True" rename="country" />
+            <SelectField field="LULC2" selected="False" />
+            <SelectField field="LULC3" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1545" y="547" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\2. Tagging_data\HILDA_V_2_1_State_Transition_data_Alteryx_DB_limited.yxdb</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>HILDA_V_2_1_State_Transition_data_Alteryx_DB_limited.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1437" y="547" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Centroid" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="160">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="42" y="78" width="101" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>V_2</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="151">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="66" y="126" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_2\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Africa_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="154">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="174" y="126" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_2\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_Indonesia_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="157">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="282" y="126" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_2\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_2\HILDA_V2_All_Transition_South_America_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="161">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="55" y="341" width="217" height="197" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>V_2_1</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="152">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="80" y="390" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\Deforestation_Article\1. Africa\V_2_1\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: D:\Deforestation_Article\1. Africa\V_2_1\HILDA_V2_1_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: D:\Deforestation_Article\1. Africa\V_2_1\HILDA_V2_1_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: D:\Deforestation_Article\1. Africa\V_2_1\HILDA_V2_1_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: D:\Deforestation_Article\1. Africa\V_2_1\HILDA_V2_1_All_Transition_Africa_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="155">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="188" y="390" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\Deforestation_Article\2. Indonesia\V_2_1\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: D:\Deforestation_Article\2. Indonesia\V_2_1\HILDA_V2_1_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: D:\Deforestation_Article\2. Indonesia\V_2_1\HILDA_V2_1_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: D:\Deforestation_Article\2. Indonesia\V_2_1\HILDA_V2_1_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: D:\Deforestation_Article\2. Indonesia\V_2_1\HILDA_V2_1_All_Transition_Indonesia_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="158">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="127" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\Deforestation_Article\3. SA\V_2_1\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: D:\Deforestation_Article\3. SA\V_2_1\HILDA_V2_1_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: D:\Deforestation_Article\3. SA\V_2_1\HILDA_V2_1_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: D:\Deforestation_Article\3. SA\V_2_1\HILDA_V2_1_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: D:\Deforestation_Article\3. SA\V_2_1\HILDA_V2_1_All_Transition_South_America_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="159">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="42" y="42" width="101" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>V_1</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="150">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="66" y="90" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_1\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Africa_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\2. HILDA_Africa_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Africa_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="153">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="174" y="90" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_1\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Indonesia_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\3. HILDA_IN_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_Indonesia_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="156">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="282" y="90" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_1\*.csv</File>
+              <FormatSpecificOptions>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreErrors>False</IgnoreErrors>
+                <AllowShareWrite>False</AllowShareWrite>
+                <ImportLine>1</ImportLine>
+                <FieldLen>254</FieldLen>
+                <SingleThreadRead>False</SingleThreadRead>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <Delimeter>,</Delimeter>
+                <QuoteRecordBreak>False</QuoteRecordBreak>
+                <CodePage>28591</CodePage>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="year" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="latitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="longitude" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_South_America_2008.csv" type="V_String" />
+                <Field name="LULC" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\1. HILDA data\1. Extracting_ntcdf_data\4. HILDA_SA_2012-2019_transition_csv\Agriculture\V_1\HILDA_V1_All_Transition_South_America_2008.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="148">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="485" y="41" width="237" height="240" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Shp world countries</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="510" y="90" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="12">World_Countries\World_Countries.shp</File>
+              <FormatSpecificOptions>
+                <Projection />
+                <AllStrings>False</AllStrings>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>World_Countries.shp</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="COUNTRY" size="100" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. HILDA Deforestation data for MRIO\1. HILDA data\2. Tag the data with their country names\World_Countries\World_Countries.shp" type="V_WString" />
+                <Field name="SpatialObj" size="2147483647" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. HILDA Deforestation data for MRIO\1. HILDA data\2. Tag the data with their country names\World_Countries\World_Countries.shp" type="SpatialObj" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="147">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="606" y="90" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>[COUNTRY] = "Angola" OR
+[COUNTRY] = "Democratic Republic of the Congo" OR
+[COUNTRY] = "Argentina" OR
+[COUNTRY] = "Bolivia" OR
+[COUNTRY] = "Brazil" OR
+[COUNTRY] = "Colombia" OR
+[COUNTRY] = "Ghana" OR
+[COUNTRY] = "Ivory Coast" OR
+[COUNTRY] = "Indonesia" OR
+[COUNTRY] = "Malaysia" OR
+[COUNTRY] = "Paraguay" OR
+[COUNTRY] = "Peru"</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>[COUNTRY] = "Angola" OR
+[COUNTRY] = "Democratic Republic of the Congo" OR
+[COUNT...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="149">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="668" y="414" width="661" height="384" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Spatial match</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+            <Position x="693" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Fields fieldX="longitude" fieldY="latitude" />
+              <Mode>Double</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialMatch.SpatialMatch">
+            <Position x="849" y="487" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Target SpatialObj="SpatialObj" />
+              <Universe SpatialObj="Centroid" />
+              <Method method="Contains" />
+              <SelectConfiguration>
+                <Configuration outputConnection="Matched">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>SpatialObj Where Target Contains Universe Centroid</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialMatch" />
+        </Node>
+        <Node ToolID="38">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+            <Position x="693" y="559" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Fields fieldX="longitude" fieldY="latitude" />
+              <Mode>Double</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+        </Node>
+        <Node ToolID="39">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+            <Position x="693" y="655" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Fields fieldX="longitude" fieldY="latitude" />
+              <Mode>Double</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+        </Node>
+        <Node ToolID="40">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialMatch.SpatialMatch">
+            <Position x="849" y="559" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Target SpatialObj="SpatialObj" />
+              <Universe SpatialObj="Centroid" />
+              <Method method="Contains" />
+              <SelectConfiguration>
+                <Configuration outputConnection="Matched">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>SpatialObj Where Target Contains Universe Centroid</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialMatch" />
+        </Node>
+        <Node ToolID="41">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.SpatialMatch.SpatialMatch">
+            <Position x="849" y="667" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Target SpatialObj="SpatialObj" />
+              <Universe SpatialObj="Centroid" />
+              <Method method="Intersects" />
+              <SelectConfiguration>
+                <Configuration outputConnection="Matched">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+              <IntersectPoly value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>SpatialObj Where Target Intersects Universe Centroid</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSpatialMatch" />
+        </Node>
+        <Node ToolID="42">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="1161" y="547" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="43">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1005" y="463" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="SpatialObj" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1005" y="547" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="SpatialObj" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1017" y="655" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="SpatialObj" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="49">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+            <Position x="1245" y="547" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Field>LULC</Field>
+              <ErrorHandling>Last</ErrorHandling>
+              <RootName>LULC</RootName>
+              <Delimeters value="." />
+              <NumFields value="3" />
+              <Flags value="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="152" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="155" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="158" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="147" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="147" Connection="True" />
+      <Destination ToolID="14" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="147" Connection="True" />
+      <Destination ToolID="40" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="40" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="147" Connection="True" />
+      <Destination ToolID="41" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="41" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Matched" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Matched" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Matched" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>1_Country_mapping_HILDA-csv_October_2023</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="c984538e-fb44-4c73-bf52-66e12d50e63a" />
+      <Telemetry>
+        <PreviousWorkflowId value="9538a2fb-f8e5-40b7-87ad-0bc26a566c4d" />
+        <OriginWorkflowId value="4444d162-f2b3-4f11-b8d1-d9edbbe647b7" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
