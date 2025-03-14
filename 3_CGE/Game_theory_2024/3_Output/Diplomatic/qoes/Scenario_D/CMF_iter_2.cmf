@@ -1,0 +1,574 @@
+! ---------------
+! .TAB file Model name
+Auxiliary files = gtapaez ;
+
+structurally singular solve modified equations = yes ;
+
+XSet MERCOSUR (Argentina, Bolivia, Brasil, Colombia, Paraguay, Peru, Uruguay, Venezuela); 
+XSubset MERCOSUR is subset of REG;
+XSet WORLD (Madagascar,Mozambique,Myanmar, Nigeria, NewZealand, Oceania, China, Japan, 
+Korea, India, EastAsia, SEAsia, SouthAsia, US, Canada, Mexico, LatinAmer, EU27, UK, 
+Russia, EFTA, MENA, SSA, RestofWorld); 
+XSubset WORLD is subset of REG;
+
+XSet SET1 (EU27,UK,EFTA); 
+XSubset SET1 is subset of REG;
+
+XSet SET2 (US,EU27,UK,EFTA); 
+XSubset SET2 is subset of REG;
+
+XSet SET3 (china,US,EU27,UK,EFTA); 
+XSubset SET3 is subset of REG;
+
+XSet SET4 (china,US,EU27,UK,EFTA,mena); 
+XSubset SET4 is subset of REG;
+
+
+! Tell the model the data, parameters and sets - start
+! Original Data files
+! -------------------
+!
+File gtapDATA = inbasedata.har ; !  file containing all base data
+File gtapPARM = indefault.prm ; !  file containing all parameters
+File gtapSETS = insets.har ; !  file containing all sets & each of their elements
+!
+
+! Tell the model where to store the model sims - start
+! Output files
+! ------------
+!
+Solution file = C:runGTAP375Game_theory_20242_ModelNATDEF.sl4;
+Updated file gtapDATA = C:runGTAP375Game_theory_20242_Modelgdata.upd;
+
+! Tell the model the closure - start
+!  STANDARD CLOSURE STATEMENTS
+! ---- Demand Drivers 
+
+Exogenous pop ;
+Exogenous psaveslack ; 
+Exogenous pfactwld ;   
+ 
+Exogenous profitslack ; 
+Exogenous incomeslack ;
+Exogenous endwslack;  
+  
+Exogenous cgdslack ;
+Exogenous tradslack ;     
+    
+Exogenous ams ;
+Exogenous atm ; 
+Exogenous atf ; 
+Exogenous ats ;
+Exogenous atd ;   
+    
+Exogenous aosec ;
+Exogenous aoreg ;
+Exogenous avasec ;
+Exogenous avareg ;
+
+Exogenous afcom;          
+Exogenous afsec ;
+Exogenous afreg ;
+Exogenous afecom ;
+Exogenous afesec ;
+Exogenous afereg;   
+   
+Exogenous aoall ;
+Exogenous afall ;
+Exogenous afeall;  
+      
+Exogenous au ;
+Exogenous dppriv ;
+Exogenous dpgov ;
+Exogenous dpsave;  
+      
+Exogenous to ;
+Exogenous tp ;
+Exogenous tpd ;
+Exogenous tm ;
+Exogenous tms ;
+Exogenous tx ;
+Exogenous txs ;
+
+Exogenous tfd_f ;
+Exogenous tmf_f ;
+Exogenous tms_f;     
+   
+Exogenous qo(ENDW_COMM,REG); 
+Exogenous p_LANDCOVER_L(AEZ_COMM,UNMNGLAND,REG);
+
+REST Endogenous;  ! Declare all other variables as endogenous (calculated within the model)
+
+! Tell the model the closure - end
+
+!
+! Verbal description
+! ------------------
+Verbal Description = <cmf>;
+
+!
+! Solution method
+! ---------------
+!
+!Method = Gragg;
+
+
+LU decompose transpose = yes;
+
+log file = yes ;
+
+!
+! Miscellaneous info
+! ------------------
+!
+automatic accuracy = yes;
+!Steps = 4 8 16;
+!subintervals = 3;
+!accuracy figures = 2;
+!accuracy percent = 80;
+!minimum subinterval length =  1.0E-6;
+!minimum subinterval fails = stop;
+!accuracy criterion = data;
+!
+
+! Shocks - start
+
+!swap DTBALR = dpsave;
+!swap DTBALR(restofworld) = dpsave(restofworld);
+!Shock tms_f =  file TMSF.har header 0101;
+
+! Part for productivity shocks;
+Shock tms_f =  file NATDEF.har header 0101;
+! Part for productivity shocks from R;
+swap qoes(new4, sgr, argentina)=afeall(new4, sgr, argentina);
+Shock qoes(new4, sgr,argentina)=-32.7575636787877;
+swap qoes(new5, sgr, argentina)=afeall(new5, sgr, argentina);
+Shock qoes(new5, sgr,argentina)=-3.07124951637735;
+swap qoes(new9, sgr, argentina)=afeall(new9, sgr, argentina);
+Shock qoes(new9, sgr,argentina)=-0.306187611762607;
+swap qoes(new10, sgr, argentina)=afeall(new10, sgr, argentina);
+Shock qoes(new10, sgr,argentina)=-0.902043978692321;
+swap qoes(new11, sgr, argentina)=afeall(new11, sgr, argentina);
+Shock qoes(new11, sgr,argentina)=-0.996547588014839;
+swap qoes(new12, sgr, argentina)=afeall(new12, sgr, argentina);
+Shock qoes(new12, sgr,argentina)=-0.394710888686502;
+swap qoes(new5, ruminant, argentina)=afeall(new5, ruminant, argentina);
+Shock qoes(new5, ruminant,argentina)=-40;
+swap qoes(new4, gro, argentina)=afeall(new4, gro, argentina);
+Shock qoes(new4, gro,argentina)=-90;
+swap qoes(new5, gro, argentina)=afeall(new5, gro, argentina);
+Shock qoes(new5, gro,argentina)=-8.21742888062649;
+swap qoes(new7, gro, argentina)=afeall(new7, gro, argentina);
+Shock qoes(new7, gro,argentina)=-2.82260622966348;
+swap qoes(new9, gro, argentina)=afeall(new9, gro, argentina);
+Shock qoes(new9, gro,argentina)=-1.01672267490196;
+swap qoes(new10, gro, argentina)=afeall(new10, gro, argentina);
+Shock qoes(new10, gro,argentina)=-2.72780644740394;
+swap qoes(new11, gro, argentina)=afeall(new11, gro, argentina);
+Shock qoes(new11, gro,argentina)=-2.77675195269411;
+swap qoes(new12, gro, argentina)=afeall(new12, gro, argentina);
+Shock qoes(new12, gro,argentina)=-0.882053651871775;
+swap qoes(new4, ocr, argentina)=afeall(new4, ocr, argentina);
+Shock qoes(new4, ocr,argentina)=-14.2383967129261;
+swap qoes(new5, ocr, argentina)=afeall(new5, ocr, argentina);
+Shock qoes(new5, ocr,argentina)=-1.18172579923733;
+swap qoes(new7, ocr, argentina)=afeall(new7, ocr, argentina);
+Shock qoes(new7, ocr,argentina)=-0.420831862642244;
+swap qoes(new9, ocr, argentina)=afeall(new9, ocr, argentina);
+Shock qoes(new9, ocr,argentina)=-0.159864884668269;
+swap qoes(new10, ocr, argentina)=afeall(new10, ocr, argentina);
+Shock qoes(new10, ocr,argentina)=-0.417585261860991;
+swap qoes(new11, ocr, argentina)=afeall(new11, ocr, argentina);
+Shock qoes(new11, ocr,argentina)=-0.39357689336795;
+swap qoes(new12, ocr, argentina)=afeall(new12, ocr, argentina);
+Shock qoes(new12, ocr,argentina)=-0.108523470169154;
+swap qoes(new4, osd, argentina)=afeall(new4, osd, argentina);
+Shock qoes(new4, osd,argentina)=-15.5984684089132;
+swap qoes(new5, osd, argentina)=afeall(new5, osd, argentina);
+Shock qoes(new5, osd,argentina)=-1.32137504897113;
+swap qoes(new7, osd, argentina)=afeall(new7, osd, argentina);
+Shock qoes(new7, osd,argentina)=-0.319017749561568;
+swap qoes(new9, osd, argentina)=afeall(new9, osd, argentina);
+Shock qoes(new9, osd,argentina)=-0.169644380430726;
+swap qoes(new10, osd, argentina)=afeall(new10, osd, argentina);
+Shock qoes(new10, osd,argentina)=-0.450413829233512;
+swap qoes(new11, osd, argentina)=afeall(new11, osd, argentina);
+Shock qoes(new11, osd,argentina)=-0.423052914811604;
+swap qoes(new12, osd, argentina)=afeall(new12, osd, argentina);
+Shock qoes(new12, osd,argentina)=-0.162106555620049;
+swap qoes(new4, pcr, argentina)=afeall(new4, pcr, argentina);
+Shock qoes(new4, pcr,argentina)=-35.6436392995913;
+swap qoes(new5, pcr, argentina)=afeall(new5, pcr, argentina);
+Shock qoes(new5, pcr,argentina)=-4.3883609118878;
+swap qoes(new7, pcr, argentina)=afeall(new7, pcr, argentina);
+Shock qoes(new7, pcr,argentina)=-0.785415491873078;
+swap qoes(new9, pcr, argentina)=afeall(new9, pcr, argentina);
+Shock qoes(new9, pcr,argentina)=-0.572543574684761;
+swap qoes(new10, pcr, argentina)=afeall(new10, pcr, argentina);
+Shock qoes(new10, pcr,argentina)=-1.51651326991459;
+swap qoes(new11, pcr, argentina)=afeall(new11, pcr, argentina);
+Shock qoes(new11, pcr,argentina)=-1.26128190992217;
+swap qoes(new12, pcr, argentina)=afeall(new12, pcr, argentina);
+Shock qoes(new12, pcr,argentina)=-0.379415182376325;
+swap qoes(new4, pfb, argentina)=afeall(new4, pfb, argentina);
+Shock qoes(new4, pfb,argentina)=-90;
+swap qoes(new5, pfb, argentina)=afeall(new5, pfb, argentina);
+Shock qoes(new5, pfb,argentina)=-8.55867407120693;
+swap qoes(new7, pfb, argentina)=afeall(new7, pfb, argentina);
+Shock qoes(new7, pfb,argentina)=-1.95449631602145;
+swap qoes(new9, pfb, argentina)=afeall(new9, pfb, argentina);
+Shock qoes(new9, pfb,argentina)=-1.07712230794899;
+swap qoes(new10, pfb, argentina)=afeall(new10, pfb, argentina);
+Shock qoes(new10, pfb,argentina)=-5.63736699269734;
+swap qoes(new11, pfb, argentina)=afeall(new11, pfb, argentina);
+Shock qoes(new11, pfb,argentina)=-5.1919874188384;
+swap qoes(new12, pfb, argentina)=afeall(new12, pfb, argentina);
+Shock qoes(new12, pfb,argentina)=-1.77526367746914;
+swap qoes(new4, v_f, argentina)=afeall(new4, v_f, argentina);
+Shock qoes(new4, v_f,argentina)=-16.0326250808828;
+swap qoes(new5, v_f, argentina)=afeall(new5, v_f, argentina);
+Shock qoes(new5, v_f,argentina)=-1.3064555381544;
+swap qoes(new7, v_f, argentina)=afeall(new7, v_f, argentina);
+Shock qoes(new7, v_f,argentina)=-0.937958756966426;
+swap qoes(new9, v_f, argentina)=afeall(new9, v_f, argentina);
+Shock qoes(new9, v_f,argentina)=-0.155221418028688;
+swap qoes(new10, v_f, argentina)=afeall(new10, v_f, argentina);
+Shock qoes(new10, v_f,argentina)=-0.430038022760247;
+swap qoes(new11, v_f, argentina)=afeall(new11, v_f, argentina);
+Shock qoes(new11, v_f,argentina)=-0.672201294758842;
+swap qoes(new12, v_f, argentina)=afeall(new12, v_f, argentina);
+Shock qoes(new12, v_f,argentina)=-0.36584111651681;
+swap qoes(new4, wht, argentina)=afeall(new4, wht, argentina);
+Shock qoes(new4, wht,argentina)=-42.4808199900325;
+swap qoes(new5, wht, argentina)=afeall(new5, wht, argentina);
+Shock qoes(new5, wht,argentina)=-3.2264381466939;
+swap qoes(new7, wht, argentina)=afeall(new7, wht, argentina);
+Shock qoes(new7, wht,argentina)=-2.29615195891564;
+swap qoes(new9, wht, argentina)=afeall(new9, wht, argentina);
+Shock qoes(new9, wht,argentina)=-0.427504377253662;
+swap qoes(new10, wht, argentina)=afeall(new10, wht, argentina);
+Shock qoes(new10, wht,argentina)=-1.81044128413737;
+swap qoes(new11, wht, argentina)=afeall(new11, wht, argentina);
+Shock qoes(new11, wht,argentina)=-2.36140165454482;
+swap qoes(new12, wht, argentina)=afeall(new12, wht, argentina);
+Shock qoes(new12, wht,argentina)=-0.852122343722476;
+swap qoes(new3, sgr, brasil)=afeall(new3, sgr, brasil);
+Shock qoes(new3, sgr,brasil)=-0.526127215607411;
+swap qoes(new4, sgr, brasil)=afeall(new4, sgr, brasil);
+Shock qoes(new4, sgr,brasil)=-1.37429884785888;
+swap qoes(new5, sgr, brasil)=afeall(new5, sgr, brasil);
+Shock qoes(new5, sgr,brasil)=-1.49240774930388;
+swap qoes(new6, sgr, brasil)=afeall(new6, sgr, brasil);
+Shock qoes(new6, sgr,brasil)=-0.826155787140977;
+swap qoes(new12, sgr, brasil)=afeall(new12, sgr, brasil);
+Shock qoes(new12, sgr,brasil)=-1.10276354854351;
+swap qoes(new3, ruminant, brasil)=afeall(new3, ruminant, brasil);
+Shock qoes(new3, ruminant,brasil)=-0.00553771181747702;
+swap qoes(new4, ruminant, brasil)=afeall(new4, ruminant, brasil);
+Shock qoes(new4, ruminant,brasil)=-0.537591129746359;
+swap qoes(new5, ruminant, brasil)=afeall(new5, ruminant, brasil);
+Shock qoes(new5, ruminant,brasil)=-1.68608013822489;
+swap qoes(new6, ruminant, brasil)=afeall(new6, ruminant, brasil);
+Shock qoes(new6, ruminant,brasil)=-5.22845064977222;
+swap qoes(new12, ruminant, brasil)=afeall(new12, ruminant, brasil);
+Shock qoes(new12, ruminant,brasil)=-0.557499674123392;
+swap qoes(new3, gro, brasil)=afeall(new3, gro, brasil);
+Shock qoes(new3, gro,brasil)=-0.271412704249961;
+swap qoes(new4, gro, brasil)=afeall(new4, gro, brasil);
+Shock qoes(new4, gro,brasil)=-2.16420697351543;
+swap qoes(new5, gro, brasil)=afeall(new5, gro, brasil);
+Shock qoes(new5, gro,brasil)=-4.45617940872433;
+swap qoes(new6, gro, brasil)=afeall(new6, gro, brasil);
+Shock qoes(new6, gro,brasil)=-1.83917489728582;
+swap qoes(new12, gro, brasil)=afeall(new12, gro, brasil);
+Shock qoes(new12, gro,brasil)=-2.17026283245821;
+swap qoes(new3, ocr, brasil)=afeall(new3, ocr, brasil);
+Shock qoes(new3, ocr,brasil)=-0.0804077234104533;
+swap qoes(new4, ocr, brasil)=afeall(new4, ocr, brasil);
+Shock qoes(new4, ocr,brasil)=-0.175571392807098;
+swap qoes(new5, ocr, brasil)=afeall(new5, ocr, brasil);
+Shock qoes(new5, ocr,brasil)=-0.160473996817377;
+swap qoes(new6, ocr, brasil)=afeall(new6, ocr, brasil);
+Shock qoes(new6, ocr,brasil)=-0.108888779459339;
+swap qoes(new12, ocr, brasil)=afeall(new12, ocr, brasil);
+Shock qoes(new12, ocr,brasil)=-0.103190308793041;
+swap qoes(new3, osd, brasil)=afeall(new3, osd, brasil);
+Shock qoes(new3, osd,brasil)=-0.514399437979689;
+swap qoes(new4, osd, brasil)=afeall(new4, osd, brasil);
+Shock qoes(new4, osd,brasil)=-2.70111284410399;
+swap qoes(new5, osd, brasil)=afeall(new5, osd, brasil);
+Shock qoes(new5, osd,brasil)=-5.70862479363395;
+swap qoes(new6, osd, brasil)=afeall(new6, osd, brasil);
+Shock qoes(new6, osd,brasil)=-2.13392143556948;
+swap qoes(new12, osd, brasil)=afeall(new12, osd, brasil);
+Shock qoes(new12, osd,brasil)=-3.62077432371958;
+swap qoes(new3, pcr, brasil)=afeall(new3, pcr, brasil);
+Shock qoes(new3, pcr,brasil)=-0.0998295619945285;
+swap qoes(new4, pcr, brasil)=afeall(new4, pcr, brasil);
+Shock qoes(new4, pcr,brasil)=-0.274849176601623;
+swap qoes(new5, pcr, brasil)=afeall(new5, pcr, brasil);
+Shock qoes(new5, pcr,brasil)=-0.528349320804236;
+swap qoes(new6, pcr, brasil)=afeall(new6, pcr, brasil);
+Shock qoes(new6, pcr,brasil)=-0.25183763166557;
+swap qoes(new12, pcr, brasil)=afeall(new12, pcr, brasil);
+Shock qoes(new12, pcr,brasil)=-0.21434637569049;
+swap qoes(new3, pfb, brasil)=afeall(new3, pfb, brasil);
+Shock qoes(new3, pfb,brasil)=-1.8889696945531;
+swap qoes(new4, pfb, brasil)=afeall(new4, pfb, brasil);
+Shock qoes(new4, pfb,brasil)=-5.6620461542154;
+swap qoes(new5, pfb, brasil)=afeall(new5, pfb, brasil);
+Shock qoes(new5, pfb,brasil)=-6.6708105854651;
+swap qoes(new6, pfb, brasil)=afeall(new6, pfb, brasil);
+Shock qoes(new6, pfb,brasil)=-4.04738598270822;
+swap qoes(new12, pfb, brasil)=afeall(new12, pfb, brasil);
+Shock qoes(new12, pfb,brasil)=-3.6862595189868;
+swap qoes(new3, v_f, brasil)=afeall(new3, v_f, brasil);
+Shock qoes(new3, v_f,brasil)=-0.194751327141644;
+swap qoes(new4, v_f, brasil)=afeall(new4, v_f, brasil);
+Shock qoes(new4, v_f,brasil)=-0.504466337669108;
+swap qoes(new5, v_f, brasil)=afeall(new5, v_f, brasil);
+Shock qoes(new5, v_f,brasil)=-0.647725659196249;
+swap qoes(new6, v_f, brasil)=afeall(new6, v_f, brasil);
+Shock qoes(new6, v_f,brasil)=-0.327911318205992;
+swap qoes(new12, v_f, brasil)=afeall(new12, v_f, brasil);
+Shock qoes(new12, v_f,brasil)=-0.503852261743332;
+swap qoes(new3, wht, brasil)=afeall(new3, wht, brasil);
+Shock qoes(new3, wht,brasil)=-0.284061064448483;
+swap qoes(new4, wht, brasil)=afeall(new4, wht, brasil);
+Shock qoes(new4, wht,brasil)=-2.81102054882983;
+swap qoes(new5, wht, brasil)=afeall(new5, wht, brasil);
+Shock qoes(new5, wht,brasil)=-6.49850385086321;
+swap qoes(new6, wht, brasil)=afeall(new6, wht, brasil);
+Shock qoes(new6, wht,brasil)=-2.46245818965929;
+swap qoes(new12, wht, brasil)=afeall(new12, wht, brasil);
+Shock qoes(new12, wht,brasil)=-4.69277793238395;
+swap qoes(new4, sgr, colombia)=afeall(new4, sgr, colombia);
+Shock qoes(new4, sgr,colombia)=-1.66860088983055;
+swap qoes(new5, sgr, colombia)=afeall(new5, sgr, colombia);
+Shock qoes(new5, sgr,colombia)=-4.20670969603722;
+swap qoes(new6, sgr, colombia)=afeall(new6, sgr, colombia);
+Shock qoes(new6, sgr,colombia)=-7.63356204605538;
+swap qoes(new5, ruminant, colombia)=afeall(new5, ruminant, colombia);
+Shock qoes(new5, ruminant,colombia)=-0.0902436578762659;
+swap qoes(new6, ruminant, colombia)=afeall(new6, ruminant, colombia);
+Shock qoes(new6, ruminant,colombia)=-2.53705587237009;
+swap qoes(new4, gro, colombia)=afeall(new4, gro, colombia);
+Shock qoes(new4, gro,colombia)=-2.8566122642671;
+swap qoes(new5, gro, colombia)=afeall(new5, gro, colombia);
+Shock qoes(new5, gro,colombia)=-3.3530872148765;
+swap qoes(new6, gro, colombia)=afeall(new6, gro, colombia);
+Shock qoes(new6, gro,colombia)=-8.47475495165528;
+swap qoes(new4, ocr, colombia)=afeall(new4, ocr, colombia);
+Shock qoes(new4, ocr,colombia)=-1.00779744058572;
+swap qoes(new5, ocr, colombia)=afeall(new5, ocr, colombia);
+Shock qoes(new5, ocr,colombia)=-2.87420616644678;
+swap qoes(new6, ocr, colombia)=afeall(new6, ocr, colombia);
+Shock qoes(new6, ocr,colombia)=-5.95135819240873;
+swap qoes(new4, osd, colombia)=afeall(new4, osd, colombia);
+Shock qoes(new4, osd,colombia)=-5.70381231938204;
+swap qoes(new5, osd, colombia)=afeall(new5, osd, colombia);
+Shock qoes(new5, osd,colombia)=-11.809228704458;
+swap qoes(new6, osd, colombia)=afeall(new6, osd, colombia);
+Shock qoes(new6, osd,colombia)=-25.1318107692815;
+swap qoes(new4, pcr, colombia)=afeall(new4, pcr, colombia);
+Shock qoes(new4, pcr,colombia)=-2.01717905054727;
+swap qoes(new5, pcr, colombia)=afeall(new5, pcr, colombia);
+Shock qoes(new5, pcr,colombia)=-4.14374853663067;
+swap qoes(new6, pcr, colombia)=afeall(new6, pcr, colombia);
+Shock qoes(new6, pcr,colombia)=-10.1497501477013;
+swap qoes(new4, pfb, colombia)=afeall(new4, pfb, colombia);
+Shock qoes(new4, pfb,colombia)=-1.71754947671167;
+swap qoes(new5, pfb, colombia)=afeall(new5, pfb, colombia);
+Shock qoes(new5, pfb,colombia)=-2.12274701059653;
+swap qoes(new6, pfb, colombia)=afeall(new6, pfb, colombia);
+Shock qoes(new6, pfb,colombia)=-5.43085309885653;
+swap qoes(new4, v_f, colombia)=afeall(new4, v_f, colombia);
+Shock qoes(new4, v_f,colombia)=-1.45765436982912;
+swap qoes(new5, v_f, colombia)=afeall(new5, v_f, colombia);
+Shock qoes(new5, v_f,colombia)=-3.84364228200024;
+swap qoes(new6, v_f, colombia)=afeall(new6, v_f, colombia);
+Shock qoes(new6, v_f,colombia)=-8.44279886361184;
+swap qoes(new5, wht, colombia)=afeall(new5, wht, colombia);
+Shock qoes(new5, wht,colombia)=-15.4211946849138;
+swap qoes(new6, wht, colombia)=afeall(new6, wht, colombia);
+Shock qoes(new6, wht,colombia)=-35.1431187731989;
+swap qoes(new4, sgr, ghana)=afeall(new4, sgr, ghana);
+Shock qoes(new4, sgr,ghana)=-0.0508506937770852;
+swap qoes(new5, sgr, ghana)=afeall(new5, sgr, ghana);
+Shock qoes(new5, sgr,ghana)=-8.56140350877194;
+swap qoes(new6, sgr, ghana)=afeall(new6, sgr, ghana);
+Shock qoes(new6, sgr,ghana)=-8.56140350877194;
+swap qoes(new4, ruminant, ghana)=afeall(new4, ruminant, ghana);
+Shock qoes(new4, ruminant,ghana)=-0.453246222948142;
+swap qoes(new5, ruminant, ghana)=afeall(new5, ruminant, ghana);
+Shock qoes(new5, ruminant,ghana)=-1.59062369192131;
+swap qoes(new6, ruminant, ghana)=afeall(new6, ruminant, ghana);
+Shock qoes(new6, ruminant,ghana)=-1.40919968093592;
+swap qoes(new4, gro, ghana)=afeall(new4, gro, ghana);
+Shock qoes(new4, gro,ghana)=-0.131931952439175;
+swap qoes(new5, gro, ghana)=afeall(new5, gro, ghana);
+Shock qoes(new5, gro,ghana)=-0.518120916321913;
+swap qoes(new6, gro, ghana)=afeall(new6, gro, ghana);
+Shock qoes(new6, gro,ghana)=-5.20110604331183;
+swap qoes(new4, ocr, ghana)=afeall(new4, ocr, ghana);
+Shock qoes(new4, ocr,ghana)=-0.0899932114785392;
+swap qoes(new5, ocr, ghana)=afeall(new5, ocr, ghana);
+Shock qoes(new5, ocr,ghana)=-11.0699573805746;
+swap qoes(new6, ocr, ghana)=afeall(new6, ocr, ghana);
+Shock qoes(new6, ocr,ghana)=-17.3030554927653;
+swap qoes(new4, osd, ghana)=afeall(new4, osd, ghana);
+Shock qoes(new4, osd,ghana)=-0.0866701011870162;
+swap qoes(new5, osd, ghana)=afeall(new5, osd, ghana);
+Shock qoes(new5, osd,ghana)=-14.4831504900454;
+swap qoes(new6, osd, ghana)=afeall(new6, osd, ghana);
+Shock qoes(new6, osd,ghana)=-20.5056674583077;
+swap qoes(new4, pcr, ghana)=afeall(new4, pcr, ghana);
+Shock qoes(new4, pcr,ghana)=-0.299161815613387;
+swap qoes(new5, pcr, ghana)=afeall(new5, pcr, ghana);
+Shock qoes(new5, pcr,ghana)=-41.7242714433529;
+swap qoes(new6, pcr, ghana)=afeall(new6, pcr, ghana);
+Shock qoes(new6, pcr,ghana)=-73.0676275189264;
+swap qoes(new4, pfb, ghana)=afeall(new4, pfb, ghana);
+Shock qoes(new4, pfb,ghana)=-0.115764956896544;
+swap qoes(new5, pfb, ghana)=afeall(new5, pfb, ghana);
+Shock qoes(new5, pfb,ghana)=-18.4278186051455;
+swap qoes(new6, pfb, ghana)=afeall(new6, pfb, ghana);
+Shock qoes(new6, pfb,ghana)=-90;
+swap qoes(new4, v_f, ghana)=afeall(new4, v_f, ghana);
+Shock qoes(new4, v_f,ghana)=-0.071073495594812;
+swap qoes(new5, v_f, ghana)=afeall(new5, v_f, ghana);
+Shock qoes(new5, v_f,ghana)=-6.35547903620012;
+swap qoes(new6, v_f, ghana)=afeall(new6, v_f, ghana);
+Shock qoes(new6, v_f,ghana)=-24.1622892253891;
+swap qoes(new4, sgr, ivorycoast)=afeall(new4, sgr, ivorycoast);
+Shock qoes(new4, sgr,ivorycoast)=-0.15087305407085;
+swap qoes(new5, sgr, ivorycoast)=afeall(new5, sgr, ivorycoast);
+Shock qoes(new5, sgr,ivorycoast)=-3.88310403765167;
+swap qoes(new6, sgr, ivorycoast)=afeall(new6, sgr, ivorycoast);
+Shock qoes(new6, sgr,ivorycoast)=-24.5476170248918;
+swap qoes(new4, ruminant, ivorycoast)=afeall(new4, ruminant, ivorycoast);
+Shock qoes(new4, ruminant,ivorycoast)=-0.0147318797878609;
+swap qoes(new5, ruminant, ivorycoast)=afeall(new5, ruminant, ivorycoast);
+Shock qoes(new5, ruminant,ivorycoast)=-0.0044589111339011;
+swap qoes(new6, ruminant, ivorycoast)=afeall(new6, ruminant, ivorycoast);
+Shock qoes(new6, ruminant,ivorycoast)=-5.10567381258995;
+swap qoes(new4, gro, ivorycoast)=afeall(new4, gro, ivorycoast);
+Shock qoes(new4, gro,ivorycoast)=-0.112292419241229;
+swap qoes(new5, gro, ivorycoast)=afeall(new5, gro, ivorycoast);
+Shock qoes(new5, gro,ivorycoast)=-1.47188316897458;
+swap qoes(new6, gro, ivorycoast)=afeall(new6, gro, ivorycoast);
+Shock qoes(new6, gro,ivorycoast)=-13.8852568729396;
+swap qoes(new4, ocr, ivorycoast)=afeall(new4, ocr, ivorycoast);
+Shock qoes(new4, ocr,ivorycoast)=-0.822609552864831;
+swap qoes(new5, ocr, ivorycoast)=afeall(new5, ocr, ivorycoast);
+Shock qoes(new5, ocr,ivorycoast)=-9.09828495002986;
+swap qoes(new6, ocr, ivorycoast)=afeall(new6, ocr, ivorycoast);
+Shock qoes(new6, ocr,ivorycoast)=-88.5740917796749;
+swap qoes(new4, osd, ivorycoast)=afeall(new4, osd, ivorycoast);
+Shock qoes(new4, osd,ivorycoast)=-0.283555122953134;
+swap qoes(new5, osd, ivorycoast)=afeall(new5, osd, ivorycoast);
+Shock qoes(new5, osd,ivorycoast)=-3.07792542289536;
+swap qoes(new6, osd, ivorycoast)=afeall(new6, osd, ivorycoast);
+Shock qoes(new6, osd,ivorycoast)=-31.0648145876344;
+swap qoes(new4, pcr, ivorycoast)=afeall(new4, pcr, ivorycoast);
+Shock qoes(new4, pcr,ivorycoast)=-1.88207101116107;
+swap qoes(new5, pcr, ivorycoast)=afeall(new5, pcr, ivorycoast);
+Shock qoes(new5, pcr,ivorycoast)=-5.67759556301341;
+swap qoes(new6, pcr, ivorycoast)=afeall(new6, pcr, ivorycoast);
+Shock qoes(new6, pcr,ivorycoast)=-42;
+swap qoes(new4, pfb, ivorycoast)=afeall(new4, pfb, ivorycoast);
+Shock qoes(new4, pfb,ivorycoast)=-1.76624970525341;
+swap qoes(new5, pfb, ivorycoast)=afeall(new5, pfb, ivorycoast);
+Shock qoes(new5, pfb,ivorycoast)=-8.97120010639135;
+swap qoes(new6, pfb, ivorycoast)=afeall(new6, pfb, ivorycoast);
+Shock qoes(new6, pfb,ivorycoast)=-58.9557380225242;
+swap qoes(new4, v_f, ivorycoast)=afeall(new4, v_f, ivorycoast);
+Shock qoes(new4, v_f,ivorycoast)=-0.433546976314033;
+swap qoes(new5, v_f, ivorycoast)=afeall(new5, v_f, ivorycoast);
+Shock qoes(new5, v_f,ivorycoast)=-4.4148626483497;
+swap qoes(new6, v_f, ivorycoast)=afeall(new6, v_f, ivorycoast);
+Shock qoes(new6, v_f,ivorycoast)=-41.6194094727256;
+swap qoes(new3, sgr, paraguay)=afeall(new3, sgr, paraguay);
+Shock qoes(new3, sgr,paraguay)=-26.056;
+swap qoes(new4, sgr, paraguay)=afeall(new4, sgr, paraguay);
+Shock qoes(new4, sgr,paraguay)=-5.71725930028337;
+swap qoes(new5, sgr, paraguay)=afeall(new5, sgr, paraguay);
+Shock qoes(new5, sgr,paraguay)=-10.4605377175619;
+swap qoes(new6, sgr, paraguay)=afeall(new6, sgr, paraguay);
+Shock qoes(new6, sgr,paraguay)=-11.5181053425706;
+swap qoes(new12, sgr, paraguay)=afeall(new12, sgr, paraguay);
+Shock qoes(new12, sgr,paraguay)=-4.59588919296169;
+swap qoes(new4, ruminant, paraguay)=afeall(new4, ruminant, paraguay);
+Shock qoes(new4, ruminant,paraguay)=-1.67089961235129;
+swap qoes(new5, ruminant, paraguay)=afeall(new5, ruminant, paraguay);
+Shock qoes(new5, ruminant,paraguay)=-0.669928929278807;
+swap qoes(new6, ruminant, paraguay)=afeall(new6, ruminant, paraguay);
+Shock qoes(new6, ruminant,paraguay)=-0.12567726079428;
+swap qoes(new3, gro, paraguay)=afeall(new3, gro, paraguay);
+Shock qoes(new3, gro,paraguay)=-63.0367682430999;
+swap qoes(new4, gro, paraguay)=afeall(new4, gro, paraguay);
+Shock qoes(new4, gro,paraguay)=-22.1299021284165;
+swap qoes(new5, gro, paraguay)=afeall(new5, gro, paraguay);
+Shock qoes(new5, gro,paraguay)=-33.7402856687307;
+swap qoes(new6, gro, paraguay)=afeall(new6, gro, paraguay);
+Shock qoes(new6, gro,paraguay)=-28.3495144180905;
+swap qoes(new12, gro, paraguay)=afeall(new12, gro, paraguay);
+Shock qoes(new12, gro,paraguay)=-14.7399669144503;
+swap qoes(new3, ocr, paraguay)=afeall(new3, ocr, paraguay);
+Shock qoes(new3, ocr,paraguay)=-27.1237582397178;
+swap qoes(new4, ocr, paraguay)=afeall(new4, ocr, paraguay);
+Shock qoes(new4, ocr,paraguay)=-14.2673572598349;
+swap qoes(new5, ocr, paraguay)=afeall(new5, ocr, paraguay);
+Shock qoes(new5, ocr,paraguay)=-17.9995568980052;
+swap qoes(new6, ocr, paraguay)=afeall(new6, ocr, paraguay);
+Shock qoes(new6, ocr,paraguay)=-12.9746657596536;
+swap qoes(new12, ocr, paraguay)=afeall(new12, ocr, paraguay);
+Shock qoes(new12, ocr,paraguay)=-6.23296488387729;
+swap qoes(new3, osd, paraguay)=afeall(new3, osd, paraguay);
+Shock qoes(new3, osd,paraguay)=-31.8681027296576;
+swap qoes(new4, osd, paraguay)=afeall(new4, osd, paraguay);
+Shock qoes(new4, osd,paraguay)=-6.39466970876336;
+swap qoes(new5, osd, paraguay)=afeall(new5, osd, paraguay);
+Shock qoes(new5, osd,paraguay)=-14.9346025979054;
+swap qoes(new6, osd, paraguay)=afeall(new6, osd, paraguay);
+Shock qoes(new6, osd,paraguay)=-15.1903077795037;
+swap qoes(new12, osd, paraguay)=afeall(new12, osd, paraguay);
+Shock qoes(new12, osd,paraguay)=-7.80950787754524;
+swap qoes(new4, pcr, paraguay)=afeall(new4, pcr, paraguay);
+Shock qoes(new4, pcr,paraguay)=-48.7778785919828;
+swap qoes(new5, pcr, paraguay)=afeall(new5, pcr, paraguay);
+Shock qoes(new5, pcr,paraguay)=-84.151406799792;
+swap qoes(new6, pcr, paraguay)=afeall(new6, pcr, paraguay);
+Shock qoes(new6, pcr,paraguay)=-74.2732084900073;
+swap qoes(new12, pcr, paraguay)=afeall(new12, pcr, paraguay);
+Shock qoes(new12, pcr,paraguay)=-36.1697431011077;
+swap qoes(new3, pfb, paraguay)=afeall(new3, pfb, paraguay);
+Shock qoes(new3, pfb,paraguay)=-90;
+swap qoes(new4, pfb, paraguay)=afeall(new4, pfb, paraguay);
+Shock qoes(new4, pfb,paraguay)=-22.5128933769542;
+swap qoes(new5, pfb, paraguay)=afeall(new5, pfb, paraguay);
+Shock qoes(new5, pfb,paraguay)=-36.446209290289;
+swap qoes(new6, pfb, paraguay)=afeall(new6, pfb, paraguay);
+Shock qoes(new6, pfb,paraguay)=-42.5424851546143;
+swap qoes(new12, pfb, paraguay)=afeall(new12, pfb, paraguay);
+Shock qoes(new12, pfb,paraguay)=-18.9001547316148;
+swap qoes(new3, v_f, paraguay)=afeall(new3, v_f, paraguay);
+Shock qoes(new3, v_f,paraguay)=-12.3997934116273;
+swap qoes(new4, v_f, paraguay)=afeall(new4, v_f, paraguay);
+Shock qoes(new4, v_f,paraguay)=-3.84318422841222;
+swap qoes(new5, v_f, paraguay)=afeall(new5, v_f, paraguay);
+Shock qoes(new5, v_f,paraguay)=-6.2220598381799;
+swap qoes(new6, v_f, paraguay)=afeall(new6, v_f, paraguay);
+Shock qoes(new6, v_f,paraguay)=-6.04816691306016;
+swap qoes(new12, v_f, paraguay)=afeall(new12, v_f, paraguay);
+Shock qoes(new12, v_f,paraguay)=-2.74275375926965;
+swap qoes(new3, wht, paraguay)=afeall(new3, wht, paraguay);
+Shock qoes(new3, wht,paraguay)=-43.0367441860464;
+swap qoes(new4, wht, paraguay)=afeall(new4, wht, paraguay);
+Shock qoes(new4, wht,paraguay)=-10.5949229547039;
+swap qoes(new5, wht, paraguay)=afeall(new5, wht, paraguay);
+Shock qoes(new5, wht,paraguay)=-19.5192689138051;
+swap qoes(new6, wht, paraguay)=afeall(new6, wht, paraguay);
+Shock qoes(new6, wht,paraguay)=-14.6520177887023;
+swap qoes(new12, wht, paraguay)=afeall(new12, wht, paraguay);
+Shock qoes(new12, wht,paraguay)=-5.71295794663458;
