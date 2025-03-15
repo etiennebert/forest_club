@@ -17,13 +17,19 @@ Etienne Berthet<sup>1,2,3,*</sup>, Ilaria Fusacchia<sup>4</sup>, Alessandro Anti
 
 ## Overview
 
-This repository accompanies the manuscript’s Supplementary Information (SI) and outlines the methodologies, data workflows, and computational steps used to:
-- Quantify tropical deforestation driven by agricultural production and trade (using HILDA+ and FAO data).
-- Quantify consumption- and throughflow-based deforestation footprints thanks to a Multi-Regional Input-Output (MRIO) framework (GLORIA dataset).
-- Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
-The aim of this README is to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
-The current files provide an overview. The detailed execution of the workflow is mentioned in each specific folder. 
+This repository accompanies the manuscript’s Supplementary Information (SI) and outlines the methodologies, data workflows, and computational steps used to:
+
+1. **Quantify tropical deforestation** driven by agricultural production and trade (using HILDA+ and FAO data).  
+2. **Compute consumption- and throughflow-based deforestation footprints** via a Multi-Regional Input-Output (MRIO) framework (GLORIA dataset).  
+3. **Implement and assess** a Computable General Equilibrium (CGE) model (GTAP–AEZ) for **counterfactual “Forest Club” simulations**.
+
+The aim of this README is to:
+- Provide **system requirements** and software dependencies.  
+- Give an **installation guide** (typical install times, version info).  
+- Include a **demo** (small or simulated dataset) for quick tests.  
+- Explain how to **run** the software with full data.  
+- Summarize **reproduction steps** for main results.
 
 ---
 
@@ -93,33 +99,26 @@ git clone https://github.com/etiennebert/forest_club.git
 Note: Do not install it under a path like C:\Users\YourName\Documents if that includes spaces (e.g., My Documents)—this can lead to inconsistent runs or file-not-found errors.
 
 ### 2. Software Requirements
-- **Operating System:**
-    - Developed and tested on Windows 10 and Windows 11 (64-bit).
-    - May also work on Linux or macOS with slight path adjustments, but untested.
+- **Operating System:**  
+  - Tested on **Windows 10** and **Windows 11** (64-bit).  
+  - Other OS (Linux, macOS) untested; minor path adjustments may be needed.
 
-- **Hardware Recommendations:**
-    - At least 32 GB of RAM if processing large datasets (HILDA+, GLORIA).
-    - No specialized GPU required, but HPC resources may speed up large runs.
-  
-- **Python (3.8+)**  
-  For scripts like `1_HILDA_code_extraction.py`, `CBA_TBA_script.py`, etc.  
-  Install commonly used libraries: `xarray`, `numpy`, `pandas`, `scipy`.
+- **Hardware Recommendations:**  
+  - **16 GB RAM** or more for processing large datasets.  
+  - No specialized GPU required. HPC resources recommended for very large runs.
 
-- **Alteryx Designer 2022.3** https://www.alteryx.com/products/alteryx-designer
-  (optional if you replicate the data pipelines differently)  
-  Required to run `.yxmd` workflows.
-
-- **GEMPACK Version 12.1** https://www.copsmodels.com/gempack.htm
-  (with Fortran compiler)  
-  Necessary to run the **GTAP–AEZ** model for the counterfactual simulations.
-
-- **R** (4.0+)  
-  - Some analysis (game-theory logic) is in R scripts.  
-  - **HARr** package to parse `.har` outputs from GEMPACK.
-
-- **Tableau** https://www.tableau.com/
- (optional)  
-  We used `.twb` workbooks for certain visualizations.
+- **Software Dependencies & Versions:**
+  1. **Python 3.8+**  
+     - Libraries: `xarray`, `numpy`, `pandas`, `scipy`, `netCDF4`  
+     - Installation via `pip` or `conda`.  
+  2. **R 4.0+**  
+     - Package: `HARr` (for `.har` output parsing from GEMPACK).  
+  3. **Alteryx Designer 2022.3** (optional)  
+     - Required to run `.yxmd` workflows.  
+  4. **GEMPACK Version 12.1** (with Fortran compiler)  
+     - Runs the GTAP–AEZ model simulations.  
+  5. **Tableau** (optional)  
+     - For `.twb` visualization workbooks.
 
 ---
 
