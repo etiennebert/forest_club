@@ -14,6 +14,7 @@ B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd
 ```
 
 Output Files
+
 These scripts generate five Excel files:
 
 - A-1_Database_Forest_Intensity_GTAPAEZ_shocks_Deforestation.xlsx
