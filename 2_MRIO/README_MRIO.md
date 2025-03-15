@@ -41,7 +41,7 @@ For calculations from **2012–2019**, you will need:
 
 1. **Download** the required datasets from the link above.  
 2. **Install** Python libraries, including `numpy`, `scipy`, `os`, `gc`, etc.  
-3. **Load** the transactions (`T-Results`) and final demand (`Y-Results`) matrices into your workflow, then run the calculations.
+3. **Run** the script, which loads the transactions (`T-Results`) and final demand (`Y-Results`) matrices into your workflow and runs the calculations.
 
 **Performance Tip**:  
 - The first time you run the script, these large CSV files (>10 GB) are converted into `.npy` format for faster subsequent data loading.  
