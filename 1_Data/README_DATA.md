@@ -36,6 +36,7 @@ pip install numpy pandas netCDF4 os
 Open the terminal
 Navigate to the folder:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
+
 Run the Python script:
 ```bash
 python 1_HILDA+_code_extraction.py
