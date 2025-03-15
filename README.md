@@ -186,13 +186,28 @@ The various steps of this stage are detailed in the document **README_CGE.md <--
 
 ---
 
-## License
+## Reproduction Instructions
 
-Unless stated otherwise, this project is under the MIT License.  
-Check **HILDA+**, **FAO**, **GEMPACK**, **Alteryx**, **Tableau** and **GTAP** license terms for their specific policies.
+To replicate the **key figures and tables** from the manuscript:
+
+1. **Download/Prepare Data** via Step 1.  
+2. **Run MRIO** scripts (Step 2) to generate CBA/TBA results.  
+3. **Run CGE** simulations (Step 3) for the Forest Club scenarios.  
+4. **Visualize/Analyze** outcomes with Tableau or your preferred tools.  
+
+*Note:* Large computations may require HPC time. Refer to the main text and SI for parameter settings, iteration details, and references.
 
 ---
 
+## License
+
+**Unless stated otherwise, this project is under the [MIT License](./LICENSE).**  
+
+You may freely use, modify, and distribute this code under MIT terms.
+
+> **Important:** HILDA+, FAO, GLORIA, GEMPACK, Alteryx, and GTAP data/tools each have **their own licenses**. Check their terms for any restrictions on commercial usage or redistribution.
+
+---
 ## Contact
 
 For questions, please contact the corresponding author: **etber@mit.edu**
