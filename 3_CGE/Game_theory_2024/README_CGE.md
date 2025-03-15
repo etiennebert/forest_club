@@ -37,7 +37,8 @@ Inside the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, using the f
 - Land_Cover
 
 It is possbile to calculate the deforestation coefficient as described in the main manuscript (Equation 11).
-(Reminder: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details).
+
+*(Reminder: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details)*.
 
 The calcualtion of those deforestation coefficents is perfomred tab **Additional_LU_and_deforestation**, column G
 
