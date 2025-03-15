@@ -3,10 +3,7 @@
 ## First step, working with HILDA+ data
 
 ### Downloading HILDA+ (Version 2.1)
-This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019). 
-Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):
-HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
-PANGAEA. https://doi.org/10.1594/PANGAEA.921846
+This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019) from Winkler et al., 2020.
 
 The latest version (2.1) can be downloaded from:
 https://bwsyncandshare.kit.edu/s/H2iQG6nMPTaxpqR/download
@@ -112,3 +109,7 @@ They are all stored in the following folder:
 ## Contact & Support
 For HILDA+ dataset questions: refer to the official documentation or contact the dataset authors.
 For Python/Alteryx code questions: email etber@mit.edu.
+
+## References
+Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020): HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
+PANGAEA. https://doi.org/10.1594/PANGAEA.921846
