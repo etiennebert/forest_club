@@ -43,6 +43,7 @@ python 1_HILDA+_code_extraction.py
 ```
 This will generate extracted data in subfolders under:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
+
 (The script takes approximately half and hour to run).
 
 #### 3. Alteryx Workflow Steps
@@ -52,7 +53,7 @@ Run:
 ```bash
 1_Country_mapping_HILDA-csv.yxmd
 ```
-This stores data in your designated output folder.
+This stores data in the designated output folder (2. Aggregating_data).
 
 Then run in this specific order:
 ```bash
