@@ -85,9 +85,10 @@ The current files provides an overview. The detailed execution of the worklow is
 ## Getting Started
 
 ### 1. Clone or Download
+Clone the repository directly onto your C:\ drive to avoid issues with file paths containing spaces. For example:
+cd C:\
 git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.git
-(You need to clone this folder in a place directly located in your C:\
-(Avoid any path such as: "C:\\xxx\documents\My doc \ etc" any space in the path would create inconsistent run
+Note: Do not install it under a path like C:\Users\YourName\Documents if that includes spaces (e.g., My Documents)—this can lead to inconsistent runs or file-not-found errors.
 
 ### 2. Software Requirements
 - **Python (3.8+)**  
@@ -112,7 +113,7 @@ git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.
 
 ---
 
-### Data Preparation
+## Data Preparation
 
 Main Goals: 
 
