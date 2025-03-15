@@ -23,7 +23,7 @@ This repository accompanies the manuscript’s Supplementary Information (SI) an
 - Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
 The aim of this README is to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
-The current files provides an overview. The detailed execution of the worklow is mentionned in each specific folder. 
+The current files provide an overview. The detailed execution of the workflow is mentioned in each specific folder. 
 
 ---
 
@@ -130,9 +130,9 @@ Main Goals:
    - Merge with HILDA+ results to get sector-level deforestation intensities.
 
 3. **Prepare the HILDA+ and FAO data processed**
-   - Prepare the processeded data for the MRIO GLORIA 
+   - Prepare the processed data for the MRIO GLORIA 
 
-The differents steps of this stage are detailed in the document **README_DATA.md <-- Step 1**
+The various steps of this stage are detailed in the document **README_DATA.md <-- Step 1**
 
 ---
 
@@ -143,14 +143,14 @@ The differents steps of this stage are detailed in the document **README_DATA.md
    - Outputs stored in `./2. MRIO/GLORIA/output/CBA`.
 
 2. **Throughflow-Based Accounting (TBA)**  
-   - Also handled by `CBA_TBA_script.py`, calulate the "thougflow" of deforestaion for the different territories, using the Hypothetical Extraction Method.  
+   - Also handled by `CBA_TBA_script.py`, calculate the "throughflow" of deforestation for the different territories, using the Hypothetical Extraction Method.  
    - Results in `./2. MRIO/GLORIA/output/TBA`.
 
 3. **Visualizations**  
    - Alteryx workflow `1_HILDA_v2-1_CBA results.yxmd` merges final CBA results.  
    - `CBA_Visualisation.twb` (Tableau) or other tools for charts and maps.
 
-The differents steps of this stage are detailed in the document **README_MRIO.md <-- Step 2**
+The different steps of this stage are detailed in the document **README_MRIO.md <-- Step 2**
 
 ---
 
@@ -175,7 +175,7 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
      - `DB_GTAPAEZ_EV_2024.csv` (welfare changes)
      - `DB_GTAPAEZ_all_results_2024_agg.csv` (aggregate iteration results).
 
-The differents steps of this stage are detailed in the document **README_CGE.md <-- Step 3**
+The various steps of this stage are detailed in the document **README_CGE.md <-- Step 3**
 
 ---
 
