@@ -49,7 +49,7 @@ The current files provides an overview. The detailed execution of the worklow is
 │   │   │   ├── CBA
 │   │   │   └── TBA
 │   │   └── (additional files)
-│   ├── visualizations
+│   ├── Visualizations
 │   │   └── (additional files)
 │   └── **README_MRIO.md <-- Step 2**
 │
@@ -57,11 +57,10 @@ The current files provides an overview. The detailed execution of the worklow is
 │   ├── Game_Theory_2024
 │   │   ├── 0_External_data
 │   │   ├── 1_Code
-│   │   ├── B_GLORIA_Satellite_data.yxmd
+│   │   ├── 2_Model.zip (experiment files, .prm parameter files, etc.)
 │   │   ├── 3_Output
-│   │   ├── DB_GTAPAEZ_all.yxmd
-│   │   ├── DB_GTAPAEZ_aggregate.yxmd
-│   │   └── (experiment files, .prm parameter files, etc.)
+│   │   ├── 4_DB
+│   │   └── 5_Visualisation
 │   ├── 5. Tariff_SIM
 │   └── **README_CGE.md <-- Step 3**
 │
