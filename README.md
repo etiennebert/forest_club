@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15031422.svg)](https://doi.org/10.5281/zenodo.15031422)
+
+
 # A trade-based Forest Club as a path to halting Tropical deforestation – Code and data
 
 This repository provides supplementary information, data workflows, and scripts for the study:
