@@ -1,4 +1,4 @@
-# Step 3: GTAP-AEZ simulation within the game theory
+# Step 3: GTAP-AEZ Simulation within a Game-Theoretic Framework
 
 ---
 
@@ -6,8 +6,8 @@
 The first step is is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
 
 ### Alteryx Workflows
-Navigate to the folder:1_Data\3. GTAPAEZ_Deforestation_coefficient
-and run both Alteryx workflows:
+1. Navigate to the folder:1_Data\3. GTAPAEZ_Deforestation_coefficient
+2. Run both Alteryx workflows:
 ```bash
 A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd
 B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd
@@ -28,7 +28,10 @@ These scripts generate five Excel files:
 - B-2_Database_Forest_Intensity_GTAPAEZ_shocks_LU_agri.xlsx
   - Annual incremental HILDA+ land cover data per AEZ and year for other agricultural sectors (excluding cattle).
 
-These results are consolidated into an Excel file within the same folder: Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
+These outputs are consolidated into:
+```bash
+Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
+```
 
 ### Calculating the Deforestation Coefficient
 Inside the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, using the following tabs:
@@ -48,20 +51,20 @@ The calcualtion of those deforestation coefficents is perfomred in the same Exce
 ### Computing Tariffs for Deforestation-Linked Exports
 As described in SI, Section 6.2, initial tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
 
-The shocks and swap used for those tariffs are calcuated in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw. 
-Then, the evaluation of those tariffs is done via a GTAP AEZ simulation located within the folder: 3. runGTAP375\5. Tariff_SIM\NATFEB\
-The parameters of this specific simualtion can be found in the sub-folder 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.cmf (with the same swap and shocks values than the ones in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw).
+The shocks and swap used for those tariffs are calcuated in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw.  
+Then, the evaluation of those tariffs is done via an initial GTAP AEZ simulation located within the folder: 3. runGTAP375\5. Tariff_SIM\NATFEB\  
+The parameters of this initial simualtion can be found in the sub-folder 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.cmf (notivabely, the swap and shocks values align with the ones in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw).
 
-The results of this specific simulation can be found 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.sl4 and have been copied and stored stored in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab SShocks_tmf_f
+The results of this initial specific simulation can be found 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.sl4.  
+They and have been copied and stored stored in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_tmf_f
 
 ## 2. Final Shock Files
-The tariffs calcuated at the previous step are used to scale the decrease of:
+As mentionned in the SI, we now aim to reduce: 
 - The national output of commodities produced through deforestation.
-- The national exports of commodities derived from deforestation (as in the example above).
+- The national exports of commodities derived from deforestation.
+- Last, the decreases the AEZ‐level output of deforestation‐linked commodities.
 
-Last, the decreases the AEZ‐level output of deforestation‐linked commodities is done via the results in Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab sheet4 
-
-As such, those different files are stored in: 3. runGTAP375\Game_theory_2024\0_External_data
+The different files we are using to perform those are stored in: 3. runGTAP375\Game_theory_2024\0_External_data
 These files include:
 - qo_values.xlsx (values from the tariffs) 
 - qoes_values.xlsx (values from the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab sheet4, column BM-BU) 
