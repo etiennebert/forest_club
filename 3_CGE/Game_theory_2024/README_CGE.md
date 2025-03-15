@@ -17,15 +17,15 @@ Output Files
 
 These scripts generate five Excel files:
 
-- A-1_Database_Forest_Intensity_GTAPAEZ_shocks_Deforestation.xlsx
+- `A-1_Database_Forest_Intensity_GTAPAEZ_shocks_Deforestation.xlsx`
   - HILDA+ deforestation measured per AEZ, per country, per sector, and year.
-- A-2_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_ctl.xlsx
+- `A-2_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_ctl.xlsx`
   - HILDA+ land cover data measured per AEZ and year for the cattle sector.
-- B-1_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_agri.xlsx
+- `B-1_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_agri.xlsx`
   - HILDA+ land cover data measured per AEZ and year for other agricultural sectors (excluding cattle).
-- A-3_Database_Forest_Intensity_GTAPAEZ_shocks_LU_ctl.xlsx
+- `A-3_Database_Forest_Intensity_GTAPAEZ_shocks_LU_ctl.xlsx`
   - Annual incremental HILDA+ land cover data per AEZ and year for the cattle sector.
-- B-2_Database_Forest_Intensity_GTAPAEZ_shocks_LU_agri.xlsx
+- `B-2_Database_Forest_Intensity_GTAPAEZ_shocks_LU_agri.xlsx`
   - Annual incremental HILDA+ land cover data per AEZ and year for other agricultural sectors (excluding cattle).
 
 These outputs are consolidated into:
