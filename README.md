@@ -170,7 +170,7 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
      - `DB_GTAPAEZ_EV_2024.csv` (welfare changes)
      - `DB_GTAPAEZ_all_results_2024_agg.csv` (aggregate iteration results).
 
-The differents steps of this stage are detailed in the document **README_MRIO.md <-- Step 2**
+The differents steps of this stage are detailed in the document **README_CGE.md <-- Step 3**
 
 ---
 
