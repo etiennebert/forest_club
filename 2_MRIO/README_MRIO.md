@@ -1,6 +1,6 @@
 # Step 2: CBA and TBA Analysis with MRIO GLORIA
 
-Thanks to the previous data preparation, **your prepared CSV files** should be in the folder: 2. MRIO\GLORIA\commodity\HILDA\V_2_1
+Thanks to the previous data preparation, **your prepared CSV files of Step 1** should be in the folder: 2. MRIO\GLORIA\commodity\HILDA\V_2_1
 
 The **GLORIA data** must also be stored in the folder 2_MRIO\GLORIA\data to ensure smooth integration with the MRIO workflow.
 
