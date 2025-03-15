@@ -191,20 +191,13 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
 - **`DB_Main_Figure_areas_Global_Results.xlsx`**  
   Summaries of net vs. gross forest changes under varied scenarios.  
 
----
-
-## References
-
-1. Winkler, K., Fuchs, R., Rounsevell, M. & Herold, M. (2021). Global land use changes are four times greater than previously estimated. *Nature Communications* **12**, 2501.  
-2. Pendrill, F. et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. *Global Environmental Change* **56**, 1–10.  
-(Additional references in the Supplementary Information file.)
 
 ---
 
 ## License
 
 Unless stated otherwise, this project is under the MIT License.  
-Check **HILDA+**, **FAO**, and **GTAP** license terms for their specific policies.
+Check **HILDA+**, **FAO**, **GEMPACK**, **Alteryx**, **Tableau** and **GTAP** license terms for their specific policies.
 
 ---
 
