@@ -177,25 +177,6 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
 
 The differents steps of this stage are detailed in the document **README_CGE.md <-- Step 3**
 
----
-
-## Key Outputs
-
-- **`Deforestation_Transiting_EU27_2012-2019.xlsx`**  
-  TBA-based re-export deforestation data.  
-
-- **`CBA_Results_Full.csv`**  
-  Final consumption-based deforestation footprints.  
-
-- **`DB_GTAPAEZ_Forest_2024.csv`**  
-  Net forest area changes at the AEZ level, post-tariff or membership scenario.  
-
-- **`DB_GTAPAEZ_EV_2024.csv`**  
-  Welfare (Equivalent Variation) changes.  
-
-- **`DB_Main_Figure_areas_Global_Results.xlsx`**  
-  Summaries of net vs. gross forest changes under varied scenarios.  
-
 
 ---
 
@@ -208,9 +189,7 @@ Check **HILDA+**, **FAO**, **GEMPACK**, **Alteryx**, **Tableau** and **GTAP** li
 
 ## Contact
 
-For questions, please contact the corresponding author:
-
-**etber@mit.edu**
+For questions, please contact the corresponding author: **etber@mit.edu**
 
 Or open an issue on GitHub if you encounter any problems or have suggestions.
 
