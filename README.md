@@ -86,8 +86,11 @@ The current files provides an overview. The detailed execution of the worklow is
 
 ### 1. Clone or Download
 Clone the repository directly onto your C:\ drive to avoid issues with file paths containing spaces. For example:
+```text
 cd C:\
-git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.git
+git clone https://github.com/etiennebert/forest_club.git
+```
+
 Note: Do not install it under a path like C:\Users\YourName\Documents if that includes spaces (e.g., My Documents)—this can lead to inconsistent runs or file-not-found errors.
 
 ### 2. Software Requirements
