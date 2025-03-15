@@ -80,8 +80,8 @@ The aim of this README is to navigate the folder structure, replicate the analys
   - **HILDA+**: netCDFs, CSV extractions, and shapefiles.  
   - **FAO**: area/production/livestock files.
 
-- **`2. MRIO/GLORIA`**   
-  - **output**: final and intermediate CBA/TBA results.
+- **`2. MRIO`**   
+  - Code to compute the CBA/TBA results.
 
 - **`3. CGE`**  
   CGE model files, parameter sets, and results for the Forest Club simulations.
