@@ -82,11 +82,36 @@ Once the MRIO scripts are finished:
 full_database
 
 2. Run the relevant Alteryx workflow(s) to consolidate all generated results into a single database.
+The CBA results are aggregated via the script: 
+```bash
+1_HILDA_v2-1_CBA results.yxmd
+```
+This creates the file CBA_Results_Full.csv in the folder 2. MRIO\Visualisation\1. CBA_TBA
+
+The TBA results for the EU only are aggregated via the script: 
+```bash
+2_HILDA_v2-1_TBA_results_EU27only.yxmd
+```
+This creates the file Deforestation_Transiting_EU27_2012-2019.xlsx in the folder 2. MRIO\Visualisation\1. CBA_TBA
+
+The TBA results for all the different countires around the world for Brazilian deforestation are aggregated via the script: 
+```bash
+HILDA_Aggregation_CBA-and-TBA_detailed_per_commodity_BRA.yxmd
+```
+
+This creates the file HILDA_V_2_1_Sankey_Prepared_05102024_BRA.xlsx in the folder 2.MRIO\Visualisation\2. Sankeys\1_TBA files prepared
+Remark: The script must be slightly adapted to obtain the results for IDN and COD. 
 
 ---
 
 ## Visualization
 Finally, visualize the consolidated database in the `visualisation` folder via a **straightforward** process (details may vary depending on your visualization tool).
+For the Sankey visualisation, the process is slightly more complex. 
+The coordinates used for each country are stored in the folder: 2. \2_MRIO\Visualisation\2. Sankeys\2_Sankey_coordinates
+Then the Full figure is prepared via the file : 
+Sankey_Figure_1_02052024.yxmd
+And plot via the Jupyter script: Figure_1_Sankey_Diagram_2.ipynb 
+
 
 ---
 
