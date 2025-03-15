@@ -40,30 +40,30 @@ The current files provides an overview. The detailed execution of the worklow is
 │   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)
 │   ├── 3. GTAPAEZ_Deforestation_coefficient
 │   │   └── 1. GTAPAEZ_Data
-│   └── 4. Suitability
+│   ├── 4. Suitability
+│   └── **README_DATA.md <-- Step 1**
 │
-│   ├── 2. MRIO
-│
+├── 2. MRIO
 │   ├── GLORIA
 │   │   ├── commodity
 │   │   ├── output
 │   │   │   ├── CBA
 │   │   │   └── TBA
 │   │   └── (additional files)
-│
-│   └── visualizations
-│       └── (additional files)
+│   ├── visualizations
+│   │   └── (additional files)
+│   └── **README_MRIO.md <-- Step 2**
 │
 ├── 3. CGE
-│   └── Game_Theory_2024
-│       ├── 0_External_data
-│       ├── 1_Code
-│       ├── B_GLORIA_Satellite_data.yxmd
-│       ├── 3_Output
-│       ├── DB_GTAPAEZ_all.yxmd
-│       ├── DB_GTAPAEZ_aggregate.yxmd
-│       └── (experiment files, .prm parameter files, etc.)
-│
+│   ├── Game_Theory_2024
+│   │   ├── 0_External_data
+│   │   ├── 1_Code
+│   │   ├── B_GLORIA_Satellite_data.yxmd
+│   │   ├── 3_Output
+│   │   ├── DB_GTAPAEZ_all.yxmd
+│   │   ├── DB_GTAPAEZ_aggregate.yxmd
+│   │   └── (experiment files, .prm parameter files, etc.)
+│   └── **README_CGE.md <-- Step 3**
 └── README.md  <-- You are here!
 ```
 
