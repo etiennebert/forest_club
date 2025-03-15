@@ -40,7 +40,7 @@ It is possbile to calculate the deforestation coefficient as described in the ma
 
 *(Reminder: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details)*.
 
-The calcualtion of those deforestation coefficents is perfomred tab **Additional_LU_and_deforestation**, column G
+The calcualtion of those deforestation coefficents is perfomred in the same Excel file ( Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx) tab **Additional_LU_and_deforestation**, column G
 
 **Sheet 3** in this workbook summarizes the computed deforestation coefficients.
 **Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
