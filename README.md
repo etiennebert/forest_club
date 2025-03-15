@@ -116,7 +116,7 @@ Note: Do not install it under a path like C:\Users\YourName\Documents if that in
 
 ---
 
-## Data Preparation
+## Step 1: Data Preparation
 
 Main Goals: 
 
@@ -137,7 +137,7 @@ The differents steps of this stage are detailed in the document **README_DATA.md
 
 ---
 
-## Running the MRIO and TBA
+## Step 2: Running the MRIO and TBA
 
 1. **Consumption-Based Accounting (CBA)**  
    - `CBA_TBA_script.py` builds the Leontief inverse and multiplies by deforestation intensities.  
@@ -155,7 +155,7 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
 
 ---
 
-## GTAP–AEZ Counterfactual Analysis
+## Step 3: GTAP–AEZ Counterfactual Analysis
 
 1. **Tariff Simulation**  
    - **`5. Tariff_SIM`** folder contains `.prm` files to find tariffs needed to reduce exports (or output) by the share of deforestation.  
