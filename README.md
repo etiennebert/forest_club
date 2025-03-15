@@ -11,7 +11,7 @@ Etienne Berthet<sup>1,2,3,*</sup>, Ilaria Fusacchia<sup>4</sup>, Alessandro Anti
 <sup>4</sup> Department for Humanistic, Scientific, and Social Innovation, University of Basilicata; Potenza, 85100, Italy  
 <sup>5</sup> Directorate-General for Trade, European Commission; Brussels, 1000, Belgium
 
-Corresponding author: etber@mit.edu
+*Corresponding author: etber@mit.edu
 
 ---
 
