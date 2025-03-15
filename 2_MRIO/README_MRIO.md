@@ -29,10 +29,10 @@ In addition to the raw data, the link contains the GLORIA technical documentatio
 ## Required Data Files
 For calculations from **2012–2019**, you will need:
 
-1. **Transactions Matrix (T-Results)**  
+1. **Transactions Matries (T-Results)**  
    `20240111_120secMother_AllCountries_002_T-Results_xxxx_059_Markup001(full).csv` (~6.2 GB/year)
 
-2. **Final Demand Matrix (Y-Results)**  
+2. **Final Demand Matries (Y-Results)**  
    `20240111_120secMother_AllCountries_002_Y-Results_xxxx_059_Markup001(full).csv` (~226 MB/year)
 
 ---
