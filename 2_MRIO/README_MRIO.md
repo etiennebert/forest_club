@@ -1,6 +1,6 @@
 # Step 2: CBA and TBA Analysis with MRIO GLORIA
 
-Thanks to the previous data preparation, **your prepared CSV files from Step 1** should be located in: 2. MRIO\GLORIA\commodity\HILDA\V_2_1
+Thanks to the previous data preparation, **your prepared CSV files from Step 1** should be located in: 2_MRIO\GLORIA\commodity\HILDA\V_2_1
 
 Before running the MRIO Python code, **the raw GLORIA data** must also be stored in: 2_MRIO\GLORIA\data to ensure smooth integration of the workflow.
 
@@ -29,10 +29,10 @@ In addition to the raw data, the link contains the GLORIA technical documentatio
 ## Required Data Files
 For calculations from **2012–2019**, you will need:
 
-1. **Transactions Matries (T-Results)**  
+1. **Transactions Matrices (T-Results)**  
    `20240111_120secMother_AllCountries_002_T-Results_xxxx_059_Markup001(full).csv` (~6.2 GB/year)
 
-2. **Final Demand Matries (Y-Results)**  
+2. **Final Demand Matrices (Y-Results)**  
    `20240111_120secMother_AllCountries_002_Y-Results_xxxx_059_Markup001(full).csv` (~226 MB/year)
 
 ---
@@ -61,7 +61,7 @@ python CBA_TBA_scriptEU27.py
 This performs **Consumption-Based Accounting (CBA)** and **Trade-Based Accounting (TBA)** for the EU27 only. It iterates over **11 producer countries**, and **each year** (2012–2019) can take about **2 to 3 hours** per year to process.
 
 ### 2. Global CBA & TBA
-This concerns the deforestation consumed and going "through" each country around the world (mainting the EU27 as a block to avoid to count several time intra-EU27 trade, see main manuscript). 
+This concerns the deforestation consumed and going "through" each country around the world (maintaining the EU27 as a block to avoid to count several time intra-EU27 trade, see main manuscript). 
 
 Run:
 ```bash
@@ -69,7 +69,7 @@ CBA_TBA_scriptglobal.py
 ```
 
 - This script is set to run on **3 producer countries** (see SI for details) due to high computational demands.
-- Even on a HPC (High-Performance Computing) system, it can take about **1 day** per country.
+- Even on an HPC (High-Performance Computing) system, it can take about **1 day** per country.
 
 **All results** are automatically stored in the `output` folder.
 
@@ -100,9 +100,9 @@ Once the MRIO scripts are finished:
      ```bash
      HILDA_Aggregation_CBA-and-TBA_detailed_per_commodity_BRA.yxmd
      ```
-     - Aggregates TBA results for various countries (focusing on Brazilian deforestation)  
+     - Aggregates TBA results for various countries (focusing on Brazilian deforestation).  
      - Generates `HILDA_V_2_1_Sankey_Prepared_05102024_BRA.xlsx`  
-     - Output location: `2.MRIO\Visualisation\2. Sankeys\1_TBA files prepared`  
+     - Output location: `2_MRIO\Visualisation\2. Sankeys\1_TBA files prepared`  
      - **Note**: You can adapt this script for other producer countries such as IDN and COD if needed.
 
 ---
