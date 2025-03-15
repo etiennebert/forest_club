@@ -25,11 +25,11 @@ Install any dependencies required to read NetCDF files (for example, netCDF4, nu
 Load the data in your workflow using Python or any other tool that handles NetCDF.
 
 #### 1. Python Environment
-Install Pyton and the required libraries:
+Install Python and the required libraries:
 ```bash
-conda install numpy pandas netCDF4 os
+conda install numpy pandas netCDF4
 # or
-pip install numpy pandas netCDF4 os
+pip install numpy pandas netCDF4
 ```
 
 #### 2. Run the HILDA Extraction Script
@@ -44,7 +44,7 @@ python 1_HILDA+_code_extraction.py
 This will generate extracted data in subfolders under:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
 
-(The script takes approximately half and hour to run).
+(The script takes approximately half an hour to run).
 
 #### 3. Alteryx Workflow Steps
 Open Alteryx Designer.
@@ -53,17 +53,17 @@ Run:
 ```bash
 1_Country_mapping_HILDA-csv.yxmd
 ```
-The script takes app. one hour and half to run, depending of the configuration of your laptop.
-This produced four differnent yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
+The script takes app. one and a half hours to run, depending of the configuration of your laptop.
+This produced four different yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
 Those databases are stored into the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
 
 Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
 Nevertheless, the HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
-To faciliate this process, we do it in the next here:
+To facilitate this process, we detaill it below:
 
 Go to the folder: 
 1_Data\1. HILDA data\3. Split_AEZ
-The agroecological zone from the FAO wesite are stored in the folder: GAEZ_from_FAO_data  (cf. SI document for further information about them). 
+The agroecological zone from the FAO website are stored in the folder: GAEZ_from_FAO_data  (cf. SI document for further information about them). 
 
 They have been prepared with ArcGIS and the shapes are stored in the database: A-4_aez_global_grid_polygons.yxdb
 (This can be controlled via Figure S4 in the same folder).
@@ -95,17 +95,17 @@ Run the following Alteryx scripts:
 ```bash
 A_FAO_annual_evolution_per_GLORIA_sector.yxmd
 ```
-This finish to prepares the forest area evolution per MRIO sector with a particular forus on the incrematal posiitiv vhcnages.
+This finishes preparing the forest area evolution per MRIO sector with a particular focus on the incremental positive changes.
 
 ## Third step, preparing MRIO data
 In the same folder, 1. Data\2. FAO data
 
 Run the following Alteryx scripts:
 ```bash
-B_GLORIA_Sattelite_data.yxmd
+B_GLORIA_Satellite_data.yxmd
 
 ```
-This finish to prepares all MRIO-related inputs, calcuting the deforestation per country, sector, and year.
+This finishes preparing all MRIO-related inputs, calcuting the deforestation per country, sector, and year.
 They are all stored in the following folder: 
 2. MRIO\GLORIA\commodity\HILDA\V_2_1
 
