@@ -62,7 +62,7 @@ The current files provides an overview. The detailed execution of the worklow is
 │   │   ├── DB_GTAPAEZ_all.yxmd
 │   │   ├── DB_GTAPAEZ_aggregate.yxmd
 │   │   └── (experiment files, .prm parameter files, etc.)
-│   ├── Game_Theory_2024
+│   ├── 5. Tariff_SIM
 │   └── **README_CGE.md <-- Step 3**
 │
 └── README.md  <-- You are here!
