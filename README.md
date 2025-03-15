@@ -24,54 +24,49 @@ This repository accompanies the manuscript’s Supplementary Information (SI) an
 - Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
 The aim of this README is to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
+The current files provides an overview. The detailed execution of the worklow is mentionned in each specific folder. 
 
 ---
 
-## Repository Structure
+## Project Directory Structure
 
-.  
-├── 1. Data  
-│   ├── 1. HILDA data  
-│   │   ├── 1. Extracting_ntcdf_data  
-│   │   ├── 2. Aggregating_data  
-│   │   └── 3. Split_AEZ  
-│   ├── 2. FAO data  
+```text
+├── 1. Data
+│   ├── 1. HILDA data
+│   │   ├── 1. Extracting_ntcdf_data
+│   │   ├── 2. Aggregating_data
+│   │   └── 3. Split_AEZ
+│   ├── 2. FAO data
 │   │   └── 1. Production_Crops_Livestock_E_All_Data_(Normalized)
-│   ├── 3. GTAPAEZ_Deforestation_coefficient  
+│   ├── 3. GTAPAEZ_Deforestation_coefficient
 │   │   └── 1. GTAPAEZ_Data
-│   └── 4. Suitability  
+│   ├── 4. Suitability
+│   └── **README_DATA.md <-- Step 1**
 │
-├── 2. MRIO  
-│   ├── GLORIA  
-│   │   ├── commodity  
-│   │   ├── output  
-│   │   │    ├── CBA  
-│   │   │    └── TBA 
-│	│	├── output 
-│	│	└── (additional files)  
-│   └── visualizations
-│		└── (additional files)  
-├── 3. CGE  
-│   └── Game_Theory_2024 
-│	    ├── 0_External_data 
-│	    ├── 1_Code
-│	    ├── B_GLORIA_Satellite_data.yxmd  
-│	    ├── 3_Output
-│	    ├── DB_GTAPAEZ_all.yxmd  
-│	    ├── DB_GTAPAEZ_aggregate.yxmd  
-│       └── (experiment files, .prm parameter files, etc.)
+├── 2. MRIO
+│   ├── GLORIA
+│   │   ├── commodity
+│   │   ├── output
+│   │   │   ├── CBA
+│   │   │   └── TBA
+│   │   └── (additional files)
+│   ├── visualizations
+│   │   └── (additional files)
+│   └── **README_MRIO.md <-- Step 2**
+│
+├── 3. CGE
+│   ├── Game_Theory_2024
+│   │   ├── 0_External_data
+│   │   ├── 1_Code
+│   │   ├── B_GLORIA_Satellite_data.yxmd
+│   │   ├── 3_Output
+│   │   ├── DB_GTAPAEZ_all.yxmd
+│   │   ├── DB_GTAPAEZ_aggregate.yxmd
+│   │   └── (experiment files, .prm parameter files, etc.)
+│   └── **README_CGE.md <-- Step 3**
+│
 └── README.md  <-- You are here!
-
-
-├── 5. Tariff_SIM  
-│   └── (experiment files, .prm parameter files, etc.)  
-├── output  
-│   ├── DB_GTAPAEZ_all_results_2024.csv  
-│   ├── Deforestation_Transiting_EU27_2012-2019.xlsx  
-│   └── (additional outputs)  
-
-
-
+```
 
 ## Key Directories
 
@@ -91,7 +86,8 @@ The aim of this README is to navigate the folder structure, replicate the analys
 
 ### 1. Clone or Download
 git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.git
-
+(You need to clone this folder in a place directly located in your C:\
+(Avoid any path such as: "C:\\xxx\documents\My doc \ etc" any space in the path would create inconsistent run
 
 ### 2. Software Requirements
 - **Python (3.8+)**  
