@@ -35,6 +35,7 @@ Inside Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, you will find two ke
 
 - Additional_LU_and_deforestation
 - Land_Cover
+
 Using these tabs, you can calculate the deforestation coefficient as described in the main manuscript (Equation 11).
 (Those coefficents represent the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop. They are used to guide land-use decisions in the CGE model, see SI 5.2 for additional details).
 
