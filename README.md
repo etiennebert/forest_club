@@ -19,7 +19,6 @@ Corresponding author: etber@mit.edu
 
 This repository accompanies the manuscript’s Supplementary Information (SI) and outlines the methodologies, data workflows, and computational steps used to:
 - Quantify tropical deforestation driven by agricultural production and trade (using HILDA+ and FAO data).
-- Assign deforestation hotspots to specific crops and livestock (via FAO’s area-harvested and livestock data).
 - Estimate consumption- and throughflow-based deforestation footprints in a Multi-Regional Input-Output (MRIO) framework (GLORIA dataset).
 - Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
@@ -76,7 +75,7 @@ The current files provides an overview. The detailed execution of the worklow is
   - **FAO**: area/production/livestock files.
 
 - **`2. MRIO`**   
-  - Code to compute the CBA/TBA results.
+  - Code to compute the CBA/TBA results within the MRIO GLORIA.
 
 - **`3. CGE`**  
   CGE model files, parameter sets, and results for the Forest Club simulations.
