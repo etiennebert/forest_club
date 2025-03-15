@@ -16,6 +16,7 @@ To ensure proper functionality, please download the following NetCDF files:
 
 - hildaplus_GLOB-2-1-crop_states.nc
 - hildaplus_GLOB-2-1-crop_transitions.nc
+
 These contain the global crop states and transitions needed for the analysis.
 
 ### Usage Instructions
@@ -24,14 +25,15 @@ Install any dependencies required to read NetCDF files (for example, netCDF4, nu
 Load the data in your workflow using Python or any other tool that handles NetCDF.
 
 #### 1. Python Environment
-Install required libraries:
+Install Pyton and the required libraries:
 ```bash
-conda install numpy pandas netCDF4
+conda install numpy pandas netCDF4 os
 # or
-pip install numpy pandas netCDF4
+pip install numpy pandas netCDF4 os
 ```
 
 #### 2. Run the HILDA Extraction Script
+Open the terminal
 Navigate to the folder:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
 Run the Python script:
@@ -42,7 +44,8 @@ This will generate extracted data in subfolders under:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
 
 #### 3. Alteryx Workflow Steps
-Open Alteryx Designer (ensure your working directory is correct).
+Open Alteryx Designer.
+
 Run:
 Copier
 1_Country_mapping_HILDA-csv.yxmd
