@@ -1,95 +1,114 @@
-README data
-HILDA+ Data Usage Guide
-Dataset Reference
-This project utilizes the HILDA+ Global Land Use Change dataset, which provides global land-use change data from 1960 to 2019. The dataset is referenced as follows:
+# Data Usage Guide
 
-Citation:
-Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020): HILDA+ Global Land Use Change between 1960 and 2019 [dataset]. PANGAEA.
-🔗 https://doi.org/10.1594/PANGAEA.921846
+## First step, working with HILDA+ data
 
-Downloading HILDA+ Version 2.1
-The latest version 2.1 of the dataset can be downloaded from:
-🔗 https://bwsyncandshare.kit.edu/s/H2iQG6nMPTaxpqR/download
+### Downloading HILDA+ (Version 2.1)
+This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019). 
+Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):
+HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
+PANGAEA. https://doi.org/10.1594/PANGAEA.921846
 
-Required Files
+The latest version (2.1) can be downloaded from:
+https://bwsyncandshare.kit.edu/s/H2iQG6nMPTaxpqR/download
+
+### Required Files
 To ensure proper functionality, please download the following NetCDF files:
 
 - hildaplus_GLOB-2-1-crop_states.nc
 - hildaplus_GLOB-2-1-crop_transitions.nc
-These files contain the global crop states and transitions necessary for the analysis.
 
-Usage Instructions
-Place the downloaded files in the appropriate directory.
-Ensure you have the necessary dependencies installed to read NetCDF files (e.g., xarray, netCDF4 in Python).
-Load the data into your workflow using the relevant tools for your analysis.
+These contain the global crop states and transitions needed for the analysis.
 
-Contact & Support
-For any questions or assistance regarding the dataset, please refer to the official HILDA+ documentation or reach out to the dataset authors via PANGAEA.
-For any question regarding the Python code, please refer to etber@mit.edu
+### Usage Instructions
+Place the downloaded files in the appropriate directory (e.g., 1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data).
+Install any dependencies required to read NetCDF files (for example, netCDF4, numpy, pandas).
+Load the data in your workflow using Python or any other tool that handles NetCDF.
 
-Instruction to run the results of the study: 
-HILDA+ Data Usage Guide
-Dataset Reference
-This project utilizes the HILDA+ Global Land Use Change dataset, which provides global land-use change data from 1960 to 2019. The dataset is referenced as follows:
+#### 1. Python Environment
+Install Pyton and the required libraries:
+```bash
+conda install numpy pandas netCDF4 os
+# or
+pip install numpy pandas netCDF4 os
+```
 
-Citation:
-Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020): HILDA+ Global Land Use Change between 1960 and 2019 [dataset]. PANGAEA.
-🔗 https://doi.org/10.1594/PANGAEA.921846
+#### 2. Run the HILDA Extraction Script
+Open the terminal
+Navigate to the folder:
+1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
 
-Downloading HILDA+ Version 2.1
-The latest version 2.1 of the dataset can be downloaded from:
-🔗 https://bwsyncandshare.kit.edu/s/H2iQG6nMPTaxpqR/download
-
-Required Files
-To ensure proper functionality, please download the following NetCDF files:
-
-- hildaplus_GLOB-2-1-crop_states.nc
-- hildaplus_GLOB-2-1-crop_transitions.nc
-These files contain the global crop states and transitions necessary for the analysis.
-
-Usage Instructions
-Place the downloaded files in the appropriate directory.
-Ensure you have the necessary dependencies installed to read NetCDF files (e.g., xarray, netCDF4 in Python).
-Load the data into your workflow using the relevant tools for your analysis.
-
-Contact & Support
-For any questions or assistance regarding the dataset, please refer to the official HILDA+ documentation or reach out to the dataset authors via PANGAEA.
-For any question regarding the Python code, please refer to etber@mit.edu
-
-Within Python, install the following enviromets: 
-import numpy as np
-import pandas as pd
-import netCDF4
-Run the script 
-1_HILDA+_code_extraction.py inside the folder 1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
-This will prepare the data into the folders: 
+Run the Python script:
+```bash
+python 1_HILDA+_code_extraction.py
+```
+This will generate extracted data in subfolders under:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
 
+(The script takes approximately half and hour to run).
 
-In your command file: load the environemtn with the approapriate libraby (ex: 
-Then simply run: Python 1_HILDA+_code_extraction.py
+#### 3. Alteryx Workflow Steps
+Open Alteryx Designer.
 
-Then, in that order run: 
+Run:
+```bash
+1_Country_mapping_HILDA-csv.yxmd
+```
+The script takes app. one hour and half to run, depending of the configuration of your laptop.
+This produced four differnent yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
+Those databases are stored into the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
 
-Set the working directory on the same path as the Python script. 
-Run the full script. 
-Now run the Alteryx Script 1_Country_mapping_HILDA-csv.yxmd
-This store the data in your folder 
-Then run the following script in that specific order: 
-A-1_Alteryx_AEZ_Marked_Country.yxmd
-A-4_aez_global_grid_polygons.yxdb
+Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
+Nevertheless, the HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
+To faciliate this process, we do it in the next here:
+
+Go to the folder: 
+1_Data\1. HILDA data\3. Split_AEZ
+The agroecological zone from the FAO wesite are stored in the folder: GAEZ_from_FAO_data  (cf. SI document for further information about them). 
+
+They have been prepared with ArcGIS and the shapes are stored in the database: A-4_aez_global_grid_polygons.yxdb
+(This can be controlled via Figure S4 in the same folder).
+
+Then, run the following Alteryx file:
+```bash
 B-1_Spatial-match_HILDA_AEZ.yxmd
-This will generate: 
--C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb 
-C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited
-Your HILDA data are now prepared. 
-For the FAO data, download the data at: 
-Stored the unzip file in: 
-run the scpt: 
-A_FAO_annual_evolution_per_GLORIA_sector.yxmd 
-B_GLORIA_Sattelite_data.yxmd
-A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd
-B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd
-The data are now prepared. 
-MRIO data 
+```
 
+These create the following databases:
+- C-2_HILDA_V_2_1_State_GTAP_AEZ_Centroid.yxdb
+- C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid
+
+The HILDA data are now prepared for the CGE part also.
+
+## Second step, preparing FAO data
+
+Download the FAO dataset:  
+Crops and livestock products
+https://www.fao.org/faostat/en/#data/QCL 
+And download the serie called: All data Normalized.
+https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip
+
+Unzip it to 1_Data/2. FAO data/ (or a similar folder).
+
+Run the following Alteryx scripts:
+```bash
+A_FAO_annual_evolution_per_GLORIA_sector.yxmd
+```
+This finish to prepares the forest area evolution per MRIO sector with a particular forus on the incrematal posiitiv vhcnages.
+
+## Third step, preparing MRIO data
+In the same folder, 1. Data\2. FAO data
+
+Run the following Alteryx scripts:
+```bash
+B_GLORIA_Sattelite_data.yxmd
+
+```
+This finish to prepares all MRIO-related inputs, calcuting the deforestation per country, sector, and year.
+They are all stored in the following folder: 
+2. MRIO\GLORIA\commodity\HILDA\V_2_1
+
+## Contact & Support
+For HILDA+ dataset questions: refer to the official documentation or contact the dataset authors.
+For Python/Alteryx code questions: email etber@mit.edu.
