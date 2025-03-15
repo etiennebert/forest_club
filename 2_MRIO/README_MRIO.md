@@ -61,9 +61,9 @@ python CBA_TBA_scriptEU27.py
 This performs **Consumption-Based Accounting (CBA)** and **Trade-Based Accounting (TBA)** for the EU27 only. It iterates over **11 producer countries**, and **each year** (2012–2019) can take about **2 to 3 hours** per year to process.
 
 ### 2. Global CBA & TBA
-This concerns only the deforestation consumed in the EU27 and going "through" the EU27 (cf. main manuscript). 
+This concerns the deforestation consumed and going "through" each country around the world (mainting the EU27 as a block to avoid to count several time intra-EU27 trade, see main manuscript). 
 
-Next, run:
+Run:
 ```bash
 CBA_TBA_scriptglobal.py
 ```
