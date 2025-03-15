@@ -45,55 +45,64 @@ The calcualtion of those deforestation coefficents is perfomred tab **Additional
 **Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
 
 ### Computing Tariffs for Deforestation-Linked Exports
-As described in SI, Section 6.2, tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
+As described in SI, Section 6.2, initial tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
 
-The shocks and swap used for those tariffs are computed in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw. 
+The shocks and swap used for those tariffs are calcuated in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw. 
+Then, the evaluation of those tariffs is done via a GTAP AEZ simulation located within the folder: 3. runGTAP375\5. Tariff_SIM\NATFEB\
+The parameters of this specific simualtion can be found in the sub-folder 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.cmf (with the same swap and shocks values than the ones in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw).
 
-This file is used in further computations, producing Shocks_tmf_f and other relevant shock results.
-Then, the calcuation of the tariffs is done via a GTAP AEZ simulation done via the folder: 3. runGTAP375\5. Tariff_SIM\NATFEB\SaveSims
-The parameter of this simualtion can be found in the folder Savesims. 
+The results of this specific simulation can be found 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.sl4 and have been copied and stored stored in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab SShocks_tmf_f
 
-This simulation is available in the SI and can be recomputed using the “\5. Tariff_SIM” folder (name of the experiment: qxwGlobT “aggregate shock on qxw for global tariffs”), which yields the average tariff required to curtail each export flow in proportion to its deforestation footprint
-And the value found in the file qxwGlobT.cmf are the same than the ones in the file. 
+## 2. Final Shock Files
+The tariffs calcuated at the previous step are used to scale the decrease of:
+- The national output of commodities produced through deforestation.
+- The national exports of commodities derived from deforestation (as in the example above).
 
-Teh results are in the file qxwGlobT.sl4 and stored in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab SShocks_tmf_f
+Last, the decreases the AEZ‐level output of deforestation‐linked commodities is done via the results in Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab sheet4 
 
-## Final Shock Files
-The three shocks files (deforestation coefficients + tariff adjustments) are ultimately stored in:
-
-3. runGTAP375\Game_theory_2024\0_External_data
+As such, those different files are stored in: 3. runGTAP375\Game_theory_2024\0_External_data
 These files include:
+- qo_values.xlsx (values from the tariffs) 
+- qoes_values.xlsx (values from the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab sheet4, column BM-BU) 
+- qxw_values.xlsx (values from the tariffs)
+- tms_f_initial_shocks.xlsx (values from the tariffs) 
+Those file are then used in the CGE model simulation to capture the impact of deforestation on land expansion, trade flows, and corresponding policy interventions.
 
-qo_values.xlsx
-qoes_values.xlsx
-qxw_values.xlsx
-They are then utilized in the CGE model to capture the impact of deforestation on land expansion, trade flows, and corresponding policy interventions.
+## 3. Running the Simulation
 
-## Running the Simulation. 
-The coefficents have been calcuated. 
-The Parameters located Table S6 of the SI are stored in the sub folder located at: C:\runGTAP375\Game_theory_2024\0_External_data
+The coefficients and their corresponding shocks and swaps have been calculated (see above). 
+Those coefficients as well as the parameter values (Table S6 in the SI) are stored in the subfolders under: C:\runGTAP375\Game_theory_2024\0_External_data
 
-To run the simuation, it first necessary to unzip the 2_Model folder, then to run R script located at 1_Code. 
-This will generate different output for qoes, qo, and qxw for each of the scenario considered. 
-The program is defined to stop after a phase of 25 similar oscialltion but this can be extensede. 
+### 3.1 Unzipping the Model Folder
+1. **Unzip the `2_Model` folder**. This folder contains:
+   - The **GTAP-AEZ executable** used during all iterations,
+   - Necessary configuration files,
+   - Other files required to run the GEMPACK simulation.
+2. **Check `defaut.prm`** for updated elasticity parameters (see SI 5.1). The relevant parameter is `ETRAEL1` (elasticity of transformation between Forestry and Agriculture), based on Miranda et al.
 
-The simulaiton time can vary significantly between scenario as it can be between 1 min and 1 hour per iteration. 
+### 3.2 Updating Paths in `NATDEF.cmf`
+Within the `NATDEF.cmf` file, **lines 40 and 41** must reflect your chosen file path:
+40 Solution file = C:\runGTAP375\Game_theory_2024\2_Model\NATDEF.sl4;
+41 Updated file gtapDATA = C:\runGTAP375\Game_theory_2024\2_Model\gdata.upd;
+Update these lines as needed.
 
-LAst, Some of the resutls are stored in the 4_DB folder. 
-By running the two last ALteryx Workflow: 
-- Database_GTAPAEZ_all_results_2024_agg_pivot.yxmd
-- DB_GTAPAEZ_all
+### 3.3 Running the R Script
+- Navigate to the `1_Code` folder and **run the R script**.
+- This generates outputs such as `qoes`, `qo`, and `qxw` for each scenario.
+- **Oscillation Handling**: The program stops after 25 repeated oscillations, but this limit can be changed.  
+- **Simulation Time**: Varies by scenario, typically **1 minute to 1 hour** per iteration.
 
-all the results can be calcualted. 
+### 3.4 Consolidating Results
+- All outputs are stored in the `4_DB` folder.
+- To create a single, consolidated database, **run the two final Alteryx workflows**: 
+  - Database_GTAPAEZ_all_results_2024_agg_pivot.yxmd
+  - DB_GTAPAEZ_all
 
+- These workflows produce a comprehensive database of results for further analysis or visualization.
 
-Summary
+## Summary
 Deforestation Coefficients are generated and consolidated through Alteryx scripts, stored in Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx.
 Tariffs related to deforestation-linked production are computed and used in subsequent CGE simulations.
 The final shock files (qo_values.xlsx, qoes_values.xlsx, qxw_values.xlsx) are placed in 3. runGTAP375\Game_theory_2024\0_External_data, ready for input into the CGE model.
 For any additional details or references, please consult the main manuscript (Equation 11, SI 5.2, SI 6.2) or the corresponding Alteryx workflows.
-
-
-
-
 
