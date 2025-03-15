@@ -3,13 +3,13 @@
 This repository provides supplementary information, data workflows, and scripts for the study:
 
 A trade-based Forest Club as a path to halting Tropical deforestation  
-Etienne Berthet<sup>1,2,3,</sup>, Ilaria Fusacchia(4), Alessandro Antimiani(5), Jennifer Morris(1), and Alexis Laurent(2,3)
+Etienne Berthet<sup>1,2,3,*</sup>, Ilaria Fusacchia<sup>4</sup>, Alessandro Antimiani<sup>5</sup>, Jennifer Morris<sup>1</sup>, and Alexis Laurent<sup>2,3</sup>
 
-(1) MIT Center for Sustainability Science and Strategy, Massachusetts Institute of Technology; Cambridge, MA 02139, USA  
-(2) Department of Environmental and Resource Engineering, Technical University of Denmark; Kongens Lyngby, 2800, Denmark  
-(3) Center for Absolute Sustainability, Technical University of Denmark; Kongens Lyngby, 2800, Denmark  
-(4) Department for Humanistic, Scientific, and Social Innovation, University of Basilicata; Potenza, 85100, Italy  
-(5) Directorate-General for Trade, European Commission; Brussels, 1000, Belgium
+<sup>1</sup> MIT Center for Sustainability Science and Strategy, Massachusetts Institute of Technology; Cambridge, MA 02139, USA  
+<sup>2</sup> Department of Environmental and Resource Engineering, Technical University of Denmark; Kongens Lyngby, 2800, Denmark  
+<sup>3</sup> Center for Absolute Sustainability, Technical University of Denmark; Kongens Lyngby, 2800, Denmark  
+<sup>4</sup> Department for Humanistic, Scientific, and Social Innovation, University of Basilicata; Potenza, 85100, Italy  
+<sup>5</sup> Directorate-General for Trade, European Commission; Brussels, 1000, Belgium
 
 Corresponding author: etber@mit.edu
 
