@@ -3,7 +3,7 @@
 ---
 
 ## 1. Generating Deforestation Coefficients
-The first step in the CGE analysis is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
+The first step is is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
 
 ### Alteryx Workflows
 Navigate to the folder:1_Data\3. GTAPAEZ_Deforestation_coefficient
