@@ -94,22 +94,27 @@ git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.
   For scripts like `1_HILDA_code_extraction.py`, `CBA_TBA_script.py`, etc.  
   Install commonly used libraries: `xarray`, `numpy`, `pandas`, `scipy`.
 
-- **Alteryx Designer** (optional if you replicate the data pipelines differently)  
+- **Alteryx Designer** https://www.alteryx.com/products/alteryx-designer
+  (optional if you replicate the data pipelines differently)  
   Required to run `.yxmd` workflows.
 
-- **GEMPACK** (with Fortran compiler)  
+- **GEMPACK** https://www.copsmodels.com/gempack.htm
+  (with Fortran compiler)  
   Necessary to run the **GTAP–AEZ** model for the counterfactual simulations.
 
 - **R** (4.0+)  
   - Some analysis (game-theory logic) is in R scripts.  
   - **HARr** package to parse `.har` outputs from GEMPACK.
 
-- **Tableau** (optional)  
+- **Tableau** https://www.tableau.com/
+ (optional)  
   We used `.twb` workbooks for certain visualizations.
 
 ---
 
 ### Data Preparation
+
+Main Goals: 
 
 1. **Extract HILDA+**  
    - Acquire **HILDA+ v2.1** data (`.nc` files).  
@@ -121,88 +126,10 @@ git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.
    - `A_FAO_annual_evolution_per_GLORIA_sector.yxmd` (Alteryx) aggregates yearly data and smooths fluctuations.  
    - Merge with HILDA+ expansions to get sector-level deforestation intensities.
 
+3. **Prepare the HILDA+ and FAO data processed**
+   - Prepare the processeded data for the MRIO GLORIA 
 
-## Detailed Instructions to prepare the data
-
-
-### 1.1 Dataset Reference
-We utilize the **HILDA+ Global Land Use Change** dataset (1960–2019).  
-**Citation**  
-Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):  
-*HILDA+ Global Land Use Change between 1960 and 2019 [dataset]*.  
-PANGAEA. [DOI: 10.1594/PANGAEA.921846](https://doi.org/10.1594/PANGAEA.921846)
-
-### 1.2 Required Files
-- **hildaplus_GLOB-2-1-crop_states.nc**  
-- **hildaplus_GLOB-2-1-crop_transitions.nc**
-
-### 1.3 Usage Instructions
-1. **Place** the NetCDF files under: 1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data
-
-2. **Install** netCDF support (as above).
-3. **Load** or process data in Python, Alteryx, or R, etc.
-
-### 1.4 Contact & Support
-- HILDA+ dataset: official documentation / authors.  
-- Python code: **etber@mit.edu**.
-
----
-
-## 2. Running HILDA+ Extraction & Spatial Processing
-
-1. **Set Working Directory** to:1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data
-
-1_Data/1. HILDA data/1. Extracting_ntcdf_data
-
-markdown
-Copier
-Modifier
-3. **Run in Alteryx**:
-1_Country_mapping_HILDA-csv.yxmd
-
-markdown
-Copier
-Modifier
-to attach country metadata to CSVs.
-
-### 2.1 Spatial Matching with AEZ
-Now run in Alteryx, in order:
-1. **A-1_Alteryx_AEZ_Marked_Country.yxmd**
-2. **A-4_aez_global_grid_polygons.yxdb**
-3. **B-1_Spatial-match_HILDA_AEZ.yxmd**
-
-These generate:
-C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
-
-yaml
-Copier
-Modifier
-Your HILDA+ data is fully prepared at this point.
-
----
-
-## 3. Detailed FAO Steps (Recap)
-
-1. Place raw FAO files in:
-1_Data/2. FAO data/1. Production_Crops_Livestock_E_All_Data_(Normalized)
-
-yaml
-Copier
-Modifier
-2. Run in Alteryx:
-- `A_FAO_annual_evolution_per_GLORIA_sector.yxmd`
-- `B_GLORIA_Sattelite_data.yxmd`
-- For GTAP-AEZ deforestation coefficients:
-  - `A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd`
-  - `B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd`
-
----
-
-## 4. MRIO Data Integration
-
-After both HILDA+ and FAO data are processed:
-
-1. **Load** MRIO (GLORIA) or a similar dataset:
+The differents steps of this stage are detailed in the document **README_DATA.md <-- Step 1**
 
 ---
 
@@ -219,6 +146,8 @@ After both HILDA+ and FAO data are processed:
 3. **Visualizations**  
    - Alteryx workflow `1_HILDA_v2-1_CBA results.yxmd` merges final CBA results.  
    - `CBA_Visualisation.twb` (Tableau) or other tools for charts and maps.
+
+The differents steps of this stage are detailed in the document **README_MRIO.md <-- Step 2**
 
 ---
 
@@ -239,6 +168,8 @@ After both HILDA+ and FAO data are processed:
      - `DB_GTAPAEZ_Forest_2024.csv` (forest area changes)
      - `DB_GTAPAEZ_EV_2024.csv` (welfare changes)
      - `DB_GTAPAEZ_all_results_2024_agg.csv` (aggregate iteration results).
+
+The differents steps of this stage are detailed in the document **README_MRIO.md <-- Step 2**
 
 ---
 
@@ -273,17 +204,6 @@ After both HILDA+ and FAO data are processed:
 
 Unless stated otherwise, this project is under the MIT License.  
 Check **HILDA+**, **FAO**, and **GTAP** license terms for their specific policies.
-
----
-
-## Citation
-
-If you use this code or data, please cite the original paper:
-
-Berthet, E. et al. (20XX). *A trade-based Forest Club as a path to halting Tropical deforestation*.
-
-And reference the GitHub repository:
-
 
 ---
 
