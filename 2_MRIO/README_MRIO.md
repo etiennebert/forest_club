@@ -2,7 +2,7 @@
 
 Thanks to the previous data preparation, **your prepared CSV files of Step 1** should be in the folder: 2. MRIO\GLORIA\commodity\HILDA\V_2_1
 
-The **GLORIA data** must also be stored in the folder 2_MRIO\GLORIA\data to ensure smooth integration with the MRIO workflow.
+Before running the MRIO Python code, the raw **GLORIA data** must also be stored in the folder 2_MRIO\GLORIA\data to ensure smooth integration with the MRIO workflow.
 
 ---
 
