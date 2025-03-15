@@ -1,10 +1,9 @@
-# Step 3: CGE Calculation
-
-The first step in the CGE analysis is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
+# Step 3: GTAP-AEZ simulation within the game theory
 
 ---
 
 ## 1. Generating Deforestation Coefficients
+The first step in the CGE analysis is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
 
 ### Alteryx Workflows
 Navigate to the folder:1_Data\3. GTAPAEZ_Deforestation_coefficient
