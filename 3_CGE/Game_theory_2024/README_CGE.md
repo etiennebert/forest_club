@@ -34,26 +34,25 @@ Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
 ```
 
 ### Calculating the Deforestation Coefficient
-Inside the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, using the following tabs:
+Within `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx`, the following tabs:
 
 - Additional_LU_and_deforestation
 - Land_Cover
 
-It is possbile to calculate the deforestation coefficient as described in the main manuscript (Equation 11).
+are used to calculate the deforestation coefficient as described in the main manuscript (Equation 11).  
+*(Note: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details)*.
 
-*(Reminder: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details)*.
-
-The calcualtion of those deforestation coefficents is perfomred in the same Excel file ( Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx) tab **Additional_LU_and_deforestation**, column G
-
+The calcualtion itself is perfomred in `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx,` tab **Additional_LU_and_deforestation**, column G.
+Last:
 **Sheet 3** in this workbook summarizes the computed deforestation coefficients.  
 **Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
 
 ### Computing Tariffs for Deforestation-Linked Exports
 As described in SI, Section 6.2, initial tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
 
-The shocks and swap used for those tariffs are calcuated in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw.  
-Then, the evaluation of those tariffs is done via an initial GTAP AEZ simulation located within the folder: 3. runGTAP375\5. Tariff_SIM\NATFEB\  
-The parameters of this initial simualtion can be found in the sub-folder 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.cmf (notivabely, the swap and shocks values align with the ones in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw).
+The shocks and swap used for those tariffs are calcuated in the Excel file `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx`, tab Shocks_GlobalTarf_qxw.  
+Then, the evaluation of those tariffs is done via an initial GTAP AEZ simulation located within the folder: `3. runGTAP375\5. Tariff_SIM\NATFEB\`  
+The parameters of this initial simualtion can be found in the sub-folder `3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims`, file qxwGlobT.cmf (notivabely, the swap and shocks values align with the ones in the Excel file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw).
 
 The results of this initial specific simulation can be found 3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.sl4.  
 They and have been copied and stored stored in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_tmf_f
