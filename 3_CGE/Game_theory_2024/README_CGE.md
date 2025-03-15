@@ -64,7 +64,6 @@ To operationalize these goals, we use the following files (stored in '3. runGTAP
 - qo_values.xlsx (values from the tariffs) 
 - qoes_values.xlsx (values from the file 'Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx', tab sheet4, column BM-BU) 
 - qxw_values.xlsx (values from the tariffs)
-- tms_f_initial_shocks.xlsx (values from the tariffs) 
 
 These files are used in the CGE simulation to capture deforestation’s impact on land expansion, trade flows, and related policy interventions.
 
