@@ -72,7 +72,7 @@ The current files provides an overview. The detailed execution of the worklow is
 - **`1. Data`**  
   Raw and processed input data:  
   - **HILDA+**: netCDFs, CSV extractions, and shapefiles.  
-  - **FAO**: area/production/livestock files.
+  - **FAO**: agro ecological zone/agricultural production/livestock production.
 
 - **`2. MRIO`**   
   - Code to compute the CBA/TBA results within the MRIO GLORIA.
