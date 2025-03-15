@@ -53,39 +53,60 @@ Run:
 ```bash
 1_Country_mapping_HILDA-csv.yxmd
 ```
-This stores data in the designated output folder (2. Aggregating_data).
+This produced the differnet yxdb databases stores data in the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
 
-Then run in this specific order:
+Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
+Nevertheless, the HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
+To faciliate this process, we do it in the next here:
+
+Go to the folder: 
+1_Data\1. HILDA data\3. Split_AEZ
+The agroecological zone from the FAO wesite are stored in the folder: GAEZ_from_FAO_data
+
+They have been prepared with ArcGIS and the shapes are stored in the database: A-4_aez_global_grid_polygons.yxdb
+(This can be controlled via Figure S4 in the same folder).
+
+Then run the following Alteryx file:
 ```bash
-A-1_Alteryx_AEZ_Marked_Country.yxmd
-A-4_aez_global_grid_polygons.yxdb
 B-1_Spatial-match_HILDA_AEZ.yxmd
 ```
 
 These create the following databases:
+- C-2_HILDA_V_2_1_State_GTAP_AEZ_Centroid.yxdb
 - C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb
 - C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid
 
-Your HILDA data is now prepared.
+The HILDA data are now prepared
 
 ## Second step, preparing FAO data
 
 Download the FAO dataset:  
+Crops and livestock products
+https://www.fao.org/faostat/en/#data/QCL 
+And download the serie called: All data Normalized.
+https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip
 
 Unzip it to 1_Data/2. FAO data/ (or a similar folder).
 
 Run the following Alteryx scripts:
 ```bash
 A_FAO_annual_evolution_per_GLORIA_sector.yxmd
-B_GLORIA_Sattelite_data.yxmd
-A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd
-B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd
 ```
-This prepares all FAO-related inputs.
+This finish to prepares all MRIO-related inputs.
 
 
-## Third step, preparing FAO data
-(Include any MRIO data processing steps here, if needed.)
+## Third step, preparing MRIO data
+In the same folder, 1. Data\2. FAO data
+
+Run the following Alteryx scripts:
+```bash
+B_GLORIA_Sattelite_data.yxmd
+
+```
+This finish to prepares all MRIO-related inputs.
+They are all stored in the following folder: 
+2. MRIO\GLORIA\commodity\HILDA\V_2_1
 
 ## Contact & Support
 For HILDA+ dataset questions: refer to the official documentation or contact the dataset authors.
