@@ -93,15 +93,18 @@ git clone https://github.com/etiennebert/forest_club.git
 Note: Do not install it under a path like C:\Users\YourName\Documents if that includes spaces (e.g., My Documents)—this can lead to inconsistent runs or file-not-found errors.
 
 ### 2. Software Requirements
+- **Operating System: Windows 10 or later**
+  (tested on Windows 11)
+
 - **Python (3.8+)**  
   For scripts like `1_HILDA_code_extraction.py`, `CBA_TBA_script.py`, etc.  
   Install commonly used libraries: `xarray`, `numpy`, `pandas`, `scipy`.
 
-- **Alteryx Designer** https://www.alteryx.com/products/alteryx-designer
+- **Alteryx Designer 2022.3** https://www.alteryx.com/products/alteryx-designer
   (optional if you replicate the data pipelines differently)  
   Required to run `.yxmd` workflows.
 
-- **GEMPACK** https://www.copsmodels.com/gempack.htm
+- **GEMPACK Version 12.1** https://www.copsmodels.com/gempack.htm
   (with Fortran compiler)  
   Necessary to run the **GTAP–AEZ** model for the counterfactual simulations.
 
