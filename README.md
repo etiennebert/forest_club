@@ -201,7 +201,7 @@ To replicate the **key figures and tables** from the manuscript:
 
 ## License
 
-**Unless stated otherwise, this project is under the [MIT License](./LICENSE).**  
+**Unless stated otherwise, this project is under the [MIT License](./https://opensource.org/license/mit).**  
 
 You may freely use, modify, and distribute this code under MIT terms.
 
