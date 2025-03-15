@@ -3,10 +3,10 @@
 ---
 
 ## 1. Generating Deforestation Coefficients
-The first step is is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
+The first step is to **calculate the deforestation coefficient**, as explained in **Equation 11** of the main manuscript.
 
 ### Alteryx Workflows
-1. Navigate to the folder:1_Data\3. GTAPAEZ_Deforestation_coefficient
+1. Navigate to the folder: 1_Data\3. GTAPAEZ_Deforestation_coefficient
 2. Run both Alteryx workflows:
 ```bash
 A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd
@@ -42,7 +42,7 @@ Within `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx`, the following tabs
 are used to calculate the deforestation coefficient as described in the main manuscript (Equation 11).  
 *(Note: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details)*.
 
-The calcualtion itself is performed in `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx,` tab **Additional_LU_and_deforestation**, column G.  
+The calculation itself is performed in `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx,` tab **Additional_LU_and_deforestation**, column G.  
 Last:
 - **Sheet 3** in this workbook summarizes the computed deforestation coefficients.  
 - **Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
@@ -50,15 +50,15 @@ Last:
 ### Computing Tariffs for Deforestation-Linked Exports
 As described in SI, Section 6.2, initial tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
 
-- The shocks and swap used for those tariffs are calcuated in the Excel file `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx`, tab Shocks_GlobalTarf_qxw.  
+- The shocks and swaps used for those tariffs are calcuated in the Excel file `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx`, tab Shocks_GlobalTarf_qxw.  
 - An initial GTAP-AEZ simulation (in '3. runGTAP375\5. Tariff_SIM\NATFEB\') then evaluates these tariffs. Its parameters are stored in: file qxwGlobT.cmf (These swaps and shock values align with the Shocks_GlobalTarf_qxw tab of the same Excel file above.)
 - The output of this simulation is '3. runGTAP375\5. Tariff_SIM\NATFEB\Savesims, file qxwGlobT.sl4' and has been copied into 'Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx', tab Shocks_tmf_f
 
 ## 2. Final Shock Files
-Following the approach in the SI, we aim to:
+Following the approach in the SI, we aim to reduce:
 1. The national output of commodities produced through deforestation.
 2. The national exports of commodities derived from deforestation.
-3. Last, the decreases the AEZ‐level output of deforestation‐linked commodities.
+3. The AEZ‐level output of deforestation‐linked commodities.
 
 To operationalize these goals, we use the following files (stored in '3. runGTAP375\Game_theory_2024\0_External_data'):
 - qo_values.xlsx (values from the tariffs) 
@@ -76,7 +76,7 @@ The necessary coefficients, shocks, and swaps are now in place. The key paramete
    - The **GTAP-AEZ executable** used during all iterations,
    - Necessary configuration files,
    - Other files required to run the GEMPACK simulation.
-2. **Check `defaut.prm`** if you aim to update elasticity parameters (see SI 5.1). The relevant variable is `ETRAEL1` (elasticity of transformation between Forestry and Agriculture), updated from on Miranda et al.
+2. **Check `default.prm`** if you aim to update elasticity parameters (see SI 5.1). The relevant variable is `ETRAEL1` (elasticity of transformation between Forestry and Agriculture), updated from Miranda et al.
 
 ### 3.2 Updating Paths in `NATDEF.cmf`
 Within the `NATDEF.cmf` file, **lines 40 and 41** must reflect your chosen file path:
@@ -104,3 +104,5 @@ Adjust these paths as necessary.
 - Shock files (qo_values.xlsx, qoes_values.xlsx, qxw_values.xlsx) are placed in '3. runGTAP375\Game_theory_2024\0_External_data', ready for input into the CGE model.
 - For any additional details or references, please consult the main manuscript (Equation 11, SI 5.2, SI 6.2) or the corresponding Alteryx workflows.
 
+## References
+Miranda, J., Britz, W. & Börner, J. Impacts of commodity prices and governance on the expansion of tropical agricultural frontiers. Scientific Reports 1–13 (2024) doi:10.1038/s41598-024-59446-0 
