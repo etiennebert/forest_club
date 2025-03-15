@@ -28,7 +28,7 @@ These scripts generate five Excel files:
 - B-2_Database_Forest_Intensity_GTAPAEZ_shocks_LU_agri.xlsx
   - Annual incremental HILDA+ land cover data per AEZ and year for other agricultural sectors (excluding cattle).
 
-These results are consolidated into and Excel file: Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
+These results are consolidated into an Excel file within the same folder: Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
 
 ### Calculating the Deforestation Coefficient
 Inside Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, you will find two key tabs:
