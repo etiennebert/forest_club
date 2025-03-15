@@ -16,7 +16,7 @@ The **GLORIA (Global Resource Input-Output Assessment)** database is a Multi-Reg
 _(A user account is required to access the data.)_
 
 ### Technical Documentation
-In addition to the raw data, the GLORIA technical documentation covers:
+In addition to the raw data, the link contains the GLORIA technical documentation, which covers:
 - Construction methodology of the MRIO table  
 - Source datasets used  
 - Quality checks performed  
