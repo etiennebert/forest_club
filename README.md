@@ -19,7 +19,7 @@ Etienne Berthet<sup>1,2,3,*</sup>, Ilaria Fusacchia<sup>4</sup>, Alessandro Anti
 
 This repository accompanies the manuscript’s Supplementary Information (SI) and outlines the methodologies, data workflows, and computational steps used to:
 - Quantify tropical deforestation driven by agricultural production and trade (using HILDA+ and FAO data).
-- Estimate consumption- and throughflow-based deforestation footprints in a Multi-Regional Input-Output (MRIO) framework (GLORIA dataset).
+- Quantify consumption- and throughflow-based deforestation footprints thanks to a Multi-Regional Input-Output (MRIO) framework (GLORIA dataset).
 - Implement and assess a Computable General Equilibrium (CGE) model (GTAP–AEZ) for counterfactual simulations of the so-called “Forest Club.”
 
 The aim of this README is to navigate the folder structure, replicate the analyses, and locate important scripts and data files.
