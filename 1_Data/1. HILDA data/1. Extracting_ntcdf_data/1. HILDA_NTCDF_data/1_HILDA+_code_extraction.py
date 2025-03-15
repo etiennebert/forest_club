@@ -4,6 +4,12 @@ Created on Tue Feb 21 00:02:20 2023
 
 @author: etber
 """
+import os
+# Ensure we are in the script's directory
+script_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(script_path)
+os.chdir(script_dir)
+
 import numpy as np
 import pandas as pd
 import netCDF4
@@ -118,7 +124,9 @@ for file_conf in files:
 
                 # Construct output filename
                 # e.g., "HILDA_V2_1_All_States_South_America_2008.csv"
-                output_filename = f"HILDA_V2_1_Selected_{prefix}_{list_name[i]}_{year}.csv"
+                output_filename = f"../HILDA_{list_name[i]}_2008-2019_csv/{prefix}/HILDA_V2_1_Selected_{prefix}_{list_name[i]}_{year}.csv"
+
+                os.makedirs(os.path.dirname(output_filename), exist_ok=True)
 
                 # Save to CSV
                 df_unpivot.to_csv(output_filename, index=False, header=True)

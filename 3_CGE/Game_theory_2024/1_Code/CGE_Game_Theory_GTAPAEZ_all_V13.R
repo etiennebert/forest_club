@@ -46,7 +46,7 @@ setwd(GTAPAEZ_path)
 
 # Import the data
 data_qo <- read_excel(paste0(external_data_path, "/qo_values.xlsx"))
-data_tmsf <- read_excel(paste0(external_data_path, "/tms_f_initial_shocks.xlsx"))
+#data_tmsf <- read_excel(paste0(external_data_path, "/tms_f_initial_shocks.xlsx"))
 data_qxw <- read_excel(paste0(external_data_path, "/qxw_values.xlsx"))
 
 # Function to process data

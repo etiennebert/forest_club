@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="30">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="726" y="378" />
+        <Position x="560" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -23,7 +23,7 @@ Sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="44">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1135" y="90" />
+        <Position x="969" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -336,7 +336,7 @@ Sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="45">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="1231" y="90" />
+        <Position x="1065" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -356,7 +356,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="47">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-        <Position x="1363" y="90" />
+        <Position x="1197" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -428,7 +428,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="48">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1459" y="90" />
+        <Position x="1293" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -459,7 +459,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="49">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="1567" y="78" />
+        <Position x="1401" y="66" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -479,7 +479,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="50">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="1687" y="138" />
+        <Position x="1521" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -499,7 +499,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="51">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1675" y="66" />
+        <Position x="1509" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -533,7 +533,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="52">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1819" y="102" />
+        <Position x="1653" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -565,7 +565,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="53">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1927" y="102" />
+        <Position x="1761" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -586,7 +586,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="54">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="2131" y="102" />
+        <Position x="1965" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -605,7 +605,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="55">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1399" y="702" />
+        <Position x="1233" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -923,7 +923,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="56">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="1615" y="702" />
+        <Position x="1449" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -943,7 +943,7 @@ Origin_sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="58">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="2011" y="102" />
+        <Position x="1845" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -963,7 +963,7 @@ Sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="59">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1579" y="150" />
+        <Position x="1413" y="138" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -994,7 +994,7 @@ Sector - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="63">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="1747" y="702" />
+        <Position x="1581" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1014,7 +1014,7 @@ Supply Chain loop...</DefaultAnnotationText>
     </Node>
     <Node ToolID="64">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1903" y="702" />
+        <Position x="1737" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1316,7 +1316,7 @@ Supply Chain loop...</DefaultAnnotationText>
     </Node>
     <Node ToolID="65">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="1999" y="702" />
+        <Position x="1833" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1613,7 +1613,7 @@ Supply Chain loop...</DefaultAnnotationText>
     </Node>
     <Node ToolID="66">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="3965" y="666" />
+        <Position x="3799" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1639,7 +1639,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="67">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="3557" y="666" />
+        <Position x="3391" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1657,7 +1657,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="81">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="367" y="390" />
+        <Position x="201" y="378" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1688,7 +1688,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="82">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="546" y="378" />
+        <Position x="380" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1709,7 +1709,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="83">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="463" y="378" />
+        <Position x="297" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1731,7 +1731,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="84">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="630" y="378" />
+        <Position x="464" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1751,7 +1751,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="94">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-        <Position x="2117" y="702" />
+        <Position x="1951" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2053,7 +2053,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="95">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-        <Position x="2225" y="702" />
+        <Position x="2059" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2073,7 +2073,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="96">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="2309" y="702" />
+        <Position x="2143" y="690" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2091,7 +2091,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="97">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="2429" y="690" />
+        <Position x="2263" y="678" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2109,12 +2109,12 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="98">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="2309" y="906" />
+        <Position x="2143" y="894" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\GLORIA_UN_mapping.xlsx|||`Sheet1$`</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">GLORIA_UN_mapping_BRA.xlsx|||`Sheet1$`</File>
           <FormatSpecificOptions>
             <FirstRowData>False</FirstRowData>
             <ImportLine>1</ImportLine>
@@ -2122,14 +2122,17 @@ Query=Sheet1</DefaultAnnotationText>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>GLORIA_UN_mapping.xlsx
+          <DefaultAnnotationText>GLORIA_UN_mapping_BRA.xlsx
 Query=`Sheet1$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="id" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\GLORIA_UN_mapping.xlsx|||`Sheet1$`" type="V_String" />
-            <Field name="unregsub" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\GLORIA_UN_mapping.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="id" size="255" source="File: C:\GitHub\forest_club\2_MRIO\GLORIA\full_database\GLORIA_UN_mapping_BRA.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="unregsub" size="255" source="File: C:\GitHub\forest_club\2_MRIO\GLORIA\full_database\GLORIA_UN_mapping_BRA.xlsx|||`Sheet1$`" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -2137,7 +2140,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="99">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="2573" y="798" />
+        <Position x="2407" y="786" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -2179,7 +2182,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="100">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="2729" y="810" />
+        <Position x="2563" y="798" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -2212,7 +2215,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="101">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="2861" y="714" />
+        <Position x="2695" y="702" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2232,7 +2235,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="102">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="2861" y="810" />
+        <Position x="2695" y="798" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2253,7 +2256,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="103">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="2957" y="810" />
+        <Position x="2791" y="798" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2275,7 +2278,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="104">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="3077" y="810" />
+        <Position x="2911" y="798" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2294,7 +2297,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="105">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="3173" y="810" />
+        <Position x="3007" y="798" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2319,7 +2322,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="106">
       <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-        <Position x="3293" y="810" />
+        <Position x="3127" y="798" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2399,7 +2402,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="107">
       <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-        <Position x="2993" y="714" />
+        <Position x="2827" y="702" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2430,7 +2433,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="108">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="3317" y="666" />
+        <Position x="3151" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -2517,7 +2520,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="110">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="3449" y="666" />
+        <Position x="3283" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2580,6 +2583,8 @@ Area - Ascending</DefaultAnnotationText>
             <SelectField field="Intermediate_Departure_Western_Asia" selected="True" />
             <SelectField field="Intermediate_Departure_Western_Europe" selected="True" />
             <SelectField field="Sum_Staying_locally" selected="True" />
+            <SelectField field="Intermediate_Arrival_Brazil" selected="True" />
+            <SelectField field="Intermediate_Departure_Brazil" selected="True" />
             <SelectField field="*Unknown" selected="True" />
           </SelectFields>
         </Configuration>
@@ -2593,7 +2598,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="111">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-        <Position x="3677" y="666" />
+        <Position x="3511" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2613,7 +2618,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="114">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-        <Position x="3773" y="666" />
+        <Position x="3607" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2633,7 +2638,7 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="115">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="3881" y="666" />
+        <Position x="3715" y="654" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2711,12 +2716,12 @@ Area - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="118">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="2489" y="906" />
+        <Position x="2323" y="894" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\GLORIA_UN_mapping.xlsx|||`Sheet2$`</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">GLORIA_UN_mapping_BRA.xlsx|||`Sheet2$`</File>
           <FormatSpecificOptions>
             <FirstRowData>False</FirstRowData>
             <ImportLine>1</ImportLine>
@@ -2724,14 +2729,17 @@ Area - Ascending</DefaultAnnotationText>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>GLORIA_UN_mapping.xlsx
+          <DefaultAnnotationText>GLORIA_UN_mapping_BRA.xlsx
 Query=`Sheet2$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="id" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\GLORIA_UN_mapping.xlsx|||`Sheet2$`" type="V_String" />
-            <Field name="unregsub" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\2. MRIO\Output\GLORIA_UN_mapping.xlsx|||`Sheet2$`" type="V_String" />
+            <Field name="id" size="255" source="File: C:\GitHub\forest_club\2_MRIO\GLORIA\full_database\GLORIA_UN_mapping_BRA.xlsx|||`Sheet2$`" type="V_String" />
+            <Field name="unregsub" size="255" source="File: C:\GitHub\forest_club\2_MRIO\GLORIA\full_database\GLORIA_UN_mapping_BRA.xlsx|||`Sheet2$`" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -2739,7 +2747,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="119">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="222" y="390" />
+        <Position x="56" y="378" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2763,9 +2771,6 @@ Query=`Sheet2$`</DefaultAnnotationText>
           <DefaultAnnotationText>CBA_2012-2019_EU27_HILDA_V_2_1.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Field_1" size="254" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\output\CBA\CBA_2012-2019_EU27_HILDA_V_2_1.csv" type="V_String" />
@@ -2783,14 +2788,14 @@ Query=`Sheet2$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="77">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="64" y="821" width="1393" height="617" />
+        <Position x="54" y="606" width="150" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Caption>Container 12</Caption>
           <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
           <Disabled value="False" />
-          <Folded value="False" />
+          <Folded value="True" />
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
@@ -2801,7 +2806,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="68">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="870" />
+            <Position x="78" y="654" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2841,7 +2846,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="69">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="941" />
+            <Position x="78" y="726" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2881,7 +2886,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="70">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="1014" />
+            <Position x="78" y="798" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2921,7 +2926,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="71">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="89" y="1086" />
+            <Position x="78" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2961,7 +2966,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="72">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="1134" />
+            <Position x="77" y="918" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3001,7 +3006,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="73">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="1218" />
+            <Position x="78" y="1002" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3041,7 +3046,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="74">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="1278" />
+            <Position x="77" y="1062" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3070,7 +3075,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="75">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="1338" />
+            <Position x="78" y="1122" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3110,7 +3115,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="76">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="246" y="1062" />
+            <Position x="234" y="846" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3129,12 +3134,12 @@ Query=`Sheet2$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="85">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="258" y="1158" />
+            <Position x="246" y="942" />
           </GuiSettings>
           <Properties>
             <Configuration>
               <Passwords />
-              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">D:\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Zone_EU27$`</File>
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">..\indexes\Indexes.xlsx|||`Zone_EU27$`</File>
               <FormatSpecificOptions>
                 <FirstRowData>False</FirstRowData>
                 <ImportLine>1</ImportLine>
@@ -3148,8 +3153,8 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
             </Annotation>
             <MetaInfo connection="Output">
               <RecordInfo>
-                <Field name="Region_Name" size="255" source="File: D:\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Zone_EU27$`" type="V_String" />
-                <Field name="Zone" size="255" source="File: D:\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Zone_EU27$`" type="V_String" />
+                <Field name="Region_Name" size="255" source="File: C:\GitHub\forest_club\2_MRIO\GLORIA\indexes\Indexes.xlsx|||`Zone_EU27$`" type="V_String" />
+                <Field name="Zone" size="255" source="File: C:\GitHub\forest_club\2_MRIO\GLORIA\indexes\Indexes.xlsx|||`Zone_EU27$`" type="V_String" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -3157,7 +3162,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="86">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="354" y="1062" />
+            <Position x="342" y="846" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -3190,7 +3195,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="87">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="450" y="1086" />
+            <Position x="438" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -3225,7 +3230,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="89">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="690" y="1074" />
+            <Position x="678" y="858" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3246,7 +3251,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="88">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="762" y="1074" />
+            <Position x="750" y="858" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3268,7 +3273,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="90">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="846" y="1074" />
+            <Position x="834" y="858" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3289,7 +3294,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="92">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="618" y="1074" />
+            <Position x="606" y="858" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3329,7 +3334,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="93">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="522" y="1026" />
+            <Position x="510" y="810" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3356,7 +3361,7 @@ Query=`Zone_EU27$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="28">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1014" y="1086" />
+            <Position x="1002" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3378,7 +3383,7 @@ Transition_country - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="35">
           <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="1110" y="1086" />
+            <Position x="1098" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3402,6 +3407,144 @@ Transition_country - Ascending</DefaultAnnotationText>
               <RecordInfo>
                 <Field name="Destination_area" size="255" source="CrossTab:Group:Sum:" type="V_String" />
                 <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+                <Field name="AFG" source="CrossTab:Header:Transition_country:AFG:Sum:" type="Double" />
+                <Field name="AGO" source="CrossTab:Header:Transition_country:AGO:Sum:" type="Double" />
+                <Field name="ALB" source="CrossTab:Header:Transition_country:ALB:Sum:" type="Double" />
+                <Field name="ARE" source="CrossTab:Header:Transition_country:ARE:Sum:" type="Double" />
+                <Field name="ARG" source="CrossTab:Header:Transition_country:ARG:Sum:" type="Double" />
+                <Field name="ARM" source="CrossTab:Header:Transition_country:ARM:Sum:" type="Double" />
+                <Field name="AUS" source="CrossTab:Header:Transition_country:AUS:Sum:" type="Double" />
+                <Field name="AZE" source="CrossTab:Header:Transition_country:AZE:Sum:" type="Double" />
+                <Field name="BDI" source="CrossTab:Header:Transition_country:BDI:Sum:" type="Double" />
+                <Field name="BEN" source="CrossTab:Header:Transition_country:BEN:Sum:" type="Double" />
+                <Field name="BFA" source="CrossTab:Header:Transition_country:BFA:Sum:" type="Double" />
+                <Field name="BGD" source="CrossTab:Header:Transition_country:BGD:Sum:" type="Double" />
+                <Field name="BHR" source="CrossTab:Header:Transition_country:BHR:Sum:" type="Double" />
+                <Field name="BHS" source="CrossTab:Header:Transition_country:BHS:Sum:" type="Double" />
+                <Field name="BIH" source="CrossTab:Header:Transition_country:BIH:Sum:" type="Double" />
+                <Field name="BLR" source="CrossTab:Header:Transition_country:BLR:Sum:" type="Double" />
+                <Field name="BLZ" source="CrossTab:Header:Transition_country:BLZ:Sum:" type="Double" />
+                <Field name="BOL" source="CrossTab:Header:Transition_country:BOL:Sum:" type="Double" />
+                <Field name="BRA" source="CrossTab:Header:Transition_country:BRA:Sum:" type="Double" />
+                <Field name="BRN" source="CrossTab:Header:Transition_country:BRN:Sum:" type="Double" />
+                <Field name="BTN" source="CrossTab:Header:Transition_country:BTN:Sum:" type="Double" />
+                <Field name="BWA" source="CrossTab:Header:Transition_country:BWA:Sum:" type="Double" />
+                <Field name="CAF" source="CrossTab:Header:Transition_country:CAF:Sum:" type="Double" />
+                <Field name="CAN" source="CrossTab:Header:Transition_country:CAN:Sum:" type="Double" />
+                <Field name="CHE" source="CrossTab:Header:Transition_country:CHE:Sum:" type="Double" />
+                <Field name="CHL" source="CrossTab:Header:Transition_country:CHL:Sum:" type="Double" />
+                <Field name="CHN" source="CrossTab:Header:Transition_country:CHN:Sum:" type="Double" />
+                <Field name="CIV" source="CrossTab:Header:Transition_country:CIV:Sum:" type="Double" />
+                <Field name="CMR" source="CrossTab:Header:Transition_country:CMR:Sum:" type="Double" />
+                <Field name="COD" source="CrossTab:Header:Transition_country:COD:Sum:" type="Double" />
+                <Field name="COG" source="CrossTab:Header:Transition_country:COG:Sum:" type="Double" />
+                <Field name="COL" source="CrossTab:Header:Transition_country:COL:Sum:" type="Double" />
+                <Field name="CRI" source="CrossTab:Header:Transition_country:CRI:Sum:" type="Double" />
+                <Field name="CUB" source="CrossTab:Header:Transition_country:CUB:Sum:" type="Double" />
+                <Field name="DJI" source="CrossTab:Header:Transition_country:DJI:Sum:" type="Double" />
+                <Field name="DOM" source="CrossTab:Header:Transition_country:DOM:Sum:" type="Double" />
+                <Field name="DYE" source="CrossTab:Header:Transition_country:DYE:Sum:" type="Double" />
+                <Field name="DZA" source="CrossTab:Header:Transition_country:DZA:Sum:" type="Double" />
+                <Field name="ECU" source="CrossTab:Header:Transition_country:ECU:Sum:" type="Double" />
+                <Field name="EGY" source="CrossTab:Header:Transition_country:EGY:Sum:" type="Double" />
+                <Field name="ERI" source="CrossTab:Header:Transition_country:ERI:Sum:" type="Double" />
+                <Field name="ETH" source="CrossTab:Header:Transition_country:ETH:Sum:" type="Double" />
+                <Field name="EU27" source="CrossTab:Header:Transition_country:EU27:Sum:" type="Double" />
+                <Field name="GAB" source="CrossTab:Header:Transition_country:GAB:Sum:" type="Double" />
+                <Field name="GBR" source="CrossTab:Header:Transition_country:GBR:Sum:" type="Double" />
+                <Field name="GEO" source="CrossTab:Header:Transition_country:GEO:Sum:" type="Double" />
+                <Field name="GHA" source="CrossTab:Header:Transition_country:GHA:Sum:" type="Double" />
+                <Field name="GIN" source="CrossTab:Header:Transition_country:GIN:Sum:" type="Double" />
+                <Field name="GMB" source="CrossTab:Header:Transition_country:GMB:Sum:" type="Double" />
+                <Field name="GNQ" source="CrossTab:Header:Transition_country:GNQ:Sum:" type="Double" />
+                <Field name="GTM" source="CrossTab:Header:Transition_country:GTM:Sum:" type="Double" />
+                <Field name="HKG" source="CrossTab:Header:Transition_country:HKG:Sum:" type="Double" />
+                <Field name="HND" source="CrossTab:Header:Transition_country:HND:Sum:" type="Double" />
+                <Field name="HTI" source="CrossTab:Header:Transition_country:HTI:Sum:" type="Double" />
+                <Field name="IDN" source="CrossTab:Header:Transition_country:IDN:Sum:" type="Double" />
+                <Field name="IND" source="CrossTab:Header:Transition_country:IND:Sum:" type="Double" />
+                <Field name="IRN" source="CrossTab:Header:Transition_country:IRN:Sum:" type="Double" />
+                <Field name="IRQ" source="CrossTab:Header:Transition_country:IRQ:Sum:" type="Double" />
+                <Field name="ISL" source="CrossTab:Header:Transition_country:ISL:Sum:" type="Double" />
+                <Field name="ISR" source="CrossTab:Header:Transition_country:ISR:Sum:" type="Double" />
+                <Field name="JAM" source="CrossTab:Header:Transition_country:JAM:Sum:" type="Double" />
+                <Field name="JOR" source="CrossTab:Header:Transition_country:JOR:Sum:" type="Double" />
+                <Field name="JPN" source="CrossTab:Header:Transition_country:JPN:Sum:" type="Double" />
+                <Field name="KAZ" source="CrossTab:Header:Transition_country:KAZ:Sum:" type="Double" />
+                <Field name="KEN" source="CrossTab:Header:Transition_country:KEN:Sum:" type="Double" />
+                <Field name="KGZ" source="CrossTab:Header:Transition_country:KGZ:Sum:" type="Double" />
+                <Field name="KHM" source="CrossTab:Header:Transition_country:KHM:Sum:" type="Double" />
+                <Field name="KOR" source="CrossTab:Header:Transition_country:KOR:Sum:" type="Double" />
+                <Field name="KWT" source="CrossTab:Header:Transition_country:KWT:Sum:" type="Double" />
+                <Field name="LAO" source="CrossTab:Header:Transition_country:LAO:Sum:" type="Double" />
+                <Field name="LBN" source="CrossTab:Header:Transition_country:LBN:Sum:" type="Double" />
+                <Field name="LBR" source="CrossTab:Header:Transition_country:LBR:Sum:" type="Double" />
+                <Field name="LBY" source="CrossTab:Header:Transition_country:LBY:Sum:" type="Double" />
+                <Field name="LKA" source="CrossTab:Header:Transition_country:LKA:Sum:" type="Double" />
+                <Field name="MAR" source="CrossTab:Header:Transition_country:MAR:Sum:" type="Double" />
+                <Field name="MDA" source="CrossTab:Header:Transition_country:MDA:Sum:" type="Double" />
+                <Field name="MDG" source="CrossTab:Header:Transition_country:MDG:Sum:" type="Double" />
+                <Field name="MEX" source="CrossTab:Header:Transition_country:MEX:Sum:" type="Double" />
+                <Field name="MKD" source="CrossTab:Header:Transition_country:MKD:Sum:" type="Double" />
+                <Field name="MLI" source="CrossTab:Header:Transition_country:MLI:Sum:" type="Double" />
+                <Field name="MMR" source="CrossTab:Header:Transition_country:MMR:Sum:" type="Double" />
+                <Field name="MNG" source="CrossTab:Header:Transition_country:MNG:Sum:" type="Double" />
+                <Field name="MOZ" source="CrossTab:Header:Transition_country:MOZ:Sum:" type="Double" />
+                <Field name="MRT" source="CrossTab:Header:Transition_country:MRT:Sum:" type="Double" />
+                <Field name="MWI" source="CrossTab:Header:Transition_country:MWI:Sum:" type="Double" />
+                <Field name="MYS" source="CrossTab:Header:Transition_country:MYS:Sum:" type="Double" />
+                <Field name="NAM" source="CrossTab:Header:Transition_country:NAM:Sum:" type="Double" />
+                <Field name="NER" source="CrossTab:Header:Transition_country:NER:Sum:" type="Double" />
+                <Field name="NGA" source="CrossTab:Header:Transition_country:NGA:Sum:" type="Double" />
+                <Field name="NIC" source="CrossTab:Header:Transition_country:NIC:Sum:" type="Double" />
+                <Field name="NOR" source="CrossTab:Header:Transition_country:NOR:Sum:" type="Double" />
+                <Field name="NPL" source="CrossTab:Header:Transition_country:NPL:Sum:" type="Double" />
+                <Field name="NZL" source="CrossTab:Header:Transition_country:NZL:Sum:" type="Double" />
+                <Field name="OMN" source="CrossTab:Header:Transition_country:OMN:Sum:" type="Double" />
+                <Field name="PAK" source="CrossTab:Header:Transition_country:PAK:Sum:" type="Double" />
+                <Field name="PAN" source="CrossTab:Header:Transition_country:PAN:Sum:" type="Double" />
+                <Field name="PER" source="CrossTab:Header:Transition_country:PER:Sum:" type="Double" />
+                <Field name="PHL" source="CrossTab:Header:Transition_country:PHL:Sum:" type="Double" />
+                <Field name="PNG" source="CrossTab:Header:Transition_country:PNG:Sum:" type="Double" />
+                <Field name="PRK" source="CrossTab:Header:Transition_country:PRK:Sum:" type="Double" />
+                <Field name="PRY" source="CrossTab:Header:Transition_country:PRY:Sum:" type="Double" />
+                <Field name="PSE" source="CrossTab:Header:Transition_country:PSE:Sum:" type="Double" />
+                <Field name="QAT" source="CrossTab:Header:Transition_country:QAT:Sum:" type="Double" />
+                <Field name="RUS" source="CrossTab:Header:Transition_country:RUS:Sum:" type="Double" />
+                <Field name="RWA" source="CrossTab:Header:Transition_country:RWA:Sum:" type="Double" />
+                <Field name="SAU" source="CrossTab:Header:Transition_country:SAU:Sum:" type="Double" />
+                <Field name="SDN" source="CrossTab:Header:Transition_country:SDN:Sum:" type="Double" />
+                <Field name="SDS" source="CrossTab:Header:Transition_country:SDS:Sum:" type="Double" />
+                <Field name="SEN" source="CrossTab:Header:Transition_country:SEN:Sum:" type="Double" />
+                <Field name="SGP" source="CrossTab:Header:Transition_country:SGP:Sum:" type="Double" />
+                <Field name="SLE" source="CrossTab:Header:Transition_country:SLE:Sum:" type="Double" />
+                <Field name="SLV" source="CrossTab:Header:Transition_country:SLV:Sum:" type="Double" />
+                <Field name="SOM" source="CrossTab:Header:Transition_country:SOM:Sum:" type="Double" />
+                <Field name="SRB" source="CrossTab:Header:Transition_country:SRB:Sum:" type="Double" />
+                <Field name="SYR" source="CrossTab:Header:Transition_country:SYR:Sum:" type="Double" />
+                <Field name="TCD" source="CrossTab:Header:Transition_country:TCD:Sum:" type="Double" />
+                <Field name="TGO" source="CrossTab:Header:Transition_country:TGO:Sum:" type="Double" />
+                <Field name="THA" source="CrossTab:Header:Transition_country:THA:Sum:" type="Double" />
+                <Field name="TJK" source="CrossTab:Header:Transition_country:TJK:Sum:" type="Double" />
+                <Field name="TKM" source="CrossTab:Header:Transition_country:TKM:Sum:" type="Double" />
+                <Field name="TUN" source="CrossTab:Header:Transition_country:TUN:Sum:" type="Double" />
+                <Field name="TUR" source="CrossTab:Header:Transition_country:TUR:Sum:" type="Double" />
+                <Field name="TZA" source="CrossTab:Header:Transition_country:TZA:Sum:" type="Double" />
+                <Field name="UGA" source="CrossTab:Header:Transition_country:UGA:Sum:" type="Double" />
+                <Field name="UKR" source="CrossTab:Header:Transition_country:UKR:Sum:" type="Double" />
+                <Field name="URY" source="CrossTab:Header:Transition_country:URY:Sum:" type="Double" />
+                <Field name="USA" source="CrossTab:Header:Transition_country:USA:Sum:" type="Double" />
+                <Field name="UZB" source="CrossTab:Header:Transition_country:UZB:Sum:" type="Double" />
+                <Field name="VEN" source="CrossTab:Header:Transition_country:VEN:Sum:" type="Double" />
+                <Field name="VNM" source="CrossTab:Header:Transition_country:VNM:Sum:" type="Double" />
+                <Field name="XAF" source="CrossTab:Header:Transition_country:XAF:Sum:" type="Double" />
+                <Field name="XAM" source="CrossTab:Header:Transition_country:XAM:Sum:" type="Double" />
+                <Field name="XAS" source="CrossTab:Header:Transition_country:XAS:Sum:" type="Double" />
+                <Field name="XEU" source="CrossTab:Header:Transition_country:XEU:Sum:" type="Double" />
+                <Field name="YEM" source="CrossTab:Header:Transition_country:YEM:Sum:" type="Double" />
+                <Field name="ZAF" source="CrossTab:Header:Transition_country:ZAF:Sum:" type="Double" />
+                <Field name="ZMB" source="CrossTab:Header:Transition_country:ZMB:Sum:" type="Double" />
+                <Field name="ZWE" source="CrossTab:Header:Transition_country:ZWE:Sum:" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -3409,7 +3552,7 @@ Transition_country - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="37">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="942" y="990" />
+            <Position x="930" y="774" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3431,7 +3574,7 @@ Destination_area - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="38">
           <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="1014" y="990" />
+            <Position x="1002" y="774" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3455,6 +3598,144 @@ Destination_area - Ascending</DefaultAnnotationText>
               <RecordInfo>
                 <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
                 <Field name="Transition_country" size="255" source="CrossTab:Group:Sum:" type="V_String" />
+                <Field name="AFG" source="CrossTab:Header:Destination_area:AFG:Sum:" type="Double" />
+                <Field name="AGO" source="CrossTab:Header:Destination_area:AGO:Sum:" type="Double" />
+                <Field name="ALB" source="CrossTab:Header:Destination_area:ALB:Sum:" type="Double" />
+                <Field name="ARE" source="CrossTab:Header:Destination_area:ARE:Sum:" type="Double" />
+                <Field name="ARG" source="CrossTab:Header:Destination_area:ARG:Sum:" type="Double" />
+                <Field name="ARM" source="CrossTab:Header:Destination_area:ARM:Sum:" type="Double" />
+                <Field name="AUS" source="CrossTab:Header:Destination_area:AUS:Sum:" type="Double" />
+                <Field name="AZE" source="CrossTab:Header:Destination_area:AZE:Sum:" type="Double" />
+                <Field name="BDI" source="CrossTab:Header:Destination_area:BDI:Sum:" type="Double" />
+                <Field name="BEN" source="CrossTab:Header:Destination_area:BEN:Sum:" type="Double" />
+                <Field name="BFA" source="CrossTab:Header:Destination_area:BFA:Sum:" type="Double" />
+                <Field name="BGD" source="CrossTab:Header:Destination_area:BGD:Sum:" type="Double" />
+                <Field name="BHR" source="CrossTab:Header:Destination_area:BHR:Sum:" type="Double" />
+                <Field name="BHS" source="CrossTab:Header:Destination_area:BHS:Sum:" type="Double" />
+                <Field name="BIH" source="CrossTab:Header:Destination_area:BIH:Sum:" type="Double" />
+                <Field name="BLR" source="CrossTab:Header:Destination_area:BLR:Sum:" type="Double" />
+                <Field name="BLZ" source="CrossTab:Header:Destination_area:BLZ:Sum:" type="Double" />
+                <Field name="BOL" source="CrossTab:Header:Destination_area:BOL:Sum:" type="Double" />
+                <Field name="BRA" source="CrossTab:Header:Destination_area:BRA:Sum:" type="Double" />
+                <Field name="BRN" source="CrossTab:Header:Destination_area:BRN:Sum:" type="Double" />
+                <Field name="BTN" source="CrossTab:Header:Destination_area:BTN:Sum:" type="Double" />
+                <Field name="BWA" source="CrossTab:Header:Destination_area:BWA:Sum:" type="Double" />
+                <Field name="CAF" source="CrossTab:Header:Destination_area:CAF:Sum:" type="Double" />
+                <Field name="CAN" source="CrossTab:Header:Destination_area:CAN:Sum:" type="Double" />
+                <Field name="CHE" source="CrossTab:Header:Destination_area:CHE:Sum:" type="Double" />
+                <Field name="CHL" source="CrossTab:Header:Destination_area:CHL:Sum:" type="Double" />
+                <Field name="CHN" source="CrossTab:Header:Destination_area:CHN:Sum:" type="Double" />
+                <Field name="CIV" source="CrossTab:Header:Destination_area:CIV:Sum:" type="Double" />
+                <Field name="CMR" source="CrossTab:Header:Destination_area:CMR:Sum:" type="Double" />
+                <Field name="COD" source="CrossTab:Header:Destination_area:COD:Sum:" type="Double" />
+                <Field name="COG" source="CrossTab:Header:Destination_area:COG:Sum:" type="Double" />
+                <Field name="COL" source="CrossTab:Header:Destination_area:COL:Sum:" type="Double" />
+                <Field name="CRI" source="CrossTab:Header:Destination_area:CRI:Sum:" type="Double" />
+                <Field name="CUB" source="CrossTab:Header:Destination_area:CUB:Sum:" type="Double" />
+                <Field name="DJI" source="CrossTab:Header:Destination_area:DJI:Sum:" type="Double" />
+                <Field name="DOM" source="CrossTab:Header:Destination_area:DOM:Sum:" type="Double" />
+                <Field name="DYE" source="CrossTab:Header:Destination_area:DYE:Sum:" type="Double" />
+                <Field name="DZA" source="CrossTab:Header:Destination_area:DZA:Sum:" type="Double" />
+                <Field name="ECU" source="CrossTab:Header:Destination_area:ECU:Sum:" type="Double" />
+                <Field name="EGY" source="CrossTab:Header:Destination_area:EGY:Sum:" type="Double" />
+                <Field name="ERI" source="CrossTab:Header:Destination_area:ERI:Sum:" type="Double" />
+                <Field name="ETH" source="CrossTab:Header:Destination_area:ETH:Sum:" type="Double" />
+                <Field name="EU27" source="CrossTab:Header:Destination_area:EU27:Sum:" type="Double" />
+                <Field name="GAB" source="CrossTab:Header:Destination_area:GAB:Sum:" type="Double" />
+                <Field name="GBR" source="CrossTab:Header:Destination_area:GBR:Sum:" type="Double" />
+                <Field name="GEO" source="CrossTab:Header:Destination_area:GEO:Sum:" type="Double" />
+                <Field name="GHA" source="CrossTab:Header:Destination_area:GHA:Sum:" type="Double" />
+                <Field name="GIN" source="CrossTab:Header:Destination_area:GIN:Sum:" type="Double" />
+                <Field name="GMB" source="CrossTab:Header:Destination_area:GMB:Sum:" type="Double" />
+                <Field name="GNQ" source="CrossTab:Header:Destination_area:GNQ:Sum:" type="Double" />
+                <Field name="GTM" source="CrossTab:Header:Destination_area:GTM:Sum:" type="Double" />
+                <Field name="HKG" source="CrossTab:Header:Destination_area:HKG:Sum:" type="Double" />
+                <Field name="HND" source="CrossTab:Header:Destination_area:HND:Sum:" type="Double" />
+                <Field name="HTI" source="CrossTab:Header:Destination_area:HTI:Sum:" type="Double" />
+                <Field name="IDN" source="CrossTab:Header:Destination_area:IDN:Sum:" type="Double" />
+                <Field name="IND" source="CrossTab:Header:Destination_area:IND:Sum:" type="Double" />
+                <Field name="IRN" source="CrossTab:Header:Destination_area:IRN:Sum:" type="Double" />
+                <Field name="IRQ" source="CrossTab:Header:Destination_area:IRQ:Sum:" type="Double" />
+                <Field name="ISL" source="CrossTab:Header:Destination_area:ISL:Sum:" type="Double" />
+                <Field name="ISR" source="CrossTab:Header:Destination_area:ISR:Sum:" type="Double" />
+                <Field name="JAM" source="CrossTab:Header:Destination_area:JAM:Sum:" type="Double" />
+                <Field name="JOR" source="CrossTab:Header:Destination_area:JOR:Sum:" type="Double" />
+                <Field name="JPN" source="CrossTab:Header:Destination_area:JPN:Sum:" type="Double" />
+                <Field name="KAZ" source="CrossTab:Header:Destination_area:KAZ:Sum:" type="Double" />
+                <Field name="KEN" source="CrossTab:Header:Destination_area:KEN:Sum:" type="Double" />
+                <Field name="KGZ" source="CrossTab:Header:Destination_area:KGZ:Sum:" type="Double" />
+                <Field name="KHM" source="CrossTab:Header:Destination_area:KHM:Sum:" type="Double" />
+                <Field name="KOR" source="CrossTab:Header:Destination_area:KOR:Sum:" type="Double" />
+                <Field name="KWT" source="CrossTab:Header:Destination_area:KWT:Sum:" type="Double" />
+                <Field name="LAO" source="CrossTab:Header:Destination_area:LAO:Sum:" type="Double" />
+                <Field name="LBN" source="CrossTab:Header:Destination_area:LBN:Sum:" type="Double" />
+                <Field name="LBR" source="CrossTab:Header:Destination_area:LBR:Sum:" type="Double" />
+                <Field name="LBY" source="CrossTab:Header:Destination_area:LBY:Sum:" type="Double" />
+                <Field name="LKA" source="CrossTab:Header:Destination_area:LKA:Sum:" type="Double" />
+                <Field name="MAR" source="CrossTab:Header:Destination_area:MAR:Sum:" type="Double" />
+                <Field name="MDA" source="CrossTab:Header:Destination_area:MDA:Sum:" type="Double" />
+                <Field name="MDG" source="CrossTab:Header:Destination_area:MDG:Sum:" type="Double" />
+                <Field name="MEX" source="CrossTab:Header:Destination_area:MEX:Sum:" type="Double" />
+                <Field name="MKD" source="CrossTab:Header:Destination_area:MKD:Sum:" type="Double" />
+                <Field name="MLI" source="CrossTab:Header:Destination_area:MLI:Sum:" type="Double" />
+                <Field name="MMR" source="CrossTab:Header:Destination_area:MMR:Sum:" type="Double" />
+                <Field name="MNG" source="CrossTab:Header:Destination_area:MNG:Sum:" type="Double" />
+                <Field name="MOZ" source="CrossTab:Header:Destination_area:MOZ:Sum:" type="Double" />
+                <Field name="MRT" source="CrossTab:Header:Destination_area:MRT:Sum:" type="Double" />
+                <Field name="MWI" source="CrossTab:Header:Destination_area:MWI:Sum:" type="Double" />
+                <Field name="MYS" source="CrossTab:Header:Destination_area:MYS:Sum:" type="Double" />
+                <Field name="NAM" source="CrossTab:Header:Destination_area:NAM:Sum:" type="Double" />
+                <Field name="NER" source="CrossTab:Header:Destination_area:NER:Sum:" type="Double" />
+                <Field name="NGA" source="CrossTab:Header:Destination_area:NGA:Sum:" type="Double" />
+                <Field name="NIC" source="CrossTab:Header:Destination_area:NIC:Sum:" type="Double" />
+                <Field name="NOR" source="CrossTab:Header:Destination_area:NOR:Sum:" type="Double" />
+                <Field name="NPL" source="CrossTab:Header:Destination_area:NPL:Sum:" type="Double" />
+                <Field name="NZL" source="CrossTab:Header:Destination_area:NZL:Sum:" type="Double" />
+                <Field name="OMN" source="CrossTab:Header:Destination_area:OMN:Sum:" type="Double" />
+                <Field name="PAK" source="CrossTab:Header:Destination_area:PAK:Sum:" type="Double" />
+                <Field name="PAN" source="CrossTab:Header:Destination_area:PAN:Sum:" type="Double" />
+                <Field name="PER" source="CrossTab:Header:Destination_area:PER:Sum:" type="Double" />
+                <Field name="PHL" source="CrossTab:Header:Destination_area:PHL:Sum:" type="Double" />
+                <Field name="PNG" source="CrossTab:Header:Destination_area:PNG:Sum:" type="Double" />
+                <Field name="PRK" source="CrossTab:Header:Destination_area:PRK:Sum:" type="Double" />
+                <Field name="PRY" source="CrossTab:Header:Destination_area:PRY:Sum:" type="Double" />
+                <Field name="PSE" source="CrossTab:Header:Destination_area:PSE:Sum:" type="Double" />
+                <Field name="QAT" source="CrossTab:Header:Destination_area:QAT:Sum:" type="Double" />
+                <Field name="RUS" source="CrossTab:Header:Destination_area:RUS:Sum:" type="Double" />
+                <Field name="RWA" source="CrossTab:Header:Destination_area:RWA:Sum:" type="Double" />
+                <Field name="SAU" source="CrossTab:Header:Destination_area:SAU:Sum:" type="Double" />
+                <Field name="SDN" source="CrossTab:Header:Destination_area:SDN:Sum:" type="Double" />
+                <Field name="SDS" source="CrossTab:Header:Destination_area:SDS:Sum:" type="Double" />
+                <Field name="SEN" source="CrossTab:Header:Destination_area:SEN:Sum:" type="Double" />
+                <Field name="SGP" source="CrossTab:Header:Destination_area:SGP:Sum:" type="Double" />
+                <Field name="SLE" source="CrossTab:Header:Destination_area:SLE:Sum:" type="Double" />
+                <Field name="SLV" source="CrossTab:Header:Destination_area:SLV:Sum:" type="Double" />
+                <Field name="SOM" source="CrossTab:Header:Destination_area:SOM:Sum:" type="Double" />
+                <Field name="SRB" source="CrossTab:Header:Destination_area:SRB:Sum:" type="Double" />
+                <Field name="SYR" source="CrossTab:Header:Destination_area:SYR:Sum:" type="Double" />
+                <Field name="TCD" source="CrossTab:Header:Destination_area:TCD:Sum:" type="Double" />
+                <Field name="TGO" source="CrossTab:Header:Destination_area:TGO:Sum:" type="Double" />
+                <Field name="THA" source="CrossTab:Header:Destination_area:THA:Sum:" type="Double" />
+                <Field name="TJK" source="CrossTab:Header:Destination_area:TJK:Sum:" type="Double" />
+                <Field name="TKM" source="CrossTab:Header:Destination_area:TKM:Sum:" type="Double" />
+                <Field name="TUN" source="CrossTab:Header:Destination_area:TUN:Sum:" type="Double" />
+                <Field name="TUR" source="CrossTab:Header:Destination_area:TUR:Sum:" type="Double" />
+                <Field name="TZA" source="CrossTab:Header:Destination_area:TZA:Sum:" type="Double" />
+                <Field name="UGA" source="CrossTab:Header:Destination_area:UGA:Sum:" type="Double" />
+                <Field name="UKR" source="CrossTab:Header:Destination_area:UKR:Sum:" type="Double" />
+                <Field name="URY" source="CrossTab:Header:Destination_area:URY:Sum:" type="Double" />
+                <Field name="USA" source="CrossTab:Header:Destination_area:USA:Sum:" type="Double" />
+                <Field name="UZB" source="CrossTab:Header:Destination_area:UZB:Sum:" type="Double" />
+                <Field name="VEN" source="CrossTab:Header:Destination_area:VEN:Sum:" type="Double" />
+                <Field name="VNM" source="CrossTab:Header:Destination_area:VNM:Sum:" type="Double" />
+                <Field name="XAF" source="CrossTab:Header:Destination_area:XAF:Sum:" type="Double" />
+                <Field name="XAM" source="CrossTab:Header:Destination_area:XAM:Sum:" type="Double" />
+                <Field name="XAS" source="CrossTab:Header:Destination_area:XAS:Sum:" type="Double" />
+                <Field name="XEU" source="CrossTab:Header:Destination_area:XEU:Sum:" type="Double" />
+                <Field name="YEM" source="CrossTab:Header:Destination_area:YEM:Sum:" type="Double" />
+                <Field name="ZAF" source="CrossTab:Header:Destination_area:ZAF:Sum:" type="Double" />
+                <Field name="ZMB" source="CrossTab:Header:Destination_area:ZMB:Sum:" type="Double" />
+                <Field name="ZWE" source="CrossTab:Header:Destination_area:ZWE:Sum:" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -3462,7 +3743,7 @@ Destination_area - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="36">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1194" y="1086" />
+            <Position x="1182" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3482,7 +3763,7 @@ Origin_Sector - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="41">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
-            <Position x="1290" y="1098" />
+            <Position x="1278" y="882" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3507,6 +3788,144 @@ Origin_Sector - Ascending</DefaultAnnotationText>
               <RecordInfo>
                 <Field name="Destination_area" size="255" source="CrossTab:Group:Sum:" type="V_String" />
                 <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
+                <Field name="Intermediate_arrival_from_AFG" source="CrossTab:Header:Transition_country:AFG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_AGO" source="CrossTab:Header:Transition_country:AGO:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ALB" source="CrossTab:Header:Transition_country:ALB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ARE" source="CrossTab:Header:Transition_country:ARE:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ARG" source="CrossTab:Header:Transition_country:ARG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ARM" source="CrossTab:Header:Transition_country:ARM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_AUS" source="CrossTab:Header:Transition_country:AUS:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_AZE" source="CrossTab:Header:Transition_country:AZE:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BDI" source="CrossTab:Header:Transition_country:BDI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BEN" source="CrossTab:Header:Transition_country:BEN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BFA" source="CrossTab:Header:Transition_country:BFA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BGD" source="CrossTab:Header:Transition_country:BGD:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BHR" source="CrossTab:Header:Transition_country:BHR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BHS" source="CrossTab:Header:Transition_country:BHS:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BIH" source="CrossTab:Header:Transition_country:BIH:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BLR" source="CrossTab:Header:Transition_country:BLR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BLZ" source="CrossTab:Header:Transition_country:BLZ:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BOL" source="CrossTab:Header:Transition_country:BOL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BRA" source="CrossTab:Header:Transition_country:BRA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BRN" source="CrossTab:Header:Transition_country:BRN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BTN" source="CrossTab:Header:Transition_country:BTN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_BWA" source="CrossTab:Header:Transition_country:BWA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CAF" source="CrossTab:Header:Transition_country:CAF:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CAN" source="CrossTab:Header:Transition_country:CAN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CHE" source="CrossTab:Header:Transition_country:CHE:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CHL" source="CrossTab:Header:Transition_country:CHL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CHN" source="CrossTab:Header:Transition_country:CHN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CIV" source="CrossTab:Header:Transition_country:CIV:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CMR" source="CrossTab:Header:Transition_country:CMR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_COD" source="CrossTab:Header:Transition_country:COD:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_COG" source="CrossTab:Header:Transition_country:COG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_COL" source="CrossTab:Header:Transition_country:COL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CRI" source="CrossTab:Header:Transition_country:CRI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_CUB" source="CrossTab:Header:Transition_country:CUB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_DJI" source="CrossTab:Header:Transition_country:DJI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_DOM" source="CrossTab:Header:Transition_country:DOM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_DYE" source="CrossTab:Header:Transition_country:DYE:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_DZA" source="CrossTab:Header:Transition_country:DZA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ECU" source="CrossTab:Header:Transition_country:ECU:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_EGY" source="CrossTab:Header:Transition_country:EGY:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ERI" source="CrossTab:Header:Transition_country:ERI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ETH" source="CrossTab:Header:Transition_country:ETH:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_EU27" source="CrossTab:Header:Transition_country:EU27:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GAB" source="CrossTab:Header:Transition_country:GAB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GBR" source="CrossTab:Header:Transition_country:GBR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GEO" source="CrossTab:Header:Transition_country:GEO:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GHA" source="CrossTab:Header:Transition_country:GHA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GIN" source="CrossTab:Header:Transition_country:GIN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GMB" source="CrossTab:Header:Transition_country:GMB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GNQ" source="CrossTab:Header:Transition_country:GNQ:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_GTM" source="CrossTab:Header:Transition_country:GTM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_HKG" source="CrossTab:Header:Transition_country:HKG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_HND" source="CrossTab:Header:Transition_country:HND:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_HTI" source="CrossTab:Header:Transition_country:HTI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_IDN" source="CrossTab:Header:Transition_country:IDN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_IND" source="CrossTab:Header:Transition_country:IND:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_IRN" source="CrossTab:Header:Transition_country:IRN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_IRQ" source="CrossTab:Header:Transition_country:IRQ:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ISL" source="CrossTab:Header:Transition_country:ISL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ISR" source="CrossTab:Header:Transition_country:ISR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_JAM" source="CrossTab:Header:Transition_country:JAM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_JOR" source="CrossTab:Header:Transition_country:JOR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_JPN" source="CrossTab:Header:Transition_country:JPN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_KAZ" source="CrossTab:Header:Transition_country:KAZ:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_KEN" source="CrossTab:Header:Transition_country:KEN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_KGZ" source="CrossTab:Header:Transition_country:KGZ:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_KHM" source="CrossTab:Header:Transition_country:KHM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_KOR" source="CrossTab:Header:Transition_country:KOR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_KWT" source="CrossTab:Header:Transition_country:KWT:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_LAO" source="CrossTab:Header:Transition_country:LAO:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_LBN" source="CrossTab:Header:Transition_country:LBN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_LBR" source="CrossTab:Header:Transition_country:LBR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_LBY" source="CrossTab:Header:Transition_country:LBY:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_LKA" source="CrossTab:Header:Transition_country:LKA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MAR" source="CrossTab:Header:Transition_country:MAR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MDA" source="CrossTab:Header:Transition_country:MDA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MDG" source="CrossTab:Header:Transition_country:MDG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MEX" source="CrossTab:Header:Transition_country:MEX:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MKD" source="CrossTab:Header:Transition_country:MKD:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MLI" source="CrossTab:Header:Transition_country:MLI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MMR" source="CrossTab:Header:Transition_country:MMR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MNG" source="CrossTab:Header:Transition_country:MNG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MOZ" source="CrossTab:Header:Transition_country:MOZ:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MRT" source="CrossTab:Header:Transition_country:MRT:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MWI" source="CrossTab:Header:Transition_country:MWI:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_MYS" source="CrossTab:Header:Transition_country:MYS:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NAM" source="CrossTab:Header:Transition_country:NAM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NER" source="CrossTab:Header:Transition_country:NER:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NGA" source="CrossTab:Header:Transition_country:NGA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NIC" source="CrossTab:Header:Transition_country:NIC:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NOR" source="CrossTab:Header:Transition_country:NOR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NPL" source="CrossTab:Header:Transition_country:NPL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_NZL" source="CrossTab:Header:Transition_country:NZL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_OMN" source="CrossTab:Header:Transition_country:OMN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PAK" source="CrossTab:Header:Transition_country:PAK:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PAN" source="CrossTab:Header:Transition_country:PAN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PER" source="CrossTab:Header:Transition_country:PER:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PHL" source="CrossTab:Header:Transition_country:PHL:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PNG" source="CrossTab:Header:Transition_country:PNG:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PRK" source="CrossTab:Header:Transition_country:PRK:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PRY" source="CrossTab:Header:Transition_country:PRY:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_PSE" source="CrossTab:Header:Transition_country:PSE:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_QAT" source="CrossTab:Header:Transition_country:QAT:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_RUS" source="CrossTab:Header:Transition_country:RUS:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_RWA" source="CrossTab:Header:Transition_country:RWA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SAU" source="CrossTab:Header:Transition_country:SAU:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SDN" source="CrossTab:Header:Transition_country:SDN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SDS" source="CrossTab:Header:Transition_country:SDS:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SEN" source="CrossTab:Header:Transition_country:SEN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SGP" source="CrossTab:Header:Transition_country:SGP:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SLE" source="CrossTab:Header:Transition_country:SLE:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SLV" source="CrossTab:Header:Transition_country:SLV:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SOM" source="CrossTab:Header:Transition_country:SOM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SRB" source="CrossTab:Header:Transition_country:SRB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_SYR" source="CrossTab:Header:Transition_country:SYR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TCD" source="CrossTab:Header:Transition_country:TCD:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TGO" source="CrossTab:Header:Transition_country:TGO:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_THA" source="CrossTab:Header:Transition_country:THA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TJK" source="CrossTab:Header:Transition_country:TJK:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TKM" source="CrossTab:Header:Transition_country:TKM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TUN" source="CrossTab:Header:Transition_country:TUN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TUR" source="CrossTab:Header:Transition_country:TUR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_TZA" source="CrossTab:Header:Transition_country:TZA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_UGA" source="CrossTab:Header:Transition_country:UGA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_UKR" source="CrossTab:Header:Transition_country:UKR:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_URY" source="CrossTab:Header:Transition_country:URY:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_USA" source="CrossTab:Header:Transition_country:USA:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_UZB" source="CrossTab:Header:Transition_country:UZB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_VEN" source="CrossTab:Header:Transition_country:VEN:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_VNM" source="CrossTab:Header:Transition_country:VNM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_XAF" source="CrossTab:Header:Transition_country:XAF:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_XAM" source="CrossTab:Header:Transition_country:XAM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_XAS" source="CrossTab:Header:Transition_country:XAS:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_XEU" source="CrossTab:Header:Transition_country:XEU:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_YEM" source="CrossTab:Header:Transition_country:YEM:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ZAF" source="CrossTab:Header:Transition_country:ZAF:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ZMB" source="CrossTab:Header:Transition_country:ZMB:Sum:" type="Double" />
+                <Field name="Intermediate_arrival_from_ZWE" source="CrossTab:Header:Transition_country:ZWE:Sum:" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -3514,7 +3933,7 @@ Origin_Sector - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="43">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1374" y="1014" />
+            <Position x="1362" y="798" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -3826,7 +4245,7 @@ Origin_Sector - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="39">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1086" y="978" />
+            <Position x="1074" y="762" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3846,7 +4265,7 @@ Origin_Sector - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="42">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
-            <Position x="1230" y="990" />
+            <Position x="1218" y="774" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3871,6 +4290,144 @@ Origin_Sector - Ascending</DefaultAnnotationText>
               <RecordInfo>
                 <Field name="Origin_Sector" size="254" source="CrossTab:Group:Sum:" type="V_String" />
                 <Field name="Transition_country" size="255" source="CrossTab:Group:Sum:" type="V_String" />
+                <Field name="Intermediate_departure_to_AFG" source="CrossTab:Header:Destination_area:AFG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_AGO" source="CrossTab:Header:Destination_area:AGO:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ALB" source="CrossTab:Header:Destination_area:ALB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ARE" source="CrossTab:Header:Destination_area:ARE:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ARG" source="CrossTab:Header:Destination_area:ARG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ARM" source="CrossTab:Header:Destination_area:ARM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_AUS" source="CrossTab:Header:Destination_area:AUS:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_AZE" source="CrossTab:Header:Destination_area:AZE:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BDI" source="CrossTab:Header:Destination_area:BDI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BEN" source="CrossTab:Header:Destination_area:BEN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BFA" source="CrossTab:Header:Destination_area:BFA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BGD" source="CrossTab:Header:Destination_area:BGD:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BHR" source="CrossTab:Header:Destination_area:BHR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BHS" source="CrossTab:Header:Destination_area:BHS:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BIH" source="CrossTab:Header:Destination_area:BIH:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BLR" source="CrossTab:Header:Destination_area:BLR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BLZ" source="CrossTab:Header:Destination_area:BLZ:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BOL" source="CrossTab:Header:Destination_area:BOL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BRA" source="CrossTab:Header:Destination_area:BRA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BRN" source="CrossTab:Header:Destination_area:BRN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BTN" source="CrossTab:Header:Destination_area:BTN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_BWA" source="CrossTab:Header:Destination_area:BWA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CAF" source="CrossTab:Header:Destination_area:CAF:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CAN" source="CrossTab:Header:Destination_area:CAN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CHE" source="CrossTab:Header:Destination_area:CHE:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CHL" source="CrossTab:Header:Destination_area:CHL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CHN" source="CrossTab:Header:Destination_area:CHN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CIV" source="CrossTab:Header:Destination_area:CIV:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CMR" source="CrossTab:Header:Destination_area:CMR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_COD" source="CrossTab:Header:Destination_area:COD:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_COG" source="CrossTab:Header:Destination_area:COG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_COL" source="CrossTab:Header:Destination_area:COL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CRI" source="CrossTab:Header:Destination_area:CRI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_CUB" source="CrossTab:Header:Destination_area:CUB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_DJI" source="CrossTab:Header:Destination_area:DJI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_DOM" source="CrossTab:Header:Destination_area:DOM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_DYE" source="CrossTab:Header:Destination_area:DYE:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_DZA" source="CrossTab:Header:Destination_area:DZA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ECU" source="CrossTab:Header:Destination_area:ECU:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_EGY" source="CrossTab:Header:Destination_area:EGY:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ERI" source="CrossTab:Header:Destination_area:ERI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ETH" source="CrossTab:Header:Destination_area:ETH:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_EU27" source="CrossTab:Header:Destination_area:EU27:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GAB" source="CrossTab:Header:Destination_area:GAB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GBR" source="CrossTab:Header:Destination_area:GBR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GEO" source="CrossTab:Header:Destination_area:GEO:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GHA" source="CrossTab:Header:Destination_area:GHA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GIN" source="CrossTab:Header:Destination_area:GIN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GMB" source="CrossTab:Header:Destination_area:GMB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GNQ" source="CrossTab:Header:Destination_area:GNQ:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_GTM" source="CrossTab:Header:Destination_area:GTM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_HKG" source="CrossTab:Header:Destination_area:HKG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_HND" source="CrossTab:Header:Destination_area:HND:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_HTI" source="CrossTab:Header:Destination_area:HTI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_IDN" source="CrossTab:Header:Destination_area:IDN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_IND" source="CrossTab:Header:Destination_area:IND:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_IRN" source="CrossTab:Header:Destination_area:IRN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_IRQ" source="CrossTab:Header:Destination_area:IRQ:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ISL" source="CrossTab:Header:Destination_area:ISL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ISR" source="CrossTab:Header:Destination_area:ISR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_JAM" source="CrossTab:Header:Destination_area:JAM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_JOR" source="CrossTab:Header:Destination_area:JOR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_JPN" source="CrossTab:Header:Destination_area:JPN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_KAZ" source="CrossTab:Header:Destination_area:KAZ:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_KEN" source="CrossTab:Header:Destination_area:KEN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_KGZ" source="CrossTab:Header:Destination_area:KGZ:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_KHM" source="CrossTab:Header:Destination_area:KHM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_KOR" source="CrossTab:Header:Destination_area:KOR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_KWT" source="CrossTab:Header:Destination_area:KWT:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_LAO" source="CrossTab:Header:Destination_area:LAO:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_LBN" source="CrossTab:Header:Destination_area:LBN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_LBR" source="CrossTab:Header:Destination_area:LBR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_LBY" source="CrossTab:Header:Destination_area:LBY:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_LKA" source="CrossTab:Header:Destination_area:LKA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MAR" source="CrossTab:Header:Destination_area:MAR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MDA" source="CrossTab:Header:Destination_area:MDA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MDG" source="CrossTab:Header:Destination_area:MDG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MEX" source="CrossTab:Header:Destination_area:MEX:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MKD" source="CrossTab:Header:Destination_area:MKD:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MLI" source="CrossTab:Header:Destination_area:MLI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MMR" source="CrossTab:Header:Destination_area:MMR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MNG" source="CrossTab:Header:Destination_area:MNG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MOZ" source="CrossTab:Header:Destination_area:MOZ:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MRT" source="CrossTab:Header:Destination_area:MRT:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MWI" source="CrossTab:Header:Destination_area:MWI:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_MYS" source="CrossTab:Header:Destination_area:MYS:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NAM" source="CrossTab:Header:Destination_area:NAM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NER" source="CrossTab:Header:Destination_area:NER:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NGA" source="CrossTab:Header:Destination_area:NGA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NIC" source="CrossTab:Header:Destination_area:NIC:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NOR" source="CrossTab:Header:Destination_area:NOR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NPL" source="CrossTab:Header:Destination_area:NPL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_NZL" source="CrossTab:Header:Destination_area:NZL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_OMN" source="CrossTab:Header:Destination_area:OMN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PAK" source="CrossTab:Header:Destination_area:PAK:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PAN" source="CrossTab:Header:Destination_area:PAN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PER" source="CrossTab:Header:Destination_area:PER:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PHL" source="CrossTab:Header:Destination_area:PHL:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PNG" source="CrossTab:Header:Destination_area:PNG:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PRK" source="CrossTab:Header:Destination_area:PRK:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PRY" source="CrossTab:Header:Destination_area:PRY:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_PSE" source="CrossTab:Header:Destination_area:PSE:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_QAT" source="CrossTab:Header:Destination_area:QAT:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_RUS" source="CrossTab:Header:Destination_area:RUS:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_RWA" source="CrossTab:Header:Destination_area:RWA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SAU" source="CrossTab:Header:Destination_area:SAU:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SDN" source="CrossTab:Header:Destination_area:SDN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SDS" source="CrossTab:Header:Destination_area:SDS:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SEN" source="CrossTab:Header:Destination_area:SEN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SGP" source="CrossTab:Header:Destination_area:SGP:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SLE" source="CrossTab:Header:Destination_area:SLE:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SLV" source="CrossTab:Header:Destination_area:SLV:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SOM" source="CrossTab:Header:Destination_area:SOM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SRB" source="CrossTab:Header:Destination_area:SRB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_SYR" source="CrossTab:Header:Destination_area:SYR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TCD" source="CrossTab:Header:Destination_area:TCD:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TGO" source="CrossTab:Header:Destination_area:TGO:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_THA" source="CrossTab:Header:Destination_area:THA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TJK" source="CrossTab:Header:Destination_area:TJK:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TKM" source="CrossTab:Header:Destination_area:TKM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TUN" source="CrossTab:Header:Destination_area:TUN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TUR" source="CrossTab:Header:Destination_area:TUR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_TZA" source="CrossTab:Header:Destination_area:TZA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_UGA" source="CrossTab:Header:Destination_area:UGA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_UKR" source="CrossTab:Header:Destination_area:UKR:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_URY" source="CrossTab:Header:Destination_area:URY:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_USA" source="CrossTab:Header:Destination_area:USA:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_UZB" source="CrossTab:Header:Destination_area:UZB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_VEN" source="CrossTab:Header:Destination_area:VEN:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_VNM" source="CrossTab:Header:Destination_area:VNM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_XAF" source="CrossTab:Header:Destination_area:XAF:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_XAM" source="CrossTab:Header:Destination_area:XAM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_XAS" source="CrossTab:Header:Destination_area:XAS:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_XEU" source="CrossTab:Header:Destination_area:XEU:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_YEM" source="CrossTab:Header:Destination_area:YEM:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ZAF" source="CrossTab:Header:Destination_area:ZAF:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ZMB" source="CrossTab:Header:Destination_area:ZMB:Sum:" type="Double" />
+                <Field name="Intermediate_departure_to_ZWE" source="CrossTab:Header:Destination_area:ZWE:Sum:" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
