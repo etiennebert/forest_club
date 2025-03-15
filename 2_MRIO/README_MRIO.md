@@ -1,0 +1,99 @@
+# Step 2: CBA and TBA Analysis with MRIO GLORIA
+
+This second step is relatively straightforward.  
+Thanks to the previous data preparation, **your prepared CSV files** should be in the folder:
+
+The **GLORIA data** must also be stored in the same folder structure to ensure smooth integration with the MRIO workflow.
+
+---
+
+## GLORIA Data Usage Guide
+
+### Dataset Reference
+The **GLORIA (Global Resource Input-Output Assessment)** database is a Multi-Regional Input-Output (MRIO) database developed using the IELab infrastructure by the University of Sydney for the UN International Resource Panel (UN IRP). It was created to update material footprint accounts within the UN IRP Material Flows Database. 
+
+GLORIA was also selected as the underlying MRIO model for the **Sustainable Consumption and Production Hotspots Analysis Tool (SCP-HAT)** to enhance synergies between different UNEP initiatives.
+
+### Download Link
+**GLORIA Data**:  
+[https://ielab.info/labs/ielab-gloria](https://ielab.info/labs/ielab-gloria)
+
+### Technical Documentation
+The GLORIA technical documentation outlines:
+
+- The construction methodology of the MRIO table  
+- The source datasets used  
+- Quality checks performed  
+- Method- and data-specific details  
+
+It includes **material footprint** calculations and a wide range of environmental, economic, and social indicators.
+
+> **Note**: GLORIA data **cannot be used for commercial purposes** without a valid license from FootprintLab.
+
+---
+
+## Required Data Files
+For calculations covering **2012–2019**, you will need:
+
+1. **Transactions Matrix (T-Results)**  
+20240111_120secMother_AllCountries_002_T-Results_xxxx_059_Markup001(full).csv
+
+2. **Final Demand Matrix (Y-Results)**  
+20240111_120secMother_AllCountries_002_Y-Results_xxxx_059_Markup001(full).csv
+
+   
+---
+
+## Usage Instructions
+
+1. **Download** the required datasets from the link provided above.  
+2. **Ensure** you have tools to process large CSV-based MRIO data (e.g., Python pandas, R, etc.).  
+3. **Load and integrate** the transactions (T-Results) and final demand (Y-Results) matrices into your workflow.
+
+**Performance Tip**:  
+- The first time you run the script, these large CSV files (over 10 GB) are converted into NumPy (`.npy`) format for faster subsequent data loading.  
+- Afterwards, loading the data becomes much quicker.
+
+---
+
+## Running the Scripts
+
+### 1. CBA & TBA for the EU27
+Run the script:
+
+CBA_TBA_scriptEU27.py
+
+This performs **Consumption-Based Accounting (CBA)** and **Trade-Based Accounting (TBA)** for the EU27 only. It iterates over **11 producer countries**, and **each year** (2012–2019) can take about **2–3 hours** per year to process.
+
+### 2. Global CBA & TBA
+Next, run:
+
+CBA_TBA_scriptglobal.py
+
+- This script is set to run on **3 producer countries** (see SI for details) due to high computational demands.
+- Even on a HPC (High-Performance Computing) system, it can take about **1 day** per country.
+
+**All results** are automatically stored in the `output` folder.
+
+---
+
+## Consolidating Results in Alteryx
+Once the MRIO scripts are finished:
+
+1. Go to the Alteryx folder:
+full_database
+
+2. Run the relevant Alteryx workflow(s) to consolidate all generated results into a single database.
+
+---
+
+## Visualization
+Finally, visualize the consolidated database in the `visualisation` folder via a **straightforward** process (details may vary depending on your visualization tool).
+
+---
+
+## Contact & Support
+- **GLORIA Technical Details**: Refer to the documentation or contact the University of Sydney IELab team for further support.  
+- **MRIO/Script Queries**: Email [etber@mit.edu](mailto:etber@mit.edu).
+
+> **Thank you for using the GLORIA MRIO database!**
