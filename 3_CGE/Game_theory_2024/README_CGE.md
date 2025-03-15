@@ -12,17 +12,15 @@ and run both Alteryx workflows:
 ```bash
 A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd
 B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd
-'''
+```
 
 Output Files
 These scripts generate five Excel files:
 
-A-1_Database_Forest_Intensity_GTAPAEZ_shocks_Deforestation.xlsx
-
-HILDA+ deforestation measured per AEZ, per country, per sector, and year.
-A-2_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_ctl.xlsx
-
-HILDA+ land cover data measured per AEZ and year for the cattle sector.
+- A-1_Database_Forest_Intensity_GTAPAEZ_shocks_Deforestation.xlsx
+ - HILDA+ deforestation measured per AEZ, per country, per sector, and year.
+- A-2_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_ctl.xlsx
+  - HILDA+ land cover data measured per AEZ and year for the cattle sector.
 B-1_Database_Forest_Intensity_GTAPAEZ_shocks_Land_Change_agri.xlsx
 
 HILDA+ land cover data measured per AEZ and year for other agricultural sectors (excluding cattle).
