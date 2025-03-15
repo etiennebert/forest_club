@@ -122,13 +122,13 @@ Main Goals:
 
 1. **Extract HILDA+**  
    - Acquire **HILDA+ v2.1** data (`.nc` files).  
-   - Run `1_HILDA_code_extraction.py` to filter tropical regions and relevant LULC codes.  
-   - Convert to CSV or Alteryx format for further analysis.
+   - Python code `1_HILDA_code_extraction.py` to filter tropical regions of interest and relevant LULC codes.  
+   - Convert to CSV or geographical format via Alteryx format for further analysis.
 
 2. **Process FAO**  
-   - Raw files go in `1. Data/2. FAO data/1. Production_Crops_Livestock_E_All_Data_(Normalized)`.  
-   - `A_FAO_annual_evolution_per_GLORIA_sector.yxmd` (Alteryx) aggregates yearly data and smooths fluctuations.  
-   - Merge with HILDA+ expansions to get sector-level deforestation intensities.
+   - Raw FAO files about production.  
+   - `A_FAO_annual_evolution_per_GLORIA_sector.yxmd` (Alteryx) aggregates yearly incremental changes and smooths fluctuations.  
+   - Merge with HILDA+ results to get sector-level deforestation intensities.
 
 3. **Prepare the HILDA+ and FAO data processed**
    - Prepare the processeded data for the MRIO GLORIA 
@@ -140,11 +140,11 @@ The differents steps of this stage are detailed in the document **README_DATA.md
 ## Step 2: Running the MRIO and TBA
 
 1. **Consumption-Based Accounting (CBA)**  
-   - `CBA_TBA_script.py` builds the Leontief inverse and multiplies by deforestation intensities.  
+   - `CBA_TBA_script.py` builds the Leontief inverse and multiplies by deforestation intensities and Final Demand.  
    - Outputs stored in `./2. MRIO/GLORIA/output/CBA`.
 
 2. **Throughflow-Based Accounting (TBA)**  
-   - Also handled by `CBA_TBA_script.py` using the Hypothetical Extraction Method.  
+   - Also handled by `CBA_TBA_script.py`, calulate the "thougflow" of deforestaion for the different territories, using the Hypothetical Extraction Method.  
    - Results in `./2. MRIO/GLORIA/output/TBA`.
 
 3. **Visualizations**  
@@ -157,16 +157,19 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
 
 ## Step 3: GTAP–AEZ Counterfactual Analysis
 
-1. **Tariff Simulation**  
-   - **`5. Tariff_SIM`** folder contains `.prm` files to find tariffs needed to reduce exports (or output) by the share of deforestation.  
-   - Run with GEMPACK, then parse `.har` results with `HARr` in R.
+1. **Deforestation coefficients**  
+   - Represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop. It is used to guide land-use decisions in the CGE model (see SI 5.2 for additional details).
+  
+2. **Tariff Simulation**  
+   - Find tariffs needed to reduce exports (or output) by the share of deforestation.  
 
-2. **Forest Club Iterations**  
-   - The game-theory logic is in `CGE_Game_Theory_GTAPAEZ.R`.  
-   - Adjust thresholds in `Thresholds_GTAPAEZ_Game_theory.xlsx`.  
+3. **Forest Club Iterations**  
+   - The game-theory logic is in `CGE_Game_Theory_GTAPAEZ.R`.
+   - The R script runs with GEMPACK, then parse `.har` results with `HARr` in R.
+   - Possibility to adjust the thresholds in `Thresholds_GTAPAEZ_Game_theory.xlsx` (See SI table S6)   
    - Each iteration re-runs the CGE with updated membership decisions and outputs new `.har` result files.
 
-3. **Aggregating Results**  
+4. **Aggregating Results**  
    - Use Alteryx workflows `DB_GTAPAEZ_all.yxmd` and `DB_GTAPAEZ_aggregate.yxmd` to combine iteration-by-iteration data.  
    - Key outputs include:
      - `DB_GTAPAEZ_Forest_2024.csv` (forest area changes)
