@@ -43,6 +43,7 @@ python 1_HILDA+_code_extraction.py
 ```
 This will generate extracted data in subfolders under:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
+(The script takes approximately half and hour to run).
 
 #### 3. Alteryx Workflow Steps
 Open Alteryx Designer.
