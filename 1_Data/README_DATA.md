@@ -1,28 +1,24 @@
 # Data Usage Guide
 
-## Dataset Reference
-This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019). 
-Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):
-HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
-PANGAEA. https://doi.org/10.1594/PANGAEA.921846
+## HILDA+ data
 
-## Downloading HILDA+ (Version 2.1)
+### Downloading HILDA+ (Version 2.1)
 The latest version (2.1) can be downloaded from:
 https://bwsyncandshare.kit.edu/s/H2iQG6nMPTaxpqR/download
 
-## Required Files
+### Required Files
 To ensure proper functionality, please download the following NetCDF files:
 
 - hildaplus_GLOB-2-1-crop_states.nc
 - hildaplus_GLOB-2-1-crop_transitions.nc
 These contain the global crop states and transitions needed for the analysis.
 
-## Usage Instructions
+### Usage Instructions
 Place the downloaded files in the appropriate directory (e.g., 1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data).
 Install any dependencies required to read NetCDF files (for example, netCDF4, numpy, pandas).
 Load the data in your workflow using Python or any other tool that handles NetCDF.
 
-### 1. Python Environment
+#### 1. Python Environment
 Install the necessary libraries (e.g., using conda or pip):
 
 nginx
@@ -79,4 +75,13 @@ This prepares all FAO-related inputs.
 Contact & Support
 For HILDA+ dataset questions: refer to the official documentation or contact the dataset authors.
 For Python/Alteryx code questions: email etber@mit.edu.
+
+
+
+## Dataset Reference
+This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019). 
+Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):
+HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
+PANGAEA. https://doi.org/10.1594/PANGAEA.921846
+
 
