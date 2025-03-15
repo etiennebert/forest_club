@@ -28,8 +28,9 @@ The current files provides an overview. The detailed execution of the worklow is
 
 ---
 
-## Repository Structure
+## Project Directory Structure
 
+```text
 ├── 1. Data
 │   ├── 1. HILDA data
 │   │   ├── 1. Extracting_ntcdf_data
@@ -66,8 +67,6 @@ The current files provides an overview. The detailed execution of the worklow is
 └── README.md  <-- You are here!
 
 
-
-
 ## Key Directories
 
 - **`1. Data`**  
@@ -86,7 +85,8 @@ The current files provides an overview. The detailed execution of the worklow is
 
 ### 1. Clone or Download
 git clone https://github.com/YourUserName/Forest_Club_Supplementary_Information.git
-
+(You need to clone this folder in a place directly located in your C:\
+(Avoid any path such as: "C:\\xxx\documents\My doc \ etc" any space in the path would create inconsistent run
 
 ### 2. Software Requirements
 - **Python (3.8+)**  
