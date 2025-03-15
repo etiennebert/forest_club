@@ -64,6 +64,7 @@ The current files provides an overview. The detailed execution of the worklow is
 │   │   ├── DB_GTAPAEZ_aggregate.yxmd
 │   │   └── (experiment files, .prm parameter files, etc.)
 │   └── **README_CGE.md <-- Step 3**
+│
 └── README.md  <-- You are here!
 ```
 
