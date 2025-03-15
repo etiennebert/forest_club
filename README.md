@@ -136,7 +136,7 @@ The differents steps of this stage are detailed in the document **README_DATA.md
 
 ---
 
-## Step 2: Running the MRIO and TBA
+## Step 2: Running the MRIO analysis
 
 1. **Consumption-Based Accounting (CBA)**  
    - `CBA_TBA_script.py` builds the Leontief inverse and multiplies by deforestation intensities and Final Demand.  
@@ -160,7 +160,7 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
    - Represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop. It is used to guide land-use decisions in the CGE model (see SI 5.2 for additional details).
   
 2. **Tariff Simulation**  
-   - Find tariffs needed to reduce exports (or output) by the share of deforestation.  
+   - Find tariffs needed to reduce exports (or output) by the share of deforestation (See SI 6.1).  
 
 3. **Forest Club Iterations**  
    - The game-theory logic is in `CGE_Game_Theory_GTAPAEZ.R`.
@@ -176,7 +176,6 @@ The differents steps of this stage are detailed in the document **README_MRIO.md
      - `DB_GTAPAEZ_all_results_2024_agg.csv` (aggregate iteration results).
 
 The differents steps of this stage are detailed in the document **README_CGE.md <-- Step 3**
-
 
 ---
 
