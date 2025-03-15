@@ -31,27 +31,29 @@ These scripts generate five Excel files:
 These results are consolidated into an Excel file within the same folder: Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
 
 ### Calculating the Deforestation Coefficient
-Inside Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, you will find two key tabs:
+Inside the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, using the following tabs:
 
 - Additional_LU_and_deforestation
 - Land_Cover
 
-Using these tabs, you can calculate the deforestation coefficient as described in the main manuscript (Equation 11).
-(Those coefficents represent the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop. They are used to guide land-use decisions in the CGE model, see SI 5.2 for additional details).
+It is possbile to calculate the deforestation coefficient as described in the main manuscript (Equation 11).
+(Reminder: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details).
 
-The calcualtion of those coefficents is perfomred tab **Additional_LU_and_deforestation**, column G
+The calcualtion of those deforestation coefficents is perfomred tab **Additional_LU_and_deforestation**, column G
 
 **Sheet 3** in this workbook summarizes the computed deforestation coefficients.
-**Sheet 4** applies those GTAP coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU).
+**Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
 
 ### Computing Tariffs for Deforestation-Linked Exports
-As described in SI, Section 6.2, tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation:
+As described in SI, Section 6.2, tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
+
 The shocks and swap used for those tariffs are computed in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab Shocks_GlobalTarf_qxw. 
+
 This file is used in further computations, producing Shocks_tmf_f and other relevant shock results.
-Then, the calcuation of the tariffs is done via a GTAP AEZ simulation done via the folder: 
-3. runGTAP375\5. Tariff_SIM\NATFEB\SaveSims
-The parameter of this simualtion can be foun in the folder Savesims. 
-simulation is available in the SI and can be recomputed using the “\5. Tariff_SIM” folder (name of the experiment: qxwGlobT “aggregate shock on qxw for global tariffs”), which yields the average tariff required to curtail each export flow in proportion to its deforestation footprint
+Then, the calcuation of the tariffs is done via a GTAP AEZ simulation done via the folder: 3. runGTAP375\5. Tariff_SIM\NATFEB\SaveSims
+The parameter of this simualtion can be found in the folder Savesims. 
+
+This simulation is available in the SI and can be recomputed using the “\5. Tariff_SIM” folder (name of the experiment: qxwGlobT “aggregate shock on qxw for global tariffs”), which yields the average tariff required to curtail each export flow in proportion to its deforestation footprint
 And the value found in the file qxwGlobT.cmf are the same than the ones in the file. 
 
 Teh results are in the file qxwGlobT.sl4 and stored in the file Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx, tab SShocks_tmf_f
