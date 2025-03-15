@@ -53,7 +53,9 @@ Run:
 ```bash
 1_Country_mapping_HILDA-csv.yxmd
 ```
-This produced the differnet yxdb databases stores data in the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
+The script takes app. one hour to run, depending of the configuration of your laptop.
+This produced four differnent yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
+Those databases are stored into the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
 
 Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
 Nevertheless, the HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
@@ -61,12 +63,12 @@ To faciliate this process, we do it in the next here:
 
 Go to the folder: 
 1_Data\1. HILDA data\3. Split_AEZ
-The agroecological zone from the FAO wesite are stored in the folder: GAEZ_from_FAO_data
+The agroecological zone from the FAO wesite are stored in the folder: GAEZ_from_FAO_data  (cf. SI document for further information about them). 
 
 They have been prepared with ArcGIS and the shapes are stored in the database: A-4_aez_global_grid_polygons.yxdb
 (This can be controlled via Figure S4 in the same folder).
 
-Then run the following Alteryx file:
+Then, run the following Alteryx file:
 ```bash
 B-1_Spatial-match_HILDA_AEZ.yxmd
 ```
@@ -77,7 +79,7 @@ These create the following databases:
 - C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
 - C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid
 
-The HILDA data are now prepared
+The HILDA data are now prepared for the CGE part also.
 
 ## Second step, preparing FAO data
 
@@ -93,8 +95,7 @@ Run the following Alteryx scripts:
 ```bash
 A_FAO_annual_evolution_per_GLORIA_sector.yxmd
 ```
-This finish to prepares all MRIO-related inputs.
-
+This finish to prepares the forest area evolution per MRIO sector with a particular forus on the incrematal posiitiv vhcnages.
 
 ## Third step, preparing MRIO data
 In the same folder, 1. Data\2. FAO data
@@ -104,11 +105,10 @@ Run the following Alteryx scripts:
 B_GLORIA_Sattelite_data.yxmd
 
 ```
-This finish to prepares all MRIO-related inputs.
+This finish to prepares all MRIO-related inputs, calcuting the deforestation per country, sector, and year.
 They are all stored in the following folder: 
 2. MRIO\GLORIA\commodity\HILDA\V_2_1
 
 ## Contact & Support
 For HILDA+ dataset questions: refer to the official documentation or contact the dataset authors.
 For Python/Alteryx code questions: email etber@mit.edu.
-
