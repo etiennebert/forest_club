@@ -1,8 +1,13 @@
 # Data Usage Guide
 
-## HILDA+ data
+## First step, working with HILDA+ data
 
 ### Downloading HILDA+ (Version 2.1)
+This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019). 
+Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):
+HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
+PANGAEA. https://doi.org/10.1594/PANGAEA.921846
+
 The latest version (2.1) can be downloaded from:
 https://bwsyncandshare.kit.edu/s/H2iQG6nMPTaxpqR/download
 
@@ -19,30 +24,24 @@ Install any dependencies required to read NetCDF files (for example, netCDF4, nu
 Load the data in your workflow using Python or any other tool that handles NetCDF.
 
 #### 1. Python Environment
-Install the necessary libraries (e.g., using conda or pip):
-
-nginx
-Copier
+Install required libraries:
+```bash
 conda install numpy pandas netCDF4
-or
-
-nginx
-Copier
+# or
 pip install numpy pandas netCDF4
-2. Run the HILDA Extraction Script
+```
+
+#### 2. Run the HILDA Extraction Script
 Navigate to the folder:
-kotlin
-Copier
 1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
 Run the Python script:
-nginx
-Copier
+```bash
 python 1_HILDA+_code_extraction.py
+```
 This will generate extracted data in subfolders under:
-kotlin
-Copier
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
-3. Alteryx Workflow Steps
+
+#### 3. Alteryx Workflow Steps
 Open Alteryx Designer (ensure your working directory is correct).
 Run:
 Copier
@@ -79,9 +78,6 @@ For Python/Alteryx code questions: email etber@mit.edu.
 
 
 ## Dataset Reference
-This project utilizes the HILDA+ Global Land Use Change dataset (1960–2019). 
-Winkler, Karina; Fuchs, Richard; Rounsevell, Mark D A; Herold, Martin (2020):
-HILDA+ Global Land Use Change between 1960 and 2019 [dataset].
-PANGAEA. https://doi.org/10.1594/PANGAEA.921846
+
 
 
