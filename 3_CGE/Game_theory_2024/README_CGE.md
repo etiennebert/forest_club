@@ -42,7 +42,7 @@ It is possbile to calculate the deforestation coefficient as described in the ma
 
 The calcualtion of those deforestation coefficents is perfomred in the same Excel file ( Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx) tab **Additional_LU_and_deforestation**, column G
 
-**Sheet 3** in this workbook summarizes the computed deforestation coefficients.
+**Sheet 3** in this workbook summarizes the computed deforestation coefficients.  
 **Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
 
 ### Computing Tariffs for Deforestation-Linked Exports
