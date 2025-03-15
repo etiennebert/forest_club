@@ -36,16 +36,16 @@ Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx
 ### Calculating the Deforestation Coefficient
 Within `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx`, the following tabs:
 
-- Additional_LU_and_deforestation
-- Land_Cover
+- **Additional_LU_and_deforestation**
+- **Land_Cover**
 
 are used to calculate the deforestation coefficient as described in the main manuscript (Equation 11).  
 *(Note: this coefficient represents the fraction of agricultural land expansion attributable to deforestation in each AEZ for each crop, see SI 5.2 for additional details)*.
 
-The calcualtion itself is perfomred in `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx,` tab **Additional_LU_and_deforestation**, column G.
+The calcualtion itself is perfomred in `Database_Forest_Intensity_GTAPAEZ_shocks_final.xlsx,` tab **Additional_LU_and_deforestation**, column G.  
 Last:
-**Sheet 3** in this workbook summarizes the computed deforestation coefficients.  
-**Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
+- **Sheet 3** in this workbook summarizes the computed deforestation coefficients.  
+- **Sheet 4** applies those deforestation coefficients to the initial GTAP land areas to calculate deforestation intensity by country and sector (columns BM to BU of this tab).
 
 ### Computing Tariffs for Deforestation-Linked Exports
 As described in SI, Section 6.2, initial tariffs are first computed to reduce each producer country’s exports by the share of production linked to deforestation.
