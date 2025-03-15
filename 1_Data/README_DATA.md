@@ -47,40 +47,44 @@ This will generate extracted data in subfolders under:
 Open Alteryx Designer.
 
 Run:
-Copier
+```bash
 1_Country_mapping_HILDA-csv.yxmd
+```
 This stores data in your designated output folder.
-Then run in this order:
-css
-Copier
+
+Then run in this specific order:
+```bash
 A-1_Alteryx_AEZ_Marked_Country.yxmd
 A-4_aez_global_grid_polygons.yxdb
 B-1_Spatial-match_HILDA_AEZ.yxmd
-These create:
-mathematica
-Copier
-C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb
-C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
+```
+
+These create the following databases:
+- C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
+
 Your HILDA data is now prepared.
-4. FAO Data
-Download the FAO dataset and unzip it to 1_Data/2. FAO data/ (or a similar folder).
+
+## Second step, preparing FAO data
+
+Download the FAO dataset:  
+
+Unzip it to 1_Data/2. FAO data/ (or a similar folder).
+
 Run the following Alteryx scripts:
-Copier
+```bash
 A_FAO_annual_evolution_per_GLORIA_sector.yxmd
 B_GLORIA_Sattelite_data.yxmd
 A_GTAPAEZ_deforestation_coefficients_Dec_2024_def_ctl.yxmd
 B_GTAPAEZ_deforestation_coefficients_Dec_2024.yxmd
+```
 This prepares all FAO-related inputs.
-5. MRIO Data
+
+
+## Third step, preparing FAO data
 (Include any MRIO data processing steps here, if needed.)
 
-Contact & Support
+## Contact & Support
 For HILDA+ dataset questions: refer to the official documentation or contact the dataset authors.
 For Python/Alteryx code questions: email etber@mit.edu.
-
-
-
-## Dataset Reference
-
-
 
