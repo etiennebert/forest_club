@@ -76,43 +76,58 @@ CBA_TBA_scriptglobal.py
 ---
 
 ## Consolidating Results in Alteryx
+
 Once the MRIO scripts are finished:
 
-1. Go to the Alteryx folder:
-full_database
+1. **Navigate** to the `full_database` folder in Alteryx.  
+2. **Run** the following workflows to consolidate and aggregate CBA/TBA results:
 
-2. Run the relevant Alteryx workflow(s) to consolidate all generated results into a single database.
-The CBA results are aggregated via the script: 
-```bash
-1_HILDA_v2-1_CBA results.yxmd
-```
-This creates the file CBA_Results_Full.csv in the folder 2. MRIO\Visualisation\1. CBA_TBA
+   - **CBA Aggregation**  
+     ```bash
+     1_HILDA_v2-1_CBA results.yxmd
+     ```
+     - Generates `CBA_Results_Full.csv`  
+     - Output location: `2. MRIO\Visualisation\1. CBA_TBA`
 
-The TBA results for the EU only are aggregated via the script: 
-```bash
-2_HILDA_v2-1_TBA_results_EU27only.yxmd
-```
-This creates the file Deforestation_Transiting_EU27_2012-2019.xlsx in the folder 2. MRIO\Visualisation\1. CBA_TBA
+   - **TBA (EU27 Only)**  
+     ```bash
+     2_HILDA_v2-1_TBA_results_EU27only.yxmd
+     ```
+     - Generates `Deforestation_Transiting_EU27_2012-2019.xlsx`  
+     - Output location: `2. MRIO\Visualisation\1. CBA_TBA`
 
-The TBA results for all the different countires around the world for Brazilian deforestation are aggregated via the script: 
-```bash
-HILDA_Aggregation_CBA-and-TBA_detailed_per_commodity_BRA.yxmd
-```
-
-This creates the file HILDA_V_2_1_Sankey_Prepared_05102024_BRA.xlsx in the folder 2.MRIO\Visualisation\2. Sankeys\1_TBA files prepared
-Remark: The script must be slightly adapted to obtain the results for IDN and COD. 
+   - **TBA (Global Focus on Brazil)**  
+     ```bash
+     HILDA_Aggregation_CBA-and-TBA_detailed_per_commodity_BRA.yxmd
+     ```
+     - Aggregates TBA results for various countries (focusing on Brazilian deforestation)  
+     - Generates `HILDA_V_2_1_Sankey_Prepared_05102024_BRA.xlsx`  
+     - Output location: `2.MRIO\Visualisation\2. Sankeys\1_TBA files prepared`  
+     - **Note**: You can adapt this script for other producer countries such as IDN and COD if needed.
 
 ---
 
 ## Visualization
-Finally, visualize the consolidated database in the `visualisation` folder via a **straightforward** process (details may vary depending on your visualization tool).
-For the Sankey visualisation, the process is slightly more complex. 
-The coordinates used for each country are stored in the folder: 2. \2_MRIO\Visualisation\2. Sankeys\2_Sankey_coordinates
-Then the Full figure is prepared via the file : 
-Sankey_Figure_1_02052024.yxmd
-And plot via the Jupyter script: Figure_1_Sankey_Diagram_2.ipynb 
 
+1. **Basic Visualization**  
+   - The consolidated outputs are located in the `2. MRIO\Visualisation` folder.  
+   - You can use any standard visualization tool (e.g., Tableau, Power BI, Python notebooks) to explore these results.
 
+2. **Sankey Diagrams**  
+   - **Coordinates** for each country are located in:  
+     ```
+     2. MRIO\Visualisation\2. Sankeys\2_Sankey_coordinates
+     ```
+   - **Prepare** the figure in Alteryx with:  
+     ```
+     Sankey_Figure_1_02052024.yxmd
+     ```
+   - **Plot** the final diagram via the Jupyter script:  
+     ```
+     Figure_1_Sankey_Diagram_2.ipynb
+     ```
+
+This process creates a comprehensive visualization of both CBA and TBA results, including detailed flows for specific producer countries.
 ---
 
 ## Contact & Support
