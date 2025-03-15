@@ -1,9 +1,9 @@
 # Step 2: CBA and TBA Analysis with MRIO GLORIA
 
 This second step is relatively straightforward.  
-Thanks to the previous data preparation, **your prepared CSV files** should be in the folder:
+Thanks to the previous data preparation, **your prepared CSV files** should be in the folder: 2. MRIO\GLORIA\commodity\HILDA\V_2_1
 
-The **GLORIA data** must also be stored in the same folder structure to ensure smooth integration with the MRIO workflow.
+The **GLORIA data** must also be stored in the folder 2_MRIO\GLORIA\data to ensure smooth integration with the MRIO workflow.
 
 ---
 
@@ -12,9 +12,7 @@ The **GLORIA data** must also be stored in the same folder structure to ensure s
 ### Dataset Reference
 The **GLORIA (Global Resource Input-Output Assessment)** database is a Multi-Regional Input-Output (MRIO) database developed using the IELab infrastructure by the University of Sydney for the UN International Resource Panel (UN IRP). It was created to update material footprint accounts within the UN IRP Material Flows Database. 
 
-GLORIA was also selected as the underlying MRIO model for the **Sustainable Consumption and Production Hotspots Analysis Tool (SCP-HAT)** to enhance synergies between different UNEP initiatives.
-
-### Download Link
+### Request Link
 **GLORIA Data**:  
 [https://ielab.info/labs/ielab-gloria](https://ielab.info/labs/ielab-gloria)
 
@@ -63,7 +61,7 @@ Run the script:
 
 CBA_TBA_scriptEU27.py
 
-This performs **Consumption-Based Accounting (CBA)** and **Trade-Based Accounting (TBA)** for the EU27 only. It iterates over **11 producer countries**, and **each year** (2012–2019) can take about **2–3 hours** per year to process.
+This performs **Consumption-Based Accounting (CBA)** and **Trade-Based Accounting (TBA)** for the EU27 only. It iterates over **11 producer countries**, and **each year** (2012–2019) can take about **2 to 3 hours** per year to process.
 
 ### 2. Global CBA & TBA
 Next, run:
