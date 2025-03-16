@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="245">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="2444" y="366" />
+        <Position x="2444" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -23,7 +23,7 @@
     </Node>
     <Node ToolID="247">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="2276" y="90" />
+        <Position x="2276" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -56,7 +56,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="248">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="2636" y="270" />
+        <Position x="2636" y="234" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -87,7 +87,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="249">
       <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-        <Position x="2768" y="258" />
+        <Position x="2768" y="222" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -132,7 +132,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="251">
       <GuiSettings>
-        <Position x="2888" y="258" />
+        <Position x="2888" y="222" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -160,7 +160,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="252">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="3080" y="342" />
+        <Position x="3080" y="306" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -194,7 +194,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="253">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="2984" y="270" />
+        <Position x="2984" y="234" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -215,7 +215,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="254">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
-        <Position x="3176" y="426" />
+        <Position x="3176" y="390" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -253,7 +253,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="14">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1052" y="366" />
+        <Position x="1052" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -284,7 +284,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="255">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="3164" y="558" />
+        <Position x="3164" y="522" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -305,7 +305,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="256">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="3296" y="438" />
+        <Position x="3296" y="402" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -340,7 +340,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="257">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-        <Position x="3428" y="438" />
+        <Position x="3428" y="402" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -380,7 +380,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="258">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="3512" y="438" />
+        <Position x="3512" y="402" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -402,7 +402,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="259">
       <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-        <Position x="3620" y="438" />
+        <Position x="3620" y="402" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -444,12 +444,12 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="263">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="3632" y="582" />
+        <Position x="3632" y="546" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">\B_Rank_Sector.xlsx|||`Sheet1$`</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">B_Rank_Sector.xlsx|||`Sheet1$`</File>
           <FormatSpecificOptions>
             <FirstRowData>False</FirstRowData>
             <ImportLine>1</ImportLine>
@@ -461,10 +461,13 @@ Year - Ascending</DefaultAnnotationText>
 Query=`Sheet1$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="Sector" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\2. FAO data\B_Rank_Sector.xlsx|||`Sheet1$`" type="V_String" />
-            <Field name="Sector_ID" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\1. Data\2. FAO data\B_Rank_Sector.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Sector" size="255" source="File: C:\GitHub\forest_club\1_Data\2. FAO data\B_Rank_Sector.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Sector_ID" source="File: C:\GitHub\forest_club\1_Data\2. FAO data\B_Rank_Sector.xlsx|||`Sheet1$`" type="Double" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -472,7 +475,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="264">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="3752" y="510" />
+        <Position x="3752" y="474" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -517,7 +520,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="267">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="3632" y="702" />
+        <Position x="3632" y="666" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -545,7 +548,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="268">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="3884" y="582" />
+        <Position x="3884" y="546" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -591,7 +594,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="269">
       <GuiSettings>
-        <Position x="3968" y="582" />
+        <Position x="3968" y="546" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -619,7 +622,7 @@ Query=`Sheet2$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="270">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="4076" y="366" />
+        <Position x="4076" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -638,12 +641,12 @@ Query=`Sheet2$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="272">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="4016" y="126" />
+        <Position x="4016" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">..\..\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`</File>
           <FormatSpecificOptions>
             <FirstRowData>False</FirstRowData>
             <ImportLine>1</ImportLine>
@@ -655,13 +658,16 @@ Query=`Sheet2$`</DefaultAnnotationText>
 Query=`Inter-Industry$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="Code" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="V_String" />
-            <Field name="Region" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="Double" />
-            <Field name="Region_Name" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="V_String" />
-            <Field name="Sector" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="Double" />
-            <Field name="Sector_Name" size="255" source="File: C:\Users\etber\OneDrive - Massachusetts Institute of Technology\Documents\Deforestation_Nature\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="V_String" />
+            <Field name="Code" size="255" source="File: C:\GitHub\forest_club\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="V_String" />
+            <Field name="Region" source="File: C:\GitHub\forest_club\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="Double" />
+            <Field name="Region_Name" size="255" source="File: C:\GitHub\forest_club\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="V_String" />
+            <Field name="Sector" source="File: C:\GitHub\forest_club\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="Double" />
+            <Field name="Sector_Name" size="255" source="File: C:\GitHub\forest_club\2. MRIO\GLORIA\indexes\Indexes.xlsx|||`Inter-Industry$`" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -669,7 +675,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="273">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-        <Position x="4088" y="126" />
+        <Position x="4088" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -690,7 +696,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="274">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="4172" y="126" />
+        <Position x="4172" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -712,7 +718,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="605">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="5164" y="124" width="503" height="591" />
+        <Position x="5164" y="88" width="503" height="591" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -730,7 +736,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="464">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5502" y="474" width="140" height="24" />
+            <Position x="5502" y="438" width="140" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -749,7 +755,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="437">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6198" y="522" />
+                <Position x="6198" y="486" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -781,7 +787,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="438">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6294" y="522" />
+                <Position x="6294" y="486" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -808,7 +814,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="439">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="618" />
+                <Position x="6210" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -840,7 +846,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="440">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="618" />
+                <Position x="6306" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -867,7 +873,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="441">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6234" y="726" />
+                <Position x="6234" y="690" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -899,7 +905,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="442">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6330" y="726" />
+                <Position x="6330" y="690" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -926,7 +932,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="443">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6234" y="822" />
+                <Position x="6234" y="786" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -958,7 +964,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="444">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6330" y="821" />
+                <Position x="6330" y="785" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -985,7 +991,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="445">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6246" y="918" />
+                <Position x="6246" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1017,7 +1023,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="446">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6342" y="918" />
+                <Position x="6342" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1044,7 +1050,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="447">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6258" y="1002" />
+                <Position x="6258" y="966" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1076,7 +1082,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="448">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6354" y="1002" />
+                <Position x="6354" y="966" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1103,7 +1109,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="449">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6270" y="1074" />
+                <Position x="6270" y="1038" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1135,7 +1141,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="450">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6366" y="1074" />
+                <Position x="6366" y="1038" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1162,7 +1168,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="451">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6282" y="1170" />
+                <Position x="6282" y="1134" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1194,7 +1200,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="452">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6378" y="1170" />
+                <Position x="6378" y="1134" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1221,7 +1227,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="453">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6294" y="1266" />
+                <Position x="6294" y="1230" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1253,7 +1259,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="454">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6390" y="1266" />
+                <Position x="6390" y="1230" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1280,7 +1286,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="455">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6306" y="1350" />
+                <Position x="6306" y="1314" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1312,7 +1318,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="456">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6402" y="1350" />
+                <Position x="6402" y="1314" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1339,7 +1345,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="457">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6330" y="1446" />
+                <Position x="6330" y="1410" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1371,7 +1377,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="458">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6426" y="1446" />
+                <Position x="6426" y="1410" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1398,7 +1404,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="459">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5610" y="594" />
+                <Position x="5610" y="558" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -1433,7 +1439,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="460">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5718" y="594" />
+                <Position x="5718" y="558" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1478,7 +1484,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="461">
               <GuiSettings>
-                <Position x="5802" y="594" />
+                <Position x="5802" y="558" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1506,7 +1512,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="462">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5910" y="594" />
+                <Position x="5910" y="558" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1524,7 +1530,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="463">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5526" y="606" />
+                <Position x="5526" y="570" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1557,7 +1563,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="548">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5394" y="618" width="114" height="24" />
+            <Position x="5394" y="582" width="114" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1576,7 +1582,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="521">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6090" y="666" />
+                <Position x="6090" y="630" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1608,7 +1614,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="522">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6186" y="666" />
+                <Position x="6186" y="630" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1635,7 +1641,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="523">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6102" y="762" />
+                <Position x="6102" y="726" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1667,7 +1673,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="524">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6198" y="762" />
+                <Position x="6198" y="726" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1694,7 +1700,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="525">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="870" />
+                <Position x="6126" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1726,7 +1732,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="526">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="870" />
+                <Position x="6222" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1753,7 +1759,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="527">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="966" />
+                <Position x="6126" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1785,7 +1791,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="528">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="966" />
+                <Position x="6222" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1812,7 +1818,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="529">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6138" y="1062" />
+                <Position x="6138" y="1026" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1844,7 +1850,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="530">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6234" y="1062" />
+                <Position x="6234" y="1026" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1871,7 +1877,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="531">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6150" y="1146" />
+                <Position x="6150" y="1110" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1903,7 +1909,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="532">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6246" y="1146" />
+                <Position x="6246" y="1110" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1930,7 +1936,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="533">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6162" y="1218" />
+                <Position x="6162" y="1182" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1962,7 +1968,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="534">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6258" y="1217" />
+                <Position x="6258" y="1181" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -1989,7 +1995,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="535">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6174" y="1314" />
+                <Position x="6174" y="1278" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2021,7 +2027,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="536">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6270" y="1314" />
+                <Position x="6270" y="1278" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2048,7 +2054,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="537">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="1410" />
+                <Position x="6186" y="1374" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2080,7 +2086,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="538">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="1410" />
+                <Position x="6282" y="1374" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2107,7 +2113,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="539">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6198" y="1494" />
+                <Position x="6198" y="1458" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2139,7 +2145,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="540">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6294" y="1494" />
+                <Position x="6294" y="1458" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2166,7 +2172,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="541">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6222" y="1590" />
+                <Position x="6222" y="1554" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2198,7 +2204,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="542">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6318" y="1590" />
+                <Position x="6318" y="1554" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2225,7 +2231,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="543">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5502" y="738" />
+                <Position x="5502" y="702" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -2260,7 +2266,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="544">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5610" y="738" />
+                <Position x="5610" y="702" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2305,7 +2311,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="545">
               <GuiSettings>
-                <Position x="5694" y="738" />
+                <Position x="5694" y="702" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2333,7 +2339,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="546">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5802" y="738" />
+                <Position x="5802" y="702" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2351,7 +2357,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="547">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5418" y="750" />
+                <Position x="5418" y="714" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2384,7 +2390,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="324">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5298" y="221" width="134" height="24" />
+            <Position x="5298" y="185" width="134" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2403,7 +2409,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="302">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5994" y="269" />
+                <Position x="5994" y="233" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2435,7 +2441,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="303">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6090" y="269" />
+                <Position x="6090" y="233" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2462,7 +2468,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="304">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6006" y="365" />
+                <Position x="6006" y="329" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2494,7 +2500,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="305">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6102" y="365" />
+                <Position x="6102" y="329" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2521,7 +2527,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="306">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6030" y="473" />
+                <Position x="6030" y="437" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2553,7 +2559,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="307">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6126" y="473" />
+                <Position x="6126" y="436" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2580,7 +2586,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="308">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6030" y="570" />
+                <Position x="6030" y="534" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2612,7 +2618,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="309">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6126" y="569" />
+                <Position x="6126" y="533" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2639,7 +2645,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="310">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6042" y="665" />
+                <Position x="6042" y="629" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2671,7 +2677,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="311">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6138" y="666" />
+                <Position x="6138" y="630" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2698,7 +2704,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="312">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6054" y="750" />
+                <Position x="6054" y="714" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2730,7 +2736,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="313">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6150" y="749" />
+                <Position x="6150" y="713" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2757,7 +2763,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="314">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6066" y="822" />
+                <Position x="6066" y="786" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2789,7 +2795,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="315">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6162" y="821" />
+                <Position x="6162" y="785" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2816,7 +2822,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="316">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6078" y="918" />
+                <Position x="6078" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2848,7 +2854,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="317">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6174" y="917" />
+                <Position x="6174" y="881" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2875,7 +2881,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="318">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6090" y="1014" />
+                <Position x="6090" y="977" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2907,7 +2913,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="319">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6186" y="1014" />
+                <Position x="6186" y="977" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2934,7 +2940,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="320">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6102" y="1098" />
+                <Position x="6102" y="1062" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2966,7 +2972,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="321">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6198" y="1098" />
+                <Position x="6198" y="1062" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -2993,7 +2999,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="322">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="1194" />
+                <Position x="6126" y="1158" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3025,7 +3031,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="323">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="1194" />
+                <Position x="6222" y="1158" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3052,7 +3058,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="275">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5406" y="341" />
+                <Position x="5406" y="305" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -3087,7 +3093,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="276">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5514" y="341" />
+                <Position x="5514" y="305" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3132,7 +3138,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="277">
               <GuiSettings>
-                <Position x="5598" y="341" />
+                <Position x="5598" y="305" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3160,7 +3166,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="278">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5706" y="341" />
+                <Position x="5706" y="305" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3178,7 +3184,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="271">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5322" y="353" />
+                <Position x="5322" y="317" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3211,7 +3217,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="352">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5334" y="270" width="131" height="24" />
+            <Position x="5334" y="234" width="131" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3230,7 +3236,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="325">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6030" y="318" />
+                <Position x="6030" y="282" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3262,7 +3268,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="326">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6126" y="318" />
+                <Position x="6126" y="282" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3289,7 +3295,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="327">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6042" y="414" />
+                <Position x="6042" y="378" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3321,7 +3327,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="328">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6138" y="414" />
+                <Position x="6138" y="378" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3348,7 +3354,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="329">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6066" y="522" />
+                <Position x="6066" y="486" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3380,7 +3386,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="330">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6162" y="522" />
+                <Position x="6162" y="486" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3407,7 +3413,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="331">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6066" y="618" />
+                <Position x="6066" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3439,7 +3445,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="332">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6162" y="618" />
+                <Position x="6162" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3466,7 +3472,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="333">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6078" y="714" />
+                <Position x="6078" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3498,7 +3504,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="334">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6174" y="714" />
+                <Position x="6174" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3525,7 +3531,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="335">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6090" y="798" />
+                <Position x="6090" y="762" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3557,7 +3563,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="336">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6186" y="798" />
+                <Position x="6186" y="762" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3584,7 +3590,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="337">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6102" y="870" />
+                <Position x="6102" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3616,7 +3622,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="338">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6198" y="870" />
+                <Position x="6198" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3643,7 +3649,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="339">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6114" y="966" />
+                <Position x="6114" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3675,7 +3681,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="340">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6210" y="966" />
+                <Position x="6210" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3702,7 +3708,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="341">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="1062" />
+                <Position x="6126" y="1026" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3734,7 +3740,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="342">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="1062" />
+                <Position x="6222" y="1026" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3761,7 +3767,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="343">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6138" y="1146" />
+                <Position x="6138" y="1110" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3793,7 +3799,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="344">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6234" y="1146" />
+                <Position x="6234" y="1110" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3820,7 +3826,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="345">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6162" y="1242" />
+                <Position x="6162" y="1206" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3852,7 +3858,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="346">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6258" y="1242" />
+                <Position x="6258" y="1206" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3879,7 +3885,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="347">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5442" y="390" />
+                <Position x="5442" y="354" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -3914,7 +3920,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="348">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5550" y="390" />
+                <Position x="5550" y="354" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3959,7 +3965,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="349">
               <GuiSettings>
-                <Position x="5634" y="390" />
+                <Position x="5634" y="354" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -3987,7 +3993,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="350">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5742" y="390" />
+                <Position x="5742" y="354" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4005,7 +4011,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="351">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5358" y="402" />
+                <Position x="5358" y="366" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4038,7 +4044,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="380">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5394" y="305" width="132" height="24" />
+            <Position x="5394" y="269" width="132" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -4057,7 +4063,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="353">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6090" y="353" />
+                <Position x="6090" y="317" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4089,7 +4095,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="354">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6186" y="353" />
+                <Position x="6186" y="317" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4116,7 +4122,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="355">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6102" y="449" />
+                <Position x="6102" y="413" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4148,7 +4154,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="356">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6198" y="449" />
+                <Position x="6198" y="413" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4175,7 +4181,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="357">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="558" />
+                <Position x="6126" y="522" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4207,7 +4213,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="358">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="558" />
+                <Position x="6222" y="522" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4234,7 +4240,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="359">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="654" />
+                <Position x="6126" y="618" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4266,7 +4272,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="360">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="654" />
+                <Position x="6222" y="618" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4293,7 +4299,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="361">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6138" y="750" />
+                <Position x="6138" y="714" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4325,7 +4331,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="362">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6234" y="750" />
+                <Position x="6234" y="714" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4352,7 +4358,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="363">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6150" y="834" />
+                <Position x="6150" y="798" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4384,7 +4390,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="364">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6246" y="834" />
+                <Position x="6246" y="798" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4411,7 +4417,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="365">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6162" y="906" />
+                <Position x="6162" y="870" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4443,7 +4449,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="366">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6258" y="906" />
+                <Position x="6258" y="870" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4470,7 +4476,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="367">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6174" y="1002" />
+                <Position x="6174" y="966" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4502,7 +4508,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="368">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6270" y="1002" />
+                <Position x="6270" y="966" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4529,7 +4535,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="369">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="1098" />
+                <Position x="6186" y="1062" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4561,7 +4567,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="370">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="1098" />
+                <Position x="6282" y="1062" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4588,7 +4594,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="371">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6198" y="1182" />
+                <Position x="6198" y="1146" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4620,7 +4626,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="372">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6294" y="1182" />
+                <Position x="6294" y="1146" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4647,7 +4653,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="373">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6222" y="1278" />
+                <Position x="6222" y="1242" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4679,7 +4685,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="374">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6318" y="1278" />
+                <Position x="6318" y="1242" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4706,7 +4712,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="375">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5502" y="425" />
+                <Position x="5502" y="389" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -4741,7 +4747,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="376">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5610" y="425" />
+                <Position x="5610" y="389" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4786,7 +4792,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="377">
               <GuiSettings>
-                <Position x="5694" y="425" />
+                <Position x="5694" y="389" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4814,7 +4820,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="378">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5802" y="425" />
+                <Position x="5802" y="389" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4832,7 +4838,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="379">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5418" y="437" />
+                <Position x="5418" y="401" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4865,7 +4871,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="408">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5454" y="366" width="110" height="24" />
+            <Position x="5454" y="330" width="110" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -4884,7 +4890,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="381">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6150" y="414" />
+                <Position x="6150" y="378" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4916,7 +4922,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="382">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6246" y="414" />
+                <Position x="6246" y="378" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4943,7 +4949,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="383">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6162" y="510" />
+                <Position x="6162" y="474" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -4975,7 +4981,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="384">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6258" y="510" />
+                <Position x="6258" y="474" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5002,7 +5008,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="385">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="618" />
+                <Position x="6186" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5034,7 +5040,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="386">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="618" />
+                <Position x="6282" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5061,7 +5067,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="387">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="714" />
+                <Position x="6186" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5093,7 +5099,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="388">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="714" />
+                <Position x="6282" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5120,7 +5126,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="389">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6198" y="810" />
+                <Position x="6198" y="774" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5152,7 +5158,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="390">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6294" y="810" />
+                <Position x="6294" y="774" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5179,7 +5185,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="391">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="894" />
+                <Position x="6210" y="857" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5211,7 +5217,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="392">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="894" />
+                <Position x="6306" y="858" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5238,7 +5244,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="393">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6222" y="965" />
+                <Position x="6222" y="929" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5270,7 +5276,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="394">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6318" y="966" />
+                <Position x="6318" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5297,7 +5303,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="395">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6234" y="1062" />
+                <Position x="6234" y="1026" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5329,7 +5335,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="396">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6330" y="1062" />
+                <Position x="6330" y="1026" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5356,7 +5362,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="397">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6246" y="1158" />
+                <Position x="6246" y="1122" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5388,7 +5394,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="398">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6342" y="1158" />
+                <Position x="6342" y="1122" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5415,7 +5421,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="399">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6258" y="1242" />
+                <Position x="6258" y="1206" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5447,7 +5453,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="400">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6354" y="1242" />
+                <Position x="6354" y="1206" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5474,7 +5480,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="401">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6282" y="1338" />
+                <Position x="6282" y="1302" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5506,7 +5512,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="402">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6378" y="1338" />
+                <Position x="6378" y="1302" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5533,7 +5539,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="403">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5562" y="486" />
+                <Position x="5562" y="450" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -5568,7 +5574,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="404">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5670" y="486" />
+                <Position x="5670" y="450" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5613,7 +5619,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="405">
               <GuiSettings>
-                <Position x="5754" y="486" />
+                <Position x="5754" y="450" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5641,7 +5647,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="406">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5862" y="486" />
+                <Position x="5862" y="450" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5659,7 +5665,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="407">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5478" y="498" />
+                <Position x="5478" y="462" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5692,7 +5698,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="436">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5478" y="426" width="119" height="24" />
+            <Position x="5478" y="390" width="119" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -5711,7 +5717,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="409">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6174" y="474" />
+                <Position x="6174" y="438" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5743,7 +5749,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="410">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6270" y="474" />
+                <Position x="6270" y="438" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5770,7 +5776,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="411">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="570" />
+                <Position x="6186" y="534" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5802,7 +5808,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="412">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="570" />
+                <Position x="6282" y="534" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5829,7 +5835,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="413">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="678" />
+                <Position x="6210" y="642" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5861,7 +5867,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="414">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="678" />
+                <Position x="6306" y="642" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5888,7 +5894,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="415">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="774" />
+                <Position x="6210" y="738" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5920,7 +5926,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="416">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="774" />
+                <Position x="6306" y="738" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5947,7 +5953,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="417">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6222" y="870" />
+                <Position x="6222" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -5979,7 +5985,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="418">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6318" y="870" />
+                <Position x="6318" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6006,7 +6012,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="419">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6234" y="954" />
+                <Position x="6234" y="918" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6038,7 +6044,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="420">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6330" y="954" />
+                <Position x="6330" y="918" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6065,7 +6071,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="421">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6246" y="1026" />
+                <Position x="6246" y="990" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6097,7 +6103,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="422">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6342" y="1026" />
+                <Position x="6342" y="989" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6124,7 +6130,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="423">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6258" y="1122" />
+                <Position x="6258" y="1086" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6156,7 +6162,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="424">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6354" y="1122" />
+                <Position x="6354" y="1086" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6183,7 +6189,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="425">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6270" y="1218" />
+                <Position x="6270" y="1182" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6215,7 +6221,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="426">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6366" y="1218" />
+                <Position x="6366" y="1182" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6242,7 +6248,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="427">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6282" y="1302" />
+                <Position x="6282" y="1266" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6274,7 +6280,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="428">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6378" y="1302" />
+                <Position x="6378" y="1266" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6301,7 +6307,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="429">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6306" y="1398" />
+                <Position x="6306" y="1362" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6333,7 +6339,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="430">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6402" y="1398" />
+                <Position x="6402" y="1362" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6360,7 +6366,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="431">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5586" y="546" />
+                <Position x="5586" y="510" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -6395,7 +6401,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="432">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5694" y="546" />
+                <Position x="5694" y="510" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6440,7 +6446,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="433">
               <GuiSettings>
-                <Position x="5778" y="546" />
+                <Position x="5778" y="510" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6468,7 +6474,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="434">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5886" y="546" />
+                <Position x="5886" y="510" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6486,7 +6492,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="435">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5502" y="558" />
+                <Position x="5502" y="522" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6519,7 +6525,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="492">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5478" y="522" width="135" height="24" />
+            <Position x="5478" y="486" width="135" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -6538,7 +6544,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="465">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6174" y="570" />
+                <Position x="6174" y="534" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6570,7 +6576,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="466">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6270" y="570" />
+                <Position x="6270" y="534" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6597,7 +6603,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="467">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="666" />
+                <Position x="6186" y="630" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6629,7 +6635,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="468">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="666" />
+                <Position x="6282" y="630" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6656,7 +6662,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="469">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="774" />
+                <Position x="6210" y="738" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6688,7 +6694,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="470">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="774" />
+                <Position x="6306" y="738" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6715,7 +6721,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="471">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="870" />
+                <Position x="6210" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6747,7 +6753,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="472">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="870" />
+                <Position x="6306" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6774,7 +6780,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="473">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6222" y="966" />
+                <Position x="6222" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6806,7 +6812,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="474">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6318" y="966" />
+                <Position x="6318" y="930" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6833,7 +6839,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="475">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6234" y="1050" />
+                <Position x="6234" y="1014" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6865,7 +6871,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="476">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6330" y="1050" />
+                <Position x="6330" y="1014" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6892,7 +6898,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="477">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6246" y="1122" />
+                <Position x="6246" y="1086" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6924,7 +6930,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="478">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6342" y="1122" />
+                <Position x="6342" y="1086" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6951,7 +6957,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="479">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6258" y="1218" />
+                <Position x="6258" y="1182" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -6983,7 +6989,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="480">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6354" y="1218" />
+                <Position x="6354" y="1182" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7010,7 +7016,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="481">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6270" y="1314" />
+                <Position x="6270" y="1278" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7042,7 +7048,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="482">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6366" y="1314" />
+                <Position x="6366" y="1278" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7069,7 +7075,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="483">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6282" y="1398" />
+                <Position x="6282" y="1362" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7101,7 +7107,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="484">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6378" y="1398" />
+                <Position x="6378" y="1362" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7128,7 +7134,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="485">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6306" y="1494" />
+                <Position x="6306" y="1458" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7160,7 +7166,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="486">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6402" y="1494" />
+                <Position x="6402" y="1458" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7187,7 +7193,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="487">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5586" y="642" />
+                <Position x="5586" y="606" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -7222,7 +7228,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="488">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5694" y="642" />
+                <Position x="5694" y="606" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7267,7 +7273,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="489">
               <GuiSettings>
-                <Position x="5778" y="642" />
+                <Position x="5778" y="606" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7295,7 +7301,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="490">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5886" y="642" />
+                <Position x="5886" y="606" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7313,7 +7319,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="491">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5502" y="654" />
+                <Position x="5502" y="618" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7346,7 +7352,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="520">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5454" y="570" width="127" height="24" />
+            <Position x="5454" y="534" width="127" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -7365,7 +7371,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="493">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6150" y="618" />
+                <Position x="6150" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7397,7 +7403,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="494">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6246" y="618" />
+                <Position x="6246" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7424,7 +7430,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="495">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6162" y="714" />
+                <Position x="6162" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7456,7 +7462,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="496">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6258" y="714" />
+                <Position x="6258" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7483,7 +7489,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="497">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="822" />
+                <Position x="6186" y="786" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7515,7 +7521,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="498">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="822" />
+                <Position x="6282" y="786" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7542,7 +7548,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="499">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6186" y="918" />
+                <Position x="6186" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7574,7 +7580,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="500">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6282" y="918" />
+                <Position x="6282" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7601,7 +7607,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="501">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6198" y="1014" />
+                <Position x="6198" y="978" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7633,7 +7639,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="502">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6294" y="1014" />
+                <Position x="6294" y="978" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7660,7 +7666,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="503">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6210" y="1098" />
+                <Position x="6210" y="1062" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7692,7 +7698,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="504">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6306" y="1098" />
+                <Position x="6306" y="1062" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7719,7 +7725,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="505">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6222" y="1170" />
+                <Position x="6222" y="1134" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7751,7 +7757,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="506">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6318" y="1170" />
+                <Position x="6318" y="1134" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7778,7 +7784,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="507">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6234" y="1266" />
+                <Position x="6234" y="1230" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7810,7 +7816,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="508">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6330" y="1266" />
+                <Position x="6330" y="1230" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7837,7 +7843,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="509">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6246" y="1362" />
+                <Position x="6246" y="1326" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7869,7 +7875,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="510">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6342" y="1362" />
+                <Position x="6342" y="1326" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7896,7 +7902,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="511">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6258" y="1446" />
+                <Position x="6258" y="1410" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7928,7 +7934,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="512">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6354" y="1446" />
+                <Position x="6354" y="1410" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7955,7 +7961,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="513">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6282" y="1542" />
+                <Position x="6282" y="1506" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -7987,7 +7993,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="514">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6378" y="1542" />
+                <Position x="6378" y="1506" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8014,7 +8020,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="515">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5562" y="690" />
+                <Position x="5562" y="654" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -8049,7 +8055,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="516">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5670" y="690" />
+                <Position x="5670" y="654" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8094,7 +8100,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="517">
               <GuiSettings>
-                <Position x="5754" y="690" />
+                <Position x="5754" y="654" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8122,7 +8128,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="518">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5862" y="690" />
+                <Position x="5862" y="654" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8140,7 +8146,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="519">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5478" y="702" />
+                <Position x="5478" y="666" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8173,7 +8179,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="576">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5334" y="666" width="104" height="24" />
+            <Position x="5334" y="630" width="104" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -8192,7 +8198,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="549">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6030" y="714" />
+                <Position x="6030" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8224,7 +8230,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="550">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6126" y="714" />
+                <Position x="6126" y="678" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8251,7 +8257,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="551">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6042" y="810" />
+                <Position x="6042" y="774" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8283,7 +8289,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="552">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6138" y="810" />
+                <Position x="6138" y="774" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8310,7 +8316,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="553">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6066" y="918" />
+                <Position x="6066" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8342,7 +8348,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="554">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6162" y="918" />
+                <Position x="6162" y="882" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8369,7 +8375,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="555">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6066" y="1014" />
+                <Position x="6066" y="978" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8401,7 +8407,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="556">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6162" y="1014" />
+                <Position x="6162" y="978" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8428,7 +8434,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="557">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6078" y="1110" />
+                <Position x="6078" y="1074" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8460,7 +8466,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="558">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6174" y="1110" />
+                <Position x="6174" y="1074" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8487,7 +8493,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="559">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6090" y="1194" />
+                <Position x="6090" y="1158" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8519,7 +8525,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="560">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6186" y="1194" />
+                <Position x="6186" y="1158" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8546,7 +8552,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="561">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6102" y="1266" />
+                <Position x="6102" y="1230" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8578,7 +8584,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="562">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6198" y="1266" />
+                <Position x="6198" y="1230" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8605,7 +8611,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="563">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6114" y="1362" />
+                <Position x="6114" y="1326" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8637,7 +8643,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="564">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6210" y="1362" />
+                <Position x="6210" y="1326" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8664,7 +8670,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="565">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6126" y="1458" />
+                <Position x="6126" y="1422" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8696,7 +8702,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="566">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6222" y="1458" />
+                <Position x="6222" y="1422" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8723,7 +8729,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="567">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6138" y="1542" />
+                <Position x="6138" y="1506" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8755,7 +8761,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="568">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6234" y="1542" />
+                <Position x="6234" y="1506" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8782,7 +8788,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="569">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6162" y="1638" />
+                <Position x="6162" y="1602" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8814,7 +8820,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="570">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6258" y="1638" />
+                <Position x="6258" y="1602" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8841,7 +8847,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="571">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5442" y="786" />
+                <Position x="5442" y="750" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -8876,7 +8882,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="572">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5550" y="786" />
+                <Position x="5550" y="750" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8921,7 +8927,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="573">
               <GuiSettings>
-                <Position x="5634" y="786" />
+                <Position x="5634" y="750" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8949,7 +8955,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="574">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5742" y="786" />
+                <Position x="5742" y="750" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -8967,7 +8973,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="575">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5358" y="798" />
+                <Position x="5358" y="762" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9000,7 +9006,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="604">
           <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="5189" y="173" width="133" height="24" />
+            <Position x="5189" y="137" width="133" height="24" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -9019,7 +9025,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
           <ChildNodes>
             <Node ToolID="577">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5886" y="222" />
+                <Position x="5886" y="186" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9051,7 +9057,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="578">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="5982" y="222" />
+                <Position x="5982" y="186" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9078,7 +9084,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="579">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5898" y="318" />
+                <Position x="5898" y="282" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9110,7 +9116,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="580">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="5994" y="318" />
+                <Position x="5994" y="282" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9137,7 +9143,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="581">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5922" y="426" />
+                <Position x="5922" y="390" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9169,7 +9175,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="582">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6018" y="426" />
+                <Position x="6018" y="390" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9196,7 +9202,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="583">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5922" y="522" />
+                <Position x="5922" y="486" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9228,7 +9234,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="584">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6018" y="522" />
+                <Position x="6018" y="486" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9255,7 +9261,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="585">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5934" y="618" />
+                <Position x="5934" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9287,7 +9293,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="586">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6030" y="618" />
+                <Position x="6030" y="582" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9314,7 +9320,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="587">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5946" y="702" />
+                <Position x="5946" y="666" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9346,7 +9352,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="588">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6042" y="702" />
+                <Position x="6042" y="666" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9373,7 +9379,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="589">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5958" y="774" />
+                <Position x="5958" y="738" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9405,7 +9411,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="590">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6054" y="774" />
+                <Position x="6054" y="738" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9432,7 +9438,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="591">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5970" y="870" />
+                <Position x="5970" y="834" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9464,7 +9470,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="592">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6066" y="869" />
+                <Position x="6066" y="833" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9491,7 +9497,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="593">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5982" y="965" />
+                <Position x="5982" y="929" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9523,7 +9529,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="594">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6078" y="965" />
+                <Position x="6078" y="929" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9545,15 +9551,12 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
                   <DefaultAnnotationText>Satellites_2017_IDN.csv</DefaultAnnotationText>
                   <Left value="False" />
                 </Annotation>
-                <Dependencies>
-                  <Implicit />
-                </Dependencies>
               </Properties>
               <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
             </Node>
             <Node ToolID="595">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="5994" y="1050" />
+                <Position x="5994" y="1014" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9585,7 +9588,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="596">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6090" y="1050" />
+                <Position x="6090" y="1014" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9607,15 +9610,12 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
                   <DefaultAnnotationText>Satellites_2018_IDN.csv</DefaultAnnotationText>
                   <Left value="False" />
                 </Annotation>
-                <Dependencies>
-                  <Implicit />
-                </Dependencies>
               </Properties>
               <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
             </Node>
             <Node ToolID="597">
               <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-                <Position x="6018" y="1146" />
+                <Position x="6018" y="1110" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9647,7 +9647,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="598">
               <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-                <Position x="6114" y="1146" />
+                <Position x="6114" y="1110" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9674,7 +9674,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="599">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-                <Position x="5298" y="294" />
+                <Position x="5298" y="258" />
               </GuiSettings>
               <Properties>
                 <Configuration joinByRecordPos="False">
@@ -9709,7 +9709,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="600">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-                <Position x="5406" y="294" />
+                <Position x="5406" y="258" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9754,7 +9754,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="601">
               <GuiSettings>
-                <Position x="5490" y="294" />
+                <Position x="5490" y="258" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9782,7 +9782,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="602">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-                <Position x="5598" y="294" />
+                <Position x="5598" y="258" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9800,7 +9800,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
             </Node>
             <Node ToolID="603">
               <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-                <Position x="5214" y="305" />
+                <Position x="5214" y="269" />
               </GuiSettings>
               <Properties>
                 <Configuration>
@@ -9835,7 +9835,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="240">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1207" y="304" width="1152" height="346" />
+        <Position x="1207" y="268" width="1152" height="346" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -9853,7 +9853,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="74">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1232" y="378" />
+            <Position x="1232" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -9884,7 +9884,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="75">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1400" y="378" />
+            <Position x="1400" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -9915,7 +9915,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="76">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="1736" y="366" />
+            <Position x="1736" y="330" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -9936,7 +9936,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="77">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1808" y="366" />
+            <Position x="1808" y="330" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -9968,7 +9968,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="78">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2048" y="354" />
+            <Position x="2048" y="318" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -9989,7 +9989,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="79">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2228" y="353" />
+            <Position x="2228" y="317" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10008,7 +10008,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="195">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1856" y="546" />
+            <Position x="1856" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10028,7 +10028,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="196">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1976" y="546" />
+            <Position x="1976" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10060,7 +10060,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="197">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="2084" y="534" />
+            <Position x="2084" y="498" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10080,7 +10080,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="199">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2180" y="534" />
+            <Position x="2180" y="498" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10101,7 +10101,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="146">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="54" y="197" width="902" height="441" />
+        <Position x="54" y="161" width="902" height="441" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -10119,7 +10119,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="7">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="429" y="294" />
+            <Position x="429" y="258" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -10151,7 +10151,7 @@ Query=`Inter-Industry$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="8">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="393" y="462" />
+            <Position x="393" y="426" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10181,7 +10181,7 @@ Query=`aez_FAO_vs_GTAP$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="9">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="765" y="342" />
+            <Position x="765" y="306" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -10214,7 +10214,7 @@ Query=`aez_FAO_vs_GTAP$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="11">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="79" y="401" />
+            <Position x="79" y="365" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10242,7 +10242,7 @@ Query=`HILDA_dynamics$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="12">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="152" y="257" />
+            <Position x="152" y="221" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10263,7 +10263,7 @@ Query=`HILDA_dynamics$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="15">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="872" y="342" />
+            <Position x="872" y="306" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10283,7 +10283,7 @@ Query=`HILDA_dynamics$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="17">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="165" y="366" />
+            <Position x="165" y="330" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10304,7 +10304,7 @@ Query=`HILDA_dynamics$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="18">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="273" y="246" />
+            <Position x="273" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10335,7 +10335,7 @@ Query=`HILDA_dynamics$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="19">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="309" y="354" />
+            <Position x="309" y="318" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -10366,7 +10366,7 @@ Query=`HILDA_dynamics$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="266">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="79" y="257" />
+            <Position x="79" y="221" />
           </GuiSettings>
           <Properties>
             <Configuration>

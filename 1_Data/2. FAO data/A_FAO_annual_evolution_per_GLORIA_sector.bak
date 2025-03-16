@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<AlteryxDocument yxmdVer="2024.2" RunE2="T">
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
   <Nodes>
     <Node ToolID="43">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1760" y="811" />
+        <Position x="1758" y="846" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -34,7 +34,7 @@
     </Node>
     <Node ToolID="54">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="3106" y="872" />
+        <Position x="3104" y="907" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -78,7 +78,7 @@
     </Node>
     <Node ToolID="60">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="3332" y="871" />
+        <Position x="3330" y="906" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -100,7 +100,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="63">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="572" y="211" />
+        <Position x="570" y="246" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -131,7 +131,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="68">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="956" y="211" />
+        <Position x="954" y="246" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -183,7 +183,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="72">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="3500" y="871" />
+        <Position x="3498" y="906" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -194,8 +194,7 @@ Year - Ascending</DefaultAnnotationText>
             <PreserveFormat>False</PreserveFormat>
             <UNCLocal>False</UNCLocal>
             <SkipFieldNames>False</SkipFieldNames>
-            <SuppressBlankFile>False</SuppressBlankFile>
-            <OutputOption>RemoveFile</OutputOption>
+            <OutputOption>Create</OutputOption>
           </FormatSpecificOptions>
           <MultiFile value="False" />
         </Configuration>
@@ -213,7 +212,7 @@ Query=Sheet1</DefaultAnnotationText>
     </Node>
     <Node ToolID="42">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1063" y="642" width="652" height="369" />
+        <Position x="1061" y="677" width="652" height="369" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -231,7 +230,7 @@ Query=Sheet1</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="7">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="1172" y="691" />
+            <Position x="1170" y="726" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -253,7 +252,7 @@ Query=Sheet1</DefaultAnnotationText>
         </Node>
         <Node ToolID="8">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1280" y="691" />
+            <Position x="1278" y="726" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -275,7 +274,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="9">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="1412" y="691" />
+            <Position x="1410" y="726" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -302,7 +301,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="10">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1568" y="691" />
+            <Position x="1566" y="726" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -324,7 +323,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="12">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1088" y="835" />
+            <Position x="1086" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -346,7 +345,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="14">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1184" y="835" />
+            <Position x="1182" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -366,7 +365,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="40">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="1472" y="835" />
+            <Position x="1470" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -392,7 +391,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="41">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="1592" y="835" />
+            <Position x="1590" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -418,7 +417,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="55">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1280" y="835" />
+            <Position x="1278" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -436,7 +435,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="56">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1376" y="835" />
+            <Position x="1374" y="870" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -458,7 +457,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="6">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1088" y="691" />
+            <Position x="1086" y="726" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -490,7 +489,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="73">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="547" y="426" width="397" height="207" />
+        <Position x="545" y="461" width="397" height="207" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -509,7 +508,7 @@ Year - Ascending</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="65">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="668" y="475" />
+            <Position x="666" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -541,7 +540,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="66">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="776" y="475" />
+            <Position x="774" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -560,7 +559,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="67">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="860" y="475" />
+            <Position x="858" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -581,7 +580,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="71">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="572" y="487" />
+            <Position x="570" y="522" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -598,6 +597,9 @@ Year - Ascending</DefaultAnnotationText>
 Query=`Sheet1$`</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
             <MetaInfo connection="Output">
               <RecordInfo>
                 <Field name="Animal" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\2. FAO data\A-2_Head_per_ha.xlsx|||`Sheet1$`" type="V_String" />
@@ -612,7 +614,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="44">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="2035" y="617" width="901" height="208" />
+        <Position x="2033" y="652" width="901" height="207" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -630,7 +632,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="15">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="2132" y="738" />
+            <Position x="2130" y="773" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -650,7 +652,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="16">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="2252" y="679" />
+            <Position x="2250" y="714" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -684,7 +686,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="18">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2360" y="679" />
+            <Position x="2358" y="714" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -703,7 +705,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="21">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="2612" y="679" />
+            <Position x="2610" y="714" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -725,7 +727,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="22">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2492" y="679" />
+            <Position x="2490" y="714" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -748,7 +750,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="34">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
-            <Position x="2732" y="679" />
+            <Position x="2730" y="714" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -770,7 +772,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="35">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2852" y="679" />
+            <Position x="2850" y="714" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -805,7 +807,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="58">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2096" y="666" />
+            <Position x="2094" y="701" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -827,7 +829,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="57">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2060" y="739" />
+            <Position x="2058" y="774" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -850,7 +852,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="53">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1891" y="870" width="1127" height="252" />
+        <Position x="1889" y="905" width="1127" height="252" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -868,7 +870,7 @@ Year - Ascending</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="45">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2000" y="931" />
+            <Position x="1998" y="966" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -888,7 +890,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="46">
           <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="2156" y="979" />
+            <Position x="2154" y="1014" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -908,7 +910,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="47">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="2276" y="919" />
+            <Position x="2274" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -944,7 +946,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="48">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2384" y="919" />
+            <Position x="2382" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -963,7 +965,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="49">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="2636" y="919" />
+            <Position x="2634" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -985,7 +987,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="50">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2516" y="919" />
+            <Position x="2514" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1008,7 +1010,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="51">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
-            <Position x="2756" y="919" />
+            <Position x="2754" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1030,7 +1032,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="52">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2828" y="919" />
+            <Position x="2826" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1065,7 +1067,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="61">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1916" y="955" />
+            <Position x="1914" y="990" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1096,7 +1098,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="62">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2888" y="919" />
+            <Position x="2886" y="954" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1117,7 +1119,7 @@ Year - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="36">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="54" y="54" width="470" height="345" />
+        <Position x="52" y="89" width="469" height="345" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1136,7 +1138,7 @@ Year - Ascending</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="3">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="356" y="103" />
+            <Position x="354" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1153,7 +1155,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="5">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="440" y="211" />
+            <Position x="438" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -1187,7 +1189,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="32">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="164" y="114" />
+            <Position x="162" y="149" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1213,7 +1215,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="33">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="260" y="115" />
+            <Position x="258" y="150" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1244,7 +1246,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="69">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="79" y="115" />
+            <Position x="77" y="150" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1268,6 +1270,9 @@ Year - Ascending</DefaultAnnotationText>
               <DefaultAnnotationText>Production_Crops_Livestock_E_All_Data_(Normalized).csv</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
             <MetaInfo connection="Output">
               <RecordInfo>
                 <Field name="Area Code" size="254" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\2. FAO data\1. Production_Crops_Livestock_E_All_Data_(Normalized)\Production_Crops_Livestock_E_All_Data_(Normalized).csv" type="V_String" />
@@ -1290,7 +1295,7 @@ Year - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="70">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="79" y="223" />
+            <Position x="77" y="258" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1307,6 +1312,9 @@ Year - Ascending</DefaultAnnotationText>
 Query=`Mapping$`</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
             <MetaInfo connection="Output">
               <RecordInfo>
                 <Field name="HILDA+" size="255" source="File: C:\Users\etber\OneDrive - Danmarks Tekniske Universitet\Dokumenter\MRIOS\2022 IATRC Annual meeting\Full_article\1. Data\2. FAO data\A-1_FAO_Cropland_mapping_GLORIA.xlsx|||`Mapping$`" type="V_String" />
@@ -1339,10 +1347,6 @@ Query=`Mapping$`</DefaultAnnotationText>
     <Connection>
       <Origin ToolID="54" Connection="Output" />
       <Destination ToolID="60" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="60" Connection="Output" />
-      <Destination ToolID="72" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="63" Connection="False" />
@@ -1542,7 +1546,7 @@ Query=`Mapping$`</DefaultAnnotationText>
     <IsTemplate value="False" />
     <MetaInfo>
       <NameIsFileName value="True" />
-      <Name>A_FAO_annual_evolution_per_GLORIA_sector</Name>
+      <Name>A_FAO_annual_evolution_per_sector_14062023_GLORIA</Name>
       <Description />
       <RootToolName />
       <ToolVersion />

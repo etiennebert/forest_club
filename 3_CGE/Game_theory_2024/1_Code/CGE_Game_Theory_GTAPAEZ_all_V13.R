@@ -1,23 +1,54 @@
+## README
 
-## Read ME - Start -
-# Right now the program loop over the four different scenarios. 
-# It stops the scenario x if there is no equilibrium after 300 iterations
-# In the case you want to run the four scenario just press ctrl + alt + R (PS: don't forget to uncomment section ##Package installation if you run it for the first time )
-# In the case you want to run one particular scenario (and not the four at one): See section ##scenario
+### Overview
+#This R script loops over four different scenarios to simulate a Computable General Equilibrium (CGE) model using GEMPACK. By default, it halts each scenario if there is no convergence (equilibrium) after **50 iterations**.
 
-## Parameters that can be modify if relevant:
-#qo = located in this script ##External values 
-#afe = located in this script ##External values 
-## Read ME - End
+### How to Run All Scenarios
+#- Simply press F5 to run the script in its entirety.
+#- **Important:** If this is your first time running the script, make sure you **uncomment** the package-installation lines (see the section titled `##Package installation`) and run them once to install necessary libraries.
+
+### How to Run a Single Scenario or a single parameter
+#- Find **lines 146** and **151** in the code (where `##scenario` appears).
+#- Comment out the scenarios you do **not** want to run, and uncomment the one you intend to run.
+#- Then execute the script (e.g., **Ctrl + Alt + R** in RStudio).
+
+### Modifiable Parameters
+#You can adjust the following files, all located in the folder: ...\runGTAP375\Game_theory_2024\0_External_data\
+
+#1. **qoes_values.xlsx**  
+#2. **qxw_values.xlsx**  
+#3. **qo_values.xlsx**  
+#4. **tms_f_initial_shocks.xlsx**  
+#5. **Original_EV.xlsx**  
+
+#These contain parameter values for each scenario, including shocks and initial equilibrium values.
+
+### Thresholds (Table S6, Supplementary Information)
+#- Each scenario folder contains a file named `Thresholds_GTAPAEZ_Game_theory.xlsx`, corresponding to the threshold values mentioned in **Table S6** of the SI.
+#- You can find these files in: ...\runGTAP375\Game_theory_2024\0_External_data\Scenario_Folder
+
+#- Editing these thresholds in the Excel file will directly change the scenario’s behavior in the R script.
+
+#Last, if you want to iterate over more than 50 iterations, example iteration n, you need to adjust:
+# "if (2<i && i<49){" line 726 to "if (2<i && i<n-1){"
+#(...)
+#  if (i == 50){ line 739 to if (i == n)
+#(...)
+
+#---
+
+#**End of README**  
+
+#*For further details, please refer to the comments throughout the R script.*  
 
 ## Package installation, 
 ## Run these lines only once to install the packages (do this only one time)
-install.packages('devtools')
-devtools::install_git('https://github.com/USDA-ERS/MTED-HARr.git')
-install.packages("readxl")
-install.packages("xlsx", dependencies=TRUE)
-install.packages("rJava")
-install.packages("xlsx")
+#install.packages('devtools')
+#devtools::install_git('https://github.com/USDA-ERS/MTED-HARr.git')
+#install.packages("readxl")
+#install.packages("xlsx", dependencies=TRUE)
+#install.packages("rJava")
+#install.packages("xlsx")
 
 #clear the environment
 rm(list = ls())
@@ -40,13 +71,9 @@ external_data_path <- file.path(parent_folder, "0_External_data/")
 
 setwd(GTAPAEZ_path)
 
-##External values 
-#Values qo to stop the deforestation based on HILDA+ V2_1 calculation
-# Function to process a sheet and create a list of named vectors
-
 # Import the data
 data_qo <- read_excel(paste0(external_data_path, "/qo_values.xlsx"))
-#data_tmsf <- read_excel(paste0(external_data_path, "/tms_f_initial_shocks.xlsx"))
+data_tmsf <- read_excel(paste0(external_data_path, "/tms_f_initial_shocks.xlsx"))
 data_qxw <- read_excel(paste0(external_data_path, "/qxw_values.xlsx"))
 
 # Function to process data
@@ -116,15 +143,12 @@ original_ev_new <- read_excel(paste0(external_data_path,"/Original_EV.xlsx"),she
 
 # Find the parameter to play with 
 # qo, qoes or qxw
-#list_parameter <- c("qxw")
 list_parameter <- c("qo","qoes","qxw")
 
 ## Scenarios
 # Un-comment the line below and comment the line above to run one single scenario
 scenarios <- c("Scenario_D")
 list_approach <- c( "Diplomatic","Idealist","Realistic_wo_china","Realistic_wi_china")
-#list_approach <- c()
-#list_approach <- c("Idealist")
 
 ## Reset from the previous calculation
 # Loop to iterate through each BU file
@@ -787,7 +811,6 @@ print(paste( scenario,"Processed"))
 }
 }
 }
-
 
 tableau_db <- data.frame()
 
