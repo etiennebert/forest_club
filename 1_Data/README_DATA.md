@@ -18,7 +18,7 @@ These contain the global crop states and transitions needed for the analysis.
 
 ### Usage Instructions
 Place the downloaded files in the appropriate directory (e.g., 1_Data/1. HILDA data/1. Extracting_ntcdf_data/1. HILDA_NTCDF_data).
-Install any dependencies required to read NetCDF files (for example, netCDF4, numpy, pandas).
+Install the dependencies required to read NetCDF files (e.g., netCDF4, numpy, pandas).
 Load the data in your workflow using Python or any other tool that handles NetCDF.
 
 #### 1. Python Environment
@@ -32,7 +32,7 @@ pip install numpy pandas netCDF4
 #### 2. Run the HILDA Extraction Script
 Open the terminal
 Navigate to the folder:
-1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
+...\1_Data\1. HILDA data\1. Extracting_ntcdf_data\1. HILDA_NTCDF_data
 
 Run the Python script:
 ```bash
