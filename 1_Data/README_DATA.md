@@ -86,7 +86,7 @@ Unzip the file named: 'Production_Crops_Livestock_E_All_Data_(Normalized).zip' l
 *Remark: If necessary this file can be dowloaded from FAO dataset*:  
 Go to FAO Crops and livestock products: https://www.fao.org/faostat/en/#data/QCL  
 Download the serie called: All data Normalized: https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip  
-Unzip it to 1_Data/2. FAO data/
+Unzip the downnload into the folder: 1_Data/2. FAO data/
 
 Run the following Alteryx scripts:
 ```bash
