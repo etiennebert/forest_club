@@ -75,7 +75,7 @@ These create the following databases:
 - C-2_HILDA_V_2_1_State_GTAP_AEZ_Centroid.yxdb
 - C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb
 - C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
-- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid.yxdb
 
 The HILDA data are now prepared for the CGE part also.
 
