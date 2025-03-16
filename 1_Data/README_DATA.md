@@ -54,10 +54,10 @@ Run:
 The script takes app. one and a half hours to run, depending of the configuration of your laptop.
 This produced four different yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
 Those databases are stored into the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
-- HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb (1.5 Go)
-- HILDA_V_2_1_Transition_data_Alteryx_DB_limited.yxdb  (0.8 Go)
+- HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb (2.6 Go)
+- HILDA_V_2_1_Transition_data_Alteryx_DB_limited.yxdb  (1.1 Go)
 - HILDA_V_2_1_State_data_Alteryx_DB_limited.yxdb (0.8 Go)
-- HILDA_V_2_1_State_Tagged_data_Alteryx_DB_centroid.yxdb (1.5 Go)
+- HILDA_V_2_1_State_Tagged_data_Alteryx_DB_centroid.yxdb (0.4 Go)
 
 Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
 
