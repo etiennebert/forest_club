@@ -89,7 +89,7 @@ Open the file 'NATDEF.cmf' located 3_CGE\Game_theory_2024\2_Model with a text ed
 - For both, adjust their paths as necessary.
 
 ### 3.3 Running the R Script
-Open your terminal command,  
+Open your terminal command and go to the correct folder,  
 ```bash
 cd ...\3. runGTAP375\Game_theory_2024\1_Code
 ```
