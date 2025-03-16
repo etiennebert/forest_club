@@ -105,7 +105,8 @@ The results are stored into the file: 'A-3_Output_FAO_annual_evolution_per_secto
 - B: Area Name
 - C: Year (all years between 2000 and 2020)
 - D: Simple Moving Average (SMA). See Suplementary Information for further information.
-- 
+- F: Positive area annual evolution
+- G: MRIO econmic sector
 
 
 ## Third step, preparing MRIO data
