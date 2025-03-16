@@ -111,8 +111,8 @@ By default, it halts each scenario if there is no convergence (equilibrium) afte
 
 FAQs:
 - How to Run a Single Scenario or a single parameter
-  - Find **lines 146** and **151** in the code (where `##scenario` appears).
-  - Comment out the scenarios you do **not** want to run, and uncomment the one you intend to run.
+  - Find **lines 146** and **151** in the code (where list_parameter <- c("qo","qoes","qxw") and list_approach <- c( "Diplomatic","Idealist","Realistic_wo_china","Realistic_wi_china") appear).
+  - Remove the the parameters/scenarios you do **not** want to run.
   - Then execute the script (e.g., F5 in RStudio).
 
 - How to adjust the previously calcualted parameters from HILDA:
