@@ -8,9 +8,9 @@
 #- **Important:** If this is your first time running the script, make sure you **uncomment** the package-installation lines (see the section titled `##Package installation`) and run them once to install necessary libraries.
 
 ### How to Run a Single Scenario or a single parameter
-#- Find **lines 146** and **151** in the code (where `##scenario` appears).
-#- Comment out the scenarios you do **not** want to run, and uncomment the one you intend to run.
-#- Then execute the script (e.g., **Ctrl + Alt + R** in RStudio).
+#- Find lines 146 and 151 in the code (where list_parameter <- c("qo","qoes","qxw") and list_approach <- c( "Diplomatic","Idealist","Realistic_wo_china","Realistic_wi_china") appear).
+#- Remove the the parameters/approach you do not want to run.
+#- Then execute the script (e.g., F5 in RStudio).
 
 ### Modifiable Parameters
 #You can adjust the following files, all located in the folder: ...\runGTAP375\Game_theory_2024\0_External_data\
