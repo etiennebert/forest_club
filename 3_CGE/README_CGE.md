@@ -72,22 +72,26 @@ These files are used in the CGE simulation to capture deforestation’s impact o
 The necessary coefficients, shocks, and swaps are now in place. The key parameters (Table S6 in the SI) are located in: 'C:\runGTAP375\Game_theory_2024\0_External_data'
 
 ### 3.1 Unzipping the Model Folder
-1. **Unzip the `2_Model` folder**. This folder contains:
+1. **Unzip the `2_Model.zip` folder**. This folder contains:
    - The **GTAP-AEZ executable** used during all iterations,
    - Necessary configuration files,
    - Other files required to run the GEMPACK simulation.
+
+To maintian the good links, cut and past the folder '2_Model' from '...\3_CGE\Game_theory_2024\2_Model\2_Model' to '...\3_CGE\Game_theory_2024\2_Model' 
+
 2. **Check `default.prm`** if you aim to update elasticity parameters (see SI 5.1). The relevant variable is `ETRAEL1` (elasticity of transformation between Forestry and Agriculture), updated from Miranda et al.
 
 ### 3.2 Updating Paths in `NATDEF.cmf`
 Within the `NATDEF.cmf` file, **lines 40 and 41** must reflect your chosen file path:
-40 Solution file = C:\runGTAP375\Game_theory_2024\2_Model\NATDEF.sl4;
-41 Updated file gtapDATA = C:\runGTAP375\Game_theory_2024\2_Model\gdata.upd;
-Adjust these paths as necessary.
+Open the file 'NATDEF.cmf' located 3_CGE\Game_theory_2024\2_Model with a text editor and edit the following lines:
+- 40 Solution file = C:\runGTAP375\Game_theory_2024\2_Model\NATDEF.sl4;
+- 41 Updated file gtapDATA = C:\runGTAP375\Game_theory_2024\2_Model\gdata.upd;
+For both, adjust their paths as necessary.
 
 ### 3.3 Running the R Script
-- Navigate to the `1_Code` folder and **run the R script**.
+- Navigate to the `1_Code` folder and **run the R script** 'CGE_Game_Theory_GTAPAEZ_all_V13.R'
 - This generates outputs such as `qoes`, `qo`, and `qxw` for each scenario.
-- **Oscillation Handling**: The program stops after 25 repeated oscillations, but this limit can be changed.  
+- **Oscillation Handling**: The program stops after 50 repeated oscillations, but this limit can be changed.  
 - **Simulation Time**: Each iteration takes anywhere from 1 minute to 1 hour, depending on the scenario.
 
 ### 3.4 Consolidating Results
