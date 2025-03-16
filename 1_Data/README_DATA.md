@@ -41,7 +41,8 @@ python 1_HILDA+_code_extraction.py
 This will generate extracted data in subfolders under:
 1_Data\1. HILDA data\1. Extracting_ntcdf_data
 
-(The script takes approximately half an hour to run).
+The script takes approximately half an hour to run.
+It creates the dedicated sub-folders and generates 72 csv files (size from 30 to 300Mo) with the relevant HILDA+ data encoded in csv files.
 
 #### 3. Alteryx Workflow Steps
 Open Alteryx Designer.
