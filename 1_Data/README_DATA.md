@@ -83,8 +83,8 @@ The HILDA data are now prepared for the CGE part also.
 
 Unzip the file named: 'Production_Crops_Livestock_E_All_Data_(Normalized).zip' located in the folder ...\1_Data\2. FAO data\1. Production_Crops_Livestock_E_All_Data_(Normalized)
 
-*Remark: If necessary this file can be dowloaded from FAO dataset:    
-Go to FAO Crops and livestock products: https://www.fao.org/faostat/en/#data/QCL 
+*Remark: If necessary this file can be dowloaded from FAO dataset*:  
+Go to FAO Crops and livestock products: https://www.fao.org/faostat/en/#data/QCL  
 Download the serie called: All data Normalized: https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip  
 Unzip it to 1_Data/2. FAO data/
 
