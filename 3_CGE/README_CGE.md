@@ -86,13 +86,54 @@ Within the `NATDEF.cmf` file, **lines 40 and 41** must reflect your chosen file 
 Open the file 'NATDEF.cmf' located 3_CGE\Game_theory_2024\2_Model with a text editor and edit the following lines:
 - 40 Solution file = C:\runGTAP375\Game_theory_2024\2_Model\NATDEF.sl4;
 - 41 Updated file gtapDATA = C:\runGTAP375\Game_theory_2024\2_Model\gdata.upd;
-For both, adjust their paths as necessary.
+- For both, adjust their paths as necessary.
 
 ### 3.3 Running the R Script
-- Navigate to the `1_Code` folder and **run the R script** 'CGE_Game_Theory_GTAPAEZ_all_V13.R'
-- This generates outputs such as `qoes`, `qo`, and `qxw` for each scenario.
-- **Oscillation Handling**: The program stops after 50 repeated oscillations, but this limit can be changed.  
-- **Simulation Time**: Each iteration takes anywhere from 1 minute to 1 hour, depending on the scenario.
+Open your terminal command,  
+```bash
+cd ...\3. runGTAP375\Game_theory_2024\1_Code
+```
+
+Install R packages (one-time setup)
+```bash
+Rscript -e "install.packages('devtools', repos='http://cran.us.r-project.org')"
+Rscript -e "devtools::install_git('https://github.com/USDA-ERS/MTED-HARr.git')"
+Rscript -e "install.packages(c('readxl','xlsx','rJava','dplyr','tidyr','writexl','rstudioapi'), repos='http://cran.us.r-project.org')"
+```
+
+Run the main script
+```bash
+Rscript 'CGE_Game_Theory_GTAPAEZ_all_V13.R'
+```
+This R script loops over four different scenarios to simulate a Computable General Equilibrium (CGE) model using GEMPACK.  
+This generates outputs such as `qoes`, `qo`, and `qxw` for each scenario.
+By default, it halts each scenario if there is no convergence (equilibrium) after **50 iterations**.
+
+FAQs:
+- How to Run a Single Scenario or a single parameter
+  - Find **lines 146** and **151** in the code (where `##scenario` appears).
+  - Comment out the scenarios you do **not** want to run, and uncomment the one you intend to run.
+  - Then execute the script (e.g., F5 in RStudio).
+
+- How to adjust the previously calcualted parameters from HILDA:
+  - You can adjust the following files, all located in the folder: ...\runGTAP375\Game_theory_2024\0_External_data\
+    - 'qoes_values.xlsx'  
+    - 'qxw_values.xlsx'  
+    - 'qo_values.xlsx'  
+    - 'tms_f_initial_shocks.xlsx'  
+    - 'Original_EV.xlsx'
+These contain parameter values for each scenario, including shocks, swap and initial equilibrium values.
+
+- How to adjust the Thresholds presented in the Table S6, Supplementary Information:
+    - Each scenario folder contains a file named `Thresholds_GTAPAEZ_Game_theory.xlsx`, corresponding to the threshold values mentioned in **Table S6** of the SI.
+    - You can find these files in: ...\runGTAP375\Game_theory_2024\0_External_data\Scenario_Folder
+    - Editing these thresholds in the Excel file will directly change the scenario’s behavior in the R script.
+
+- How to iterate over more than 50 iterations? For example if you n iterations, you need to adjust:
+- line 726 from "if (2<i && i<49){" to "if (2<i && i<n-1){"
+- line 739 from "if (i == 50)" to if "(i == n)"
+
+Remark: *Simulation Time**: Each iteration takes anywhere from 1 minute to 1 hour, depending on the scenario.
 
 ### 3.4 Consolidating Results
 - Simulation results are stored in the '4_DB' folder.
