@@ -109,13 +109,13 @@ This R script loops over four different scenarios to simulate a Computable Gener
 This generates outputs such as `qoes`, `qo`, and `qxw` for each scenario.
 By default, it halts each scenario if there is no convergence (equilibrium) after **50 iterations**.
 
-FAQs:
-- How to Run a Single Scenario or a single parameter
+**FAQs**:
+- **How to Run a Single Scenario or a single parameter**
   - Find **lines 146** and **151** in the code (where list_parameter <- c("qo","qoes","qxw") and list_approach <- c( "Diplomatic","Idealist","Realistic_wo_china","Realistic_wi_china") appear).
   - Remove the the parameters/approach you do **not** want to run.
   - Then execute the script (e.g., F5 in RStudio).
 
-- How to adjust the previously calcualted parameters from HILDA:
+- **How to adjust the previously calcualted parameters from HILDA**:
   - You can adjust the following files, all located in the folder: ...\runGTAP375\Game_theory_2024\0_External_data\ as these contain parameter values for each scenario, including shocks, swap.
     - 'qoes_values.xlsx'  
     - 'qxw_values.xlsx'  
@@ -124,16 +124,17 @@ FAQs:
   - To adjust the original EV form the baseline, you can use the following file: 
     - 'Original_EV.xlsx'
 
-- How to adjust the Thresholds presented in the Table S6, Supplementary Information:
+- **How to adjust the Thresholds presented in the Table S6, Supplementary Information**:
     - Each scenario folder contains a file named `Thresholds_GTAPAEZ_Game_theory.xlsx`, corresponding to the threshold values mentioned in **Table S6** of the SI.
     - You can find these files in: ...\runGTAP375\Game_theory_2024\0_External_data\Scenario_Folder
     - Editing these thresholds in the Excel file will directly change the scenario’s behavior in the R script.
 
-- How to iterate over more than 50 iterations? For example if you n iterations, you need to adjust:
-- line 726 from "if (2<i && i<49){" to "if (2<i && i<n-1){"
-- line 739 from "if (i == 50)" to if "(i == n)"
+- **How to iterate over more than 50 iterations?**
+  - For example if you n iterations, you need to adjust:
+    - line 726 from "if (2<i && i<49){" to "if (2<i && i<n-1){"
+    - line 739 from "if (i == 50)" to if "(i == n)"
 
-Remark: *Simulation Time**: Each iteration takes anywhere from 1 minute to 1 hour, depending on the scenario.
+*Remark: Simulation Time: Each iteration takes anywhere from 1 minute to 1 hour, depending on the scenario.*
 
 ### 3.4 Consolidating Results
 - Simulation results are stored in the '4_DB' folder.
