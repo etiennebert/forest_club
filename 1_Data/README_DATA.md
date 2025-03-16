@@ -59,28 +59,30 @@ Those databases are stored into the designated output folder (\1_Data\1. HILDA d
 - HILDA_V_2_1_State_data_Alteryx_DB_limited.yxdb (0.8 Go)
 - HILDA_V_2_1_State_Tagged_data_Alteryx_DB_centroid.yxdb (0.4 Go)
 
-Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
+Your HILDA+ data are now prepared to be merged with the FAO data (see Second Step below). 
 
-Nevertheless, the HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
-To facilitate this process, we detaill it below:
+#### 4. Splitting HILDA+ data per AgroEcologicalZone
+
+The HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
 
 Go to the folder: 
 1_Data\1. HILDA data\3. Split_AEZ
 The agroecological zone from the FAO website are stored in the folder: GAEZ_from_FAO_data  (cf. SI document for further information about them). 
 
 They have been prepared with ArcGIS and the shapes are stored in the database: A-4_aez_global_grid_polygons.yxdb
-(This can be controlled via Figure S4 in the same folder).
+(This can be controlled via the tableau Figure_S4.twb Figure S4 in the same folder).
 
 Then, run the following Alteryx file:
 ```bash
 B-1_Spatial-match_HILDA_AEZ.yxmd
 ```
+The script takes app. two hours to run, depending of the configuration of your laptop.
 
 These create the following databases:
-- C-2_HILDA_V_2_1_State_GTAP_AEZ_Centroid.yxdb
-- C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb
-- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb
-- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid.yxdb
+- C-2_HILDA_V_2_1_State_GTAP_AEZ_Centroid.yxdb (1.0 Go)
+- C-2_HILDA_V_2_1_State_GTAP_AEZ_limited.yxdb (300 Mo)
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_limited.yxdb (300 Mo)
+- C-2_HILDA_V_2_1_Transition_GTAP_AEZ_Centroid.yxdb (1.0 Go)
 
 The HILDA data are now prepared for the CGE part also.
 
