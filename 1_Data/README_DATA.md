@@ -54,8 +54,13 @@ Run:
 The script takes app. one and a half hours to run, depending of the configuration of your laptop.
 This produced four different yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
 Those databases are stored into the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
+- HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb (1.5 Go)
+- HILDA_V_2_1_Transition_data_Alteryx_DB_limited.yxdb  (0.5 Go)
+- HILDA_V_2_1_State_data_Alteryx_DB_limited.yxdb (0.5 Go)
+- HILDA_V_2_1_State_Tagged_data_Alteryx_DB_centroid.yxdb (1.5 Go)
 
 Your HILDA+ data are now prepared to be merged with the FAO data (see below). 
+
 Nevertheless, the HILDA data needs to be split per agroecological zone regarding the CGE modelling. 
 To facilitate this process, we detaill it below:
 
@@ -92,7 +97,14 @@ Run the following Alteryx scripts:
 ```bash
 A_FAO_annual_evolution_per_GLORIA_sector.yxmd
 ```
-This finishes preparing the forest area evolution per MRIO sector with a particular focus on the incremental positive changes.
+This finishes preparing the forest area evolution per GLORIA MRIO sector with a particular focus on the incremental positive changes.  
+The results are stored into the file: 'A-3_Output_FAO_annual_evolution_per_sector_October_2024_GLORIA.xlsx' with the different columns: 
+- A: Area Code (UN official M49 area code https://unstats.un.org/unsd/methodology/m49/)
+- B: Area Name
+- C: Year (all years between 2000 and 2020)
+- D: Simple Moving Average (SMA). See Suplementary Information for further information.
+- 
+
 
 ## Third step, preparing MRIO data
 In the same folder, 1. Data\2. FAO data
