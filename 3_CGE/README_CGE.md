@@ -116,13 +116,13 @@ FAQs:
   - Then execute the script (e.g., F5 in RStudio).
 
 - How to adjust the previously calcualted parameters from HILDA:
-  - You can adjust the following files, all located in the folder: ...\runGTAP375\Game_theory_2024\0_External_data\
+  - You can adjust the following files, all located in the folder: ...\runGTAP375\Game_theory_2024\0_External_data\ as these contain parameter values for each scenario, including shocks, swap.
     - 'qoes_values.xlsx'  
     - 'qxw_values.xlsx'  
     - 'qo_values.xlsx'  
-    - 'tms_f_initial_shocks.xlsx'  
+    - 'tms_f_initial_shocks.xlsx'
+  - To adjust the original EV form the baseline, you can use the following file: 
     - 'Original_EV.xlsx'
-These contain parameter values for each scenario, including shocks, swap and initial equilibrium values.
 
 - How to adjust the Thresholds presented in the Table S6, Supplementary Information:
     - Each scenario folder contains a file named `Thresholds_GTAPAEZ_Game_theory.xlsx`, corresponding to the threshold values mentioned in **Table S6** of the SI.
