@@ -51,7 +51,7 @@ Run:
 ```bash
 1_Country_mapping_HILDA-csv.yxmd
 ```
-The script takes app. one and a half hours to run, depending of the configuration of your laptop.
+The script takes app. two hours to run, depending of the configuration of your laptop.
 This produced four different yxdb databases (States and Transition, 2 with the geographical coordinates and 2 without). 
 Those databases are stored into the designated output folder (\1_Data\1. HILDA data\2. Aggregating_data).
 - HILDA_V_2_1_Transition_Tagged_data_Alteryx_DB_centroid.yxdb (2.6 Go)
