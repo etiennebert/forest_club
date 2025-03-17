@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15031422.svg)](https://doi.org/10.5281/zenodo.15031422)
 
-[![DOI](https://doi.org/10.21203/rs.3.rs-6159434/v1.svg)](https://doi.org/10.21203/rs.3.rs-6159434/v1)
+
 
 # A trade-based Forest Club as a path to halting Tropical deforestation – Code and data
 
@@ -16,6 +16,8 @@ Etienne Berthet<sup>1,2,3,*</sup>, Ilaria Fusacchia<sup>4</sup>, Alessandro Anti
 <sup>5</sup> Directorate-General for Trade, European Commission; Brussels, 1000, Belgium
 
 *Corresponding author: etber@mit.edu
+
+Preprint available: https://doi.org/10.21203/rs.3.rs-6159434/v1
 
 ---
 
